@@ -1,7 +1,3 @@
-layout: page
-title: "atomic"
-permalink: /calendars/atomic
-
 <head>
   <link rel="stylesheet" href="assets/style.css">
 </head>
