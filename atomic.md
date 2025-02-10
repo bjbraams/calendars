@@ -1,8 +1,5 @@
 <head>
   <link rel="stylesheet" href="assets/style.css">
-  body p {
-    margin: 30px 0px;
-  }
 </head>
 
 # Atomic Processes and Related Fields
