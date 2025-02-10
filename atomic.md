@@ -1,8 +1,5 @@
 <head>
   <link rel="stylesheet" href="assets/style.css">
-</head>
-
-<head>
   body p {
     margin: 30px 0px;
   }
