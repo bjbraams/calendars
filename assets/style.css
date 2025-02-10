@@ -1,7 +1,7 @@
 /* Testing */
 h2 {
-  color: green;
+  color: red;
 }
-p {
+body p {
   margin: 30px 0px;
 }
