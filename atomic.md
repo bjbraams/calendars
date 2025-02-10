@@ -22,16 +22,16 @@ Tut
 ## 2026
 Tut
 
-## 2027
+### 2027
 Tut
 
-# Other Meeting Lists and Calendars
+## Other Meeting Lists and Calendars
 Tut
 
-# Archives and Histories of Selected Serial Meetings
+## Archives and Histories of Selected Serial Meetings
 Tut
 
-# Past Meetings by Date
+## Past Meetings by Date
 
-## 2025
+### 2025
 Tut
