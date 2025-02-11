@@ -4,7 +4,7 @@
 
 # Hello again!
 
-[Atomic and Molecular Processes]([https://bjbraams.github.io/calendars/atomic).
+[Atomic and Molecular Processes](https://bjbraams.github.io/calendars/atomic).
 
 [Fusion Materials and Plasma-Material Interactions](https://bjbraams.github.io/calendars/plasmamaterial).
 
