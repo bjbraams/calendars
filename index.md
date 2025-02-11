@@ -4,18 +4,18 @@
 
 # Hello again!
 
-[Atomic and Molecular Processes](https://bjbraams.github.io/calendars/atomic)
+[Atomic and Molecular Processes]([https://bjbraams.github.io/calendars/atomic).
 
-<a href="https://bjbraams.github.io/calendars/plasmamaterial">Fusion Materials and Plasma-Material Interactions</a>
+[Fusion Materials and Plasma-Material Interactions](https://bjbraams.github.io/calendars/plasmamaterial).
 
-<a href="https://bjbraams.github.io/calendars/plasmafusion">Plasma Physics and Fusion Energy Science</a>
+[Plasma Physics and Fusion Energy Science](https://bjbraams.github.io/calendars/plasmamaterial).
 
-<a href="https://bjbraams.github.io/calendars/electronicstructure">Electronic Structure</a>
+[Nuclear Structure and Reactions](https://bjbraams.github.io/calendars/nuclear).
 
-<a href="https://bjbraams.github.io/calendars/quantumdynamics">Quantum Dynamics</a>
+[Electronic Structure](https://bjbraams.github.io/calendars/electronicstructure).
 
-<a href="https://bjbraams.github.io/calendars/quantumcomputing">Quantum Computing</a>
+[Quantum Dynamics](https://bjbraams.github.io/calendars/quantumdynamics).
 
-<a href="https://bjbraams.github.io/calendars/scientificdata">Scientific Data Analysis</a>
+[Quantum Computing](https://bjbraams.github.io/calendars/quantumcomputing).
 
-<a href="https://bjbraams.github.io/calendars/nuclear">Nuclear Structure and Reactions</a>
+[Scientific Data Analysis](https://bjbraams.github.io/calendars/scientificdata).
