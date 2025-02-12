@@ -2,7 +2,7 @@
   <link rel="stylesheet" href="assets/style.css">
 </head>
 
-# Hello again!
+## Hello again!
 
 [Plasma Physics and Fusion Energy Science](https://bjbraams.github.io/calendars/plasmafusion).
 
