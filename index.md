@@ -135,7 +135,25 @@ Tut
 
 ### Primarily Quantum Dynamics
 
-Tut
+High Dimensional Quantum Dynamics Workshop (HDQD).
+
+Dynamics Days Europe.
+
+International Symposium on Molecular Spectroscopy.
+
+International Conference on Advanced Vibrational Spectroscopy (ICAVS).
+
+European Congress on Molecular Spectroscopy (EUCMOS).
+
+International Conference on High-Resolution Molecular Spectroscopy ("PRAHA" series). (Forward to Historical.)
+
+Atoms, Molecules and Clusters in Motion (AMOC).
+
+Dynamics of Molecular Collisions (DMC).
+
+International Conference on Attosecond Science and Technology (ATTO)
+
+International Free Electron Laser Conference (FEL)
 
 ### Primarily Quantum Computing
 
