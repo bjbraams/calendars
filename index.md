@@ -27,6 +27,34 @@ Tut
 
 ## Archives and Histories of Selected Serial Meetings
 
+### Primarily Plasma Physics and Fusion Science
+
+IAEA Fusion Energy Conference (FEC).
+
+American Physical Society Division of Plasma Physics (APS-DPP) Upcoming and Past Meetings.
+
+European Physical Society Conference on Plasma Physics.
+
+Topical Conference on High Temperature Plasma Diagnostics (HTPD).
+
+ITPA Diagnostics Topical Group Meetings and Workshops. (ITER Sign-in required.)
+
+ITPA Scrape-Off-Layer and Divertor Topical Group Meetings and Workshops. (ITER Sign-in required.)
+
+### Primarily Low Temperature Plasma and Plasma Chemistry
+
+American Physical Society Annual Gaseous Electronics Conference (GEC).
+
+International Congress on Plasma Physics (ICPP).
+
+International Toki Conference on Plasma Physics.
+
+International Conference on Frontiers of Plasma Physics and Technology (FPPT).
+
+ICPIG
+
+Hakone
+
 ### Primarily Atomic and Molecular Physics and Plasma Chemistry
 
 International Conference on Atomic and Molecular Data and Their Applications (ICAMDATA) central web site.
@@ -48,8 +76,6 @@ International Colloquium on Atomic Physics and Oscillator Strengths for Astrophy
 International Workshop on Radiative Properties of Hot Dense Matter (RPHDM).
 
 American Physical Society Division of Atomic, Molecular, and Optical Physics (DAMOP) Annual Meetings.
-
-American Physical Society Annual Gaseous Electronics Conference (GEC).
 
 IUPAP C15-Recognized Meetings on Atomic, Molecular and Optical Physics.
 
@@ -99,25 +125,25 @@ International Conference on Radiation Effects in Insulators (REI).
 
 International Meeting on Recent Developments in the Study of Radiation Effects in Matter (REM).
 
-### Primarily Plasma Physics and Fusion Science
+### Primarily Nuclear Structure and Reactions
 
-IAEA Fusion Energy Conference (FEC).
+Tut
 
-American Physical Society Division of Plasma Physics (APS-DPP) Upcoming and Past Meetings.
+### Primarily Electronic Structure
 
-European Physical Society Conference on Plasma Physics.
+Tut
 
-Topical Conference on High Temperature Plasma Diagnostics (HTPD).
+### Primarily Quantum Dynamics
 
-ITPA Diagnostics Topical Group Meetings and Workshops. (ITER Sign-in required.)
+Tut
 
-ITPA Scrape-Off-Layer and Divertor Topical Group Meetings and Workshops. (ITER Sign-in required.)
+### Primarily Quantum Computing
 
-International Congress on Plasma Physics (ICPP).
+Tut
 
-International Toki Conference on Plasma Physics.
+### Primarily Scientific Data Analysis
 
-International Conference on Frontiers of Plasma Physics and Technology (FPPT).
+Tut
 
 ### Links most wanted still
 
