@@ -127,11 +127,35 @@ International Meeting on Recent Developments in the Study of Radiation Effects i
 
 ### Primarily Nuclear Structure and Reactions
 
-Tut
+International Conference on Nuclear Data for Science and Technology (ND).
+
+International (Varenna) Conference on Nuclear Reaction Mechanisms (NRM).
+
+International Seminar on Interaction of Neutrons with Nuclei (ISINN).
+
+European Nuclear Physics Conference.
+
+(North American) Nuclear Structure Conference.
+
+International Workshop on Nuclear Data Covariances.
+
+International Symposium on Capture Gamma-Ray Spectroscopy and Related Topics.
+
+International Workshop On Nuclear Data Evaluation for Reactor Applications (WONDER).
 
 ### Primarily Electronic Structure
 
-Tut
+International Congress of Quantum Chemistry (ICQC).
+
+Congress of the World Association of Theoretical and Computational Chemists (WATOC).
+
+Psi-k Conference.
+
+International Conference on Molecular Electronic Structure (MES).
+
+Asian Workshop on First-Principles Electronic Structure Calculations.
+
+Workshop on Recent Developments in Electronic Structure Methods.
 
 ### Primarily Quantum Dynamics
 
