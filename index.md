@@ -129,6 +129,8 @@ International Meeting on Recent Developments in the Study of Radiation Effects i
 
 International Conference on Nuclear Data for Science and Technology (ND).
 
+International Nuclear Physics Conference (INPC).
+
 International (Varenna) Conference on Nuclear Reaction Mechanisms (NRM).
 
 International Seminar on Interaction of Neutrons with Nuclei (ISINN).
@@ -137,7 +139,13 @@ European Nuclear Physics Conference.
 
 (North American) Nuclear Structure Conference.
 
+International Workshop on Compound-Nuclear Reactions and Related Topics (CNR)
+
 International Workshop on Nuclear Data Covariances.
+
+International Conference on Nuclear Structure and Dynamics (NSD).
+
+International Conference on Nuclear Theory in the Supercomputing Era (NTSE).
 
 International Symposium on Capture Gamma-Ray Spectroscopy and Related Topics.
 
