@@ -161,9 +161,17 @@ Psi-k Conference.
 
 International Conference on Molecular Electronic Structure (MES).
 
+Current Trends in Electronic-Structure Theory (CTEST).
+
 Asian Workshop on First-Principles Electronic Structure Calculations.
 
 Workshop on Recent Developments in Electronic Structure Methods.
+
+Numerical Methods in Quantum Chemistry Workshop.
+
+Molecular Quantum Mechanics Conference (MQM).
+
+New Challenges for Ab Initio Theory in Molecular Science.
 
 ### Primarily Quantum Dynamics
 
