@@ -35,7 +35,13 @@ American Physical Society Division of Plasma Physics (APS-DPP) Upcoming and Past
 
 European Physical Society Conference on Plasma Physics.
 
+Asia-Pacific Conference on Plasma Physics (AAPPS-DPP).
+
 Topical Conference on High Temperature Plasma Diagnostics (HTPD).
+
+European Conference on Plasma Diagnostics (ECPD).
+
+International Symposium on Laser-Aided Plasma Diagnostics (LAPD).
 
 ITPA Diagnostics Topical Group Meetings and Workshops. (ITER Sign-in required.)
 
@@ -56,6 +62,8 @@ International Conference on Phenomena in Ionized Gases (ICPIG).
 International Symposium on High Pressure Low Temperature Plasma Chemistry (HAKONE).
 
 International Conference on Reactive Plasmas (ICRP).
+
+International Symposium on Plasma Chemistry (ISPC).
 
 ### Primarily Atomic and Molecular Physics and Plasma Chemistry
 
