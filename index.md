@@ -51,9 +51,11 @@ International Toki Conference on Plasma Physics.
 
 International Conference on Frontiers of Plasma Physics and Technology (FPPT).
 
-ICPIG
+International Conference on Phenomena in Ionized Gases (ICPIG).
 
-Hakone
+International Symposium on High Pressure Low Temperature Plasma Chemistry (HAKONE).
+
+International Conference on Reactive Plasmas (ICRP).
 
 ### Primarily Atomic and Molecular Physics and Plasma Chemistry
 
