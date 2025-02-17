@@ -28,6 +28,8 @@
 
 [Upcoming Fusion and Plasma events](https://wiki.fusion.ciemat.es/wiki/FusionWiki:Current_events) at FusionWiki.
 
+[International Tokamak Physics Activity meetings](https://indico.iter.org/category/3/).
+
 [COMS Plasma and Gas-discharge Physics, Nuclear Fusion](https://conference-service.com/conferences/plasma-and-gas-discharge-physics.html).
 
 [COMS Atomic and Molecular Physics](https://conference-service.com/conferences/atomic-and-molecular-physics.html).
@@ -69,6 +71,12 @@
 [Conferences and Workshops of interest to DMV Fachgruppe Stochastik](http://www.fg-stochastik.de/konferenzen-und-workshops.html).
 
 [Upcoming events sponsored, co-sponsored, or endorsed by International Society for Bayesian Analysis](https://bayesian.org/events/upcoming-meetings/).
+
+[Meetings Calendar by Institute of Mathematical Statistics](https://imstat.org/meetings-calendar/).
+
+[List of Conferences and Summer Schools by Carl Mueller inProbability and Related Fields](https://people.math.rochester.edu/faculty/cmlr/advice/conferences/).
+
+[Calendar of Upcoming Conferences, Workshops, and Special Programs](http://womeninprobability.org/Calendar.html) by Women in Probability.
 
 
 ## Archives and Histories of Selected Serial Meetings
