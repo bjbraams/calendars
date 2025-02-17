@@ -95,8 +95,6 @@ International Workshop on Radiative Properties of Hot Dense Matter (RPHDM).
 
 American Physical Society Division of Atomic, Molecular, and Optical Physics (DAMOP) Annual Meetings.
 
-IUPAP C15-Recognized Meetings on Atomic, Molecular and Optical Physics.
-
 European Conference on Atoms, Molecules and Photons (ECAMP).
 
 European Group on Atomic Systems (EGAS) Conferences.
