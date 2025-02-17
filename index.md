@@ -62,6 +62,8 @@
 
 [Upcoming Meetings of potential interest to X-ray, gamma-ray, cosmic-ray, and gravitational astrophysicists](https://heasarc.gsfc.nasa.gov/docs/heasarc/meetings.html).
 
+[Quantum Conference list at Quantum Technology Lab](https://quantum.info/conf/).
+
 [Upcoming and past events calender at Quantiki](https://www.quantiki.org/calendar-node-field-dates).
 
 [Global Applied Probability Events Calendar](https://www.appliedprobability.org/events).
@@ -268,6 +270,10 @@ International Free Electron Laser Conference (FEL)
 ### Primarily Quantum Computing
 
 Quantum Information Processing Conference (QIP).
+
+Theory of Quantum Computation, Communication and Cryptography (TQC).
+
+Quantum Cryptography (QCrypt).
 
 International Conference on Quantum Communications, Networking, and Computing (QCNC).
 
