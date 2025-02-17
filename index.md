@@ -217,6 +217,8 @@ Quantum Information Processing Conference (QIP).
 
 International Conference on Quantum Communications, Networking, and Computing (QCNC).
 
+IEEE International Conference on Quantum Computing and Engineering (QCE).
+
 European Quantum Technology Conference.
 
 ### Primarily Scientific Data Analysis
