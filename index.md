@@ -30,6 +30,8 @@
 
 [International Tokamak Physics Activity meetings](https://indico.iter.org/category/3/).
 
+[Calendar of Events on Low Temperature Plasma](https://plasmas-froids.cnrs.fr/events/) from CNRS Réseau Plasma Froids.
+
 [COMS Plasma and Gas-discharge Physics, Nuclear Fusion](https://conference-service.com/conferences/plasma-and-gas-discharge-physics.html).
 
 [COMS Atomic and Molecular Physics](https://conference-service.com/conferences/atomic-and-molecular-physics.html).
@@ -41,8 +43,6 @@
 [COMS Particle Accelerators](https://conference-service.com/conferences/particle-accelerators.html).
 
 [COMS Probability and Statistics, Game Theory](https://conference-service.com/conferences/probability-and-statistics.html).
-
-[Calendar of Events on Low Temperature Plasma](https://plasmas-froids.cnrs.fr/events/) from CNRS Réseau Plasma Froids.
 
 [Conferences on Atomic and Plasma Physics](https://plasma-gate.weizmann.ac.il/directories/conferences/) from Plasma Laboratory at Weizmann Institute of Science.
 
@@ -74,7 +74,7 @@
 
 [Meetings Calendar by Institute of Mathematical Statistics](https://imstat.org/meetings-calendar/).
 
-[List of Conferences and Summer Schools by Carl Mueller inProbability and Related Fields](https://people.math.rochester.edu/faculty/cmlr/advice/conferences/).
+[List of Conferences and Summer Schools by Carl Mueller in Probability and Related Fields](https://people.math.rochester.edu/faculty/cmlr/advice/conferences/).
 
 [Calendar of Upcoming Conferences, Workshops, and Special Programs](http://womeninprobability.org/Calendar.html) by Women in Probability.
 
