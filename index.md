@@ -27,7 +27,7 @@ Tut
 
 ## Archives and Histories of Selected Serial Meetings
 
-### Primarily Plasma Physics and Fusion Science
+### Primarily High Temperature Plasma and Fusion Science
 
 IAEA Fusion Energy Conference (FEC).
 
@@ -65,7 +65,7 @@ International Conference on Reactive Plasmas (ICRP).
 
 International Symposium on Plasma Chemistry (ISPC).
 
-### Primarily Atomic and Molecular Physics and Plasma Chemistry
+### Primarily Atomic and Molecular Physics
 
 International Conference on Atomic and Molecular Data and Their Applications (ICAMDATA) central web site.
 
