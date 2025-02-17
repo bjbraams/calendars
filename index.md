@@ -213,7 +213,11 @@ International Free Electron Laser Conference (FEL)
 
 ### Primarily Quantum Computing
 
-Tut
+Quantum Information Processing Conference (QIP).
+
+International Conference on Quantum Communications, Networking, and Computing (QCNC).
+
+European Quantum Technology Conference.
 
 ### Primarily Scientific Data Analysis
 
