@@ -37,6 +37,10 @@ European Physical Society Conference on Plasma Physics.
 
 Asia-Pacific Conference on Plasma Physics (AAPPS-DPP).
 
+International Conference on Inertial Fusion Sciences and Applications (IFSA).
+
+Latin American Workshop on Plasma Physics (LAWPP).
+
 Topical Conference on High Temperature Plasma Diagnostics (HTPD).
 
 European Conference on Plasma Diagnostics (ECPD).
@@ -53,6 +57,8 @@ American Physical Society Annual Gaseous Electronics Conference (GEC).
 
 International Congress on Plasma Physics (ICPP).
 
+IEEE International Conference on Plasma Science (ICOPS)
+
 International Toki Conference on Plasma Physics.
 
 International Conference on Frontiers of Plasma Physics and Technology (FPPT).
@@ -64,6 +70,8 @@ International Symposium on High Pressure Low Temperature Plasma Chemistry (HAKON
 International Conference on Reactive Plasmas (ICRP).
 
 International Symposium on Plasma Chemistry (ISPC).
+
+International Conference on Gas Discharges and their Applications (GD).
 
 ### Primarily Atomic and Molecular Physics
 
