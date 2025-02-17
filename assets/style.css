@@ -1,7 +1,7 @@
 /* Testing */
 h1, h2, h3 {
   color: green;
-  background-color: black;
+  background-color: black !important;
 }
 p {
   margin: 2px 0px !important; /* force override default settings */
