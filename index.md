@@ -75,17 +75,17 @@ International Conference on Gas Discharges and their Applications (GD).
 
 ### Primarily Atomic and Molecular Physics
 
-International Conference on Atomic and Molecular Data and Their Applications (ICAMDATA) central web site.
-
 International Conference on Photonic, Electronic and Atomic Collisions (ICPEAC) central website.
 
-Atomic Data and Analysis Structure (ADAS) Workshops.
+European Conference on Atoms, Molecules and Photons (ECAMP).
+
+European Group on Atomic Systems (EGAS) Conferences.
+
+Europhysics Conference on Atomic and Molecular Physics of Ionized Gases (ESCAMPIG).
 
 Atomic Processes in Plasmas (APiP) Conferences.
 
-Non-local Thermodynamic Equilibrium (NLTE) Code Comparison Workshop.
-
-Spectral Line Shapes in Plasmas (SLSP) Code Comparison Workshop.
+International Conference on Atomic and Molecular Data and Their Applications (ICAMDATA).
 
 International Conference on the Physics of Highly Charged Ions (HCI).
 
@@ -93,13 +93,13 @@ International Colloquium on Atomic Physics and Oscillator Strengths for Astrophy
 
 International Workshop on Radiative Properties of Hot Dense Matter (RPHDM).
 
+Atomic Data and Analysis Structure (ADAS) Workshops.
+
+Non-local Thermodynamic Equilibrium (NLTE) Code Comparison Workshop.
+
+Spectral Line Shapes in Plasmas (SLSP) Code Comparison Workshop.
+
 American Physical Society Division of Atomic, Molecular, and Optical Physics (DAMOP) Annual Meetings.
-
-European Conference on Atoms, Molecules and Photons (ECAMP).
-
-European Group on Atomic Systems (EGAS) Conferences.
-
-Europhysics Conference on Atomic and Molecular Physics of Ionized Gases (ESCAMPIG).
 
 International Conference on Atomic Physics (ICAP).
 
