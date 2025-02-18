@@ -281,6 +281,8 @@ IEEE International Conference on Quantum Computing and Engineering (QCE).
 
 European Quantum Technology Conference.
 
+Asian Quantum Information Science Conference (AQIS).
+
 ### Primarily Scientific Data Analysis
 
 Tut
