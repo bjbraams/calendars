@@ -4,19 +4,19 @@
 
 ## Hello again!
 
-[Plasma Physics and Fusion Energy Science](https://bjbraams.github.io/calendars/plasmafusion).
+[High Temperature Plasma and Fusion Energy Science](https://bjbraams.github.io/calendars/plasmafusion).
 
 [Low Temperature Plasma and Plasma Chemistry](https://bjbraams.github.io/calendars/plasmachemistry).
 
 [Fusion Materials and Plasma-Material Interactions](https://bjbraams.github.io/calendars/plasmamaterial).
 
-[Atomic and Molecular Processes](https://bjbraams.github.io/calendars/atomic).
+[Atomic and Molecular Processes in Plasmas](https://bjbraams.github.io/calendars/atomic).
 
 [Nuclear Structure and Reactions](https://bjbraams.github.io/calendars/nuclear).
 
-[Electronic Structure](https://bjbraams.github.io/calendars/electronicstructure).
+[Electronic Structure Theory](https://bjbraams.github.io/calendars/electronicstructure).
 
-[Quantum Dynamics](https://bjbraams.github.io/calendars/quantumdynamics).
+[Molecular Structure and Quantum Dynamics](https://bjbraams.github.io/calendars/quantumdynamics).
 
 [Quantum Computing](https://bjbraams.github.io/calendars/quantumcomputing).
 
@@ -83,7 +83,7 @@
 
 ## Archives and Histories of Selected Serial Meetings
 
-### Primarily High Temperature Plasma and Fusion Science
+### Primarily High Temperature Plasma and Fusion Energy Science
 
 IAEA Fusion Energy Conference (FEC).
 
@@ -129,7 +129,7 @@ International Symposium on Plasma Chemistry (ISPC).
 
 International Conference on Gas Discharges and their Applications (GD).
 
-### Primarily Atomic and Molecular Physics
+### Primarily Atomic and Molecular Processes in Plasmas
 
 International Conference on Photonic, Electronic and Atomic Collisions (ICPEAC) central website.
 
@@ -223,7 +223,7 @@ International Symposium on Capture Gamma-Ray Spectroscopy and Related Topics.
 
 International Workshop On Nuclear Data Evaluation for Reactor Applications (WONDER).
 
-### Primarily Electronic Structure
+### Primarily Electronic Structure Theory
 
 International Congress of Quantum Chemistry (ICQC).
 
@@ -245,7 +245,7 @@ Molecular Quantum Mechanics Conference (MQM).
 
 New Challenges for Ab Initio Theory in Molecular Science.
 
-### Primarily Quantum Dynamics
+### Primarily Molecular Structure and Quantum Dynamics
 
 High Dimensional Quantum Dynamics Workshop (HDQD).
 
