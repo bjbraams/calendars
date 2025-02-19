@@ -3,5 +3,6 @@ h1, h2, h3 {
   color: green;
 }
 p {
+  line-height: 0.7;
   margin: 2px 0px !important; /* force override default settings */
 }
