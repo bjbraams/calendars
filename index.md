@@ -85,15 +85,17 @@
 
 ### Primarily High Temperature Plasma and Fusion Energy Science
 
-IAEA Fusion Energy Conference (FEC).
+[IAEA Fusion Energy Conference (FEC)](https://nucleus.iaea.org/sites/fusionportal/Pages/fec-landing.aspx). See [also](https://wiki.fusion.ciemat.es/wiki/IAEA_Fusion_Energy_Conference).
 
-American Physical Society Division of Plasma Physics (APS-DPP) Upcoming and Past Meetings.
+[American Physical Society Division of Plasma Physics (APS-DPP) Meetings Archive](https://engage.aps.org/dpp/meetings/archives).
 
 European Physical Society Conference on Plasma Physics.
 
 Asia-Pacific Conference on Plasma Physics (AAPPS-DPP).
 
 International Conference on Inertial Fusion Sciences and Applications (IFSA).
+
+[International Toki Conference (ITC)](https://www.nifs.ac.jp/en/itc/).
 
 Latin American Workshop on Plasma Physics (LAWPP).
 
