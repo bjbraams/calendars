@@ -137,7 +137,7 @@ International Conference on Gas Discharges and their Applications (GD).
 
 European Conference on Atoms, Molecules and Photons (ECAMP).
 
-European Group on Atomic Systems (EGAS) Conferences.
+[European Group on Atomic Systems (EGAS)](https://www.eps-egas.org/).
 
 Europhysics Conference on Atomic and Molecular Physics of Ionized Gases (ESCAMPIG).
 
