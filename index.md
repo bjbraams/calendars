@@ -201,7 +201,7 @@ International Meeting on Recent Developments in the Study of Radiation Effects i
 
 ### Primarily Nuclear Structure and Reactions
 
-International Conference on Nuclear Data for Science and Technology (ND).
+[International Conference on Nuclear Data for Science and Technology (ND)](https://www.oecd-nea.org/jcms/pl_40099/international-conference-on-nuclear-data-for-science-and-technology).
 
 International Nuclear Physics Conference (INPC).
 
@@ -227,11 +227,11 @@ International Workshop On Nuclear Data Evaluation for Reactor Applications (WOND
 
 ### Primarily Electronic Structure Theory
 
-International Congress of Quantum Chemistry (ICQC).
+[International Congress of Quantum Chemistry (ICQC)](https://www.iaqms.org/congress.php).
 
-Congress of the World Association of Theoretical and Computational Chemists (WATOC).
+[Congress of the World Association of Theoretical and Computational Chemists (WATOC)](https://watoc.net/watoc.congress.html).
 
-Psi-k Conference.
+[Psi-k Conference](https://psi-k.net/conference/).
 
 International Conference on Molecular Electronic Structure (MES).
 
@@ -239,17 +239,17 @@ Current Trends in Electronic-Structure Theory (CTEST).
 
 Asian Workshop on First-Principles Electronic Structure Calculations.
 
-Workshop on Recent Developments in Electronic Structure Methods.
+[Workshop on Recent Developments in Electronic Structure Methods](http://mcc.illinois.edu/workshops/electronicstructure/).
 
 Numerical Methods in Quantum Chemistry Workshop.
 
-Molecular Quantum Mechanics Conference (MQM).
+[Molecular Quantum Mechanics Conference (MQM)](https://www.mqm2022.org/history/). (To 2022.)
 
 New Challenges for Ab Initio Theory in Molecular Science.
 
 ### Primarily Molecular Structure and Quantum Dynamics
 
-High Dimensional Quantum Dynamics Workshop (HDQD).
+[High Dimensional Quantum Dynamics Workshop (HDQD)](https://qdn.cnrs.fr/?page_id=44).
 
 Dynamics Days Europe.
 
@@ -271,11 +271,11 @@ International Free Electron Laser Conference (FEL)
 
 ### Primarily Quantum Computing
 
-Quantum Information Processing Conference (QIP).
+[Quantum Information Processing Conference (QIP)](https://qipconference.org/previousqips).
 
-Theory of Quantum Computation, Communication and Cryptography (TQC).
+[Theory of Quantum Computation, Communication and Cryptography (TQC)](https://tqc-conference.org/tqc-charter/).
 
-Quantum Cryptography (QCrypt).
+[Quantum Cryptography (QCrypt)](https://qcrypt.net/2025/history/). (To 2025.)
 
 International Conference on Quantum Communications, Networking, and Computing (QCNC).
 
