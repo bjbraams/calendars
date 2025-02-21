@@ -99,6 +99,8 @@ International Conference on Inertial Fusion Sciences and Applications (IFSA).
 
 Latin American Workshop on Plasma Physics (LAWPP).
 
+[International Stellarator-Heliotron Workshop (ISHW)](https://www.ipp.mpg.de/4022808/ISHW).
+
 Topical Conference on High Temperature Plasma Diagnostics (HTPD).
 
 [European Conference on Plasma Diagnostics (ECPD)](https://wiki.fusion.ciemat.es/wiki/European_Conference_on_Plasma_Diagnostics).
