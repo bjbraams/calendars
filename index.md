@@ -85,11 +85,11 @@
 
 ### Primarily High Temperature Plasma and Fusion Energy Science
 
-[IAEA Fusion Energy Conference (FEC)](https://nucleus.iaea.org/sites/fusionportal/Pages/fec-landing.aspx). See [also](https://wiki.fusion.ciemat.es/wiki/IAEA_Fusion_Energy_Conference).
+[IAEA Fusion Energy Conference (FEC)](https://nucleus.iaea.org/sites/fusionportal/Pages/fec-landing.aspx). See [Also](https://wiki.fusion.ciemat.es/wiki/IAEA_Fusion_Energy_Conference).
 
 [American Physical Society Division of Plasma Physics (APS-DPP) Meetings Archive](https://engage.aps.org/dpp/meetings/archives).
 
-European Physical Society Conference on Plasma Physics.
+[European Physical Society Conference on Plasma Physics](https://wiki.fusion.ciemat.es/wiki/European_Physical_Society_Conference_on_Plasma_Physics). See [Also](https://lac913.epfl.ch/epsppd3/).
 
 Asia-Pacific Conference on Plasma Physics (AAPPS-DPP).
 
@@ -101,7 +101,7 @@ Latin American Workshop on Plasma Physics (LAWPP).
 
 Topical Conference on High Temperature Plasma Diagnostics (HTPD).
 
-European Conference on Plasma Diagnostics (ECPD).
+[European Conference on Plasma Diagnostics (ECPD)](https://wiki.fusion.ciemat.es/wiki/European_Conference_on_Plasma_Diagnostics).
 
 International Symposium on Laser-Aided Plasma Diagnostics (LAPD).
 
@@ -133,7 +133,7 @@ International Conference on Gas Discharges and their Applications (GD).
 
 ### Primarily Atomic and Molecular Processes in Plasmas
 
-International Conference on Photonic, Electronic and Atomic Collisions (ICPEAC) central website.
+[International Conference on Photonic, Electronic and Atomic Collisions (ICPEAC) central website](https://www.ucd.ie/icpeac/).
 
 European Conference on Atoms, Molecules and Photons (ECAMP).
 
