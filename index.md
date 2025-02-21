@@ -185,7 +185,7 @@ International Conference on Fusion Reactor Materials (ICFRM).
 
 International Symposium on Fusion Nuclear Technology (ISFNT).
 
-International Conference on Computer Simulation of Radiation Effects in Solids (COSIRES).
+[International Conference on Computer Simulation of Radiation Effects in Solids (COSIRES)](https://sites.google.com/view/cosires2024/about/history).
 
 International Workshop on Inelastic Ion Surface Collisions (IISC).
 
