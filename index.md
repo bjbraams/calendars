@@ -8,9 +8,9 @@
 
 [Low Temperature Plasma and Plasma Chemistry](https://bjbraams.github.io/calendars/plasmachemistry).
 
-[Fusion Materials and Plasma-Material Interactions](https://bjbraams.github.io/calendars/plasmamaterial).
-
 [Atomic and Molecular Processes in Plasmas](https://bjbraams.github.io/calendars/atomic).
+
+[Fusion Materials and Plasma-Material Interactions](https://bjbraams.github.io/calendars/plasmamaterial).
 
 [Nuclear Structure and Reactions](https://bjbraams.github.io/calendars/nuclear).
 
