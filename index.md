@@ -225,7 +225,7 @@ International Conference on Nuclear Theory in the Supercomputing Era (NTSE).
 
 International Symposium on Capture Gamma-Ray Spectroscopy and Related Topics.
 
-International Workshop On Nuclear Data Evaluation for Reactor Applications (WONDER).
+[International Workshop On Nuclear Data Evaluation for Reactor Applications (WONDER)](https://www.epj-conferences.org/wonder).
 
 ### Primarily Electronic Structure Theory
 
