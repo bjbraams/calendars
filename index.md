@@ -189,17 +189,17 @@ International Symposium on Fusion Nuclear Technology (ISFNT).
 
 [International Conference on Computer Simulation of Radiation Effects in Solids (COSIRES)](https://sites.google.com/view/cosires2024/about/history).
 
-International Workshop on Inelastic Ion Surface Collisions (IISC).
+[International Workshop on Inelastic Ion Surface Collisions (IISC)](https://scienceweb.clemson.edu/iisc24/iisc-history/). (Through 2023.)
 
-ANS Topical Meetings on Technology of Fusion Energy (TOFE).
+[ANS Topical Meetings on Technology of Fusion Energy (TOFE)](https://fed.ans.org/links/tofe/).
 
-Symposium on Fusion Technology (SOFT).
+[Symposium on Fusion Technology (SOFT)](https://wiki.fusion.ciemat.es/wiki/Symposium_on_Fusion_Technology).
 
-Symposium on Fusion Engineering (SOFE).
+[Symposium on Fusion Engineering (SOFE)](https://wiki.fusion.ciemat.es/wiki/Symposium_On_Fusion_Engineering).
 
-International Conference on Radiation Effects in Insulators (REI).
+[International Conference on Radiation Effects in Insulators (REI)](https://en.wikipedia.org/wiki/International_Conference_on_Radiation_Effects_in_Insulators).
 
-International Meeting on Recent Developments in the Study of Radiation Effects in Matter (REM).
+[International Meeting on Recent Developments in the Study of Radiation Effects in Matter (REM)](https://www.uknibc.co.uk/REM11/history.php). (Through 2020.)
 
 ### Primarily Nuclear Structure and Reactions
 
