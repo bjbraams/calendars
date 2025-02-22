@@ -153,7 +153,7 @@ International Colloquium on Atomic Physics and Oscillator Strengths for Astrophy
 
 International Workshop on Radiative Properties of Hot Dense Matter (RPHDM).
 
-Atomic Data and Analysis Structure (ADAS) Workshops.
+[Atomic Data and Analysis Structure (ADAS) Workshops](https://www.adas.ac.uk/workshops.php).
 
 Non-local Thermodynamic Equilibrium (NLTE) Code Comparison Workshop.
 
