@@ -112,11 +112,11 @@ ITPA Scrape-Off-Layer and Divertor Topical Group Meetings and Workshops. (ITER S
 
 ### Primarily Low Temperature Plasma and Plasma Chemistry
 
-American Physical Society Annual Gaseous Electronics Conference (GEC).
+[American Physical Society Annual Gaseous Electronics Conference (GEC)](https://www.apsgec.org/).
 
-International Congress on Plasma Physics (ICPP).
+[International Congress on Plasma Physics (ICPP)](https://wiki.fusion.ciemat.es/wiki/International_Congress_on_Plasma_Physics).
 
-IEEE International Conference on Plasma Science (ICOPS)
+[IEEE International Conference on Plasma Science (ICOPS)](https://ieeexplore.ieee.org/xpl/conhome/1000568/all-proceedings).
 
 International Toki Conference on Plasma Physics.
 
