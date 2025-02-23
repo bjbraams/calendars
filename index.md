@@ -155,27 +155,27 @@ International Workshop on Radiative Properties of Hot Dense Matter (RPHDM).
 
 [Atomic Data and Analysis Structure (ADAS) Workshops](https://www.adas.ac.uk/workshops.php).
 
-Non-local Thermodynamic Equilibrium (NLTE) Code Comparison Workshop.
+[Non-local Thermodynamic Equilibrium (NLTE) Code Comparison Workshop](https://nlte.nist.gov/).
 
-Spectral Line Shapes in Plasmas (SLSP) Code Comparison Workshop.
+[Spectral Line Shapes in Plasmas (SLSP) Code Comparison Workshop](https://plasma-gate.weizmann.ac.il/slsp/).
 
-American Physical Society Division of Atomic, Molecular, and Optical Physics (DAMOP) Annual Meetings.
+[American Physical Society Division of Atomic, Molecular, and Optical Physics (DAMOP) Annual Meetings](https://engage.aps.org/damop/meetings/past-meetings).
 
-International Conference on Atomic Physics (ICAP).
+[International Conference on Atomic Physics (ICAP)](https://icap28.com/previous-icaps/). (Through 2024.)
 
-International Conference on Precision Physics of Simple Atomic Systems (PSAS).
+[International Conference on Precision Physics of Simple Atomic Systems (PSAS)](https://indico.cern.ch/event/1329533/page/31462-previous-editions). (Through 2024.)
 
-International Symposium on Atomic Cluster Collisions (ISACC).
+[International Symposium on Atomic Cluster Collisions (ISACC)](https://www.isacc-portal.org/prev). (Through 2025.)
 
-International Symposium on Plasma Chemistry (ISPC).
+[International Symposium on Plasma Chemistry (ISPC)](https://www.ispc-conference.org/index.php/proceedings).
 
-International Conference on High-Resolution Molecular Spectroscopy.
+[International Conference on High-Resolution Molecular Spectroscopy](https://web.archive.org/web/20230308033707/http://www.chem.uni-wuppertal.de/conference/). (Through 2022.)
 
-International Symposium on Molecular Spectroscopy.
+[International Symposium on Molecular Spectroscopy](https://isms.illinois.edu/Archive.php).
 
-International Symposium on Free Radicals.
+[International Symposium on Free Radicals](https://www.thefrs.org/about-frs).
 
-Dynamics of Molecular Collisions (DMC).
+[Dynamics of Molecular Collisions (DMC)](https://sites.mst.edu/28th-dmc/about/). (Through 2023.)
 
 ### Primarily Fusion Materials and Plasma-Material Interaction
 
