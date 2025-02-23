@@ -80,7 +80,6 @@
 
 [Calendar of Upcoming Conferences, Workshops, and Special Programs](http://womeninprobability.org/Calendar.html) by Women in Probability.
 
-
 ## Archives and Histories of Selected Serial Meetings
 
 ### Primarily High Temperature Plasma and Fusion Energy Science
@@ -175,8 +174,6 @@ International Workshop on Radiative Properties of Hot Dense Matter (RPHDM).
 
 [International Symposium on Free Radicals](https://www.thefrs.org/about-frs).
 
-[Dynamics of Molecular Collisions (DMC)](https://sites.mst.edu/28th-dmc/about/). (Through 2023.)
-
 ### Primarily Fusion Materials and Plasma-Material Interaction
 
 International Conference on Plasma-Surface Interactions in Controlled Fusion Devices (PSI).
@@ -265,11 +262,11 @@ International Conference on High-Resolution Molecular Spectroscopy ("PRAHA" seri
 
 Atoms, Molecules and Clusters in Motion (AMOC).
 
-Dynamics of Molecular Collisions (DMC).
+[Dynamics of Molecular Collisions (DMC)](https://sites.mst.edu/28th-dmc/about/). (Through 2023.)
 
-International Conference on Attosecond Science and Technology (ATTO)
+International Conference on Attosecond Science and Technology (ATTO).
 
-International Free Electron Laser Conference (FEL)
+International Free Electron Laser Conference (FEL).
 
 ### Primarily Quantum Computing
 
