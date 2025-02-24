@@ -168,10 +168,6 @@ International Workshop on Radiative Properties of Hot Dense Matter (RPHDM).
 
 [International Symposium on Plasma Chemistry (ISPC)](https://www.ispc-conference.org/index.php/proceedings).
 
-[International Conference on High-Resolution Molecular Spectroscopy](https://web.archive.org/web/20230308033707/http://www.chem.uni-wuppertal.de/conference/). (Through 2022.)
-
-[International Symposium on Molecular Spectroscopy](https://isms.illinois.edu/Archive.php).
-
 [International Symposium on Free Radicals](https://www.thefrs.org/about-frs).
 
 ### Primarily Fusion Materials and Plasma-Material Interaction
@@ -252,15 +248,15 @@ New Challenges for Ab Initio Theory in Molecular Science.
 
 Dynamics Days Europe.
 
-International Symposium on Molecular Spectroscopy.
+[International Symposium on Molecular Spectroscopy](https://isms.illinois.edu/Archive.php).
 
-International Conference on Advanced Vibrational Spectroscopy (ICAVS).
+[International Conference on Advanced Vibrational Spectroscopy (ICAVS)](https://icavs.org/about-icavs/history-of-icavs).
 
-European Congress on Molecular Spectroscopy (EUCMOS).
+[European Congress on Molecular Spectroscopy (EUCMOS)](https://eucmos2025.uwr.edu.pl/en/strona-glowna2-2/history/). (Through 2025.)
 
-International Conference on High-Resolution Molecular Spectroscopy ("PRAHA" series). (Forward to Historical.)
+[International Conference on High-Resolution Molecular Spectroscopy](https://web.archive.org/web/20230308033707/http://www.chem.uni-wuppertal.de/conference/). (Through 2022.)
 
-Atoms, Molecules and Clusters in Motion (AMOC).
+[Atoms, Molecules and Clusters in Motion (AMOC)](https://amoc2024.sciencesconf.org/). (Through 2024.)
 
 [Dynamics of Molecular Collisions (DMC)](https://sites.mst.edu/28th-dmc/about/). (Through 2023.)
 
