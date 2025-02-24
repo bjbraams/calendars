@@ -278,11 +278,11 @@ International Free Electron Laser Conference (FEL).
 
 International Conference on Quantum Communications, Networking, and Computing (QCNC).
 
-IEEE International Conference on Quantum Computing and Engineering (QCE).
+[IEEE International Conference on Quantum Computing and Engineering (QCE)](https://qce.quantum.ieee.org/). (Under the Archive tab.)
 
-European Quantum Technology Conference.
+[European Quantum Technology Conference](https://qt.eu/working-groups/european-quantum-technology-conference).
 
-Asian Quantum Information Science Conference (AQIS).
+[Asian Quantum Information Science Conference (AQIS)](http://aqis-conf.org/). (Under the Previous Editions tab.)
 
 ### Primarily Scientific Data Analysis
 
