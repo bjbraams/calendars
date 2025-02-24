@@ -242,7 +242,7 @@ Asian Workshop on First-Principles Electronic Structure Calculations.
 
 Numerical Methods in Quantum Chemistry Workshop.
 
-[Molecular Quantum Mechanics Conference (MQM)](https://www.mqm2022.org/history/). (To 2022.)
+[Molecular Quantum Mechanics Conference (MQM)](https://www.mqm2022.org/history/). (Through 2022.)
 
 New Challenges for Ab Initio Theory in Molecular Science.
 
@@ -274,7 +274,7 @@ International Free Electron Laser Conference (FEL).
 
 [Theory of Quantum Computation, Communication and Cryptography (TQC)](https://tqc-conference.org/tqc-charter/).
 
-[Quantum Cryptography (QCrypt)](https://qcrypt.net/2025/history/). (To 2025.)
+[Quantum Cryptography (QCrypt)](https://qcrypt.net/2025/history/). (Through 2025.)
 
 International Conference on Quantum Communications, Networking, and Computing (QCNC).
 
