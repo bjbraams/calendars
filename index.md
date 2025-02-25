@@ -2,22 +2,6 @@
   <link rel="stylesheet" href="assets/style.css">
 </head>
 
-## Table of Contents
-
-  - [Work in Progress](#work-in-progress)
-  - [Other Meeting Lists and Calendars](#other-meeting-lists-and-calendars)
-  - [Archives and Histories of Selected Serial Meetings](#archives-and-histories-of-selected-serial-meetings)
-    - [Primarily High Temperature Plasma and Fusion Energy Science](#primarily-high-temperature-plasma-and-fusion-energy-science)
-    - [Primarily Low Temperature Plasma and Plasma Chemistry](#primarily-low-temperature-plasma-and-plasma-chemistry)
-    - [Primarily Atomic and Molecular Processes in Plasmas](#primarily-atomic-and-molecular-processes-in-plasmas)
-    - [Primarily Fusion Materials and Plasma-Material Interaction](#primarily-fusion-materials-and-plasma-material-interaction)
-    - [Primarily Nuclear Structure and Reactions](#primarily-nuclear-structure-and-reactions)
-    - [Primarily Electronic Structure Theory](#primarily-electronic-structure-theory)
-    - [Primarily Molecular Structure and Quantum Dynamics](#primarily-molecular-structure-and-quantum-dynamics)
-    - [Primarily Quantum Computing](#primarily-quantum-computing)
-    - [Primarily Scientific Data Analysis](#primarily-scientific-data-analysis)
-    - [Links most wanted still](#links-most-wanted-still)
-
 ## Work in Progress
 
 [High Temperature Plasma and Fusion Energy Science](https://bjbraams.github.io/calendars/plasmafusion).
