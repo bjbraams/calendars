@@ -228,11 +228,11 @@ International Symposium on Capture Gamma-Ray Spectroscopy and Related Topics.
 
 [Psi-k Conference](https://psi-k.net/conference/).
 
-International Conference on Molecular Electronic Structure (MES).
+[International Conference on Molecular Electronic Structure (MES)](https://www.mes2024.it/). (Through 2024 and very brief.)
 
-Current Trends in Electronic-Structure Theory (CTEST).
+[Asian Workshop on First-Principles Electronic Structure Calculations](https://sites.google.com/view/asian-25/history). (Through 2024.)
 
-Asian Workshop on First-Principles Electronic Structure Calculations.
+[European Seminar on Computational Methods in Quantum Chemistry (Strasbourg Seminar)](https://www.escmqc2024.com/history). (Through 2024.)
 
 [Workshop on Recent Developments in Electronic Structure Methods](http://mcc.illinois.edu/workshops/electronicstructure/).
 
