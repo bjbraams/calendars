@@ -212,11 +212,11 @@ International Symposium on Fusion Nuclear Technology (ISFNT).
 
 International Workshop on Nuclear Data Covariances.
 
-International Conference on Nuclear Structure and Dynamics (NSD).
+[International Conference on Nuclear Structure and Dynamics (NSD)](https://indico.ific.uv.es/event/7332/overview). (Through 2024, enumeration only.)
 
-International Conference on Nuclear Theory in the Supercomputing Era (NTSE).
+[International Conference on Nuclear Theory in the Supercomputing Era (NTSE)](https://ntse.khb.ru/).
 
-International Symposium on Capture Gamma-Ray Spectroscopy and Related Topics.
+[International Symposium on Capture Gamma-Ray Spectroscopy and Related Topics](https://www.ill.eu/fileadmin/user_upload/ILL/2_News_Press_Events/Forthcoming-events/2023/CGS17/OfflineWebsite-CGS17/page--80-history.html). (Through 2023.) See [also](https://inspirehep.net/conferences?sort=dateasc&size=25&page=1&start_date=all&q=series.name%3A%22CGS%22).
 
 [International Workshop On Nuclear Data Evaluation for Reactor Applications (WONDER)](https://www.epj-conferences.org/wonder).
 
