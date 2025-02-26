@@ -198,13 +198,13 @@ International Symposium on Fusion Nuclear Technology (ISFNT).
 
 [International Conference on Nuclear Data for Science and Technology (ND)](https://www.oecd-nea.org/jcms/pl_40099/international-conference-on-nuclear-data-for-science-and-technology).
 
-International Nuclear Physics Conference (INPC).
+[International Nuclear Physics Conference (INPC)](https://inspirehep.net/conferences?sort=dateasc&size=25&page=1&start_date=all&q=series.name%3A%22INPC%22).
 
 [International (Varenna) Conference on Nuclear Reaction Mechanisms (NRM)](https://www.icpc.it/category/nuclear-reaction-mechanisms/). (Partial archive.)
 
-International Seminar on Interaction of Neutrons with Nuclei (ISINN).
+[International Seminar on Interaction of Neutrons with Nuclei (ISINN)](http://isinn.jinr.ru/past-isinns.html).
 
-European Nuclear Physics Conference.
+[European Nuclear Physics Conference (EuNPC)](https://www.eps.org/members/group_content_view.asp?group=85199&id=485799) and [here](https://indico.in2p3.fr/event/30430/page/3472-previous-editions).
 
 (North American) Nuclear Structure Conference.
 
