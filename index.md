@@ -284,6 +284,8 @@ International Conference on Quantum Communications, Networking, and Computing (Q
 
 Tut
 
+[International Workshop on Statistical Modelling](http://www.statmod.org/workshops.htm).
+
 ### Links most wanted still
 
 Public links to relevant EFDA (Eurofusion) and ITPA meetings. 
