@@ -204,7 +204,7 @@ International Symposium on Fusion Nuclear Technology (ISFNT).
 
 [International Seminar on Interaction of Neutrons with Nuclei (ISINN)](http://isinn.jinr.ru/past-isinns.html).
 
-[European Nuclear Physics Conference (EuNPC)](https://www.eps.org/members/group_content_view.asp?group=85199&id=485799) and [here](https://indico.in2p3.fr/event/30430/page/3472-previous-editions).
+[European Nuclear Physics Conference (EuNPC)](https://www.eps.org/members/group_content_view.asp?group=85199&id=485799). Also [here](https://indico.in2p3.fr/event/30430/page/3472-previous-editions).
 
 (North American) Nuclear Structure Conference.
 
