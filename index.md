@@ -206,9 +206,9 @@ International Symposium on Fusion Nuclear Technology (ISFNT).
 
 [European Nuclear Physics Conference (EuNPC)](https://www.eps.org/members/group_content_view.asp?group=85199&id=485799). Also [here](https://indico.in2p3.fr/event/30430/page/3472-previous-editions).
 
-(North American) Nuclear Structure Conference.
+[(North American) Nuclear Structure Conference (NSC)](https://indico.phy.anl.gov/event/45/page/97-history). (Through 2024.)
 
-International Workshop on Compound-Nuclear Reactions and Related Topics (CNR)
+[International Workshop on Compound-Nuclear Reactions and Related Topics (CNR)](https://conferences.iaea.org/event/368/). (Through 2024, enumeration only.)
 
 International Workshop on Nuclear Data Covariances.
 
