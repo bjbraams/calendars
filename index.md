@@ -100,7 +100,7 @@ Latin American Workshop on Plasma Physics (LAWPP).
 
 [International Stellarator-Heliotron Workshop (ISHW)](https://www.ipp.mpg.de/4022808/ISHW).
 
-Topical Conference on High Temperature Plasma Diagnostics (HTPD).
+[Topical Conference on High Temperature Plasma Diagnostics (HTPD)](https://wiki.fusion.ciemat.es/wiki/Topical_Conference_on_High_Temperature_Plasma_Diagnostics).
 
 [European Conference on Plasma Diagnostics (ECPD)](https://wiki.fusion.ciemat.es/wiki/European_Conference_on_Plasma_Diagnostics).
 
