@@ -106,6 +106,10 @@ Latin American Workshop on Plasma Physics (LAWPP).
 
 International Symposium on Laser-Aided Plasma Diagnostics (LAPD).
 
+[International Sherwood Fusion Theory Conference](http://www.sherwoodtheory.org/conferences.php).
+
+[Joint Varenna- Lausanne International Workshop on Theory of Fusion Plasmas](https://varenna-lausanne.epfl.ch/).
+
 ### Primarily Low Temperature Plasma and Plasma Chemistry
 
 [American Physical Society Annual Gaseous Electronics Conference (GEC)](https://www.apsgec.org/).
