@@ -260,7 +260,7 @@ Dynamics Days Europe.
 
 International Conference on Attosecond Science and Technology (ATTO).
 
-International Free Electron Laser Conference (FEL).
+[International Free Electron Laser Conference (FEL)](https://inspirehep.net/conferences?sort=dateasc&size=1000&page=1&start_date=all&q=series.name%3A%22FEL%22).
 
 ### Primarily Quantum Computing
 
@@ -273,6 +273,8 @@ International Free Electron Laser Conference (FEL).
 International Conference on Quantum Communications, Networking, and Computing (QCNC).
 
 [IEEE International Conference on Quantum Computing and Engineering (QCE)](https://qce.quantum.ieee.org/). (Under the Archive tab.)
+
+[International Conference on Quantum Communication, Measurement and Computing (QCMC](http://www.qcmc-conference.org/). (Link to Previous Meetings.)
 
 [European Quantum Technology Conference](https://qt.eu/working-groups/european-quantum-technology-conference).
 
