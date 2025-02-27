@@ -106,10 +106,6 @@ Topical Conference on High Temperature Plasma Diagnostics (HTPD).
 
 International Symposium on Laser-Aided Plasma Diagnostics (LAPD).
 
-ITPA Diagnostics Topical Group Meetings and Workshops. (ITER Sign-in required.)
-
-ITPA Scrape-Off-Layer and Divertor Topical Group Meetings and Workshops. (ITER Sign-in required.)
-
 ### Primarily Low Temperature Plasma and Plasma Chemistry
 
 [American Physical Society Annual Gaseous Electronics Conference (GEC)](https://www.apsgec.org/).
@@ -134,19 +130,19 @@ International Symposium on High Pressure Low Temperature Plasma Chemistry (HAKON
 
 [International Conference on Photonic, Electronic and Atomic Collisions (ICPEAC) central website](https://www.ucd.ie/icpeac/).
 
-European Conference on Atoms, Molecules and Photons (ECAMP).
+[European Conference on Atoms, Molecules and Photons (ECAMP)](https://www.ecamp14.org/1718-2/). (Through 2022.)
 
 [European Group on Atomic Systems (EGAS)](https://www.eps-egas.org/).
 
-Europhysics Conference on Atomic and Molecular Physics of Ionized Gases (ESCAMPIG).
+[Europhysics Conference on Atomic and Molecular Physics of Ionized Gases (ESCAMPIG)](https://escampig2024.physics.muni.cz/). (Through 2024. Scroll down to ESCAMPIG Conference History.)
 
-Atomic Processes in Plasmas (APiP) Conferences.
+[Atomic Processes in Plasmas (APiP) Conference](https://physics.nist.gov/Meetings/APIP/history.html).
 
-International Conference on Atomic and Molecular Data and Their Applications (ICAMDATA).
+[International Conference on Atomic and Molecular Data and Their Applications (ICAMDATA)](https://physics.nist.gov/Icamdata/Homepage/icamdata.html).
 
-International Conference on the Physics of Highly Charged Ions (HCI).
+[International Conference on the Physics of Highly Charged Ions (HCI)](https://indico.impcas.ac.cn/event/75/page/159-hci-history).
 
-International Colloquium on Atomic Physics and Oscillator Strengths for Astrophysical and Laboratory Plasmas (ASOS).
+[International Colloquium on Atomic Physics and Oscillator Strengths for Astrophysical and Laboratory Plasmas (ASOS)](https://asos2023paris.sciencesconf.org/resource/page/id/2). (Through 2023.)
 
 International Workshop on Radiative Properties of Hot Dense Matter (RPHDM).
 
@@ -170,13 +166,13 @@ International Workshop on Radiative Properties of Hot Dense Matter (RPHDM).
 
 ### Primarily Fusion Materials and Plasma-Material Interaction
 
-International Conference on Plasma-Surface Interactions in Controlled Fusion Devices (PSI).
+[International Conference on Plasma-Surface Interactions in Controlled Fusion Devices (PSI)](https://wiki.fusion.ciemat.es/wiki/Conference_on_Plasma_Surface_Interactions).
 
 International Conference on Plasma-Facing Materials and Components for Fusion Applications (PFMC).
 
 International Conference on Fusion Reactor Materials (ICFRM).
 
-International Symposium on Fusion Nuclear Technology (ISFNT).
+[International Symposium on Fusion Nuclear Technology (ISFNT)](https://wiki.fusion.ciemat.es/wiki/International_Symposium_on_Fusion_Nuclear_Technology).
 
 [International Conference on Computer Simulation of Radiation Effects in Solids (COSIRES)](https://sites.google.com/view/cosires2024/about/history).
 
@@ -244,8 +240,6 @@ New Challenges for Ab Initio Theory in Molecular Science.
 
 [High Dimensional Quantum Dynamics Workshop (HDQD)](https://qdn.cnrs.fr/?page_id=44).
 
-Dynamics Days Europe.
-
 [International Symposium on Molecular Spectroscopy](https://isms.illinois.edu/Archive.php).
 
 [International Conference on Advanced Vibrational Spectroscopy (ICAVS)](https://icavs.org/about-icavs/history-of-icavs).
@@ -286,6 +280,8 @@ Tut
 
 [International Workshop on Statistical Modelling](http://www.statmod.org/workshops.htm).
 
+[INFORMS Applied Probability Conference (APS)](https://connect.informs.org/aps/apsconferences).
+
 ### Links most wanted still
 
-Public links to relevant EFDA (Eurofusion) and ITPA meetings. 
+Tut.
