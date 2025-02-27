@@ -90,7 +90,7 @@
 
 [European Physical Society Conference on Plasma Physics](https://wiki.fusion.ciemat.es/wiki/European_Physical_Society_Conference_on_Plasma_Physics). See [Also](https://lac913.epfl.ch/epsppd3/).
 
-Asia-Pacific Conference on Plasma Physics (AAPPS-DPP).
+[Asia-Pacific Conference on Plasma Physics (AAPPS-DPP)](https://www.aappsdpp.org/AAPPSDPPF/Meetings.html).
 
 International Conference on Inertial Fusion Sciences and Applications (IFSA).
 
@@ -175,6 +175,8 @@ International Workshop on Radiative Properties of Hot Dense Matter (RPHDM).
 International Conference on Plasma-Facing Materials and Components for Fusion Applications (PFMC).
 
 International Conference on Fusion Reactor Materials (ICFRM).
+
+International Workshop on Models and Data for Plasma-Material Interaction in Fusion Devices (MoD-PMI).
 
 [International Symposium on Fusion Nuclear Technology (ISFNT)](https://wiki.fusion.ciemat.es/wiki/International_Symposium_on_Fusion_Nuclear_Technology).
 
