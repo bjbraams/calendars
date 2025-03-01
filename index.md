@@ -98,6 +98,8 @@ International Conference on Inertial Fusion Sciences and Applications (IFSA).
 
 [European Fusion Theory Conference (EFTC)](https://wiki.fusion.ciemat.es/wiki/European_Fusion_Theory_Conference).
 
+[International Tokamak Physics Activity (ITPA) Meetings](https://www.iter.org/scientists/itpa/itpa-meetings).
+
 Latin American Workshop on Plasma Physics (LAWPP).
 
 [EU-US Transport Task Force Meeting (TTF)](https://wiki.fusion.ciemat.es/wiki/EU-US_Transport_Task_Force_Meeting).
