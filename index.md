@@ -96,7 +96,11 @@ International Conference on Inertial Fusion Sciences and Applications (IFSA).
 
 [International Toki Conference (ITC)](https://www.nifs.ac.jp/en/itc/).
 
+[European Fusion Theory Conference (EFTC)](https://wiki.fusion.ciemat.es/wiki/European_Fusion_Theory_Conference).
+
 Latin American Workshop on Plasma Physics (LAWPP).
+
+[EU-US Transport Task Force Meeting (TTF)](https://wiki.fusion.ciemat.es/wiki/EU-US_Transport_Task_Force_Meeting).
 
 [International Stellarator-Heliotron Workshop (ISHW)](https://www.ipp.mpg.de/4022808/ISHW).
 
