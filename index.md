@@ -226,6 +226,8 @@ International Workshop on Nuclear Data Covariances.
 
 [International Workshop On Nuclear Data Evaluation for Reactor Applications (WONDER)](https://www.epj-conferences.org/wonder).
 
+[Conference on Nuclear Physics in Astrophysics (NPA)](https://events.hifis.net/event/540/page/78-previous-npa-conferences). (Through 2024.)
+
 ### Primarily Electronic Structure Theory
 
 [International Congress of Quantum Chemistry (ICQC)](https://www.iaqms.org/congress.php).
