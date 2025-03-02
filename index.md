@@ -286,13 +286,15 @@ International Conference on Quantum Communications, Networking, and Computing (Q
 
 [Asian Quantum Information Science Conference (AQIS)](http://aqis-conf.org/). (Under the Previous Editions tab.)
 
-### Primarily Scientific Data Analysis
+### Primarily Scientific Computing and Data Analysis
 
 Tut
 
 [International Workshop on Statistical Modelling](http://www.statmod.org/workshops.htm).
 
 [INFORMS Applied Probability Conference (APS)](https://connect.informs.org/aps/apsconferences).
+
+[International Conference on Computational Science (ICCS)](https://www.iccs-meeting.org/iccs2025/previous-iccs/).
 
 ### Links most wanted still
 
