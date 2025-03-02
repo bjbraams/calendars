@@ -296,6 +296,20 @@ Tut
 
 [International Conference on Computational Science (ICCS)](https://www.iccs-meeting.org/iccs2025/previous-iccs/).
 
+NeurIPS
+
+ICML
+
+COLT
+
+Bernouilli-IMS
+
+StatPhys
+
+
+
+
+
 ### Links most wanted still
 
 Tut.
