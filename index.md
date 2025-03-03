@@ -2,7 +2,7 @@
   <link rel="stylesheet" href="assets/style.css">
 </head>
 
-## Work in Progress
+## Planned
 
 [High Temperature Plasma and Fusion Energy Science](https://bjbraams.github.io/calendars/plasmafusion).
 
