@@ -116,6 +116,8 @@ International Symposium on Laser-Aided Plasma Diagnostics (LAPD).
 
 [Joint Varenna- Lausanne International Workshop on Theory of Fusion Plasmas](https://varenna-lausanne.epfl.ch/).
 
+[International Conference on the Physics of Non-Ideal Plasmas](https://pnp.web.ox.ac.uk/). (Through 2024.)
+
 ### Primarily Low Temperature Plasma and Plasma Chemistry
 
 [American Physical Society Annual Gaseous Electronics Conference (GEC)](https://www.apsgec.org/).
@@ -200,6 +202,10 @@ International Workshop on Models and Data for Plasma-Material Interaction in Fus
 
 [International Meeting on Recent Developments in the Study of Radiation Effects in Matter (REM)](https://www.uknibc.co.uk/REM11/history.php). (Through 2020.)
 
+International Conference on Plasma Surface Engineering (PSE).
+
+Asian-European International Conference on Plasma Surface Engineering (AEPSE).
+
 ### Primarily Nuclear Structure and Reactions
 
 [International Conference on Nuclear Data for Science and Technology (ND)](https://www.oecd-nea.org/jcms/pl_40099/international-conference-on-nuclear-data-for-science-and-technology).
@@ -237,6 +243,8 @@ International Workshop on Nuclear Data Covariances.
 [Psi-k Conference](https://psi-k.net/conference/).
 
 [International Conference on Molecular Electronic Structure (MES)](https://www.mes2024.it/). (Through 2024 and very brief.)
+
+[Sanibel Symposium](https://sanibelsymposium.qtp.ufl.edu/history/).
 
 [Asian Workshop on First-Principles Electronic Structure Calculations](https://sites.google.com/view/asian-25/history). (Through 2024.)
 
