@@ -312,6 +312,8 @@ ICML
 
 COLT
 
+[ISI World Statistics Congress (WSC)](https://isi-web.org/scientific-congresses/past-wscs).
+
 Bernouilli-IMS
 
 StatPhys
@@ -329,6 +331,10 @@ StatPhys
 [International Conference on Artificial Intelligence and Statistics (AISTATS)](https://aistats.org/aistats2025//other.html).
 
 [European Symposium on Algorithms (ESA) and related events (ALGO)](https://algo-conference.org/).
+
+[International Conference "Inverse Problems: Modeling and Simulation" (IPMS)](https://www.ipms-conference.org/ipms2026/index.php/organization/history-objectives).
+
+SIAM Conference on Imaging Science (IS).
 
 
 ### Links most wanted still
