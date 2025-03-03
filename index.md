@@ -296,7 +296,7 @@ International Conference on Quantum Communications, Networking, and Computing (Q
 
 [Asian Quantum Information Science Conference (AQIS)](http://aqis-conf.org/). (Under the Previous Editions tab.)
 
-### Primarily Scientific Computing and Data Analysis
+### Primarily Scientific Computing and Data Analysis, and other not yet categorized
 
 Tut
 
@@ -316,8 +316,19 @@ Bernouilli-IMS
 
 StatPhys
 
+[ACM Symposium on Theory of Computing (STOC)](https://acm-stoc.org/).
 
+[IEEE Symposium on Foundations of Computer Science (FOCS)](https://ieee-focs.org/).
 
+[International Conference on Learning Representations (ICLR)]([)](https://iclr.cc/). (Use the Select Year button.)
+
+[European Conference on Machine Learning and Principles and Practice of Knowledge Discovery in Databases (ECML-PKDD)](https://ecmlpkdd.org/).
+
+[EATCS International Colloquium on Automata, Languages and Programming (ICALP)](https://eatcs.org/index.php/international-colloquium).
+
+[International Conference on Artificial Intelligence and Statistics (AISTATS)](https://aistats.org/aistats2025//other.html).
+
+[European Symposium on Algorithms (ESA) and related events (ALGO)](https://algo-conference.org/).
 
 
 ### Links most wanted still
