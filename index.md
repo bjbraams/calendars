@@ -234,6 +234,18 @@ International Workshop on Nuclear Data Covariances.
 
 [Conference on Nuclear Physics in Astrophysics (NPA)](https://events.hifis.net/event/540/page/78-previous-npa-conferences). (Through 2024.)
 
+Gogny Conference on Nuclear Structure and Reactions.
+
+European Radioactive Ion Beam Conference (EuroRIB).
+
+[NUSTAR Annual Meeting and NUSTAR Weeks](https://fair-center.eu/user/experiments/nustar/nustar-collaboration/nustar-collaboration-meetings).
+
+[Winter Workshop on Nuclear Dynamics](https://indico.cern.ch/event/1345629/page/31503-previous-workshops). (Through 2024.)
+
+International Conference on Nucleus Nucleus Collisions (NN).
+
+Particles and Nuclei International Conference (PANIC).
+
 ### Primarily Electronic Structure Theory
 
 [International Congress of Quantum Chemistry (ICQC)](https://www.iaqms.org/congress.php).
