@@ -318,6 +318,16 @@ Tut.
 
 SIAM Conference on Imaging Science (IS).
 
+### Primarily Optimization Theory
+
+Tut.
+
+Integer Programming and Combinatorial Optimization (IPCO).
+
+Symposium on Algorithmic Game Theory (SAGT).
+
+Mathematical Optimization Society International Conference (ISMP).
+
 ### Primarily Machine Learning
 
 Tut.
@@ -348,6 +358,8 @@ Bernouilli-IMS
 [International Conference on Artificial Intelligence and Statistics (AISTATS)](https://aistats.org/aistats2025//other.html).
 
 StatPhys
+
+International Conference on Monte Carlo and Quasi-Monte Carlo Methods in Scientific Computing (MCQMC).
 
 ### Primarily Theoretical Computer Science, Algorithms and Complexity
 
