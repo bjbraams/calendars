@@ -322,7 +322,7 @@ StatPhys
 
 [IEEE Symposium on Foundations of Computer Science (FOCS)](https://ieee-focs.org/).
 
-[International Conference on Learning Representations (ICLR)]([)](https://iclr.cc/). (Use the Select Year button.)
+[International Conference on Learning Representations (ICLR)](https://iclr.cc/). (Use the Select Year button.)
 
 [European Conference on Machine Learning and Principles and Practice of Knowledge Discovery in Databases (ECML-PKDD)](https://ecmlpkdd.org/).
 
