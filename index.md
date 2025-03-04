@@ -298,17 +298,42 @@ International Conference on Attosecond Science and Technology (ATTO).
 
 [Quantum Cryptography (QCrypt)](https://qcrypt.net/2025/history/). (Through 2025.)
 
-International Conference on Quantum Communications, Networking, and Computing (QCNC).
-
-[IEEE International Conference on Quantum Computing and Engineering (QCE)](https://qce.quantum.ieee.org/). (Under the Archive tab.)
+[Asian Quantum Information Science Conference (AQIS)](http://aqis-conf.org/). (Under the Previous Editions tab.)
 
 [International Conference on Quantum Communication, Measurement and Computing (QCMC](http://www.qcmc-conference.org/). (Link to Previous Meetings.)
 
+[IEEE International Conference on Quantum Computing and Engineering (QCE, aka Quantum Week)](https://qce.quantum.ieee.org/). (Under the Archive tab.)
+
+International Conference on Quantum Communications, Networking, and Computing (QCNC).
+
 [European Quantum Technology Conference](https://qt.eu/working-groups/european-quantum-technology-conference).
 
-[Asian Quantum Information Science Conference (AQIS)](http://aqis-conf.org/). (Under the Previous Editions tab.)
+### Primarily Computational Science for Inverse Problems and Uncertainty Quantification
 
-### Primarily Scientific Computing and Data Analysis, and other not yet categorized
+Tut.
+
+[International Conference on Computational Science (ICCS)](https://www.iccs-meeting.org/iccs2025/previous-iccs/).
+
+[International Conference "Inverse Problems: Modeling and Simulation" (IPMS)](https://www.ipms-conference.org/ipms2026/index.php/organization/history-objectives).
+
+SIAM Conference on Imaging Science (IS).
+
+### Primarily Machine Learning
+
+Tut.
+
+NeurIPS
+
+ICML
+
+COLT.
+
+[International Conference on Learning Representations (ICLR)](https://iclr.cc/). (Use the Select Year button.)
+
+[European Conference on Machine Learning and Principles and Practice of Knowledge Discovery in Databases (ECML-PKDD)](https://ecmlpkdd.org/).
+
+
+### Primarily Applied Statistics and Data Analysis, and other not yet categorized
 
 Tut
 
@@ -316,38 +341,25 @@ Tut
 
 [INFORMS Applied Probability Conference (APS)](https://connect.informs.org/aps/apsconferences).
 
-[International Conference on Computational Science (ICCS)](https://www.iccs-meeting.org/iccs2025/previous-iccs/).
-
-NeurIPS
-
-ICML
-
-COLT
-
 [ISI World Statistics Congress (WSC)](https://isi-web.org/scientific-congresses/past-wscs).
 
 Bernouilli-IMS
 
+[International Conference on Artificial Intelligence and Statistics (AISTATS)](https://aistats.org/aistats2025//other.html).
+
 StatPhys
+
+### Primarily Theoretical Computer Science, Algorithms and Complexity
+
+Tut.
 
 [ACM Symposium on Theory of Computing (STOC)](https://acm-stoc.org/).
 
 [IEEE Symposium on Foundations of Computer Science (FOCS)](https://ieee-focs.org/).
 
-[International Conference on Learning Representations (ICLR)](https://iclr.cc/). (Use the Select Year button.)
-
-[European Conference on Machine Learning and Principles and Practice of Knowledge Discovery in Databases (ECML-PKDD)](https://ecmlpkdd.org/).
-
 [EATCS International Colloquium on Automata, Languages and Programming (ICALP)](https://eatcs.org/index.php/international-colloquium).
 
-[International Conference on Artificial Intelligence and Statistics (AISTATS)](https://aistats.org/aistats2025//other.html).
-
 [European Symposium on Algorithms (ESA) and related events (ALGO)](https://algo-conference.org/).
-
-[International Conference "Inverse Problems: Modeling and Simulation" (IPMS)](https://www.ipms-conference.org/ipms2026/index.php/organization/history-objectives).
-
-SIAM Conference on Imaging Science (IS).
-
 
 ### Links most wanted still
 
