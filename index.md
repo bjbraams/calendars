@@ -318,8 +318,6 @@ International Conference on Quantum Communications, Networking, and Computing (Q
 
 ### Primarily Computational Science for Inverse Problems and Uncertainty Quantification
 
-Tut.
-
 [International Conference on Computational Science (ICCS)](https://www.iccs-meeting.org/iccs2025/previous-iccs/).
 
 [International Conference "Inverse Problems: Modeling and Simulation" (IPMS)](https://www.ipms-conference.org/ipms2026/index.php/organization/history-objectives).
@@ -328,8 +326,6 @@ SIAM Conference on Imaging Science (IS).
 
 ### Primarily Optimization Theory
 
-Tut.
-
 Integer Programming and Combinatorial Optimization (IPCO).
 
 Symposium on Algorithmic Game Theory (SAGT).
@@ -337,8 +333,6 @@ Symposium on Algorithmic Game Theory (SAGT).
 Mathematical Optimization Society International Conference (ISMP).
 
 ### Primarily Machine Learning and Artificial Intelligence
-
-Tut.
 
 NeurIPS
 
@@ -355,8 +349,6 @@ COLT.
 
 ### Primarily Applied Statistics and Data Analysis, and other not yet categorized
 
-Tut
-
 [International Workshop on Statistical Modelling](http://www.statmod.org/workshops.htm).
 
 [INFORMS Applied Probability Conference (APS)](https://connect.informs.org/aps/apsconferences).
@@ -372,8 +364,6 @@ StatPhys
 International Conference on Monte Carlo and Quasi-Monte Carlo Methods in Scientific Computing (MCQMC).
 
 ### Primarily Theoretical Computer Science, Algorithms and Complexity
-
-Tut.
 
 [ACM Symposium on Theory of Computing (STOC)](https://acm-stoc.org/).
 
