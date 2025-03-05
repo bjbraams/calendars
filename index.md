@@ -314,6 +314,8 @@ International Conference on Quantum Communications, Networking, and Computing (Q
 
 [European Quantum Technology Conference](https://qt.eu/working-groups/european-quantum-technology-conference).
 
+[Quantum Techniques in Machine Learning (QTML)](https://qtml2024.org/past-conferences/). (Through 2024.)
+
 ### Primarily Computational Science for Inverse Problems and Uncertainty Quantification
 
 Tut.
