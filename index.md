@@ -336,7 +336,7 @@ Symposium on Algorithmic Game Theory (SAGT).
 
 Mathematical Optimization Society International Conference (ISMP).
 
-### Primarily Machine Learning
+### Primarily Machine Learning and Artificial Intelligence
 
 Tut.
 
@@ -349,6 +349,8 @@ COLT.
 [International Conference on Learning Representations (ICLR)](https://iclr.cc/). (Use the Select Year button.)
 
 [European Conference on Machine Learning and Principles and Practice of Knowledge Discovery in Databases (ECML-PKDD)](https://ecmlpkdd.org/).
+
+[International Joint Conferences on Artificial Intelligence (IJCAI)](https://www.ijcai.org/past_conferences).
 
 
 ### Primarily Applied Statistics and Data Analysis, and other not yet categorized
