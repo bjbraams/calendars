@@ -254,6 +254,8 @@ Particles and Nuclei International Conference (PANIC).
 
 [Psi-k Conference](https://psi-k.net/conference/).
 
+Triennial Congress of the International Society for Theoretical Chemical Physics (ISTCP).
+
 [International Conference on Molecular Electronic Structure (MES)](https://www.mes2024.it/). (Through 2024 and very brief.)
 
 [Sanibel Symposium](https://sanibelsymposium.qtp.ufl.edu/history/).
@@ -268,7 +270,11 @@ Numerical Methods in Quantum Chemistry Workshop.
 
 [Molecular Quantum Mechanics Conference (MQM)](https://www.mqm2022.org/history/). (Through 2022.)
 
+American Conference on Theoretical Chemistry (ACTC).
+
 New Challenges for Ab Initio Theory in Molecular Science.
+
+International Conference on Theoretical and High Performance Computational Chemistry.
 
 ### Primarily Molecular Structure and Quantum Dynamics
 
