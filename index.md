@@ -110,6 +110,8 @@ Latin American Workshop on Plasma Physics (LAWPP).
 
 [European Conference on Plasma Diagnostics (ECPD)](https://wiki.fusion.ciemat.es/wiki/European_Conference_on_Plasma_Diagnostics).
 
+International Workshop on Plasma Edge Theory in Fusion Devices (PET).
+
 International Symposium on Laser-Aided Plasma Diagnostics (LAPD).
 
 [International Sherwood Fusion Theory Conference](http://www.sherwoodtheory.org/conferences.php).
@@ -206,6 +208,8 @@ International Conference on Plasma Surface Engineering (PSE).
 
 Asian-European International Conference on Plasma Surface Engineering (AEPSE).
 
+Nuclear Materials Conference (NuMat).
+
 ### Primarily Nuclear Structure and Reactions
 
 [International Conference on Nuclear Data for Science and Technology (ND)](https://www.oecd-nea.org/jcms/pl_40099/international-conference-on-nuclear-data-for-science-and-technology).
@@ -275,6 +279,8 @@ American Conference on Theoretical Chemistry (ACTC).
 New Challenges for Ab Initio Theory in Molecular Science.
 
 International Conference on Theoretical and High Performance Computational Chemistry.
+
+International Workshop on Computational Physics and Materials Science: Total Energy and Force Methods.
 
 ### Primarily Molecular Structure and Quantum Dynamics
 
