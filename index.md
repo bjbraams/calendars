@@ -346,6 +346,8 @@ COLT.
 
 [International Joint Conferences on Artificial Intelligence (IJCAI)](https://www.ijcai.org/past_conferences).
 
+[Conference on Uncertainty in Artificial Intelligence (UAI)](https://www.auai.org/).
+
 
 ### Primarily Applied Statistics and Data Analysis, and other not yet categorized
 
