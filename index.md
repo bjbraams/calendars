@@ -302,6 +302,8 @@ International Conference on Attosecond Science and Technology (ATTO).
 
 [International Free Electron Laser Conference (FEL)](https://inspirehep.net/conferences?sort=dateasc&size=1000&page=1&start_date=all&q=series.name%3A%22FEL%22).
 
+International Conference on Ultrafast Phenomena.
+
 ### Primarily Quantum Computing
 
 [Quantum Information Processing Conference (QIP)](https://qipconference.org/previousqips).
