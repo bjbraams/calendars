@@ -324,55 +324,6 @@ International Conference on Quantum Communications, Networking, and Computing (Q
 
 [Quantum Techniques in Machine Learning (QTML)](https://qtml2024.org/past-conferences/). (Through 2024.)
 
-### Primarily Computational Science for Inverse Problems and Uncertainty Quantification
-
-[International Conference on Computational Science (ICCS)](https://www.iccs-meeting.org/iccs2025/previous-iccs/).
-
-[International Conference "Inverse Problems: Modeling and Simulation" (IPMS)](https://www.ipms-conference.org/ipms2026/index.php/organization/history-objectives).
-
-SIAM Conference on Imaging Science (IS).
-
-### Primarily Optimization Theory
-
-Integer Programming and Combinatorial Optimization (IPCO).
-
-Symposium on Algorithmic Game Theory (SAGT).
-
-Mathematical Optimization Society International Conference (ISMP).
-
-### Primarily Machine Learning and Artificial Intelligence
-
-[Conference on Neural Information Processing Systems (NeurIPS)](https://neurips.cc/). (Under Select Year.)
-
-[International Conference on Machine Learning (ICML)](https://icml.cc/). (Under Select Year.)
-
-[Conference on Learning Theory (COLT)](https://learningtheory.org/). (Under Archives.)
-
-[International Conference on Learning Representations (ICLR)](https://iclr.cc/). (Under Select Year.)
-
-[European Conference on Machine Learning and Principles and Practice of Knowledge Discovery in Databases (ECML-PKDD)](https://ecmlpkdd.org/).
-
-[International Joint Conferences on Artificial Intelligence (IJCAI)](https://www.ijcai.org/past_conferences).
-
-[Conference on Uncertainty in Artificial Intelligence (UAI)](https://www.auai.org/).
-
-
-### Primarily Applied Statistics and Data Analysis, and other not yet categorized
-
-[International Workshop on Statistical Modelling](http://www.statmod.org/workshops.htm).
-
-[INFORMS Applied Probability Conference (APS)](https://connect.informs.org/aps/apsconferences).
-
-[ISI World Statistics Congress (WSC)](https://isi-web.org/scientific-congresses/past-wscs).
-
-Bernouilli-IMS
-
-[International Conference on Artificial Intelligence and Statistics (AISTATS)](https://aistats.org/aistats2025//other.html).
-
-StatPhys
-
-International Conference on Monte Carlo and Quasi-Monte Carlo Methods in Scientific Computing (MCQMC).
-
 ### Primarily Theoretical Computer Science, Algorithms and Complexity
 
 [ACM Symposium on Theory of Computing (STOC)](https://acm-stoc.org/).
@@ -394,3 +345,51 @@ International Conference on Monte Carlo and Quasi-Monte Carlo Methods in Scienti
 [International Conference on Approximation Algorithms for Combinatorial Optimization Problems (APPROX)](https://approxconference.com/).
 
 [APPROX+RANDOM](https://dblp.org/db/conf/random/index.html).
+
+### Primarily Machine Learning and Artificial Intelligence
+
+[Conference on Neural Information Processing Systems (NeurIPS)](https://neurips.cc/). (Under Select Year.)
+
+[International Conference on Machine Learning (ICML)](https://icml.cc/). (Under Select Year.)
+
+[Conference on Learning Theory (COLT)](https://learningtheory.org/). (Under Archives.)
+
+[International Conference on Learning Representations (ICLR)](https://iclr.cc/). (Under Select Year.)
+
+[European Conference on Machine Learning and Principles and Practice of Knowledge Discovery in Databases (ECML-PKDD)](https://ecmlpkdd.org/).
+
+[International Joint Conferences on Artificial Intelligence (IJCAI)](https://www.ijcai.org/past_conferences).
+
+[Conference on Uncertainty in Artificial Intelligence (UAI)](https://www.auai.org/).
+
+### Primarily Computational Science for Inverse Problems and Uncertainty Quantification
+
+[International Conference on Computational Science (ICCS)](https://www.iccs-meeting.org/iccs2025/previous-iccs/).
+
+[International Conference "Inverse Problems: Modeling and Simulation" (IPMS)](https://www.ipms-conference.org/ipms2026/index.php/organization/history-objectives).
+
+SIAM Conference on Imaging Science (IS).
+
+### Primarily Optimization Theory
+
+Integer Programming and Combinatorial Optimization (IPCO).
+
+Symposium on Algorithmic Game Theory (SAGT).
+
+Mathematical Optimization Society International Conference (ISMP).
+
+### Primarily Applied Statistics and Data Analysis, and other not yet categorized
+
+[International Workshop on Statistical Modelling](http://www.statmod.org/workshops.htm).
+
+[INFORMS Applied Probability Conference (APS)](https://connect.informs.org/aps/apsconferences).
+
+[ISI World Statistics Congress (WSC)](https://isi-web.org/scientific-congresses/past-wscs).
+
+Bernouilli-IMS
+
+[International Conference on Artificial Intelligence and Statistics (AISTATS)](https://aistats.org/aistats2025//other.html).
+
+StatPhys
+
+International Conference on Monte Carlo and Quasi-Monte Carlo Methods in Scientific Computing (MCQMC).
