@@ -362,6 +362,8 @@ International Conference on Quantum Communications, Networking, and Computing (Q
 
 [Conference on Uncertainty in Artificial Intelligence (UAI)](https://www.auai.org/).
 
+SIAM Conference on Mathematics of Data Science (MDS)
+
 ### Primarily Computational Science for Inverse Problems and Uncertainty Quantification
 
 [International Conference on Computational Science (ICCS)](https://www.iccs-meeting.org/iccs2025/previous-iccs/).
@@ -369,6 +371,8 @@ International Conference on Quantum Communications, Networking, and Computing (Q
 [International Conference "Inverse Problems: Modeling and Simulation" (IPMS)](https://www.ipms-conference.org/ipms2026/index.php/organization/history-objectives).
 
 SIAM Conference on Imaging Science (IS).
+
+IMA Conference on Inverse Problems from Theory to Application.
 
 ### Primarily Optimization Theory
 
@@ -389,6 +393,8 @@ Mathematical Optimization Society International Conference (ISMP).
 Bernouilli-IMS
 
 [International Conference on Artificial Intelligence and Statistics (AISTATS)](https://aistats.org/aistats2025//other.html).
+
+International Workshop on Bayesian Inference and Maximum Entropy Methods in Science and Engineering (MaxEnt).
 
 StatPhys
 
