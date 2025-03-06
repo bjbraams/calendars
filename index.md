@@ -334,13 +334,13 @@ Mathematical Optimization Society International Conference (ISMP).
 
 ### Primarily Machine Learning and Artificial Intelligence
 
-NeurIPS
+[Conference on Neural Information Processing Systems (NeurIPS)](https://neurips.cc/). (Under Select Year.)
 
-ICML
+[International Conference on Machine Learning (ICML)](https://icml.cc/). (Under Select Year.)
 
-COLT.
+[Conference on Learning Theory (COLT)](https://learningtheory.org/). (Under Archives.)
 
-[International Conference on Learning Representations (ICLR)](https://iclr.cc/). (Use the Select Year button.)
+[International Conference on Learning Representations (ICLR)](https://iclr.cc/). (Under Select Year.)
 
 [European Conference on Machine Learning and Principles and Practice of Knowledge Discovery in Databases (ECML-PKDD)](https://ecmlpkdd.org/).
 
@@ -386,7 +386,3 @@ International Conference on Monte Carlo and Quasi-Monte Carlo Methods in Scienti
 [International Conference on Approximation Algorithms for Combinatorial Optimization Problems (APPROX)](https://approxconference.com/).
 
 [APPROX+RANDOM](https://dblp.org/db/conf/random/index.html).
-
-### Links most wanted still
-
-Tut.
