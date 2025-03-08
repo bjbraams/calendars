@@ -219,7 +219,7 @@ Tut
 
 2025-05-12 to 15: [8th International Conference on Matter and Radiation at Extremes](http://icmre2025.mre.org.cn/en-us/), Xi'an, China.
 
-2025-05-12 to 23: [Joint ICTP-IAEA Fusion Energy School | (smr 4069)](https://indico.ictp.it/event/10834), Trieste, Italy.
+2025-05-12 to 23: [Joint ICTP-IAEA Fusion Energy School (ICTP smr 4069)](https://indico.ictp.it/event/10834), Trieste, Italy.
 
 2025-05-13 to 15: [7th Conference on Nuclei and Mesoscopic Physics (NMP 2025)](https://indico.frib.msu.edu/event/78/), East Lansing, MI, USA.
 
