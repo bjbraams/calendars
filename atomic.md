@@ -21,8 +21,6 @@ Tut
 
 2025-01-08 to 10: [RSC Spectroscopy and Dynamics Group Annual Meeting (SDG 2025)](https://shop.le.ac.uk/conferences-and-events/leicester-conferences/spectroscopy-annual-meeting), Leicester, UK.
 
-2025-01-08 to 10: [RSC Spectroscopy and Dynamics Group Annual Meeting (SDG 2025)](https://shop.le.ac.uk/conferences-and-events/leicester-conferences/spectroscopy-annual-meeting), Leicester, UK.
-
 2025-01-12 to 15: [SIAM Symposium on Discrete Algorithms (SODA 2025)](https://siam.org/conferences-events/siam-conferences/soda25/), New Orleans, LA, USA.
 
 2025-01-12 to 17: [Physics of AI Algorithms (PHAIA 2025)](https://houches-school-physics.com/program/program-2025/physics-of-ai-algorithms-phaia-2025-1479852.kjsp), Les Houches, France.
@@ -209,13 +207,11 @@ Tut
 
 2025-05-05 to 08: [Machine Learning for Materials Discovery (ML4MD 2025)](https://sites.utu.fi/ml4md2025/), Aalto University, Espoo, Finland.
 
-2025-05-05 to 08: [Machine Learning for Materials Discovery (ML4MD 2025)](https://sites.utu.fi/ml4md2025/), Aalto University, Espoo, Finland.
-
 2025-05-05 to 09: [11th International Conference on Frontiers of Plasma Physics and Technology (FPPT 2025)](http://cro-vacuum.hr/2025/01/30/https-www-fpptseries-org/), Dubrovnik, Croatia.
 
 2025-05-05 to 09: [26th Symposium on the Jahn-Teller effect: Vibronic Coupling and Jahn-Teller Effects in Molecules, Solids, and Nanoscale Materials](https://sites.google.com/view/jt26th-2025/), Online.
 
-2025-05-05 to 09: [ Conference on Mixing Times between Probability, Computer Science and Statistical Physics (ICTP smr 4066)](https://indico.ictp.it/event/10831), Trieste, Italy.
+2025-05-05 to 09: [Conference on Mixing Times between Probability, Computer Science and Statistical Physics (ICTP smr 4066)](https://indico.ictp.it/event/10831), Trieste, Italy.
 
 2025-05-07 to 09: [CECAM Flagship Workshop on Accurate methods for thermal and excited electrons](https://cecam.org/workshop-details/accurate-methods-for-thermal-and-excited-electrons-1371), Lausanne, Switzerland.
 
@@ -345,8 +341,6 @@ Tut
 
 2025-06-22 to 27: [Workshop on Efficient and Reliable Deep Learning Methods and their Scientific Applications (BIRS 25w5382)](https://birs.ca/events/2025/5-day-workshops/25w5382), Banff, AB, Canada.
 
-2025-06-22 to 27: [Workshop on Efficient and Reliable Deep Learning Methods and their Scientific Applications (BIRS 25w5382)](https://birs.ca/events/2025/5-day-workshops/25w5382), Banff, AB, Canada.
-
 2025-06-23 to 25: [International Conference on Statistics and Data Science](https://icsds.github.io/2025/), Vancouver, BC, Canada. (Not to be confused with the IMS International Conference on Statistics and Data Science in Sevilla, Spain in 2025.)
 
 2025-06-23 to 26: [Fourth Annual Conference of SPP2265: Random Geometric Systems](https://wias-berlin.de/workshops/An_2025_RaGeSys/), Berlin, Germany.
@@ -445,7 +439,7 @@ Tut
 
 2025-07-20 to 25: [Gordon Research Conference Dynamics at Surfaces](https://grc.org/dynamics-at-surfaces-conference/2025/), Holderness, NH, USA.
 
-2025-07-21 to 23: [ Joint ICTP-WE Heraeus Conference on Non-equilibrium Quantum Statistical Physics (ICTP smr 4090)](https://indico.ictp.it/event/10855), Trieste, Italy.
+2025-07-21 to 23: [Joint ICTP-WE Heraeus Conference on Non-equilibrium Quantum Statistical Physics (ICTP smr 4090)](https://indico.ictp.it/event/10855), Trieste, Italy.
 
 2025-07-21 to 24: [36th International Workshop on Combinatorial Algorithms (IWOCA 2025)](https://cs.montana.edu/bhz/iwoca2025/), Bozeman, MT, USA.
 
@@ -467,7 +461,7 @@ Tut
 
 2025-07-28 to 08-01: [17th Conference on Stochastic Programming](https://icsp2025.org), Paris, France.
 
-2025-07-28 to 08-01: [ Third Joint SIAM/CAIMS Annual Meetings (AN 2025)](https://siam.org/conferences-events/siam-conferences/an25/), Montreal, QC, Canada.
+2025-07-28 to 08-01: [Third Joint SIAM/CAIMS Annual Meetings (AN 2025)](https://siam.org/conferences-events/siam-conferences/an25/), Montreal, QC, Canada.
 
 2025-07-28 to 08-15: [CODATA-RDA School and Advanced Workshops for Research Data Science (ICTP smr 4092)](https://indico.ictp.it/event/10857), Trieste, Italy.
 
@@ -476,8 +470,6 @@ Tut
 2025-07-29 to 08-05: [34th International Conference on Photonic, Electronic, and Atomic Collisions (ICPEAC 2025)](https://icpeac2025.jp), Sapporo, Japan.
 
 2025-08-02: [Institute of Mathematical Statistics First Annual Frontiers in Statistical Machine Learning Workshop (FSML 2025)](https://fsmlims.wixsite.com/fsml25), Nashville, TN, USA. (Just before [JSM 2025](https://ww2.amstat.org/meetings/jsm/2025/).)
-
-2025-08-02 to 07: [ASA, IMS and other Joint Statistical Meetings (JSM 2025)](https://ww2.amstat.org/meetings/jsm/2025/), Nashville, TN, USA.
 
 2025-08-02 to 07: [ASA, IMS and other Joint Statistical Meetings (JSM 2025)](https://ww2.amstat.org/meetings/jsm/2025/), Nashville, TN, USA.
 
@@ -494,6 +486,8 @@ Tut
 2025-08-04 to 08: [25th Asian Quantum Information Science Conference (AQIS 2025)](http://aqis-conf.org/2025/), Hong Kong, China.
 
 2025-08-04 to 08: [Quantum Simulation Conference (QSim 2025)](https://qsimconference.org), New York City, NY, USA.
+
+2025-08-04 to 08: [Summer school on "Topological data analysis in stochastic geometry and image processing"](https://sites.google.com/view/aarhustda/), Aarhus Institute of Advanced Studies, Aarhus, Denmark.
 
 2025-08-05 to 08: [Computational Complexity Conference (CCC 2025)](http://fields.utoronto.ca/activities/25-26/CCC2025), Toronto, ON, Canada.
 
@@ -530,8 +524,6 @@ Tut
 2025-08-31 to 09-05: [International Conference on Molecular Energy Transfer in Complex Systems (iCOMET 2025)](https://www2.sci.u-szeged.hu/icomet2025/home), Szeged, Hungary.
 
 2025-08-31 to 09-05: [Oberwolfach Workshop on Large Scale Stochastic Dynamics](https://mfo.de/occasion/2536/www_view), Oberwolfach, Germany.
-
-2025-09-01 to 04: [Royal Statistical Society International Conference (RSS 2025)](https://rss.org.uk/training-events/conference-2025/), Edinburgh, UK.
 
 2025-09-01 to 04: [Royal Statistical Society International Conference (RSS 2025)](https://rss.org.uk/training-events/conference-2025/), Edinburgh, UK.
 
@@ -575,6 +567,8 @@ Tut
 
 2025-09-14 to 19: [13th International Conference on Inertial Fusion Sciences and Applications (IFSA 2025)](https://ifsa2025.org), Tours, France.
 
+2025-09-14 to 19: [25th International Workshop on Inelastic Ion-Surface Collisions (IISC2025)](https://tuwien.at/en/phy/iap/conferences/iisc25), Frankenfels, Austria.
+
 2025-09-15 to 18: [14th European Conference on Computational and Theoretical Chemistry 2025 (EuChemS CompChem 2025)](https://eucompchem2025.unina.it), Naples, Italy.
 
 2025-09-15 to 19: [20th Theory of Quantum Computation, Communication and Cryptography Conference (TQC 2025)](https://tqc-conference.org), Bangelore, India.
@@ -601,13 +595,11 @@ Tut
 
 2025-09-22 to 26: [Workshop on The determination of \[DFT+U\] Hubbard parameters: progress, pitfalls, and prospects](https://sites.google.com/view/hubbard-workshop-2025/home), Gandia, Spain.
 
-2025-09-23 to 26: [20th International Workshop on Plasma Edge Theory in Fusion Devices (PET 2025)](https://mech.kuleuven.be/en/tme/research/thermal/news), Leuven, Belgium.
-
-2025-09-23 to 26: [20th International Workshop on Plasma Edge Theory in Fusion Devices (PET 2025)](https://mech.kuleuven.be/en/tme/research/thermal/news), Leuven, Belgium. (Preliminary link.)
+2025-09-23 to 26: [20th International Workshop on Plasma Edge Theory in Fusion Devices (PET 2025)](https://pet2025.com/), Leuven, Belgium.
 
 2025-09-23 to 26: [21st European Fusion Theory Conference (EFTC 2025)](https://indico.global/event/13788/), Aix-en-Provence, France.
 
-2025-10-05 to 09: [65th ISI World Statistics Congress (ISI 2025)](https://isi-next.org/conferences/isi-wsc2025/), The Hague, Netherlands.
+2025-09-28 to 10-03: [22nd International Conference on Fusion Reactor Materials (ICFRM 2025)](https://icfrm-22.com), Shizuoka, Japan.
 
 2025-10-05 to 09: [65th ISI World Statistics Congress (ISI 2025)](https://isi-next.org/conferences/isi-wsc2025/), The Hague, Netherlands.
 
@@ -635,15 +627,15 @@ Tut
 
 2025-11-03 to 06: [14th Asian-European International Conference on Plasma Surface Engineering (AEPSE 2025) in parallel with International Conference on Surface Engineering (ICSE 2025)](http://aepse.org/2025/), Phuket, Thailand.
 
-2025-11-03 to 07: [ECTstar Workshop on                                 Neutron-Capture Reactions for Astrophysical Processes](https://indico.ectstar.eu/event/246/), Trento, Italy.
+2025-11-03 to 07: [ECTstar Workshop on Neutron-Capture Reactions for Astrophysical Processes](https://indico.ectstar.eu/event/246/), Trento, Italy.
 
 2025-11-09 to 13: [35th Annual Astronomical Data Analysis Software and Systems Conference (ADASS 2025)](https://adass.org), Goerlitz, Germany.
 
+2025-11-09 to 14: [16th International Symposium on Fusion Nuclear Technology (ISFNT 2025)](https://isfnt-16.ornl.gov), Knoxville, TN, USA.
+
 2025-11-17 to 21: [11th ECTstar Workshop on Information and Statistics in Nuclear Experiment and Theory (ESNET 2025)](https://indico.ectstar.eu/event/247/), Trento, Italy.
 
-2025-11-17 to 21: [67th Annual Meeting of the APS Division of Plasma Physics (APS-DPP 2025)](https://engage.aps.org/dpp/meetings/upcoming), Long Beach, CA, USA.
-
-2025-11-17 to 21: [67th Annual Meeting of the APS Division of Plasma Physics (APS-DPP 2025)](https://engage.aps.org/dpp/meetings/upcoming), Long Beach, CA, USA. (Preliminary link.)
+2025-11-17 to 21: [67th Annual Meeting of the APS Division of Plasma Physics (APS-DPP 2025)](https://engage.aps.org/dpp/meetings/annual-meeting), Long Beach, CA, USA.
 
 2025-11-25 to 28: [CECAM Flagship Workshop on Uncertainty quantification in atomistic modeling: From uncertainty-aware density functional theory to machine learning](https://cecam.org/workshop-details/uncertainty-quantification-in-atomistic-modeling-from-uncertainty-aware-density-functional-theory-to-machine-learning-1380), Lausanne, Switzerland.
 
@@ -651,13 +643,9 @@ Tut
 
 2025-12-07 to 12: [Workshop on Bayesian Uncertainty Quantification in Large Models (BIRS 25w5329)](https://birs.ca/events/2025/5-day-workshops/25w5329), Chennai, India.
 
-2025-12-07 to 12: [Workshop on Bayesian Uncertainty Quantification in Large Models (BIRS 25w5329)](https://birs.ca/events/2025/5-day-workshops/25w5329), Chennai, India.
-
 2025-12-08 to 11: [CECAM Flagship Workshop on Recent advances in first-principles modeling of electron-phonon interactions](https://cecam.org/workshop-details/recent-advances-in-first-principles-modeling-of-electron-phonon-interactions-1383), Lausanne, Switzerland.
 
 2025-12-09 to 15: [Annual Conference on Neural Information Processing Systems (NeurIPS 2025)](http://wikicfp.com/cfp/servlet/event.showcfp?eventid=182647&copyownerid=163282), San Diego, CA, USA.
-
-2025-12-10 to 12: [EURANDOM Workshop on MCMC Methodology and Theory](https://eurandom.tue.nl/event/methodology-and-theory-mcmc/), Eindhoven, The Netherlands.
 
 2025-12-10 to 12: [EURANDOM Workshop on MCMC Methodology and Theory](https://eurandom.tue.nl/event/methodology-and-theory-mcmc/), Eindhoven, The Netherlands.
 
@@ -668,14 +656,6 @@ Tut
 2025-12-15 to 18: [4th IMS International Conference on Statistics and Data Science (ICSDS 2025)](https://sites.google.com/view/ims-icsds2025/), Sevilla, Spain.
 
 2025-12-17 to 20: [Joint Meeting of Taipei International Statistical Symposium (TISS) and 13th ICSA International Conference (JOINT 2025)](https://www3.stat.sinica.edu.tw/joint2025/), Taipei, Taiwan.
-
-2025-08-04 to 08: [Summer school on "Topological data analysis in stochastic geometry and image processing"](https://sites.google.com/view/aarhustda/), Aarhus Institute of Advanced Studies, Aarhus, Denmark.
-
-2025-11-09 to 14: [16th International Symposium on Fusion Nuclear Technology (ISFNT 2025)](https://isfnt-16.ornl.gov), Knoxville, TN, USA.
-
-2025-09-14 to 19: [25th International Workshop on Inelastic Ion-Surface Collisions (IISC2025)](https://tuwien.at/en/phy/iap/conferences/iisc25), Frankenfels, Austria.
-
-2025-09-28 to 10-03: [22nd International Conference on Fusion Reactor Materials (ICFRM 2025)](https://icfrm-22.com), Shizuoka, Japan.
 
 ### 2026
 
@@ -693,6 +673,10 @@ Tut
 
 2026-04-20 to 24: [25th International Stellarator-Heliotron Workshop (ISHW 2025)](https://ipp.mpg.de/4022808/ISHW), Cordoba, Spain. (Preliminary link.)
 
+2026-05-17 to 22: [27th International Conference on Plasma-Surface Interactions in Controlled Fusion Devices (PSI 2026)](https://www.ipp.mpg.de/psi27/), Regensburg, Germany.
+
+2026-05-31 to 06-04: [27th ANS Topical Meetings on Technology of Fusion Energy (TOFE 2026)](https://ans.org/meetings/view-398/), Denver, CO, USA.
+
 2026-05-31 to 06-06: [12th International Conference "Inverse Problems: Modeling and Simulation" (IPMS 2026)](https://ipms-conference.org/ipms2026/), Malta.
 
 2026-06-01 to 30 (to be specified): [9th International Conference on Image Formation in X-Ray Computed Tomography (CT 2026)](https://ct-meeting.org), Salt Lake City, UT, USA.
@@ -709,6 +693,8 @@ Tut
 
 2026-07-01 to 31 (to be specified): [Medical Imaging with Deep Learning (MIDL 2026)](https://2026.midl.io), Taipei, Taiwan.
 
+2026-07-07 to 11: [27th Europhysics Conference on Atomic and Molecular Physics of Ionized Gases (ESCAMPIG 2026)](https://escampig2024.physics.muni.cz), Madeira, Spain. (Preliminary announcement.)
+
 2026-07-19 to 24: [Gordon Research Conference on Computational Chemistry - Molecular Discovery and Simulation in the AI Era](https://grc.org/computational-chemistry-conference/2026/), Barcelona, Spain.
 
 2026-07-23 to 30: [International Congress of Mathematicians (ICM 2026)](https://icm2026.org), Philadelphia, PA, USA.
@@ -724,12 +710,6 @@ Tut
 2026-08-31 to 09-03: [20th International Conference on Plasma Surface Engineering (PSE 2026)](https://pse-conferences.net), Erfurt, Germany.
 
 2026-09-07 to 11: [22nd International Conference on the Physics of Highly Charged Ions (HCI 2026)](https://indico.impcas.ac.cn/event/75/), Huizhou, China.
-
-2026-07-07 to 11: [27th Europhysics Conference on Atomic and Molecular Physics of Ionized Gases (ESCAMPIG 2026)](https://escampig2024.physics.muni.cz), Madeira, Spain. (Preliminary announcement.)
-
-2026-05-17 to 22: [27th International Conference on Plasma-Surface Interactions in Controlled Fusion Devices (PSI 2026)](https://www.ipp.mpg.de/psi27/), Regensburg, Germany.
-
-2026-05-31 to 06-04: [27th ANS Topical Meetings on Technology of Fusion Energy (TOFE 2026)](https://ans.org/meetings/view-398/), Denver, CO, USA.
 
 2026 tbd: European X-ray Spectrometry Conference (EXRS), Catania, Italy.
 
