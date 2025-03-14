@@ -2,3 +2,6 @@
 h1, h2, h3 {
   color: green;
 }
+p {
+  margin: 6px 0px !important /* Override default spacing */
+}
