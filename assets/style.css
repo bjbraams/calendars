@@ -3,5 +3,5 @@ h1, h2, h3 {
   color: green;
 }
 p {
-  margin: 20px 0px !important; /* force override default settings */
+  margin: 3px 0px !important; /* force override default settings */
 }
