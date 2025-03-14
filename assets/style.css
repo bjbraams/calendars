@@ -2,6 +2,8 @@
 h1, h2, h3 {
   color: green;
 }
+/* Comment this out
 p {
-  margin: 3px 0px !important; /* force override default settings */
+  margin: 3px 0px !important;
 }
+*/
