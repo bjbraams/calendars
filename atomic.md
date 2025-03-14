@@ -99,7 +99,7 @@ Tut
 
 2025-03-04 to 07: [42nd International Symposium on Theoretical Aspects of Computer Science (STACS 2025)](https://stacs2025.de), Jena, Germany.
 
-2025-03-09-14: [Workshop on Efficient Approximate Bayesian Inference (BIRS 25w5335)](https://birs.ca/events/2025/5-day-workshops/25w5335), Banff, AB, Canada.
+2025-03-09 to 14: [Workshop on Efficient Approximate Bayesian Inference (BIRS 25w5335)](https://birs.ca/events/2025/5-day-workshops/25w5335), Banff, AB, Canada.
 
 2025-03-09 to 12: [Mesilla Chemistry Workshop 2025 Machine Learning in Molecular and Multiscale Dynamics](https://chemistry.nmsu.edu/mesilla-chemistry-workshop/meeting-2025.html), Mesilla, NM, USA.
 
