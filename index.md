@@ -20,7 +20,15 @@
 
 [Quantum Computing](https://bjbraams.github.io/calendars/quantumcomputing).
 
-[Scientific Data Analysis](https://bjbraams.github.io/calendars/scientificdata).
+[Theoretical Computer Science, Algorithms and Complexity]().
+
+[Machine Learning and Artificial Intelligence]().
+
+[Computational Science for Inverse Problems and Uncertainty Quantification]().
+
+[Optimization Theory]().
+
+[Applied Statistics and Data Analysis, and other not yet categorized](https://bjbraams.github.io/calendars/scientificdata).
 
 ## Other Meeting Lists and Calendars
 
