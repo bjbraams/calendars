@@ -30,6 +30,8 @@
 
 [Applied Statistics and Data Analysis, and other not yet categorized](https://bjbraams.github.io/calendars/scientificdata).
 
+[Not yet categorized](https://bjbraams.github.io/calendars/inprogress).
+
 ## Other Meeting Lists and Calendars
 
 [Upcoming conferences in the world of fusion science, fusion technology, plasma physics and energy](https://www.iter.org/conferences) by ITER Organization.
