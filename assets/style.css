@@ -1,7 +1,8 @@
 /* Testing */
-h1, h2 {
+h1, h2, h3 {
   color: green;
 }
 p {
+  line-height: 1.1 !important;
   margin: 3px 0px !important; /* Override default spacing */
 }
