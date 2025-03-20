@@ -508,7 +508,7 @@ Tut
 
 2025-07-08 to 11: [24th IEEE International Symposium on Parallel and Distributed Computing (ISPDC 2025)](https://ispdc2025.inria.fr), Rennes, France.
 
-2025-07-08 to 11: [52nd EATCS International Colloquium on Automata](ICALP 2025), Languages, and Programming](https://conferences.au.dk/icalp2025), Aarhus, Denmark.
+2025-07-08 to 11: [52nd EATCS International Colloquium on Automata, Languages, and Programming (ICALP 2025)](https://conferences.au.dk/icalp2025), Aarhus, Denmark.
 
 2025-07-13 to 08-03: [Aspen Summer Workshop on Cold and Ultracold Molecules for Fundamental Physics and Many-Body Quantum Science](https://aspenphys.org/summer-workshops/#event5562), Aspen, CO, USA.
 
