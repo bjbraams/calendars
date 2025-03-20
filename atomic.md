@@ -660,6 +660,8 @@ Tut
 
 ### 2026
 
+2026-01-12 to 16: [IPAM Workshop New Frontiers in Quantum Algorithms for Open Quantum Systems](https://ipam.ucla.edu/programs/workshops/new-frontiers-in-quantum-algorithms-for-open-quantum-systems/), Los Angeles, CA, USA.
+
 2026-01-12 to 16: [Nonparametric Bayesian Inference - Computational Issues](https://icerm.brown.edu/program/topical_workshop/tw-26-bnp), Providence, RI, USA.
 
 2026-02-02 to 06: [Randomized Numerical Linear Algebra Workshop](https://icerm.brown.edu/program/semester_program_workshop/sp-s26-w1), Providence, RI, USA.
@@ -668,7 +670,11 @@ Tut
 
 2026-03-02 to 06: [Workshop on Bayesian Inverse Problems and UQ](https://icerm.brown.edu/program/semester_program_workshop/sp-s26-w2), Providence, RI, USA.
 
+2026-03-10 to 13: [Chemical Compound Space Conference (CCSC 2026)](https://ccsc2026.github.io), Erlangen, Germany.
+
 2026-04-13 to 17: [Workshop on Simulation-Based Optimization with Applications](https://icerm.brown.edu/program/semester_program_workshop/sp-s26-w3), Providence, RI, USA.
+
+2026-04-16 to 19: [International Workshop on Ultra-Fast and X-Ray Science (WUFXS 2026)](http://lps.ecnu.edu.cn/wufxs2026/), Shanghai, China.
 
 2026-04-19 to 24: [Gordon Research Conference Molecular and Ionic Clusters](https://grc.org/molecular-and-ionic-clusters-conference/2026/), Lucca, Italy.
 
@@ -676,11 +682,17 @@ Tut
 
 2026-05-17 to 22: [27th International Conference on Plasma-Surface Interactions in Controlled Fusion Devices (PSI 2026)](https://www.ipp.mpg.de/psi27/), Regensburg, Germany.
 
+2026-05-23 to 29: [28th Conference on Computing in High Energy and Nuclear Physics (CHEP 2026)](https://chep2026.phys.sc.chula.ac.th), Bangkok, Thailand. See [also](https://indico.cern.ch/event/1471803/).
+
 2026-05-31 to 06-04: [27th ANS Topical Meetings on Technology of Fusion Energy (TOFE 2026)](https://ans.org/meetings/view-398/), Denver, CO, USA.
 
 2026-05-31 to 06-06: [12th International Conference "Inverse Problems: Modeling and Simulation" (IPMS 2026)](https://ipms-conference.org/ipms2026/), Malta.
 
 2026-06-01 to 30 (to be specified): [9th International Conference on Image Formation in X-Ray Computed Tomography (CT 2026)](https://ct-meeting.org), Salt Lake City, UT, USA.
+
+2026-06-08 to 12: [IMSI Workshop Mathematical Aspects of 2D Quantum Materials and Meta-materials](https://imsi.institute/activities/mathematical-aspects-of-2d-quantum-materials-and-meta-materials/), Chicago, IL, USA.
+
+2026-06-14 to 19: [18th International Symposium on Capture Gamma-Ray Spectroscopy and Related Topics (CGS 2026)](https://mpi-hd.mpg.de/mpi/de/forschung/abteilungen-und-gruppen/gespeicherte-und-gekuehlte-ionen/veranstaltungen/konferenzen), Monterey, CA, USA. (Mention only.)
 
 2026-06-15 to 18: [31st Symposium on Plasma Physics and Technology](https://plasmaconference.cz), Prague, Czech Republic.
 
@@ -689,6 +701,8 @@ Tut
 2026-06-28 to 07-03: [40th International Workshop on Statistical Modelling (IWSM 2026)](http://statmod.org/workshops.htm), Oslo, Norway. (Announcement only).
 
 2026-06-28 to 07-03: [Gordon Research Conference Molecular Interactions and Dynamics](https://grc.org/molecular-interactions-and-dynamics-conference/2026/), Easton, MA, USA.
+
+2026-06-29 to 07-03: [Conference on Attosecond and Free-Electron Laser Science (Atto-FEL 2026)](https://linkedin.com/posts/agapi-emmanouilidou-2702a06b_dear-all-the-atto-fel-2026-conference-on-activity-7298750876557443072-TpFc/), London, UK. (Announcement only.)
 
 2026-07-01 to 08-31 (exact dates tbd): [9th High-Dimensional Quantum Dynamics Workshop (HDQD 2026)](https://hdqd2026.wordpress.com), Salamanca, Spain.
 
@@ -706,21 +720,30 @@ Tut
 
 2026-08-24 to 28: [Bernoulli Society European Meeting of Statisticians (EMS 2026)](https://bernoullisociety.org/organization/erc/ems), Lugano, Switzerland. (Preliminary announcement.)
 
+2026-08-25 to 28: [27th International Conference on Computational Statistics (CompStat 2026)](https://cmstatistics.org/CFECMStatistics2024/announcements.php), Athens, Greece. (Provisional link.)
+
 2026-08-30 to 09-06: [59th Zakopane Conference on Nuclear Physics (Zakopane 2026)](https://zakopane2026.ifj.edu.pl), Kraków, Poland.
 
 2026-08-31 to 09-03: [20th International Conference on Plasma Surface Engineering (PSE 2026)](https://pse-conferences.net), Erfurt, Germany.
 
 2026-09-07 to 11: [22nd International Conference on the Physics of Highly Charged Ions (HCI 2026)](https://indico.impcas.ac.cn/event/75/), Huizhou, China.
 
+2026 tbd: [28th International Conference on Pattern Recognition (ICPR 2026)](https://iapr.org/about-us/history-of-iapr/), Lyon, France.
+
+2026 tbd: [Conference on Nuclear Physics in Astrophysics (NPA-XII 2026)](https://eps.org/blogpost/739426/507969/Call-for-bids-Nuclear-Physics-in-Astrophysics-Conference-2026-NPA-XII-2026), tbd. (Call for bids.)
+
 2026 tbd: European X-ray Spectrometry Conference (EXRS), Catania, Italy.
 
 ### 2027
+
 Tut
 
 ## Other Meeting Lists and Calendars
+
 Tut
 
 ## Archives and Histories of Selected Serial Meetings
+
 Tut
 
 ## Past Meetings by Date
