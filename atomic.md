@@ -140,8 +140,6 @@ Tut
 
 2025-03-19 to 22: [Seminar on Stochastic Processes (SSP 2025)](https://ssp.stat.indiana.edu), Bloomington, IN, USA.
 
-2025-03-20\
-
 2025-03-22 to 23: [Deep Reconstruction Workshop 2025](https://aiai.jhu.edu/deep_reconstruction_workshop_2025/), Baltimore, MD, USA.
 
 2025-03-23 to 28: [Dagstuhl Seminar 25132 Approximation Algorithms for Stochastic Optimization](https://dagstuhl.de/25132), Wadern, Germany.
@@ -532,7 +530,7 @@ Tut
 
 2025-07-14 to 18: [ECTstar Workshop on Next Generation Ab Initio Nuclear Theory](https://indico.ectstar.eu/event/238/), Trento, Italy.
 
-2025-07-14 to 18: [IPAM Workshop Sampling, Inference, and Data-Driven Physical Modeling in Scientific Machine Learning]((https://ipam.ucla.edu/programs/workshops/sampling-inference-and-data-driven-physical-modeling-in-scientific-machine-learning-2/)), Los Angeles, CA, USA.
+2025-07-14 to 18: [IPAM Workshop Sampling, Inference, and Data-Driven Physical Modeling in Scientific Machine Learning](https://ipam.ucla.edu/programs/workshops/sampling-inference-and-data-driven-physical-modeling-in-scientific-machine-learning-2/), Los Angeles, CA, USA.
 
 2025-07-15 to 18: [7th Spatial Statistics Conference: At the Dawn of AI](https://elsevier.com/events/conferences/all/spatial-statistics), Noordwijk, The Netherlands.
 
