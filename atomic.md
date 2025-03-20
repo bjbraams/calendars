@@ -866,6 +866,8 @@ Tut
 
 2026-07-27 to 31: [Nuclear Structure (NS 2026)](https://indico.phy.anl.gov/event/45/page/97-history), Vancouver, BC, Canada. (Announcement only.)
 
+2026-08-16 to 20: [28th International Conference on Pattern Recognition (ICPR 2026)](https://iapr.org/conferences/conference-schedule/), Lyon, France. (Announcement only.)
+
 2026-08-17 to 21: [26th International Conference on Few-Body Problems in Physics (EFB 2026)](https://indico.cern.ch/event/1441702/), Prague, Czech Republic.
 
 2026-08-24 to 28: [Bernoulli Society European Meeting of Statisticians (EMS 2026)](https://bernoullisociety.org/organization/erc/ems), Lugano, Switzerland. (Preliminary announcement.)
@@ -877,8 +879,6 @@ Tut
 2026-08-31 to 09-03: [20th International Conference on Plasma Surface Engineering (PSE 2026)](https://pse-conferences.net), Erfurt, Germany.
 
 2026-09-07 to 11: [22nd International Conference on the Physics of Highly Charged Ions (HCI 2026)](https://indico.impcas.ac.cn/event/75/), Huizhou, China.
-
-2026 tbd: [28th International Conference on Pattern Recognition (ICPR 2026)](https://iapr.org/about-us/history-of-iapr/), Lyon, France.
 
 2026 tbd: [Conference on Nuclear Physics in Astrophysics (NPA-XII 2026)](https://eps.org/blogpost/739426/507969/Call-for-bids-Nuclear-Physics-in-Astrophysics-Conference-2026-NPA-XII-2026), tbd. (Call for bids.)
 
