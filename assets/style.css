@@ -3,6 +3,6 @@ h1, h2, h3 {
   color: green;
 }
 p {
-  line-height: 100% !important;
+  line-height: 105% !important;
   margin: 4px 0px !important; /* Override default spacing */
 }
