@@ -894,8 +894,6 @@ i[Calendar of Events on Low Temperature Plasma](https://plasmas-froids.cnrs.fr/e
 
 e[Ultracold Atom News Conference Listing](https://ucan.physics.utoronto.ca/conferences/).
 
-m[COMS Condensed Matter Physics and Materials](https://conference-service.com/conferences/condensed-matter-physics.html).
-
 e[Forthcoming X-ray related events, conferences, etc.](http://www.x-ray-optics.de/index.php/en/startseite-en/events) at X-Ray Optics.
 
 e[Upcoming Meetings of potential interest to X-ray, gamma-ray, cosmic-ray, and gravitational astrophysicists](https://heasarc.gsfc.nasa.gov/docs/heasarc/meetings.html).
