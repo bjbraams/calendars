@@ -41,6 +41,8 @@ Tut
 
 [International Conference on Nuclear Data for Science and Technology (ND)](https://www.oecd-nea.org/jcms/pl_40099/international-conference-on-nuclear-data-for-science-and-technology).
 
+[Past NuPECC Meetings](https://www.nupecc.org/?display=misc/meetings).
+
 [International Nuclear Physics Conference (INPC)](https://inspirehep.net/conferences?sort=dateasc&size=25&page=1&start_date=all&q=series.name%3A%22INPC%22).
 
 [International (Varenna) Conference on Nuclear Reaction Mechanisms (NRM)](https://www.icpc.it/category/nuclear-reaction-mechanisms/). (Partial archive.)
