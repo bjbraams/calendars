@@ -34,18 +34,6 @@
 
 ## Other Meeting Lists and Calendars
 
-## Archives and Histories of Selected Serial Meetings
-
-### Primarily High Temperature Plasma and Fusion Energy Science
-
-### Primarily Low Temperature Plasma and Plasma Chemistry
-
-### Primarily Atomic and Molecular Processes in Plasmas
-
-### Primarily Fusion Materials and Plasma-Material Interaction
-
-### Primarily Nuclear Structure and Reactions
-
 ### Primarily Quantum Computing
 
 [Quantum Information Processing Conference (QIP)](https://qipconference.org/previousqips).
@@ -66,20 +54,6 @@ International Conference on Quantum Communications, Networking, and Computing (Q
 
 [Quantum Techniques in Machine Learning (QTML)](https://qtml2024.org/past-conferences/). (Through 2024.)
 
-### Primarily Theoretical Computer Science, Algorithms and Complexity
-
-### Primarily Machine Learning and Artificial Intelligence
-
-### Primarily Computational Science for Inverse Problems and Uncertainty Quantification
-
-[International Conference on Computational Science (ICCS)](https://www.iccs-meeting.org/iccs2025/previous-iccs/).
-
-[International Conference "Inverse Problems: Modeling and Simulation" (IPMS)](https://www.ipms-conference.org/ipms2026/index.php/organization/history-objectives).
-
-SIAM Conference on Imaging Science (IS).
-
-IMA Conference on Inverse Problems from Theory to Application.
-
 ### Primarily Optimization Theory
 
 Integer Programming and Combinatorial Optimization (IPCO).
@@ -87,5 +61,3 @@ Integer Programming and Combinatorial Optimization (IPCO).
 Symposium on Algorithmic Game Theory (SAGT).
 
 Mathematical Optimization Society International Conference (ISMP).
-
-### Primarily Applied Statistics and Data Analysis, and other not yet categorized
