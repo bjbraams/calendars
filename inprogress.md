@@ -892,12 +892,6 @@ Tut
 
 i[Calendar of Events on Low Temperature Plasma](https://plasmas-froids.cnrs.fr/events/) from CNRS Réseau Plasma Froids.
 
-e[Ultracold Atom News Conference Listing](https://ucan.physics.utoronto.ca/conferences/).
-
-e[Forthcoming X-ray related events, conferences, etc.](http://www.x-ray-optics.de/index.php/en/startseite-en/events) at X-Ray Optics.
-
-e[Upcoming Meetings of potential interest to X-ray, gamma-ray, cosmic-ray, and gravitational astrophysicists](https://heasarc.gsfc.nasa.gov/docs/heasarc/meetings.html).
-
 q[Quantum Conference list at Quantum Technology Lab](https://quantum.info/conf/).
 
 q[Upcoming and past events calender at Quantiki](https://www.quantiki.org/calendar-node-field-dates).
