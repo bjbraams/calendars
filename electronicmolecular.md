@@ -57,6 +57,14 @@ Tut
 
 [Upcoming Meetings of potential interest to X-ray, gamma-ray, cosmic-ray, and gravitational astrophysicists](https://heasarc.gsfc.nasa.gov/docs/heasarc/meetings.html).
 
+## Newsgroups and Lists
+
+[Molecular-Dynamics-News archive](https://www.jiscmail.ac.uk/cgi-bin/wa-jisc.exe?A0=MOLECULAR-DYNAMICS-NEWS ).
+
+[Psi-k Forum Mailing Lists](https://psi-k.net/list/).
+
+[Computational Chemistry List (CCL) mailing list archive](http://www.ccl.net/chemistry/resources/messages/).
+
 ## Archives and Histories of Selected Serial Meetings
 
 ### Primarily Electronic Structure Theory
@@ -112,6 +120,30 @@ International Conference on Attosecond Science and Technology (ATTO).
 [International Free Electron Laser Conference (FEL)](https://inspirehep.net/conferences?sort=dateasc&size=1000&page=1&start_date=all&q=series.name%3A%22FEL%22).
 
 International Conference on Ultrafast Phenomena.
+
+[American Physical Society Division of Atomic, Molecular & Optical Physics (DAMOP) Past Meetings](https://engage.aps.org/damop/meetings/past-meetings).
+
+[American Physical Society Division of Chemical Physics (DCP) Past Meetings](https://engage.aps.org/dcp/meetings/archives).
+
+[IUPAP C15-Recognized Meetings on Atomic, Molecular and Optical Physics](https://iupap.org/who-we-are/internal-organization/commissions/c15-atomic-molecular-and-optical-physics/c15-conferences-and-meetings/).
+
+[Sanibel Symposium on Quantum Chemistry, Condensed Matter and Materials Physics, Dynamics, and Biological Applications](https://sanibelsymposium.qtp.ufl.edu/). (See Archived Abstracts under the Program tab.)
+
+[International Conference on Atomic Physics (ICAP)](https://conference.physics.utoronto.ca/event/1/page/2-previous-icaps).
+
+[International Conference on Precision Physics of Simple Atomic Systems (PSAS)](http://psas2020.csp.escience.cn/dct/page/70051).
+
+[European Theoretical Spectroscopy Facility Series of Workshops (ETSF)](https://www.etsf.eu/ETSF_Workshops).
+
+[International Symposium on Atomic Cluster Collisions (ISACC)](https://www.isacc-portal.org/node/1).
+
+[International Symposium on Plasma Chemistry (ISPC)](https://www.ispc-conference.org/index.php/proceedings).
+
+[International Conference on High-Resolution Molecular Spectroscopy ("PRAHA" series)](http://www.chem.uni-wuppertal.de/conference/). (Forward to Historical.)
+
+[Symposium on Atomic, Cluster and Surface Physics (SASP)](https://www.uibk.ac.at/sasp/).
+
+International Symposium on Free Radicals.
 
 ## Past Meetings by Date
 
