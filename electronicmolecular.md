@@ -25,7 +25,11 @@ Tut
 
 ## Other Meeting Lists and Calendars
 
-Tut
+[Ultracold Atom News Conference Listing](https://ucan.physics.utoronto.ca/conferences/).
+
+[Forthcoming X-ray related events, conferences, etc.](http://www.x-ray-optics.de/index.php/en/startseite-en/events) at X-Ray Optics.
+
+[Upcoming Meetings of potential interest to X-ray, gamma-ray, cosmic-ray, and gravitational astrophysicists](https://heasarc.gsfc.nasa.gov/docs/heasarc/meetings.html).
 
 ## Archives and Histories of Selected Serial Meetings
 
