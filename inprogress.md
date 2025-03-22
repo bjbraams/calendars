@@ -890,12 +890,6 @@ Tut
 
 ## Other Meeting Lists and Calendars
 
-i[Calendar of Events on Low Temperature Plasma](https://plasmas-froids.cnrs.fr/events/) from CNRS Réseau Plasma Froids.
-
-q[Quantum Conference list at Quantum Technology Lab](https://quantum.info/conf/).
-
-q[Upcoming and past events calender at Quantiki](https://www.quantiki.org/calendar-node-field-dates).
-
 ## Archives and Histories of Selected Serial Meetings
 
 Tut
