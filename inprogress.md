@@ -2,18 +2,6 @@
   <link rel="stylesheet" href="assets/style.css">
 </head>
 
-# Testing
-
-Tut
-
-## Highlights
-
-Tut
-
-## Latest Additions to the Calendar
-
-Tut
-
 ## Future and Recent Past Meetings
 
 ### 2025
@@ -888,14 +876,5 @@ Tut
 
 Tut
 
-## Other Meeting Lists and Calendars
-
-## Archives and Histories of Selected Serial Meetings
-
-Tut
-
-## Past Meetings by Date
-
-### 2025
 
 Tut
