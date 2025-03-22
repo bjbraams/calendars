@@ -33,6 +33,8 @@ Tut
 
 [COMS Plasma and Gas-discharge Physics, Nuclear Fusion](https://conference-service.com/conferences/plasma-and-gas-discharge-physics.html).
 
+[List of Events of interest to USFusionEnergy.org](https://usfusionenergy.org/index.php/events).
+
 ## Archives and Histories of Selected Serial Meetings
 
 [IAEA Fusion Energy Conference (FEC)](https://nucleus.iaea.org/sites/fusionportal/Pages/fec-landing.aspx). See [Also](https://wiki.fusion.ciemat.es/wiki/IAEA_Fusion_Energy_Conference).
