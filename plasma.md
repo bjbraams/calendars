@@ -33,6 +33,8 @@ Tut
 
 [COMS Plasma and Gas-discharge Physics, Nuclear Fusion](https://conference-service.com/conferences/plasma-and-gas-discharge-physics.html).
 
+[Conference List for Fusion Plasma maintained at National Institutes for Quantum Science and Technology](https://www.qst.go.jp/site/jt60-english/6420.html).
+
 [List of Events of interest to USFusionEnergy.org](https://usfusionenergy.org/index.php/events).
 
 ## Archives and Histories of Selected Serial Meetings
