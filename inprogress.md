@@ -896,16 +896,6 @@ e[Ultracold Atom News Conference Listing](https://ucan.physics.utoronto.ca/confe
 
 m[COMS Condensed Matter Physics and Materials](https://conference-service.com/conferences/condensed-matter-physics.html).
 
-n[COMS Nuclear Physics](https://conference-service.com/conferences/nuclear-physics.html).
-
-n[COMS Particle Accelerators](https://conference-service.com/conferences/particle-accelerators.html).
-
-n[NuPECC Calendar of Nuclear Physics Events](https://nupecc.org/index.php?display=events).
-
-n[Upcoming Events afilliated with American Nuclear Society](https://www.ans.org/meetings/).
-
-n[Conference List at Joint Institute for Nuclear Astrophysics Center for the Evolution of the Elements](https://www.jinaweb.org/science-research/scientific-resources/conference-list).
-
 e[Forthcoming X-ray related events, conferences, etc.](http://www.x-ray-optics.de/index.php/en/startseite-en/events) at X-Ray Optics.
 
 e[Upcoming Meetings of potential interest to X-ray, gamma-ray, cosmic-ray, and gravitational astrophysicists](https://heasarc.gsfc.nasa.gov/docs/heasarc/meetings.html).
