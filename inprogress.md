@@ -892,14 +892,6 @@ Tut
 
 i[Calendar of Events on Low Temperature Plasma](https://plasmas-froids.cnrs.fr/events/) from CNRS Réseau Plasma Froids.
 
-a[COMS Atomic and Molecular Physics](https://conference-service.com/conferences/atomic-and-molecular-physics.html).
-
-a[Conferences on Atomic and Plasma Physics](https://plasma-gate.weizmann.ac.il/directories/conferences/) from Plasma Laboratory at Weizmann Institute of Science.
-
-a[Conferences relevant to our AMO physics research](https://jrm.phys.ksu.edu/meetings.html) from James R. Macdonald Laboratory at Kansas State University.
-
-a[Conferences relevant to work of Stored and Cooled Ions Division at MPIK](https://www.mpi-hd.mpg.de/mpi/en/research/scientific-divisions-and-groups/stored-and-cooled-ions/events/conferences).
-
 e[Ultracold Atom News Conference Listing](https://ucan.physics.utoronto.ca/conferences/).
 
 m[COMS Condensed Matter Physics and Materials](https://conference-service.com/conferences/condensed-matter-physics.html).
