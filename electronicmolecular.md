@@ -25,6 +25,32 @@ Tut
 
 ## Other Meeting Lists and Calendars
 
+[Upcoming Scientific Conferences, list at Molecular Ultrafast Science and Technology (MUST)](http://www.nccr-must.ch/conferences/upcoming_105.html).
+
+[Announcements of Conferences, Workshops, Schools known to Psi-k Network](https://psi-k.net/events/).
+
+[COMS Conferences and Meetings on Physical (Theoretical) Chemistry, Computational Chemistry](https://conference-service.com/conferences/physical-chemistry.html).
+
+[COMS Conferences and Meetings on Atomic and Molecular Physics](https://conference-service.com/conferences/atomic-and-molecular-physics.html).
+
+[Upcoming Events and Meetings, list and announcements maintained by CCPQ - Quantum Dynamics in Atomic, Molecular and Optical Physics](https://www.ccpq.ac.uk/node/20).
+
+[Upcoming Conferences supported by the EuChemS Division of Physical Chemistry](https://www.euchems.eu/divisions/physical-chemistry-2/conferences/).
+
+[Upcoming Atomic Physics Meetings, list maintained at James R. Macdonald Laboratory, KSU](https://jrm.phys.ksu.edu/meetings.html).
+
+[Conferences on Quantum Chemistry, list maintained at KIT Institute of Physical Chemistry](https://www.ipc.kit.edu/theochem/english/).
+
+[Computational Chemistry Conferences, list maintained at Computational Chemistry Group, UWA, Perth](https://www.chemtheorist.com/comp-chem-conf.html).
+
+[Events list maintained by Stored and Cooled Ions Division at Max Planck Institute for Nuclear Physics, Heidelberg, Germany](https://www.mpi-hd.mpg.de/blaum/events/).
+
+[Conferences on Atomic and Molecular Physics, list maintained by A+M Physics Group, Giessen](https://www.uni-giessen.de/fbz/fb07/fachgebiete/physik/institute/ipi/raumfahrtphysik/plasma-raumfahrtphysik/atom-und-molekuelphysik/konferenzen).
+
+[Spectroscopist's Calendar maintained by Society for Applied Spectroscopy](https://www.s-a-s.org/4DCGI/cms/review.html?Action=CMS_Document&DocID=95&MenuKey=newsletter).
+
+[Upcoming Conferences, list maintained at Computational Chemistry List (CCL)](http://www.ccl.net/chemistry/announcements/conferences/).
+
 [Ultracold Atom News Conference Listing](https://ucan.physics.utoronto.ca/conferences/).
 
 [Forthcoming X-ray related events, conferences, etc.](http://www.x-ray-optics.de/index.php/en/startseite-en/events) at X-Ray Optics.
