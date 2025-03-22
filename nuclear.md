@@ -35,6 +35,8 @@ Tut
 
 [Upcoming Events afilliated with American Nuclear Society](https://www.ans.org/meetings/).
 
+[American Physical Society Division of Nuclear Physics Meeting List](https://engage.aps.org/dnp/meetings/upcoming).
+
 [Conference List at Joint Institute for Nuclear Astrophysics Center for the Evolution of the Elements](https://www.jinaweb.org/science-research/scientific-resources/conference-list).
 
 ## Archives and Histories of Selected Serial Meetings
