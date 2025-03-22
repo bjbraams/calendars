@@ -39,6 +39,8 @@ Tut
 
 [Conference List at Joint Institute for Nuclear Astrophysics Center for the Evolution of the Elements](https://www.jinaweb.org/science-research/scientific-resources/conference-list).
 
+[Conference List maintained at JAEA Nuclear Data Center](https://wwwndc.jaea.go.jp/Mtgs/).
+
 ## Archives and Histories of Selected Serial Meetings
 
 [International Conference on Nuclear Data for Science and Technology (ND)](https://www.oecd-nea.org/jcms/pl_40099/international-conference-on-nuclear-data-for-science-and-technology).
