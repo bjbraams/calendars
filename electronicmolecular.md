@@ -43,7 +43,7 @@ Tut
 
 [Computational Chemistry Conferences, list maintained at Computational Chemistry Group, UWA, Perth](https://www.chemtheorist.com/comp-chem-conf.html).
 
-[Events list maintained by Stored and Cooled Ions Division at Max Planck Institute for Nuclear Physics, Heidelberg, Germany](https://www.mpi-hd.mpg.de/blaum/events/).
+[Events list maintained by Stored and Cooled Ions Division at Max Planck Institute for Nuclear Physics, Heidelberg, Germany](https://www.mpi-hd.mpg.de/mpi/en/research/scientific-divisions-and-groups/stored-and-cooled-ions/events). (Links to Conferences, Workshops and Schools.)
 
 [Conferences on Atomic and Molecular Physics, list maintained by A+M Physics Group, Giessen](https://www.uni-giessen.de/fbz/fb07/fachgebiete/physik/institute/ipi/raumfahrtphysik/plasma-raumfahrtphysik/atom-und-molekuelphysik/konferenzen).
 
