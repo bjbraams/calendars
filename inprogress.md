@@ -890,15 +890,7 @@ Tut
 
 ## Other Meeting Lists and Calendars
 
-p[Upcoming conferences in the world of fusion science, fusion technology, plasma physics and energy](https://www.iter.org/conferences) by ITER Organization.
-
-p[Upcoming Fusion and Plasma events](https://wiki.fusion.ciemat.es/wiki/FusionWiki:Current_events) at FusionWiki.
-
-p[International Tokamak Physics Activity meetings](https://indico.iter.org/category/3/).
-
 i[Calendar of Events on Low Temperature Plasma](https://plasmas-froids.cnrs.fr/events/) from CNRS Réseau Plasma Froids.
-
-p[COMS Plasma and Gas-discharge Physics, Nuclear Fusion](https://conference-service.com/conferences/plasma-and-gas-discharge-physics.html).
 
 a[COMS Atomic and Molecular Physics](https://conference-service.com/conferences/atomic-and-molecular-physics.html).
 
