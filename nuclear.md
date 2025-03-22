@@ -25,7 +25,15 @@ Tut
 
 ## Other Meeting Lists and Calendars
 
-Tut
+[COMS Nuclear Physics](https://conference-service.com/conferences/nuclear-physics.html).
+
+[COMS Particle Accelerators](https://conference-service.com/conferences/particle-accelerators.html).
+
+[NuPECC Calendar of Nuclear Physics Events](https://nupecc.org/index.php?display=events).
+
+[Upcoming Events afilliated with American Nuclear Society](https://www.ans.org/meetings/).
+
+[Conference List at Joint Institute for Nuclear Astrophysics Center for the Evolution of the Elements](https://www.jinaweb.org/science-research/scientific-resources/conference-list).
 
 ## Archives and Histories of Selected Serial Meetings
 
