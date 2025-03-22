@@ -890,7 +890,61 @@ Tut
 
 ## Other Meeting Lists and Calendars
 
-Tut
+[Upcoming conferences in the world of fusion science, fusion technology, plasma physics and energy](https://www.iter.org/conferences) by ITER Organization.
+
+[Upcoming Fusion and Plasma events](https://wiki.fusion.ciemat.es/wiki/FusionWiki:Current_events) at FusionWiki.
+
+[International Tokamak Physics Activity meetings](https://indico.iter.org/category/3/).
+
+[Calendar of Events on Low Temperature Plasma](https://plasmas-froids.cnrs.fr/events/) from CNRS Réseau Plasma Froids.
+
+[COMS Plasma and Gas-discharge Physics, Nuclear Fusion](https://conference-service.com/conferences/plasma-and-gas-discharge-physics.html).
+
+[COMS Atomic and Molecular Physics](https://conference-service.com/conferences/atomic-and-molecular-physics.html).
+
+[COMS Condensed Matter Physics and Materials](https://conference-service.com/conferences/condensed-matter-physics.html).
+
+[COMS Nuclear Physics](https://conference-service.com/conferences/nuclear-physics.html).
+
+[COMS Particle Accelerators](https://conference-service.com/conferences/particle-accelerators.html).
+
+[COMS Probability and Statistics, Game Theory](https://conference-service.com/conferences/probability-and-statistics.html).
+
+[Conferences on Atomic and Plasma Physics](https://plasma-gate.weizmann.ac.il/directories/conferences/) from Plasma Laboratory at Weizmann Institute of Science.
+
+[Conferences relevant to our AMO physics research](https://jrm.phys.ksu.edu/meetings.html) from James R. Macdonald Laboratory at Kansas State University.
+
+[Conferences relevant to work of Stored and Cooled Ions Division at MPIK](https://www.mpi-hd.mpg.de/mpi/en/research/scientific-divisions-and-groups/stored-and-cooled-ions/events/conferences).
+
+[Ultracold Atom News Conference Listing](https://ucan.physics.utoronto.ca/conferences/).
+
+[NuPECC Calendar of Nuclear Physics Events](https://nupecc.org/index.php?display=events).
+
+[Upcoming Events afilliated with American Nuclear Society](https://www.ans.org/meetings/).
+
+[Conference List at Joint Institute for Nuclear Astrophysics Center for the Evolution of the Elements](https://www.jinaweb.org/science-research/scientific-resources/conference-list).
+
+[Forthcoming X-ray related events, conferences, etc.](http://www.x-ray-optics.de/index.php/en/startseite-en/events) at X-Ray Optics.
+
+[Upcoming Meetings of potential interest to X-ray, gamma-ray, cosmic-ray, and gravitational astrophysicists](https://heasarc.gsfc.nasa.gov/docs/heasarc/meetings.html).
+
+[Quantum Conference list at Quantum Technology Lab](https://quantum.info/conf/).
+
+[Upcoming and past events calender at Quantiki](https://www.quantiki.org/calendar-node-field-dates).
+
+[Global Applied Probability Events Calendar](https://www.appliedprobability.org/events).
+
+[Conference List by Hugo Panzo on Probabililty and Related Fields](https://sites.google.com/view/hugopanzo/conferences).
+
+[Conferences and Workshops of interest to DMV Fachgruppe Stochastik](http://www.fg-stochastik.de/konferenzen-und-workshops.html).
+
+[Upcoming events sponsored, co-sponsored, or endorsed by International Society for Bayesian Analysis](https://bayesian.org/events/upcoming-meetings/).
+
+[Meetings Calendar by Institute of Mathematical Statistics](https://imstat.org/meetings-calendar/).
+
+[List of Conferences and Summer Schools by Carl Mueller in Probability and Related Fields](https://people.math.rochester.edu/faculty/cmlr/advice/conferences/).
+
+[Calendar of Upcoming Conferences, Workshops, and Special Programs](http://womeninprobability.org/Calendar.html) by Women in Probability.
 
 ## Archives and Histories of Selected Serial Meetings
 
