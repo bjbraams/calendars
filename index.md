@@ -28,7 +28,7 @@
 
 [Optimization Theory]().
 
-[Applied Statistics and Data Analysis, and other not yet categorized](https://bjbraams.github.io/calendars/scientificdata).
+[Applied Statistics and Data Analysis](https://bjbraams.github.io/calendars/scientificdata).
 
 [Not yet categorized](https://bjbraams.github.io/calendars/inprogress).
 
