@@ -39,6 +39,8 @@ Tut
 
 [Conference List at Joint Institute for Nuclear Astrophysics Center for the Evolution of the Elements](https://www.jinaweb.org/science-research/scientific-resources/conference-list).
 
+[Conferences relevant to work of Stored and Cooled Ions Division at MPIK](https://www.mpi-hd.mpg.de/mpi/en/research/scientific-divisions-and-groups/stored-and-cooled-ions/events/conferences).
+
 [Conference List maintained at JAEA Nuclear Data Center](https://wwwndc.jaea.go.jp/Mtgs/).
 
 ## Archives and Histories of Selected Serial Meetings
