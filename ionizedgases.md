@@ -47,8 +47,6 @@ International Symposium on High Pressure Low Temperature Plasma Chemistry (HAKON
 
 [International Conference on Reactive Plasmas (ICRP)](https://annex.jsap.or.jp/plasma/PE_files/meetings.html). (Listing with other meetings.)
 
-[International Symposium on Plasma Chemistry (ISPC)](https://www.ispc-conference.org/index.php/proceedings).
-
 [International Conference on Gas Discharges and their Applications (GD)](https://www.inp-greifswald.de/de/aktuelles/veranstaltungen/vergangene/gd-2023/). (Through 2023.)
 
 ## Past Meetings by Date
