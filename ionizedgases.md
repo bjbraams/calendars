@@ -45,7 +45,7 @@ International Conference on Frontiers of Plasma Physics and Technology (FPPT).
 
 International Symposium on High Pressure Low Temperature Plasma Chemistry (HAKONE).
 
-[International Conference on Reactive Plasmas (ICRP)](https://www.ecei.tohoku.ac.jp/plasma/ICRP-11/images/pdf/ICRP11_GEC2022_1st.pdf). (No links.)
+[International Conference on Reactive Plasmas (ICRP)](https://annex.jsap.or.jp/plasma/PE_files/meetings.html). (Listing with other meetings.)
 
 [International Symposium on Plasma Chemistry (ISPC)](https://www.ispc-conference.org/index.php/proceedings).
 
