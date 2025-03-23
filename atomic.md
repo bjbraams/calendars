@@ -32,8 +32,6 @@ Tut
 
 [Conferences relevant to our AMO physics research](https://jrm.phys.ksu.edu/meetings.html) from James R. Macdonald Laboratory at Kansas State University.
 
-[Conferences relevant to work of Stored and Cooled Ions Division at MPIK](https://www.mpi-hd.mpg.de/mpi/en/research/scientific-divisions-and-groups/stored-and-cooled-ions/events/conferences).
-
 ## Archives and Histories of Selected Serial Meetings
 
 [International Conference on Photonic, Electronic and Atomic Collisions (ICPEAC) central website](https://www.ucd.ie/icpeac/).
