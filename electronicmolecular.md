@@ -25,8 +25,6 @@ Tut
 
 ## Other Meeting Lists and Calendars
 
-[Upcoming Scientific Conferences, list at Molecular Ultrafast Science and Technology (MUST)](http://www.nccr-must.ch/conferences/upcoming_105.html).
-
 [Announcements of Conferences, Workshops, Schools known to Psi-k Network](https://psi-k.net/events/).
 
 [COMS Conferences and Meetings on Physical (Theoretical) Chemistry, Computational Chemistry](https://conference-service.com/conferences/physical-chemistry.html).
