@@ -4,6 +4,14 @@
 
 # Testing
 
+## Table of Contents
+- [Highlights](#highlights)
+- [Latest Additions to the Calendar](#latest-additions-to-the-calendar)
+- [Future and Recent Past Meetings](#future-and-recent-past-meetings)
+- [Other Meeting Lists and Calendars](#other-meeting-lists-and-calendars)
+- [Archives and Histories of Selected Serial Meetings](#archives-and-histories-of-selected-serial-meetings)
+- [Past Meetings by Date](#past-meetings-by-date)
+
 2025-03-20\
 **09:44**
 
