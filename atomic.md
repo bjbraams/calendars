@@ -64,10 +64,6 @@ International Workshop on Radiative Properties of Hot Dense Matter (RPHDM).
 
 [International Conference on Precision Physics of Simple Atomic Systems (PSAS)](https://indico.cern.ch/event/1329533/page/31462-previous-editions). (Through 2024.)
 
-[International Symposium on Atomic Cluster Collisions (ISACC)](https://www.isacc-portal.org/prev). (Through 2025.)
-
-[International Symposium on Free Radicals](https://www.thefrs.org/about-frs).
-
 ## Past Meetings by Date
 
 ### 2025
