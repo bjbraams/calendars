@@ -143,7 +143,9 @@ International Conference on Ultrafast Phenomena.
 
 [Symposium on Atomic, Cluster and Surface Physics (SASP)](https://www.uibk.ac.at/sasp/).
 
-International Symposium on Free Radicals.
+[International Symposium on Atomic Cluster Collisions (ISACC)](https://www.isacc-portal.org/prev). (Through 2025.)
+
+[International Symposium on Free Radicals](https://www.thefrs.org/about-frs).
 
 ## Past Meetings by Date
 
