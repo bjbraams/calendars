@@ -4,7 +4,7 @@
 
 # Testing
 
-## Table of Contents
+## Contents
 - [Highlights](#highlights)
 - [Latest Additions to the Calendar](#latest-additions-to-the-calendar)
 - [Future and Recent Past Meetings](#future-and-recent-past-meetings)
@@ -12,10 +12,8 @@
 - [Archives and Histories of Selected Serial Meetings](#archives-and-histories-of-selected-serial-meetings)
 - [Past Meetings by Date](#past-meetings-by-date)
 
-2025-03-20\
-**09:44**
-
 ## Highlights
+
 Tut
 
 ## Latest Additions to the Calendar
@@ -75,4 +73,5 @@ International Workshop on Radiative Properties of Hot Dense Matter (RPHDM).
 ## Past Meetings by Date
 
 ### 2025
+
 Tut
