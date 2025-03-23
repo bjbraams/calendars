@@ -66,8 +66,6 @@ International Workshop on Radiative Properties of Hot Dense Matter (RPHDM).
 
 [International Symposium on Atomic Cluster Collisions (ISACC)](https://www.isacc-portal.org/prev). (Through 2025.)
 
-[International Symposium on Plasma Chemistry (ISPC)](https://www.ispc-conference.org/index.php/proceedings).
-
 [International Symposium on Free Radicals](https://www.thefrs.org/about-frs).
 
 ## Past Meetings by Date
