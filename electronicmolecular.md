@@ -31,7 +31,7 @@ Tut
 
 [COMS Conferences and Meetings on Atomic and Molecular Physics](https://conference-service.com/conferences/atomic-and-molecular-physics.html).
 
-[Upcoming Events and Meetings, list and announcements maintained by CCPQ - Quantum Dynamics in Atomic, Molecular and Optical Physics](https://www.ccpq.ac.uk/node/20).
+[Upcoming Events and Meetings, list and announcements maintained by CCPQ - Quantum Dynamics in Atomic, Molecular and Optical Physics](https://www.ccpq.ac.uk/events/).
 
 [Upcoming Conferences supported by the EuChemS Division of Physical Chemistry](https://www.euchems.eu/divisions/physical-chemistry-2/conferences/).
 
