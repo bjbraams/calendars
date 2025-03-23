@@ -38,6 +38,8 @@ Tut
 
 [Conferences relevant to our AMO physics research](https://jrm.phys.ksu.edu/meetings.html) from James R. Macdonald Laboratory at Kansas State University.
 
+[Conferences on Atomic and Molecular Physics, list maintained by A+M Physics Group, Giessen](https://www.uni-giessen.de/fbz/fb07/fachgebiete/physik/institute/ipi/raumfahrtphysik/plasma-raumfahrtphysik/atom-und-molekuelphysik/konferenzen).
+
 ## Archives and Histories of Selected Serial Meetings
 
 [International Conference on Photonic, Electronic and Atomic Collisions (ICPEAC) central website](https://www.ucd.ie/icpeac/).
