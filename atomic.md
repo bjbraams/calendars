@@ -51,7 +51,7 @@ Tut
 
 [European Group on Atomic Systems (EGAS)](https://www.eps-egas.org/).
 
-[Europhysics Conference on Atomic and Molecular Physics of Ionized Gases (ESCAMPIG)](https://escampig2024.physics.muni.cz/). (Through 2024. Scroll down to ESCAMPIG Conference History.)
+[Europhysics Conference on Atomic and Molecular Physics of Ionized Gases (ESCAMPIG)](https://escampig2024.physics.muni.cz/). (Through 2024. Scroll down.)
 
 [Atomic Processes in Plasmas (APiP) Conference](https://physics.nist.gov/Meetings/APIP/history.html).
 
