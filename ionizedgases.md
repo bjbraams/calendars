@@ -41,6 +41,8 @@ International Conference on Frontiers of Plasma Physics and Technology (FPPT).
 
 [International Conference on Phenomena in Ionized Gases (ICPIG)](https://www.icpig2023.com/home/history). (Very limited.)
 
+[International Symposium on Plasma Chemistry (ISPC)](https://www.ispc-conference.org/index.php/proceedings).
+
 International Symposium on High Pressure Low Temperature Plasma Chemistry (HAKONE).
 
 [International Conference on Reactive Plasmas (ICRP)](https://www.ecei.tohoku.ac.jp/plasma/ICRP-11/images/pdf/ICRP11_GEC2022_1st.pdf). (No links.)
