@@ -179,6 +179,8 @@ Tut
 
 ## Other Meeting Lists and Calendars
 
+### Primarily Plasma Physics, Fusion and Astrophysical Plasma
+
 [Upcoming conferences in the world of fusion science, fusion technology, plasma physics and energy](https://www.iter.org/conferences) by ITER Organization.
 
 [Upcoming Fusion and Plasma events](https://wiki.fusion.ciemat.es/wiki/FusionWiki:Current_events) at FusionWiki.
@@ -189,9 +191,15 @@ Tut
 
 [List of Events of interest to USFusionEnergy.org](https://usfusionenergy.org/index.php/events).
 
+### Primarily Ioned Gases and Plasma Chemistry
+
+[Calendar of Events on Low Temperature Plasma](https://plasmas-froids.cnrs.fr/events/) from CNRS Réseau Plasma Froids.
+
+[Directory of Plasma Conferences maintained by IEEE Nuclear and Plasma Sciences Society](https://ieee-npss.org/directory-of-plasma-conferences/).
+
 ## Archives and Histories of Selected Serial Meetings
 
-### Primarily Plasma Physics
+### Primarily Plasma Physics, Fusion and Astrophysical Plasma
 
 [IAEA Fusion Energy Conference (FEC)](https://nucleus.iaea.org/sites/fusionportal/Pages/fec-landing.aspx). See [Also](https://wiki.fusion.ciemat.es/wiki/IAEA_Fusion_Energy_Conference).
 
