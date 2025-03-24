@@ -13,8 +13,6 @@
 - [Archives and Histories of Selected Serial Meetings](#archives-and-histories-of-selected-serial-meetings)
 - [Past Meetings by Date](#past-meetings-by-date)
 
-2025-03-23 11:39
-
 ## Highlights
 
 Tut
