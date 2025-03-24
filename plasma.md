@@ -23,6 +23,8 @@ Tut
 
 ## Future and Recent Past Meetings
 
+### 2025
+
 2025-04-07 to 10: [51st Annual IOP Plasma Physics Conference](https://iop.eventsair.com/plasma2025/), London, UK.
 
 2025-04-07 to 10: [6th European Conference on Plasma Diagnostics (ECPD 2025)](https://indico.ipp.cas.cz/event/30/), Prague, Czech Republic.
@@ -174,8 +176,6 @@ Tut
 2026 tbd: European X-ray Spectrometry Conference (EXRS), Catania, Italy?
 
 ### 2027
-
-Tut
 
 ## Other Meeting Lists and Calendars
 
