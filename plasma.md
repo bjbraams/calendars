@@ -191,6 +191,8 @@ Tut
 
 ## Archives and Histories of Selected Serial Meetings
 
+### Primarily Plasma Physics
+
 [IAEA Fusion Energy Conference (FEC)](https://nucleus.iaea.org/sites/fusionportal/Pages/fec-landing.aspx). See [Also](https://wiki.fusion.ciemat.es/wiki/IAEA_Fusion_Energy_Conference).
 
 [American Physical Society Division of Plasma Physics (APS-DPP) Meetings Archive](https://engage.aps.org/dpp/meetings/archives).
@@ -226,6 +228,12 @@ International Symposium on Laser-Aided Plasma Diagnostics (LAPD).
 [Joint Varenna- Lausanne International Workshop on Theory of Fusion Plasmas](https://varenna-lausanne.epfl.ch/).
 
 [International Conference on the Physics of Non-Ideal Plasmas](https://pnp.web.ox.ac.uk/). (Through 2024.)
+
+### Primarily Ionized Gases and Plasma Chemistry
+
+### Primarily Atomic Processes in Plasmas
+
+### Primarily Plasma-Material Interaction
 
 ## Past Meetings by Date
 
