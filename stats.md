@@ -105,6 +105,8 @@ Tut
 
 2025-09-08 to 12: [12th International Conference on Stochastic Analysis and its Applications (ICSAA 2025)](https://sites.google.com/view/icsaa2025/), Bucharest, Romania.
 
+2025-09-09 to 12: [34th International Conference on Artificial Neural Networks (ICANN 2025)](https://e-nns.org/icann2025/), Kaunas, Lithuania.
+
 2025-09-15 to 19: [European Conference on Machine Learning and Principles and Practice of Knowledge Discovery in Databases (ECML-PKDD 2025)](https://ecmlpkdd.org/2025/), Porto, Portugal.
 
 2025-10-05 to 09: [65th ISI World Statistics Congress (ISI 2025)](https://isi-next.org/conferences/isi-wsc2025/), The Hague, Netherlands.
