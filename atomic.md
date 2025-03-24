@@ -43,6 +43,8 @@ Tut
 
 [Conferences on Atomic and Molecular Physics](https://www.uni-giessen.de/fbz/fb07/fachgebiete/physik/institute/ipi/raumfahrtphysik/plasma-raumfahrtphysik/atom-und-molekuelphysik/konferenzen), list maintained by A+M Physics Group, Giessen.
 
+[List of Upcoming Meetings at HEASARC](https://heasarc.gsfc.nasa.gov/docs/heasarc/meetings.html).
+
 ## Archives and Histories of Selected Serial Meetings
 
 [International Conference on Photonic, Electronic and Atomic Collisions (ICPEAC) central website](https://www.ucd.ie/icpeac/).
