@@ -214,8 +214,6 @@ e2026-07-01 to 08-31 (exact dates tbd): [9th High-Dimensional Quantum Dynamics W
 
 e2026-07-19 to 24: [Gordon Research Conference on Computational Chemistry - Molecular Discovery and Simulation in the AI Era](https://grc.org/computational-chemistry-conference/2026/), Barcelona, Spain.
 
-n2025-09-09 to 12: [34th International Conference on Artificial Neural Networks (ICANN 2025)](https://e-nns.org/icann2025/), Kaunas, Lithuania.
-
 o2025-03-04 to 06: [International Conference on Optimization (SIGOPT 2025)](https://sigopt2025.uni-siegen.de), Siegen, Germany.
 
 o2025-06-17 to 20: [Modeling and Optimization: Theory and Applications (MOPTA 2025)](https://coral.ise.lehigh.edu/mopta2025/), Ponta Delgada, Azores, Portugal.
