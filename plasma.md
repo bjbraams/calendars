@@ -211,6 +211,8 @@ Tut
 
 ### Primarily Plasma-Material Interaction
 
+[COMS Condensed Matter Physics and Materials](https://conference-service.com/conferences/condensed-matter-physics.html).
+
 ## Archives and Histories of Selected Serial Meetings
 
 ### Primarily Plasma Physics, Fusion and Astrophysical Plasma
