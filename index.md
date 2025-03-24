@@ -10,7 +10,7 @@
 
 [Electronic and Molecular Structure and Dynamics](https://bjbraams.github.io/calendars/electronicmolecular).
 
-[Theoretical Computer Science, Algorithms, Complexity and Quantum Computing](tcs).
+[Theoretical Computer Science, Algorithms, Complexity and Quantum Computing](https://bjbraams.github.io/calendars/tcs).
 
 [Machine Learning and Artificial Intelligence]().
 
