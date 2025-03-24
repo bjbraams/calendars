@@ -4,51 +4,7 @@
 
 ## Future and Recent Past Meetings
 
-a2025-01-08 to 11: [24th National Conference on Atomic and Molecular Physics (NCAMP 2025)](https://isamp.in/society-activities/conferences), Dhanbad, India.
-
-a2025-01-26 to 02-01: [45th International Workshop on High Energy Density Physics with Intense Ion and Laser Beams](https://indico.gsi.de/event/19829/), Hirschegg, Germany.
-
-a2025-02-24 to 27: [16th Conference of Young Researchers in Atomic and Molecular Physics (J2IFAM 2025)](https://j2ifam2025.uva.es), Valladolid, Spain.
-
-a2025-02-24 to 28: [Extreme Atomic Physics Workshop (EAS 2025)](https://pks.mpg.de/~eas/), Riezlern, Kleinwalsertal, Austria.
-
-a2025-04-15 to 18: [12th International Workshop on Warm Dense Matter (WDM 2025)](https://sandia.gov/wdm/), Santa Fe, NM, USA.
-
-a2025-04-23 to 25: [Workshop on Ion-electron effects in large scale atomistic modelling (ELLAM 2025)](https://ellam.aalto.fi), Aalto University, Espoo, Finland.
-
-a2025-05-12 to 15: [8th International Conference on Matter and Radiation at Extremes](http://icmre2025.mre.org.cn/en-us/), Xi'an, China.
-
-a2025-06-02 to 07: [26th International Conference on Laser Spectroscopy (ICOLS 2025)](https://icols2025.it), Elba Island, Italy.
-
-a2025-06-09 to 13: [15th Serbian Conference on Spectral Line Shapes in Astrophysics (SCSLSA 2025)](http://servo.aob.rs/scslsa/), Niš, Serbia.
-
-a2025-06-18 to 20: [ELI User Meeting 2025](https://indico.eli-laser.eu/event/194/), Szeged, Hungary.
-
-a2025-06-21 to 26: [Extreme Ultraviolet Lithography (EUVL) and Source Workshop 2025](https://euvlitho.com), Cambridge, MA, USA.
-
-a2025-06-23 to 27: [29th Central European Workshop on Quantum Optics (CEWQO 2025)](https://cewqo29.ff.vu.lt), Vilnius, Lithuania.
-
-a2025-06-30 to 07-03: [19th Ultrafast X-Ray Summer School](https://indico.psi.ch/event/17172/), Villigen, Switzerland.
-
-a2025-06-30 to 07-04: [15th European Conference on Atoms Molecules and Photons (ECAMP 2025)](https://ecamp15.org), Innsbruck, Austria.
-
-a2025-07-21 to 24: [XVIII Iberian Joint Meeting on Atomic and Molecular Physics (IBER 2025)](https://iber2025.webs5.uvigo.es), Vigo, Spain.
-
-a2025-07-21 to 25: [22nd International Conference on Atomic Processes in Plasmas (APiP 2025)](https://yebisu.ils.uec.ac.jp/apip2025/), Tokyo, Japan.
-
-a2025-07-25 to 27: [29th International Symposium on Ion-Atom Collisions (ISIAC 2025)](https://ion-beam.jp/isiac2025/), Kyoto, Japan. (Satellite of ICPEAC).
-
-a2025-07-27 to 08-01: [Conference on Strongly Coupled Coulomb Systems (SCCS 2025)](https://event.fourwaves.com/sccs2025/), Lake Tahoe, NV, USA.
-
-a2025-07-28: [3rd meeting on Electron, Photon, and Ion Collisions with Molecular and Atomic Nanostructures (EPIC-MAN)](https://epic-man3.sciencesconf.org), Sapporo, Japan. Satellite of ICPEAC 2025.
-
-a2025-07-29 to 08-05: [34th International Conference on Photonic, Electronic, and Atomic Collisions (ICPEAC 2025)](https://icpeac2025.jp), Sapporo, Japan.
-
-a2025-08-25 to 29: [Ninth AtomDB Workshop and Workweek](https://etix.com/ticket/p/63582623/), Cambridge, MA, USA.
-
-a2026-09-07 to 11: [22nd International Conference on the Physics of Highly Charged Ions (HCI 2026)](https://indico.impcas.ac.cn/event/75/), Huizhou, China.
-
-a2026 tbd: European X-ray Spectrometry Conference (EXRS), Catania, Italy?
+e2025-01-08 to 10: [22nd International Workshop on Computational Physics and Materials Science: Total Energy and Force Methods](https://indico.ictp.it/event/10815/), ICTP, Trieste, Italy.
 
 e2025-01-08 to 10: [RSC Spectroscopy and Dynamics Group Annual Meeting (SDG 2025)](https://shop.le.ac.uk/conferences-and-events/leicester-conferences/spectroscopy-annual-meeting), Leicester, UK.
 
@@ -56,9 +12,11 @@ e2025-02-16 to 21: [Oberwolfach Mini-Workshop on New Directions in Correlated Qu
 
 e2025-02-16 to 22: [ITAMP 2025 Winter School on Quantum Revolution in AMO Sciences](https://lweb.cfa.harvard.edu/itamp-event/2025-winter-school-quantum-revolution-amo-sciences), Biosphere 2, Oracle, AZ, USA.
 
-e2025-02-19 to 20: [4th Quantum Matters in Materials Science Workshop (QMMS 2025)](https://nist.gov/news-events/events/2025/02/quantum-matters-material-sciences-qmms), NIST, Gaithersburg, MD, USA. [Previous events in the series](https://jarvis.nist.gov/events/qmms).
+e2025-02-19 to 20: [4th Quantum Matters in Materials Science Workshop (QMMS 2025)](https://nist.gov/news-events/events/2025/02/quantum-matters-material-sciences-qmms), NIST, Gaithersburg, MD, USA.
 
 e2025-02-23 to 28: [64th Sanibel Symposium (on quantum chemical theory)](https://sanibelsymposium.qtp.ufl.edu), St. Augustine Beach, FL, USA.
+
+e2025-02-24 to 27: [16th Conference of Young Researchers in Atomic and Molecular Physics (J2IFAM 2025)](https://j2ifam2025.uva.es), Valladolid, Spain.
 
 e2025-02-24 to 28: [International Workshop on Machine Learning for Quantum Matter](https://pks.mpg.de/mlqmat25), Dresden, Germany.
 
@@ -72,9 +30,13 @@ e2025-03-27 to 28: [Symposium "Can Ice Be Described from First Principles?”](h
 
 e2025-03-31 to 04-02: [37th Molecular Modeling Workshop (MMWS 2025)](https://mmws2025.mgms-ds.de), Erlangen, Germany.
 
+e2025-03-31 to 04-03: [CECAM Flagship Workshop Fulfilling the Multiscale Promise in Materials: Getting Information out of the Atomistic Scale](https://cecam.org/workshop-details/fulfilling-the-multiscale-promise-in-materials-getting-information-out-of-the-atomistic-scale-1283), Lausanne, Switzerland & online.
+
 e2025-04-07 to 18: [10th CECAM School and Workshop on Time-Dependent Density-Functional Theory: Prospects and Applications](https://cecam.org/workshop-details/10th-school-and-workshop-on-time-dependent-density-functional-theory-prospects-and-applications-1340), Benasque, Spain.
 
 e2025-04-21 to 25: [11th Conference of the Asia-Pacific Association of Theoretical and Computational Chemists (APATCC 2025)](https://apatcc11.jp), Kobe, Japan.
+
+e2025-04-23 to 25: [Workshop on Ion-electron effects in large scale atomistic modelling (ELLAM 2025)](https://ellam.aalto.fi), Aalto University, Espoo, Finland.
 
 e2025-05-05 to 09: [26th Symposium on the Jahn-Teller effect: Vibronic Coupling and Jahn-Teller Effects in Molecules, Solids, and Nanoscale Materials](https://sites.google.com/view/jt26th-2025/), Online.
 
@@ -98,6 +60,8 @@ e2025-05-26 to 30: [CECAM Conference YRM 2025 - 21st ETSF Young Researchers' Mee
 
 e2025-06-02 to 04: [4th European Conference on Molecular Spintronics (ECMolS 2025)](https://tcd.ie/physics/conferences/ecmols-2025/), Dublin, Ireland.
 
+e2025-06-02 to 05: [CECAM Flagship Workshop on Virtual Materials Design: AI, Simulation, and Workflows](https://cecam.org/workshop-details/virtual-materials-design-ai-simulation-and-workflows-1398), Eggenstein-Leopoldshafen, Germany.
+
 e2025-06-04 to 06: [40th Symposium on Chemical Kinetics and Dynamics (SCKD 2025)](http://sckd.jp/40Kobe/index_e.php), Kobe, Japan.
 
 e2025-06-08 to 13: [13th International Conference on Chemical Kinetics (ICCK 2025)](https://icck2025.lbl.gov), Lake Tahoe, NV, USA.
@@ -109,6 +73,8 @@ e2025-06-15 to 20: [Gordon Research Conference Atomic Physics: Cold Atoms and Mo
 e2025-06-16 to 19: [Conference on Excited State Processes (ESP 2025)](https://web.cvent.com/event/2d34d179-9bf3-4c99-a8a5-69e3bbb4532f/), Santa Fe, NM, USA.
 
 e2025-06-16 to 20: [56th Annual Meeting of the APS Division of Atomic, Molecular and Optical Physics (APS-DAMOP 2025)](https://aps.org/events/2025/atomic-molecular-optical-physics), Portland, OR, USA.
+
+e2025-06-16 to 27: [Los Alamos Computational Condensed Matter Summer School 2025](https://laccmss.github.io/2025/), Los Alamos, NM, USA.
 
 e2025-06-18 to 20: [Current Trends in Electronic-Structure Theory (CTEST 2025)](https://ctest2025.com), Copenhagen, Denmark. Satellite of WATOC 2025.
 
@@ -160,6 +126,8 @@ e2025-07-16 to 18: [CECAM Flagship Workshop Advancing simulation, analysis and  
 
 e2025-07-20 to 25: [16th International Conference on Electronic Spectroscopy and Structure (ICESS 2025)](https://icess-16.lbl.gov), Berkeley, CA, USA.
 
+e2025-07-20 to 25: [Gordon Research Conference Dynamics at Surfaces](https://grc.org/dynamics-at-surfaces-conference/2025/), Holderness, NH, USA.
+
 e2025-07-21 to 23: [Joint ICTP-WE Heraeus Conference on Non-equilibrium Quantum Statistical Physics (ICTP smr 4090)](https://indico.ictp.it/event/10855), Trieste, Italy.
 
 e2025-08-03 to 08: [37th International Symposium on Free Radicals (FRS 2025)](https://thefrs.org), Snowbird, UT, USA.
@@ -193,6 +161,10 @@ e2025-09-02 to 05: [Conference on Extreme Light and Chiral Molecular Systems (EL
 e2025-09-06 to 12: [BEC conference on quantum gases and related fields (BEC 2025)](https://indico.phys.ethz.ch/event/143/), Sant Feliu de Guíxols, Spain.
 
 e2025-09-08 to 11: [20th Central European Symposium on Theoretical Chemistry (CESTC 2025)](https://cestc2025.fchpt.stuba.sk), High Tatras, Slovakia.
+
+e2025-09-08 to 12: [Conference on Frontiers in Atomistic Simulations: from Physics to Chemistry and Biology (ICTP smr 4098)](https://indico.ictp.it/event/10863), Trieste, Italy.
+
+e2025-09-14 to 18: [18th European Congress and Exhibition on Advanced Materials and Processes](https://euromat2025.com), Granada, Spain.
 
 e2025-09-15 to 18: [14th European Conference on Computational and Theoretical Chemistry 2025 (EuChemS CompChem 2025)](https://eucompchem2025.unina.it), Naples, Italy.
 
@@ -242,80 +214,6 @@ e2026-07-01 to 08-31 (exact dates tbd): [9th High-Dimensional Quantum Dynamics W
 
 e2026-07-19 to 24: [Gordon Research Conference on Computational Chemistry - Molecular Discovery and Simulation in the AI Era](https://grc.org/computational-chemistry-conference/2026/), Barcelona, Spain.
 
-i2025-01-31 to 02-05: [25th Symposium on Applications of Plasma Processes (SAPP 2025) and 14th EU-Japan Joint Symposium on Plasma Processing](https://neon.dpp.fmph.uniba.sk/sapp/), Štrbské Pleso, Slovakia.
-
-i2025-02-24 to 03-07: [Workshop Modeling Complex (Astro)Chemical Systems - Astrochemistry meets Data Science](https://munich-iapbp.de/activities/activities-2025/astrochemical-systems), Garching/Munich, Germany.
-
-i2025-05-05 to 09: [11th International Conference on Frontiers of Plasma Physics and Technology (FPPT 2025)](http://cro-vacuum.hr/2025/01/30/https-www-fpptseries-org/), Dubrovnik, Croatia.
-
-i2025-05-18 to 22: [Tenth International Conference on the Physics of Dusty Plasmas (ICPDP 2025)](https://icpdp2025.dryfta.com), Eindhoven, The Netherlands.
-
-i2025-06-15 to 20: [25th IEEE Pulsed Power Conference (PPC 2025) and the 52nd IEEE International Conference on Plasma Science (ICOPS 2025)](https://ppps2025.kit.edu), Berlin, Germany.
-
-i2025-06-15 to 20: [26th International Symposium on Plasma Chemistry (ISPC 2025)](https://ispc-conference.org), Minneapolis, MN, USA.
-
-i2025-06-17 to 19: [14th International Meeting on Atomic and Molecular Physics and Chemistry (IMAMPC 2025)](https://imampc2025.sciencesconf.org), Caen, France.
-
-i2025-06-23 to 27: [Workshop Atmospheric Discharges in Dynamic Environments](https://ctrwiae.org/events), Bath, UK.
-
-i2025-07-20 to 25: [36th International Conference on Phenomena in Ionized Gases (ICPIG 2025)](https://icpig2025.sciencesconf.org), Aix-en-Provence, France.
-
-i2025-09-01 to 05: [10th Central European Symposium on Plasma Chemistry (CESPC 2025)](https://cespc.inflpr.ro), Bucharest, Romania.
-
-i2025-09-01 to 05: [Conference on Partially ionized plasmas in astrophysics (PIPA 2025)](https://uib.no/en/ift/173827/partially-ionized-plasmas-astrophysics-pipa2025), Bergen, Norway.
-
-i2025-09-15 to 19: [IPPLM International Conference on Research and Application of Plasma (PLASMA 2025)](https://plasma2025.ipplm.pl), Warsaw, Poland.
-
-i2025-09-23 to 25: [21st Plasma Technology Conference (PT 2025)](https://pt21-kiel.de), Kiel, Germany.
-
-i2025-10-13 to 17: [78th Gaseous Electronics Conference (GEC 2025)](https://apsgec.org/gec2025/), Seoul, Korea.
-
-i2026-06-15 to 18: [31st Symposium on Plasma Physics and Technology](https://plasmaconference.cz), Prague, Czech Republic.
-
-i2026-07-07 to 11: [27th Europhysics Conference on Atomic and Molecular Physics of Ionized Gases (ESCAMPIG 2026)](https://escampig2024.physics.muni.cz), Madeira, Spain. (Preliminary announcement.)
-
-i2026-11-30 to 12-03: [12th International Conference on Reactive Plasmas (ICRP 2026)](https://annex.jsap.or.jp/plasma/PE_files/meetings.html), Kanazawa, Japan.
-
-m2025-01-08 to 10: [22nd International Workshop on Computational Physics and Materials Science: Total Energy and Force Methods](https://indico.ictp.it/event/10815/), ICTP, Trieste, Italy.
-
-m2025-03-31 to 04-03: [CECAM Flagship Workshop Fulfilling the Multiscale Promise in Materials: Getting Information out of the Atomistic Scale](https://cecam.org/workshop-details/fulfilling-the-multiscale-promise-in-materials-getting-information-out-of-the-atomistic-scale-1283), Lausanne, Switzerland & online.
-
-m2025-05-19 to 23: [20th International Conference on Plasma-Facing Materials and Components for Fusion Applications (PFMC 2025)](https://pfmc20.com), Ljubljana, Slovenia.
-
-m2025-05-26 to 28: [7th International Workshop on Models and Data for Plasma-Material Interaction in Fusion Devices (MoD-PMI 2025)](https://amdis.iaea.org/meetings/mod-pmi-2025/), Vienna, Austria.
-
-m2025-06-01 to 06: [20th International Conference on Positron Annihilation (ICPA 2025)](https://confit.atlas.jp/guide/event/icpa20/top), Takamatsu, Japan.
-
-m2025-06-02 to 05: [CECAM Flagship Workshop on Virtual Materials Design: AI, Simulation, and Workflows](https://cecam.org/workshop-details/virtual-materials-design-ai-simulation-and-workflows-1398), Eggenstein-Leopoldshafen, Germany.
-
-m2025-06-08 to 13: [22nd International Conference on Radiation Effects in Insulators (REI 2025)](https://rei22madrid.csic.es), Madrid, Spain.
-
-m2025-06-16 to 27: [Los Alamos Computational Condensed Matter Summer School 2025](https://laccmss.github.io/2025/), Los Alamos, NM, USA.
-
-m2025-07-20 to 25: [Gordon Research Conference Dynamics at Surfaces](https://grc.org/dynamics-at-surfaces-conference/2025/), Holderness, NH, USA.
-
-m2025-08-17 to 22: [27th Ion Beam Analysis (IBA) and 19th Particle-Induced  X-ray Emission (PIXE) Joint Conference](https://ibapixe.org), Montreal, QC, Canada.
-
-m2025-08-24 to 29: [38th European Conference on Surface Science (ECOSS 2025)](https://ecoss38.pt), Braga, Portugal.
-
-m2025-08-25 to 29: [27th International Conference on Ion-Surface Interactions (ISI 2025)](http://isi2025.yarsu.ru/eng/first_en.html), Ryazan, Russia.
-
-m2025-09-08 to 12: [Conference on Frontiers in Atomistic Simulations: from Physics to Chemistry and Biology (ICTP smr 4098)](https://indico.ictp.it/event/10863), Trieste, Italy.
-
-m2025-09-14 to 18: [18th European Congress and Exhibition on Advanced Materials and Processes](https://euromat2025.com), Granada, Spain.
-
-m2025-09-14 to 19: [25th International Workshop on Inelastic Ion-Surface Collisions (IISC2025)](https://tuwien.at/en/phy/iap/conferences/iisc25), Frankenfels, Austria.
-
-m2025-09-28 to 10-03: [22nd International Conference on Fusion Reactor Materials (ICFRM 2025)](https://icfrm-22.com), Shizuoka, Japan.
-
-m2025-11-03 to 06: [14th Asian-European International Conference on Plasma Surface Engineering (AEPSE 2025) in parallel with International Conference on Surface Engineering (ICSE 2025)](http://aepse.org/2025/), Phuket, Thailand.
-
-m2026-05-17 to 22: [27th International Conference on Plasma-Surface Interactions in Controlled Fusion Devices (PSI 2026)](https://www.ipp.mpg.de/psi27/), Regensburg, Germany.
-
-m2026-06-21 to 26: [24th International Conference on Ion Beam Modification of Materials (IBMM 2026)](https://helsinki.fi/en/conferences/ibmm-2026), Helsinki, Finland.
-
-m2026-08-31 to 09-03: [20th International Conference on Plasma Surface Engineering (PSE 2026)](https://pse-conferences.net), Erfurt, Germany.
-
 n2025-09-09 to 12: [34th International Conference on Artificial Neural Networks (ICANN 2025)](https://e-nns.org/icann2025/), Kaunas, Lithuania.
 
 o2025-03-04 to 06: [International Conference on Optimization (SIGOPT 2025)](https://sigopt2025.uni-siegen.de), Siegen, Germany.
@@ -329,70 +227,6 @@ o2025-07-19 to 24: [8th International Conference on Continuous Optimization (ICC
 o2025-10-08 to 10: [12th International Conference of Networks, Games, Control and Optimization (NETGCOOP 2025)](https://netgcoop2025.univ-avignon.fr), Bilbao, Spain.
 
 o2026-04-13 to 17: [Workshop on Simulation-Based Optimization with Applications](https://icerm.brown.edu/program/semester_program_workshop/sp-s26-w3), Providence, RI, USA.
-
-p2025-01-20 to 23: [17th Latin American Workshop on Plasma Physics](http://fis.puc.cl/~lawpp/), Santiago, Chile.
-
-p2025-01-28 to 30: [32nd European Fusion Programme Workshop (EFPW 2025)](https://indico.euro-fusion.org/category/381/), Granada, Spain.
-
-p2025-02-25 to 26: [Fusion Industry Association Annual Policy Conference (FIA 2025)](https://fusionindustryassociation.org/fia-annual-conference-2025/), Washington, DC, USA. [See also](https://x.com/Fusion_Industry).
-
-p2025-03-18: [First Open Source Software for Fusion Energy (OSSFE 2025)](https://ossfe.github.io), Online.
-
-p2025-04-07 to 10: [51st Annual IOP Plasma Physics Conference](https://iop.eventsair.com/plasma2025/), London, UK.
-
-p2025-04-07 to 10: [6th European Conference on Plasma Diagnostics (ECPD 2025)](https://indico.ipp.cas.cz/event/30/), Prague, Czech Republic.
-
-p2025-04-07 to 11: [Inertial Fusion Energy Science and Technology Accelerated Research (IFE-STAR) Conference](https://events.bizzabo.com/IFESTAR), Breckenridge, CO, USA.
-
-p2025-04-22 to 23: [2nd ITER Private Sector Fusion Workshop](https://indico.iter.org/event/529/), Cadarache, France.
-
-p2025-04-23 to 25: [ITER Business Forum (IBF 2025)](https://iterbusinessforum.com/homepage.aspx), Marseille, France.
-
-p2025-05-12 to 13: [4th Workshop on FAIR Data in Plasma Science (FDPS 2025)](https://plasma-mds.org/ws-fair-data-plasma-science-4.html), Greifswald, Germany.
-
-p2025-05-12 to 23: [Joint ICTP-IAEA Fusion Energy School (ICTP smr 4069)](https://indico.ictp.it/event/10834), Trieste, Italy.
-
-p2025-05-19 to 22: [20th Direct Drive and Fast Ignition Workshop (DDFIW 2025)](https://indico.gsi.de/event/21177/), Darmstadt, Germany.
-
-p2025-05-19 to 22: [25th Topical Conference on Radio-Frequency Power in Plasmas (RFPPC 2025)](https://ipp.mpg.de/rfppc2025), Schloss Hohenkammer (near Munich), Germany.
-
-p2025-06-23 to 27: [IEEE Symposium on Fusion Engineering (SOFE 2025)](https://plasmafusion.eventsair.com/sofe2025/), Cambridge, MA, USA.
-
-p2025-07-07 to 11: [51st EPS Conference on Plasma Physics (EPS Plasma 2025)](https://epsplasma2025.com), Vilnius, Lithuania.
-
-p2025-08-04 to 08: [6th International Conference on Data-Driven Plasma Science (ICDDPS 2025)](https://web.cvent.com/event/7de9d238-e170-4fbf-8de5-20abc5c6eb49/), Santa Fe, NM, USA.
-
-p2025-09-01 to 05: [21st International Symposium on Laser-Aided Plasma Diagnostics (LAPD 2025)](https://lapd21.epfl.ch), Saillon les Bains, Switzerland.
-
-p2025-09-01 to 05: [Diagnostics for Fusion Reactors: The Burning Plasma Era (ICFRD 2025)](https://icpc.it/diagnostics/diagnostics-for-fusion-reactors-the-burning-plasma-era/), Varenna, Italy.
-
-p2025-09-03 to 04: [21st International Conference on Plasma Physics and Applications (CPPA 2025)](https://cespc.inflpr.ro), Bucharest, Romania.
-
-p2025-09-09 to 11: [28th International Conference on Numerical Simulation of Plasmas (ICNSP 2025)](https://pls.llnl.gov/about/events/28th-international-conference-numerical-simulation-plasmas), Berkeley, CA, USA.
-
-p2025-09-09 to 12: [29th EU-US \[Fusion Plasma\] Transport Task Force Workshop (TTF 2025)](https://ttf2025.ek.hun-ren.hu), Budapest, Hungary.
-
-p2025-09-09 to 12: [Sixth Technical Meeting on Fusion Data Processing, Validation and Analysis](https://iaea.org/events/evt2405091), Shanghai, China.
-
-p2025-09-14 to 19: [13th International Conference on Inertial Fusion Sciences and Applications (IFSA 2025)](https://ifsa2025.org), Tours, France.
-
-p2025-09-21 to 26: [14th International Conference on Tritium Science and Technology](https://tritium2025.com), Ottawa, ON, Canada.
-
-p2025-09-21 to 26: [9th Asia-Pacific Conference on Plasma Physics (AAPPS-DPP 2025)](https://aappsdpp.org/AAPPSDPPF/Meetings.html), Fukuoka, Japan.
-
-p2025-09-23 to 26: [20th International Workshop on Plasma Edge Theory in Fusion Devices (PET 2025)](https://pet2025.com/), Leuven, Belgium.
-
-p2025-09-23 to 26: [21st European Fusion Theory Conference (EFTC 2025)](https://indico.global/event/13788/), Aix-en-Provence, France.
-
-p2025-10-13 to 18: [30th IAEA Fusion Energy Conference (FEC 2025)](https://conferences.iaea.org/event/392/), Chengdu, China.
-
-p2025-11-09 to 14: [16th International Symposium on Fusion Nuclear Technology (ISFNT 2025)](https://isfnt-16.ornl.gov), Knoxville, TN, USA.
-
-p2025-11-17 to 21: [67th Annual Meeting of the APS Division of Plasma Physics (APS-DPP 2025)](https://engage.aps.org/dpp/meetings/annual-meeting), Long Beach, CA, USA.
-
-p2026-04-20 to 24: [25th International Stellarator-Heliotron Workshop (ISHW 2025)](https://ipp.mpg.de/4022808/ISHW), Cordoba, Spain. (Preliminary link.)
-
-p2026-05-31 to 06-04: [27th ANS Topical Meetings on Technology of Fusion Energy (TOFE 2026)](https://ans.org/meetings/view-398/), Denver, CO, USA.
 
 s2025-02-09 to 14: [Workshop on Stochastic Equations and Stochastic Dynamics](https://indico.global/event/9635/), Les Diablerets, Switzerland.
 
@@ -561,5 +395,3 @@ u2026-07-23 to 30: [International Congress of Mathematicians (ICM 2026)](https:/
 u2026-07 tbd: [34th International Symposium on Rarefied Gas Dynamics (RGD 2026)](https://rarefiedgasdynamics.org/2024/11/25/rgd-2026/), Brisbane, Australia.
 
 u2026-08-17 to 21: [26th International Conference on Few-Body Problems in Physics (EFB 2026)](https://indico.cern.ch/event/1441702/), Prague, Czech Republic.
-
-Tut
