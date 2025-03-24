@@ -147,6 +147,8 @@ Tut
 
 ## Other Meeting Lists and Calendars
 
+### Primarily Applied Statistics
+
 [COMS Probability and Statistics, Game Theory](https://conference-service.com/conferences/probability-and-statistics.html).
 
 [Global Applied Probability Events Calendar](https://www.appliedprobability.org/events).
@@ -167,7 +169,11 @@ Tut
 
 [List of Conferences and Schools maintained by Carl Mueller of Rochester University](https://people.math.rochester.edu/faculty/cmlr/advice/conferences/).
 
+### Primarily Machine Learning Theory
+
 ## Archives and Histories of Selected Serial Meetings
+
+### Primarily Applied Statistics
 
 [International Workshop on Statistical Modelling](http://www.statmod.org/workshops.htm).
 
@@ -184,6 +190,8 @@ International Workshop on Bayesian Inference and Maximum Entropy Methods in Scie
 StatPhys
 
 International Conference on Monte Carlo and Quasi-Monte Carlo Methods in Scientific Computing (MCQMC).
+
+### Primarily Machine Learning Theory
 
 ## Past Meetings by Date
 
