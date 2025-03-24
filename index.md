@@ -4,23 +4,13 @@
 
 ## Planned
 
-[High Temperature Plasma and Fusion Energy Science](https://bjbraams.github.io/calendars/plasmafusion).
-
-[Low Temperature Plasma and Plasma Chemistry](https://bjbraams.github.io/calendars/plasmachemistry).
-
-[Atomic and Molecular Processes in Plasmas](https://bjbraams.github.io/calendars/atomic).
-
-[Fusion Materials and Plasma-Material Interactions](https://bjbraams.github.io/calendars/plasmamaterial).
+[Plasma Physics and Related Atomic, Molecular, Optical and Materials Processes](https://bjbraams.github.io/calendars/plasma).
 
 [Nuclear Structure and Reactions](https://bjbraams.github.io/calendars/nuclear).
 
-[Electronic Structure Theory](https://bjbraams.github.io/calendars/electronicstructure).
+[Electronic and Molecular Structure and Dynamics](https://bjbraams.github.io/calendars/electronicmolecular).
 
-[Molecular Structure and Quantum Dynamics](https://bjbraams.github.io/calendars/quantumdynamics).
-
-[Quantum Computing](https://bjbraams.github.io/calendars/quantumcomputing).
-
-[Theoretical Computer Science, Algorithms and Complexity]().
+[Theoretical Computer Science, Algorithms, Complexity and Quantum Computing](tcs).
 
 [Machine Learning and Artificial Intelligence]().
 
