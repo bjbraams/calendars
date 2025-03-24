@@ -25,8 +25,6 @@ Tut
 
 ## Other Meeting Lists and Calendars
 
-[COMS Condensed Matter Physics and Materials](https://conference-service.com/conferences/condensed-matter-physics.html).
-
 ## Archives and Histories of Selected Serial Meetings
 
 ## Past Meetings by Date
