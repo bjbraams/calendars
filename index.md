@@ -8,11 +8,9 @@
 
 [Nuclear Structure and Reactions](https://bjbraams.github.io/calendars/nuclear).
 
-[Electronic and Molecular Structure and Dynamics](https://bjbraams.github.io/calendars/electronicmolecular).
+[Quantum Structure and Dynamics](https://bjbraams.github.io/calendars/qsd).
 
 [Theoretical Computer Science, Algorithms, Complexity and Quantum Computing](https://bjbraams.github.io/calendars/tcs).
-
-[Machine Learning and Artificial Intelligence]().
 
 [Computational Science for Inverse Problems and Uncertainty Quantification]().
 
