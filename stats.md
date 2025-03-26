@@ -4,7 +4,7 @@
 
 # Applied Statistics and Data Analysis
 
-Calendar of meetings in the general field of applied statistics, data analysis, machine learning theory and related subject.
+Calendar of meetings in the general field of applied statistics, data analysis, machine learning theory and related subjects.
 
 ## Contents
 
