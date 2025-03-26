@@ -4,18 +4,6 @@
 
 ## Future and Recent Past Meetings
 
-o2025-03-04 to 06: [International Conference on Optimization (SIGOPT 2025)](https://sigopt2025.uni-siegen.de), Siegen, Germany.
-
-o2025-06-17 to 20: [Modeling and Optimization: Theory and Applications (MOPTA 2025)](https://coral.ise.lehigh.edu/mopta2025/), Ponta Delgada, Azores, Portugal.
-
-o2025-06-29 to 07-02: [22nd EUROPT Conference on Advances in Continuous Optimization (EUROPT 2025)](https://europt2025.org), Southampton, UK.
-
-o2025-07-19 to 24: [8th International Conference on Continuous Optimization (ICCOPT 2025)](https://sites.google.com/view/iccopt2025), Los Angeles, CA, USA.
-
-o2025-10-08 to 10: [12th International Conference of Networks, Games, Control and Optimization (NETGCOOP 2025)](https://netgcoop2025.univ-avignon.fr), Bilbao, Spain.
-
-o2026-04-13 to 17: [Workshop on Simulation-Based Optimization with Applications](https://icerm.brown.edu/program/semester_program_workshop/sp-s26-w3), Providence, RI, USA.
-
 s2025-02-09 to 14: [Workshop on Stochastic Equations and Stochastic Dynamics](https://indico.global/event/9635/), Les Diablerets, Switzerland.
 
 s2025-02-17 to 21: [Workshop on Stochastic Processes on Random Geometries](https://tu-braunschweig.de/stochastik/aktuell/workshops), Braunschweig, Germany.
