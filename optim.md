@@ -41,7 +41,15 @@ Tut
 
 ## Other Meeting Lists and Calendars
 
+Tut.
+
 ## Archives and Histories of Selected Serial Meetings
+
+Integer Programming and Combinatorial Optimization (IPCO).
+
+Symposium on Algorithmic Game Theory (SAGT).
+
+Mathematical Optimization Society International Conference (ISMP).
 
 ## Past Meetings by Date
 
