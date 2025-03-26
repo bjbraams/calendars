@@ -51,7 +51,11 @@ Tut
 
 2025-09-14 to 19: [13th International Conference on Inertial Fusion Sciences and Applications (IFSA 2025)](https://ifsa2025.org), Tours, France.
 
+### 2026
+
 2026-09-07 to 11: [22nd International Conference on the Physics of Highly Charged Ions (HCI 2026)](https://indico.impcas.ac.cn/event/75/), Huizhou, China.
+
+### 2027
 
 ## Other Meeting Lists and Calendars
 
