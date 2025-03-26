@@ -39,8 +39,6 @@ Tut
 
 2025-06-30 to 07-03: [19th Ultrafast X-Ray Summer School](https://indico.psi.ch/event/17172/), Villigen, Switzerland.
 
-2025-06-30 to 07-04: [15th European Conference on Atoms, Molecules and Photons (ECAMP 2025)](https://ecamp15.org), Innsbruck, Austria.
-
 2025-07-21 to 25: [22nd International Conference on Atomic Processes in Plasmas (APiP 2025)](https://yebisu.ils.uec.ac.jp/apip2025/), Tokyo, Japan.
 
 2025-07-25 to 27: [29th International Symposium on Ion-Atom Collisions (ISIAC 2025)](https://ion-beam.jp/isiac2025/), Kyoto, Japan. (Satellite of ICPEAC).
