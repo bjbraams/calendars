@@ -45,6 +45,8 @@ Tut
 
 2025-09-14 to 19: [25th International Workshop on Inelastic Ion-Surface Collisions (IISC2025)](https://tuwien.at/en/phy/iap/conferences/iisc25), Frankenfels, Austria.
 
+2025-09-21 to 26: [14th International Conference on Tritium Science and Technology](https://tritium2025.com), Ottawa, ON, Canada.
+
 2025-09-28 to 10-03: [22nd International Conference on Fusion Reactor Materials (ICFRM 2025)](https://icfrm-22.com), Shizuoka, Japan.
 
 2025-11-03 to 06: [14th Asian-European International Conference on Plasma Surface Engineering (AEPSE 2025) in parallel with International Conference on Surface Engineering (ICSE 2025)](http://aepse.org/2025/), Phuket, Thailand.
