@@ -7,5 +7,5 @@ p, ul, ol {
   margin: 4px 0px !important; /* Override default spacing */
 }
 .inner {
-  max-width: 2000px;
+  max-width: 2000px !important;
 }
