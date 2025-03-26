@@ -25,7 +25,19 @@ Tut
 
 ### 2025
 
+2025-03-04 to 06: [International Conference on Optimization (SIGOPT 2025)](https://sigopt2025.uni-siegen.de), Siegen, Germany.
+
+2025-06-17 to 20: [Modeling and Optimization: Theory and Applications (MOPTA 2025)](https://coral.ise.lehigh.edu/mopta2025/), Ponta Delgada, Azores, Portugal.
+
+2025-06-29 to 07-02: [22nd EUROPT Conference on Advances in Continuous Optimization (EUROPT 2025)](https://europt2025.org), Southampton, UK.
+
+2025-07-19 to 24: [8th International Conference on Continuous Optimization (ICCOPT 2025)](https://sites.google.com/view/iccopt2025), Los Angeles, CA, USA.
+
+2025-10-08 to 10: [12th International Conference of Networks, Games, Control and Optimization (NETGCOOP 2025)](https://netgcoop2025.univ-avignon.fr), Bilbao, Spain.
+
 ### 2026
+
+2026-04-13 to 17: [Workshop on Simulation-Based Optimization with Applications](https://icerm.brown.edu/program/semester_program_workshop/sp-s26-w3), Providence, RI, USA.
 
 ### 2027
 
