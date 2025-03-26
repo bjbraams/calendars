@@ -77,6 +77,12 @@ To appear.
 
 **[International Conference on Phenomena in Ionized Gases (ICPIG)](https://www.icpig2023.com/home/history).** (Very limited.)
 
+**[European Conference on Atoms, Molecules and Photons (ECAMP)](https://www.ecamp14.org/1718-2/).** (Through 2022.)
+
+**[European Group on Atomic Systems (EGAS)](https://www.eps-egas.org/).**
+
+**[Europhysics Conference on Atomic and Molecular Physics of Ionized Gases (ESCAMPIG)](https://escampig2024.physics.muni.cz/).** (Through 2024. Scroll down.)
+
 International Conference on Frontiers of Plasma Physics and Technology (FPPT).
 
 [International Symposium on Plasma Chemistry (ISPC)](https://www.ispc-conference.org/index.php/proceedings).
