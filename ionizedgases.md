@@ -37,6 +37,8 @@ To appear.
 
 2025-06-23 to 27: [Workshop Atmospheric Discharges in Dynamic Environments](https://ctrwiae.org/events), Bath, UK.
 
+2025-06-30 to 07-04: [15th European Conference on Atoms, Molecules and Photons (ECAMP 2025)](https://ecamp15.org), Innsbruck, Austria.
+
 2025-07-20 to 25: [36th International Conference on Phenomena in Ionized Gases (ICPIG 2025)](https://icpig2025.sciencesconf.org), Aix-en-Provence, France.
 
 2025-07-21 to 24: [XVIII Iberian Joint Meeting on Atomic and Molecular Physics (IBER 2025)](https://iber2025.webs5.uvigo.es), Vigo, Spain.
