@@ -19,7 +19,7 @@ Tut
 
 ## Latest Additions to the Calendar
 
-Tut
+To appear.
 
 ## Future and Recent Past Meetings
 
@@ -69,15 +69,15 @@ Tut
 
 ## Archives and Histories of Selected Serial Meetings
 
-[American Physical Society Annual Gaseous Electronics Conference (GEC)](https://www.apsgec.org/).
+**[American Physical Society Annual Gaseous Electronics Conference (GEC)](https://www.apsgec.org/).**
 
-[International Congress on Plasma Physics (ICPP)](https://wiki.fusion.ciemat.es/wiki/International_Congress_on_Plasma_Physics).
+**[International Congress on Plasma Physics (ICPP)](https://wiki.fusion.ciemat.es/wiki/International_Congress_on_Plasma_Physics).**
 
-[IEEE International Conference on Plasma Science (ICOPS)](https://ieeexplore.ieee.org/xpl/conhome/1000568/all-proceedings).
+**[IEEE International Conference on Plasma Science (ICOPS)](https://ieeexplore.ieee.org/xpl/conhome/1000568/all-proceedings).**
+
+**[International Conference on Phenomena in Ionized Gases (ICPIG)](https://www.icpig2023.com/home/history).** (Very limited.)
 
 International Conference on Frontiers of Plasma Physics and Technology (FPPT).
-
-[International Conference on Phenomena in Ionized Gases (ICPIG)](https://www.icpig2023.com/home/history). (Very limited.)
 
 [International Symposium on Plasma Chemistry (ISPC)](https://www.ispc-conference.org/index.php/proceedings).
 
