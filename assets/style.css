@@ -6,3 +6,6 @@ p, ul, ol {
   line-height: 1.2 !important;
   margin: 4px 0px !important; /* Override default spacing */
 }
+.inner {
+  max-width: 100%;
+}
