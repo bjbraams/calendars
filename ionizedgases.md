@@ -2,7 +2,7 @@
   <link rel="stylesheet" href="assets/style.css">
 </head>
 
-# Ionized Gases, Low Temperature Plasma, Plasma Chemistry and Applications
+# Ionized Gases and Plasma Chemistry
 
 ## Contents
 
