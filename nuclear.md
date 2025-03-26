@@ -7,8 +7,6 @@
 Calendar of meetings in the general field of nuclear structure and reactions: nuclear physics and nuclear data for energy and other applications.
 In all cases, please check the meeting web page for more authoritative information. If no web page is given then the information is preliminary and it is recorded here just as a reminder.
 
-Below the main calendar there is a list of links to other meeting calendars, links to archives of selected serial meetings and a calendar of recent past meetings.
-
 ## Contents
 
 - [Highlights](#highlights)
