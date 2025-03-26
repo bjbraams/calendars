@@ -4,7 +4,9 @@
 
 ## Planned
 
-[Plasma Physics and Related Atomic, Molecular, Optical and Materials Processes](https://bjbraams.github.io/calendars/plasma).
+[Plasma Physics and Related Atomic, Molecular and Optical Processes](https://bjbraams.github.io/calendars/plasma).
+
+[Plasma-Material and Particle-Surface Interactions and Related Materials Physics](https://bjbraams.github.io/calendars/pmi)
 
 [Nuclear Structure and Reactions](https://bjbraams.github.io/calendars/nuclear).
 
