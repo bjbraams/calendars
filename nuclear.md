@@ -4,6 +4,11 @@
 
 # Nuclear Structure and Reactions
 
+Calendar of meetings in the general field of nuclear structure and reactions: nuclear physics and nuclear data for energy and other applications.
+In all cases, please check the meeting web page for more authoritative information. If no web page is given then the information is preliminary and it is recorded here just as a reminder.
+
+Below the main calendar there is a list of links to other meeting calendars, links to archives of selected serial meetings and a calendar of recent past meetings.
+
 ## Contents
 
 - [Highlights](#highlights)
@@ -15,13 +20,23 @@
 
 ## Highlights
 
-Tut
+**2025-05-25 to 30: [29th International Nuclear Physics Conference (INPC 2025)](https://inpc2025.org), Daejeon, Korea.**
+
+**2025-06-17 to 20: [Meeting of the International Network of Nuclear Reaction Data Centres (NRDC 2025)](https://www-nds.iaea.org/nrdc/nrdc_2025/), Madrid, Spain.**
+
+**2025-06-22 to 27: [16th Nuclear Data for Science and Technology Conference (ND 2025)](https://nd2025madrid.com), Madrid, Spain.**
+
+**2025-07-01 to 06: [75th International Conference “Nucleus-2025. Nuclear physics, elementary particle physics, and nuclear technologies”](https://indico.spbu.ru/event/1/), Saint Petersburg, Russia.**
+
+**2026-07-27 to 31: [Nuclear Structure (NS 2026)](https://indico.phy.anl.gov/event/45/page/97-history), Vancouver, BC, Canada.** (Announcement only.)
 
 ## Latest Additions to the Calendar
 
-Tut
+To appear.
 
 ## Future and Recent Past Meetings
+
+For any listed meeting, please follow the link for more authoritative information. If there is not an active link then the information is preliminary and serves as a reminder. 
 
 ### 2025
 
