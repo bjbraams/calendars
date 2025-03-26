@@ -53,6 +53,74 @@ Tut
 
 2026-09-07 to 11: [22nd International Conference on the Physics of Highly Charged Ions (HCI 2026)](https://indico.impcas.ac.cn/event/75/), Huizhou, China.
 
+## Other Meeting Lists and Calendars
+
+[COMS Atomic and Molecular Physics](https://conference-service.com/conferences/atomic-and-molecular-physics.html).
+
+[Conferences on Atomic and Plasma Physics](https://plasma-gate.weizmann.ac.il/directories/conferences/) from Plasma Laboratory at Weizmann Institute of Science.
+
+[Conferences relevant to our AMO physics research](https://jrm.phys.ksu.edu/meetings.html) from James R. Macdonald Laboratory at Kansas State University.
+
+[Conferences on Atomic and Molecular Physics](https://www.uni-giessen.de/fbz/fb07/fachgebiete/physik/institute/ipi/raumfahrtphysik/plasma-raumfahrtphysik/atom-und-molekuelphysik/konferenzen), list maintained by A+M Physics Group, Giessen.
+
+[List of Upcoming Meetings at HEASARC](https://heasarc.gsfc.nasa.gov/docs/heasarc/meetings.html).
+
+## Archives and Histories of Selected Serial Meetings
+
+[International Conference on Photonic, Electronic and Atomic Collisions (ICPEAC) central website](https://www.ucd.ie/icpeac/).
+
+[European Conference on Atoms, Molecules and Photons (ECAMP)](https://www.ecamp14.org/1718-2/). (Through 2022.)
+
+[European Group on Atomic Systems (EGAS)](https://www.eps-egas.org/).
+
+[Europhysics Conference on Atomic and Molecular Physics of Ionized Gases (ESCAMPIG)](https://escampig2024.physics.muni.cz/). (Through 2024. Scroll down.)
+
+[Atomic Processes in Plasmas (APiP) Conference](https://physics.nist.gov/Meetings/APIP/history.html).
+
+[International Conference on Atomic and Molecular Data and Their Applications (ICAMDATA)](https://physics.nist.gov/Icamdata/Homepage/icamdata.html).
+
+[International Conference on the Physics of Highly Charged Ions (HCI)](https://indico.impcas.ac.cn/event/75/page/159-hci-history).
+
+[International Colloquium on Atomic Physics and Oscillator Strengths for Astrophysical and Laboratory Plasmas (ASOS)](https://asos2023paris.sciencesconf.org/resource/page/id/2). (Through 2023.)
+
+International Workshop on Radiative Properties of Hot Dense Matter (RPHDM).
+
+[Atomic Data and Analysis Structure (ADAS) Workshops](https://www.adas.ac.uk/workshops.php).
+
+[Non-local Thermodynamic Equilibrium (NLTE) Code Comparison Workshop](https://nlte.nist.gov/).
+
+[Spectral Line Shapes in Plasmas (SLSP) Code Comparison Workshop](https://plasma-gate.weizmann.ac.il/slsp/).
+
+[American Physical Society Division of Atomic, Molecular, and Optical Physics (DAMOP) Annual Meetings](https://engage.aps.org/damop/meetings/past-meetings).
+
+[International Conference on Atomic Physics (ICAP)](https://icap28.com/previous-icaps/). (Through 2024.)
+
+[International Conference on Precision Physics of Simple Atomic Systems (PSAS)](https://indico.cern.ch/event/1329533/page/31462-previous-editions). (Through 2024.)
+
+## Other Meeting Lists and Calendars
+
+[COMS Atomic and Molecular Physics](https://conference-service.com/conferences/atomic-and-molecular-physics.html).
+
+[Conferences on Atomic and Plasma Physics](https://plasma-gate.weizmann.ac.il/directories/conferences/) from Plasma Laboratory at Weizmann Institute of Science.
+
+[Conferences relevant to our AMO physics research](https://jrm.phys.ksu.edu/meetings.html) from James R. Macdonald Laboratory at Kansas State University.
+
+[Conferences on Atomic and Molecular Physics](https://www.uni-giessen.de/fbz/fb07/fachgebiete/physik/institute/ipi/raumfahrtphysik/plasma-raumfahrtphysik/atom-und-molekuelphysik/konferenzen), list maintained by A+M Physics Group, Giessen.
+
+[List of Upcoming Meetings at HEASARC](https://heasarc.gsfc.nasa.gov/docs/heasarc/meetings.html).
+
+## Past Meetings by Date
+
+### 2025
+
+2025-01-20 to 23: [17th Latin American Workshop on Plasma Physics](http://fis.puc.cl/~lawpp/), Santiago, Chile.
+
 2025-01-26 to 02-01: [45th International Workshop on High Energy Density Physics with Intense Ion and Laser Beams](https://indico.gsi.de/event/19829/), Hirschegg, Germany.
 
+2025-01-28 to 30: [32nd European Fusion Programme Workshop (EFPW 2025)](https://indico.euro-fusion.org/category/381/), Granada, Spain.
+
 2025-02-24 to 28: [Extreme Atomic Physics Workshop (EAS 2025)](https://pks.mpg.de/~eas/), Riezlern, Kleinwalsertal, Austria.
+
+2025-02-25 to 26: [Fusion Industry Association Annual Policy Conference (FIA 2025)](https://fusionindustryassociation.org/fia-annual-conference-2025/), Washington, DC, USA. [See also](https://x.com/Fusion_Industry).
+
+2025-03-18: [First Open Source Software for Fusion Energy (OSSFE 2025)](https://ossfe.github.io), Online.
