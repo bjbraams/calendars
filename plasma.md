@@ -2,7 +2,7 @@
   <link rel="stylesheet" href="assets/style.css">
 </head>
 
-# Testing
+# Plasma Physics and Fusion Energy Science
 
 ## Contents
 
