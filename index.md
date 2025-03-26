@@ -25,13 +25,3 @@
 [Applied Statistics and Data Analysis](https://bjbraams.github.io/calendars/stats).
 
 [Not yet categorized](https://bjbraams.github.io/calendars/inprogress).
-
-## Other Meeting Lists and Calendars
-
-### Primarily Optimization Theory
-
-Integer Programming and Combinatorial Optimization (IPCO).
-
-Symposium on Algorithmic Game Theory (SAGT).
-
-Mathematical Optimization Society International Conference (ISMP).
