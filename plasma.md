@@ -79,8 +79,6 @@ Tut
 
 ## Other Meeting Lists and Calendars
 
-### Primarily Plasma Physics, Fusion and Astrophysical Plasma
-
 [Upcoming conferences in the world of fusion science, fusion technology, plasma physics and energy](https://www.iter.org/conferences) by ITER Organization.
 
 [Upcoming Fusion and Plasma events](https://wiki.fusion.ciemat.es/wiki/FusionWiki:Current_events) at FusionWiki.
@@ -91,21 +89,7 @@ Tut
 
 [List of Events of interest to USFusionEnergy.org](https://usfusionenergy.org/index.php/events).
 
-### Primarily Atomic Processes in Plasmas
-
-[COMS Atomic and Molecular Physics](https://conference-service.com/conferences/atomic-and-molecular-physics.html).
-
-[Conferences on Atomic and Plasma Physics](https://plasma-gate.weizmann.ac.il/directories/conferences/) from Plasma Laboratory at Weizmann Institute of Science.
-
-[Conferences relevant to our AMO physics research](https://jrm.phys.ksu.edu/meetings.html) from James R. Macdonald Laboratory at Kansas State University.
-
-[Conferences on Atomic and Molecular Physics](https://www.uni-giessen.de/fbz/fb07/fachgebiete/physik/institute/ipi/raumfahrtphysik/plasma-raumfahrtphysik/atom-und-molekuelphysik/konferenzen), list maintained by A+M Physics Group, Giessen.
-
-[List of Upcoming Meetings at HEASARC](https://heasarc.gsfc.nasa.gov/docs/heasarc/meetings.html).
-
 ## Archives and Histories of Selected Serial Meetings
-
-### Primarily Plasma Physics, Fusion and Astrophysical Plasma
 
 [IAEA Fusion Energy Conference (FEC)](https://nucleus.iaea.org/sites/fusionportal/Pages/fec-landing.aspx). See [Also](https://wiki.fusion.ciemat.es/wiki/IAEA_Fusion_Energy_Conference).
 
@@ -142,38 +126,6 @@ International Symposium on Laser-Aided Plasma Diagnostics (LAPD).
 [Joint Varenna- Lausanne International Workshop on Theory of Fusion Plasmas](https://varenna-lausanne.epfl.ch/).
 
 [International Conference on the Physics of Non-Ideal Plasmas](https://pnp.web.ox.ac.uk/). (Through 2024.)
-
-### Primarily Atomic Processes in Plasmas
-
-[International Conference on Photonic, Electronic and Atomic Collisions (ICPEAC) central website](https://www.ucd.ie/icpeac/).
-
-[European Conference on Atoms, Molecules and Photons (ECAMP)](https://www.ecamp14.org/1718-2/). (Through 2022.)
-
-[European Group on Atomic Systems (EGAS)](https://www.eps-egas.org/).
-
-[Europhysics Conference on Atomic and Molecular Physics of Ionized Gases (ESCAMPIG)](https://escampig2024.physics.muni.cz/). (Through 2024. Scroll down.)
-
-[Atomic Processes in Plasmas (APiP) Conference](https://physics.nist.gov/Meetings/APIP/history.html).
-
-[International Conference on Atomic and Molecular Data and Their Applications (ICAMDATA)](https://physics.nist.gov/Icamdata/Homepage/icamdata.html).
-
-[International Conference on the Physics of Highly Charged Ions (HCI)](https://indico.impcas.ac.cn/event/75/page/159-hci-history).
-
-[International Colloquium on Atomic Physics and Oscillator Strengths for Astrophysical and Laboratory Plasmas (ASOS)](https://asos2023paris.sciencesconf.org/resource/page/id/2). (Through 2023.)
-
-International Workshop on Radiative Properties of Hot Dense Matter (RPHDM).
-
-[Atomic Data and Analysis Structure (ADAS) Workshops](https://www.adas.ac.uk/workshops.php).
-
-[Non-local Thermodynamic Equilibrium (NLTE) Code Comparison Workshop](https://nlte.nist.gov/).
-
-[Spectral Line Shapes in Plasmas (SLSP) Code Comparison Workshop](https://plasma-gate.weizmann.ac.il/slsp/).
-
-[American Physical Society Division of Atomic, Molecular, and Optical Physics (DAMOP) Annual Meetings](https://engage.aps.org/damop/meetings/past-meetings).
-
-[International Conference on Atomic Physics (ICAP)](https://icap28.com/previous-icaps/). (Through 2024.)
-
-[International Conference on Precision Physics of Simple Atomic Systems (PSAS)](https://indico.cern.ch/event/1329533/page/31462-previous-editions). (Through 2024.)
 
 ## Past Meetings by Date
 
