@@ -25,8 +25,6 @@ Tut
 
 ### 2025
 
-2025-03-04 to 06: [International Conference on Optimization (SIGOPT 2025)](https://sigopt2025.uni-siegen.de), Siegen, Germany.
-
 2025-06-17 to 20: [Modeling and Optimization: Theory and Applications (MOPTA 2025)](https://coral.ise.lehigh.edu/mopta2025/), Ponta Delgada, Azores, Portugal.
 
 2025-06-29 to 07-02: [22nd EUROPT Conference on Advances in Continuous Optimization (EUROPT 2025)](https://europt2025.org), Southampton, UK.
@@ -48,3 +46,5 @@ Tut
 ## Past Meetings by Date
 
 ### 2025
+
+2025-03-04 to 06: [International Conference on Optimization (SIGOPT 2025)](https://sigopt2025.uni-siegen.de), Siegen, Germany.
