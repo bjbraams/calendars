@@ -2,7 +2,7 @@
   <link rel="stylesheet" href="assets/style.css">
 </head>
 
-# Nuclear Structure and Reactions
+# Plasma Light Sources
 
 ## Contents
 
