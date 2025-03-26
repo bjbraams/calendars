@@ -4,7 +4,7 @@
 
 # Nuclear Structure and Reactions
 
-Calendar of meetings in the general field of nuclear structure and reactions: nuclear physics and nuclear data for energy and other applications.
+Calendar of meetings in the general field of nuclear structure and reactions@mdash;nuclear physics and nuclear data for energy and other applications.
 In all cases, please check the meeting web page for more authoritative information. If no web page is given then the information is preliminary and it is recorded here just as a reminder.
 
 ## Contents
