@@ -2,7 +2,9 @@
   <link rel="stylesheet" href="assets/style.css">
 </head>
 
-# Testing
+# Applied Statitstics and Data Analysis
+
+Calendar of meetings in the general field of applied statistics, data analysis, machine learning theory and related subject.
 
 ## Contents
 
@@ -19,7 +21,7 @@ Tut
 
 ## Latest Additions to the Calendar
 
-Tut
+To appear.
 
 ## Future and Recent Past Meetings
 
