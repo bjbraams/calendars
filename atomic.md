@@ -75,12 +75,6 @@ Tut
 
 [International Conference on Photonic, Electronic and Atomic Collisions (ICPEAC) central website](https://www.ucd.ie/icpeac/).
 
-[European Conference on Atoms, Molecules and Photons (ECAMP)](https://www.ecamp14.org/1718-2/). (Through 2022.)
-
-[European Group on Atomic Systems (EGAS)](https://www.eps-egas.org/).
-
-[Europhysics Conference on Atomic and Molecular Physics of Ionized Gases (ESCAMPIG)](https://escampig2024.physics.muni.cz/). (Through 2024. Scroll down.)
-
 [Atomic Processes in Plasmas (APiP) Conference](https://physics.nist.gov/Meetings/APIP/history.html).
 
 [International Conference on Atomic and Molecular Data and Their Applications (ICAMDATA)](https://physics.nist.gov/Icamdata/Homepage/icamdata.html).
