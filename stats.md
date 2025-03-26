@@ -2,7 +2,7 @@
   <link rel="stylesheet" href="assets/style.css">
 </head>
 
-# Applied Statitstics and Data Analysis
+# Applied Statistics and Data Analysis
 
 Calendar of meetings in the general field of applied statistics, data analysis, machine learning theory and related subject.
 
@@ -17,7 +17,17 @@ Calendar of meetings in the general field of applied statistics, data analysis, 
 
 ## Highlights
 
-Tut
+**2025-04-24 to 28: [13th International Conference on Learning Representations (ICLR 2025)](https://iclr.cc), Singapore.**
+
+**2025-06-30 to 07-04: [38th Annual Conference on Learning Theory (COLT 2025)](http://learningtheory.org/colt2025/), Lyon, France.**
+
+**2025-07-13 to 19: [42nd International Conference on Machine Learning (ICML 2025)](https://icml.cc), Vancouver, BC, Canada.**
+
+**2025-08-02 to 07: [ASA, IMS and other Joint Statistical Meetings (JSM 2025)](https://ww2.amstat.org/meetings/jsm/2025/), Nashville, TN, USA.**
+
+**2025-10-05 to 09: [65th ISI World Statistics Congress (ISI 2025)](https://isi-next.org/conferences/isi-wsc2025/), The Hague, Netherlands.**
+
+**2025-12-09 to 15: [Annual Conference on Neural Information Processing Systems (NeurIPS 2025)](http://wikicfp.com/cfp/servlet/event.showcfp?eventid=182647&copyownerid=163282), San Diego, CA, USA.**
 
 ## Latest Additions to the Calendar
 
@@ -37,7 +47,7 @@ To appear.
 
 2025-04-23 to 25: [Workshop Quantum Machine Learning: theory meets experiments](https://quantum.univie.ac.at/events/quantum-machine-learning-workshop-2025/), Vienna, Austria.
 
-2025-04-24 to 28: [13th International Conference on Learning Representations (ICLR 2025)](https://iclr.cc), Singapore.
+**2025-04-24 to 28: [13th International Conference on Learning Representations (ICLR 2025)](https://iclr.cc), Singapore.**
 
 2025-04-29: [7th Symposium on Advances in Approximate Bayesian Inference (AABI 2025)](https://approximateinference.org), Singapore. (Co-located with [ICLR 2025](https://iclr.cc).)
 
@@ -75,11 +85,11 @@ To appear.
 
 2025-06-30 to 07-03: [22nd INFORMS Applied Probability Society Conference (INFORMS APS 2025)](https://informs-aps.isye.gatech.edu), Atlanta, GA, USA.
 
-2025-06-30 to 07-04: [38th Annual Conference on Learning Theory (COLT 2025)](http://learningtheory.org/colt2025/), Lyon, France.
+**2025-06-30 to 07-04: [38th Annual Conference on Learning Theory (COLT 2025)](http://learningtheory.org/colt2025/), Lyon, France.**
 
 2025-07-13 to 18: [39th International Workshop on Statistical Modelling (IWSM 2025)](https://iwsm2025.ie), Limerick, Ireland.
 
-2025-07-13 to 19: [42nd International Conference on Machine Learning (ICML 2025)](https://icml.cc), Vancouver, BC, Canada.
+**2025-07-13 to 19: [42nd International Conference on Machine Learning (ICML 2025)](https://icml.cc), Vancouver, BC, Canada.**
 
 2025-07-14 to 18: [44th Conference on Stochastic Processes and their Applications](https://spa.pwr.edu.pl), Wrocław, Poland.
 
@@ -93,7 +103,7 @@ To appear.
 
 2025-08-02: [Institute of Mathematical Statistics First Annual Frontiers in Statistical Machine Learning Workshop (FSML 2025)](https://fsmlims.wixsite.com/fsml25), Nashville, TN, USA. (Just before [JSM 2025](https://ww2.amstat.org/meetings/jsm/2025/).)
 
-2025-08-02 to 07: [ASA, IMS and other Joint Statistical Meetings (JSM 2025)](https://ww2.amstat.org/meetings/jsm/2025/), Nashville, TN, USA.
+**2025-08-02 to 07: [ASA, IMS and other Joint Statistical Meetings (JSM 2025)](https://ww2.amstat.org/meetings/jsm/2025/), Nashville, TN, USA.**
 
 2025-08-03 to 07: [ACM SIGKDD International Conference on Knowledge Discovery and Data Mining (KDD 2025)](https://kdd2025.kdd.org), Toronto, ON, Canada.
 
@@ -111,7 +121,7 @@ To appear.
 
 2025-09-15 to 19: [European Conference on Machine Learning and Principles and Practice of Knowledge Discovery in Databases (ECML-PKDD 2025)](https://ecmlpkdd.org/2025/), Porto, Portugal.
 
-2025-10-05 to 09: [65th ISI World Statistics Congress (ISI 2025)](https://isi-next.org/conferences/isi-wsc2025/), The Hague, Netherlands.
+**2025-10-05 to 09: [65th ISI World Statistics Congress (ISI 2025)](https://isi-next.org/conferences/isi-wsc2025/), The Hague, Netherlands.**
 
 2025-10-09 to 13: [12th IEEE International Conference on Data Science and Advanced Analytics (DSAA 2025)](https://dsaa.ieee.org/2025/), Birmingham, UK.
 
@@ -121,7 +131,7 @@ To appear.
 
 2025-12-07 to 12: [Workshop on Bayesian Uncertainty Quantification in Large Models (BIRS 25w5329)](https://birs.ca/events/2025/5-day-workshops/25w5329), Chennai, India.
 
-2025-12-09 to 15: [Annual Conference on Neural Information Processing Systems (NeurIPS 2025)](http://wikicfp.com/cfp/servlet/event.showcfp?eventid=182647&copyownerid=163282), San Diego, CA, USA.
+**2025-12-09 to 15: [Annual Conference on Neural Information Processing Systems (NeurIPS 2025)](http://wikicfp.com/cfp/servlet/event.showcfp?eventid=182647&copyownerid=163282), San Diego, CA, USA.**
 
 2025-12-10 to 12: [EURANDOM Workshop on MCMC Methodology and Theory](https://eurandom.tue.nl/event/methodology-and-theory-mcmc/), Eindhoven, The Netherlands.
 
