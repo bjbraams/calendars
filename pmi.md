@@ -4,6 +4,8 @@
 
 # Plasma-Material Interaction and Related Materials Science
 
+Including fusion-relevant materials physics such as hydrogen trapping and transport. See other [Calendars](./) for plasma physics, fusion science, atomic processes and plasma chemistry.
+
 ## Contents
 
 - [Highlights](#highlights)
@@ -15,17 +17,21 @@
 
 ## Highlights
 
-Tut
+**2025-05-19 to 23: [20th International Conference on Plasma-Facing Materials and Components for Fusion Applications (PFMC 2025)](https://pfmc20.com), Ljubljana, Slovenia.**
+
+**2025-09-28 to 10-03: [22nd International Conference on Fusion Reactor Materials (ICFRM 2025)](https://icfrm-22.com), Shizuoka, Japan.**
+
+**2026-05-17 to 22: [27th International Conference on Plasma-Surface Interactions in Controlled Fusion Devices (PSI 2026)](https://www.ipp.mpg.de/psi27/), Regensburg, Germany.**
 
 ## Latest Additions to the Calendar
 
-Tut
+To appear.
 
 ## Future and Recent Past Meetings
 
 ### 2025
 
-2025-05-19 to 23: [20th International Conference on Plasma-Facing Materials and Components for Fusion Applications (PFMC 2025)](https://pfmc20.com), Ljubljana, Slovenia.
+**2025-05-19 to 23: [20th International Conference on Plasma-Facing Materials and Components for Fusion Applications (PFMC 2025)](https://pfmc20.com), Ljubljana, Slovenia.**
 
 2025-05-26 to 28: [7th International Workshop on Models and Data for Plasma-Material Interaction in Fusion Devices (MoD-PMI 2025)](https://amdis.iaea.org/meetings/mod-pmi-2025/), Vienna, Austria.
 
@@ -47,13 +53,13 @@ Tut
 
 2025-09-21 to 26: [14th International Conference on Tritium Science and Technology](https://tritium2025.com), Ottawa, ON, Canada.
 
-2025-09-28 to 10-03: [22nd International Conference on Fusion Reactor Materials (ICFRM 2025)](https://icfrm-22.com), Shizuoka, Japan.
+**2025-09-28 to 10-03: [22nd International Conference on Fusion Reactor Materials (ICFRM 2025)](https://icfrm-22.com), Shizuoka, Japan.**
 
 2025-11-03 to 06: [14th Asian-European International Conference on Plasma Surface Engineering (AEPSE 2025) in parallel with International Conference on Surface Engineering (ICSE 2025)](http://aepse.org/2025/), Phuket, Thailand.
 
 ### 2026
 
-2026-05-17 to 22: [27th International Conference on Plasma-Surface Interactions in Controlled Fusion Devices (PSI 2026)](https://www.ipp.mpg.de/psi27/), Regensburg, Germany.
+**2026-05-17 to 22: [27th International Conference on Plasma-Surface Interactions in Controlled Fusion Devices (PSI 2026)](https://www.ipp.mpg.de/psi27/), Regensburg, Germany.**
 
 2026-06-21 to 26: [24th International Conference on Ion Beam Modification of Materials (IBMM 2026)](https://helsinki.fi/en/conferences/ibmm-2026), Helsinki, Finland.
 
