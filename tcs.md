@@ -2,7 +2,9 @@
   <link rel="stylesheet" href="assets/style.css">
 </head>
 
-# Testing
+# Theoretical Computer Science
+
+Calendar in progress. Emphasis on algorithms, complexity and quantum computing.
 
 ## Contents
 
@@ -19,7 +21,7 @@ Tut
 
 ## Latest Additions to the Calendar
 
-Tut
+To appear.
 
 ## Future and Recent Past Meetings
 
