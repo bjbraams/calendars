@@ -4,6 +4,8 @@
 
 # Atomic Process in Plasma, Warm and Hot Dense Matter
 
+Focussed on processes in high temperature plasma. See other [Calendars](../) for plasma physics, ionized gases, plasma chemistry and plasma-material interaction.
+
 ## Contents
 
 - [Highlights](#highlights)
@@ -15,11 +17,17 @@
 
 ## Highlights
 
-Tut
+**2025-04-15 to 18: [12th International Workshop on Warm Dense Matter (WDM 2025)](https://sandia.gov/wdm/), Santa Fe, NM, USA.**
+
+**2025-07-21 to 25: [22nd International Conference on Atomic Processes in Plasmas (APiP 2025)](https://yebisu.ils.uec.ac.jp/apip2025/), Tokyo, Japan.**
+
+**2025-07-29 to 08-05: [34th International Conference on Photonic, Electronic, and Atomic Collisions (ICPEAC 2025)](https://icpeac2025.jp), Sapporo, Japan.**
+
+**2026-09-07 to 11: [22nd International Conference on the Physics of Highly Charged Ions (HCI 2026)](https://indico.impcas.ac.cn/event/75/), Huizhou, China.**
 
 ## Latest Additions to the Calendar
 
-Tut
+To appear.
 
 ## Future and Recent Past Meetings
 
@@ -27,7 +35,7 @@ Tut
 
 2025-04-07 to 11: [Inertial Fusion Energy Science and Technology Accelerated Research (IFE-STAR) Conference](https://events.bizzabo.com/IFESTAR), Breckenridge, CO, USA.
 
-2025-04-15 to 18: [12th International Workshop on Warm Dense Matter (WDM 2025)](https://sandia.gov/wdm/), Santa Fe, NM, USA.
+**2025-04-15 to 18: [12th International Workshop on Warm Dense Matter (WDM 2025)](https://sandia.gov/wdm/), Santa Fe, NM, USA.**
 
 2025-05-12 to 15: [8th International Conference on Matter and Radiation at Extremes](http://icmre2025.mre.org.cn/en-us/), Xi'an, China.
 
@@ -39,13 +47,13 @@ Tut
 
 2025-06-30 to 07-03: [19th Ultrafast X-Ray Summer School](https://indico.psi.ch/event/17172/), Villigen, Switzerland.
 
-2025-07-21 to 25: [22nd International Conference on Atomic Processes in Plasmas (APiP 2025)](https://yebisu.ils.uec.ac.jp/apip2025/), Tokyo, Japan.
+**2025-07-21 to 25: [22nd International Conference on Atomic Processes in Plasmas (APiP 2025)](https://yebisu.ils.uec.ac.jp/apip2025/), Tokyo, Japan.**
 
 2025-07-25 to 27: [29th International Symposium on Ion-Atom Collisions (ISIAC 2025)](https://ion-beam.jp/isiac2025/), Kyoto, Japan. (Satellite of ICPEAC).
 
 2025-07-28: [3rd meeting on Electron, Photon, and Ion Collisions with Molecular and Atomic Nanostructures (EPIC-MAN)](https://epic-man3.sciencesconf.org), Sapporo, Japan. Satellite of ICPEAC 2025.
 
-2025-07-29 to 08-05: [34th International Conference on Photonic, Electronic, and Atomic Collisions (ICPEAC 2025)](https://icpeac2025.jp), Sapporo, Japan.
+**2025-07-29 to 08-05: [34th International Conference on Photonic, Electronic, and Atomic Collisions (ICPEAC 2025)](https://icpeac2025.jp), Sapporo, Japan.**
 
 2025-08-25 to 29: [Ninth AtomDB Workshop and Workweek](https://etix.com/ticket/p/63582623/), Cambridge, MA, USA.
 
@@ -53,7 +61,7 @@ Tut
 
 ### 2026
 
-2026-09-07 to 11: [22nd International Conference on the Physics of Highly Charged Ions (HCI 2026)](https://indico.impcas.ac.cn/event/75/), Huizhou, China.
+**2026-09-07 to 11: [22nd International Conference on the Physics of Highly Charged Ions (HCI 2026)](https://indico.impcas.ac.cn/event/75/), Huizhou, China.**
 
 ### 2027
 
