@@ -4,6 +4,8 @@
 
 # Ionized Gases and Plasma Chemistry
 
+Focused on low-temperature and atmospheric density plasma. See other [Calendars](./) for (high-temperature) plasma physics and related processes and applications.
+
 ## Contents
 
 - [Highlights](#highlights)
