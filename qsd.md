@@ -4,6 +4,8 @@
 
 # Quantum Structure and Dynamics
 
+Calendar in progress.
+
 ## Contents
 
 - [Highlights](#highlights)
@@ -19,7 +21,7 @@ Tut
 
 ## Latest Additions to the Calendar
 
-Tut
+To appear.
 
 ## Future and Recent Past Meetings
 
