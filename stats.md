@@ -177,11 +177,9 @@ To appear.
 
 [Meetings Calendar by Institute of Mathematical Statistics](https://imstat.org/meetings-calendar/).
 
-[List of Conferences and Summer Schools by Carl Mueller in Probability and Related Fields](https://people.math.rochester.edu/faculty/cmlr/advice/conferences/).
-
 [Calendar of Upcoming Conferences, Workshops, and Special Programs](http://womeninprobability.org/Calendar.html) by Women in Probability.
 
-[List of Conferences and Schools maintained by Carl Mueller of Rochester University](https://people.math.rochester.edu/faculty/cmlr/advice/conferences/).
+[List of Conferences and Summer Schools by Carl Mueller in Probability and Related Fields](https://people.math.rochester.edu/faculty/cmlr/advice/conferences/).
 
 ### Primarily Machine Learning Theory
 
