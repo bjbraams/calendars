@@ -99,13 +99,13 @@ To appear.
 
 ## Archives and Histories of Selected Serial Meetings
 
-[IAEA Fusion Energy Conference (FEC)](https://nucleus.iaea.org/sites/fusionportal/Pages/fec-landing.aspx). See [Also](https://wiki.fusion.ciemat.es/wiki/IAEA_Fusion_Energy_Conference).
+**[IAEA Fusion Energy Conference (FEC)](https://nucleus.iaea.org/sites/fusionportal/Pages/fec-landing.aspx).** See [Also](https://wiki.fusion.ciemat.es/wiki/IAEA_Fusion_Energy_Conference).
 
-[American Physical Society Division of Plasma Physics (APS-DPP) Meetings Archive](https://engage.aps.org/dpp/meetings/archives).
+**[American Physical Society Division of Plasma Physics (APS-DPP) Meetings Archive](https://engage.aps.org/dpp/meetings/archives).**
 
-[European Physical Society Conference on Plasma Physics](https://wiki.fusion.ciemat.es/wiki/European_Physical_Society_Conference_on_Plasma_Physics). See [Also](https://lac913.epfl.ch/epsppd3/).
+**[European Physical Society Conference on Plasma Physics](https://wiki.fusion.ciemat.es/wiki/European_Physical_Society_Conference_on_Plasma_Physics).** See [Also](https://lac913.epfl.ch/epsppd3/).
 
-[Asia-Pacific Conference on Plasma Physics (AAPPS-DPP)](https://www.aappsdpp.org/AAPPSDPPF/Meetings.html).
+**[Asia-Pacific Conference on Plasma Physics (AAPPS-DPP)](https://www.aappsdpp.org/AAPPSDPPF/Meetings.html).**
 
 International Conference on Inertial Fusion Sciences and Applications (IFSA).
 
