@@ -43,7 +43,7 @@ To appear.
 
 ## Other Meeting Lists and Calendars
 
-Tut.
+[COMS Listing on Optimization Theory and Operational Research](https://conference-service.com/conferences/operational-research.html).
 
 ## Archives and Histories of Selected Serial Meetings
 
