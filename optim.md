@@ -43,6 +43,8 @@ To appear.
 
 ### 2027
 
+[2027-07-25 to 30: International Symposium on Mathematical Programming (ISMP 2027)](https://vu.nl/en/events/2027/international-symposium-on-mathematical-programming-2027).
+
 ## Other Meeting Lists and Calendars
 
 [COMS Listing on Optimization Theory and Operational Research](https://conference-service.com/conferences/operational-research.html).
