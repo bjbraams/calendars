@@ -97,8 +97,6 @@ To appear.
 
 2025-07-15 to 18: [7th Spatial Statistics Conference: At the Dawn of AI](https://elsevier.com/events/conferences/all/spatial-statistics), Noordwijk, The Netherlands.
 
-2025-07-28 to 08-01: [17th Conference on Stochastic Programming](https://icsp2025.org), Paris, France.
-
 2025-07-28 to 08-15: [CODATA-RDA School and Advanced Workshops for Research Data Science (ICTP smr 4092)](https://indico.ictp.it/event/10857), Trieste, Italy.
 
 2025-08-02: [Institute of Mathematical Statistics First Annual Frontiers in Statistical Machine Learning Workshop (FSML 2025)](https://fsmlims.wixsite.com/fsml25), Nashville, TN, USA. (Just before [JSM 2025](https://ww2.amstat.org/meetings/jsm/2025/).)
