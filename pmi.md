@@ -65,6 +65,8 @@ To appear.
 
 2026-08-31 to 09-03: [20th International Conference on Plasma Surface Engineering (PSE 2026)](https://pse-conferences.net), Erfurt, Germany.
 
+**2026 tbd: 17th conference of COmputer Simulation of IRradiation Effects in Solids (COSIRES).**
+
 2026 tbd: European X-ray Spectrometry Conference (EXRS), Catania, Italy?
 
 ### 2027
