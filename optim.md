@@ -33,6 +33,8 @@ To appear.
 
 2025-07-19 to 24: [8th International Conference on Continuous Optimization (ICCOPT 2025)](https://sites.google.com/view/iccopt2025), Los Angeles, CA, USA.
 
+2025-07-28 to 08-01: [17th Conference on Stochastic Programming](https://icsp2025.org), Paris, France.
+
 2025-10-08 to 10: [12th International Conference of Networks, Games, Control and Optimization (NETGCOOP 2025)](https://netgcoop2025.univ-avignon.fr), Bilbao, Spain.
 
 ### 2026
