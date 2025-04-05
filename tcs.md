@@ -24,17 +24,29 @@ Tut
 Newly added information is shown here for about three months in reverse order of time of addition.
 
 2025-06-04 to 06: [10th IGAFIT Highlights of Algorithms Meeting](https://2025.highlightsofalgorithms.org), Zurich, Switzerland.
+
 2025-06-16 to 18: [Vienna Workshop on quantum cryptography beyond quantum key distribution (VIE-CRYPT 2025)](https://quantum.univie.ac.at/events/vie-crypt-2025/), Vienna, Austria.
+
 2025-06-30 to 07-02: [21st Spanish Meeting on Computational Geometry (EGC 2025)](https://egc2025.unican.es), Santander, Spain.
+
 2025-07-07 to 11: [International Conference on Permutation Patterns 2025](https://sites.cs.st-andrews.ac.uk/pp25/), St Andrews, UK.
+
 2025-08-11 to 15: [28th International Conference on Theory and Applications of Satisfiability Testing (SAT 2025)](https://satisfiability.org/SAT25/), Glasgow, UK.
+
 2025-08-19 to 22: [29th International Conference on Developments in Language Theory (DLT 2025)](https://cida.uos.ac.kr/dlt2025/), Seoul, Korea.
+
 2025-09-01 to 02: [Workshop on Random Simplicial Complexes and Hypergraphs (WoSCH 2025)](https://worsch25.github.io), Nottingham, UK.
+
 2025-09-02 to 05: [18th International Symposium on Algorithmic Game Theory (SAGT 2025)](https://bath.ac.uk/events/the-18th-international-symposium-on-algorithmic-game-theory/), Bath, UK.
+
 2025-09-12 to 19: [41st International Conference on Logic Programming (ICLP 2025)](https://iclp25.demacs.unical.it), Rende (CS), Italy.
+
 2025-09-15 to 17: [25th International Symposium on Fundamentals of Computation Theory (FCT 2025)](https://fct2025.cs.uni.wroc.pl), Wrocław, Poland.
+
 2025-10-06 to 10: [25th International Conference on Formal Methods in Computer-Aided Design (FMCAD 2025)](https://fmcad.org/FMCAD25/) and [17th International Conference on Verified Software: Theories, Tools, and Experiments (VSTTE 2025)](https://easychair.org/cfp/vstte25), colocated at Menlo Park, CA, USA.
+
 2025-10-27 to 31: [39th International Symposium on Distributed Computing (DISC 2025)](https://disc-conference.org/wp/disc2025/), Berlin, Germany.
+
 2025-11-10 to 12: [European Quantum Technologies Conference (EQTC 2025)](https://eqtc.eu), Copenhagen, Denmark. (Web pages expected here.).
 
 
