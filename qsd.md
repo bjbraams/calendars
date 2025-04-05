@@ -21,7 +21,17 @@ Tut
 
 ## Latest Additions to the Calendar
 
-To appear.
+Newly added information is shown here for about three months in reverse order of time of addition.
+
+2025-05-03 to 04: [Penn Conference on Theoretical Chemistry (PCTC 2025) (Ferroelectrics, Nanomaterials, Light-Matter Interactions, Next-Gen Computing & Renewable Energy)](https://pctc2025.regfox.com/pctc25), Philadelphia, PA, USA.
+
+2025-05-26 to 30: [CECAM Flagship School on New Computational Methods for Attosecond Molecular Processes](https://cecam.org/workshop-details/costzcam-school-on-new-computational-methods-for-attosecond-molecular-processes-1411), Zaragoza, Spain.
+
+2025-07-01 to 02: Theory for XFEL research in chemical and condensed matter science, London, UK. Announced on molecular-dynamics-news email list. Web page to follow.
+
+2025-07-21 to 24: [International Workshop Challenges in Designing Room Temperature Superconductors (CDRTS 2025)](https://cdrts2025.wordpress.com), Tokyo, Japan.
+
+2025-09-29 to 10-03: [Ab Initio Quantum Electrodynamics for Quantum Materials Engineering School](https://events.simonsfoundation.org/event/dd5ef895-f71f-4dee-9d8a-a1382cc28ec8/summary?RefId=Summary), New York City, NY, USA.
 
 ## Future and Recent Past Meetings
 
