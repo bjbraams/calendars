@@ -27,7 +27,7 @@ Focused on low-temperature and atmospheric density plasma. See other [Calendars]
 
 **2026-06-22 to 26: [53rd International Conference on Plasma Science (ICOPS 2026)](https://icops.ieee.org/icops2026/), Lake Tahoe, NV, USA.**
 
-**2026-07-07 to 11: [27th Europhysics Conference on Atomic and Molecular Physics of Ionized Gases (ESCAMPIG 2026)](https://escampig2024.physics.muni.cz), Madeira, Spain.** (Preliminary announcement.)
+**2026-07-07 to 11: [27th Europhysics Conference on Atomic and Molecular Physics of Ionized Gases (ESCAMPIG 2026)](https://escampig2024.physics.muni.cz), Madeira, Spain.** (Preliminary announcement.) [Searcch](https://www.google.com/search?q=27th+escampig+madeira+2026).
 
 ## Latest Additions to the Calendar
 
@@ -73,7 +73,7 @@ Newly added information is shown here for about two months in reverse order of t
 
 **2026-06-22 to 26: [53rd International Conference on Plasma Science (ICOPS 2026)](https://icops.ieee.org/icops2026/), Lake Tahoe, NV, USA.**
 
-**2026-07-07 to 11: [27th Europhysics Conference on Atomic and Molecular Physics of Ionized Gases (ESCAMPIG 2026)](https://escampig2024.physics.muni.cz), Madeira, Spain.** (Preliminary announcement.)
+**2026-07-07 to 11: [27th Europhysics Conference on Atomic and Molecular Physics of Ionized Gases (ESCAMPIG 2026)](https://escampig2024.physics.muni.cz), Madeira, Spain.** (Preliminary announcement.) [Searcch](https://www.google.com/search?q=27th+escampig+madeira+2026).
 
 2026-11-30 to 12-03: [12th International Conference on Reactive Plasmas (ICRP 2026)](https://annex.jsap.or.jp/plasma/PE_files/meetings.html), Kanazawa, Japan.
 
