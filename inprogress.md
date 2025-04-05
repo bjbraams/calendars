@@ -22,6 +22,8 @@ s2025-06-23 to 27: [Workshop on Stochastic Interacting Particle Systems and Rand
 
 s2025-07-13 to 18: [29th International Conference on Statistical Physics (StatPhys 2025)](https://statphys29.org), Florence, Italy.
 
+s2025-09-02 to 05: [Stochastics and Computational Finance (SCF 2025)](https://scf2025.iseg.ulisboa.pt), Lisbon, Portugal.
+
 s2025-10-20 to 23: [CECAM Flagship Workshop on Stochastic Dynamics in Natural and Artificial Systems](https://cecam.org/workshop-details/stochastic-dynamics-in-natural-and-artificial-systems-1428), Tel Aviv, Isael.
 
 u2025-01-27 to 31: [Workshop on Machine Learning for Analysis of High-Energy Cosmic Particles](https://events.icecube.wisc.edu/event/243/), Newark, DE, USA.
