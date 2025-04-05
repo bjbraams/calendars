@@ -25,7 +25,7 @@ Calendar of meetings in the general field of nuclear structure and reactions&mda
 
 **2025-07-01 to 06: [75th International Conference “Nucleus-2025. Nuclear physics, elementary particle physics, and nuclear technologies”](https://indico.spbu.ru/event/1/), Saint Petersburg, Russia.**
 
-**2026-07-27 to 31: [Nuclear Structure (NS 2026)](https://indico.phy.anl.gov/event/45/page/97-history), Vancouver, BC, Canada.** (Announcement only.)
+**2026-07-27 to 31: [Nuclear Structure (NS 2026)](https://indico.triumf.ca/event/745/), Vancouver, BC, Canada.**
 
 ## Latest Additions to the Calendar
 
