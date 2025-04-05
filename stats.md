@@ -165,7 +165,7 @@ Newly added information is shown here for about three months in reverse order of
 
 ## Other Meeting Lists and Calendars
 
-### Primarily Applied Statistics
+### Primarily Statistics
 
 [COMS Probability and Statistics, Game Theory](https://conference-service.com/conferences/probability-and-statistics.html).
 
@@ -187,7 +187,7 @@ Newly added information is shown here for about three months in reverse order of
 
 ## Archives and Histories of Selected Serial Meetings
 
-### Primarily Applied Statistics
+### Primarily Statistics
 
 [International Workshop on Statistical Modelling](http://www.statmod.org/workshops.htm).
 
