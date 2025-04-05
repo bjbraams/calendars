@@ -21,7 +21,7 @@ Tut
 
 ## Latest Additions to the Calendar
 
-Newly added information is shown here for about three months in reverse order of time of addition.
+Newly added information is shown here for about two months in reverse order of time of addition.
 
 2025-05-03 to 04: [Penn Conference on Theoretical Chemistry (PCTC 2025) (Ferroelectrics, Nanomaterials, Light-Matter Interactions, Next-Gen Computing & Renewable Energy)](https://pctc2025.regfox.com/pctc25), Philadelphia, PA, USA.
 
