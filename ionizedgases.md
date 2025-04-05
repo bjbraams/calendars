@@ -31,7 +31,7 @@ Focused on low-temperature and atmospheric density plasma. See other [Calendars]
 
 ## Latest Additions to the Calendar
 
-Newly added information is shown here for about three months in reverse order of time of addition.
+Newly added information is shown here for about two months in reverse order of time of addition.
 
 **2026-06-22 to 26: [53rd International Conference on Plasma Science (ICOPS 2026)](https://icops.ieee.org/icops2026/), Lake Tahoe, NV, USA.**
 
