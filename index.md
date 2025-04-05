@@ -24,6 +24,8 @@
 
 [Applied Statistics and Data Analysis](https://bjbraams.github.io/calendars/stats).
 
+[Stochastics](https://bjbraams.github.io/calendars/stoch).
+
 [Biologically-Inspired Computation](https://bjbraams.github.io/calendars/bioinsp).
 
 [Not yet categorized](https://bjbraams.github.io/calendars/inprogress).
