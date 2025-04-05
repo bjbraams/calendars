@@ -21,7 +21,22 @@ Tut
 
 ## Latest Additions to the Calendar
 
-To appear.
+Newly added information is shown here for about three months in reverse order of time of addition.
+
+2025-06-04 to 06: [10th IGAFIT Highlights of Algorithms Meeting](https://2025.highlightsofalgorithms.org), Zurich, Switzerland.
+2025-06-16 to 18: [Vienna Workshop on quantum cryptography beyond quantum key distribution (VIE-CRYPT 2025)](https://quantum.univie.ac.at/events/vie-crypt-2025/), Vienna, Austria.
+2025-06-30 to 07-02: [21st Spanish Meeting on Computational Geometry (EGC 2025)](https://egc2025.unican.es), Santander, Spain.
+2025-07-07 to 11: [International Conference on Permutation Patterns 2025](https://sites.cs.st-andrews.ac.uk/pp25/), St Andrews, UK.
+2025-08-11 to 15: [28th International Conference on Theory and Applications of Satisfiability Testing (SAT 2025)](https://satisfiability.org/SAT25/), Glasgow, UK.
+2025-08-19 to 22: [29th International Conference on Developments in Language Theory (DLT 2025)](https://cida.uos.ac.kr/dlt2025/), Seoul, Korea.
+2025-09-01 to 02: [Workshop on Random Simplicial Complexes and Hypergraphs (WoSCH 2025)](https://worsch25.github.io), Nottingham, UK.
+2025-09-02 to 05: [18th International Symposium on Algorithmic Game Theory (SAGT 2025)](https://bath.ac.uk/events/the-18th-international-symposium-on-algorithmic-game-theory/), Bath, UK.
+2025-09-12 to 19: [41st International Conference on Logic Programming (ICLP 2025)](https://iclp25.demacs.unical.it), Rende (CS), Italy.
+2025-09-15 to 17: [25th International Symposium on Fundamentals of Computation Theory (FCT 2025)](https://fct2025.cs.uni.wroc.pl), Wrocław, Poland.
+2025-10-06 to 10: [25th International Conference on Formal Methods in Computer-Aided Design (FMCAD 2025)](https://fmcad.org/FMCAD25/) and [17th International Conference on Verified Software: Theories, Tools, and Experiments (VSTTE 2025)](https://easychair.org/cfp/vstte25), colocated at Menlo Park, CA, USA.
+2025-10-27 to 31: [39th International Symposium on Distributed Computing (DISC 2025)](https://disc-conference.org/wp/disc2025/), Berlin, Germany.
+2025-11-10 to 12: [European Quantum Technologies Conference (EQTC 2025)](https://eqtc.eu), Copenhagen, Denmark. (Web pages expected here.).
+
 
 ## Future and Recent Past Meetings
 
@@ -49,6 +64,8 @@ To appear.
 
 2025-06-02 to 06: [FoQaCiA WORKSHOP Pioneering the Foundations of Quantum Computing](https://foqacia.org/foqacia-workshop-2025), Braga, Portugal.
 
+2025-06-04 to 06: [10th IGAFIT Highlights of Algorithms Meeting](https://2025.highlightsofalgorithms.org), Zurich, Switzerland.
+
 2025-06-09 to 12: [Adiabatic Quantum Computing Conference (AQC 2025)](https://aqc25.phas.ubc.ca), Vancouver, BC, Canada.
 
 2025-06-10 to 12: [14th International Conference on Algorithms and Complexity (CIAC 2025)](https://easyconferences.eu/ciac2025/), Rome, Italy.
@@ -56,6 +73,8 @@ To appear.
 2025-06-11 to 13: [51st International Workshop on Graph-Theoretic Concepts in Computer Science (WG 2025)](https://algo.uni-trier.de/wg2025/), Otzenhausen, Germany.
 
 2025-06-11 to 15: [IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR 2025)](https://cvpr.thecvf.com), Nashville, TN, USA.
+
+2025-06-16 to 18: [Vienna Workshop on quantum cryptography beyond quantum key distribution (VIE-CRYPT 2025)](https://quantum.univie.ac.at/events/vie-crypt-2025/), Vienna, Austria.
 
 2025-06-16 to 20: [2nd Workshop on Quantum Software 2025](https://pldi25.sigplan.org/home/wqs-2025), Seoul, Korea.
 
@@ -73,9 +92,13 @@ To appear.
 
 2025-06-30 to 07-03: [20th Central European Quantum Information Processing Workshop (CEQIP 2025)](http://ceqip.eu/2025/), Smolenice Castle, Slovakia.
 
+2025-06-30 to 07-02: [21st Spanish Meeting on Computational Geometry (EGC 2025)](https://egc2025.unican.es), Santander, Spain.
+
 2025-06-30 to 07-05: [International Joint Conference on Neural Networks (IJCNN 2025)](https://2025.ijcnn.org), Rome, Italy.
 
 2025-07-07 to 12: [IEEE International Conference on Quantum Software (QSW 2025)](https://services.conferences.computer.org/2025/qsw/), Helsinki, Finland. (Part of the 2025 IEEE World Congress on SERVICES.
+
+2025-07-07 to 11: [International Conference on Permutation Patterns 2025](https://sites.cs.st-andrews.ac.uk/pp25/), St Andrews, UK.
 
 2025-07-08 to 11: [24th IEEE International Symposium on Parallel and Distributed Computing (ISPDC 2025)](https://ispdc2025.inria.fr), Rennes, France.
 
@@ -99,6 +122,10 @@ To appear.
 
 2025-08-11 to 15: [7th International Conference on Quantum Error Correction (QEC 2025)](https://qec25.yalepages.org), New Haven, CT, USA.
 
+2025-08-11 to 15: [28th International Conference on Theory and Applications of Satisfiability Testing (SAT 2025)](https://satisfiability.org/SAT25/), Glasgow, UK.
+
+2025-08-19 to 22: [29th International Conference on Developments in Language Theory (DLT 2025)](https://cida.uos.ac.kr/dlt2025/), Seoul, Korea.
+
 2025-08-16 to 22: [34th International Joint Conference on Artificial Intelligence (IJCAI 2025)](https://2025.ijcai.org), Montreal, QC, Canada.
 
 2025-08-24 to 29: [Seeking Quantum Advantage: Workshop and Conference (SEEQA 2025)](https://conference.seeqa.org), Oxford, UK.
@@ -115,6 +142,15 @@ To appear.
 
 2025-09-01 to 05: [Workshop on Quantum Computing and Quantum Information](https://users.utu.fi/mikhirve/workshop2025/), Nice, France.
 
+2025-09-01 to 02: [Workshop on Random Simplicial Complexes and Hypergraphs (WoSCH 2025)](https://worsch25.github.io), Nottingham, UK.
+
+2025-09-02 to 05: [18th International Symposium on Algorithmic Game Theory (SAGT 2025)](https://bath.ac.uk/events/the-18th-international-symposium-on-algorithmic-game-theory/), Bath, UK.
+
+2025-09-12 to 19: [41st International Conference on Logic Programming (ICLP 2025)](https://iclp25.demacs.unical.it), Rende (CS), Italy.
+
+2025-09-15 to 17: [25th International Symposium on Fundamentals of Computation Theory (FCT 2025)](https://fct2025.cs.uni.wroc.pl), Wrocław, Poland.
+2025-10-06 to 10: [25th International Conference on Formal Methods in Computer-Aided Design (FMCAD 2025)](https://fmcad.org/FMCAD25/) and [17th International Conference on Verified Software: Theories, Tools, and Experiments (VSTTE 2025)](https://easychair.org/cfp/vstte25), colocated at Menlo Park, CA, USA.
+
 2025-09-15 to 19: [20th Theory of Quantum Computation, Communication and Cryptography Conference (TQC 2025)](https://tqc-conference.org), Bangelore, India.
 
 2025-09-15 to 19: [ALGO including European Symposium on Algorithms (ESA) and related conferences and workshops (ALGO 2025)](https://algo-conference.org/2025/), Warsaw, Poland.
@@ -127,7 +163,11 @@ To appear.
 
 2025-10-25 to 30: [28th European Conference on Artificial Intelligence (ECAI 2025)](https://ecai2025.org), Bologna, Italy.
 
+2025-10-27 to 31: [39th International Symposium on Distributed Computing (DISC 2025)](https://disc-conference.org/wp/disc2025/), Berlin, Germany.
+
 2025-10-29 to 31: [7th International Conference on Geometric Science of Information (GSI 2025)](https://conference-gsi.org), Saint Malo, France.
+
+2025-11-10 to 12: [European Quantum Technologies Conference (EQTC 2025)](https://eqtc.eu), Copenhagen, Denmark. (Web pages expected here.).
 
 2025-12-14 to 17: [66th IEEE Symposium on Foundations of Computer Science (FOCS 2025)](https://focs.computer.org/2025/), Sydney, Australia.
 
