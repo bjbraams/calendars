@@ -22,7 +22,7 @@
 
 [Optimization Theory](optim).
 
-[Applied Statistics and Data Analysis](https://bjbraams.github.io/calendars/stats).
+[Statistics and Data Analysis](https://bjbraams.github.io/calendars/stats).
 
 [Stochastics](https://bjbraams.github.io/calendars/stoch).
 
