@@ -37,7 +37,13 @@ Newly added information is shown here for about three months in reverse order of
 
 2025-07-13 to 18: [29th International Conference on Statistical Physics (StatPhys 2025)](https://statphys29.org), Florence, Italy.
 
+2025-07-14 to 18: [44th Conference on Stochastic Processes and their Applications](https://spa.pwr.edu.pl), Wrocław, Poland.
+
+2025-08-31 to 09-05: [Oberwolfach Workshop on Large Scale Stochastic Dynamics](https://mfo.de/occasion/2536/www_view), Oberwolfach, Germany.
+
 2025-09-02 to 05: [Stochastics and Computational Finance (SCF 2025)](https://scf2025.iseg.ulisboa.pt), Lisbon, Portugal.
+
+2025-09-08 to 12: [12th International Conference on Stochastic Analysis and its Applications (ICSAA 2025)](https://sites.google.com/view/icsaa2025/), Bucharest, Romania.
 
 2025-10-20 to 23: [CECAM Flagship Workshop on Stochastic Dynamics in Natural and Artificial Systems](https://cecam.org/workshop-details/stochastic-dynamics-in-natural-and-artificial-systems-1428), Tel Aviv, Isael.
 
@@ -46,6 +52,8 @@ Newly added information is shown here for about three months in reverse order of
 ### 2027
 
 ## Other Meeting Lists and Calendars
+
+[Conferences and Workshops of interest to DMV Fachgruppe Stochastik](http://www.fg-stochastik.de/konferenzen-und-workshops.html).
 
 ## Archives and Histories of Selected Serial Meetings
 
