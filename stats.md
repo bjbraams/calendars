@@ -31,7 +31,13 @@ Calendar of meetings in the general field of applied statistics, data analysis, 
 
 ## Latest Additions to the Calendar
 
-To appear.
+Newly added information is shown here for about three months in reverse order of time of addition.
+
+2025-06-23 to 27: [14th International Conference on Extreme Value Analysis (EVA 2025)](https://eva2025.unc.edu), Chapel Hill, NC, USA.
+
+2025-06-25 to 27: [High-dimensional statistics, applications, and distributional shifts. A workshop in celebration of Peter Bühlmann's 60th birthday](https://math.ethz.ch/fim/activities/conferences/High-dimensional-statistics-applications-and-distributional-shifts.html), Zurich, Switzerland.
+
+2025-07-21 to 25: [24th European Young Statisticians Meeting](https://sites.google.com/view/eysmtorino2025/), Turin, Italy.
 
 ## Future and Recent Past Meetings
 
@@ -81,6 +87,10 @@ To appear.
 
 2025-06-23 to 27: [Isaac Newton Institute Workshop Accelerating statistical inference and experimental design with machine learning](https://newton.ac.uk/event/rclw03/), Cambridge, UK.
 
+2025-06-23 to 27: [14th International Conference on Extreme Value Analysis (EVA 2025)](https://eva2025.unc.edu), Chapel Hill, NC, USA.
+
+2025-06-25 to 27: [High-dimensional statistics, applications, and distributional shifts. A workshop in celebration of Peter Bühlmann's 60th birthday](https://math.ethz.ch/fim/activities/conferences/High-dimensional-statistics-applications-and-distributional-shifts.html), Zurich, Switzerland.
+
 2025-06-29 to 07-04: [Game-Theoretic Statistical Inference: Optional Sampling, Universal Inference, and Multiple Testing based on E-Values (BIRS 25w5482)](https://birs.ca/events/2025/5-day-workshops/25w5482), Chennai, India.
 
 2025-06-30 to 07-03: [22nd INFORMS Applied Probability Society Conference (INFORMS APS 2025)](https://informs-aps.isye.gatech.edu), Atlanta, GA, USA.
@@ -96,6 +106,8 @@ To appear.
 2025-07-14 to 18: [IPAM Workshop Sampling, Inference, and Data-Driven Physical Modeling in Scientific Machine Learning](https://ipam.ucla.edu/programs/workshops/sampling-inference-and-data-driven-physical-modeling-in-scientific-machine-learning-2/), Los Angeles, CA, USA.
 
 2025-07-15 to 18: [7th Spatial Statistics Conference: At the Dawn of AI](https://elsevier.com/events/conferences/all/spatial-statistics), Noordwijk, The Netherlands.
+
+2025-07-21 to 25: [24th European Young Statisticians Meeting](https://sites.google.com/view/eysmtorino2025/), Turin, Italy.
 
 2025-07-28 to 08-15: [CODATA-RDA School and Advanced Workshops for Research Data Science (ICTP smr 4092)](https://indico.ictp.it/event/10857), Trieste, Italy.
 
