@@ -21,7 +21,7 @@ Tut
 
 ## Latest Additions to the Calendar
 
-Newly added information is shown here for about three months in reverse order of time of addition.
+Newly added information is shown here for about two months in reverse order of time of addition.
 
 2025-06-04 to 06: [10th IGAFIT Highlights of Algorithms Meeting](https://2025.highlightsofalgorithms.org), Zurich, Switzerland.
 
