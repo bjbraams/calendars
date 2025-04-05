@@ -77,7 +77,7 @@ For any listed meeting, please follow the link for more authoritative informatio
 
 2026-06-14 to 19: [18th International Symposium on Capture Gamma-Ray Spectroscopy and Related Topics (CGS 2026)](https://mpi-hd.mpg.de/mpi/de/forschung/abteilungen-und-gruppen/gespeicherte-und-gekuehlte-ionen/veranstaltungen/konferenzen), Monterey, CA, USA. (Mention only.)
 
-**2026-07-27 to 31: [Nuclear Structure (NS 2026)](https://indico.phy.anl.gov/event/45/page/97-history), Vancouver, BC, Canada.** (Announcement only.)
+**2026-07-27 to 31: [Nuclear Structure (NS 2026)](https://indico.triumf.ca/event/745/), Vancouver, BC, Canada.**
 
 2026-08-30 to 09-06: [59th Zakopane Conference on Nuclear Physics (Zakopane 2026)](https://zakopane2026.ifj.edu.pl), Kraków, Poland.
 
