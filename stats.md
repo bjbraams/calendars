@@ -31,7 +31,7 @@ Calendar of meetings in the general field of computational and methodological st
 
 ## Latest Additions to the Calendar
 
-Newly added information is shown here for about three months in reverse order of time of addition.
+Newly added information is shown here for about two months in reverse order of time of addition.
 
 2025-06-23 to 27: [14th International Conference on Extreme Value Analysis (EVA 2025)](https://eva2025.unc.edu), Chapel Hill, NC, USA.
 
