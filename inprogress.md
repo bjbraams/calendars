@@ -132,6 +132,8 @@ u2025-08-04 to 08: [5th International Conference on Mathematical and Scientific 
 
 u2025-08-04 to 08: [Summer school on "Topological data analysis in stochastic geometry and image processing"](https://sites.google.com/view/aarhustda/), Aarhus Institute of Advanced Studies, Aarhus, Denmark.
 
+u2025-08-13 to 15: [27th IEEE International Conference on High Performance Computing and Communications (HPCC 2025)](https://hpcn.exeter.ac.uk/hpcc2025/), Exeter, UK.
+
 u2025-08-17 to 22: [Oberwolfach Workshop on Computation and Learning in High Dimensions](https://mfo.de/occasion/2534/www_view), Oberwolfach, Germany.
 
 u2025-08-18 to 22: [36th IUPAP Conference on Computational Physics (CCP 2025)](https://ccp2025.ornl.gov), Knoxville, TN, USA.
@@ -145,6 +147,10 @@ u2025-09-01 to 05: [European Conference on Numerical Mathematics and Advanced Ap
 u2025-09-08 to 19: [CERN Theory Institute on Quantum Simulation and Computation in High-Energy Physics](https://indico.cern.ch/event/1488240/), Geneva, Switzerland.
 
 u2025-09-15 to 19: [9th International Conference on Advanced COmputational Methods in ENgineering and Applied Mathematics (ACOMEN 2025)](https://cage.ugent.be/acomen2025/), Ghent, Belgium.
+
+u2025-09-22 to 26: [5th Young Applied Mathematicians Conference (YAMC 2025)](https://yamc.it), Padua, Italy.
+
+u2025-09-24 to 26: [International Workshop on Multiscale, Multiphysics, and Multidisciplinary Research on Materials and Structures (M3MS)](https://m3ms.org), Singapore.
 
 u2025-09-25 to 27: [23rd International Workshop on Combinatorial Image Analysis (IWCIA 2025)](https://iwcia2025.inf.u-szeged.hu), Szeged, Hungary.
 
