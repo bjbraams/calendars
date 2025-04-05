@@ -77,7 +77,7 @@ Newly added information is shown here for about three months in reverse order of
 
 2026-11-30 to 12-03: [12th International Conference on Reactive Plasmas (ICRP 2026)](https://annex.jsap.or.jp/plasma/PE_files/meetings.html), Kanazawa, Japan.
 
-**2026 tbd: 22nd International Congress on Plasma Physics (ICPP).**
+**2026 tbd: 22nd International Congress on Plasma Physics (ICPP).** [Search](https://www.google.com/search?q=22nd+International+Congress+on+Plasma+Physics+ICPP+2026+-conferenceindex+-waset).
 
 ### 2027
 
