@@ -25,6 +25,8 @@ Including fusion-relevant materials physics such as hydrogen trapping and transp
 
 ## Latest Additions to the Calendar
 
+Newly added information is shown here for about three months in reverse order of time of addition.
+
 2025-09-14 to 19: [33rd International Conference on Defects in Semiconductors (ICDS 2025)](https://icds2025.org), Shanghai, China.
 
 ## Future and Recent Past Meetings
