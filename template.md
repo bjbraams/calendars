@@ -21,7 +21,7 @@ Meetings listed in bold in the main section.
 
 ## Latest Additions to the Calendar
 
-To appear.
+Newly added information is shown here for about two months in reverse order of time of addition.
 
 ## Future and Recent Past Meetings
 
