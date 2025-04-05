@@ -77,7 +77,7 @@ To appear.
 
 ### 2026
 
-2026-04-20 to 24: [25th International Stellarator-Heliotron Workshop (ISHW 2025)](https://ipp.mpg.de/4022808/ISHW), Cordoba, Spain. (Preliminary link.)
+2026-04-20 to 24: [25th International Stellarator-Heliotron Workshop (ISHW 2025)](https://ipp.mpg.de/4022808/ISHW), Cordoba, Spain. (Preliminary link.) [Search](https://www.google.com/search?q=International+Stellarator-Heliotron+Workshop+2026+cordoba).
 
 2026-05-31 to 06-04: [27th ANS Topical Meetings on Technology of Fusion Energy (TOFE 2026)](https://ans.org/meetings/view-398/), Denver, CO, USA.
 
