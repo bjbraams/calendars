@@ -25,7 +25,7 @@ Including fusion-relevant materials physics such as hydrogen trapping and transp
 
 ## Latest Additions to the Calendar
 
-To appear.
+2025-09-14 to 19: [33rd International Conference on Defects in Semiconductors (ICDS 2025)](https://icds2025.org), Shanghai, China.
 
 ## Future and Recent Past Meetings
 
@@ -50,6 +50,8 @@ To appear.
 2025-08-25 to 29: [27th International Conference on Ion-Surface Interactions (ISI 2025)](http://isi2025.yarsu.ru/eng/first_en.html), Ryazan, Russia.
 
 2025-09-14 to 19: [25th International Workshop on Inelastic Ion-Surface Collisions (IISC2025)](https://tuwien.at/en/phy/iap/conferences/iisc25), Frankenfels, Austria.
+
+2025-09-14 to 19: [33rd International Conference on Defects in Semiconductors (ICDS 2025)](https://icds2025.org), Shanghai, China.
 
 2025-09-21 to 26: [14th International Conference on Tritium Science and Technology](https://tritium2025.com), Ottawa, ON, Canada.
 
