@@ -83,7 +83,7 @@ For any listed meeting, please follow the link for more authoritative informatio
 
 2026-08-30 to 09-06: [59th Zakopane Conference on Nuclear Physics (Zakopane 2026)](https://zakopane2026.ifj.edu.pl), Kraków, Poland.
 
-2026 tbd: [Conference on Nuclear Physics in Astrophysics (NPA-XII 2026)](https://eps.org/blogpost/739426/507969/Call-for-bids-Nuclear-Physics-in-Astrophysics-Conference-2026-NPA-XII-2026), tbd. (Call for bids.)
+2026 tbd: [Conference on Nuclear Physics in Astrophysics (NPA-XII 2026)](https://members.eps.org/blogpost/739426/News). (Call for bids.) [Search](https://www.google.com/search?q=Conference+on+Nuclear+Physics+in+Astrophysics+NPA+XII+2026+-conferenceindex+-waset).
 
 ### 2027
 
