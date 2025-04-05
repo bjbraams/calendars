@@ -101,8 +101,6 @@ Newly added information is shown here for about three months in reverse order of
 
 **2025-07-13 to 19: [42nd International Conference on Machine Learning (ICML 2025)](https://icml.cc), Vancouver, BC, Canada.**
 
-2025-07-14 to 18: [44th Conference on Stochastic Processes and their Applications](https://spa.pwr.edu.pl), Wrocław, Poland.
-
 2025-07-14 to 18: [IPAM Workshop Sampling, Inference, and Data-Driven Physical Modeling in Scientific Machine Learning](https://ipam.ucla.edu/programs/workshops/sampling-inference-and-data-driven-physical-modeling-in-scientific-machine-learning-2/), Los Angeles, CA, USA.
 
 2025-07-15 to 18: [7th Spatial Statistics Conference: At the Dawn of AI](https://elsevier.com/events/conferences/all/spatial-statistics), Noordwijk, The Netherlands.
@@ -121,11 +119,7 @@ Newly added information is shown here for about three months in reverse order of
 
 2025-08-24 to 29: [Oberwolfach Workshop on Stein’s Method in Stochastic Geometry, Statistical Learning, and Optimisation](https://mfo.de/occasion/2535b/www_view), Oberwolfach, Germany.
 
-2025-08-31 to 09-05: [Oberwolfach Workshop on Large Scale Stochastic Dynamics](https://mfo.de/occasion/2536/www_view), Oberwolfach, Germany.
-
 2025-09-01 to 04: [Royal Statistical Society International Conference (RSS 2025)](https://rss.org.uk/training-events/conference-2025/), Edinburgh, UK.
-
-2025-09-08 to 12: [12th International Conference on Stochastic Analysis and its Applications (ICSAA 2025)](https://sites.google.com/view/icsaa2025/), Bucharest, Romania.
 
 2025-09-09 to 12: [34th International Conference on Artificial Neural Networks (ICANN 2025)](https://e-nns.org/icann2025/), Kaunas, Lithuania.
 
@@ -178,8 +172,6 @@ Newly added information is shown here for about three months in reverse order of
 [Global Applied Probability Events Calendar](https://www.appliedprobability.org/events).
 
 [Conference List by Hugo Panzo on Probabililty and Related Fields](https://sites.google.com/view/hugopanzo/conferences).
-
-[Conferences and Workshops of interest to DMV Fachgruppe Stochastik](http://www.fg-stochastik.de/konferenzen-und-workshops.html).
 
 [Upcoming events sponsored, co-sponsored, or endorsed by International Society for Bayesian Analysis](https://bayesian.org/events/upcoming-meetings/).
 
