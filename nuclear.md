@@ -29,7 +29,9 @@ Calendar of meetings in the general field of nuclear structure and reactions&mda
 
 ## Latest Additions to the Calendar
 
-To appear.
+Newly added information is shown here for about two months in reverse order of time of addition.
+
+**2026-07-27 to 31: [Nuclear Structure (NS 2026)](https://indico.triumf.ca/event/745/), Vancouver, BC, Canada.**
 
 ## Future and Recent Past Meetings
 
