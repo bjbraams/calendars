@@ -29,7 +29,9 @@ Focused on low-temperature and atmospheric density plasma. See other [Calendars]
 
 ## Latest Additions to the Calendar
 
-To appear.
+Newly added information is shown here for about three months in reverse order of time of addition.
+
+2026-06-22 to 26: [53rd International Conference on Plasma Science (ICOPS 2026)](https://icops.ieee.org/icops2026/), Lake Tahoe, NV, USA.
 
 ## Future and Recent Past Meetings
 
@@ -44,6 +46,8 @@ To appear.
 2025-06-15 to 20: [26th International Symposium on Plasma Chemistry (ISPC 2025)](https://ispc-conference.org), Minneapolis, MN, USA.
 
 2025-06-17 to 19: [14th International Meeting on Atomic and Molecular Physics and Chemistry (IMAMPC 2025)](https://imampc2025.sciencesconf.org), Caen, France.
+
+2026-06-22 to 26: [53rd International Conference on Plasma Science (ICOPS 2026)](https://icops.ieee.org/icops2026/), Lake Tahoe, NV, USA.
 
 2025-06-23 to 27: [Workshop Atmospheric Discharges in Dynamic Environments](https://ctrwiae.org/events), Bath, UK.
 
