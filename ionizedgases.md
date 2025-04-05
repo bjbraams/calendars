@@ -25,13 +25,15 @@ Focused on low-temperature and atmospheric density plasma. See other [Calendars]
 
 **2025-10-13 to 17: [78th Gaseous Electronics Conference (GEC 2025)](https://apsgec.org/gec2025/), Seoul, Korea.**
 
+**2026-06-22 to 26: [53rd International Conference on Plasma Science (ICOPS 2026)](https://icops.ieee.org/icops2026/), Lake Tahoe, NV, USA.**
+
 **2026-07-07 to 11: [27th Europhysics Conference on Atomic and Molecular Physics of Ionized Gases (ESCAMPIG 2026)](https://escampig2024.physics.muni.cz), Madeira, Spain.** (Preliminary announcement.)
 
 ## Latest Additions to the Calendar
 
 Newly added information is shown here for about three months in reverse order of time of addition.
 
-2026-06-22 to 26: [53rd International Conference on Plasma Science (ICOPS 2026)](https://icops.ieee.org/icops2026/), Lake Tahoe, NV, USA.
+**2026-06-22 to 26: [53rd International Conference on Plasma Science (ICOPS 2026)](https://icops.ieee.org/icops2026/), Lake Tahoe, NV, USA.**
 
 ## Future and Recent Past Meetings
 
@@ -46,8 +48,6 @@ Newly added information is shown here for about three months in reverse order of
 2025-06-15 to 20: [26th International Symposium on Plasma Chemistry (ISPC 2025)](https://ispc-conference.org), Minneapolis, MN, USA.
 
 2025-06-17 to 19: [14th International Meeting on Atomic and Molecular Physics and Chemistry (IMAMPC 2025)](https://imampc2025.sciencesconf.org), Caen, France.
-
-2026-06-22 to 26: [53rd International Conference on Plasma Science (ICOPS 2026)](https://icops.ieee.org/icops2026/), Lake Tahoe, NV, USA.
 
 2025-06-23 to 27: [Workshop Atmospheric Discharges in Dynamic Environments](https://ctrwiae.org/events), Bath, UK.
 
@@ -70,6 +70,8 @@ Newly added information is shown here for about three months in reverse order of
 **2025-10-13 to 17: [78th Gaseous Electronics Conference (GEC 2025)](https://apsgec.org/gec2025/), Seoul, Korea.**
 
 ### 2026
+
+**2026-06-22 to 26: [53rd International Conference on Plasma Science (ICOPS 2026)](https://icops.ieee.org/icops2026/), Lake Tahoe, NV, USA.**
 
 **2026-07-07 to 11: [27th Europhysics Conference on Atomic and Molecular Physics of Ionized Gases (ESCAMPIG 2026)](https://escampig2024.physics.muni.cz), Madeira, Spain.** (Preliminary announcement.)
 
