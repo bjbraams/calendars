@@ -189,6 +189,10 @@ Newly added information is shown here for about two months in reverse order of t
 
 ### Primarily Statistics
 
+**[ASA, IMS and other Joint Statistical Meetings (JSM)](https://www.amstat.org/meetings/joint-statistical-meetings).**
+
+**[International Statistical Institute World Statistics Congress (ISI)](https://isi-web.org/scientific-congresses/past-wscs).**
+
 [International Workshop on Statistical Modelling](http://www.statmod.org/workshops.htm).
 
 [INFORMS Applied Probability Conference (APS)](https://connect.informs.org/aps/apsconferences).
@@ -207,13 +211,13 @@ International Conference on Monte Carlo and Quasi-Monte Carlo Methods in Scienti
 
 ### Primarily Machine Learning Theory
 
-[Conference on Neural Information Processing Systems (NeurIPS)](https://neurips.cc/). (Under Select Year.)
+**[Conference on Neural Information Processing Systems (NeurIPS)](https://neurips.cc/).** (Under Select Year.)
 
-[International Conference on Machine Learning (ICML)](https://icml.cc/). (Under Select Year.)
+**[International Conference on Machine Learning (ICML)](https://icml.cc/).** (Under Select Year.)
 
-[Conference on Learning Theory (COLT)](https://learningtheory.org/). (Under Archives.)
+**[Conference on Learning Theory (COLT)](https://learningtheory.org/).** (Under Archives.)
 
-[International Conference on Learning Representations (ICLR)](https://iclr.cc/). (Under Select Year.)
+**[International Conference on Learning Representations (ICLR)](https://iclr.cc/).** (Under Select Year.)
 
 [European Conference on Machine Learning and Principles and Practice of Knowledge Discovery in Databases (ECML-PKDD)](https://ecmlpkdd.org/).
 
