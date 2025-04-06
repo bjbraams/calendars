@@ -31,6 +31,8 @@ Newly added information is shown here for about two months in reverse order of t
 
 2025-06-02 to 06: [International School and Conference on Network Science (NetSci 2025](https://netsci2025.github.io), Maastricht, The Netherlands.
 
+2025-06-03 to 06: [22nd Mixed Integer Programming Workshop (MIP 2025)](https://mixedinteger.org/2025/), Minneapolis, MN, USA.
+
 **2025-06-11 to 13: [26th Conference on Integer Programming and Combinatorial Optimization (IPCO 2025)](https://ipco25.cs.jhu.edu), Baltimore, MD, USA.**
 
 2025-06-17 to 20: [Modeling and Optimization: Theory and Applications (MOPTA 2025)](https://coral.ise.lehigh.edu/mopta2025/), Ponta Delgada, Azores, Portugal.
