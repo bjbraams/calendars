@@ -149,6 +149,8 @@ International Conference on Nucleus Nucleus Collisions (NN).
 
 Particles and Nuclei International Conference (PANIC).
 
+[International Conference on the Chemistry and Physics of the Transactinide Elements (TAN)](https://superheavies.uni-mainz.de/tan-conferences/).
+
 ## Past Meetings by Date
 
 ### 2025
