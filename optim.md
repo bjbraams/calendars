@@ -69,6 +69,8 @@ Newly added information is shown here for about two months in reverse order of t
 
 ## Other Meeting Lists and Calendars
 
+[OptNet mailing list Archives](https://listserv.zib.de/pipermail/opt-net/).
+
 [Events List maintained by Mathematical Optimization Society](https://www.mathopt.org/?nav=meetings).
 
 [INFORMS Conference Calendar](https://www.informs.org/Meetings-Conferences/INFORMS-Conference-Calendar).
