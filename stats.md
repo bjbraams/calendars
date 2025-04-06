@@ -25,7 +25,7 @@ Calendar of meetings in the general field of computational and methodological st
 
 **2025-08-02 to 07: [ASA, IMS and other Joint Statistical Meetings (JSM 2025)](https://ww2.amstat.org/meetings/jsm/2025/), Nashville, TN, USA.**
 
-**2025-10-05 to 09: [65th ISI World Statistics Congress (ISI 2025)](https://isi-next.org/conferences/isi-wsc2025/), The Hague, Netherlands.**
+**2025-10-05 to 09: [65th ISI World Statistics Congress (WSC 2025)](https://isi-next.org/conferences/isi-wsc2025/), The Hague, Netherlands.**
 
 **2025-12-09 to 15: [Annual Conference on Neural Information Processing Systems (NeurIPS 2025)](http://wikicfp.com/cfp/servlet/event.showcfp?eventid=182647&copyownerid=163282), San Diego, CA, USA.**
 
@@ -71,7 +71,7 @@ Newly added information is shown here for about two months in reverse order of t
 
 2025-05-21 to 23: [CRiSM 2.0 Conference](https://warwick.ac.uk/fac/sci/statistics/news/crism-event2025), Warwick, UK.
 
-2025-05-26 to 28: [14th Workshop on Bayesian Inference in Stochastic Processes (BISP 2025)](https://isi-web.org/event-detail/436), Milan, Italy.
+2025-05-26 to 28: [14th Workshop on Bayesian Inference in Stochastic Processes (BISP 2025)](https://-web.org/event-detail/436), Milan, Italy.
 
 2025-06-08 to 12: [Objective Bayes Methodology Conference (O'Bayes 2025)](https://obayes25.aueb.gr), Athens, Greece.
 
@@ -125,7 +125,7 @@ Newly added information is shown here for about two months in reverse order of t
 
 2025-09-15 to 19: [European Conference on Machine Learning and Principles and Practice of Knowledge Discovery in Databases (ECML-PKDD 2025)](https://ecmlpkdd.org/2025/), Porto, Portugal.
 
-**2025-10-05 to 09: [65th ISI World Statistics Congress (ISI 2025)](https://isi-next.org/conferences/isi-wsc2025/), The Hague, Netherlands.**
+**2025-10-05 to 09: [65th ISI World Statistics Congress (WSC 2025)](https://isi-next.org/conferences/isi-wsc2025/), The Hague, Netherlands.**
 
 2025-10-09 to 13: [12th IEEE International Conference on Data Science and Advanced Analytics (DSAA 2025)](https://dsaa.ieee.org/2025/), Birmingham, UK.
 
@@ -191,13 +191,11 @@ Newly added information is shown here for about two months in reverse order of t
 
 **[ASA, IMS and other Joint Statistical Meetings (JSM)](https://www.amstat.org/meetings/joint-statistical-meetings).**
 
-**[International Statistical Institute World Statistics Congress (ISI)](https://isi-web.org/scientific-congresses/past-wscs).**
+**[International Statistical Institute World Statistics Congress (WSC)](https://isi-web.org/scientific-congresses/past-wscs).**
 
 [International Workshop on Statistical Modelling](http://www.statmod.org/workshops.htm).
 
 [INFORMS Applied Probability Conference (APS)](https://connect.informs.org/aps/apsconferences).
-
-[ISI World Statistics Congress (WSC)](https://isi-web.org/scientific-congresses/past-wscs).
 
 Bernouilli-IMS
 
