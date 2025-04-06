@@ -4,7 +4,7 @@
 
 # Optimization Theory
 
-Discrete and continuous optimization, networks, linear and integer programming, operational research.
+Major meetings in the areas of discrete and continuous optimization, networks, linear and integer programming, operational research, games and control.
 
 ## Contents
 
