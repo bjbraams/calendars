@@ -183,6 +183,8 @@ Newly added information is shown here for about two months in reverse order of t
 
 2025-12-14 to 17: [66th IEEE Symposium on Foundations of Computer Science (FOCS 2025)](https://focs.computer.org/2025/), Sydney, Australia.
 
+2025 tbd: [International Symposium on Quantum Physics and Quantum Information Sciences (QPQIS 2025)](http://qpqis.baqis.ac.cn/2025/), Beijing, China.
+
 ### 2026
 
 2026-08-16 to 20: [28th International Conference on Pattern Recognition (ICPR 2026)](https://iapr.org/conferences/conference-schedule/), Lyon, France. (Announcement only.)
