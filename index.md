@@ -1,5 +1,6 @@
 <head>
   <link rel="stylesheet" href="assets/style.css">
+  <meta name="google-site-verification" content="-TclahrTImXSL7tMHLFb3wUP8ne2e1MvaT5MyUA5msA" />
 </head>
 
 ## Planned
