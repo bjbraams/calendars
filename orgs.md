@@ -1,4 +1,4 @@
-# Event calendars of selected institutes and scientific organizations
+# Event calendars of selected institutes and organizations
 
 ## Institutes
 
