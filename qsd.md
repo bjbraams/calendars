@@ -231,6 +231,8 @@ Newly added information is shown here for about two months in reverse order of t
 
 ### 2027
 
+2027 tbd: 12th Triennial Congress of the International Society of Theoretical Chemical Physics (ISTCP 2027). [Search](https://www.google.com/search?q=12th+Triennial+Congress+of+the+International+Society+for+Theoretical+Chemical+Physics+ISTCP+2027).
+
 ## Other Meeting Lists and Calendars
 
 [Announcements of Conferences, Workshops, Schools known to Psi-k Network](https://psi-k.net/events/).
