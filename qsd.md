@@ -229,6 +229,8 @@ Newly added information is shown here for about two months in reverse order of t
 
 2026-07-01 to 08-31 (exact dates tbd): [9th High-Dimensional Quantum Dynamics Workshop (HDQD 2026)](https://hdqd2026.wordpress.com), Salamanca, Spain.
 
+2026 tbd: 12th Workshop on Novel Methods for Electronic Structure Calculations, Argentina. [Search](https://www.google.com/search?q=12th+Workshop+on+Novel+Methods+for+Electronic+Structure+Calculations+Argentina+2026).
+
 ### 2027
 
 2027 tbd: 12th Triennial Congress of the International Society of Theoretical Chemical Physics (ISTCP 2027). [Search](https://www.google.com/search?q=12th+Triennial+Congress+of+the+International+Society+for+Theoretical+Chemical+Physics+ISTCP+2027).
