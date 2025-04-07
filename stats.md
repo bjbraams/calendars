@@ -169,11 +169,11 @@ Newly added information is shown here for about two months in reverse order of t
 
 [COMS Probability and Statistics, Game Theory](https://conference-service.com/conferences/probability-and-statistics.html).
 
-[Global Applied Probability Events Calendar](https://www.appliedprobability.org/events).
+[Applied Probability Trust Global Events Calendar](https://www.appliedprobability.org/events).
 
 [Conference List by Hugo Panzo on Probabililty and Related Fields](https://sites.google.com/view/hugopanzo/conferences).
 
-[Upcoming events sponsored, co-sponsored, or endorsed by International Society for Bayesian Analysis](https://bayesian.org/events/upcoming-meetings/).
+[International Society for Bayesian Analysis Upcoming Events (own and other)](https://bayesian.org/events/upcoming-meetings/).
 
 [Calendar of Events maintained by American Statistical Association](https://ww2.amstat.org/dateline/index.cfm?fuseaction=upcoming).
 
