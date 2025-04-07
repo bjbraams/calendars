@@ -1,6 +1,6 @@
-++ Event calendars of selected institutes and scientific organizations
+# Event calendars of selected institutes and scientific organizations
 
-+++ Institutes
+## Institutes
 
 [Long Programs at IPAM at UCLA](https://www.ipam.ucla.edu/programs/long-programs/).
 
@@ -16,7 +16,7 @@
 
 [Conferences associated with Center for Nonlinear Studies at LANL](https://cnls.lanl.gov/external/Conferences.php).
 
-+++ Scientific Organizations
+## Scientific Organizations
 
 [RSC Events List](https://www.rsc.org/events).
 
@@ -34,6 +34,6 @@
 
 [Australian Institute of Physics Conferences (AIP)](https://www.aip.org/conferences).
 
-+++ Other broad conference listings
+## Other broad conference listings
 
 [Physics Today Conferences & Meetings](https://physicstoday.scitation.org/conferences).
