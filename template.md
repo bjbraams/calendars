@@ -1,9 +1,6 @@
 ---
 title: Template
+layout: default
 ---
-
-<head>
-  <link rel="stylesheet" href="assets/style.css">
-</head>
 
 {% include body.md %}
