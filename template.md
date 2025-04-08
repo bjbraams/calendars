@@ -40,7 +40,7 @@ Newly added information is shown here for about two months in reverse order of t
 
 {{ year1 }}
 
-{{ page.name | append: year1 | append: ".md" }}
+Show {{ page.name | append: year1 | append: ".md" }}
 
 ### {{ site.year0 | plus: 2 }}+
 
