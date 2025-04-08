@@ -1,14 +1,12 @@
 ---
-year: 2025
+title: Template
 ---
 
 <head>
   <link rel="stylesheet" href="assets/style.css">
 </head>
 
-Testing {{ page.year | plus: 1 }}.
-
-# This calendar
+# {{ page.title }}
 
 Brief description
 
