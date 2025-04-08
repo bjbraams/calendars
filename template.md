@@ -40,7 +40,7 @@ Newly added information is shown here for about two months in reverse order of t
 
 {{ year1 }}
 
-Echo {{ "a" | append: "b" | append: "c" }}
+Try {{"a"|append:"b"|append:"c"}}
 
 {% assign filename = page.name | append: year1 | append: ".md" %}
 
