@@ -36,11 +36,9 @@ Newly added information is shown here for about two months in reverse order of t
 
 {% include testing.md %}
 
-{% assign year1 = site.year0 | plus: 1 %}
+{% assign year1 = 2026 %}
 
-{{ year1 }}
-
-Try {{"a"|append:"b"|append:"c"}}
+Explicit {{ year1 }}
 
 {% assign filename = page.name | append: year1 | append: ".md" %}
 
