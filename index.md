@@ -5,6 +5,8 @@
 
 ## Planned
 
+### Areas of Mathematical and Physical Science
+
 [Plasma Physics and Fusion Energy](https://bjbraams.github.io/calendars/plasma).
 
 [Ionized Gases and Plasma Chemistry](https://bjbraams.github.io/calendars/ionizedgases).
@@ -16,6 +18,8 @@
 [Nuclear Structure and Reactions](https://bjbraams.github.io/calendars/nuclear).
 
 [Quantum Structure and Dynamics](https://bjbraams.github.io/calendars/qsd).
+
+[Light Sources and Quantum Optics](https://bjbraams.github.io/calendars/light).
 
 [Theoretical Computer Science, Algorithms, Complexity and Quantum Computing](https://bjbraams.github.io/calendars/tcs).
 
@@ -30,3 +34,7 @@
 [Biologically-Inspired Computation](https://bjbraams.github.io/calendars/bioinsp).
 
 [Not yet categorized](https://bjbraams.github.io/calendars/inprogress).
+
+### Related
+
+[Relevant Organizations](https://bjbraams.github.io/calendars/orgs).
