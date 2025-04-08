@@ -29,11 +29,11 @@ Newly added information is shown here for about two months in reverse order of t
 
 ## Future and Recent Past Meetings
 
-### 2025
+### {{ site.year0 }}
 
-### 2026
+### {{ site.year0 | plus: 1 }}
 
-### 2027
+### {{ site.year0 | plus: 2 }}
 
 ## Other Meeting Lists and Calendars
 
@@ -41,4 +41,4 @@ Newly added information is shown here for about two months in reverse order of t
 
 ## Past Meetings by Date
 
-### 2025
+### {{ site.year0 }}
