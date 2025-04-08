@@ -1,6 +1,5 @@
 ---
 title: Template
-fn: template
 ---
 
 <head>
@@ -36,13 +35,7 @@ Newly added information is shown here for about two months in reverse order of t
 
 {% include testing.md %}
 
-{% assign year1 = "2026.md" %}
-
-fn: {{ page.fn }} {{ year1 }}
-
-No blank:  {{ page.fn }}{{ year1 }}
-
-Try {{ page.fn | append: year1 }}
+Echo {{ page.name | remove: ".md" }}{{ site.year0 | plus: 1 }}
 
 ### {{ site.year0 | plus: 2 }}+
 
