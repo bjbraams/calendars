@@ -2,6 +2,14 @@
 
 ## Institutes
 
+### Diverse Mathematical and Physical Science
+
+[Lorentz Center Leiden Workshops and Events](https://www.lorentzcenter.nl/).
+
+[Erwin Schrödinger International Institute for Mathematics and Physics (ESI) Workshops](https://www.esi.ac.at/events/workshops).
+
+Institute of Advanced Studies (IAS) at Nanyang Technological University (NTU), Singapore?
+
 ### Primarily mathematics
 
 [Oberwolfach Workshops](https://www.mfo.de/scientific-program/meetings).
@@ -36,8 +44,6 @@ Institute for Mathematical Sciences (IMS) at National University of Singapore (N
 
 Chennai Mathematical Institute (CMI), India.
 
-Institute of Advanced Studies (IAS) at Nanyang Technological University (NTU), Singapore?
-
 African Institute for Mathematical Sciences (AIMS).
 
 ### Primarily Physics
@@ -49,8 +55,6 @@ Perimeter Institute for Theoretical Physics, Waterloo, Canada.
 Kavli Institute for Theoretical Physics (KITP), UCSB.
 
 Kavli Tokyo.
-
-[Erwin Schrödinger International Institute for Mathematics and Physics (ESI) Workshops](https://www.esi.ac.at/events/workshops).
 
 Les Houches School of Physics.
 
