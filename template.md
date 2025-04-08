@@ -38,7 +38,9 @@ Newly added information is shown here for about two months in reverse order of t
 
 {% assign year1 = "2026.md" %}
 
-Explicit {{ year1 }}
+With blank: {{ page.name }} {{ year1 }}
+
+No blank:  {{ page.name }}{{ year1 }}
 
 Try {{ page.name | append: year1 }}
 
