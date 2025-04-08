@@ -1,7 +1,8 @@
 <head>
   <link rel="stylesheet" href="assets/style.css">
-  year: 2025
 </head>
+
+year: 2025
 
 Testing {{ page.year | plus: 1 }}.
 
