@@ -1,6 +1,9 @@
 <head>
   <link rel="stylesheet" href="assets/style.css">
+  year: 2025
 </head>
+
+Testing {{ page.year | plus: 1 }}.
 
 # This calendar
 
