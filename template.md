@@ -35,6 +35,8 @@ Newly added information is shown here for about two months in reverse order of t
 
 {% include testing.md %}
 
+Direct: {{site.year1}}
+
 {% include {{page.name|remove:".md"}}{{site.year0|plus:1}}.md %}
 
 ### {{ site.year0 | plus: 2 }}+
