@@ -35,9 +35,7 @@ Newly added information is shown here for about two months in reverse order of t
 
 ### {{site.year0|plus:1}}
 
-Echo {{basename}}{{site.year0|plus:1}}.md
-
-{% include {{basename}}{{site.year0|plus:1}}.md %}
+Echo {{basename}}{{site.year0|plus:1}}.md {% include {{basename}}{{site.year0|plus:1}}.md %}
 
 ### {{site.year0|plus:2}}+
 
