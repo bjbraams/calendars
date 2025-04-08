@@ -38,6 +38,8 @@ Newly added information is shown here for about two months in reverse order of t
 
 {% assign year1 = site.year0 | plus: 1 %}
 
+{{ year1 }}
+
 {{ page.name | append: year1 }}.md
 
 ### {{ site.year0 | plus: 2 }}+
