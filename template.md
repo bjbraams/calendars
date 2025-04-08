@@ -40,7 +40,9 @@ Newly added information is shown here for about two months in reverse order of t
 
 {{ year1 }}
 
-Show {{ page.name | append: year1 | append: ".md" }}
+{% assign filename = page.name | append: year1 | append: ".md" %}
+
+Show {{ filename }}
 
 ### {{ site.year0 | plus: 2 }}+
 
