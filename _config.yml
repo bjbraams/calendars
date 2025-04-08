@@ -1,5 +1,6 @@
 title: Calendars of Events in Various Areas of Mathematical and Physical Science
 description: Built with Jekyll on GitHub
-{year0: 2025, year1: 2026}
+year0: 2025
+year1: 2026
 # theme: minima
 # alternative theme: jekyll-theme-cayman
