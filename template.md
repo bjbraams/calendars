@@ -10,4 +10,4 @@ title: Template
 
 Brief description
 
-{% include: body.md %}
+{% include body.md %}
