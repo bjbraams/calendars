@@ -1,5 +1,9 @@
 {% assign basename = {{page.name|remove:".md"}} %}
 
+# {{page.title}}
+
+{% include {{basename}}-excerpt.md %}
+
 ## Contents
 
 - [Highlights](#highlights)
