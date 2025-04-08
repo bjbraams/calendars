@@ -2,6 +2,10 @@
   <link rel="stylesheet" href="assets/style.css">
 </head>
 
+## Test
+
+{% include testing.md %}
+
 ## Future and Recent Past Meetings
 
 u2025-01-27 to 31: [Workshop on Machine Learning for Analysis of High-Energy Cosmic Particles](https://events.icecube.wisc.edu/event/243/), Newark, DE, USA.
