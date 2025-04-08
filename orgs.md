@@ -2,7 +2,7 @@
 
 ## Institutes
 
-## Primarily mathematics
+### Primarily mathematics
 
 [Oberwolfach Workshops](https://www.mfo.de/scientific-program/meetings).
 
