@@ -28,6 +28,8 @@ Centro di Ricerca Matematica Ennio De Giorgi (CRM), Pisa, Italy
 
 [Polish Academy of Sciences Banach Center Scientific Programme](https://www.impan.pl/en/bc-conferences).
 
+[Centrum Wiskunde & Informatica (CWI) Research Semester Programmes](https://www.cwi.nl/en/events/cwi-research-semester-programmes/).
+
 Institute for Computational and Experimental Research in Mathematics (ICERM), Providence, RI, USA.
 
 Institute for Mathematical Sciences (IMS) at National University of Singapore (NUS)?
