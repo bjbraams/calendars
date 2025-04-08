@@ -1,7 +1,5 @@
 {% assign basename = {{page.name|remove:".md"}} %}
 
-Testing {{basename}}
-
 ## Contents
 
 - [Highlights](#highlights)
