@@ -6,6 +6,8 @@ title: Template
   <link rel="stylesheet" href="assets/style.css">
 </head>
 
+{% assign basename = {{page.name|remove:".md"}} %}
+
 # {{ page.title }}
 
 Brief description
@@ -29,17 +31,13 @@ Newly added information is shown here for about two months in reverse order of t
 
 ## Future and Recent Past Meetings
 
-### {{ site.year0 }}
+### {{site.year0}}
 
-### {{ site.year0 | plus: 1 }}
+### {{site.year0|plus:1}}
 
-{% include testing.md %}
+{% include basename{{site.year0|plus:1}}.md %}
 
-Direct: {{site.year1}}
-
-{% include {{page.name|remove:".md"}}{{site.year0|plus:1}}.md %}
-
-### {{ site.year0 | plus: 2 }}+
+### {{site.year0|plus:2}}+
 
 ## Other Meeting Lists and Calendars
 
@@ -47,6 +45,6 @@ Direct: {{site.year1}}
 
 ## Past Meetings by Date
 
-### {{ site.year0 | minus: 1 }}-
+### {{site.year0|minus:1}}-
 
-### {{ site.year0 }}
+### {{site.year0}}
