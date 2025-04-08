@@ -1,6 +1,5 @@
 ---
 title: Template
-layout: default
 ---
 
 {% include header.md %}
