@@ -27,7 +27,7 @@ Focussed on processes in high temperature plasma. See other [Calendars](./) for 
 
 ## Latest Additions to the Calendar
 
-To appear.
+Newly added information is shown here for about two months in reverse order of time of addition.
 
 ## Future and Recent Past Meetings
 
