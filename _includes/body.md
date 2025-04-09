@@ -4,7 +4,7 @@
 
 {% include {{basename}}-excerpt.md %}
 
-{{ site.data.pages.template.excerpt }}
+{{ site.data.pages[basename].excerpt }}
 
 ## Contents
 
