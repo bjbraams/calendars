@@ -1,8 +1,8 @@
 {% assign basename = {{page.name|remove:".md"}} %}
 
-# {{page.title}}
+# {{site.data.pages[basename].title}}
 
-{{ site.data.pages[basename].excerpt }}
+{{site.data.pages[basename].excerpt}}
 
 ## Contents
 
