@@ -3,11 +3,13 @@
   <meta name="google-site-verification" content="-TclahrTImXSL7tMHLFb3wUP8ne2e1MvaT5MyUA5msA" />
 </head>
 
+{% assign pages = "atomic,bioinsp" | split: "," %}
+
 ## Planned
 
 ### Areas of Mathematical and Physical Science
 
-{% for page in atomic, bioinsp %}
+{% for page in pages %}
 
   [{{site.data.pages[page].title}}](https://bjbraams.github.io/calendars/{{page}})
 
