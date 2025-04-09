@@ -9,9 +9,9 @@
 
 {% for page in atomic, bioinsp %}
 
-  [site.data.pages[page].title](https://bjbraams.github.io/calendars/page)
+  [{{site.data.pages[page].title}}](https://bjbraams.github.io/calendars/{{page}})
 
-  site.data.pages[page].excerpt
+  {{site.data.pages[page].excerpt}}
 
 {% endfor %}
 
