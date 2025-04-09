@@ -3,11 +3,11 @@
   <link rel="stylesheet" href="assets/style.css">
 </head>
 
-{% assign basename = include.basename %}
+{% assign basename = {{page.name|remove:".md"}} %}
 
-# {{site.data.pages[include.basename].title}}
+# {{site.data.pages[basename].title}}
 
-{{site.data.pages[include.basename].excerpt}}
+{{site.data.pages[basename].excerpt}}
 
 ## Contents
 
