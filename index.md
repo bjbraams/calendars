@@ -5,9 +5,9 @@
 
 {% assign baseurl = https://bjbraams.github.io/calendars/ %}
 
-{% assign pagelist = "plasma,iongas,atomic,pmi,nuclear,qsd,light,tcs,optim,stats,stoch,bioinsp,inprogress" | split: "," %}
+{% assign pagelist = "plasma,iongas,atomic,pmi,nuclear,qsd,light,tcs,optim,stats,stoch,bioinsp" | split: "," %}
 
-## Planned Areas of Mathematical and Physical Science
+## Planned Calendars
 
 {% for page in pagelist %}
 
@@ -17,34 +17,12 @@
 
 {% endfor %}
 
-### [Plasma Physics and Fusion Energy]({{baseurl}}plasma).
-
-### [Ionized Gases and Plasma Chemistry]({{baseurl}}iongas).
-
-### [Atomic Processes in Plasmas, Warm and Hot Dense Matter]({{baseurl}}atomic).
-
-### [Plasma-Material Interactions and Related Materials Physics]({{baseurl}}pmi)
-
-### [Nuclear Structure and Reactions]({{baseurl}}nuclear).
-
-[Quantum Structure and Dynamics](https://bjbraams.github.io/calendars/qsd).
-
-[Light Sources and Quantum Optics](https://bjbraams.github.io/calendars/light).
-
-[Theoretical Computer Science, Algorithms, Complexity and Quantum Computing](https://bjbraams.github.io/calendars/tcs).
+## Preliminary
 
 [Computational Science for Inverse Problems and Uncertainty Quantification]().
 
-[Optimization Theory](optim).
+[Not yet categorized]({{baseurl}}inprogress).
 
-[Statistics and Data Analysis](https://bjbraams.github.io/calendars/stats).
+## Related
 
-[Stochastics](https://bjbraams.github.io/calendars/stoch).
-
-[Biologically-Inspired Computation](https://bjbraams.github.io/calendars/bioinsp).
-
-[Not yet categorized](https://bjbraams.github.io/calendars/inprogress).
-
-### Related
-
-[Relevant Organizations](https://bjbraams.github.io/calendars/orgs).
+[Relevant Organizations]({{baseurl}}orgs).
