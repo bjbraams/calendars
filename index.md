@@ -4,6 +4,7 @@
 </head>
 
 {% assign site = https://bjbraams.github.io/calendars/ %}
+
 {% assign pages = "plasma,iongas,atomic,pmi,nuclear,qsd,light,tcs,optim,stats,stoch,bioinsp,inprogress" | split: "," %}
 
 ## Planned Areas of Mathematical and Physical Science
