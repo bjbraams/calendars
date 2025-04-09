@@ -7,9 +7,17 @@
 
 ### Areas of Mathematical and Physical Science
 
+{% for page in atomic, bioinsp %}
+
+  [site.data.pages[page].title](https://bjbraams.github.io/calendars/page)
+
+  site.data.pages[page].excerpt
+
+{% endfor %}
+
 [Plasma Physics and Fusion Energy](https://bjbraams.github.io/calendars/plasma).
 
-[Ionized Gases and Plasma Chemistry](https://bjbraams.github.io/calendars/ionizedgases).
+[Ionized Gases and Plasma Chemistry](https://bjbraams.github.io/calendars/iongas).
 
 [Atomic Processes in Plasmas, Warm and Hot Dense Matter](https://bjbraams.github.io/calendars/atomic).
 
