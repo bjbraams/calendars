@@ -3,15 +3,14 @@
   <meta name="google-site-verification" content="-TclahrTImXSL7tMHLFb3wUP8ne2e1MvaT5MyUA5msA" />
 </head>
 
-{% assign pages = "atomic,bioinsp" | split: "," %}
+{% assign site = https://bjbraams.github.io/calendars/ %}
+{% assign pages = "plasma,iongas,atomic,pmi,nuclear,qsd,light,tcs,optim,stats,stoch,bioinsp,inprogress" | split: "," %}
 
-## Planned
-
-### Areas of Mathematical and Physical Science
+## Planned Areas of Mathematical and Physical Science
 
 {% for page in pages %}
 
-  [{{site.data.pages[page].title}}](https://bjbraams.github.io/calendars/{{page}})
+  ### [{{site.data.pages[page].title}}]({site}}{{page}})
 
   {{site.data.pages[page].excerpt}}
 
