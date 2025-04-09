@@ -3,7 +3,7 @@
   <meta name="google-site-verification" content="-TclahrTImXSL7tMHLFb3wUP8ne2e1MvaT5MyUA5msA" />
 </head>
 
-{% assign site = https://bjbraams.github.io/calendars/ %}
+{% assign baseurl = https://bjbraams.github.io/calendars/ %}
 
 {% assign pagelist = "plasma,iongas,atomic,pmi,nuclear,qsd,light,tcs,optim,stats,stoch,bioinsp,inprogress" | split: "," %}
 
@@ -13,21 +13,21 @@
 
   {{page}}
 
-  ### [{{site.data.pages[page].title}}]({site}}{{page}})
+  ### [{{site.data.pages[page].title}}]({baseurl}}{{page}})
 
   {{site.data.pages[page].excerpt}}
 
 {% endfor %}
 
-### [Plasma Physics and Fusion Energy]({{site}}plasma).
+### [Plasma Physics and Fusion Energy]({{baseurl}}plasma).
 
-### [Ionized Gases and Plasma Chemistry]({{site}}iongas).
+### [Ionized Gases and Plasma Chemistry]({{baseurl}}iongas).
 
-### [Atomic Processes in Plasmas, Warm and Hot Dense Matter]({{site}}atomic).
+### [Atomic Processes in Plasmas, Warm and Hot Dense Matter]({{baseurl}}atomic).
 
-[Plasma-Material Interactions and Related Materials Physics](https://bjbraams.github.io/calendars/pmi)
+### [Plasma-Material Interactions and Related Materials Physics]({{baseurl}}pmi)
 
-[Nuclear Structure and Reactions](https://bjbraams.github.io/calendars/nuclear).
+### [Nuclear Structure and Reactions]({{baseurl}}nuclear).
 
 [Quantum Structure and Dynamics](https://bjbraams.github.io/calendars/qsd).
 
