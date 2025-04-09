@@ -21,7 +21,7 @@
 
 ### [Ionized Gases and Plasma Chemistry](https://bjbraams.github.io/calendars/iongas).
 
-[Atomic Processes in Plasmas, Warm and Hot Dense Matter](https://bjbraams.github.io/calendars/atomic).
+### [Atomic Processes in Plasmas, Warm and Hot Dense Matter]({{site}}atomic).
 
 [Plasma-Material Interactions and Related Materials Physics](https://bjbraams.github.io/calendars/pmi)
 
