@@ -4,6 +4,8 @@
 
 {% include {{basename}}-excerpt.md %}
 
+{% include site.data.pages.{{basename}}.excerpt %}
+
 ## Contents
 
 - [Highlights](#highlights)
