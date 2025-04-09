@@ -11,11 +11,9 @@
 
 {% for page in pagelist %}
 
-  {{page}}
+### [{{site.data.pages[page].title}}]({baseurl}}{{page}})
 
-  ### [{{site.data.pages[page].title}}]({baseurl}}{{page}})
-
-  {{site.data.pages[page].excerpt}}
+{{site.data.pages[page].excerpt}}
 
 {% endfor %}
 
