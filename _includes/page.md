@@ -7,13 +7,7 @@
 
 <!-- An html comment -->
 
-<!--- triple dash html comment --->
-
-[//] Is this a comment?
-
-{% comment %} liquid comment? {% endcomment %}
-
-Not a comment.
+{% comment %} A Liquid comment {% endcomment %}
 
 # {{site.data.pages[basename].title}}
 
