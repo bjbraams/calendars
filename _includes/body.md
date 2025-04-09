@@ -2,8 +2,6 @@
 
 # {{page.title}}
 
-{% include {{basename}}-excerpt.md %}
-
 {{ site.data.pages[basename].excerpt }}
 
 ## Contents
