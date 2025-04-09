@@ -5,21 +5,21 @@
 
 {% assign site = https://bjbraams.github.io/calendars/ %}
 
-{% assign pages = "plasma,iongas,atomic,pmi,nuclear,qsd,light,tcs,optim,stats,stoch,bioinsp,inprogress" | split: "," %}
+{% assign pagelist = "plasma,iongas,atomic,pmi,nuclear,qsd,light,tcs,optim,stats,stoch,bioinsp,inprogress" | split: "," %}
 
 ## Planned Areas of Mathematical and Physical Science
 
-{% for page in pages %}
+{% for page in pagelist %}
 
-### [{{site.data.pages[page].title}}]({site}}{{page}})
+  ### [{{site.data.pages[page].title}}]({site}}{{page}})
 
-{{site.data.pages[page].excerpt}}
+  {{site.data.pages[page].excerpt}}
 
 {% endfor %}
 
 ### [Plasma Physics and Fusion Energy](https://bjbraams.github.io/calendars/plasma).
 
-[Ionized Gases and Plasma Chemistry](https://bjbraams.github.io/calendars/iongas).
+### [Ionized Gases and Plasma Chemistry](https://bjbraams.github.io/calendars/iongas).
 
 [Atomic Processes in Plasmas, Warm and Hot Dense Matter](https://bjbraams.github.io/calendars/atomic).
 
