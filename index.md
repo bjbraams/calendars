@@ -17,7 +17,7 @@
 
 {% endfor %}
 
-### [Plasma Physics and Fusion Energy](https://bjbraams.github.io/calendars/plasma).
+### [Plasma Physics and Fusion Energy]({{site}}plasma).
 
 ### [Ionized Gases and Plasma Chemistry](https://bjbraams.github.io/calendars/iongas).
 
