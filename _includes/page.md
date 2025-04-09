@@ -5,6 +5,16 @@
 
 {% assign basename = {{page.name|remove:".md"}} %}
 
+<!-- An html comment -->
+
+<!--- triple dash html comment --->
+
+[//] Is this a comment?
+
+{% comment %} liquid comment? {% endcomment %}
+
+Not a comment.
+
 # {{site.data.pages[basename].title}}
 
 {{site.data.pages[basename].excerpt}}
