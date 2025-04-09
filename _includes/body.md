@@ -29,6 +29,8 @@ Newly added information is shown here for about two months in reverse order of t
 
 {% include {{basename}}{{site.year0|plus:1}}.md %}
 
+{% include {{basename}}{{site.year0|plus:1}}.html %}
+
 ### {{site.year0|plus:2}}+
 
 ## Other Meeting Lists and Calendars
