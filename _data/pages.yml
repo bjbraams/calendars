@@ -4,3 +4,36 @@ template:
 atomic:
   title: Atomic Processes in Plasma, Warm and Hot Dense Matter
   excerpt: Focussed on processes in high temperature plasma. See other [Calendars](./) for plasma physics, ionized gases, plasma chemistry and plasma-material interaction.
+bioinsp:
+  title: Genetic, evolutionary and other bio-inspired computation
+  excerpt: Including major conferences (only) on artificial neural networks.
+iongas:
+  title: Ionized Gases and Plasma Chemistry
+  excerpt: Focused on low-temperature and atmospheric density plasma. See other [Calendars](./) for (high-temperature) plasma physics and related processes and applications.
+light:
+  title: Plasma Light Sources
+  excerpt: Calendar in progress; to be delimited or abandoned.
+nuclear:
+  title: Nuclear Structure and Reactions
+  excerpt: Calendar of meetings in the general field of nuclear structure and reactions—nuclear physics and nuclear data for energy and other applications.
+optim:
+  title: Optimization Theory
+  excerpt: Major meetings in the areas of discrete and continuous optimization, networks, linear and integer programming, operational research, games and control.
+plasma:
+  title: Plasma Physics and Fusion Energy Science
+  excerpt: Focused on high-temperature plasma, fusion energy and astrophysical plasma. See other [Calendars](./) for atomic processes, warm and hot dense matter, plasma-material interaction, low temperature plasma, ionized gases and plasma chemistry.
+pmi:
+  title: Plasma-Material Interaction and Related Materials Science
+  excerpt: Including fusion-relevant materials physics such as hydrogen trapping and transport. See other [Calendars](./) for plasma physics, fusion science, atomic processes and plasma chemistry.
+qsd:
+  title: Quantum Structure and Dynamics
+  excerpt: Calendar in progress.
+stats:
+  title: Statistics and Data Analysis
+  excerpt: Calendar of meetings in the general field of computational and methodological statistics, data analysis, machine learning theory and related subjects.
+stoch:
+  title: Stochastics
+  excerpt: Stochastic Processes, Stochastics Dynamics and Related Physical Science.
+tcs:
+  title: Theoretical Computer Science
+  excerpt: Calendar in progress. Emphasis on algorithms, complexity and quantum computing.
