@@ -1,4 +1,3 @@
-Testing template 2026.
-Second line (after line break).
-
-Third line (after a blank line for new paragraph).
+<p>Testing template 2026.</p>
+<p>Markdown this [example](https://example.com).</p>
+<p>Third line</p>
