@@ -11,6 +11,8 @@
 
 {% for page in pagelist %}
 
+  {{page}}
+
   ### [{{site.data.pages[page].title}}]({site}}{{page}})
 
   {{site.data.pages[page].excerpt}}
@@ -19,7 +21,7 @@
 
 ### [Plasma Physics and Fusion Energy]({{site}}plasma).
 
-### [Ionized Gases and Plasma Chemistry](https://bjbraams.github.io/calendars/iongas).
+### [Ionized Gases and Plasma Chemistry]({{site}}iongas).
 
 ### [Atomic Processes in Plasmas, Warm and Hot Dense Matter]({{site}}atomic).
 
