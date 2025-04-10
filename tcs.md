@@ -2,6 +2,8 @@
   <link rel="stylesheet" href="assets/style.css">
 </head>
 
+{% assign basename = {{page.name|remove:".md"}} %}
+
 # Theoretical Computer Science
 
 Calendar in progress. Emphasis on algorithms, complexity and quantum computing.
