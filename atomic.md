@@ -2,6 +2,8 @@
   <link rel="stylesheet" href="assets/style.css">
 </head>
 
+{% assign basename = {{page.name|remove:".md"}} %}
+
 # Atomic Processes in Plasma, Warm and Hot Dense Matter
 
 Focussed on processes in high temperature plasma. See other [Calendars](./) for plasma physics, ionized gases, plasma chemistry and plasma-material interaction.
