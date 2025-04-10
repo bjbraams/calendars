@@ -71,25 +71,11 @@ Newly added information is shown here for about two months in reverse order of t
 
 ## Other Meeting Lists and Calendars
 
-[OptNet mailing list Archives](https://listserv.zib.de/pipermail/opt-net/).
-
-[Events List maintained by Mathematical Optimization Society](https://www.mathopt.org/?nav=meetings).
-
-[INFORMS Conference Calendar](https://www.informs.org/Meetings-Conferences/INFORMS-Conference-Calendar).
-
-[COMS Listing on Optimization Theory and Operational Research](https://conference-service.com/conferences/operational-research.html).
+{% include {{basename}}/lists.md %}
 
 ## Archives and Histories of Selected Serial Meetings
 
-**[Integer Programming and Combinatorial Optimization (IPCO)](https://www.mathopt.org/?nav=past_meetings).**
-
-**[International Conferences on Continuous Optimization (ICCOPT)](https://www.mathopt.org/?nav=past_meetings).**
-
-**[Mathematical Optimization Society International Conference (ISMP)](https://www.mathopt.org/?nav=past_meetings).**
-
-**[International Conference on Stochastic Programming (ICSP)](https://www.mathopt.org/?nav=past_meetings).**
-
-Symposium on Algorithmic Game Theory (SAGT).
+{% include {{basename}}/series.md %}
 
 ## Past Meetings by Date
 
