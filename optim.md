@@ -2,6 +2,8 @@
   <link rel="stylesheet" href="assets/style.css">
 </head>
 
+{% assign basename = {{page.name|remove:".md"}} %}
+
 # Optimization Theory
 
 Major meetings in the areas of discrete and continuous optimization, networks, linear and integer programming, operational research, games and control.
