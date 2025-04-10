@@ -2,6 +2,8 @@
   <link rel="stylesheet" href="assets/style.css">
 </head>
 
+{% assign basename = {{page.name|remove:".md"}} %}
+
 # Quantum Structure and Dynamics
 
 Calendar in progress.
