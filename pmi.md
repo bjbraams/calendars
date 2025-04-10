@@ -2,6 +2,8 @@
   <link rel="stylesheet" href="assets/style.css">
 </head>
 
+{% assign basename = {{page.name|remove:".md"}} %}
+
 # Plasma-Material Interaction and Related Materials Science
 
 Including fusion-relevant materials physics such as hydrogen trapping and transport. See other [Calendars](./) for plasma physics, fusion science, atomic processes and plasma chemistry.
