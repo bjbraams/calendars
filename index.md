@@ -3,7 +3,7 @@
   <meta name="google-site-verification" content="-TclahrTImXSL7tMHLFb3wUP8ne2e1MvaT5MyUA5msA" />
 </head>
 
-{% assign dirname = https://bjbraams.github.io/calendars %}
+{% assign urlhead = https://bjbraams.github.io/calendars %}
 
 {% assign pagelist = "plasma,iongas,atomic,pmi,nuclear,qsd,light,tcs,optim,stats,stoch,bioinsp" | split: "," %}
 
@@ -11,7 +11,7 @@
 
 {% for page in pagelist %}
 
-### [{{site.data.pages[page].title}}]({{dirname}}/{{page}})
+### [{{site.data.pages[page].title}}]({{urlhead}}/{{page}})
 
 {{site.data.pages[page].excerpt}}
 
@@ -21,8 +21,8 @@
 
 [Computational Science for Inverse Problems and Uncertainty Quantification]().
 
-[Not yet categorized]({{dirname}}/inprogress).
+[Not yet categorized]({{urlhead}}/inprogress).
 
 ## Related
 
-[Relevant Organizations]({{dirname}}/orgs).
+[Relevant Organizations]({{urlhead}}/orgs).
