@@ -3,6 +3,9 @@
   <meta name="google-site-verification" content="-TclahrTImXSL7tMHLFb3wUP8ne2e1MvaT5MyUA5msA" />
 </head>
 
+{{dirname}}
+{{pages}}
+
 {% assign urlhead = https://bjbraams.github.io/calendars %}
 
 {% assign pagelist = "plasma,iongas,atomic,pmi,nuclear,qsd,light,tcs,optim,stats,stoch,bioinsp" | split: "," %}
