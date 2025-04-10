@@ -2,6 +2,8 @@
   <link rel="stylesheet" href="assets/style.css">
 </head>
 
+{% assign basename = {{page.name|remove:".md"}} %}
+
 # Statistics and Data Analysis
 
 Calendar of meetings in the general field of computational and methodological statistics, data analysis, machine learning theory and related subjects.
