@@ -2,6 +2,8 @@
   <link rel="stylesheet" href="assets/style.css">
 </head>
 
+{% assign basename = {{page.name|remove:".md"}} %}
+
 # Stochastics
 
 Stochastic Processes, Stochastics Dynamics and Related Physical Science.
