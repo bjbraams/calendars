@@ -42,7 +42,7 @@ Newly added information is shown here for about two months in reverse order of t
 
 ## Other Meeting Lists and Calendars
 
-## Meeting Series History and Archives
+## Archives and Histories of Selected Serial Meetings
 
 ## Past Meetings by Date
 
