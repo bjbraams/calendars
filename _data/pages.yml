@@ -16,6 +16,9 @@ iongas:
 light:
   title: Plasma Light Sources
   excerpt: Calendar in progress; to be delimited or abandoned.
+mlt:
+  title: Machine Learning Theory
+  excerpt: Calendar of meetings in the general field of machine learning theory and related AI and data science.
 nuclear:
   title: Nuclear Structure and Reactions
   excerpt: Calendar of meetings in the general field of nuclear structure and reactions—nuclear physics and nuclear data for energy and other applications.
@@ -36,7 +39,7 @@ qsd:
   excerpt: Calendar in progress.
 stats:
   title: Statistics and Data Analysis
-  excerpt: Calendar of meetings in the general field of computational and methodological statistics, data analysis, machine learning theory and related subjects.
+  excerpt: Calendar of meetings in the general field of computational and methodological statistics.
 stoch:
   title: Stochastics
   excerpt: Stochastic Processes, Stochastics Dynamics and Related Physical Science.
