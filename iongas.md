@@ -2,6 +2,8 @@
   <link rel="stylesheet" href="assets/style.css">
 </head>
 
+{% assign basename = {{page.name|remove:".md"}} %}
+
 # Ionized Gases and Plasma Chemistry
 
 Focused on low-temperature and atmospheric density plasma. See other [Calendars](./) for (high-temperature) plasma physics and related processes and applications.
