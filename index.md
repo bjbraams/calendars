@@ -10,7 +10,7 @@
 
 {% assign pagelist = "plasma,iongas,atomic,pmi,nuclear,qsd,light,tcs,optim,stats,stoch,bioinsp" | split: "," %}
 
-## Planned Calendars
+## Work in Progress
 
 {% for page in pagelist %}
 
