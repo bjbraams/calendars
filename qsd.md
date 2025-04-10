@@ -59,7 +59,7 @@ Newly added information is shown here for about two months in reverse order of t
 
 2025-05-21 to 27: [90th Workshop of the International School of Solid State Physics: Dynamics of Electrons in Atomic and Molecular Nanoclusters (DEAMN 2025)](https://dornsife.usc.edu/deamn25/), Erici, Sicily, Italy.
 
-2025-05-23 to 28: [11th Triennial Molecuar Quantum Mechanics Conference (MQM 2025)](http://mqm2025.net), Kyoto, Japan.
+2025-05-23 to 28: [11th Triennial Molecular Quantum Mechanics Conference (MQM 2025)](http://mqm2025.net), Kyoto, Japan.
 
 2025-05-25 to 30: [22nd International Conference on Time-Resolved Vibrational Spectroscopy (TRVS 2025)](https://trvs2025.jp/), Moriyama, Shiga, Japan.
 
