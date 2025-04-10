@@ -55,9 +55,11 @@ Newly added information is shown here for about two months in reverse order of t
 
 ## Other Meeting Lists and Calendars
 
-[Conferences and Workshops of interest to DMV Fachgruppe Stochastik](http://www.fg-stochastik.de/konferenzen-und-workshops.html).
+{% include {{basename}}/lists.md %}
 
 ## Archives and Histories of Selected Serial Meetings
+
+{% include {{basename}}/series.md %}
 
 ## Past Meetings by Date
 
