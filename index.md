@@ -3,16 +3,15 @@
   <meta name="google-site-verification" content="-TclahrTImXSL7tMHLFb3wUP8ne2e1MvaT5MyUA5msA" />
 </head>
 
-{% assign urlhead = https://bjbraams.github.io/calendars %}
+{% assign urlhead = "https://bjbraams.github.io/calendars" %}
+
+{{urlhead}}
 
 {% assign pagelist = "plasma,iongas,atomic,pmi,nuclear,qsd,light,tcs,optim,stats,stoch,bioinsp" | split: "," %}
 
-## In Progress
+## Work in Progress
 
 {% for page in pagelist %}
-
-{{urlhead}}
-{{page}}
 
 ### [{{site.data.pages[page].title}}]({{urlhead}}/{{page}})
 
