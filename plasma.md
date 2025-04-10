@@ -2,6 +2,8 @@
   <link rel="stylesheet" href="assets/style.css">
 </head>
 
+{% assign basename = {{page.name|remove:".md"}} %}
+
 # Plasma Physics and Fusion Energy Science
 
 Focused on high-temperature plasma, fusion energy and astrophysical plasma. See other [Calendars](./) for atomic processes, warm and hot dense matter, plasma-material interaction, low temperature plasma, ionized gases and plasma chemistry.
