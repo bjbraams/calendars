@@ -75,6 +75,14 @@ Newly added information is shown here for about two months in reverse order of t
 
 ### 2027
 
+## Other Meeting Lists and Calendars
+
+{% include {{basename}}/lists.md %}
+
+## Archives and Histories of Selected Serial Meetings
+
+{% include {{basename}}/series.md %}
+
 ## Past Meetings by Date
 
 ### 2025
