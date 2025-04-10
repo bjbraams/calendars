@@ -4,9 +4,9 @@
 
 {% assign basename = {{page.name|remove:".md"}} %}
 
-# Theoretical Computer Science
+# Algorithms and Complexity
 
-Calendar in progress. Emphasis on algorithms, complexity and quantum computing.
+Calendar in progress. Some broader theoretical computer science too.
 
 ## Contents
 
@@ -24,33 +24,6 @@ Tut
 ## Latest Additions to the Calendar
 
 Newly added information is shown here for about two months in reverse order of time of addition.
-
-2025-06-04 to 06: [10th IGAFIT Highlights of Algorithms Meeting](https://2025.highlightsofalgorithms.org), Zurich, Switzerland.
-
-2025-06-16 to 18: [Vienna Workshop on quantum cryptography beyond quantum key distribution (VIE-CRYPT 2025)](https://quantum.univie.ac.at/events/vie-crypt-2025/), Vienna, Austria.
-
-2025-06-30 to 07-02: [21st Spanish Meeting on Computational Geometry (EGC 2025)](https://egc2025.unican.es), Santander, Spain.
-
-2025-07-07 to 11: [International Conference on Permutation Patterns 2025](https://sites.cs.st-andrews.ac.uk/pp25/), St Andrews, UK.
-
-2025-08-11 to 15: [28th International Conference on Theory and Applications of Satisfiability Testing (SAT 2025)](https://satisfiability.org/SAT25/), Glasgow, UK.
-
-2025-08-19 to 22: [29th International Conference on Developments in Language Theory (DLT 2025)](https://cida.uos.ac.kr/dlt2025/), Seoul, Korea.
-
-2025-09-01 to 02: [Workshop on Random Simplicial Complexes and Hypergraphs (WoSCH 2025)](https://worsch25.github.io), Nottingham, UK.
-
-2025-09-02 to 05: [18th International Symposium on Algorithmic Game Theory (SAGT 2025)](https://bath.ac.uk/events/the-18th-international-symposium-on-algorithmic-game-theory/), Bath, UK.
-
-2025-09-12 to 19: [41st International Conference on Logic Programming (ICLP 2025)](https://iclp25.demacs.unical.it), Rende (CS), Italy.
-
-2025-09-15 to 17: [25th International Symposium on Fundamentals of Computation Theory (FCT 2025)](https://fct2025.cs.uni.wroc.pl), Wrocław, Poland.
-
-2025-10-06 to 10: [25th International Conference on Formal Methods in Computer-Aided Design (FMCAD 2025)](https://fmcad.org/FMCAD25/) and [17th International Conference on Verified Software: Theories, Tools, and Experiments (VSTTE 2025)](https://easychair.org/cfp/vstte25), colocated at Menlo Park, CA, USA.
-
-2025-10-27 to 31: [39th International Symposium on Distributed Computing (DISC 2025)](https://disc-conference.org/wp/disc2025/), Berlin, Germany.
-
-2025-11-10 to 12: [European Quantum Technologies Conference (EQTC 2025)](https://eqtc.eu), Copenhagen, Denmark. (Web pages expected here.).
-
 
 ## Future and Recent Past Meetings
 
@@ -163,6 +136,7 @@ Newly added information is shown here for about two months in reverse order of t
 2025-09-12 to 19: [41st International Conference on Logic Programming (ICLP 2025)](https://iclp25.demacs.unical.it), Rende (CS), Italy.
 
 2025-09-15 to 17: [25th International Symposium on Fundamentals of Computation Theory (FCT 2025)](https://fct2025.cs.uni.wroc.pl), Wrocław, Poland.
+
 2025-10-06 to 10: [25th International Conference on Formal Methods in Computer-Aided Design (FMCAD 2025)](https://fmcad.org/FMCAD25/) and [17th International Conference on Verified Software: Theories, Tools, and Experiments (VSTTE 2025)](https://easychair.org/cfp/vstte25), colocated at Menlo Park, CA, USA.
 
 2025-09-15 to 19: [20th Theory of Quantum Computation, Communication and Cryptography Conference (TQC 2025)](https://tqc-conference.org), Bangelore, India.
@@ -195,59 +169,11 @@ Newly added information is shown here for about two months in reverse order of t
 
 ## Other Meeting Lists and Calendars
 
-[List of Conferences in Theoretical Computer Science maintained by Miki Hermann at Polytechnique](https://www.lix.polytechnique.fr/~hermann/conf.php).
-
-[Aggregator for CS Theory Workshops, Schools, etc.](https://cstheory-events.org/).
-
-[List of Conferences and Workshops in Theoretical Computer Science maintained by Tom Friedetzky and Daniel Paulusma](https://conf.friedetzky.org/conf-cd.html).
-
-[Quantum Conference list at Quantum Technology Lab](https://quantum.info/conf/).
-
-[Upcoming and past events calender at Quantiki](https://www.quantiki.org/calendar-node-field-dates).
+{% include {{basename}}/lists.md %}
 
 ## Archives and Histories of Selected Serial Meetings
 
-### Primrily Algorithms and Complexity
-
-[ACM Symposium on Theory of Computing (STOC)](https://acm-stoc.org/).
-
-[IEEE Symposium on Foundations of Computer Science (FOCS)](https://ieee-focs.org/).
-
-[EATCS International Colloquium on Automata, Languages and Programming (ICALP)](https://eatcs.org/index.php/international-colloquium).
-
-[European Symposium on Algorithms (ESA) and related events (ALGO)](https://algo-conference.org/).
-
-[Symposium on Theoretical Aspects of Computer Science (STACS)](https://stacs.irif.fr/).
-
-[Computational Complexity Conference (CCC)](https://computationalcomplexity.org/).
-
-[International Symposium on Algorithms and Computation (ISAAC)](https://www.kurims.kyoto-u.ac.jp/isaac/ISAAC.html). (Through 2024.)
-
-[International Conference on Randomization and Computation (RANDOM)](https://randomconference.com/).
-
-[International Conference on Approximation Algorithms for Combinatorial Optimization Problems (APPROX)](https://approxconference.com/).
-
-[APPROX+RANDOM](https://dblp.org/db/conf/random/index.html).
-
-### Primarily Quantum Computing
-
-[Quantum Information Processing Conference (QIP)](https://qipconference.org/previousqips).
-
-[Theory of Quantum Computation, Communication and Cryptography (TQC)](https://tqc-conference.org/tqc-charter/).
-
-[Quantum Cryptography (QCrypt)](https://qcrypt.net/2025/history/). (Through 2025.)
-
-[Asian Quantum Information Science Conference (AQIS)](http://aqis-conf.org/). (Under the Previous Editions tab.)
-
-[International Conference on Quantum Communication, Measurement and Computing (QCMC](http://www.qcmc-conference.org/). (Link to Previous Meetings.)
-
-[IEEE International Conference on Quantum Computing and Engineering (QCE, aka Quantum Week)](https://qce.quantum.ieee.org/). (Under the Archive tab.)
-
-International Conference on Quantum Communications, Networking, and Computing (QCNC).
-
-[European Quantum Technology Conference](https://qt.eu/working-groups/european-quantum-technology-conference).
-
-[Quantum Techniques in Machine Learning (QTML)](https://qtml2024.org/past-conferences/). (Through 2024.)
+{% include {{basename}}/series.md %}
 
 ## Past Meetings by Date
 
