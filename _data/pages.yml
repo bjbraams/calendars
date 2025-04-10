@@ -1,6 +1,9 @@
 template:
   title: Calendar Page Template
   excerpt: Empty calendar except for occasional testing. See other [Calendars](./) too.
+algs:
+  title: Algorithms and Complexity
+  excerpt: Theoretical computer science with primary focus on algorithms and complexity, but some broader meetings too.
 atomic:
   title: Atomic Processes in Plasma, Warm and Hot Dense Matter
   excerpt: Focussed on processes in high temperature plasma. See other [Calendars](./) for plasma physics, ionized gases, plasma chemistry and plasma-material interaction.
@@ -25,6 +28,9 @@ plasma:
 pmi:
   title: Plasma-Material Interaction and Related Materials Science
   excerpt: Including fusion-relevant materials physics such as hydrogen trapping and transport. See other [Calendars](./) for plasma physics, fusion science, atomic processes and plasma chemistry.
+qcomp:
+  title: Quantum Computing
+  excerpt: Quantum computing, information processing and cryptography.
 qsd:
   title: Quantum Structure and Dynamics
   excerpt: Calendar in progress.
@@ -34,6 +40,3 @@ stats:
 stoch:
   title: Stochastics
   excerpt: Stochastic Processes, Stochastics Dynamics and Related Physical Science.
-tcs:
-  title: Theoretical Computer Science
-  excerpt: Calendar in progress. Emphasis on algorithms, complexity and quantum computing.
