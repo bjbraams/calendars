@@ -6,7 +6,7 @@
 
 # Statistics and Data Analysis
 
-Calendar of meetings in the general field of computational and methodological statistics, data analysis, machine learning theory and related subjects.
+Calendar of meetings in the general field of computational and methodological statistics and data analysis.
 
 ## Contents
 
