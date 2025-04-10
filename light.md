@@ -2,6 +2,8 @@
   <link rel="stylesheet" href="assets/style.css">
 </head>
 
+{% assign basename = {{page.name|remove:".md"}} %}
+
 # Plasma Light Sources
 
 Calendar in progress; to be delimited.
