@@ -2,6 +2,8 @@
   <link rel="stylesheet" href="assets/style.css">
 </head>
 
+{% assign basename = {{page.name|remove:".md"}} %}
+
 # Nuclear Structure and Reactions
 
 Calendar of meetings in the general field of nuclear structure and reactions&mdash;nuclear physics and nuclear data for energy and other applications.
