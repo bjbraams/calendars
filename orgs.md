@@ -60,7 +60,7 @@ Les Houches School of Physics.
 
 Aspen Center for Physics (ACP)
 
-Nordic Institute for Theoretical Physics (Nordita), Stockholm, Sweden.
+[Nordic Institute for Theoretical Physics (Nordita), Stockholm, Sweden](https://nordita.org/events/conferences/).
 
 Asia Pacific Center for Theoretical Physics (APCTP).
 
