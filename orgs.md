@@ -62,6 +62,8 @@ Aspen Center for Physics (ACP)
 
 [Nordic Institute for Theoretical Physics (Nordita), Stockholm, Sweden](https://nordita.org/events/conferences/).
 
+[International Institute of Physics (IIP), Natal (RN), Brazil](https://www.iip.ufrn.br/events.php).
+
 Asia Pacific Center for Theoretical Physics (APCTP).
 
 East African Institute for Fundamental Research (EAIFR).
