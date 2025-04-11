@@ -235,6 +235,8 @@ Newly added information is shown here for about two months in reverse order of t
 
 2026 tbd: 31st Canadian Symposium on Theoretical and Computational Chemistry (CSTCC), Ottawa, 2026. [Search](https://www.google.com/search?q=31st+Canadian+Symposium+on+Theoretical+and+Computational+Chemistry+CSTCC+2026).
 
+2026 tbd: [Frontiers of Quantum and Mesoscopic Thermodynamics (FQMT 2026)](https://fqmt.fzu.cz/), Prague, Czech Republic. 
+
 ### 2027
 
 2027 tbd: 12th Triennial Congress of the International Society of Theoretical Chemical Physics (ISTCP 2027). [Search](https://www.google.com/search?q=12th+Triennial+Congress+of+the+International+Society+for+Theoretical+Chemical+Physics+ISTCP+2027).
