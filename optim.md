@@ -29,6 +29,12 @@ Newly added information is shown here for about two months in reverse order of t
 
 ### 2025
 
+2025-04-23 to 25: [25th European Conference on Evolutionary Computation in Combinatorial Optimisation (EvoCOP 2025)](https://evostar.org/2025/evocop/), Trieste, Italy. Part of [EvoStar 2025](https://evostar.org/2025/).
+
+2025-04-23 to 25: [28th European Conference on Genetic Programming (EuroGP) 2025](https://evostar.org/2025/eurogp/), Trieste, Italy. Part of [EvoStar 2025](https://evostar.org/2025/).
+
+2025-04-23 to 25: [International Conference on the Applications of Evolutionary Computation (EvoApps 2025)](https://evostar.org/2025/evoapps/), Trieste, Italy. Part of [EvoStar 2025](https://evostar.org/2025/).
+
 2025-04-30 to 05-02: [5th IMA and OR Society Conference on Mathematics of Operational Research](https://ima.org.uk/24367/5th-ima-and-or-society-conference-on-mathematics-of-operational-research/), Birmingham, UK.
 
 2025-06-02 to 06: [International School and Conference on Network Science (NetSci 2025](https://netsci2025.github.io), Maastricht, The Netherlands.
@@ -48,6 +54,8 @@ Newly added information is shown here for about two months in reverse order of t
 2025-06-29 to 07-02: [22nd EUROPT Conference on Advances in Continuous Optimization (EUROPT 2025)](https://europt2025.org), Southampton, UK.
 
 2025-07-01 to 03: [Mixed Integer Programming European Workshop (EUROMIP 2025)](https://mixedinteger.org/EUROMIP/2025/), Clermont-Ferrand, France.
+
+2025-07-14 to 18: [Genetic and Evolutionary Computation Conference (GECCO 2025)](https://gecco-2025.sigevo.org/), Málaga, Spain.
 
 **2025-07-19 to 24: [8th International Conference on Continuous Optimization (ICCOPT 2025)](https://sites.google.com/view/iccopt2025), Los Angeles, CA, USA.**
 
