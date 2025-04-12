@@ -1,10 +1,4 @@
 
-2025-02-02 to 06: [Society for Imaging Science and Technology Computational Imaging Conference XXIII](https://imaging.org/IST/Conferences/EI/EI2025/Conference/C_COIMG.aspx), Burlingame, CA, USA.
-
-2025-02-16 to 20: [SPIE Medical Imaging 2025](https://spie.org/conferences-and-exhibitions/medical-imaging), San Diego, CA, USA.
-
-2025-03-22 to 23: [Deep Reconstruction Workshop 2025](https://aiai.jhu.edu/deep_reconstruction_workshop_2025/), Baltimore, MD, USA.
-
 2025-04-14 to 17: [IEEE International Symposium on Biomedical Imaging (ISBI 2025)](https://biomedicalimaging.org/2025/), Houston, TX, USA.
 
 2025-05-27 to 30: [18th International Meeting on Fully Three-Dimensional Image Reconstruction in Radiology and Nuclear Medicine (Fully3D)](https://hqlab.sjtu.edu.cn/fully3d-2025/home), Shanghai, China.
@@ -30,3 +24,21 @@
 2026-06-01 to 30 (to be specified): [9th International Conference on Image Formation in X-Ray Computed Tomography (CT 2026)](https://ct-meeting.org), Salt Lake City, UT, USA.
 
 2026-07-01 to 31 (to be specified): [Medical Imaging with Deep Learning (MIDL 2026)](https://2026.midl.io), Taipei, Taiwan.
+
+## Other Meeting Lists and Calendars
+
+{% include {{basename}}/lists.md %}
+
+## Archives and Histories of Selected Serial Meetings
+
+{% include {{basename}}/series.md %}
+
+## Past Meetings by Date
+
+### 2025
+
+2025-02-02 to 06: [Society for Imaging Science and Technology Computational Imaging Conference XXIII](https://imaging.org/IST/Conferences/EI/EI2025/Conference/C_COIMG.aspx), Burlingame, CA, USA.
+
+2025-02-16 to 20: [SPIE Medical Imaging 2025](https://spie.org/conferences-and-exhibitions/medical-imaging), San Diego, CA, USA.
+
+2025-03-22 to 23: [Deep Reconstruction Workshop 2025](https://aiai.jhu.edu/deep_reconstruction_workshop_2025/), Baltimore, MD, USA.
