@@ -28,3 +28,5 @@
 2026-05-31 to 06-06: [12th International Conference "Inverse Problems: Modeling and Simulation" (IPMS 2026)](https://ipms-conference.org/ipms2026/), Malta.
 
 2026-06-01 to 30 (to be specified): [9th International Conference on Image Formation in X-Ray Computed Tomography (CT 2026)](https://ct-meeting.org), Salt Lake City, UT, USA.
+
+2026-07-01 to 31 (to be specified): [Medical Imaging with Deep Learning (MIDL 2026)](https://2026.midl.io), Taipei, Taiwan.
