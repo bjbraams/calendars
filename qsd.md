@@ -55,21 +55,15 @@ Newly added information is shown here for about two months in reverse order of t
 
 2025-05-20 to 23: [Fourth Cold Atom Molecule Interactions Conference (CATMIN 2025)](https://eventos.ugr.es/catmin/), Granada, Spain.
 
-2025-05-21 to 23: [Workshop on recent progress, development, and applications of two-dimensional magnets in spintronics](https://indico.science.upjs.sk/event/212/), Belgrade, Serbia.
-
 2025-05-21 to 27: [90th Workshop of the International School of Solid State Physics: Dynamics of Electrons in Atomic and Molecular Nanoclusters (DEAMN 2025)](https://dornsife.usc.edu/deamn25/), Erici, Sicily, Italy.
 
 2025-05-23 to 28: [11th Triennial Molecular Quantum Mechanics Conference (MQM 2025)](http://mqm2025.net), Kyoto, Japan.
 
 2025-05-25 to 30: [22nd International Conference on Time-Resolved Vibrational Spectroscopy (TRVS 2025)](https://trvs2025.jp/), Moriyama, Shiga, Japan.
 
-2025-05-25 to 30: [3rd International Workshop on Spintronics](https://usfq.edu.ec/en/events/international-workshop-spintronics), Galapagos Islands, Equador.
-
 2025-05-26 to 30: [CECAM Conference YRM 2025 - 21st ETSF Young Researchers' Meeting](https://cecam.org/workshop-details/yrm-2025-21st-etsf-young-researchers-meeting-1430), Trieste, Italy.
 
 2025-05-26 to 30: [CECAM Flagship School on New Computational Methods for Attosecond Molecular Processes](https://cecam.org/workshop-details/costzcam-school-on-new-computational-methods-for-attosecond-molecular-processes-1411), Zaragoza, Spain.
-
-2025-06-02 to 04: [4th European Conference on Molecular Spintronics (ECMolS 2025)](https://tcd.ie/physics/conferences/ecmols-2025/), Dublin, Ireland.
 
 2025-06-02 to 05: [CECAM Flagship Workshop on Virtual Materials Design: AI, Simulation, and Workflows](https://cecam.org/workshop-details/virtual-materials-design-ai-simulation-and-workflows-1398), Eggenstein-Leopoldshafen, Germany.
 
