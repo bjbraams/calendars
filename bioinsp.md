@@ -27,14 +27,6 @@ To appear.
 
 ### 2025
 
-2025-04-23 to 25: [25th European Conference on Evolutionary Computation in Combinatorial Optimisation (EvoCOP 2025)](https://evostar.org/2025/evocop/), Trieste, Italy. Part of [EvoStar 2025](https://evostar.org/2025/).
-
-2025-04-23 to 25: [28th European Conference on Genetic Programming (EuroGP) 2025](https://evostar.org/2025/eurogp/), Trieste, Italy. Part of [EvoStar 2025](https://evostar.org/2025/).
-
-2025-04-23 to 25: [International Conference on the Applications of Evolutionary Computation (EvoApps 2025)](https://evostar.org/2025/evoapps/), Trieste, Italy. Part of [EvoStar 2025](https://evostar.org/2025/).
-
-2025-07-14 to 18: [Genetic and Evolutionary Computation Conference (GECCO 2025)](https://gecco-2025.sigevo.org/HomePage), Málaga, Spain.
-
 ### 2026
 
 ### 2027
