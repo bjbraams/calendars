@@ -37,8 +37,6 @@ Tut
 
 ## Archives and Histories of Selected Serial Meetings
 
-[International Conference on Computational Science (ICCS)](https://www.iccs-meeting.org/iccs2025/previous-iccs/).
-
 ## Past Meetings by Date
 
 ### 2025
