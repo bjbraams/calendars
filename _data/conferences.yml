@@ -1,0 +1,1467 @@
+- event: "2025-01-07 to 10: [16th Innovations in Theoretical Computer Science Conference (ITCS 2025)](http://itcs-conf.org)"
+  more: "New York City, NY, USA"
+  pages: algs
+- event: "2025-01-08 to 10: [22nd International Workshop on Computational Physics and Materials Science: Total Energy and Force Methods](https://indico.ictp.it/event/10815/)"
+  more: "ICTP, Trieste, Italy"
+  pages: qsd
+- event: "2025-01-08 to 10: [RSC Spectroscopy and Dynamics Group Annual Meeting (SDG 2025)](https://shop.le.ac.uk/conferences-and-events/leicester-conferences/spectroscopy-annual-meeting)"
+  more: "Leicester, UK"
+  pages: qsd
+- event: "2025-01-08 to 11: [24th National Conference on Atomic and Molecular Physics (NCAMP 2025)](https://www.isamp.in/society-activities/conferences)"
+  more: "Dhanbad, India"
+  pages: iongas
+- event: "2025-01-12 to 15: [SIAM Symposium on Discrete Algorithms (SODA 2025)](https://siam.org/conferences-events/siam-conferences/soda25/)"
+  more: "New Orleans, LA, USA"
+  pages: algs
+- event: "2025-01-12 to 17: [Physics of AI Algorithms (PHAIA 2025)](https://houches-school-physics.com/program/program-2025/physics-of-ai-algorithms-phaia-2025-1479852.kjsp)"
+  more: "Les Houches, France"
+  pages: stats
+- event: "2025-01-14 to 17: [International School and Conference on Network Science (NetSciX 2025)](https://netscix2025.iiti.ac.in)"
+  more: "Indore, India"
+  pages: optim
+- event: "2025-01-17 to 18: [Computational Methods in Bayesian Statistics University of Florida Department of Statistics' Annual Winter Workshop](https://stat.ufl.edu/winter-workshop/2025-computational-methods-in-bayesian-statistics/)"
+  more: "Gainesville, FL, USA"
+  pages: stats
+- event: "2025-01-19 to 25: [5th International Workshop on Programming Languages for Quantum Computing (PLanQC 2025)](https://popl25.sigplan.org/home/planqc-2025)"
+  more: "Denver, CO, USA"
+  pages: qcomp
+- event: "2025-01-20 to 23: [17th Latin American Workshop on Plasma Physics](http://fis.puc.cl/~lawpp/)"
+  more: "Santiago, Chile"
+  pages: atomic,plasma
+- event: "2025-01-26 to 02-01: [45th International Workshop on High Energy Density Physics with Intense Ion and Laser Beams](https://indico.gsi.de/event/19829/)"
+  more: "Hirschegg, Germany"
+  pages: atomic
+- event: "2025-01-27 to 31: [61st International Winter Meeting on Nuclear Physics (Bormio 2025)](https://bormiomeeting.com)"
+  more: "Bormio, Italy"
+  pages: nuclear
+- event: "2025-01-27 to 31: [Workshop on Machine Learning for Analysis of High-Energy Cosmic Particles](https://events.icecube.wisc.edu/event/243/)"
+  more: "Newark, DE, USA"
+  pages: sciml
+- event: "2025-01-28 to 30: [32nd European Fusion Programme Workshop (EFPW 2025)](https://indico.euro-fusion.org/category/381/)"
+  more: "Granada, Spain"
+  pages: plasma
+- event: "2025-01-30 to 02-01: [International Conference on Applied Probability, Statistics and Stochastic Processes (ICAPSSP 2025)](https://sites.google.com/nitc.ac.in/icapssp25/)"
+  more: "Calicut, India and Online"
+  pages: stats
+- event: "2025-01-31 to 02-05: [25th Symposium on Applications of Plasma Processes (SAPP 2025) and 14th EU-Japan Joint Symposium on Plasma Processing](https://neon.dpp.fmph.uniba.sk/sapp/)"
+  more: "Štrbské Pleso, Slovakia"
+  pages: iongas
+- event: "2025-02-02 to 06: [Society for Imaging Science and Technology Computational Imaging Conference XXIII](https://imaging.org/IST/Conferences/EI/EI2025/Conference/C_COIMG.aspx)"
+  more: "Burlingame, CA, USA"
+  pages: inverse
+- event: "2025-02-03 to 05: [International Conference on Multigrid and Multiscale Methods in Computational Science (IMG 2025)](https://kaust.edu.sa/html/img25/)"
+  more: "King Abdullah University of Science and Technology, Thuwal, Saudi Arabia"
+  pages: csna
+- event: "2025-02-09 to 14: [Conference on Artificial Intelligence and Quantum Science (AI+Quantum)](https://sites.google.com/view/quai-acp-2025/home)"
+  more: "Aspen, CO, USA"
+  pages: mlt
+- event: "2025-02-09 to 14: [Workshop on Stochastic Equations and Stochastic Dynamics](https://indico.global/event/9635/)"
+  more: "Les Diablerets, Switzerland"
+  pages: stoch
+- event: "2025-02-10 to 13: [Workshop for Applied Nuclear Data Activities (WANDA 2025)](https://conferences.lbl.gov/event/1816/)"
+  more: "Arlington, VA, USA. May need to use [web archive](https://web.archive.org/web/20250306190719/https://conferences.lbl.gov/event/1816/)"
+  pages: **nuclear**
+- event: "2025-02-16 to 20: [SPIE Medical Imaging 2025](https://spie.org/conferences-and-exhibitions/medical-imaging)"
+  more: "San Diego, CA, USA"
+  pages: inverse
+- event: "2025-02-16 to 21: [Oberwolfach Mini-Workshop on New Directions in Correlated Quantum Systems](https://mfo.de/occasion/2508a/www_view)"
+  more: "Oberwolfach, Germany"
+  pages: qsd
+- event: "2025-02-16 to 21: [Workshop on Uncertainty Quantification in Neural Network Models (BIRS 25w5381)](https://birs.ca/events/2025/5-day-workshops/25w5381)"
+  more: "Banff, AB, Canada"
+  pages: uq
+- event: "2025-02-16 to 22: [ITAMP 2025 Winter School on Quantum Revolution in AMO Sciences](https://lweb.cfa.harvard.edu/itamp-event/2025-winter-school-quantum-revolution-amo-sciences)"
+  more: "Biosphere 2, Oracle, AZ, USA"
+  pages: qsd
+- event: "2025-02-17 to 21: [3rd IACM Digital Twins in Engineering Conference (DTE 2025) and 1st ECCOMAS Artificial Intelligence and Computational Methods in Applied Science (AICOMAS 2025)](https://dte_aicomas_2025.iacm.info)"
+  more: "Paris, France"
+  pages: sciml
+- event: "2025-02-17 to 21: [6th Workshop on Algebraic Structures in Quantum Computation](https://itp.uni-hannover.de/en/asqc6)"
+  more: "Hannover, Germany"
+  pages: qcomp
+- event: "2025-02-17 to 21: [ECTstar workshop on Key Reactions in Nuclear Astrophysics](https://indico.ectstar.eu/event/228/)"
+  more: "Trento, Italy. [See also](https://x.com/EctTrento)"
+  pages: nuclear
+- event: "2025-02-17 to 21: [Workshop on Stochastic Processes on Random Geometries](https://tu-braunschweig.de/stochastik/aktuell/workshops)"
+  more: "Braunschweig, Germany"
+  pages: stoch
+- event: "2025-02-19 to 20: [4th Quantum Matters in Materials Science Workshop (QMMS 2025)](https://nist.gov/news-events/events/2025/02/quantum-matters-material-sciences-qmms)"
+  more: "NIST, Gaithersburg, MD, USA"
+  pages: qsd
+- event: "2025-02-23 to 28: [64th Sanibel Symposium (on quantum chemical theory)](https://sanibelsymposium.qtp.ufl.edu)"
+  more: "St. Augustine Beach, FL, USA"
+  pages: qsd
+- event: "2025-02-23 to 28: [Oberwolfach Workshop on Data Assimilation: From Mathematical and Statistical Foundations to Applications](https://www.mfo.de/occasion/2509a/www_view)"
+  more: "Oberwolfach, Germany"
+  pages: stats
+- event: "2025-02-24 to 03-07: [Workshop Modeling Complex (Astro)Chemical Systems - Astrochemistry meets Data Science](https://munich-iapbp.de/activities/activities-2025/astrochemical-systems)"
+  more: "Garching/Munich, Germany"
+  pages: iongas
+- event: "2025-02-24 to 26: [IMSI Workshop Uncertainty Quantification Strategies for Multi-Physics Systems and Digital Twins](https://imsi.institute/activities/uncertainty-quantification-strategies-for-multi-physics-systems-and-digital-twins/)"
+  more: "Chicago, IL, USA"
+  pages: uq
+- event: "2025-02-24 to 27: [16th Conference of Young Researchers in Atomic and Molecular Physics (J2IFAM 2025)](https://j2ifam2025.uva.es)"
+  more: "Valladolid, Spain"
+  pages: qsd
+- event: "2025-02-24 to 27: [36th International Conference on Algorithmic Learning Theory (ALT 2025)](http://algorithmiclearningtheory.org/alt2025/)"
+  more: "Milan, Italy"
+  pages: mlt
+- event: "2025-02-24 to 28: [Conference on Mathematics of Wave Phenomena 2025](https://conference25.waves.kit.edu)"
+  more: "Karlsruhe, Germany"
+  pages: csna
+- event: "2025-02-24 to 28: [Extreme Atomic Physics Workshop (EAS 2025)](https://pks.mpg.de/~eas/)"
+  more: "Riezlern, Kleinwalsertal, Austria"
+  pages: atomic
+- event: "2025-02-24 to 28: [International Workshop on Machine Learning for Quantum Matter](https://pks.mpg.de/mlqmat25)"
+  more: "Dresden, Germany"
+  pages: qsd
+- event: "2025-02-24 to 28: [NUSTAR Annual meeting 2025](https://indico.gsi.de/event/20773/)"
+  more: "Darmstadt, Germany"
+  pages: nuclear
+- event: "2025-02-25 to 03-04: [39th Annual AAAI Conference on Artificial Intelligence (AAAI 2025)](https://aaai.org/conference/aaai/aaai-25/)"
+  more: "Philadelphia, PA, USA"
+  pages: mlt
+- event: "2025-02-25 to 26: [Fusion Industry Association Annual Policy Conference (FIA 2025)](https://fusionindustryassociation.org/fia-annual-conference-2025/)"
+  more: "Washington, DC, USA. [See also](https://x.com/Fusion_Industry)"
+  pages: plasma
+- event: "2025-02-25 to 28: [Conference on Data Analysis (CoDA 2025)](https://web.cvent.com/event/7845571b-b15d-418c-a24a-14468480c4ff/)"
+  more: "Santa Fe, NM, USA"
+  pages: mlt
+- event: "2025-03-03 to 04: [Workshop on Algorithms, Complexity and Logic (“Theorietag”)](https://stacs2025.de/workshop/)"
+  more: "Jena, Germany. In association with [STACS 2025](https://stacs2025.de)"
+  pages: algs
+- event: "2025-03-03 to 05: [Okinawa Institute of Science and Technology Machine Learning Workshop (OMLW 2025)](https://omlw2025.mlds.jp)"
+  more: "Okinawa, Japan"
+  pages: mlt
+- event: "2025-03-03 to 06: [CECAM Flagship Workshop Density Functional Theory and Artificial Intelligence learning from each other](https://cecam.org/workshop-details/density-functional-theory-and-artificial-intelligence-learning-from-each-other-1281)"
+  more: "Lausanne, Switzerland"
+  pages: qsd
+- event: "2025-03-03 to 07: [International Conference on Scientific Computing and Machine Learning (SCML 2025)](https://scml.jp)"
+  more: "Kyoto, Japan and online"
+  pages: mlt
+- event: "2025-03-03 to 07: [SIAM Conference on Computational Science and Engineering (CSE 2025)](https://siam.org/conferences-events/siam-conferences/cse25/)"
+  more: "Fort Worth, TX, USA"
+  pages: csna
+- event: "2025-03-03 to 14: [CeNAM Nucleosynthesis Uncertainties Workshop](https://sites.google.com/view/nucleosynthesis-uncertainties)"
+  more: "Seattle, WA, USA"
+  pages: nuclear
+- event: "2025-03-04 to 06: [International Conference on Optimization (SIGOPT 2025)](https://sigopt2025.uni-siegen.de)"
+  more: "Siegen, Germany"
+  pages: optim
+- event: "2025-03-04 to 07: [42nd International Symposium on Theoretical Aspects of Computer Science (STACS 2025)](https://stacs2025.de)"
+  more: "Jena, Germany"
+  pages: algs
+- event: "2025-03-09 to 12: [Mesilla Chemistry Workshop 2025 Machine Learning in Molecular and Multiscale Dynamics](https://chemistry.nmsu.edu/mesilla-chemistry-workshop/meeting-2025.html)"
+  more: "Mesilla, NM, USA"
+  pages: qsd
+- event: "2025-03-09 to 14: [Oberwolfach Workshop on Mathematical Methods in Quantum Chemistry](https://mfo.de/occasion/2511/www_view)"
+  more: "Oberwolfach, Germany"
+  pages: qsd
+- event: "2025-03-09 to 14: [Workshop on Efficient Approximate Bayesian Inference (BIRS 25w5335)](https://birs.ca/events/2025/5-day-workshops/25w5335)"
+  more: "Banff, AB, Canada"
+  pages: stats
+- event: "2025-03-11 to 13: [Synergies of Machine Learning and Numerics](https://conf.rupp.ink/osaka25/)"
+  more: "Osaka, Japan"
+  pages: sciml
+- event: "2025-03-11 to 14: [17th German Probability and Statistics Days (GPSD 2025)](https://gpsd-2025.de)"
+  more: "Dresden, Germany"
+  pages: stats
+- event: "2025-03-11 to 14: [WE-Heraeus Seminar on Operator Theory and Polynomial Optimization in Quantum Information Theory](https://we-heraeus-stiftung.de/veranstaltungen/operator-theory-and-polynomial-optimization-in-quantum-information-theory/)"
+  more: "Bad Honnef, Germany"
+  pages: qcomp
+- event: "2025-03-12 to 13: [Nuclear Physics in Plasma Environments](https://iop.eventsair.com/nppe2025/)"
+  more: "London, UK"
+  pages: nuclear
+- event: "2025-03-17 to 21: [Quantum Resources 2025](https://2025.quantumresources.science/)"
+  more: "Jeju Island, Korea"
+  pages: qcomp
+- event: "2025-03-18: [1st Open Source Software for Fusion Energy (OSSFE 2025)](https://ossfe.github.io)"
+  more: "Online"
+  pages: plasma
+- event: "2025-03-19 to 22: [Seminar on Stochastic Processes (SSP 2025)](https://ssp.stat.indiana.edu)"
+  more: "Bloomington, IN, USA"
+  pages: stoch
+- event: "2025-03-22 to 23: [Deep Reconstruction Workshop 2025](https://aiai.jhu.edu/deep_reconstruction_workshop_2025/)"
+  more: "Baltimore, MD, USA"
+  pages: inverse
+- event: "2025-03-23 to 28: [Dagstuhl Seminar 25132 Approximation Algorithms for Stochastic Optimization](https://dagstuhl.de/25132)"
+  more: "Wadern, Germany"
+  pages: algs
+- event: "2025-03-23 to 28: [Oberwolfach Workshop on Frontiers of Statistics and Machine Learning](https://mfo.de/occasion/2513/www_view)"
+  more: "Oberwolfach, Germany"
+  pages: mlt
+- event: "2025-03-24 to 26: [1st Annual Meeting of EMS-AI activity group on Scientific Machine Learning](https://mate.polimi.it/events/EMS-TAG-SciML-25/)"
+  more: "Milan, Italy"
+  pages: sciml
+- event: "2025-03-24 to 28: [Conference AI4Quantum - Accelerating Quantum Computing with AI](https://sciencecluster.dk/event/conference-ai4quantum/)"
+  more: "Hillerød, Denmark"
+  pages: qcomp
+- event: "2025-03-27 to 28: [Symposium Can Ice Be Described from First Principles?](https://cas-nor.no/index.php/events/young-cas-fellow-symposium-can-ice-be-described-first-principles)"
+  more: "Oslo, Norway"
+  pages: qsd
+- event: "2025-03-31 to 04-02: [37th Molecular Modeling Workshop (MMWS 2025)](https://mmws2025.mgms-ds.de)"
+  more: "Erlangen, Germany"
+  pages: qsd
+- event: "2025-03-31 to 04-02: [6th Manchester Multiscale Conference by CCPBioSim and CCP5](https://ccpbiosim.ac.uk/multiscale2025)"
+  more: "Manchester, UK"
+  pages: csna
+- event: "2025-03-31 to 04-02: [International Conference on Quantum Communications, Networking, and Computing (QCNC 2025)](https://ieee-qcnc.org/2025/)"
+  more: "Nara, Japan"
+  pages: qcomp
+- event: "2025-03-31 to 04-03: [CECAM Flagship Workshop Fulfilling the Multiscale Promise in Materials: Getting Information out of the Atomistic Scale](https://cecam.org/workshop-details/fulfilling-the-multiscale-promise-in-materials-getting-information-out-of-the-atomistic-scale-1283)"
+  more: "Lausanne, Switzerland & online"
+  pages: qsd
+- event: "2025-03-31 to 04-04: [8th Workshop on Algebraic Complexity Theory (WACT 2025)](https://qi.rub.de/wact)"
+  more: "Bochum, Germany"
+  pages: algs
+- event: "2025-03-31 to 04-04: [IMSI Workshop Kernel Methods in Uncertainty Quantification and Experimental Design](https://imsi.institute/activities/kernel-methods-in-uncertainty-quantification-and-experimental-design/)"
+  more: "Chicago, IL, USA"
+  pages: uq
+- event: "2025-04-02 to 04: [(3rd Workshop on) Reinforcement Learning for Autonomous Accelerators (RL4AA 2025)](https://rl4aa.github.io/RL4AA25/)"
+  more: "Hamburg, Germany"
+  pages: stats
+- event: "2025-04-05 to 06: [IEEE 4th International Conference on Computing and Machine Intelligence (ICMI 2025)](https://icmiconf.com)"
+  more: "Mount Pleasant, MI, USA"
+  pages: mlt
+- event: "2025-04-07 to 09: [Workshop On Randomness and Discrete Structures (WORDS 2025)](https://sites.google.com/rug.nl/words2025/)"
+  more: "Groningen, The Netherlands"
+  pages: algs
+- event: "2025-04-07 to 10: [51st Annual IOP Plasma Physics Conference](https://iop.eventsair.com/plasma2025/)"
+  more: "London, UK"
+  pages: plasma
+- event: "2025-04-07 to 10: [6th European Conference on Plasma Diagnostics (ECPD 2025)](https://indico.ipp.cas.cz/event/30/)"
+  more: "Prague, Czech Republic"
+  pages: plasma
+- event: "2025-04-07 to 11: [ICMS Workshop on Numerical Modelling of Nonlinear Stochastic Systems](https://icms.org.uk/workshops/2025/numerical-modelling-nonlinear-stochastic-systems)"
+  more: "Edinburgh, UK"
+  pages: stoch
+- event: "2025-04-07 to 11: [Inertial Fusion Energy Science and Technology Accelerated Research (IFE-STAR) Conference](https://events.bizzabo.com/IFESTAR)"
+  more: "Breckenridge, CO, USA"
+  pages: atomic
+- event: "2025-04-07 to 18: [10th CECAM School and Workshop on Time-Dependent Density-Functional Theory: Prospects and Applications](https://cecam.org/workshop-details/10th-school-and-workshop-on-time-dependent-density-functional-theory-prospects-and-applications-1340)"
+  more: "Benasque, Spain"
+  pages: qsd
+- event: "2025-04-08 to 11: [3rd Joint ECFA-NuPECC-ApPEC Symposium (JENAS 2025)](https://indico.global/event/5574/)"
+  more: "Didcot, Oxfordshire, UK"
+  pages: nuclear
+- event: "2025-04-08 to 11: [5th ICFA Beam Dynamics Mini-Workshop on Machine Learning for Particle Accelerators](https://indico.cern.ch/event/1382428/)"
+  more: "Geneva, Switzerland"
+  pages: sciml
+- event: "2025-04-09 to 11: [4th Probability, Analysis and Dynamics conference (PAD 2025)](https://people.maths.bris.ac.uk/~mb13434/pad25/)"
+  more: "Bristol, UK"
+  pages: stats
+- event: "2025-04-13 to 17: [22nd Copper Mountain Conference on Multigrid Methods](https://grandmaster.colorado.edu/copper/2025/)"
+  more: "Copper Mountain, CO, USA"
+  pages: csna
+- event: "2025-04-14 to 17: [IEEE International Symposium on Biomedical Imaging (ISBI 2025)](https://biomedicalimaging.org/2025/)"
+  more: "Houston, TX, USA"
+  pages: inverse
+- event: "2025-04-15 to 18: [12th International Workshop on Warm Dense Matter (WDM 2025)](https://sandia.gov/wdm/)"
+  more: "Santa Fe, NM, USA"
+  pages: **atomic**
+- event: "2025-04-20 to 25: [Oberwolfach Workshop on Uncertainty Quantification](https://mfo.de/occasion/2517/www_view)"
+  more: "Oberwolfach, Germany"
+  pages: uq
+- event: "2025-04-21 to 25: [11th Conference of the Asia-Pacific Association of Theoretical and Computational Chemists (APATCC 2025)](https://apatcc11.jp)"
+  more: "Kobe, Japan"
+  pages: qsd
+- event: "2025-04-21 to 25: [CECAM Flagship Workshop Future directions in non-equilibrium statistical physics](https://cecam.org/workshop-details/future-directions-in-non-equilibrium-statistical-physics-1395)"
+  more: "Beijing, China"
+  pages: stoch
+- event: "2025-04-21 to 25: [IMSI Workshop Uncertainty Quantification for Material Science and Engineering](https://imsi.institute/activities/uncertainty-quantification-and-ai-for-complex-systems/uncertainty-quantification-for-material-science-and-engineering/)"
+  more: "Chicago, IL, USA"
+  pages: uq
+- event: "2025-04-22 to 23: [2nd ITER Private Sector Fusion Workshop](https://indico.iter.org/event/529/)"
+  more: "Cadarache, France"
+  pages: plasma
+- event: "2025-04-22 to 25: [Conference on Analysis and Probability in Infinite Dimensions](https://anaprob2025.com)"
+  more: "Bad Herrenalb, Germany"
+  pages: stats
+- event: "2025-04-23 to 25: [25th European Conference on Evolutionary Computation in Combinatorial Optimisation (EvoCOP 2025)](https://evostar.org/2025/evocop/)"
+  more: "Trieste, Italy. Part of [EvoStar 2025](https://evostar.org/2025/)"
+  pages: optim
+- event: "2025-04-23 to 25: [28th European Conference on Genetic Programming (EuroGP) 2025](https://evostar.org/2025/eurogp/)"
+  more: "Trieste, Italy. Part of [EvoStar 2025](https://evostar.org/2025/)"
+  pages: optim
+- event: "2025-04-23 to 25: [4th Quantum Computing Theory in Practice conference (QCTiP 2025)](https://qctip2025.com)"
+  more: "Berlin, Germany"
+  pages: qcomp
+- event: "2025-04-23 to 25: [International Conference on the Applications of Evolutionary Computation (EvoApps 2025)](https://evostar.org/2025/evoapps/)"
+  more: "Trieste, Italy. Part of [EvoStar 2025](https://evostar.org/2025/)"
+  pages: optim
+- event: "2025-04-23 to 25: [ITER Business Forum (IBF 2025)](https://iterbusinessforum.com/homepage.aspx)"
+  more: "Marseille, France"
+  pages: plasma
+- event: "2025-04-23 to 25: [Workshop on Ion-electron effects in large scale atomistic modelling (ELLAM 2025)](https://ellam.aalto.fi)"
+  more: "Aalto University, Espoo, Finland"
+  pages: qsd
+- event: "2025-04-23 to 25: [Workshop Quantum Machine Learning: theory meets experiments](https://quantum.univie.ac.at/events/quantum-machine-learning-workshop-2025/)"
+  more: "Vienna, Austria"
+  pages: mlt
+- event: "2025-04-24 to 28: [13th International Conference on Learning Representations (ICLR 2025)](https://iclr.cc)"
+  more: "Singapore"
+  pages: **mlt**
+- event: "2025-04-27 to 05-02: [Oberwolfach Workshop on Computational Multiscale Methods](https://mfo.de/occasion/2518/www_view)"
+  more: "Oberwolfach, Germany"
+  pages: csna
+- event: "2025-04-27 to 30: [International Conference on Mathematics and Computational Methods Applied to Nuclear Science and Engineering (M&C 2025)](https://ans.org/meetings/mc2025/)"
+  more: "Denver, CO, USA"
+  pages: csna
+- event: "2025-04-29: [7th Symposium on Advances in Approximate Bayesian Inference (AABI 2025)](https://approximateinference.org)"
+  more: "Singapore. Co-located with [ICLR 2025](https://iclr.cc)"
+  pages: stats
+- event: "2025-04-29 to 05-02: [ASA Symposium on Data Science and Statistics (SDSS 2025)](https://ww2.amstat.org/meetings/sdss/2025/)"
+  more: "Salt Lake City, UT, USA"
+  pages: mlt
+- event: "2025-04-30 to 05-02: [5th IMA and OR Society Conference on Mathematics of Operational Research](https://ima.org.uk/24367/5th-ima-and-or-society-conference-on-mathematics-of-operational-research/)"
+  more: "Birmingham, UK"
+  pages: optim
+- event: "2025-05-01 to 03: [SIAM International Conference on Data Mining (SDM 2025)](https://siam.org/conferences-events/siam-conferences/sdm25/)"
+  more: "Alexandria, VA, USA"
+  pages: mlt
+- event: "2025-05-03 to 04: [Penn Conference on Theoretical Chemistry (PCTC 2025) (Ferroelectrics, Nanomaterials, Light-Matter Interactions, Next-Gen Computing & Renewable Energy)](https://pctc2025.regfox.com/pctc25)"
+  more: "Philadelphia, PA, USA"
+  pages: qsd
+- event: "2025-05-03 to 05: [28th International Conference on Artificial Intelligence and Statistics (AISTATS 2025)](https://aistats.org/aistats2025/)"
+  more: "Mai Khao, Thailand"
+  pages: mlt
+- event: "2025-05-03 to 08: [28th International Conference on Foundations of Software Science and Computation Structures (FoSSaCS 2025)](https://etaps.org/2025/conferences/fossacs/)"
+  more: "Hamilton, ON, Canada"
+  pages: algs
+- event: "2025-05-03 to 08: [28th International Conference on Fundamental Approaches to Software Engineering (FASE 2025)](https://etaps.org/2025/conferences/fase/)"
+  more: "Hamilton, ON, Canada"
+  pages: algs
+- event: "2025-05-03 to 08: [31st International Conference on Tools and Algorithms for the Construction and Analysis of Systems (TACAS 2025)](https://etaps.org/2025/conferences/tacas/)"
+  more: "Hamilton, ON, Canada"
+  pages: algs
+- event: "2025-05-03 to 08: [34th European Symposium on Programming (ESOP 2025)](https://etaps.org/2025/conferences/esop/)"
+  more: "Hamilton, ON, Canada"
+  pages: algs
+- event: "2025-05-03 to 08: [International Joint Conferences on Theory and Practice of Software (ETAPS 2025)](https://etaps.org/2025/)"
+  more: "Hamilton, ON, Canada. Incorporating ESOP, FASE, FoSSaCS, TACAS"
+  pages: algs
+- event: "2025-05-05 to 08: [CECAM Flagship Workshop Machine Learning for Materials Discovery (ML4MD 2025)](https://sites.utu.fi/ml4md2025/)"
+  more: "Aalto University, Espoo, Finland"
+  pages: sciml
+- event: "2025-05-05 to 09: [11th International Conference on Frontiers of Plasma Physics and Technology (FPPT 2025)](http://cro-vacuum.hr/2025/01/30/https-www-fpptseries-org/)"
+  more: "Dubrovnik, Croatia"
+  pages: iongas
+- event: "2025-05-05 to 09: [26th Symposium on the Jahn-Teller effect: Vibronic Coupling and Jahn-Teller Effects in Molecules, Solids, and Nanoscale Materials](https://sites.google.com/view/jt26th-2025/)"
+  more: "Online"
+  pages: qsd
+- event: "2025-05-05 to 09: [Conference on Mixing Times between Probability, Computer Science and Statistical Physics (ICTP smr 4066)](https://indico.ictp.it/event/10831)"
+  more: "Trieste, Italy"
+  pages: stats
+- event: "2025-05-07 to 09: [CECAM Flagship Workshop on Accurate methods for thermal and excited electrons](https://cecam.org/workshop-details/accurate-methods-for-thermal-and-excited-electrons-1371)"
+  more: "Lausanne, Switzerland"
+  pages: qsd
+- event: "2025-05-12 to 13: [4th Workshop on FAIR Data in Plasma Science (FDPS 2025)](https://plasma-mds.org/ws-fair-data-plasma-science-4.html)"
+  more: "Greifswald, Germany"
+  pages: plasma
+- event: "2025-05-12 to 15: [8th International Conference on Matter and Radiation at Extremes](http://icmre2025.mre.org.cn/en-us/)"
+  more: "Xi'an, China"
+  pages: atomic
+- event: "2025-05-12 to 23: [Joint ICTP-IAEA Fusion Energy School (ICTP smr 4069)](https://indico.ictp.it/event/10834)"
+  more: "Trieste, Italy"
+  pages: plasma
+- event: "2025-05-13 to 15: [7th Conference on Nuclei and Mesoscopic Physics (NMP 2025)](https://indico.frib.msu.edu/event/78/)"
+  more: "East Lansing, MI, USA"
+  pages: nuclear
+- event: "2025-05-14 to 16: [CECAM Flagship Workshop on Stochastics processes: Inferences in complex systems](https://cecam.org/workshop-details/stochastics-processes-inferences-in-complex-systems-1390)"
+  more: "Lausanne, Switzerland"
+  pages: stoch
+- event: "2025-05-18 to 22: [10th International Conference on the Physics of Dusty Plasmas (ICPDP 2025)](https://icpdp2025.dryfta.com)"
+  more: "Eindhoven, The Netherlands"
+  pages: iongas
+- event: "2025-05-19 to 22: [20th Direct Drive and Fast Ignition Workshop (DDFIW 2025)](https://indico.gsi.de/event/21177/)"
+  more: "Darmstadt, Germany"
+  pages: atomic
+- event: "2025-05-19 to 22: [25th Topical Conference on Radio-Frequency Power in Plasmas (RFPPC 2025)](https://ipp.mpg.de/rfppc2025)"
+  more: "Schloss Hohenkammer (near Munich), Germany"
+  pages: plasma
+- event: "2025-05-19 to 22: [Machine Learning in Chemical and Material Sciences (MLCM 2025)](https://web.cvent.com/event/d74fa979-47ee-4882-8618-7a5b22632953/summary/)"
+  more: "Santa Fe, NM, USA"
+  pages: sciml
+- event: "2025-05-19 to 23: [20th International Conference on Plasma-Facing Materials and Components for Fusion Applications (PFMC 2025)](https://pfmc20.com)"
+  more: "Ljubljana, Slovenia"
+  pages: **pmi**
+- event: "2025-05-19 to 23: [24th International Conference on Radionuclide Metrology and applications (ICRM 2025)](https://icrm2025.org)"
+  more: "Paris, France"
+  pages: nuclear
+- event: "2025-05-19 to 23: [41st IEEE International Conference on Data Engineering (ICDE 2025)](https://ieee-icde.org/2025/)"
+  more: "Hong Kong, China"
+  pages: mlt
+- event: "2025-05-19 to 23: [7th Inter-experiment Machine Learning Workshop](https://indico.cern.ch/event/1502120/)"
+  more: "CERN, Geneva, Switzerland"
+  pages: sciml
+- event: "2025-05-19 to 23: [IMSI Workshop Uncertainty Quantification and Machine Learning for Complex Physical Systems](https://imsi.institute/activities/uncertainty-quantification-and-ai-for-complex-systems/uncertainty-quantification-and-machine-learning-for-complex-physical-systems/)"
+  more: "Chicago, IL, USA"
+  pages: uq
+- event: "2025-05-19 to 23: [International Conference on Robust Statistics (ICORS 2025)](http://datascience.maths.unitn.it/icors2025/)"
+  more: "Stresa (VA), Italy"
+  pages: stats
+- event: "2025-05-19 to 23: [IReNA-CeNAM Frontiers in Nuclear Astrophysics Meeting (CeNAM 2025)](https://sites.ohio.edu/cenam-2025/)"
+  more: "Athens, OH, USA"
+  pages: nuclear
+- event: "2025-05-20 to 23: [5th Quantum Matter International Conference (QUANTUMatter 2025)](https://quantumconf.eu/2025/)"
+  more: "Grenoble, France"
+  pages: qsd
+- event: "2025-05-20 to 23: [4th Cold Atom Molecule Interactions Conference (CATMIN 2025)](https://eventos.ugr.es/catmin/)"
+  more: "Granada, Spain"
+  pages: qsd
+- event: "2025-05-21 to 23: [CRiSM 2.0 Conference](https://warwick.ac.uk/fac/sci/statistics/news/crism-event2025)"
+  more: "Warwick, UK"
+  pages: stats
+- event: "2025-05-21 to 23: [Workshop on recent progress, development, and applications of two-dimensional magnets in spintronics](https://indico.science.upjs.sk/event/212/)"
+  more: "Belgrade, Serbia"
+  pages: spintronics
+- event: "2025-05-21 to 27: [90th Workshop of the International School of Solid State Physics: Dynamics of Electrons in Atomic and Molecular Nanoclusters (DEAMN 2025)](https://dornsife.usc.edu/deamn25/)"
+  more: "Erici, Sicily, Italy"
+  pages: qsd
+- event: "2025-05-23 to 28: [11th Triennial Molecular Quantum Mechanics Conference (MQM 2025)](http://mqm2025.net)"
+  more: "Kyoto, Japan"
+  pages: qsd
+- event: "2025-05-25 to 30: [22nd International Conference on Time-Resolved Vibrational Spectroscopy (TRVS 2025)](https://trvs2025.jp/)"
+  more: "Moriyama, Shiga, Japan"
+  pages: qsd
+- event: "2025-05-25 to 30: [29th International Nuclear Physics Conference (INPC 2025)](https://inpc2025.org)"
+  more: "Daejeon, Korea"
+  pages: **nuclear**
+- event: "2025-05-25 to 30: [3rd International Workshop on Spintronics](https://usfq.edu.ec/en/events/international-workshop-spintronics)"
+  more: "Galapagos Islands, Equador"
+  pages: spintronics
+- event: "2025-05-26 to 28: [14th Workshop on Bayesian Inference in Stochastic Processes (BISP 2025)](https://-web.org/event-detail/436)"
+  more: "Milan, Italy"
+  pages: stats
+- event: "2025-05-26 to 28: [7th International Workshop on Models and Data for Plasma-Material Interaction in Fusion Devices (MoD-PMI 2025)](https://amdis.iaea.org/meetings/mod-pmi-2025/)"
+  more: "Vienna, Austria"
+  pages: pmi
+- event: "2025-05-26 to 30: [CECAM Conference YRM 2025 - 21st ETSF Young Researchers' Meeting](https://cecam.org/workshop-details/yrm-2025-21st-etsf-young-researchers-meeting-1430)"
+  more: "Trieste, Italy"
+  pages: qsd
+- event: "2025-05-26 to 30: [CECAM Flagship School on New Computational Methods for Attosecond Molecular Processes](https://cecam.org/workshop-details/costzcam-school-on-new-computational-methods-for-attosecond-molecular-processes-1411)"
+  more: "Zaragoza, Spain"
+  pages: ultrafast
+- event: "2025-05-26 to 31: [CECAM Flagship School on Machine Learning in Physical Sciences: Theory and Applications](https://cecam.org/workshop-details/machine-learning-in-physical-sciences-theory-and-applications-1449)"
+  more: "Lyon, France"
+  pages: sciml
+- event: "2025-05-27 to 30: [18th International Meeting on Fully Three-Dimensional Image Reconstruction in Radiology and Nuclear Medicine (Fully3D)](https://hqlab.sjtu.edu.cn/fully3d-2025/home)"
+  more: "Shanghai, China"
+  pages: inverse
+- event: "2025-06-01 to 03: [Inverse Problems Symposium (IPS 2025)](https://canr.msu.edu/inverse-problems/)"
+  more: "East Lansing, MI, USA"
+  pages: inverse
+- event: "2025-06-01 to 05: [8th International Conference on the Dynamics of Information Systems (DIS 2025)](https://dis2025.ujep.cz)"
+  more: "London, UK"
+  pages: algs
+- event: "2025-06-01 to 06: [16th International Particle Accelerator Conference (IPAC 2025)](https://ipac25.org)"
+  more: "Taipei, Taiwan"
+  pages: nuclear
+- event: "2025-06-01 to 06: [20th International Conference on Positron Annihilation (ICPA 2025)](https://confit.atlas.jp/guide/event/icpa20/top)"
+  more: "Takamatsu, Japan"
+  pages: pmi
+- event: "2025-06-02 to 04: [4th European Conference on Molecular Spintronics (ECMolS 2025)](https://tcd.ie/physics/conferences/ecmols-2025/)"
+  more: "Dublin, Ireland"
+  pages: spintronics
+- event: "2025-06-02 to 05: [CECAM Flagship Workshop on Virtual Materials Design: AI, Simulation, and Workflows](https://cecam.org/workshop-details/virtual-materials-design-ai-simulation-and-workflows-1398)"
+  more: "Eggenstein-Leopoldshafen, Germany"
+  pages: qsd
+- event: "2025-06-02 to 06: [3rd International Workshop on the Art, Science, and Engineering of Quantum Programming (QP 2025)](https://2025.programming-conference.org/details/prog25-workshops/4/The-3rd-International-Workshop-on-the-Art-Science-and-Engineering-of-Quantum-Progra)"
+  more: "Prague, Czech Republic"
+  pages: qcomp
+- event: "2025-06-02 to 06: [Complexity, Algorithms, Automata and Logic Meet (CAALM 2025)](https://caalm-2025.sciencesconf.org)"
+  more: "Villetaneuse, France"
+  pages: algs
+- event: "2025-06-02 to 06: [FoQaCiA WORKSHOP Pioneering the Foundations of Quantum Computing](https://foqacia.org/foqacia-workshop-2025)"
+  more: "Braga, Portugal"
+  pages: qcomp
+- event: "2025-06-02 to 06: [International School and Conference on Network Science (NetSci 2025](https://netsci2025.github.io)"
+  more: "Maastricht, The Netherlands"
+  pages: optim
+- event: "2025-06-02 to 06: [Scientific Machine Learning for Gravitational Wave Astronomy](https://icerm.brown.edu/program/topical_workshop/tw-25-smlgwa)"
+  more: "Providence, RI, USA"
+  pages: sciml
+- event: "2025-06-02 to 07: [26th International Conference on Laser Spectroscopy (ICOLS 2025)](https://icols2025.it)"
+  more: "Elba Island, Italy"
+  pages: pmi
+- event: "2025-06-02 to 13: [Algorithms For Multiphysics Models In The Post-Moore's Law Era](https://sites.google.com/msu.edu/modeling-beyond-moore/)"
+  more: "Los Alamos, NM, USA"
+  pages: csna
+- event: "2025-06-03 to 06: [22nd Mixed Integer Programming Workshop (MIP 2025)](https://mixedinteger.org/2025/)"
+  more: "Minneapolis, MN, USA"
+  pages: optim
+- event: "2025-06-04 to 06: [10th IGAFIT Highlights of Algorithms Meeting](https://2025.highlightsofalgorithms.org)"
+  more: "Zurich, Switzerland"
+  pages: algs
+- event: "2025-06-04 to 06: [40th Symposium on Chemical Kinetics and Dynamics (SCKD 2025)](http://sckd.jp/40Kobe/index_e.php)"
+  more: "Kobe, Japan"
+  pages: qsd
+- event: "2025-06-04 to 07: [13th Workshop on Uncertainty Processing (WUPES 2025)](https://utia.cas.cz/news/3818)"
+  more: "Třešť, Czech Republic"
+  pages: uq
+- event: "2025-06-08 to 12: [Objective Bayes Methodology Conference (O'Bayes 2025)](https://obayes25.aueb.gr)"
+  more: "Athens, Greece"
+  pages: stats
+- event: "2025-06-08 to 13: [13th International Conference on Chemical Kinetics (ICCK 2025)](https://icck2025.lbl.gov)"
+  more: "Lake Tahoe, NV, USA"
+  pages: qsd
+- event: "2025-06-08 to 13: [22nd International Conference on Radiation Effects in Insulators (REI 2025)](https://rei22madrid.csic.es)"
+  more: "Madrid, Spain"
+  pages: pmi
+- event: "2025-06-09 to 12: [Adiabatic Quantum Computing Conference (AQC 2025)](https://aqc25.phas.ubc.ca)"
+  more: "Vancouver, BC, Canada"
+  pages: qcomp
+- event: "2025-06-09 to 13: [11th International Workshop on Applied Probability (IWAP 2025)](https://imstat.org/meetings-calendar/international-workshop-on-applied-probability-iwap-2025/)"
+  more: "Raleigh, NC, USA"
+  pages: stats
+- event: "2025-06-09 to 13: [15th Serbian Conference on Spectral Line Shapes in Astrophysics (SCSLSA 2025)](http://servo.aob.rs/scslsa/)"
+  more: "Niš, Serbia"
+  pages: atomic
+- event: "2025-06-09 to 13: [IMSI Workshop Statistical and Computational Challenges in Probabilistic Scientific Machine Learning (SciML)](https://imsi.institute/activities/statistical-and-computational-challenges-in-probabilistic-scientific-machine-learning-sciml/)"
+  more: "Chicago, IL, USA"
+  pages: mlt
+- event: "2025-06-09 to 13: [Workshop on Molecular Excited States (MolEx 2025)](https://molex.umk.pl)"
+  more: "Toruń, Poland"
+  pages: qsd
+- event: "2025-06-10 to 12: [14th International Conference on Algorithms and Complexity (CIAC 2025)](https://easyconferences.eu/ciac2025/)"
+  more: "Rome, Italy"
+  pages: algs
+- event: "2025-06-11 to 13: [26th Conference on Integer Programming and Combinatorial Optimization (IPCO 2025)](https://ipco25.cs.jhu.edu)"
+  more: "Baltimore, MD, USA"
+  pages: **optim**
+- event: "2025-06-11 to 13: [51st International Workshop on Graph-Theoretic Concepts in Computer Science (WG 2025)](https://algo.uni-trier.de/wg2025/)"
+  more: "Otzenhausen, Germany"
+  pages: algs
+- event: "2025-06-11 to 15: [IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR 2025)](https://cvpr.thecvf.com)"
+  more: "Nashville, TN, USA"
+  pages: algs
+- event: "2025-06-11 to 15 (precise day or days tba): [4th Workshop on Uncertainty Quantification for Computer Vision (UQCV 2025)](https://uncertainty-cv.github.io/2025/)"
+  more: "Nashville, TN, USA. In association with [CVPR 2025](https://cvpr.thecvf.com)"
+  pages: uq
+- event: "2025-06-13 to 15: [Portuguese American Optimization Workshop (PAOW 2025)](https://coral.ise.lehigh.edu/paow/)"
+  more: "Horta, Azores, Portugal"
+  pages: optim
+- event: "2025-06-15 to 18: [6th International Conference on Uncertainty Quantification in Computational Science and Engineering (UNCECOMP 2025)](https://2025.uncecomp.org)"
+  more: "Rhodes, Greece"
+  pages: uq
+- event: "2025-06-15 to 19: [19th Learning and Intelligent OptimizatioN Conference (LION 2025)](https://lion19.org)"
+  more: "Prague, Czech Republic"
+  pages: optim
+- event: "2025-06-15 to 20: [18th International Symposium on Nuclei in the Cosmos (NIC 2025)](https://indico.icc.ub.edu/event/341/)"
+  more: "Girona, Catalonia, Spain"
+  pages: nuclear
+- event: "2025-06-15 to 20: [25th IEEE Pulsed Power Conference (PPC 2025) and the 52nd IEEE International Conference on Plasma Science (ICOPS 2025)](https://ppps2025.kit.edu)"
+  more: "Berlin, Germany"
+  pages: **iongas**
+- event: "2025-06-15 to 20: [26th International Symposium on Plasma Chemistry (ISPC 2025)](https://ispc-conference.org)"
+  more: "Minneapolis, MN, USA"
+  pages: iongas
+- event: "2025-06-15 to 20: [Gordon Research Conference Atomic Physics: Cold Atoms and Molecules, Precision Measurements and Quantum Science](https://grc.org/atomic-physics-conference/2025/)"
+  more: "Newport, RI, USA"
+  pages: qsd
+- event: "2025-06-15 to 20: [Gordon Research Conference Nuclear Chemistry: Diving into the Era of Discoveries with Exotic Beams](https://grc.org/nuclear-chemistry-conference/2025/)"
+  more: "New London, NH, USA"
+  pages: nuclear
+- event: "2025-06-16 to 18: [Vienna Workshop on quantum cryptography beyond quantum key distribution (VIE-CRYPT 2025)](https://quantum.univie.ac.at/events/vie-crypt-2025/)"
+  more: "Vienna, Austria"
+  pages: qcomp
+- event: "2025-06-16 to 19: [Conference on Excited State Processes (ESP 2025)](https://web.cvent.com/event/2d34d179-9bf3-4c99-a8a5-69e3bbb4532f/)"
+  more: "Santa Fe, NM, USA"
+  pages: qsd
+- event: "2025-06-16 to 20: [2nd European AI for Fundamental Physics Conference (EuCAIFCon 2025)](https://agenda.infn.it/event/43565/)"
+  more: "Cagliari, Italy"
+  pages: sciml
+- event: "2025-06-16 to 20: [2nd Workshop on Quantum Software 2025](https://pldi25.sigplan.org/home/wqs-2025)"
+  more: "Seoul, Korea"
+  pages: qcomp
+- event: "2025-06-16 to 20: [56th Annual Meeting of the APS Division of Atomic, Molecular and Optical Physics (APS-DAMOP 2025)](https://aps.org/events/2025/atomic-molecular-optical-physics)"
+  more: "Portland, OR, USA"
+  pages: qsd
+- event: "2025-06-16 to 20: [International Society for Bayesian Analysis Bayes Comp Meeting (BayesComp 2025)](https://bayescomp2025.sg)"
+  more: "Singapore"
+  pages: stats
+- event: "2025-06-16 to 20: [Linnaeus Workshop on Stochastic Analysis and Applications (LSAA 2025)](https://lnu.se/en/meet-linnaeus-university/current/events/2025/konferenser/lsaa25/)"
+  more: "Växjö, Sweden"
+  pages: stoch
+- event: "2025-06-16 to 20: [Quantum Algorithms in Pre-Fault Tolerant Hardware](https://basq-ibm-2025.dipc.org)"
+  more: "Donostia / San Sebastian, Spain"
+  pages: qcomp
+- event: "2025-06-16 to 27: [Los Alamos Computational Condensed Matter Summer School 2025](https://laccmss.github.io/2025/)"
+  more: "Los Alamos, NM, USA"
+  pages: qsd
+- event: "2025-06-17 to 19: [14th International Meeting on Atomic and Molecular Physics and Chemistry (IMAMPC 2025)](https://imampc2025.sciencesconf.org)"
+  more: "Caen, France"
+  pages: iongas
+- event: "2025-06-17 to 20: [Meeting of the International Network of Nuclear Reaction Data Centres (NRDC 2025)](https://www-nds.iaea.org/nrdc/nrdc_2025/)"
+  more: "Madrid, Spain"
+  pages: **nuclear**
+- event: "2025-06-17 to 20: [Modeling and Optimization: Theory and Applications (MOPTA 2025)](https://coral.ise.lehigh.edu/mopta2025/)"
+  more: "Ponta Delgada, Azores, Portugal"
+  pages: optim
+- event: "2025-06-18 to 20: [Current Trends in Electronic-Structure Theory (CTEST 2025)](https://ctest2025.com)"
+  more: "Copenhagen, Denmark. Satellite of WATOC 2025"
+  pages: qsd
+- event: "2025-06-18 to 20: [ELI User Meeting 2025](https://indico.eli-laser.eu/event/194/)"
+  more: "Szeged, Hungary"
+  pages: light
+- event: "2025-06-18 to 20: [Numerical Methods in Quantum Chemistry Workshop](https://mrchemsoft.no/nmqc-2025/)"
+  more: "Berlin, Germany. Satellite of WATOC"
+  pages: qsd
+- event: "2025-06-21 to 26: [Extreme Ultraviolet Lithography (EUVL) and Source Workshop 2025](https://euvlitho.com)"
+  more: "Cambridge, MA, USA"
+  pages: atomic
+- event: "2025-06-22 to 25: [34th European Conference on Operational Research (EURO 2025)](https://euro2025leeds.uk)"
+  more: "Leeds, UK"
+  pages: optim
+- event: "2025-06-22 to 27: [13th Triennial Congress of the World Association of Theoretical and Computational Chemists (WATOC 2025)](http://watoc2025.no)"
+  more: "Oslo, Norway"
+  pages: qsd
+- event: "2025-06-22 to 27: [16th Femtochemistry Conference - Dynamics of Complex Molecular Processes in Chemistry, Biology, and Physics](https://indico.elettra.eu/event/44/)"
+  more: "Trieste, Italy"
+  pages: qsd
+- event: "2025-06-22 to 27: [16th International Conference on Heavy Ion Accelerator Technology (HIAT 2025)](https://indico.jacow.org/event/82/)"
+  more: "East Lansing, MI, USA"
+  pages: nuclear
+- event: "2025-06-22 to 27: [16th Nuclear Data for Science and Technology Conference (ND 2025)](https://nd2025madrid.com)"
+  more: "Madrid, Spain"
+  pages: **nuclear**
+- event: "2025-06-22 to 27: [31st International Symposium on Molecular Beams (ISMB 2025)](https://ismb25.epfl.ch)"
+  more: "St. Moritz, Switzerland"
+  pages: qsd
+- event: "2025-06-22 to 27: [IEEE International Symposium on Information Theory (ISIT 2025)](https://2025.ieee-isit.org)"
+  more: "Ann Arbor, MI, USA"
+  pages: algs
+- event: "2025-06-22 to 27: [Workshop on Efficient and Reliable Deep Learning Methods and their Scientific Applications (BIRS 25w5382)](https://birs.ca/events/2025/5-day-workshops/25w5382)"
+  more: "Banff, AB, Canada"
+  pages: sciml
+- event: "2025-06-23 to 25: [International Conference on Statistics and Data Science](https://icsds.github.io/2025/)"
+  more: "Vancouver, BC, Canada. Not to be confused with the IMS International Conference on Statistics and Data Science in Sevilla, Spain in 2025"
+  pages: mlt
+- event: "2025-06-23 to 25: [Workshop for Artificial Intelligence (AI)-Powered Materials Discovery in the Great Plains](https://aimaterialsworkshop.org/event/1/)"
+  more: "Vermillion, SD, USA"
+  pages: sciml
+- event: "2025-06-23 to 26: [40th ACM/IEEE Symposium on Logic in Computer Science (LICS)](https://lics.siglog.org/lics25/)"
+  more: "Singapore"
+  pages: algs
+- event: "2025-06-23 to 26: [4th Annual Conference of SPP2265: Random Geometric Systems](https://wias-berlin.de/workshops/An_2025_RaGeSys/)"
+  more: "Berlin, Germany"
+  pages: algs
+- event: "2025-06-23 to 27: [14th International Conference on Bayesian Nonparametrics (BNP 2025)](https://bnp14.org)"
+  more: "Los Angeles, CA, USA. Satellite events Workshop on the 25th Anniversary of the Dependent Dirichlet Process and Workshop on Bayesian Predictive Inference, 2025-06-22"
+  pages: stats
+- event: "2025-06-23 to 27: [14th International Conference on Extreme Value Analysis (EVA 2025)](https://eva2025.unc.edu)"
+  more: "Chapel Hill, NC, USA"
+  pages: stats
+- event: "2025-06-23 to 27: [26th Conference of the International Linear Algebra Society (ILAS 2025)](https://ilas2025.tw)"
+  more: "Kaohsiung, Taiwan"
+  pages: csna
+- event: "2025-06-23 to 27: [29th Central European Workshop on Quantum Optics (CEWQO 2025)](https://cewqo29.ff.vu.lt)"
+  more: "Vilnius, Lithuania"
+  pages: light
+- event: "2025-06-23 to 27: [41st International Symposium on Computational Geometry (SoCG 2025)](https://socg25.github.io/socg.html)"
+  more: "Kanazawa, Japan. Part of [Computational Geometry Week](https://socg25.github.io)"
+  pages: algs
+- event: "2025-06-23 to 27: [57th Annual ACM Symposium on Theory of Computing (STOC 2025)](https://acm-stoc.org/stoc2025/)"
+  more: "Prague, Czech Republic"
+  pages: algs
+- event: "2025-06-23 to 27: [78th International Symposium on Molecular Spectroscopy (ISMS 2025)](https://isms.illinois.edu)"
+  more: "Urbana-Champaign, IL, USA"
+  pages: qsd
+- event: "2025-06-23 to 27: [BRIN Workshop on Stochastic PDEs](https://brinmrc.umd.edu/programs/workshops/summer25/summer25-workshop-pdes.html)"
+  more: "College Park, MD, USA"
+  pages: csna
+- event: "2025-06-23 to 27: [CECAM Flagship Workshop on The atomic simulation environment ecosystem: Present and perspectives](https://cecam.org/workshop-details/the-atomic-simulation-environment-ecosystem-present-and-perspectives-1373)"
+  more: "Lausanne, Switzerland"
+  pages: qsd
+- event: "2025-06-23 to 27: [IEEE Symposium on Fusion Engineering (SOFE 2025)](https://plasmafusion.eventsair.com/sofe2025/)"
+  more: "Cambridge, MA, USA"
+  pages: plasma
+- event: "2025-06-23 to 27: [Isaac Newton Institute Workshop Accelerating statistical inference and experimental design with machine learning](https://newton.ac.uk/event/rclw03/)"
+  more: "Cambridge, UK"
+  pages: stats
+- event: "2025-06-23 to 27: [Workshop Atmospheric Discharges in Dynamic Environments](https://ctrwiae.org/events)"
+  more: "Bath, UK"
+  pages: iongas
+- event: "2025-06-23 to 27: [Workshop on Stochastic Interacting Particle Systems and Random Matrices](https://erdoscenter.renyi.hu/events/workshop-stochastic-interacting-particle-systems-and-random-matrices)"
+  more: "Budapest, Hungary"
+  pages: stoch
+- event: "2025-06-24 to 27: [Condensed Matter and Quantum Materials Conference (CMQM 2025)](https://iop.org/events/condensed-matter-and-quantum-materials-cmqm-2025)"
+  more: "Bristol, UK"
+  pages: qsd
+- event: "2025-06-24 to 27: [Workshop on Ultracold Molecules](https://ultracold-molecules-2025.pl)"
+  more: "Warsaw, Poland"
+  pages: qsd
+- event: "2025-06-25 to 27: [High-dimensional statistics, applications, and distributional shifts. A workshop in celebration of Peter Bühlmann's 60th birthday](https://math.ethz.ch/fim/activities/conferences/High-dimensional-statistics-applications-and-distributional-shifts.html)"
+  more: "Zurich, Switzerland"
+  pages: stats
+- event: "2025-06-25 to 27: [NYC AI4Chemistry Summit 2025](https://wp.nyu.edu/sccpc/nyc-ai4chemistry-summit/)"
+  more: "New York, NY, USA"
+  pages: qsd
+- event: "2025-06-26 to 29: [Spectroscopy of Exoplanets: Over All Wavelength](https://exomol.com/activities/conference-spectroscopy-of-exoplanets-over-all-wavelength/)"
+  more: "Broxbourne, Hertfordshire, UK"
+  pages: qsd
+- event: "2025-06-29 to 07-02: [22nd EUROPT Conference on Advances in Continuous Optimization (EUROPT 2025)](https://europt2025.org)"
+  more: "Southampton, UK"
+  pages: optim
+- event: "2025-06-29 to 07-03: [CECAM Conference Reusable libraries for quantum chemistry (ReLibQC 2025)](https://helsinki.fi/en/conferences/reusable-libraries-quantum-chemistry-2025)"
+  more: "Majvik, Finland. Satellite of WATOC 2025"
+  pages: qsd
+- event: "2025-06-29 to 07-04: [Game-Theoretic Statistical Inference: Optional Sampling, Universal Inference, and Multiple Testing based on E-Values (BIRS 25w5482)](https://birs.ca/events/2025/5-day-workshops/25w5482)"
+  more: "Chennai, India"
+  pages: stats
+- event: "2025-06-30 to 07-02: [21st Spanish Meeting on Computational Geometry (EGC 2025)](https://egc2025.unican.es)"
+  more: "Santander, Spain"
+  pages: algs
+- event: "2025-06-30 to 07-03: [19th Ultrafast X-Ray Summer School](https://indico.psi.ch/event/17172/)"
+  more: "Villigen, Switzerland"
+  pages: atomic
+- event: "2025-06-30 to 07-03: [20th Central European Quantum Information Processing Workshop (CEQIP 2025)](http://ceqip.eu/2025/)"
+  more: "Smolenice Castle, Slovakia"
+  pages: qcomp
+- event: "2025-06-30 to 07-03: [22nd INFORMS Applied Probability Society Conference (INFORMS APS 2025)](https://informs-aps.isye.gatech.edu)"
+  more: "Atlanta, GA, USA"
+  pages: stats
+- event: "2025-06-30 to 07-03: [LANL - University of Michigan Joint Workshop on Quantum Materials](https://web.cvent.com/event/f9f269b6-7290-4bc2-bab3-e380a2747bfb/)"
+  more: "Los Alamos, NM, USA"
+  pages: qsd
+- event: "2025-06-30 to 07-03: [Workshop on Stochastic Numerics Milstein's Method: 50 years On](https://maths.nottingham.ac.uk/plp/pmzmt/milstein2025/)"
+  more: "Nottingham, UK"
+  pages: csna
+- event: "2025-06-30 to 07-04: [15th European Conference on Atoms, Molecules and Photons (ECAMP 2025)](https://ecamp15.org)"
+  more: "Innsbruck, Austria"
+  pages: **iongas**
+- event: "2025-06-30 to 07-04: [38th Annual Conference on Learning Theory (COLT 2025)](http://learningtheory.org/colt2025/)"
+  more: "Lyon, France"
+  pages: **mlt**
+- event: "2025-06-30 to 07-04: [Intermediate International Quantum Structures Association Conference (IQSA 2025)](https://sites.google.com/view/2025-iqsa-intermediate-tropea/home)"
+  more: "Tropea, Calabria, Italy"
+  pages: qsd
+- event: "2025-06-30 to 07-05: [International Joint Conference on Neural Networks (IJCNN 2025)](https://2025.ijcnn.org)"
+  more: "Rome, Italy"
+  pages: algs
+- event: "2025-06-30 to 07-11: [IMSI Summer School Mathematical Introduction to High-Accuracy Electronic Structure Theory](https://imsi.institute/activities/mathematical-introduction-to-high-accuracy-electronic-structure-theory/)"
+  more: "Chicago, IL, USA"
+  pages: qsd
+- event: "2025-07-01 to 02: Theory for XFEL research in chemical and condensed matter science"
+  more: "London, UK. Announced on molecular-dynamics-news email list. Web page to follow"
+  pages: ultrafast
+- event: "2025-07-01 to 03: [Mixed Integer Programming European Workshop (EUROMIP 2025)](https://mixedinteger.org/EUROMIP/2025/)"
+  more: "Clermont-Ferrand, France"
+  pages: optim
+- event: "2025-07-01 to 05: [Workshop on New Challenges for Ab Initio Theory in Molecular Science](https://ncaitms.chem.uw.edu.pl/en/)"
+  more: "Warsaw, Poland"
+  pages: qsd
+- event: "2025-07-01 to 06: [75th International Conference “Nucleus-2025. Nuclear physics, elementary particle physics, and nuclear technologies”](https://indico.spbu.ru/event/1/)"
+  more: "Saint Petersburg, Russia"
+  pages: **nuclear**
+- event: "2025-07-03 to 04: [17th International Conference on Reversible Computation (RC 2025)](https://reversible-computation-2025.github.io)"
+  more: "Odense, Denmark"
+  pages: csna
+- event: "2025-07-03 to 05: [Applied Linear Algebra Conference (ALA 2025)](https://ala2025.pmf.uns.ac.rs)"
+  more: "Novi Sad, Serbia"
+  pages: csna
+- event: "2025-07-06 to 11: [10th International Conference on Attosecond Science and Technology (ATTO 2025)](http://attox.se)"
+  more: "Lund, Sweden"
+  pages: ultrafast
+- event: "2025-07-06 to 11: [29th Dynamics of Molecular Collisions Conference (DMC 2025)](https://blog.umd.edu/29th-dmc/)"
+  more: "Snowbird, UT, USA"
+  pages: qsd
+- event: "2025-07-07 to 09: [25th International Conference on Computational Science (ICCS 2025)](https://iccs-meeting.org/iccs2025/)"
+  more: "Singapore"
+  pages: csna
+- event: "2025-07-07 to 09: [CECAM Flagship Workshop on Machine Learning Advances for Molecular and Materials Property Prediction](https://cecam.org/workshop-details/machine-learning-advances-for-molecular-and-materials-property-prediction-1443)"
+  more: "Notre Dame, IN, USA"
+  pages: qsd
+- event: "2025-07-07 to 09: [Maths4DL Conference on Inverse Problems and Deep Learning](https://maths4dl.ac.uk/newsevents/maths4dl-conference-on-inverse-problems-and-deep-learning)"
+  more: "Bath, UK"
+  pages: inverse
+- event: "2025-07-07 to 11: [51st EPS Conference on Plasma Physics (EPS Plasma 2025)](https://epsplasma2025.com)"
+  more: "Vilnius, Lithuania"
+  pages: **plasma**
+- event: "2025-07-07 to 11: [International Conference on Permutation Patterns 2025](https://sites.cs.st-andrews.ac.uk/pp25/)"
+  more: "St Andrews, UK"
+  pages: algs
+- event: "2025-07-07 to 11: [Italian National Conference on the Physics of Matter (FisMat 2025)](https://eventi.cnism.it/fismat2025/)"
+  more: "Venice, Italy"
+  pages: qsd
+- event: "2025-07-07 to 12: [27th International Workshop on Quantum Systems in Chemistry and Physics (QSCP 2025)](https://qscpxxvii.sciencesconf.org)"
+  more: "Paris, France"
+  pages: qsd
+- event: "2025-07-07 to 12: [IEEE International Conference on Quantum Software (QSW 2025)](https://services.conferences.computer.org/2025/qsw/)"
+  more: "Helsinki, Finland. (Part of the 2025 IEEE World Congress on SERVICES"
+  pages: qcomp
+- event: "2025-07-08 to 11: [24th IEEE International Symposium on Parallel and Distributed Computing (ISPDC 2025)](https://ispdc2025.inria.fr)"
+  more: "Rennes, France"
+  pages: algs
+- event: "2025-07-08 to 11: [52nd EATCS International Colloquium on Automata, Languages, and Programming (ICALP 2025)](https://conferences.au.dk/icalp2025)"
+  more: "Aarhus, Denmark"
+  pages: algs
+- event: "2025-07-13 to 08-03: [Aspen Summer Workshop on Cold and Ultracold Molecules for Fundamental Physics and Many-Body Quantum Science](https://aspenphys.org/summer-workshops/#event5562)"
+  more: "Aspen, CO, USA"
+  pages: qsd
+- event: "2025-07-13 to 18: [29th International Conference on Statistical Physics (StatPhys 2025)](https://statphys29.org)"
+  more: "Florence, Italy"
+  pages: stoch
+- event: "2025-07-13 to 18: [32nd International Conference on Photochemistry (ICP 2025)](https://icp2025.de)"
+  more: "Aachen, Germany"
+  pages: qsd
+- event: "2025-07-13 to 18: [39th International Workshop on Statistical Modelling (IWSM 2025)](https://iwsm2025.ie)"
+  more: "Limerick, Ireland"
+  pages: stats
+- event: "2025-07-13 to 19: [42nd International Conference on Machine Learning (ICML 2025)](https://icml.cc)"
+  more: "Vancouver, BC, Canada"
+  pages: **mlt**
+- event: "2025-07-14 to 16: [CECAM Flagship Workshop on Biomolecular Dynamics in the Age of Machine Learning](https://cecam.org/workshop-details/biomolecular-dynamics-in-the-age-of-machine-learning-1442)"
+  more: "Chicago, IL, USA"
+  pages: sciml
+- event: "2025-07-14 to 17: [Workshop on Logic, Language, Information and Computation (WoLLIC 2025)](https://wollic2025.github.io)"
+  more: "Porto, Portugal"
+  pages: algs
+- event: "2025-07-14 to 18: [22nd International Conference on Quantum Physics and Logic (QPL 2025)](https://qpl2025.github.io)"
+  more: "Varna, Bulgaria"
+  pages: qcomp
+- event: "2025-07-14 to 18: [44th Conference on Stochastic Processes and their Applications](https://spa.pwr.edu.pl)"
+  more: "Wrocław, Poland"
+  pages: stoch
+- event: "2025-07-14 to 18: [ECTstar Workshop on Next Generation Ab Initio Nuclear Theory](https://indico.ectstar.eu/event/238/)"
+  more: "Trento, Italy"
+  pages: nuclear
+- event: "2025-07-14 to 18: [Genetic and Evolutionary Computation Conference (GECCO 2025)](https://gecco-2025.sigevo.org/)"
+  more: "Málaga, Spain"
+  pages: optim
+- event: "2025-07-14 to 18: [IPAM Workshop Sampling, Inference, and Data-Driven Physical Modeling in Scientific Machine Learning](https://ipam.ucla.edu/programs/workshops/sampling-inference-and-data-driven-physical-modeling-in-scientific-machine-learning-2/)"
+  more: "Los Angeles, CA, USA"
+  pages: stats
+- event: "2025-07-15 to 18: [7th Spatial Statistics Conference: At the Dawn of AI](https://elsevier.com/events/conferences/all/spatial-statistics)"
+  more: "Noordwijk, The Netherlands"
+  pages: stats
+- event: "2025-07-16 to 18: [CECAM Flagship Workshop Advancing simulation, analysis and  prediction of complex chemical systems using modern chemical graph  theory and computational topology](https://cecam.org/workshop-details/advancing-simulation-analysis-and-prediction-of-complex-chemical-systems-using-modern-chemical-graph-theory-and-computational-topology-1389)"
+  more: "Lausanne, Switzerland"
+  pages: qsd
+- event: "2025-07-19 to 24: [8th International Conference on Continuous Optimization (ICCOPT 2025)](https://sites.google.com/view/iccopt2025)"
+  more: "Los Angeles, CA, USA"
+  pages: **optim**
+- event: "2025-07-20 to 25: [16th International Conference on Electronic Spectroscopy and Structure (ICESS 2025)](https://icess-16.lbl.gov)"
+  more: "Berkeley, CA, USA"
+  pages: qsd
+- event: "2025-07-20 to 25: [36th International Conference on Phenomena in Ionized Gases (ICPIG 2025)](https://icpig2025.sciencesconf.org)"
+  more: "Aix-en-Provence, France"
+  pages: **iongas**
+- event: "2025-07-20 to 25: [Gordon Research Conference Dynamics at Surfaces](https://grc.org/dynamics-at-surfaces-conference/2025/)"
+  more: "Holderness, NH, USA"
+  pages: qsd
+- event: "2025-07-21 to 23: [Joint ICTP-WE Heraeus Conference on Non-equilibrium Quantum Statistical Physics (ICTP smr 4090)](https://indico.ictp.it/event/10855)"
+  more: "Trieste, Italy"
+  pages: qsd
+- event: "2025-07-21 to 24: [36th International Workshop on Combinatorial Algorithms (IWOCA 2025)](https://cs.montana.edu/bhz/iwoca2025/)"
+  more: "Bozeman, MT, USA"
+  pages: algs
+- event: "2025-07-21 to 24: [International Workshop Challenges in Designing Room Temperature Superconductors (CDRTS 2025)](https://cdrts2025.wordpress.com)"
+  more: "Tokyo, Japan"
+  pages: qsd
+- event: "2025-07-21 to 24: [XVIII Iberian Joint Meeting on Atomic and Molecular Physics (IBER 2025)](https://iber2025.webs5.uvigo.es)"
+  more: "Vigo, Spain"
+  pages: iongas
+- event: "2025-07-21 to 25: [22nd International Conference on Atomic Processes in Plasmas (APiP 2025)](https://yebisu.ils.uec.ac.jp/apip2025/)"
+  more: "Tokyo, Japan"
+  pages: **atomic**
+- event: "2025-07-21 to 25: [24th European Young Statisticians Meeting](https://sites.google.com/view/eysmtorino2025/)"
+  more: "Turin, Italy"
+  pages: stats
+- event: "2025-07-21 to 25: [41st Conference on Uncertainty in Artificial Intelligence (UAI 2025)](https://auai.org/uai2025/)"
+  more: "Rio de Janeiro, Brazil"
+  pages: uq
+- event: "2025-07-25 to 27: [29th International Symposium on Ion-Atom Collisions (ISIAC 2025)](https://ion-beam.jp/isiac2025/)"
+  more: "Kyoto, Japan. (Satellite of ICPEAC)"
+  pages: atomic
+- event: "2025-07-27 to 08-01: [Conference on Strongly Coupled Coulomb Systems (SCCS 2025)](https://event.fourwaves.com/sccs2025/)"
+  more: "Lake Tahoe, NV, USA"
+  pages: pmi
+- event: "2025-07-28: [3rd meeting on Electron, Photon, and Ion Collisions with Molecular and Atomic Nanostructures (EPIC-MAN)](https://epic-man3.sciencesconf.org)"
+  more: "Sapporo, Japan. Satellite of ICPEAC 2025"
+  pages: atomic
+- event: "2025-07-28 to 08-01: [12th Applied Inverse Problems Conference (AIP 2025)](https://eventos.fgv.br/aip2025)"
+  more: "Rio de Janeiro, Brazil"
+  pages: inverse
+- event: "2025-07-28 to 08-01: [15th International Conference on Monte Carlo Methods and Applications (MCM 2025)](https://ccbatiit.github.io/mcm2025/)"
+  more: "Chicago, IL, USA"
+  pages: csna
+- event: "2025-07-28 to 08-01: [17th Conference on Stochastic Programming](https://icsp2025.org)"
+  more: "Paris, France"
+  pages: **optim**
+- event: "2025-07-28 to 08-01: [37th ACM Symposium on Parallelism in Algorithms and Architectures (SPAA 2025)](https://spaa.acm.org)"
+  more: "Portland, OR, USA"
+  pages: algs
+- event: "2025-07-28 to 08-01: [3rd Joint SIAM/CAIMS Annual Meetings (AN 2025)](https://siam.org/conferences-events/siam-conferences/an25/)"
+  more: "Montreal, QC, Canada"
+  pages: csna
+- event: "2025-07-28 to 08-15: [CODATA-RDA School and Advanced Workshops for Research Data Science (ICTP smr 4092)](https://indico.ictp.it/event/10857)"
+  more: "Trieste, Italy"
+  pages: stats
+- event: "2025-07-28 to 31: [MLZ Conference Neutrons for Fusion and Nuclear Applications](https://indico.frm2.tum.de/event/540/)"
+  more: "Munich, Germany"
+  pages: nuclear
+- event: "2025-07-29 to 08-05: [34th International Conference on Photonic, Electronic, and Atomic Collisions (ICPEAC 2025)](https://icpeac2025.jp)"
+  more: "Sapporo, Japan"
+  pages: **atomic**
+- event: "2025-08-02: [Institute of Mathematical Statistics First Annual Frontiers in Statistical Machine Learning Workshop (FSML 2025)](https://fsmlims.wixsite.com/fsml25)"
+  more: "Nashville, TN, USA. Just before [JSM 2025](https://ww2.amstat.org/meetings/jsm/2025/)"
+  pages: stats
+- event: "2025-08-02 to 07: [ASA, IMS and other Joint Statistical Meetings (JSM 2025)](https://ww2.amstat.org/meetings/jsm/2025/)"
+  more: "Nashville, TN, USA"
+  pages: **stats**
+- event: "2025-08-03 to 07: [ACM SIGKDD International Conference on Knowledge Discovery and Data Mining (KDD 2025)](https://kdd2025.kdd.org)"
+  more: "Toronto, ON, Canada"
+  pages: mlt
+- event: "2025-08-03 to 08: [37th International Symposium on Free Radicals (FRS 2025)](https://thefrs.org)"
+  more: "Snowbird, UT, USA"
+  pages: qsd
+- event: "2025-08-03 to 08: [Gordon Research Conference Atmospheric Chemistry: Understanding the Atmosphere via Molecular Processes and Global Impacts](https://grc.org/atmospheric-chemistry-conference/2025/)"
+  more: "Newry, ME, USA"
+  pages: qsd
+- event: "2025-08-03 to 08: [Gordon Research Conference Chemistry and Physics of Liquids: Structural, Dynamic and Reactive Properties in the Liquid Phase](https://grc.org/chemistry-and-physics-of-liquids-conference/2025/)"
+  more: "Holderness, NH, USA"
+  pages: qsd
+- event: "2025-08-03 to 08: [Gordon Research Conference Quantum Control of Light and Matter: Quantum Control in the Era of Quantum Technologies](https://grc.org/quantum-control-of-light-and-matter-conference/2025/)"
+  more: "Newport, RI, USA"
+  pages: qsd
+- event: "2025-08-04 to 08: [25th Asian Quantum Information Science Conference (AQIS 2025)](http://aqis-conf.org/2025/)"
+  more: "Hong Kong, China"
+  pages: qcomp
+- event: "2025-08-04 to 08: [5th International Conference on Mathematical and Scientific Machine Learning (MSML 2025)](https://sites.google.com/view/msml2025/home)"
+  more: "Naples, Italy"
+  pages: sciml
+- event: "2025-08-04 to 08: [6th International Conference on Data-Driven Plasma Science (ICDDPS 2025)](https://web.cvent.com/event/7de9d238-e170-4fbf-8de5-20abc5c6eb49/)"
+  more: "Santa Fe, NM, USA"
+  pages: plasma
+- event: "2025-08-04 to 08: [Quantum Simulation Conference (QSim 2025)](https://qsimconference.org)"
+  more: "New York City, NY, USA"
+  pages: qsd
+- event: "2025-08-04 to 08: [Summer School on Topological data analysis in stochastic geometry and image processing](https://sites.google.com/view/aarhustda/)"
+  more: "Aarhus Institute of Advanced Studies, Aarhus, Denmark"
+  pages: inverse
+- event: "2025-08-05 to 08: [Computational Complexity Conference (CCC 2025)](http://fields.utoronto.ca/activities/25-26/CCC2025)"
+  more: "Toronto, ON, Canada"
+  pages: algs
+- event: "2025-08-10 to 15: [31st International Conference on Principles and Practice of Constraint Programming](https://cp2025.a4cp.org)"
+  more: "Glasgow, UK"
+  pages: optim
+- event: "2025-08-11 to 13: [International Conference on Approximation Algorithms for Combinatorial Optimization Problems (APPROX 2025) and International Conference on Randomization and Computation (RANDOM 2025)](https://approxconference.com)"
+  more: "Berkeley, CA, USA"
+  pages: algs
+- event: "2025-08-11 to 15: [28th International Conference on Theory and Applications of Satisfiability Testing (SAT 2025)](https://satisfiability.org/SAT25/)"
+  more: "Glasgow, UK"
+  pages: algs
+- event: "2025-08-11 to 15: [37th Canadian Conference on Computational Geometry (CCCG 2025) and Algorithms and Data Structures Symposium (WADS 2025)](https://cccg-wads-2025.eecs.yorku.ca)"
+  more: "Toronto, ON, Canada"
+  pages: algs
+- event: "2025-08-11 to 15: [7th International Conference on Quantum Error Correction (QEC 2025)](https://qec25.yalepages.org)"
+  more: "New Haven, CT, USA"
+  pages: qcomp
+- event: "2025-08-13 to 15: [27th IEEE International Conference on High Performance Computing and Communications (HPCC 2025)](https://hpcn.exeter.ac.uk/hpcc2025/)"
+  more: "Exeter, UK"
+  pages: csna
+- event: "2025-08-16 to 22: [34th International Joint Conference on Artificial Intelligence (IJCAI 2025)](https://2025.ijcai.org)"
+  more: "Montreal, QC, Canada"
+  pages: algs
+- event: "2025-08-17 to 21: [WE-Hereaus Seminar Manipulating Molecular Electronic Properties by Vibrational Excitations: Novel Spectroscopies and Microscopies](https://we-heraeus-stiftung.de/veranstaltungen/manipulating-molecular-electronic-properties-by-vibrational-excitations-novel-spectroscopies-and-microscopies/main/)"
+  more: "Bad Honnef, Germany"
+  pages: qsd
+- event: "2025-08-17 to 22: [27th Ion Beam Analysis (IBA) and 19th Particle-Induced  X-ray Emission (PIXE) Joint Conference](https://ibapixe.org)"
+  more: "Montreal, QC, Canada"
+  pages: pmi
+- event: "2025-08-17 to 22: [Oberwolfach Workshop on Computation and Learning in High Dimensions](https://mfo.de/occasion/2534/www_view)"
+  more: "Oberwolfach, Germany"
+  pages: sciml
+- event: "2025-08-18 to 22: [36th IUPAP Conference on Computational Physics (CCP 2025)](https://ccp2025.ornl.gov)"
+  more: "Knoxville, TN, USA"
+  pages: csna
+- event: "2025-08-19 to 22: [14th High Dimensional Data Analysis Workshop (HDDA 2025)](https://cmich.edu/academics/colleges/college-science-engineering/departments-schools/statistics-actuarial-and-data-sciences/HDDA)"
+  more: "Beaver Island, MI, USA"
+  pages: stats
+- event: "2025-08-19 to 22: [29th International Conference on Developments in Language Theory (DLT 2025)](https://cida.uos.ac.kr/dlt2025/)"
+  more: "Seoul, Korea"
+  pages: algs
+- event: "2025-08-24 to 29: [38th European Conference on Surface Science (ECOSS 2025)](https://ecoss38.pt)"
+  more: "Braga, Portugal"
+  pages: pmi
+- event: "2025-08-24 to 29: [Oberwolfach Workshop on Stein’s Method in Stochastic Geometry, Statistical Learning, and Optimisation](https://mfo.de/occasion/2535b/www_view)"
+  more: "Oberwolfach, Germany"
+  pages: stats
+- event: "2025-08-24 to 29: [Seeking Quantum Advantage: Workshop and Conference (SEEQA 2025)](https://conference.seeqa.org)"
+  more: "Oxford, UK"
+  pages: qcomp
+- event: "2025-08-25 to 28: [7th general Psi-k Conference (PsiK 2025)](https://psik2025.net)"
+  more: "Lausanne, Switzerland"
+  pages: qsd
+- event: "2025-08-25 to 29: [27th International Conference on Ion-Surface Interactions (ISI 2025)](http://isi2025.yarsu.ru/eng/first_en.html)"
+  more: "Ryazan, Russia"
+  pages: pmi
+- event: "2025-08-25 to 29: [50th International Symposium on Mathematical Foundations of Computer Science (MFCS 2025)](https://mfcs2025.mimuw.edu.pl)"
+  more: "Warsaw, Poland"
+  pages: algs
+- event: "2025-08-25 to 29: [Conference on Quantum Cryptography (QCrypt 2025)](https://qcrypt.net/2025/)"
+  more: "Sanya city, Hainan, China"
+  pages: qcomp
+- event: "2025-08-25 to 29: [9th AtomDB Workshop and Workweek](https://etix.com/ticket/p/63582623/)"
+  more: "Cambridge, MA, USA"
+  pages: atomic
+- event: "2025-08-25 to 29: [Stochastic Numerics and Inverse Problems in Southern Sweden (SNIPSS 2025)](https://lnu.se/en/meet-linnaeus-university/current/events/2025/konferenser/snipss-2025--stochastic-numerics-and-inverse-problems-in-southern-sweden-2025/)"
+  more: "Växjö, Sweden"
+  pages: inverse
+- event: "2025-08-25 to 29: [Superconducting Qubits and Algorithms (SQA 2025)](https://sqa-conference.org)"
+  more: "Delft, The Netherlands"
+  pages: qcomp
+- event: "2025-08-31 to 09-03: [35th IEEE International Workshop on Machine Learning for Signal Processing (MLSP 2025)](https://2025.ieeemlsp.org/en/)"
+  more: "Istanbul, Turkey"
+  pages: sciml
+- event: "2025-08-31 to 09-05: [IEEE International Conference on Quantum Computing and Engineering (QCE)](https://qce.quantum.ieee.org/2025/)"
+  more: "Albuquerque, NM, USA"
+  pages: qcomp
+- event: "2025-08-31 to 09-05: [International Conference on Molecular Energy Transfer in Complex Systems (iCOMET 2025)](https://www2.sci.u-szeged.hu/icomet2025/home)"
+  more: "Szeged, Hungary"
+  pages: qsd
+- event: "2025-08-31 to 09-05: [Oberwolfach Workshop on Large Scale Stochastic Dynamics](https://mfo.de/occasion/2536/www_view)"
+  more: "Oberwolfach, Germany"
+  pages: stoch
+- event: "2025-09-01 to 02: [Workshop on Random Simplicial Complexes and Hypergraphs (WoSCH 2025)](https://worsch25.github.io)"
+  more: "Nottingham, UK"
+  pages: algs
+- event: "2025-09-01 to 04: [Royal Statistical Society International Conference (RSS 2025)](https://rss.org.uk/training-events/conference-2025/)"
+  more: "Edinburgh, UK"
+  pages: stats
+- event: "2025-09-01 to 05: [10th Central European Symposium on Plasma Chemistry (CESPC 2025)](https://cespc.inflpr.ro)"
+  more: "Bucharest, Romania"
+  pages: iongas
+- event: "2025-09-01 to 05: [16th QMATH Conference on Mathematical Results in Quantum Theory (QMATH)](https://sites.google.com/view/qmath16/)"
+  more: "Garching/Munich, Germany"
+  pages: qsd
+- event: "2025-09-01 to 05: [21st International Symposium on Laser-Aided Plasma Diagnostics (LAPD 2025)](https://lapd21.epfl.ch)"
+  more: "Saillon les Bains, Switzerland"
+  pages: plasma
+- event: "2025-09-01 to 05: [22nd International Conference on Unconventional Computation and Natural Computation (UCNC 2025)](https://webusers.i3s.univ-cotedazur.fr/UCNC2025/)"
+  more: "Nice, France"
+  pages: algs,qcomp
+- event: "2025-09-01 to 05: [Conference on Partially ionized plasmas in astrophysics (PIPA 2025)](https://uib.no/en/ift/173827/partially-ionized-plasmas-astrophysics-pipa2025)"
+  more: "Bergen, Norway"
+  pages: iongas
+- event: "2025-09-01 to 05: [Diagnostics for Fusion Reactors: The Burning Plasma Era (ICFRD 2025)](https://icpc.it/diagnostics/diagnostics-for-fusion-reactors-the-burning-plasma-era/)"
+  more: "Varenna, Italy"
+  pages: plasma
+- event: "2025-09-01 to 05: [European Conference on Numerical Mathematics and Advanced Applications (ENUMATH 2025)](https://enumath2025.eu)"
+  more: "Heidelberg, Germany"
+  pages: csna
+- event: "2025-09-01 to 05: [Lennard-Jones Centre-CECAM Meeting 2025: From electrons to atoms to molecules and materials](https://ljc.group.cam.ac.uk/dft-2025)"
+  more: "Cambridge, UK"
+  pages: qsd
+- event: "2025-09-01 to 05: [Quantum Optics XI](https://quantumoptics11.confer.uj.edu.pl)"
+  more: "Kraków, Poland"
+  pages: qsd
+- event: "2025-09-01 to 05: [Workshop on Quantum Computing and Quantum Information](https://users.utu.fi/mikhirve/workshop2025/)"
+  more: "Nice, France"
+  pages: qcomp
+- event: "2025-09-02 to 04: [Conference on Quantum, Atomic and Molecular Physics (QuAMP 2025)](https://iop.eventsair.com/quamp2025/)"
+  more: "Newcastle, UK"
+  pages: qsd
+- event: "2025-09-02 to 05: [16th Workshop on Global Optimization (STOGO 2025)](https://sites.google.com/view/stogo25/)"
+  more: "Stockholm, Sweden"
+  pages: optim
+- event: "2025-09-02 to 05: [18th International Symposium on Algorithmic Game Theory (SAGT 2025)](https://bath.ac.uk/events/the-18th-international-symposium-on-algorithmic-game-theory/)"
+  more: "Bath, UK"
+  pages: algs
+- event: "2025-09-02 to 05: [CECAM Flagship Workshop on Future directions in non-adiabatic dynamics: towards complex systems and long time scales](https://cecam.org/workshop-details/future-directions-in-non-adiabatic-dynamics-towards-complex-systems-and-long-time-scales-1413)"
+  more: "Zaragoza, Spain"
+  pages: qsd
+- event: "2025-09-02 to 05: [Conference on Extreme Light and Chiral Molecular Systems (ELCH 2025)](https://atom.uni-frankfurt.de/elch2025/)"
+  more: "Kassel, Germany"
+  pages: qsd
+- event: "2025-09-02 to 05: [Stochastics and Computational Finance (SCF 2025)](https://scf2025.iseg.ulisboa.pt)"
+  more: "Lisbon, Portugal"
+  pages: stoch
+- event: "2025-09-03 to 04: [21st International Conference on Plasma Physics and Applications (CPPA 2025)](https://cespc.inflpr.ro)"
+  more: "Bucharest, Romania"
+  pages: iongas
+- event: "2025-09-06 to 12: [BEC conference on quantum gases and related fields (BEC 2025)](https://indico.phys.ethz.ch/event/143/)"
+  more: "Sant Feliu de Guíxols, Spain"
+  pages: qsd
+- event: "2025-09-08 to 11: [20th Central European Symposium on Theoretical Chemistry (CESTC 2025)](https://cestc2025.fchpt.stuba.sk)"
+  more: "High Tatras, Slovakia"
+  pages: qsd
+- event: "2025-09-08 to 12: [12th International Conference on Stochastic Analysis and its Applications (ICSAA 2025)](https://sites.google.com/view/icsaa2025/)"
+  more: "Bucharest, Romania"
+  pages: stoch
+- event: "2025-09-08 to 12: [Conference on Frontiers in Atomistic Simulations: from Physics to Chemistry and Biology (ICTP smr 4098)](https://indico.ictp.it/event/10863)"
+  more: "Trieste, Italy"
+  pages: qsd
+- event: "2025-09-09 to 11: [28th International Conference on Numerical Simulation of Plasmas (ICNSP 2025)](https://pls.llnl.gov/about/events/28th-international-conference-numerical-simulation-plasmas)"
+  more: "Berkeley, CA, USA"
+  pages: plasma
+- event: "2025-09-09 to 12: [29th EU-US \[Fusion Plasma\] Transport Task Force Workshop (TTF 2025)](https://ttf2025.ek.hun-ren.hu)"
+  more: "Budapest, Hungary"
+  pages: plasma
+- event: "2025-09-09 to 12: [34th International Conference on Artificial Neural Networks (ICANN 2025)](https://e-nns.org/icann2025/)"
+  more: "Kaunas, Lithuania"
+  pages: mlt
+- event: "2025-09-09 to 12: [6th Technical Meeting on Fusion Data Processing, Validation and Analysis](https://iaea.org/events/evt2405091)"
+  more: "Shanghai, China"
+  pages: plasma
+- event: "2025-09-12 to 19: [41st International Conference on Logic Programming (ICLP 2025)](https://iclp25.demacs.unical.it)"
+  more: "Rende (CS), Italy"
+  pages: algs
+- event: "2025-09-14 to 18: [18th European Congress and Exhibition on Advanced Materials and Processes](https://euromat2025.com)"
+  more: "Granada, Spain"
+  pages: qsd
+- event: "2025-09-14 to 19: [13th International Conference on Inertial Fusion Sciences and Applications (IFSA 2025)](https://ifsa2025.org)"
+  more: "Tours, France"
+  pages: atomic
+- event: "2025-09-14 to 19: [25th International Workshop on Inelastic Ion-Surface Collisions (IISC2025)](https://tuwien.at/en/phy/iap/conferences/iisc25)"
+  more: "Frankenfels, Austria"
+  pages: pmi
+- event: "2025-09-14 to 19: [33rd International Conference on Defects in Semiconductors (ICDS 2025)](https://icds2025.org)"
+  more: "Shanghai, China"
+  pages: pmi
+- event: "2025-09-15 to 17: [25th International Symposium on Fundamentals of Computation Theory (FCT 2025)](https://fct2025.cs.uni.wroc.pl)"
+  more: "Wrocław, Poland"
+  pages: algs
+- event: "2025-09-15 to 18: [14th European Conference on Computational and Theoretical Chemistry 2025 (EuChemS CompChem 2025)](https://eucompchem2025.unina.it)"
+  more: "Naples, Italy"
+  pages: qsd
+- event: "2025-09-15 to 19: [20th Theory of Quantum Computation, Communication and Cryptography Conference (TQC 2025)](https://tqc-conference.org)"
+  more: "Bangelore, India"
+  pages: qcomp
+- event: "2025-09-15 to 19: [26th International Conference on Horizons in Hydrogen Bond Research (HBond 2025)](https://hbond2025.desy.de)"
+  more: "Hamburg, Germany"
+  pages: qsd
+- event: "2025-09-15 to 19: [9th International Conference on Advanced COmputational Methods in ENgineering and Applied Mathematics (ACOMEN 2025)](https://cage.ugent.be/acomen2025/)"
+  more: "Ghent, Belgium"
+  pages: csna
+- event: "2025-09-15 to 19: [ALGO including European Symposium on Algorithms (ESA) and related conferences and workshops (ALGO 2025)](https://algo-conference.org/2025/)"
+  more: "Warsaw, Poland"
+  pages: algs
+- event: "2025-09-15 to 19: [European Conference on Machine Learning and Principles and Practice of Knowledge Discovery in Databases (ECML-PKDD 2025)](https://ecmlpkdd.org/2025/)"
+  more: "Porto, Portugal"
+  pages: mlt
+- event: "2025-09-15 to 19: [International Workshop on First-principles and Artificial-Intelligence Methods for Materials](https://nomad.fhi.mpg.de/nomad_international_ws_juist_2025)"
+  more: "Juist Island (North Sea), Germany"
+  pages: qsd
+- event: "2025-09-15 to 19: [IPPLM International Conference on Research and Application of Plasma (PLASMA 2025)](https://plasma2025.ipplm.pl)"
+  more: "Warsaw, Poland"
+  pages: iongas
+- event: "2025-09-17 to 19: [International Symposium on Parameterized and Exact Computation (IPEC 2025) in conjunction with ALGO 2025](https://algo-conference.org/2025/)"
+  more: "Warsaw, Poland"
+  pages: algs
+- event: "2025-09-17 to 19: [Toulouse Tensor Workshop 2025](https://tensor.sciencesconf.org)"
+  more: "Toulouse, France"
+  pages: qcomp
+- event: "2025-09-21 to 26: [14th International Conference on Tritium Science and Technology](https://tritium2025.com)"
+  more: "Ottawa, ON, Canada"
+  pages: pmi
+- event: "2025-09-21 to 26: [9th Asia-Pacific Conference on Plasma Physics (AAPPS-DPP 2025)](https://aappsdpp.org/AAPPSDPPF/Meetings.html)"
+  more: "Fukuoka, Japan"
+  pages: **plasma**
+- event: "2025-09-22 to 24: [8th RSC-CICAG / RSC-BMCS Artificial Intelligence in Chemistry Symposium (AIChem 2025)](https://rscbmcs.org/events/aichem8/)"
+  more: "Cambridge, UK"
+  pages: qsd
+- event: "2025-09-22 to 26: [5th Young Applied Mathematicians Conference (YAMC 2025)](https://yamc.it)"
+  more: "Padua, Italy"
+  pages: csna
+- event: "2025-09-22 to 26: [6th European Nuclear Physics Conference (EuNPC 2025)](https://indico.in2p3.fr/event/30430/)"
+  more: "Caen, France"
+  pages: nuclear
+- event: "2025-09-22 to 26: [Workshop on The determination of \[DFT+U\] Hubbard parameters: progress, pitfalls, and prospects](https://sites.google.com/view/hubbard-workshop-2025/home)"
+  more: "Gandia, Spain"
+  pages: qsd
+- event: "2025-09-23 to 25: [21st Plasma Technology Conference (PT 2025)](https://pt21-kiel.de)"
+  more: "Kiel, Germany"
+  pages: iongas
+- event: "2025-09-23 to 26: [20th International Workshop on Plasma Edge Theory in Fusion Devices (PET 2025)](https://pet2025.com/)"
+  more: "Leuven, Belgium"
+  pages: plasma
+- event: "2025-09-23 to 26: [21st European Fusion Theory Conference (EFTC 2025)](https://indico.global/event/13788/)"
+  more: "Aix-en-Provence, France"
+  pages: plasma
+- event: "2025-09-24 to 26: [International Workshop on Multiscale, Multiphysics, and Multidisciplinary Research on Materials and Structures (M3MS)](https://m3ms.org)"
+  more: "Singapore"
+  pages: csna
+- event: "2025-09-25 to 27: [23rd International Workshop on Combinatorial Image Analysis (IWCIA 2025)](https://iwcia2025.inf.u-szeged.hu)"
+  more: "Szeged, Hungary"
+  pages: inverse
+- event: "2025-09-28 to 10-03: [22nd International Conference on Fusion Reactor Materials (ICFRM 2025)](https://icfrm-22.com)"
+  more: "Shizuoka, Japan"
+  pages: **pmi**
+- event: "2025-09-29 to 10-03: [Ab Initio Quantum Electrodynamics for Quantum Materials Engineering School](https://events.simonsfoundation.org/event/dd5ef895-f71f-4dee-9d8a-a1382cc28ec8/summary?RefId=Summary)"
+  more: "New York City, NY, USA"
+  pages: qsd
+- event: "2025-09-29 to 10-03: [Molecular Response Properties Summer School 2025](https://indico.fysik.su.se/event/9113/)"
+  more: "Stockholm, Sweden"
+  pages: qsd
+- event: "2025-10-05 to 09: [65th ISI World Statistics Congress (WSC 2025)](https://isi-next.org/conferences/isi-wsc2025/)"
+  more: "The Hague, Netherlands"
+  pages: **stats**
+- event: "2025-10-05 to 10: [Oberwolfach Arbeitsgemeinschaft: Analysis of Many-body Quantum Systems](https://mfo.de/occasion/2541/www_view)"
+  more: "Oberwolfach, Germany"
+  pages: qsd
+- event: "2025-10-06 to 10: [25th International Conference on Formal Methods in Computer-Aided Design (FMCAD 2025)](https://fmcad.org/FMCAD25/) and [17th International Conference on Verified Software: Theories, Tools, and Experiments (VSTTE 2025)](https://easychair.org/cfp/vstte25)"
+  more: "colocated at Menlo Park, CA, USA"
+  pages: algs
+- event: "2025-10-06 to 10: [IMSI Workshop Data Assimilation and Inverse Problems for Digital Twins](https://imsi.institute/activities/digital-twins/data-assimilation-and-inverse-problems-for-digital-twins/)"
+  more: "Chicago, IL, USA"
+  pages: inverse
+- event: "2025-10-08 to 10: [12th International Conference of Networks, Games, Control and Optimization (NETGCOOP 2025)](https://netgcoop2025.univ-avignon.fr)"
+  more: "Bilbao, Spain"
+  pages: optim
+- event: "2025-10-09 to 13: [12th IEEE International Conference on Data Science and Advanced Analytics (DSAA 2025)](https://dsaa.ieee.org/2025/)"
+  more: "Birmingham, UK"
+  pages: mlt
+- event: "2025-10-13 to 17: [78th Gaseous Electronics Conference (GEC 2025)](https://apsgec.org/gec2025/)"
+  more: "Seoul, Korea"
+  pages: **iongas**
+- event: "2025-10-13 to 18: [30th IAEA Fusion Energy Conference (FEC 2025)](https://conferences.iaea.org/event/392/)"
+  more: "Chengdu, China"
+  pages: **plasma**
+- event: "2025-10-14 to 17: [SIAM Conference on Mathematical & Computational Issues in the Geosciences (GS 2025)](https://siam.org/conferences-events/siam-conferences/gs25/)"
+  more: "Baton Rouge, LA, USA"
+  pages: csna
+- event: "2025-10-15 to 17: [2nd edition of The van der Waals/London Discussions](https://vdwldiscussions.github.io)"
+  more: "Luxembourg, Luxembourg"
+  pages: qsd
+- event: "2025-10-15 to 17: [Quantum Network Workshop (QuNeW 2025)](https://qutech.nl/event/qunew/)"
+  more: "The Hague, Netherlands"
+  pages: qcomp
+- event: "2025-10-15 to 17: [SPP2265 Workshop on Recent Developments in Spatial Interacting Random Systems](https://wias-berlin.de/workshops/sirs25/)"
+  more: "Berlin, Germany"
+  pages: stats
+- event: "2025-10-20 to 23: [CECAM Flagship Workshop on Stochastic Dynamics in Natural and Artificial Systems](https://cecam.org/workshop-details/stochastic-dynamics-in-natural-and-artificial-systems-1428)"
+  more: "Tel Aviv, Isael"
+  pages: stoch
+- event: "2025-10-23 to 26: [3rd International Conference on UltrafastX (UltrafastX 2025)](https://ultrafastx.com)"
+  more: "Xiamen, China"
+  pages: ultrafast
+- event: "2025-10-25 to 30: [28th European Conference on Artificial Intelligence (ECAI 2025)](https://ecai2025.org)"
+  more: "Bologna, Italy"
+  pages: algs
+- event: "2025-10-27 to 11-01: [16th European Research Conference on Electromagnetic Interactions with Nucleons and Nuclei (EINN 2025)](https://2025.einnconference.org)"
+  more: "Paphos, Cyprus"
+  pages: nuclear
+- event: "2025-10-27 to 31: [19th International Conference on Molecular Magnetism (ICMM 2025)](https://icmm2025.sciencesconf.org)"
+  more: "Bordeaux, France"
+  pages: qsd
+- event: "2025-10-27 to 31: [39th International Symposium on Distributed Computing (DISC 2025)](https://disc-conference.org/wp/disc2025/)"
+  more: "Berlin, Germany"
+  pages: algs
+- event: "2025-10-29 to 31: [7th International Conference on Geometric Science of Information (GSI 2025)](https://conference-gsi.org)"
+  more: "Saint Malo, France"
+  pages: algs
+- event: "2025-11-03 to 06: [14th Asian-European International Conference on Plasma Surface Engineering (AEPSE 2025) in parallel with International Conference on Surface Engineering (ICSE 2025)](http://aepse.org/2025/)"
+  more: "Phuket, Thailand"
+  pages: pmi
+- event: "2025-11-03 to 07: [ECTstar Workshop on Neutron-Capture Reactions for Astrophysical Processes](https://indico.ectstar.eu/event/246/)"
+  more: "Trento, Italy"
+  pages: nuclear
+- event: "2025-11-09 to 13: [35th Annual Astronomical Data Analysis Software and Systems Conference (ADASS 2025)](https://adass.org)"
+  more: "Goerlitz, Germany"
+  pages: inverse
+- event: "2025-11-09 to 14: [16th International Symposium on Fusion Nuclear Technology (ISFNT 2025)](https://isfnt-16.ornl.gov)"
+  more: "Knoxville, TN, USA"
+  pages: plasma
+- event: "2025-11-10 to 12: [European Quantum Technologies Conference (EQTC 2025)](https://eqtc.eu)"
+  more: "Copenhagen, Denmark. Web pages expected"
+  pages: qcomp
+- event: "2025-11-12 to 15: [25th IEEE International Conference on Data Mining (ICDM 2025)](https://www3.cs.stonybrook.edu/~icdm2025/)"
+  more: "Washington, DC, USA"
+  pages: mlt
+- event: "2025-11-17 to 21: [11th ECTstar Workshop on Information and Statistics in Nuclear Experiment and Theory (ESNET 2025)](https://indico.ectstar.eu/event/247/)"
+  more: "Trento, Italy"
+  pages: nuclear
+- event: "2025-11-17 to 21: [67th Annual Meeting of the APS Division of Plasma Physics (APS-DPP 2025)](https://engage.aps.org/dpp/meetings/annual-meeting)"
+  more: "Long Beach, CA, USA"
+  pages: **plasma**
+- event: "2025-11-25 to 28: [CECAM Flagship Workshop on Uncertainty quantification in atomistic modeling: From uncertainty-aware density functional theory to machine learning](https://cecam.org/workshop-details/uncertainty-quantification-in-atomistic-modeling-from-uncertainty-aware-density-functional-theory-to-machine-learning-1380)"
+  more: "Lausanne, Switzerland"
+  pages: sciml
+- event: "2025-11-30 to 12-05: [13th International Conference on Advanced Vibrational Spectroscopy (ICAVS) and 5th International Conference on Enhanced Spectroscopy (ICES)](https://icavs.xmu.edu.cn)"
+  more: "Xiamen, China"
+  pages: qsd
+- event: "2025-12-07 to 10: [Winter Simulation Conference (WSC 2025)](https://meetings.informs.org/wordpress/wsc2025/)"
+  more: "Seattle, WA, USA"
+  pages: csna
+- event: "2025-12-07 to 12: [Workshop on Bayesian Uncertainty Quantification in Large Models (BIRS 25w5329)](https://birs.ca/events/2025/5-day-workshops/25w5329)"
+  more: "Chennai, India"
+  pages: stats
+- event: "2025-12-08 to 11: [CECAM Flagship Workshop on Recent advances in first-principles modeling of electron-phonon interactions](https://cecam.org/workshop-details/recent-advances-in-first-principles-modeling-of-electron-phonon-interactions-1383)"
+  more: "Lausanne, Switzerland"
+  pages: qsd
+- event: "2025-12-09 to 12: [Mixed Integer Programming Workshop South America 2025](https://mixedinteger.org/MIPSouthAmerica/2025/)"
+  more: "Viña del Mar, Chile"
+  pages: optim
+- event: "2025-12-09 to 15: [Annual Conference on Neural Information Processing Systems (NeurIPS 2025)](http://wikicfp.com/cfp/servlet/event.showcfp?eventid=182647&copyownerid=163282)"
+  more: "San Diego, CA, USA"
+  pages: **mlt**
+- event: "2025-12-10 to 12: [EURANDOM Workshop on MCMC Methodology and Theory](https://eurandom.tue.nl/event/methodology-and-theory-mcmc/)"
+  more: "Eindhoven, The Netherlands"
+  pages: stats
+- event: "2025-12-14 to 17: [66th IEEE Symposium on Foundations of Computer Science (FOCS 2025)](https://focs.computer.org/2025/)"
+  more: "Sydney, Australia"
+  pages: algs
+- event: "2025-12-14 to 19: [44th International Workshop on Bayesian Inference and Maximum Entropy Methods in Science and Engineering (MaxEnt 2025)](https://maxent2025.co.nz)"
+  more: "Auckland, New Zealand"
+  pages: stats
+- event: "2025-12-15 to 18: [4th IMS International Conference on Statistics and Data Science (ICSDS 2025)](https://sites.google.com/view/ims-icsds2025/)"
+  more: "Sevilla, Spain"
+  pages: stats
+- event: "2025-12-15 to 20: [International Chemical Congress of Pacific Basin Societies (Pacifichem 2025)](https://pacifichem.org)"
+  more: "Honolulu, HI, USA"
+  pages: qsd
+- event: "2025-12-17 to 20: [Joint Meeting of Taipei International Statistical Symposium (TISS) and 13th ICSA International Conference (JOINT 2025)](https://www3.stat.sinica.edu.tw/joint2025/)"
+  more: "Taipei, Taiwan"
+  pages: stats
+- event: "2025-12 tbd: [17th Asian Conference on Machine Learning (ACML 2025)](https://acml-conf.org)"
+  more: "Taipei, Taiwan. Provisional link"
+  pages: mlt
+- event: "2025-12 tbd: Fusion Power Associates 46th Annual Meeting and Symposium (FPA 2025)"
+  more: "Washington, DC, USA. [Search](https://www.google.com/search?q=Fusion+Power+Associates+%2246th%22+Annual+Meeting+and+Symposium+2025)"
+  pages: plasma
+- event: "2025 Summer tbd: [Workshop on Recent Developments in Electronic Structure Methods (ES 2025)](https://mcc.illinois.edu/workshops/electronicstructure/)"
+  more: "El Paso, TX, USA. Announcement only"
+  pages: qsd
+- event: "2025 tbd: [26th Asian Workshop on First-Principles Electronic Structure Calculations (ASIAN)](http://bandstructure.jp/INTRO/bandmape.html)"
+  more: "Japan tbd. Mention only"
+  pages: qsd
+- event: "2025 tbd: [International Symposium on Quantum Physics and Quantum Information Sciences (QPQIS 2025)](http://qpqis.baqis.ac.cn/2025/)"
+  more: "Beijing, China"
+  pages: qcomp
+- event: "2026-01-12 to 16: [IPAM Workshop New Frontiers in Quantum Algorithms for Open Quantum Systems](https://ipam.ucla.edu/programs/workshops/new-frontiers-in-quantum-algorithms-for-open-quantum-systems/)"
+  more: "Los Angeles, CA, USA"
+  pages: qsd
+- event: "2026-01-12 to 16: [Nonparametric Bayesian Inference - Computational Issues](https://icerm.brown.edu/program/topical_workshop/tw-26-bnp)"
+  more: "Providence, RI, USA"
+  pages: stats
+- event: "2026-02-02 to 06: [Randomized Numerical Linear Algebra Workshop](https://icerm.brown.edu/program/semester_program_workshop/sp-s26-w1)"
+  more: "Providence, RI, USA"
+  pages: csna
+- event: "2026-02-17 to 20: [International School and Conference on Network Science (NetSciX 2026)](https://netscix2026.github.io)"
+  more: "Auckland, New Zealand"
+  pages: optim
+- event: "2026-03-02 to 06: [17th Latin American Congress of Probability and Mathematical Statistics (CLAPEM 2026)](https://clapem17.cmat.edu.uy)"
+  more: "Montevideo, Uruguay"
+  pages: stats
+- event: "2026-03-02 to 06: [Workshop on Bayesian Inverse Problems and UQ](https://icerm.brown.edu/program/semester_program_workshop/sp-s26-w2)"
+  more: "Providence, RI, USA"
+  pages: stats
+- event: "2026-03-10 to 13: [Chemical Compound Space Conference (CCSC 2026)](https://ccsc2026.github.io)"
+  more: "Erlangen, Germany"
+  pages: qsd
+- event: "2026-04-13 to 17: [Workshop on Simulation-Based Optimization with Applications](https://icerm.brown.edu/program/semester_program_workshop/sp-s26-w3)"
+  more: "Providence, RI, USA"
+  pages: optim
+- event: "2026-04-16 to 19: [International Workshop on Ultra-Fast and X-Ray Science (WUFXS 2026)](http://lps.ecnu.edu.cn/wufxs2026/)"
+  more: "Shanghai, China"
+  pages: ultrafast
+- event: "2026-04-19 to 24: [Gordon Research Conference Molecular and Ionic Clusters](https://grc.org/molecular-and-ionic-clusters-conference/2026/)"
+  more: "Lucca, Italy"
+  pages: qsd
+- event: "2026-04-20 to 24: [25th International Stellarator-Heliotron Workshop (ISHW 2025)](https://ipp.mpg.de/4022808/ISHW)"
+  more: "Cordoba, Spain. Preliminary link. [Search](https://www.google.com/search?q=International+Stellarator-Heliotron+Workshop+2026+cordoba)"
+  pages: plasma
+- event: "2026-05-17 to 22: [27th International Conference on Plasma-Surface Interactions in Controlled Fusion Devices (PSI 2026)](https://www.ipp.mpg.de/psi27/)"
+  more: "Regensburg, Germany"
+  pages: **pmi**
+- event: "2026-05-31 to 06-04: [27th ANS Topical Meetings on Technology of Fusion Energy (TOFE 2026)](https://ans.org/meetings/view-398/)"
+  more: "Denver, CO, USA"
+  pages: plasma
+- event: "2026-05-31 to 06-06: [12th International Conference Inverse Problems: Modeling and Simulation (IPMS 2026)](https://ipms-conference.org/ipms2026/)"
+  more: "Malta"
+  pages: inverse
+- event: "2026-06-01 to 30 (to be specified): [9th International Conference on Image Formation in X-Ray Computed Tomography (CT 2026)](https://ct-meeting.org)"
+  more: "Salt Lake City, UT, USA"
+  pages: inverse
+- event: "2026-06-02 to 05: [SIAM Conference on Optimization (OP 2026)](https://www.siam.org/conferences-events/siam-conferences/op26/)"
+  more: "Edinburgh, UK"
+  pages: optim
+- event: "2026-06-08 to 12: [IMSI Workshop Mathematical Aspects of 2D Quantum Materials and Meta-materials](https://imsi.institute/activities/mathematical-aspects-of-2d-quantum-materials-and-meta-materials/)"
+  more: "Chicago, IL, USA"
+  pages: qsd
+- event: "2026-06-14 to 19: [18th International Symposium on Capture Gamma-Ray Spectroscopy and Related Topics (CGS 2026)](https://mpi-hd.mpg.de/mpi/de/forschung/abteilungen-und-gruppen/gespeicherte-und-gekuehlte-ionen/veranstaltungen/konferenzen)"
+  more: "Monterey, CA, USA. Mention only"
+  pages: nuclear
+- event: "2026-06-15 to 18: [31st Symposium on Plasma Physics and Technology](https://plasmaconference.cz)"
+  more: "Prague, Czech Republic"
+  pages: plasma
+- event: "2026-06-21 to 26: [24th International Conference on Ion Beam Modification of Materials (IBMM 2026)](https://helsinki.fi/en/conferences/ibmm-2026)"
+  more: "Helsinki, Finland"
+  pages: pmi
+- event: "2026-06-22 to 26: [53rd International Conference on Plasma Science (ICOPS 2026)](https://icops.ieee.org/icops2026/)"
+  more: "Lake Tahoe, NV, USA"
+  pages: **iongas**
+- event: "2026-06-28 to 07-03: [40th International Workshop on Statistical Modelling (IWSM 2026)](http://statmod.org/workshops.htm)"
+  more: "Oslo, Norway. (Announcement only)"
+  pages: stats
+- event: "2026-06-28 to 07-03: [Gordon Research Conference Molecular Interactions and Dynamics](https://grc.org/molecular-interactions-and-dynamics-conference/2026/)"
+  more: "Easton, MA, USA"
+  pages: qsd
+- event: "2026-06-29 to 07-03: [Conference on Attosecond and Free-Electron Laser Science (Atto-FEL 2026)](https://linkedin.com/posts/agapi-emmanouilidou-2702a06b_dear-all-the-atto-fel-2026-conference-on-activity-7298750876557443072-TpFc/)"
+  more: "London, UK. Announcement only"
+  pages: ultrafast
+- event: "2026-07-01 to 08-31 (exact dates tbd): [9th High-Dimensional Quantum Dynamics Workshop (HDQD 2026)](https://hdqd2026.wordpress.com)"
+  more: "Salamanca, Spain"
+  pages: qsd
+- event: "2026-07-01 to 31 (to be specified): [Medical Imaging with Deep Learning (MIDL 2026)](https://2026.midl.io)"
+  more: "Taipei, Taiwan"
+  pages: inverse
+- event: "2026-07-07 to 11: [27th Europhysics Conference on Atomic and Molecular Physics of Ionized Gases (ESCAMPIG 2026)](https://escampig2024.physics.muni.cz)"
+  more: "Madeira, Spain. Preliminary announcement. [Search](https://www.google.com/search?q=27th+escampig+madeira+2026)"
+  pages: **iongas**
+- event: "2026-07-27 to 31: [Nuclear Structure (NS 2026)](https://indico.triumf.ca/event/745/)"
+  more: "Vancouver, BC, Canada"
+  pages: **nuclear**
+- event: "2026-08-16 to 20: [28th International Conference on Pattern Recognition (ICPR 2026)](https://iapr.org/conferences/conference-schedule/)"
+  more: "Lyon, France. Announcement only"
+  pages: algs
+- event: "2026-08-24 to 28: [Bernoulli Society European Meeting of Statisticians (EMS 2026)](https://bernoullisociety.org/organization/erc/ems)"
+  more: "Lugano, Switzerland. Preliminary announcement"
+  pages: stats
+- event: "2026-08-25 to 28: [27th International Conference on Computational Statistics (CompStat 2026)](https://cmstatistics.org/CFECMStatistics2024/announcements.php)"
+  more: "Athens, Greece. Provisional link"
+  pages: stats
+- event: "2026-08-30 to 09-06: [59th Zakopane Conference on Nuclear Physics (Zakopane 2026)](https://zakopane2026.ifj.edu.pl)"
+  more: "Kraków, Poland"
+  pages: nuclear
+- event: "2026-08-31 to 09-03: [20th International Conference on Plasma Surface Engineering (PSE 2026)](https://pse-conferences.net)"
+  more: "Erfurt, Germany"
+  pages: pmi
+- event: "2026-09-07 to 11: [22nd International Conference on the Physics of Highly Charged Ions (HCI 2026)](https://indico.impcas.ac.cn/event/75/)"
+  more: "Huizhou, China"
+  pages: **atomic**
+- event: "2026-11-30 to 12-03: [12th International Conference on Reactive Plasmas (ICRP 2026)](https://annex.jsap.or.jp/plasma/PE_files/meetings.html)"
+  more: "Kanazawa, Japan"
+  pages: iongas
+- event: "2026 tbd: 12th Workshop on Novel Methods for Electronic Structure Calculations"
+  more: "Argentina. [Search](https://www.google.com/search?q=12th+Workshop+on+Novel+Methods+for+Electronic+Structure+Calculations+Argentina+2026)"
+  pages: qsd
+- event: "2026 tbd: 14th International Conference on Atomic and Molecular Data and Their Applications (ICAMDATA)"
+  more: "tbd. [Search](https://www.google.com/search?q=14th+International+Conference+on+Atomic+and+Molecular+Data+and+Their+Applications+ICAMDATA+2026)"
+  pages: **atomic**
+- event: "2026 tbd: 17th conference of COmputer Simulation of IRradiation Effects in Solids (COSIRES)"
+  more: "tbd. [Search](https://www.google.com/search?q=17th+conference+on+COmputer+Simulation+of+IRradiation+Effects+in+Solids+COSIRES+2026)"
+  pages: **pmi**
+- event: "2026 tbd: 22nd International Congress on Plasma Physics (ICPP)"
+  more: "tbd. [Search](https://www.google.com/search?q=22nd+International+Congress+on+Plasma+Physics+ICPP+2026+-conferenceindex+-waset)"
+  pages: **iongas**
+- event: "2026 tbd: 31st Canadian Symposium on Theoretical and Computational Chemistry (CSTCC 2026)"
+  more: "Ottawa, Canada. [Search](https://www.google.com/search?q=31st+Canadian+Symposium+on+Theoretical+and+Computational+Chemistry+CSTCC+2026)"
+  pages: qsd
+- event: "2026 tbd: [Conference on Nuclear Physics in Astrophysics (NPA-XII 2026)](https://members.eps.org/blogpost/739426/News)"
+  more: "tbd. Call for bids. [Search](https://www.google.com/search?q=Conference+on+Nuclear+Physics+in+Astrophysics+NPA+XII+2026+-conferenceindex+-waset)"
+  pages: nuclear
+- event: "2026 tbd: European X-ray Spectrometry Conference (EXRS)"
+  more: "Catania, Italy?. [Search](https://www.google.com/search?q=European+X-ray+Spectrometry+Conference+EXRS+2026)"
+  pages: pmi
+- event: "2026 tbd: [Frontiers of Quantum and Mesoscopic Thermodynamics (FQMT 2026)](https://fqmt.fzu.cz/)"
+  more: "Prague, Czech Republic"
+  pages: qsd
+- event: "2027-07-25 to 30: [International Symposium on Mathematical Programming (ISMP 2027)](https://vu.nl/en/events/2027/international-symposium-on-mathematical-programming-2027)"
+  more: "Amsterdam, The Netherlands"
+  pages: **optim**
+- event: "2027 tbd: 12th Triennial Congress of the International Society of Theoretical Chemical Physics (ISTCP 2027)"
+  more: "tbd. [Search](https://www.google.com/search?q=12th+Triennial+Congress+of+the+International+Society+for+Theoretical+Chemical+Physics+ISTCP+2027)"
+  pages: qsd
