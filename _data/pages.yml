@@ -7,9 +7,12 @@ algs:
 atomic:
   title: Atomic Processes in Plasma, Warm and Hot Dense Matter
   excerpt: Focussed on processes in high temperature plasma. See other [Calendars](./) for plasma physics, ionized gases, plasma chemistry and plasma-material interaction.
-bioinsp:
-  title: Genetic, evolutionary and other bio-inspired computation
-  excerpt: Including major conferences (only) on artificial neural networks.
+csna:
+  title: Computational Science and Numerical Analysis
+  excerpt: Broad conferences in CS and NA that do not fit into one of the more specialized calendars.
+inverse:
+  title: Inverse Problems
+  excerpt: Focus on imaging science and analysis of scientific data.
 iongas:
   title: Ionized Gases and Plasma Chemistry
   excerpt: Focused on low-temperature and atmospheric density plasma. See other [Calendars](./) for (high-temperature) plasma physics and related processes and applications.
@@ -37,9 +40,16 @@ qcomp:
 qsd:
   title: Quantum Structure and Dynamics
   excerpt: Calendar in progress.
+sciml:
+  title: Scientific Machine Learning
+  excerpt: Applications of Machine Learning and Artificial Intelligence (AI) in scientific computating.
 stats:
   title: Statistics and Data Analysis
   excerpt: Calendar of meetings in the general field of computational and methodological statistics.
 stoch:
   title: Stochastics
   excerpt: Stochastic Processes, Stochastics Dynamics and Related Physical Science.
+uq:
+  title: Uncertainty Quantification
+  excerpt: Focus on applications in scientific data analysis.
+
