@@ -25,16 +25,6 @@ Tut
 
 Newly added information is shown here for about two months in reverse order of time of addition.
 
-2025-05-03 to 04: [Penn Conference on Theoretical Chemistry (PCTC 2025) (Ferroelectrics, Nanomaterials, Light-Matter Interactions, Next-Gen Computing & Renewable Energy)](https://pctc2025.regfox.com/pctc25), Philadelphia, PA, USA.
-
-2025-05-26 to 30: [CECAM Flagship School on New Computational Methods for Attosecond Molecular Processes](https://cecam.org/workshop-details/costzcam-school-on-new-computational-methods-for-attosecond-molecular-processes-1411), Zaragoza, Spain.
-
-2025-07-01 to 02: Theory for XFEL research in chemical and condensed matter science, London, UK. Announced on molecular-dynamics-news email list. Web page to follow.
-
-2025-07-21 to 24: [International Workshop Challenges in Designing Room Temperature Superconductors (CDRTS 2025)](https://cdrts2025.wordpress.com), Tokyo, Japan.
-
-2025-09-29 to 10-03: [Ab Initio Quantum Electrodynamics for Quantum Materials Engineering School](https://events.simonsfoundation.org/event/dd5ef895-f71f-4dee-9d8a-a1382cc28ec8/summary?RefId=Summary), New York City, NY, USA.
-
 ## Future and Recent Past Meetings
 
 ### 2025
@@ -62,8 +52,6 @@ Newly added information is shown here for about two months in reverse order of t
 2025-05-25 to 30: [22nd International Conference on Time-Resolved Vibrational Spectroscopy (TRVS 2025)](https://trvs2025.jp/), Moriyama, Shiga, Japan.
 
 2025-05-26 to 30: [CECAM Conference YRM 2025 - 21st ETSF Young Researchers' Meeting](https://cecam.org/workshop-details/yrm-2025-21st-etsf-young-researchers-meeting-1430), Trieste, Italy.
-
-2025-05-26 to 30: [CECAM Flagship School on New Computational Methods for Attosecond Molecular Processes](https://cecam.org/workshop-details/costzcam-school-on-new-computational-methods-for-attosecond-molecular-processes-1411), Zaragoza, Spain.
 
 2025-06-02 to 05: [CECAM Flagship Workshop on Virtual Materials Design: AI, Simulation, and Workflows](https://cecam.org/workshop-details/virtual-materials-design-ai-simulation-and-workflows-1398), Eggenstein-Leopoldshafen, Germany.
 
@@ -112,10 +100,6 @@ Newly added information is shown here for about two months in reverse order of t
 2025-06-30 to 07-11: [IMSI Summer School Mathematical Introduction to High-Accuracy Electronic Structure Theory](https://imsi.institute/activities/mathematical-introduction-to-high-accuracy-electronic-structure-theory/), Chicago, IL, USA.
 
 2025-07-01 to 05: [Workshop on New Challenges for Ab Initio Theory in Molecular Science](https://ncaitms.chem.uw.edu.pl/en/), Warsaw, Poland.
-
-2025-07-01 to 02: Theory for XFEL research in chemical and condensed matter science, London, UK. Announced on molecular-dynamics-news email list. Web page to follow.
-
-2025-07-06 to 11: [10th International Conference on Attosecond Science and Technology (ATTO 2025)](http://attox.se), Lund, Sweden.
 
 2025-07-06 to 11: [29th Dynamics of Molecular Collisions Conference (DMC 2025)](https://blog.umd.edu/29th-dmc/), Snowbird, UT, USA.
 
@@ -193,8 +177,6 @@ Newly added information is shown here for about two months in reverse order of t
 
 2025-10-15 to 17: [2nd edition of The van der Waals/London Discussions](https://vdwldiscussions.github.io), Luxembourg, Luxembourg.
 
-2025-10-23 to 26: [3rd International Conference on UltrafastX (UltrafastX 2025)](https://ultrafastx.com), Xiamen, China.
-
 2025-10-27 to 31: [19th International Conference on Molecular Magnetism (ICMM 2025)](https://icmm2025.sciencesconf.org), Bordeaux, France.
 
 2025-11-30 to 12-05: [13th International Conference on Advanced Vibrational Spectroscopy (ICAVS) and 5th International Conference on Enhanced Spectroscopy (ICES)](https://icavs.xmu.edu.cn), Xiamen, China.
@@ -213,15 +195,11 @@ Newly added information is shown here for about two months in reverse order of t
 
 2026-03-10 to 13: [Chemical Compound Space Conference (CCSC 2026)](https://ccsc2026.github.io), Erlangen, Germany.
 
-2026-04-16 to 19: [International Workshop on Ultra-Fast and X-Ray Science (WUFXS 2026)](http://lps.ecnu.edu.cn/wufxs2026/), Shanghai, China.
-
 2026-04-19 to 24: [Gordon Research Conference Molecular and Ionic Clusters](https://grc.org/molecular-and-ionic-clusters-conference/2026/), Lucca, Italy.
 
 2026-06-08 to 12: [IMSI Workshop Mathematical Aspects of 2D Quantum Materials and Meta-materials](https://imsi.institute/activities/mathematical-aspects-of-2d-quantum-materials-and-meta-materials/), Chicago, IL, USA.
 
 2026-06-28 to 07-03: [Gordon Research Conference Molecular Interactions and Dynamics](https://grc.org/molecular-interactions-and-dynamics-conference/2026/), Easton, MA, USA.
-
-2026-06-29 to 07-03: [Conference on Attosecond and Free-Electron Laser Science (Atto-FEL 2026)](https://linkedin.com/posts/agapi-emmanouilidou-2702a06b_dear-all-the-atto-fel-2026-conference-on-activity-7298750876557443072-TpFc/), London, UK. (Announcement only.)
 
 2026-07-01 to 08-31 (exact dates tbd): [9th High-Dimensional Quantum Dynamics Workshop (HDQD 2026)](https://hdqd2026.wordpress.com), Salamanca, Spain.
 
