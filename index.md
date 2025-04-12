@@ -5,7 +5,7 @@
 
 {% assign baseurl = "https://bjbraams.github.io/calendars" %}
 
-{% assign pagelist = "plasma,iongas,atomic,pmi,nuclear,qsd,light,algs,qcomp,optim,stats,mlt,stoch,bioinsp" | split: "," %}
+{% assign pagelist = "plasma,iongas,atomic,pmi,nuclear,qsd,light,algs,qcomp,csna,inverse,optim,sciml,uq,stats,mlt,stoch" | split: "," %}
 
 ## Work in Progress
 
@@ -18,8 +18,6 @@
 {% endfor %}
 
 ## Preliminary
-
-[Computational Science for Inverse Problems and Uncertainty Quantification]().
 
 [Not yet categorized]({{baseurl}}/inprogress).
 
