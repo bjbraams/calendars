@@ -37,6 +37,10 @@ Newly added information is shown here for about two months in reverse order of t
 
 **2025-06-11 to 13: [26th Conference on Integer Programming and Combinatorial Optimization (IPCO 2025)](https://ipco25.cs.jhu.edu), Baltimore, MD, USA.**
 
+2025-06-13 to 15: [Portuguese American Optimization Workshop (PAOW 2025)](https://coral.ise.lehigh.edu/paow/), Horta, Azores, Portugal.
+
+2025-06-15 to 19: [19th Learning and Intelligent OptimizatioN Conference (LION 2025)](https://lion19.org), Prague, Czech Republic.
+
 2025-06-17 to 20: [Modeling and Optimization: Theory and Applications (MOPTA 2025)](https://coral.ise.lehigh.edu/mopta2025/), Ponta Delgada, Azores, Portugal.
 
 2025-06-22 to 25: [34th European Conference on Operational Research (EURO 2025)](https://euro2025leeds.uk), Leeds, UK.
