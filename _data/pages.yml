@@ -43,12 +43,18 @@ qsd:
 sciml:
   title: Scientific Machine Learning
   excerpt: Applications of Machine Learning and Artificial Intelligence (AI) in scientific computating.
+spintronics:
+  title: Spintronics
+  excerpt: Spintronics and related control.
 stats:
   title: Statistics and Data Analysis
   excerpt: Calendar of meetings in the general field of computational and methodological statistics.
 stoch:
   title: Stochastics
   excerpt: Stochastic Processes, Stochastics Dynamics and Related Physical Science.
+ultrafast:
+  title: Ultrafast Quantum Physics
+  excerpt: Electron dynamics, intense light, quantum optics.
 uq:
   title: Uncertainty Quantification
   excerpt: Focus on applications in scientific data analysis.
