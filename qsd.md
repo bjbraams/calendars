@@ -237,8 +237,6 @@ Newly added information is shown here for about two months in reverse order of t
 
 [Ultracold Atom News Conference Listing](https://ucan.physics.utoronto.ca/conferences/).
 
-[Forthcoming X-ray related events, conferences, etc.](http://www.x-ray-optics.de/index.php/en/startseite-en/events) at X-Ray Optics.
-
 [Upcoming Meetings of potential interest to X-ray, gamma-ray, cosmic-ray, and gravitational astrophysicists](https://heasarc.gsfc.nasa.gov/docs/heasarc/meetings.html).
 
 ## Newsgroups and Lists
@@ -299,11 +297,7 @@ International Workshop on Computational Physics and Materials Science: Total Ene
 
 [Dynamics of Molecular Collisions (DMC)](https://sites.mst.edu/28th-dmc/about/). (Through 2023.)
 
-International Conference on Attosecond Science and Technology (ATTO).
-
 [International Free Electron Laser Conference (FEL)](https://inspirehep.net/conferences?sort=dateasc&size=1000&page=1&start_date=all&q=series.name%3A%22FEL%22).
-
-International Conference on Ultrafast Phenomena.
 
 [American Physical Society Division of Atomic, Molecular & Optical Physics (DAMOP) Past Meetings](https://engage.aps.org/damop/meetings/past-meetings).
 
