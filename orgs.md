@@ -1,3 +1,7 @@
+<head>
+  <link rel="stylesheet" href="assets/style.css">
+</head>
+
 # Event calendars of selected institutes and organizations
 
 ## Institutes
