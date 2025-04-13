@@ -25,6 +25,8 @@ To appear.
 
 Newly added information is shown here for about two months in reverse order of time of addition.
 
+{% include {{basename}}/new.md %}
+
 ## Future and Recent Past Meetings
 
 ### 2025
