@@ -53,6 +53,8 @@ African Institute for Mathematical Sciences (AIMS).
 
 ### Primarily Physics
 
+[Centre Européen de Calcul Atomique et Moléculaire (CECAM)](https://www.cecam.org/program).
+
 International Centre for Theoretical Physics (ICTP)
 
 Perimeter Institute for Theoretical Physics, Waterloo, Canada.
