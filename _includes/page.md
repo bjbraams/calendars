@@ -24,21 +24,17 @@
 
 ## Highlights
 
-Meetings listed in bold in the main section.
+{% include {{basename}}/highlights.md %}
 
 ## Latest Additions to the Calendar
 
 Newly added information is shown here for about two months in reverse order of time of addition.
 
+{% include {{basename}}/new.md %}
+
 ## Future and Recent Past Meetings
 
-### {{site.year0}}
-
-### {{site.year0|plus:1}}
-
-{% include {{basename}}/{{site.year0|plus:1}}.html %}
-
-### {{site.year0|plus:2}}+
+{% include {{basename}}/future.md %}
 
 ## Other Meeting Lists and Calendars
 
@@ -46,6 +42,4 @@ Newly added information is shown here for about two months in reverse order of t
 
 ## Past Meetings by Date
 
-### {{site.year0|minus:1}}-
-
-### {{site.year0}}
+{% include {{basename}}/past.md %}
