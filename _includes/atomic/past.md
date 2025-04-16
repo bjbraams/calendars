@@ -6,3 +6,5 @@
 
 2025-04-07 to 11: [Inertial Fusion Energy Science and Technology Accelerated Research (IFE-STAR) Conference](https://events.bizzabo.com/IFESTAR), Breckenridge, CO, USA.
 
+**2025-04-15 to 18: [12th International Workshop on Warm Dense Matter (WDM 2025)](https://sandia.gov/wdm/)**, Santa Fe, NM, USA.
+

@@ -1,5 +1,4 @@
-2025-04-15 to 18|[12th International Workshop on Warm Dense Matter (WDM 2025)](https://sandia.gov/wdm/)|Santa Fe, NM, USA||**atomic**
-2025-04-24 to 28|[13th International Conference on Learning Representations (ICLR 2025)](https://iclr.cc)|Singapore||**mlt**
+2025-04-24 to 28|[13th International Conference on Learning Representations (ICLR 2025)](https://iclr.cc)|Singapore||**stat-ml**
 2025-05-19 to 23|[20th International Conference on Plasma-Facing Materials and Components for Fusion Applications (PFMC 2025)](https://pfmc20.com)|Ljubljana, Slovenia||**pmi**
 2025-05-25 to 30|[29th International Nuclear Physics Conference (INPC 2025)](https://inpc2025.org)|Daejeon, Korea||**nuclear**
 2025-06-11 to 13|[26th Conference on Integer Programming and Combinatorial Optimization (IPCO 2025)](https://ipco25.cs.jhu.edu)|Baltimore, MD, USA||**optim**
@@ -7,23 +6,23 @@
 2025-06-17 to 20|[Meeting of the International Network of Nuclear Reaction Data Centres (NRDC 2025)](https://www-nds.iaea.org/nrdc/nrdc_2025/)|Madrid, Spain||**nuclear**
 2025-06-22 to 27|[16th Nuclear Data for Science and Technology Conference (ND 2025)](https://nd2025madrid.com)|Madrid, Spain||**nuclear**
 2025-06-30 to 07-04|[15th European Conference on Atoms, Molecules and Photons (ECAMP 2025)](https://ecamp15.org)|Innsbruck, Austria||**iongas**
-2025-06-30 to 07-04|[38th Annual Conference on Learning Theory (COLT 2025)](http://learningtheory.org/colt2025/)|Lyon, France||**mlt**
+2025-06-30 to 07-04|[38th Annual Conference on Learning Theory (COLT 2025)](http://learningtheory.org/colt2025/)|Lyon, France||**stat-ml**
 2025-07-01 to 06|[75th International Conference “Nucleus-2025. Nuclear physics, elementary particle physics, and nuclear technologies”](https://indico.spbu.ru/event/1/)|Saint Petersburg, Russia||**nuclear**
 2025-07-07 to 11|[51st EPS Conference on Plasma Physics (EPS Plasma 2025)](https://epsplasma2025.com)|Vilnius, Lithuania||**plasma**
-2025-07-13 to 19|[42nd International Conference on Machine Learning (ICML 2025)](https://icml.cc)|Vancouver, BC, Canada||**mlt**
+2025-07-13 to 19|[42nd International Conference on Machine Learning (ICML 2025)](https://icml.cc)|Vancouver, BC, Canada||**stat-ml**
 2025-07-19 to 24|[8th International Conference on Continuous Optimization (ICCOPT 2025)](https://sites.google.com/view/iccopt2025)|Los Angeles, CA, USA||**optim**
 2025-07-20 to 25|[36th International Conference on Phenomena in Ionized Gases (ICPIG 2025)](https://icpig2025.sciencesconf.org)|Aix-en-Provence, France||**iongas**
 2025-07-21 to 25|[22nd International Conference on Atomic Processes in Plasmas (APiP 2025)](https://yebisu.ils.uec.ac.jp/apip2025/)|Tokyo, Japan||**atomic**
 2025-07-28 to 08-01|[17th Conference on Stochastic Programming](https://icsp2025.org)|Paris, France||**optim**
 2025-07-29 to 08-05|[34th International Conference on Photonic, Electronic, and Atomic Collisions (ICPEAC 2025)](https://icpeac2025.jp)|Sapporo, Japan||**atomic**
-2025-08-02 to 07|[ASA, IMS and other Joint Statistical Meetings (JSM 2025)](https://ww2.amstat.org/meetings/jsm/2025/)|Nashville, TN, USA||**stats**
+2025-08-02 to 07|[ASA, IMS and other Joint Statistical Meetings (JSM 2025)](https://ww2.amstat.org/meetings/jsm/2025/)|Nashville, TN, USA||**stat-th**,**stat-me**
 2025-09-21 to 26|[9th Asia-Pacific Conference on Plasma Physics (AAPPS-DPP 2025)](https://aappsdpp.org/AAPPSDPPF/Meetings.html)|Fukuoka, Japan||**plasma**
 2025-09-28 to 10-03|[22nd International Conference on Fusion Reactor Materials (ICFRM 2025)](https://icfrm-22.com)|Shizuoka, Japan||**pmi**
-2025-10-05 to 09|[65th ISI World Statistics Congress (WSC 2025)](https://isi-next.org/conferences/isi-wsc2025/)|The Hague, Netherlands||**stats**
+2025-10-05 to 09|[65th ISI World Statistics Congress (WSC 2025)](https://isi-next.org/conferences/isi-wsc2025/)|The Hague, Netherlands||**stat-th**,**stat-me**
 2025-10-13 to 17|[78th Gaseous Electronics Conference (GEC 2025)](https://apsgec.org/gec2025/)|Seoul, Korea||**iongas**
 2025-10-13 to 18|[30th IAEA Fusion Energy Conference (FEC 2025)](https://conferences.iaea.org/event/392/)|Chengdu, China||**plasma**
 2025-11-17 to 21|[67th Annual Meeting of the APS Division of Plasma Physics (APS-DPP 2025)](https://engage.aps.org/dpp/meetings/annual-meeting)|Long Beach, CA, USA||**plasma**
-2025-12-09 to 15|[Annual Conference on Neural Information Processing Systems (NeurIPS 2025)](http://wikicfp.com/cfp/servlet/event.showcfp?eventid=182647&copyownerid=163282)|San Diego, CA, USA||**mlt**
+2025-12-09 to 15|[Annual Conference on Neural Information Processing Systems (NeurIPS 2025)](http://wikicfp.com/cfp/servlet/event.showcfp?eventid=182647&copyownerid=163282)|San Diego, CA, USA||**stat-ml**
 2026-05-17 to 22|[27th International Conference on Plasma-Surface Interactions in Controlled Fusion Devices (PSI 2026)](https://www.ipp.mpg.de/psi27/)|Regensburg, Germany||**pmi**
 2026-06-22 to 26|[53rd International Conference on Plasma Science (ICOPS 2026)](https://icops.ieee.org/icops2026/)|Lake Tahoe, NV, USA||**iongas**
 2026-07-07 to 11|[27th Europhysics Conference on Atomic and Molecular Physics of Ionized Gases (ESCAMPIG 2026)](https://escampig2024.physics.muni.cz)|Madeira, Spain|(Preliminary announcement.) [Search](https://www.google.com/search?q=27th+escampig+madeira+2026)|**iongas**

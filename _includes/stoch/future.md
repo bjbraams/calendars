@@ -8,6 +8,8 @@
 
 2025-06-23 to 27: [Workshop on Stochastic Interacting Particle Systems and Random Matrices](https://erdoscenter.renyi.hu/events/workshop-stochastic-interacting-particle-systems-and-random-matrices), Budapest, Hungary.
 
+2025-06-30 to 07-04: [Journées de Probabilités 2025](https://www.i2m.univ-amu.fr/en/journee-de-proba-2025/), Marseille, France.
+
 2025-07-13 to 18: [29th International Conference on Statistical Physics (StatPhys 2025)](https://statphys29.org), Florence, Italy.
 
 2025-07-14 to 18: [44th Conference on Stochastic Processes and their Applications](https://spa.pwr.edu.pl), Wrocław, Poland.

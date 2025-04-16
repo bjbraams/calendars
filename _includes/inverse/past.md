@@ -4,3 +4,5 @@
 
 2025-03-22 to 23: [Deep Reconstruction Workshop 2025](https://aiai.jhu.edu/deep_reconstruction_workshop_2025/), Baltimore, MD, USA.
 
+2025-04-14 to 17: [IEEE International Symposium on Biomedical Imaging (ISBI 2025)](https://biomedicalimaging.org/2025/), Houston, TX, USA.
+

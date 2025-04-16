@@ -1,5 +1,3 @@
-2025-04-14 to 17: [IEEE International Symposium on Biomedical Imaging (ISBI 2025)](https://biomedicalimaging.org/2025/), Houston, TX, USA.
-
 2025-05-27 to 30: [18th International Meeting on Fully Three-Dimensional Image Reconstruction in Radiology and Nuclear Medicine (Fully3D)](https://hqlab.sjtu.edu.cn/fully3d-2025/home), Shanghai, China.
 
 2025-06-01 to 03: [Inverse Problems Symposium (IPS 2025)](https://canr.msu.edu/inverse-problems/), East Lansing, MI, USA.

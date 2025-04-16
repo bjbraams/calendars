@@ -1,5 +1,3 @@
-**2025-04-15 to 18: [12th International Workshop on Warm Dense Matter (WDM 2025)](https://sandia.gov/wdm/)**, Santa Fe, NM, USA.
-
 **2025-07-21 to 25: [22nd International Conference on Atomic Processes in Plasmas (APiP 2025)](https://yebisu.ils.uec.ac.jp/apip2025/)**, Tokyo, Japan.
 
 **2025-07-29 to 08-05: [34th International Conference on Photonic, Electronic, and Atomic Collisions (ICPEAC 2025)](https://icpeac2025.jp)**, Sapporo, Japan.

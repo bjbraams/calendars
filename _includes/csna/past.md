@@ -8,3 +8,5 @@
 
 2025-03-31 to 04-02: [6th Manchester Multiscale Conference by CCPBioSim and CCP5](https://ccpbiosim.ac.uk/multiscale2025), Manchester, UK.
 
+2025-04-13 to 17: [22nd Copper Mountain Conference on Multigrid Methods](https://grandmaster.colorado.edu/copper/2025/), Copper Mountain, CO, USA.
+

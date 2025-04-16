@@ -5,7 +5,7 @@
 
 {% assign baseurl = "https://bjbraams.github.io/calendars" %}
 
-{% assign pagelist = "plasma,iongas,atomic,pmi,nuclear,qsd,light,ultrafast,spintronics,algs,qcomp,csna,inverse,optim,sciml,uq,stats,mlt,stoch" | split: "," %}
+{% assign pagelist = "plasma,iongas,atomic,pmi,nuclear,qsd,light,ultrafast,spintronics,algs,qcomp,csna,inverse,optim,sciml,uq,stat-th,stat-ml,stat-me,stoch" | split: "," %}
 
 ## Work in Progress
 

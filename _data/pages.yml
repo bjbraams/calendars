@@ -19,9 +19,6 @@ iongas:
 light:
   title: Plasma Light Sources
   excerpt: Calendar in progress; to be delimited or abandoned.
-mlt:
-  title: Machine Learning Theory
-  excerpt: Calendar of meetings in the general field of machine learning theory and related AI and data science.
 nuclear:
   title: Nuclear Structure and Reactions
   excerpt: Calendar of meetings in the general field of nuclear structure and reactions—nuclear physics and nuclear data for energy and other applications.
@@ -47,15 +44,26 @@ spintronics:
   title: Spintronics
   excerpt: Spintronics and related control.
 stats:
-  title: Statistics and Data Analysis
-  excerpt: Calendar of meetings in the general field of computational and methodological statistics.
+  title: Statistics, Stochastics and Related Probability
+  excerpt: Combining the calendars on statistics theory, methodology and computation, machine learning, and stochastics.
+stat-me:
+  title: Statistics - Methodology and Computation
+  excerpt: Selected (major) events in the area described by arXiv codes stat.ME and stat.CO (methodology and computation), including Design, Surveys, Model Selection, Multiple Testing,
+    Smoothing, Spatial Statistics, Survival Analysis, Nonparametric and Semiparametric Methods, Algorithms, Simulation, Visualization. (Maybe also Signal and Image Processing, Time Series?)
+    (I tend to assign to stat-th before stat-me.)
+stat-ml:
+  title: Statistics - Machine Learning Theory
+  excerpt: Events in the general area described by arXiv code stat-ml, including supervised, unsupervised, semi-supervised learning, graphical models, reinforcement learning, bandits, high dimensional inference, etc.
+stat-th:
+  title: Statistics - Theory
+  excerpt: Events in the general area described by arXiv code stat-th, including Asymptotics, Bayesian Inference, Decision Theory, Estimation, Foundations, Inference, Testing, Regression.
 stoch:
-  title: Stochastics
-  excerpt: Stochastic Processes, Stochastics Dynamics and Related Physical Science.
+  title: Stochastics and Related Probability
+  excerpt: Key words include stochastic processes, stochastic analysis, stochastic differential equations, stochastic dynamics, spatial stochastics, stochastic geometry, martingales,
+    Markov processes, Lévy Processes, Brownian motion, models from statistical mechanics, queuing theory.
 ultrafast:
   title: Ultrafast Quantum Physics
   excerpt: Electron dynamics, intense light, quantum optics.
 uq:
   title: Uncertainty Quantification
   excerpt: Focus on applications in scientific data analysis.
-

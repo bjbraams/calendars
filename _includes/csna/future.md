@@ -1,5 +1,3 @@
-2025-04-13 to 17: [22nd Copper Mountain Conference on Multigrid Methods](https://grandmaster.colorado.edu/copper/2025/), Copper Mountain, CO, USA.
-
 2025-04-27 to 05-02: [Oberwolfach Workshop on Computational Multiscale Methods](https://mfo.de/occasion/2518/www_view), Oberwolfach, Germany.
 
 2025-04-27 to 30: [International Conference on Mathematics and Computational Methods Applied to Nuclear Science and Engineering (M&C 2025)](https://ans.org/meetings/mc2025/), Denver, CO, USA.
