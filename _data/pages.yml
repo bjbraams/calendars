@@ -1,48 +1,60 @@
 template:
   title: Calendar Page Template
   excerpt: Empty calendar except for occasional testing. See other [Calendars](./) too.
-algs:
-  title: Algorithms and Complexity
+compsci:
+  title: Computational Science
+  excerpt: Computational science theory and applications.
+comp-fd:
+  title: Computational Fluid Dynamics
+  excerpt: Theory and practice of CFD.
+comp-in:
+  title: Inverse Problems and Scientific Data Analysis
+  excerpt: Scientific computing for image and signal processing and related fields.
+comp-ml:
+  title: Machine Learning in Scientific Computing
+  excerpt: Applied machine learning.
+comp-na:
+  title: Classical Numerical Analysis
+  excerpt: Interpolation, approximation, ordinary and partial differential equations, special functions etc., all except optimization.
+comp-op:
+  title: Numerical Optimization and Operational Research
+  excerpt: Primarily continuous optimization.
+comp-qc:
+  title: Quantum Computing for Computational Science
+  excerpt: Quantum computing and quantum algorithms for applications.
+comp-uq:
+  title: Uncertainty Quantification in Scientific Computing
+  excerpt: Uncertainty quantification and related topics.
+cstheory:
+  title: Computer Science Theory
   excerpt: Theoretical computer science with primary focus on algorithms and complexity, but some broader meetings too.
-atomic:
-  title: Atomic Processes in Plasma, Warm and Hot Dense Matter
-  excerpt: Focussed on processes in high temperature plasma. See other [Calendars](./) for plasma physics, ionized gases, plasma chemistry and plasma-material interaction.
-csna:
-  title: Computational Science and Numerical Analysis
-  excerpt: Broad conferences in CS and NA that do not fit into one of the more specialized calendars.
-inverse:
-  title: Inverse Problems
-  excerpt: Focus on imaging science and analysis of scientific data.
-iongas:
-  title: Ionized Gases and Plasma Chemistry
-  excerpt: Focused on low-temperature and atmospheric density plasma. See other [Calendars](./) for (high-temperature) plasma physics and related processes and applications.
-light:
-  title: Plasma Light Sources
-  excerpt: Calendar in progress; to be delimited or abandoned.
+cs-al:
+  title: Algorithms and Complexity
+  excerpt: Algorithms, computational complexity, data structures, computational geometry.
+cs-lo:
+  title: Logic in Computer Science
+  excerpt: Logic, formal languages and automata.
+cs-oh:
+  title: Computer Science - Other
+  excerpt: Temporary calendar for events not yet classified.
 nuclear:
   title: Nuclear Structure and Reactions
   excerpt: Calendar of meetings in the general field of nuclear structure and reactions—nuclear physics and nuclear data for energy and other applications.
-optim:
-  title: Optimization Theory
-  excerpt: Major meetings in the areas of discrete and continuous optimization, networks, linear and integer programming, operational research, games and control.
 plasma:
+  title: plasma
+  excerpt: Plasma science and applications
+plas-ph:
   title: Plasma Physics and Fusion Energy Science
-  excerpt: Focused on high-temperature plasma, fusion energy and astrophysical plasma. See other [Calendars](./) for atomic processes, warm and hot dense matter, plasma-material interaction, low temperature plasma, ionized gases and plasma chemistry.
-pmi:
+  excerpt: Focused on high-temperature plasma, fusion energy and astrophysical plasma.
+plas-ig:
+  title: Ionized Gases and Plasma Chemistry
+  excerpt: Ionized gases, low-temperature plasma and plasma chemistry.
+plas-am:
+  title: Atomic Processes in Plasma, Warm and Hot Dense Matter
+  excerpt: Atomic and molecular processes in high temperature plasma, warm and hot dense matter.
+plas-pm:
   title: Plasma-Material Interaction and Related Materials Science
-  excerpt: Including fusion-relevant materials physics such as hydrogen trapping and transport. See other [Calendars](./) for plasma physics, fusion science, atomic processes and plasma chemistry.
-qcomp:
-  title: Quantum Computing
-  excerpt: Quantum computing, information processing and cryptography.
-qsd:
-  title: Quantum Structure and Dynamics
-  excerpt: Calendar in progress.
-sciml:
-  title: Scientific Machine Learning
-  excerpt: Applications of Machine Learning and Artificial Intelligence (AI) in scientific computating.
-spintronics:
-  title: Spintronics
-  excerpt: Spintronics and related control.
+  excerpt: Plasma-material and particle-surface interactions and related fusion-relevant materials physics.
 stats:
   title: Statistics, Stochastics and Related Probability
   excerpt: Combining the calendars on statistics theory, methodology and computation, machine learning, and stochastics.
@@ -61,9 +73,15 @@ stoch:
   title: Stochastics and Related Probability
   excerpt: Key words include stochastic processes, stochastic analysis, stochastic differential equations, stochastic dynamics, spatial stochastics, stochastic geometry, martingales,
     Markov processes, Lévy Processes, Brownian motion, models from statistical mechanics, queuing theory.
+qsd:
+  title: Quantum Structure and Dynamics
+  excerpt: Calendar in progress.
+light:
+  title: Plasma Light Sources
+  excerpt: Calendar in progress; to be delimited or abandoned.
+spintronics:
+  title: Spintronics
+  excerpt: Spintronics and related control.
 ultrafast:
   title: Ultrafast Quantum Physics
   excerpt: Electron dynamics, intense light, quantum optics.
-uq:
-  title: Uncertainty Quantification
-  excerpt: Focus on applications in scientific data analysis.

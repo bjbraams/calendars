@@ -1,0 +1,81 @@
+stats:
+  pages: stats
+  desc: Selected topics in statistics, stochastics, probability and machine learning
+stat-me:
+  pages: stat-me,stats
+  desc: Statistics methodology and computation
+stat-ml:
+  pages: stat-ml,stats
+  desc: Machine learning theory
+stat-th:
+  pages: stat-th,stats
+  desc: Statistics theory including inference, estimation, testing, regression
+stoch:
+  pages: stoch,stats
+  desc: Stochastics and related probability
+plasma:
+  pages: plasma
+  desc: Plasma science and applications
+plas-ph:
+  pages: plas-ph,plasma
+  desc: High temperature plasma, nuclear fusion
+plas-ig:
+  pages: plas-ig,plasma
+  desc: Ionized gases and plasma chemistry
+plas-am:
+  pages: plas-am,plasma
+  desc: Atomic and molecular processes in plasma, warm and hot dense matter
+plas-pm:
+  pages: plas-pm,plasma
+  desc: Plasma-material and particle-surface interactions and related materials science
+nuclear:
+  pages: nuclear
+  desc: Nuclear processes and nuclear data
+compsci:
+  pages: compsci
+  desc: Computational science
+comp-fd:
+  pages: comp-fd,compsci
+  desc: Computational fluid dynamics
+comp-in:
+  pages: comp-in,compsci
+  desc: Computational inverse problems and scientific data analysis
+comp-ml:
+  pages: comp-ml,compsci
+  desc: Machine learning in scientific computing
+comp-na:
+  pages: comp-na,compsci
+  desc: Classical numerical analysis
+comp-op:
+  pages: comp-op,compsci
+  desc: Numerical optimization and operational research
+comp-qc:
+  pages: comp-qc,compsci
+  desc: Quantum computing for scientific applications
+comp-uq:
+  pages: comp-uq,compsci
+  desc: Uncertainty quantification
+cstheory:
+  pages: cstheory
+  desc: Computer Science Theory
+cs-al:
+  pages: cs-al,cstheory
+  desc: Algorithms, computational complexity, data structures, computational geometry
+cs-lo:
+  pages: cs-lo,cstheory
+  desc: Logic, formal languages and automata
+cs-oh:
+  pages: cs-oh,cstheory
+  desc: Temporary category for CS events not yet classified
+light:
+  pages: light
+  desc: Plasma light sources
+qsd:
+  pages: qsd
+  desc: Quantum structure and dynamics; quantum chemistry
+spintronics:
+  pages: spintronics
+  desc: Spin in materials science
+ultrafast:
+  pages: ultrafast
+  desc: Electron dynamics, intense light, quantum optics
