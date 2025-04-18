@@ -46,7 +46,7 @@
 
 2025-08-02: [Institute of Mathematical Statistics First Annual Frontiers in Statistical Machine Learning Workshop (FSML 2025)](https://fsmlims.wixsite.com/fsml25), Nashville, TN, USA. (Just before [JSM 2025](https://ww2.amstat.org/meetings/jsm/2025/).).
 
-**2025-08-02 to 07: [ASA, IMS and other Joint Statistical Meetings (JSM 2025)](https://ww2.amstat.org/meetings/jsm/2025/)**, Nashville, TN, USA.
+**2025-08-02 to 07: [ASA, IMS and other Joint Statistical Meetings (JSM 2025)](https://ww2.amstat.org/meetings/jsm/2025/), Nashville, TN, USA**.
 
 2025-08-19 to 22: [14th High Dimensional Data Analysis Workshop (HDDA 2025)](https://cmich.edu/academics/colleges/college-science-engineering/departments-schools/statistics-actuarial-and-data-sciences/HDDA), Beaver Island, MI, USA.
 
@@ -56,7 +56,7 @@
 
 2025-09-01 to 05: [Conference StatMathAppli 2025](https://statmathappli.mathnum.inrae.fr), Fréjus, France.
 
-**2025-10-05 to 09: [65th ISI World Statistics Congress (WSC 2025)](https://isi-next.org/conferences/isi-wsc2025/)**, The Hague, Netherlands.
+**2025-10-05 to 09: [65th ISI World Statistics Congress (WSC 2025)](https://isi-next.org/conferences/isi-wsc2025/), The Hague, Netherlands**.
 
 2025-10-15 to 17: [SPP2265 Workshop on Recent Developments in Spatial Interacting Random Systems](https://wias-berlin.de/workshops/sirs25/), Berlin, Germany.
 

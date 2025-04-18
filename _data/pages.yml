@@ -1,6 +1,3 @@
-template:
-  title: Calendar Page Template
-  excerpt: Empty calendar except for occasional testing. See other [Calendars](./) too.
 compsci:
   title: Computational Science
   excerpt: Computational science theory and applications.
@@ -60,21 +57,33 @@ stats:
   excerpt: Combining the calendars on statistics theory, methodology and computation, machine learning, and stochastics.
 stat-me:
   title: Statistics - Methodology and Computation
-  excerpt: Selected (major) events in the area described by arXiv codes stat.ME and stat.CO (methodology and computation), including Design, Surveys, Model Selection, Multiple Testing,
+  excerpt: Selected (major) events in the area described by arXiv codes stat.ME (Methodology) and stat.CO (Computation), including Design, Surveys, Model Selection, Multiple Testing,
     Smoothing, Spatial Statistics, Survival Analysis, Nonparametric and Semiparametric Methods, Algorithms, Simulation, Visualization. (Maybe also Signal and Image Processing, Time Series?)
     (I tend to assign to stat-th before stat-me.)
 stat-ml:
   title: Statistics - Machine Learning Theory
-  excerpt: Events in the general area described by arXiv code stat-ml, including supervised, unsupervised, semi-supervised learning, graphical models, reinforcement learning, bandits, high dimensional inference, etc.
+  excerpt: Meetings in the general area described by arXiv code stat-ml, including supervised, unsupervised, semi-supervised learning, graphical models, reinforcement learning, bandits, high dimensional inference, etc.
 stat-th:
   title: Statistics - Theory
-  excerpt: Events in the general area described by arXiv code stat-th, including Asymptotics, Bayesian Inference, Decision Theory, Estimation, Foundations, Inference, Testing, Regression.
+  excerpt: Meetings in the general area described by arXiv code stat-th, including Foundations, Asymptotics, Testing, Estimation, Regression, Bayesian and Frequentist Inference, Decision Theory.
 stoch:
-  title: Stochastics and Related Probability
+  title: Probability and Stochastic Processes
   excerpt: Key words include stochastic processes, stochastic analysis, stochastic differential equations, stochastic dynamics, spatial stochastics, stochastic geometry, martingales,
     Markov processes, Lévy Processes, Brownian motion, models from statistical mechanics, queuing theory.
-qsd:
-  title: Quantum Structure and Dynamics
+qchem:
+  title: Quantum Chemistry
+  excerpt: Calendar in progress.
+qmat:
+  title: Quantum Materials
+  excerpt: Calendar in progress.
+qmol:
+  title: Quantum Molecules
+  excerpt: Calendar in progress.
+qsde:
+  title: Quantum Structure and Dynamics Electronic
+  excerpt: Calendar in progress.
+qsdm:
+  title: Quantum Structure and Dynamics Material
   excerpt: Calendar in progress.
 light:
   title: Plasma Light Sources

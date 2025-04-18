@@ -1,6 +1,6 @@
 2025-04-23 to 25: [Workshop Quantum Machine Learning: theory meets experiments](https://quantum.univie.ac.at/events/quantum-machine-learning-workshop-2025/), Vienna, Austria.
 
-**2025-04-24 to 28: [13th International Conference on Learning Representations (ICLR 2025)](https://iclr.cc)**, Singapore.
+**2025-04-24 to 28: [13th International Conference on Learning Representations (ICLR 2025)](https://iclr.cc), Singapore**.
 
 2025-04-29 to 05-02: [ASA Symposium on Data Science and Statistics (SDSS 2025)](https://ww2.amstat.org/meetings/sdss/2025/), Salt Lake City, UT, USA.
 
@@ -14,9 +14,9 @@
 
 2025-06-23 to 25: [International Conference on Statistics and Data Science](https://icsds.github.io/2025/), Vancouver, BC, Canada. (Not to be confused with the IMS International Conference on Statistics and Data Science in Sevilla, Spain in 2025.).
 
-**2025-06-30 to 07-04: [38th Annual Conference on Learning Theory (COLT 2025)](http://learningtheory.org/colt2025/)**, Lyon, France.
+**2025-06-30 to 07-04: [38th Annual Conference on Learning Theory (COLT 2025)](http://learningtheory.org/colt2025/), Lyon, France**.
 
-**2025-07-13 to 19: [42nd International Conference on Machine Learning (ICML 2025)](https://icml.cc)**, Vancouver, BC, Canada.
+**2025-07-13 to 19: [42nd International Conference on Machine Learning (ICML 2025)](https://icml.cc), Vancouver, BC, Canada**.
 
 2025-08-03 to 07: [ACM SIGKDD International Conference on Knowledge Discovery and Data Mining (KDD 2025)](https://kdd2025.kdd.org), Toronto, ON, Canada.
 
@@ -30,7 +30,7 @@
 
 2025-11-12 to 15: [25th IEEE International Conference on Data Mining (ICDM 2025)](https://www3.cs.stonybrook.edu/~icdm2025/), Washington, DC, USA.
 
-**2025-12-09 to 15: [Annual Conference on Neural Information Processing Systems (NeurIPS 2025)](http://wikicfp.com/cfp/servlet/event.showcfp?eventid=182647&copyownerid=163282)**, San Diego, CA, USA.
+**2025-12-09 to 15: [Annual Conference on Neural Information Processing Systems (NeurIPS 2025)](http://wikicfp.com/cfp/servlet/event.showcfp?eventid=182647&copyownerid=163282), San Diego, CA, USA**.
 
 2025-12 tbd: [17th Asian Conference on Machine Learning (ACML 2025)](https://acml-conf.org), Taipei, Taiwan. (Provisional link.).
 

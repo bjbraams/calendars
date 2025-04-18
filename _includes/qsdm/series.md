@@ -34,7 +34,7 @@ International Conference on Ultrafast Phenomena.
 
 [International Symposium on Plasma Chemistry (ISPC)](https://www.ispc-conference.org/index.php/proceedings).
 
-[International Conference on High-Resolution Molecular Spectroscopy ("PRAHA" series)](http://www.chem.uni-wuppertal.de/conference/). (Forward to Historical.)
+[International Conference on High-Resolution Molecular Spectroscopy (PRAHA series)](http://www.chem.uni-wuppertal.de/conference/). (Forward to Historical.)
 
 [Symposium on Atomic, Cluster and Surface Physics (SASP)](https://www.uibk.ac.at/sasp/).
 

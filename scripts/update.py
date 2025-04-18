@@ -28,7 +28,7 @@ while line := f0.readline()[:-1]:
     if len(x) != 5:
         print(line)
     else:
-        a = x[0]+": "+x[1]
-        b = ", "+x[2]+(". "+x[3] if x[3] else "")+"."
+        a = x[0]+": "+x[1]+", "+x[2]
+        b = (". "+x[3] if x[3] else "")+"."
         for y in x[-1].split(","):
             process(a,b,y)

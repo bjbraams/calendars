@@ -14,7 +14,7 @@
 
 2025-06-23 to 27: [IEEE Symposium on Fusion Engineering (SOFE 2025)](https://plasmafusion.eventsair.com/sofe2025/), Cambridge, MA, USA.
 
-**2025-07-07 to 11: [51st EPS Conference on Plasma Physics (EPS Plasma 2025)](https://epsplasma2025.com)**, Vilnius, Lithuania.
+**2025-07-07 to 11: [51st EPS Conference on Plasma Physics (EPS Plasma 2025)](https://epsplasma2025.com), Vilnius, Lithuania**.
 
 2025-08-04 to 08: [6th International Conference on Data-Driven Plasma Science (ICDDPS 2025)](https://web.cvent.com/event/7de9d238-e170-4fbf-8de5-20abc5c6eb49/), Santa Fe, NM, USA.
 
@@ -26,21 +26,21 @@
 
 2025-09-09 to 11: [28th International Conference on Numerical Simulation of Plasmas (ICNSP 2025)](https://pls.llnl.gov/about/events/28th-international-conference-numerical-simulation-plasmas), Berkeley, CA, USA.
 
-2025-09-09 to 12: [29th EU-US \[Fusion Plasma\] Transport Task Force Workshop (TTF 2025)](https://ttf2025.ek.hun-ren.hu), Budapest, Hungary.
+2025-09-09 to 12: [29th EU-US Fusion Plasma Transport Task Force Workshop (TTF 2025)](https://ttf2025.ek.hun-ren.hu), Budapest, Hungary.
 
 2025-09-09 to 12: [6th Technical Meeting on Fusion Data Processing, Validation and Analysis](https://iaea.org/events/evt2405091), Shanghai, China.
 
-**2025-09-21 to 26: [9th Asia-Pacific Conference on Plasma Physics (AAPPS-DPP 2025)](https://aappsdpp.org/AAPPSDPPF/Meetings.html)**, Fukuoka, Japan.
+**2025-09-21 to 26: [9th Asia-Pacific Conference on Plasma Physics (AAPPS-DPP 2025)](https://aappsdpp.org/AAPPSDPPF/Meetings.html), Fukuoka, Japan**.
 
 2025-09-23 to 26: [20th International Workshop on Plasma Edge Theory in Fusion Devices (PET 2025)](https://pet2025.com/), Leuven, Belgium.
 
 2025-09-23 to 26: [21st European Fusion Theory Conference (EFTC 2025)](https://indico.global/event/13788/), Aix-en-Provence, France.
 
-**2025-10-13 to 18: [30th IAEA Fusion Energy Conference (FEC 2025)](https://conferences.iaea.org/event/392/)**, Chengdu, China.
+**2025-10-13 to 18: [30th IAEA Fusion Energy Conference (FEC 2025)](https://conferences.iaea.org/event/392/), Chengdu, China**.
 
 2025-11-09 to 14: [16th International Symposium on Fusion Nuclear Technology (ISFNT 2025)](https://isfnt-16.ornl.gov), Knoxville, TN, USA.
 
-**2025-11-17 to 21: [67th Annual Meeting of the APS Division of Plasma Physics (APS-DPP 2025)](https://engage.aps.org/dpp/meetings/annual-meeting)**, Long Beach, CA, USA.
+**2025-11-17 to 21: [67th Annual Meeting of the APS Division of Plasma Physics (APS-DPP 2025)](https://engage.aps.org/dpp/meetings/annual-meeting), Long Beach, CA, USA**.
 
 2025-12 tbd: Fusion Power Associates 46th Annual Meeting and Symposium (FPA 2025), Washington, DC, USA. [Search](https://www.google.com/search?q=Fusion+Power+Associates+%2246th%22+Annual+Meeting+and+Symposium+2025).
 

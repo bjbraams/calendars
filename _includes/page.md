@@ -16,34 +16,34 @@
 ## Contents
 
 - [Highlights](#highlights)
-- [Latest Additions to the Calendar](#latest-additions-to-the-calendar)
-- [Future and Recent Past Meetings](#future-and-recent-past-meetings)
-- [Other Meeting Lists and Calendars](#other-meeting-lists-and-calendars)
-- [Archives and Histories of Selected Serial Meetings](#archives-and-histories-of-selected-serial-meetings)
-- [Past Meetings by Date](#past-meetings-by-date)
+- [Latest Additions](#latest-additions)
+- [Future Meetings](#future-meetings)
+- [Other Meeting Lists](#other-meeting-lists)
+- [Selected Serial Meetings](#selected-serial-meetings)
+- [Past Meetings](#past-meetings)
 
 ## Highlights
 
 {% include {{basename}}/highlights.md %}
 
-## Latest Additions to the Calendar
+## Latest Additions
 
 Newly added information is shown here for about two months in reverse order of time of addition.
 
 {% include {{basename}}/new.md %}
 
-## Future and Recent Past Meetings
+## Future Meetings
 
 {% include {{basename}}/future.md %}
 
-## Other Meeting Lists and Calendars
+## Other Meeting Lists
 
 {% include {{basename}}/lists.md %}
 
-## Archives and Histories of Selected Serial Meetings
+## Selected Serial Meetings
 
 {% include {{basename}}/series.md %}
 
-## Past Meetings by Date
+## Past Meetings
 
 {% include {{basename}}/past.md %}

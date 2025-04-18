@@ -54,7 +54,7 @@
 
 2025-09-22 to 26: [61st Symposium on Theoretical Chemistry--Exploring Chemical Landscapes (STC 2025)](https://bcp.fu-berlin.de/en/stc2025), Berlin, Germany.
 
-2025-09-22 to 26: [Workshop on The determination of \[DFT+U\] Hubbard parameters: progress, pitfalls, and prospects](https://sites.google.com/view/hubbard-workshop-2025/home), Gandia, Spain.
+2025-09-22 to 26: [Workshop on The determination of Hubbard parameters: progress, pitfalls, and prospects](https://sites.google.com/view/hubbard-workshop-2025/home), Gandia, Spain.
 
 2025-10-15 to 17: [2nd edition of The van der Waals/London Discussions](https://vdwldiscussions.github.io), Luxembourg, Luxembourg.
 

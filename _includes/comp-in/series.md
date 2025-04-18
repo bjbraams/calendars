@@ -1,4 +1,4 @@
-[International Conference "Inverse Problems: Modeling and Simulation" (IPMS)](https://www.ipms-conference.org/ipms2026/index.php/organization/history-objectives).
+[International Conference on Inverse Problems: Modeling and Simulation (IPMS)](https://www.ipms-conference.org/ipms2026/index.php/organization/history-objectives).
 
 SIAM Conference on Imaging Science (IS).
 
