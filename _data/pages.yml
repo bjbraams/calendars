@@ -2,19 +2,22 @@ compsci:
   title: Computational Science
   excerpt: Computational science theory and applications.
 comp-fd:
-  title: Computational Fluid Dynamics
-  excerpt: Theory and practice of CFD.
+  title: Computational Fluid Dynamics, Kinetic Equations and Multiphysics
+  excerpt: All of the above and elasticity too, including geophysical and astrophysical applications.
+comp-hp:
+  title: High-Performance Computing
+  excerpt: Includes programming for GPU or TPU for scientific applications.
 comp-in:
   title: Inverse Problems and Scientific Data Analysis
-  excerpt: Scientific computing for image and signal processing and related fields.
+  excerpt: Scientific computing for image and signal processing and related fields. Also data assimilation.
 comp-ml:
   title: Machine Learning in Scientific Computing
-  excerpt: Applied machine learning.
+  excerpt: Applied machine learning, model reduction and digital twinning.
 comp-na:
   title: Classical Numerical Analysis
-  excerpt: Interpolation, approximation, ordinary and partial differential equations, special functions etc., all except optimization.
+  excerpt: Interpolation, approximation, linear and tensor algebra, ordinary and partial differential equations, integral equations, special functions etc.; all except optimization.
 comp-op:
-  title: Numerical Optimization and Operational Research
+  title: Numerical Optimization, Operational Research and Control
   excerpt: Primarily continuous optimization.
 comp-qc:
   title: Quantum Computing for Computational Science
@@ -31,6 +34,9 @@ cs-al:
 cs-lo:
   title: Logic in Computer Science
   excerpt: Logic, formal languages and automata.
+cs-op:
+  title: Computer Science - Optimization
+  excerpt: Discrete and combinatorial optimization, (mixed) integer programming.
 cs-oh:
   title: Computer Science - Other
   excerpt: Temporary calendar for events not yet classified.
@@ -53,8 +59,8 @@ plas-pm:
   title: Plasma-Material Interaction and Related Materials Science
   excerpt: Plasma-material and particle-surface interactions and related fusion-relevant materials physics.
 stats:
-  title: Statistics, Stochastics and Related Probability
-  excerpt: Combining the calendars on statistics theory, methodology and computation, machine learning, and stochastics.
+  title: Statistics, Probability and Stochastics
+  excerpt: Combining the calendars on statistics theory, methodology and computation, machine learning, probability, and stochastics.
 stat-me:
   title: Statistics - Methodology and Computation
   excerpt: Selected (major) events in the area described by arXiv codes stat.ME (Methodology) and stat.CO (Computation), including Design, Surveys, Model Selection, Multiple Testing,
@@ -66,8 +72,11 @@ stat-ml:
 stat-th:
   title: Statistics - Theory
   excerpt: Meetings in the general area described by arXiv code stat-th, including Foundations, Asymptotics, Testing, Estimation, Regression, Bayesian and Frequentist Inference, Decision Theory.
+prob:
+  title: Probability Theory
+  excerpt: Foundations, probability on algebraic, combinatorial and geometric structures, distributions, asymptotics.
 stoch:
-  title: Probability and Stochastic Processes
+  title: Stochastic Processes
   excerpt: Key words include stochastic processes, stochastic analysis, stochastic differential equations, stochastic dynamics, spatial stochastics, stochastic geometry, martingales,
     Markov processes, Lévy Processes, Brownian motion, models from statistical mechanics, queuing theory.
 qchem:

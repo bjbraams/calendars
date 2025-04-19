@@ -2,8 +2,6 @@
 
 2025-02-17 to 21: [6th Workshop on Algebraic Structures in Quantum Computation](https://itp.uni-hannover.de/en/asqc6), Hannover, Germany.
 
-2025-03-04 to 08: [45th International Joint Workshop on Infinite Dimensional Analysis, Quantum Probability and Related Topics (QP 2025) and Quantum Bio-Informatics (QBIC 2025)](https://sites.google.com/view/qp45-qbic2025), Tokyo, Japan.
-
 2025-03-11 to 14: [WE-Heraeus Seminar on Operator Theory and Polynomial Optimization in Quantum Information Theory](https://we-heraeus-stiftung.de/veranstaltungen/operator-theory-and-polynomial-optimization-in-quantum-information-theory/), Bad Honnef, Germany.
 
 2025-03-17 to 21: [Quantum Resources 2025](https://2025.quantumresources.science/), Jeju Island, Korea.

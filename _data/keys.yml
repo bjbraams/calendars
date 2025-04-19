@@ -1,42 +1,12 @@
-stats:
-  pages: stats
-  desc: Selected topics in statistics, stochastics, probability and machine learning
-stat-me:
-  pages: stat-me,stats
-  desc: Statistics methodology and computation
-stat-ml:
-  pages: stat-ml,stats
-  desc: Machine learning theory
-stat-th:
-  pages: stat-th,stats
-  desc: Statistics theory including inference, estimation, testing, regression
-stoch:
-  pages: stoch,stats
-  desc: Stochastics and related probability
-plasma:
-  pages: plasma
-  desc: Plasma science and applications
-plas-ph:
-  pages: plas-ph,plasma
-  desc: High temperature plasma, nuclear fusion
-plas-ig:
-  pages: plas-ig,plasma
-  desc: Ionized gases and plasma chemistry
-plas-am:
-  pages: plas-am,plasma
-  desc: Atomic and molecular processes in plasma, warm and hot dense matter
-plas-pm:
-  pages: plas-pm,plasma
-  desc: Plasma-material and particle-surface interactions and related materials science
-nuclear:
-  pages: nuclear
-  desc: Nuclear processes and nuclear data
 compsci:
   pages: compsci
   desc: Computational science
 comp-fd:
   pages: comp-fd,compsci
-  desc: Computational fluid dynamics
+  desc: Computational fluid dynamics, and allied subjects
+comp-hp:
+  pages: comp-hp,compsci
+  desc: High-performance computing, GPU and TPU computing
 comp-in:
   pages: comp-in,compsci
   desc: Computational inverse problems and scientific data analysis
@@ -55,6 +25,42 @@ comp-qc:
 comp-uq:
   pages: comp-uq,compsci
   desc: Uncertainty quantification
+stats:
+  pages: stats
+  desc: Selected topics in statistics, stochastics, probability and machine learning
+stat-me:
+  pages: stat-me,stats
+  desc: Statistics methodology and computation
+stat-ml:
+  pages: stat-ml,stats
+  desc: Machine learning theory
+stat-th:
+  pages: stat-th,stats
+  desc: Statistics theory including inference, estimation, testing, regression
+prob:
+  pages: prob,stats
+  desc: Probability theory
+stoch:
+  pages: stoch,stats
+  desc: Stochastic process and analysis
+plasma:
+  pages: plasma
+  desc: Plasma science and applications
+plas-ph:
+  pages: plas-ph,plasma
+  desc: High temperature plasma, nuclear fusion
+plas-ig:
+  pages: plas-ig,plasma
+  desc: Ionized gases and plasma chemistry
+plas-am:
+  pages: plas-am,plasma
+  desc: Atomic and molecular processes in plasma, warm and hot dense matter
+plas-pm:
+  pages: plas-pm,plasma
+  desc: Plasma-material and particle-surface interactions and related materials science
+nuclear:
+  pages: nuclear
+  desc: Nuclear processes and nuclear data
 cstheory:
   pages: cstheory
   desc: Computer Science Theory
@@ -64,6 +70,9 @@ cs-al:
 cs-lo:
   pages: cs-lo,cstheory
   desc: Logic, formal languages and automata
+cs-op:
+  pages: cs-op,cstheory
+  desc: Discrete and combinatorial optimization, (mixed) integer programming
 cs-oh:
   pages: cs-oh,cstheory
   desc: Temporary category for CS events not yet classified

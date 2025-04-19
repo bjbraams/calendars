@@ -6,13 +6,7 @@
 
 2025-04-30 to 05-02: [5th IMA and OR Society Conference on Mathematics of Operational Research](https://ima.org.uk/24367/5th-ima-and-or-society-conference-on-mathematics-of-operational-research/), Birmingham, UK.
 
-2025-05-08 to 10: [38th Conference of the European Chapter on Combinatorial Optimization (ECCO 2025)](https://ecco2025.sciencesconf.org), Marrakech, Morocco.
-
 2025-06-02 to 06: [International School and Conference on Network Science (NetSci 2025](https://netsci2025.github.io), Maastricht, The Netherlands.
-
-2025-06-03 to 06: [22nd Mixed Integer Programming Workshop (MIP 2025)](https://mixedinteger.org/2025/), Minneapolis, MN, USA.
-
-**2025-06-11 to 13: [26th Conference on Integer Programming and Combinatorial Optimization (IPCO 2025)](https://ipco25.cs.jhu.edu), Baltimore, MD, USA**.
 
 2025-06-11 to 14: [Workshop on Optimization, Dynamics and Convex Analysis (WODCA)](https://sites.google.com/view/wodca2025), Aveiro, Portugal.
 
@@ -25,8 +19,6 @@
 2025-06-22 to 25: [34th European Conference on Operational Research (EURO 2025)](https://euro2025leeds.uk), Leeds, UK.
 
 2025-06-29 to 07-02: [22nd EUROPT Conference on Advances in Continuous Optimization (EUROPT 2025)](https://europt2025.org), Southampton, UK.
-
-2025-07-01 to 03: [Mixed Integer Programming European Workshop (EUROMIP 2025)](https://mixedinteger.org/EUROMIP/2025/), Clermont-Ferrand, France.
 
 2025-07-14 to 18: [Genetic and Evolutionary Computation Conference (GECCO 2025)](https://gecco-2025.sigevo.org/), Málaga, Spain.
 
@@ -49,8 +41,6 @@
 2025-10-08 to 10: [12th International Conference of Networks, Games, Control and Optimization (NETGCOOP 2025)](https://netgcoop2025.univ-avignon.fr), Bilbao, Spain.
 
 2025-11-10 to 14: [13th Latin American Algorithms, Graphs, and Optimization Symposium (LAGOS 2025)](https://lagos.mat.br/lagos2025), Buenos Aires, Argentina.
-
-2025-12-09 to 12: [Mixed Integer Programming Workshop South America 2025](https://mixedinteger.org/MIPSouthAmerica/2025/), Viña del Mar, Chile.
 
 2026-02-17 to 20: [International School and Conference on Network Science (NetSciX 2026)](https://netscix2026.github.io), Auckland, New Zealand.
 

@@ -5,7 +5,7 @@
 
 {% assign baseurl = "https://bjbraams.github.io/calendars" %}
 
-{% assign pagelist = "comp-in,comp-ml,comp-na,comp-op,comp-qc,comp-uq,cs-al,nuclear,plas-ph,plas-ig,plas-am,plas-pm,stat-th,stat-ml,stat-me,stoch,qchem,qmat,qmol,qsde,qsdm,light,ultrafast,spintronics" | split: "," %}
+{% assign pagelist = "comp-fd,comp-hp,comp-in,comp-ml,comp-na,comp-op,comp-qc,comp-uq,cs-al,cs-lo,cs-op,cs-oh,nuclear,plas-ph,plas-ig,plas-am,plas-pm,stat-th,stat-ml,stat-me,prob,stoch,qchem,qmat,qmol,qsde,qsdm,light,ultrafast,spintronics" | split: "," %}
 
 ## Work in Progress
 

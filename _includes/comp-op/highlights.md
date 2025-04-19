@@ -1,5 +1,3 @@
-**2025-06-11 to 13: [26th Conference on Integer Programming and Combinatorial Optimization (IPCO 2025)](https://ipco25.cs.jhu.edu), Baltimore, MD, USA**.
-
 **2025-07-19 to 24: [8th International Conference on Continuous Optimization (ICCOPT 2025)](https://sites.google.com/view/iccopt2025), Los Angeles, CA, USA**.
 
 **2025-07-28 to 08-01: [17th Conference on Stochastic Programming](https://icsp2025.org), Paris, France**.

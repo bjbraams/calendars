@@ -16,6 +16,8 @@
 
 2025-07-14 to 16: [CECAM Flagship Workshop on Biomolecular Dynamics in the Age of Machine Learning](https://cecam.org/workshop-details/biomolecular-dynamics-in-the-age-of-machine-learning-1442), Chicago, IL, USA.
 
+2025-07-14 to 18: [IPAM Workshop Sampling, Inference, and Data-Driven Physical Modeling in Scientific Machine Learning](https://ipam.ucla.edu/programs/workshops/sampling-inference-and-data-driven-physical-modeling-in-scientific-machine-learning-2/), Los Angeles, CA, USA.
+
 2025-08-04 to 08: [5th International Conference on Mathematical and Scientific Machine Learning (MSML 2025)](https://sites.google.com/view/msml2025/home), Naples, Italy.
 
 2025-08-17 to 22: [Oberwolfach Workshop on Computation and Learning in High Dimensions](https://mfo.de/occasion/2534/www_view), Oberwolfach, Germany.

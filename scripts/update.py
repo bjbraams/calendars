@@ -25,10 +25,13 @@ f0 = open("_data"+"/"+fn+".csv")
 targets = {}
 while line := f0.readline()[:-1]:
     x = line.split("|")
-    if len(x) != 5:
+    if len(x) != 6:
         print(line)
     else:
-        a = x[0]+": "+x[1]+", "+x[2]
-        b = (". "+x[3] if x[3] else "")+"."
+        if x[2]:
+            a = x[0]+": ["+x[1]+"]("+x[2]+"), "+x[3]
+        else:
+            a = x[0]+": "+x[1]+", "+x[3]
+        b = (". "+x[4] if x[4] else "")+"."
         for y in x[-1].split(","):
             process(a,b,y)

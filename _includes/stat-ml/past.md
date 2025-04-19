@@ -12,5 +12,7 @@
 
 2025-03-23 to 28: [Oberwolfach Workshop on Frontiers of Statistics and Machine Learning](https://mfo.de/occasion/2513/www_view), Oberwolfach, Germany.
 
+2025-04-02 to 04: [(3rd Workshop on) Reinforcement Learning for Autonomous Accelerators (RL4AA 2025)](https://rl4aa.github.io/RL4AA25/), Hamburg, Germany.
+
 2025-04-05 to 06: [IEEE 4th International Conference on Computing and Machine Intelligence (ICMI 2025)](https://icmiconf.com), Mount Pleasant, MI, USA.
 

@@ -18,7 +18,7 @@
 
 **2025-06-22 to 27: [16th Nuclear Data for Science and Technology Conference (ND 2025)](https://nd2025madrid.com), Madrid, Spain**.
 
-**2025-07-01 to 06: [75th International Conference “Nucleus-2025. Nuclear physics, elementary particle physics, and nuclear technologies”](https://indico.spbu.ru/event/1/), Saint Petersburg, Russia**.
+**2025-07-01 to 06: [75th International Conference Nucleus-2025 - Nuclear physics, elementary particle physics, and nuclear technologies](https://indico.spbu.ru/event/1/), Saint Petersburg, Russia**.
 
 2025-07-14 to 18: [ECTstar Workshop on Next Generation Ab Initio Nuclear Theory](https://indico.ectstar.eu/event/238/), Trento, Italy.
 
