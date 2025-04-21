@@ -3,7 +3,7 @@
   <link rel="stylesheet" href="assets/style.css">
 </head>
 
-# {{Latest Finds}}
+# Latest Finds
 
 These events are scheduled to appear on the topical pages.
 
