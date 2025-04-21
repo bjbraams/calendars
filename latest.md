@@ -1,3 +1,18 @@
+<head>
+  <meta charset="UTF-8">
+  <link rel="stylesheet" href="assets/style.css">
+</head>
+
+# {{Latest Finds}}
+
+These events are scheduled to appear on the topical pages.
+
 {% for event in site.data.latest %}
-- dates: {{ event.dates }}, name: {{ event.name }}
+
+{{event.dates}}:
+{% if event.link %} [{{event.name}}]({{event.link}}) {% else %} {{event.name}} {% endif %},
+{{event.loc}}.
+{% if event.more %} {{event.more}}.
+{% if event.pages %} {{event.pages}}.
+
 {% endfor %}
