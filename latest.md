@@ -7,12 +7,12 @@
 
 These events are scheduled to appear on the topical pages.
 
-{% for event in site.data.latest %}
+{%for event in site.data.latest%}
 
 {{event.dates}}:
-{% if event.link %} [{{event.name}}]({{event.link}}) {% else %} {{event.name}} {% endif %},
+{%if event.link%} [{{event.name}}]({{event.link}}) {%else%} {{event.name}}{%endif%},
 {{event.loc}}.
 {% if event.more %} {{event.more}}.{% endif %}
 {% if event.pages %} {{event.pages}}.{% endif %}
 
-{% endfor %}
+{%endfor%}
