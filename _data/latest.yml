@@ -2,5 +2,9 @@
   name: 2nd ITER Private Sector Fusion Workshop
   link: https://indico.iter.org/event/529/
   loc: Cadarache, France
+  more: \[example](www.example.com)
   pages: plas-ph
-  
+- dates: '2025-04-22'
+  name: \[2nd ITER Private Sector Fusion Workshop](https://indico.iter.org/event/529/)
+  loc: Cadarache, France
+  pages: plas-ph
