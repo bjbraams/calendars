@@ -30,6 +30,8 @@
 
 2025-08-04 to 07: [15th International Conference on Numerical Optimization and Numerical Linear Algebra (ICNONLA 2025)](https://lsec.cc.ac.cn/~icnonla25), Harbin, China.
 
+2025-08-07 to 08: [Workshop on AI-based Optimisation (AI-OPT 2025)](https://optima.org.au/2025-workshop-on-ai-based-optimisation-ai-opt-2025/), Melbourne, Australia.
+
 2025-08-10 to 15: [31st International Conference on Principles and Practice of Constraint Programming](https://cp2025.a4cp.org), Glasgow, UK.
 
 2025-09-01 to 04: [International Conference on Optimization and Decision Science (ODS 2025)](https://airoconference.it/ods2025), Milan, Italy.

@@ -1,3 +1,487 @@
+- dates: 2025-01-07 to 10
+  name: 16th Innovations in Theoretical Computer Science Conference (ITCS 2025)
+  link: http://itcs-conf.org
+  loc: New York City, NY, USA
+  pages: cs-al
+- dates: 2025-01-08 to 10
+  name: '22nd International Workshop on Computational Physics and Materials Science: Total Energy and Force Methods'
+  link: https://indico.ictp.it/event/10815/
+  loc: ICTP, Trieste, Italy
+  pages: qmat
+- dates: 2025-01-08 to 10
+  name: RSC Spectroscopy and Dynamics Group Annual Meeting (SDG 2025)
+  link: https://shop.le.ac.uk/conferences-and-events/leicester-conferences/spectroscopy-annual-meeting
+  loc: Leicester, UK
+  pages: qmol
+- dates: 2025-01-08 to 11
+  name: 24th National Conference on Atomic and Molecular Physics (NCAMP 2025)
+  link: https://www.isamp.in/society-activities/conferences
+  loc: Dhanbad, India
+  pages: plas-ig
+- dates: 2025-01-12 to 15
+  name: SIAM Symposium on Discrete Algorithms (SODA 2025)
+  link: https://siam.org/conferences-events/siam-conferences/soda25/
+  loc: New Orleans, LA, USA
+  pages: cs-al
+- dates: 2025-01-12 to 17
+  name: Physics of AI Algorithms (PHAIA 2025)
+  link: https://houches-school-physics.com/program/program-2025/physics-of-ai-algorithms-phaia-2025-1479852.kjsp
+  loc: Les Houches, France
+  pages: stat-th
+- dates: 2025-01-14 to 17
+  name: International School and Conference on Network Science (NetSciX 2025)
+  link: https://netscix2025.iiti.ac.in
+  loc: Indore, India
+  pages: comp-op
+- dates: 2025-01-17 to 18
+  name: Computational Methods in Bayesian Statistics University of Florida Department of Statistics' Annual Winter Workshop
+  link: https://stat.ufl.edu/winter-workshop/2025-computational-methods-in-bayesian-statistics/
+  loc: Gainesville, FL, USA
+  pages: stat-th
+- dates: 2025-01-19 to 25
+  name: 5th International Workshop on Programming Languages for Quantum Computing (PLanQC 2025)
+  link: https://popl25.sigplan.org/home/planqc-2025
+  loc: Denver, CO, USA
+  pages: comp-qc
+- dates: 2025-01-20 to 23
+  name: 17th Latin American Workshop on Plasma Physics
+  link: http://fis.puc.cl/~lawpp/
+  loc: Santiago, Chile
+  pages: plas-am,plas-ph
+- dates: 2025-01-26 to 02-01
+  name: 45th International Workshop on High Energy Density Physics with Intense Ion and Laser Beams
+  link: https://indico.gsi.de/event/19829/
+  loc: Hirschegg, Germany
+  pages: plas-am
+- dates: 2025-01-27 to 31
+  name: 61st International Winter Meeting on Nuclear Physics (Bormio 2025)
+  link: https://bormiomeeting.com
+  loc: Bormio, Italy
+  pages: nuclear
+- dates: 2025-01-27 to 31
+  name: Workshop on Machine Learning for Analysis of High-Energy Cosmic Particles
+  link: https://events.icecube.wisc.edu/event/243/
+  loc: Newark, DE, USA
+  pages: comp-ml
+- dates: 2025-01-28 to 30
+  name: 32nd European Fusion Programme Workshop (EFPW 2025)
+  link: https://indico.euro-fusion.org/category/381/
+  loc: Granada, Spain
+  pages: plas-ph
+- dates: 2025-01-30 to 02-01
+  name: International Conference on Applied Probability, Statistics and Stochastic Processes (ICAPSSP 2025)
+  link: https://sites.google.com/nitc.ac.in/icapssp25/
+  loc: Calicut, India and Online
+  pages: stat-th,stoch
+- dates: 2025-01-31 to 02-05
+  name: 25th Symposium on Applications of Plasma Processes (SAPP 2025) and 14th EU-Japan Joint Symposium on Plasma Processing
+  link: https://neon.dpp.fmph.uniba.sk/sapp/
+  loc: Štrbské Pleso, Slovakia
+  pages: plas-ig
+- dates: 2025-02-02 to 06
+  name: Society for Imaging Science and Technology Computational Imaging Conference XXIII
+  link: https://imaging.org/IST/Conferences/EI/EI2025/Conference/C_COIMG.aspx
+  loc: Burlingame, CA, USA
+  pages: comp-in
+- dates: 2025-02-03 to 05
+  name: International Conference on Multigrid and Multiscale Methods in Computational Science (IMG 2025)
+  link: https://kaust.edu.sa/html/img25/
+  loc: King Abdullah University of Science and Technology, Thuwal, Saudi Arabia
+  pages: comp-na
+- dates: 2025-02-09 to 14
+  name: Conference on Artificial Intelligence and Quantum Science (AI+Quantum)
+  link: https://sites.google.com/view/quai-acp-2025/home
+  loc: Aspen, CO, USA
+  pages: stat-ml
+- dates: 2025-02-09 to 14
+  name: Workshop on Stochastic Equations and Stochastic Dynamics
+  link: https://indico.global/event/9635/
+  loc: Les Diablerets, Switzerland
+  pages: stoch
+- dates: 2025-02-10 to 13
+  name: Workshop for Applied Nuclear Data Activities (WANDA 2025)
+  link: https://conferences.lbl.gov/event/1816/
+  loc: Arlington, VA, USA
+  more: (May need to use [web archive](https://web.archive.org/web/20250306190719/https://conferences.lbl.gov/event/1816/).)
+  pages: +nuclear
+- dates: 2025-02-16 to 20
+  name: SPIE Medical Imaging 2025
+  link: https://spie.org/conferences-and-exhibitions/medical-imaging
+  loc: San Diego, CA, USA
+  pages: comp-in
+- dates: 2025-02-16 to 21
+  name: Oberwolfach Mini-Workshop on New Directions in Correlated Quantum Systems
+  link: https://mfo.de/occasion/2508a/www_view
+  loc: Oberwolfach, Germany
+  pages: qmat
+- dates: 2025-02-16 to 21
+  name: Workshop on Uncertainty Quantification in Neural Network Models (BIRS 25w5381)
+  link: https://birs.ca/events/2025/5-day-workshops/25w5381
+  loc: Banff, AB, Canada
+  pages: comp-uq
+- dates: 2025-02-16 to 22
+  name: ITAMP 2025 Winter School on Quantum Revolution in AMO Sciences
+  link: https://lweb.cfa.harvard.edu/itamp-event/2025-winter-school-quantum-revolution-amo-sciences
+  loc: Biosphere 2, Oracle, AZ, USA
+  pages: qchem
+- dates: 2025-02-17 to 21
+  name: 3rd IACM Digital Twins in Engineering Conference (DTE 2025) and 1st ECCOMAS Artificial Intelligence and Computational Methods in Applied Science (AICOMAS 2025)
+  link: https://dte_aicomas_2025.iacm.info
+  loc: Paris, France
+  pages: comp-ml
+- dates: 2025-02-17 to 21
+  name: 6th Workshop on Algebraic Structures in Quantum Computation
+  link: https://itp.uni-hannover.de/en/asqc6
+  loc: Hannover, Germany
+  pages: comp-qc
+- dates: 2025-02-17 to 21
+  name: ECTstar workshop on Key Reactions in Nuclear Astrophysics
+  link: https://indico.ectstar.eu/event/228/
+  loc: Trento, Italy
+  more: See [also](https://x.com/EctTrento)
+  pages: nuclear
+- dates: 2025-02-17 to 21
+  name: Workshop on Stochastic Processes on Random Geometries
+  link: https://tu-braunschweig.de/stochastik/aktuell/workshops
+  loc: Braunschweig, Germany
+  pages: stoch
+- dates: 2025-02-19 to 20
+  name: 4th Quantum Matters in Materials Science Workshop (QMMS 2025)
+  link: https://nist.gov/news-events/events/2025/02/quantum-matters-material-sciences-qmms
+  loc: NIST, Gaithersburg, MD, USA
+  pages: qmat
+- dates: 2025-02-23 to 28
+  name: 64th Sanibel Symposium (on quantum chemical theory)
+  link: https://sanibelsymposium.qtp.ufl.edu
+  loc: St. Augustine Beach, FL, USA
+  pages: qchem
+- dates: 2025-02-23 to 28
+  name: 'Oberwolfach Workshop on Data Assimilation: From Mathematical and Statistical Foundations to Applications'
+  link: https://www.mfo.de/occasion/2509a/www_view
+  loc: Oberwolfach, Germany
+  pages: stat-th
+- dates: 2025-02-24 to 03-07
+  name: Workshop Modeling Complex (Astro)Chemical Systems - Astrochemistry meets Data Science
+  link: https://munich-iapbp.de/activities/activities-2025/astrochemical-systems
+  loc: Garching/Munich, Germany
+  pages: plas-ig
+- dates: 2025-02-24 to 26
+  name: IMSI Workshop Uncertainty Quantification Strategies for Multi-Physics Systems and Digital Twins
+  link: https://imsi.institute/activities/uncertainty-quantification-strategies-for-multi-physics-systems-and-digital-twins/
+  loc: Chicago, IL, USA
+  pages: comp-uq
+- dates: 2025-02-24 to 27
+  name: 16th Conference of Young Researchers in Atomic and Molecular Physics (J2IFAM 2025)
+  link: https://j2ifam2025.uva.es
+  loc: Valladolid, Spain
+  pages: qmol
+- dates: 2025-02-24 to 27
+  name: 36th International Conference on Algorithmic Learning Theory (ALT 2025)
+  link: http://algorithmiclearningtheory.org/alt2025/
+  loc: Milan, Italy
+  pages: stat-ml
+- dates: 2025-02-24 to 28
+  name: Conference on Mathematics of Wave Phenomena 2025
+  link: https://conference25.waves.kit.edu
+  loc: Karlsruhe, Germany
+  pages: comp-na
+- dates: 2025-02-24 to 28
+  name: Extreme Atomic Physics Workshop (EAS 2025)
+  link: https://pks.mpg.de/~eas/
+  loc: Riezlern, Kleinwalsertal, Austria
+  pages: plas-am
+- dates: 2025-02-24 to 28
+  name: International Workshop on Machine Learning for Quantum Matter
+  link: https://pks.mpg.de/mlqmat25
+  loc: Dresden, Germany
+  pages: qmat
+- dates: 2025-02-24 to 28
+  name: NUSTAR Annual meeting 2025
+  link: https://indico.gsi.de/event/20773/
+  loc: Darmstadt, Germany
+  pages: nuclear
+- dates: 2025-02-25 to 03-04
+  name: 39th Annual AAAI Conference on Artificial Intelligence (AAAI 2025)
+  link: https://aaai.org/conference/aaai/aaai-25/
+  loc: Philadelphia, PA, USA
+  pages: stat-ml
+- dates: 2025-02-25 to 26
+  name: Fusion Industry Association Annual Policy Conference (FIA 2025)
+  link: https://fusionindustryassociation.org/fia-annual-conference-2025/
+  loc: Washington, DC, USA
+  more: See [also](https://x.com/Fusion_Industry)
+  pages: plas-ph
+- dates: 2025-02-25 to 28
+  name: Conference on Data Analysis (CoDA 2025)
+  link: https://web.cvent.com/event/7845571b-b15d-418c-a24a-14468480c4ff/
+  loc: Santa Fe, NM, USA
+  pages: stat-ml
+- dates: 2025-03-01 to 05
+  name: ACM SIGPLAN Symposium on Principles and Practice of Parallel Programming (PPoPP 2025)
+  link: https://ppopp25.sigplan.org
+  loc: Las Vegas, NV, USA
+  pages: comp-hp
+- dates: 2025-03-03 to 04
+  name: Workshop on Algorithms, Complexity and Logic (“Theorietag”)
+  link: https://stacs2025.de/workshop/
+  loc: Jena, Germany
+  more: (In association with [STACS 2025](https://stacs2025.de).)
+  pages: cs-al
+- dates: 2025-03-03 to 05
+  name: Okinawa Institute of Science and Technology Machine Learning Workshop (OMLW 2025)
+  link: https://omlw2025.mlds.jp
+  loc: Okinawa, Japan
+  pages: stat-ml
+- dates: 2025-03-03 to 06
+  name: CECAM Flagship Workshop Density Functional Theory and Artificial Intelligence learning from each other
+  link: https://cecam.org/workshop-details/density-functional-theory-and-artificial-intelligence-learning-from-each-other-1281
+  loc: Lausanne, Switzerland
+  pages: qmat
+- dates: 2025-03-03 to 07
+  name: International Conference on Scientific Computing and Machine Learning (SCML 2025)
+  link: https://scml.jp
+  loc: Kyoto, Japan and online
+  pages: stat-ml
+- dates: 2025-03-03 to 07
+  name: SIAM Conference on Computational Science and Engineering (CSE 2025)
+  link: https://siam.org/conferences-events/siam-conferences/cse25/
+  loc: Fort Worth, TX, USA
+  pages: comp-na
+- dates: 2025-03-03 to 14
+  name: CeNAM Nucleosynthesis Uncertainties Workshop
+  link: https://sites.google.com/view/nucleosynthesis-uncertainties
+  loc: Seattle, WA, USA
+  pages: nuclear
+- dates: 2025-03-04 to 06
+  name: International Conference on Optimization (SIGOPT 2025)
+  link: https://sigopt2025.uni-siegen.de
+  loc: Siegen, Germany
+  pages: comp-op
+- dates: 2025-03-04 to 07
+  name: 42nd International Symposium on Theoretical Aspects of Computer Science (STACS 2025)
+  link: https://stacs2025.de
+  loc: Jena, Germany
+  pages: cs-al
+- dates: 2025-03-04 to 08
+  name: 45th International Joint Workshop on Infinite Dimensional Analysis, Quantum Probability and Related Topics (QP 2025) and Quantum Bio-Informatics (QBIC 2025)
+  link: https://sites.google.com/view/qp45-qbic2025
+  loc: Tokyo, Japan
+  pages: prob
+- dates: 2025-03-09 to 12
+  name: Mesilla Chemistry Workshop 2025 Machine Learning in Molecular and Multiscale Dynamics
+  link: https://chemistry.nmsu.edu/mesilla-chemistry-workshop/meeting-2025.html
+  loc: Mesilla, NM, USA
+  pages: qmat
+- dates: 2025-03-09 to 14
+  name: Oberwolfach Workshop on Mathematical Methods in Quantum Chemistry
+  link: https://mfo.de/occasion/2511/www_view
+  loc: Oberwolfach, Germany
+  pages: qchem
+- dates: 2025-03-09 to 14
+  name: Workshop on Efficient Approximate Bayesian Inference (BIRS 25w5335)
+  link: https://birs.ca/events/2025/5-day-workshops/25w5335
+  loc: Banff, AB, Canada
+  pages: stat-th
+- dates: 2025-03-11 to 13
+  name: Synergies of Machine Learning and Numerics
+  link: https://conf.rupp.ink/osaka25/
+  loc: Osaka, Japan
+  pages: comp-ml
+- dates: 2025-03-11 to 14
+  name: 17th German Probability and Statistics Days (GPSD 2025)
+  link: https://gpsd-2025.de
+  loc: Dresden, Germany
+  pages: stoch
+- dates: 2025-03-11 to 14
+  name: WE-Heraeus Seminar on Operator Theory and Polynomial Optimization in Quantum Information Theory
+  link: https://we-heraeus-stiftung.de/veranstaltungen/operator-theory-and-polynomial-optimization-in-quantum-information-theory/
+  loc: Bad Honnef, Germany
+  pages: comp-qc
+- dates: 2025-03-12 to 13
+  name: Nuclear Physics in Plasma Environments
+  link: https://iop.eventsair.com/nppe2025/
+  loc: London, UK
+  pages: nuclear
+- dates: 2025-03-17 to 21
+  name: Quantum Resources 2025
+  link: https://2025.quantumresources.science/
+  loc: Jeju Island, Korea
+  pages: comp-qc
+- dates: '2025-03-18'
+  name: 1st Open Source Software for Fusion Energy (OSSFE 2025)
+  link: https://ossfe.github.io
+  loc: Online
+  pages: plas-ph
+- dates: 2025-03-19 to 22
+  name: Seminar on Stochastic Processes (SSP 2025)
+  link: https://ssp.stat.indiana.edu
+  loc: Bloomington, IN, USA
+  pages: stoch
+- dates: 2025-03-22 to 23
+  name: Deep Reconstruction Workshop 2025
+  link: https://aiai.jhu.edu/deep_reconstruction_workshop_2025/
+  loc: Baltimore, MD, USA
+  pages: comp-in
+- dates: 2025-03-23 to 28
+  name: Dagstuhl Seminar 25132 Approximation Algorithms for Stochastic Optimization
+  link: https://dagstuhl.de/25132
+  loc: Wadern, Germany
+  pages: cs-al
+- dates: 2025-03-23 to 28
+  name: Oberwolfach Workshop on Frontiers of Statistics and Machine Learning
+  link: https://mfo.de/occasion/2513/www_view
+  loc: Oberwolfach, Germany
+  pages: stat-ml
+- dates: 2025-03-24 to 26
+  name: 1st Annual Meeting of EMS-AI activity group on Scientific Machine Learning
+  link: https://mate.polimi.it/events/EMS-TAG-SciML-25/
+  loc: Milan, Italy
+  pages: comp-ml
+- dates: 2025-03-24 to 28
+  name: Conference AI4Quantum - Accelerating Quantum Computing with AI
+  link: https://sciencecluster.dk/event/conference-ai4quantum/
+  loc: Hillerød, Denmark
+  pages: comp-qc
+- dates: 2025-03-27 to 28
+  name: Symposium Can Ice Be Described from First Principles?
+  link: https://cas-nor.no/index.php/events/young-cas-fellow-symposium-can-ice-be-described-first-principles
+  loc: Oslo, Norway
+  pages: qchem
+- dates: 2025-03-31 to 04-02
+  name: 37th Molecular Modeling Workshop (MMWS 2025)
+  link: https://mmws2025.mgms-ds.de
+  loc: Erlangen, Germany
+  pages: qmol
+- dates: 2025-03-31 to 04-02
+  name: 6th Manchester Multiscale Conference by CCPBioSim and CCP5
+  link: https://ccpbiosim.ac.uk/multiscale2025
+  loc: Manchester, UK
+  pages: comp-fd
+- dates: 2025-03-31 to 04-02
+  name: International Conference on Quantum Communications, Networking, and Computing (QCNC 2025)
+  link: https://ieee-qcnc.org/2025/
+  loc: Nara, Japan
+  pages: comp-qc
+- dates: 2025-03-31 to 04-03
+  name: 'CECAM Flagship Workshop Fulfilling the Multiscale Promise in Materials: Getting Information out of the Atomistic Scale'
+  link: https://cecam.org/workshop-details/fulfilling-the-multiscale-promise-in-materials-getting-information-out-of-the-atomistic-scale-1283
+  loc: Lausanne, Switzerland & online
+  pages: qmat
+- dates: 2025-03-31 to 04-04
+  name: 8th Workshop on Algebraic Complexity Theory (WACT 2025)
+  link: https://qi.rub.de/wact
+  loc: Bochum, Germany
+  pages: cs-al
+- dates: 2025-03-31 to 04-04
+  name: IMSI Workshop Kernel Methods in Uncertainty Quantification and Experimental Design
+  link: https://imsi.institute/activities/kernel-methods-in-uncertainty-quantification-and-experimental-design/
+  loc: Chicago, IL, USA
+  pages: comp-uq
+- dates: 2025-04-02 to 04
+  name: (3rd Workshop on) Reinforcement Learning for Autonomous Accelerators (RL4AA 2025)
+  link: https://rl4aa.github.io/RL4AA25/
+  loc: Hamburg, Germany
+  pages: stat-ml
+- dates: 2025-04-05 to 06
+  name: IEEE 4th International Conference on Computing and Machine Intelligence (ICMI 2025)
+  link: https://icmiconf.com
+  loc: Mount Pleasant, MI, USA
+  pages: stat-ml
+- dates: 2025-04-07 to 09
+  name: Stochastic Equations and Particle Systems, Mathematical Models in Statistical Physics
+  link: https://www1.mat.uniroma1.it/people/bertini/seps
+  loc: Rome, Italy
+  pages: stoch
+- dates: 2025-04-07 to 09
+  name: Workshop On Randomness and Discrete Structures (WORDS 2025)
+  link: https://sites.google.com/rug.nl/words2025/
+  loc: Groningen, The Netherlands
+  pages: cs-al
+- dates: 2025-04-07 to 10
+  name: 51st Annual IOP Plasma Physics Conference
+  link: https://iop.eventsair.com/plasma2025/
+  loc: London, UK
+  pages: plas-ph
+- dates: 2025-04-07 to 10
+  name: 6th European Conference on Plasma Diagnostics (ECPD 2025)
+  link: https://indico.ipp.cas.cz/event/30/
+  loc: Prague, Czech Republic
+  pages: plas-ph
+- dates: 2025-04-07 to 11
+  name: ICMS Workshop on Numerical Modelling of Nonlinear Stochastic Systems
+  link: https://icms.org.uk/workshops/2025/numerical-modelling-nonlinear-stochastic-systems
+  loc: Edinburgh, UK
+  pages: stoch
+- dates: 2025-04-07 to 11
+  name: Inertial Fusion Energy Science and Technology Accelerated Research (IFE-STAR) Conference
+  link: https://events.bizzabo.com/IFESTAR
+  loc: Breckenridge, CO, USA
+  pages: plas-am
+- dates: 2025-04-07 to 18
+  name: '10th CECAM School and Workshop on Time-Dependent Density-Functional Theory: Prospects and Applications'
+  link: https://cecam.org/workshop-details/10th-school-and-workshop-on-time-dependent-density-functional-theory-prospects-and-applications-1340
+  loc: Benasque, Spain
+  pages: qmat
+- dates: 2025-04-08 to 11
+  name: 3rd Joint ECFA-NuPECC-ApPEC Symposium (JENAS 2025)
+  link: https://indico.global/event/5574/
+  loc: Didcot, Oxfordshire, UK
+  pages: nuclear
+- dates: 2025-04-08 to 11
+  name: 5th ICFA Beam Dynamics Mini-Workshop on Machine Learning for Particle Accelerators
+  link: https://indico.cern.ch/event/1382428/
+  loc: Geneva, Switzerland
+  pages: comp-ml
+- dates: 2025-04-09 to 11
+  name: 4th Probability, Analysis and Dynamics conference (PAD 2025)
+  link: https://people.maths.bris.ac.uk/~mb13434/pad25/
+  loc: Bristol, UK
+  pages: prob
+- dates: 2025-04-13 to 17
+  name: 22nd Copper Mountain Conference on Multigrid Methods
+  link: https://grandmaster.colorado.edu/copper/2025/
+  loc: Copper Mountain, CO, USA
+  pages: comp-na
+- dates: 2025-04-14 to 17
+  name: IEEE International Symposium on Biomedical Imaging (ISBI 2025)
+  link: https://biomedicalimaging.org/2025/
+  loc: Houston, TX, USA
+  pages: comp-in
+- dates: 2025-04-15 to 18
+  name: 12th International Workshop on Warm Dense Matter (WDM 2025)
+  link: https://sandia.gov/wdm/
+  loc: Santa Fe, NM, USA
+  pages: +plas-am
+- dates: 2025-04-20 to 25
+  name: 'BIRS Workshop Frontiers in Quantum Cryptography: New Functionalities, Primitives, and Foundations'
+  link: https://www.birs.ca/events/2025/5-day-workshops/25w5445
+  loc: Banff, AB, Canada
+  pages: cs-qc
+- dates: 2025-04-20 to 25
+  name: Oberwolfach Workshop on Uncertainty Quantification
+  link: https://mfo.de/occasion/2517/www_view
+  loc: Oberwolfach, Germany
+  pages: comp-uq
+- dates: 2025-04-21 to 25
+  name: 11th Conference of the Asia-Pacific Association of Theoretical and Computational Chemists (APATCC 2025)
+  link: https://apatcc11.jp
+  loc: Kobe, Japan
+  pages: qchem
+- dates: 2025-04-21 to 25
+  name: CECAM Flagship Workshop Future directions in non-equilibrium statistical physics
+  link: https://cecam.org/workshop-details/future-directions-in-non-equilibrium-statistical-physics-1395
+  loc: Beijing, China
+  pages: stoch
+- dates: 2025-04-21 to 25
+  name: IMSI Workshop Uncertainty Quantification for Material Science and Engineering
+  link: https://imsi.institute/activities/uncertainty-quantification-and-ai-for-complex-systems/uncertainty-quantification-for-material-science-and-engineering/
+  loc: Chicago, IL, USA
+  pages: comp-uq
+- dates: 2025-04-22 to 23
+  name: 2nd ITER Private Sector Fusion Workshop
+  link: https://indico.iter.org/event/529/
+  loc: Cadarache, France
+  pages: plas-ph
 - dates: 2025-04-22 to 25
   name: Conference on Analysis and Probability in Infinite Dimensions
   link: https://anaprob2025.com

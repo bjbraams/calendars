@@ -4,9 +4,13 @@
 
 2025-05-12 to 16: [Workshop on Stochastic Thermodynamics (WOST 2025)](https://wostmeeting.org), Online.
 
+2025-05-14: [Kolmogorov Meets Turing 2025; Applications of Stochastic Methods to the Analysis of Algorithms and Complex Systems](https://sites.google.com/view/kmt-2025), Rome, Italy.
+
 2025-05-14 to 16: [CECAM Flagship Workshop on Stochastics processes: Inferences in complex systems](https://cecam.org/workshop-details/stochastics-processes-inferences-in-complex-systems-1390), Lausanne, Switzerland.
 
 2025-06-16 to 20: [Linnaeus Workshop on Stochastic Analysis and Applications (LSAA 2025)](https://lnu.se/en/meet-linnaeus-university/current/events/2025/konferenser/lsaa25/), Växjö, Sweden.
+
+2025-06-16 to 20: [YMCN Summer School in Interacting Random Systems](https://www.uni-muenster.de/MathematicsMuenster/events/2025/ymcn_summer-school_irs.shtml), Münster, Germany.
 
 2025-06-23 to 27: [Workshop on Stochastic Interacting Particle Systems and Random Matrices](https://erdoscenter.renyi.hu/events/workshop-stochastic-interacting-particle-systems-and-random-matrices), Budapest, Hungary.
 

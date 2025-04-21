@@ -26,6 +26,8 @@
 
 2025-07-07 to 11: [Quantum Thermodynamics Conference (QTD 2025)](https://qtd2025.quantumlah.org), Singapore.
 
+2025-07-09 to 10: [6th Artificial Intelligence for Materials Science Workshop (AIMS 2025)](https://www.nist.gov/news-events/events/2025/07/artificial-intelligence-materials-science-aims-workshop), Gaithersburg, MD, USA.
+
 2025-07-20 to 25: [Gordon Research Conference Dynamics at Surfaces](https://grc.org/dynamics-at-surfaces-conference/2025/), Holderness, NH, USA.
 
 2025-07-21 to 23: [Joint ICTP-WE Heraeus Conference on Non-equilibrium Quantum Statistical Physics (ICTP smr 4090)](https://indico.ictp.it/event/10855), Trieste, Italy.
@@ -51,6 +53,8 @@
 2025-09-29 to 10-03: [Ab Initio Quantum Electrodynamics for Quantum Materials Engineering School](https://events.simonsfoundation.org/event/dd5ef895-f71f-4dee-9d8a-a1382cc28ec8/summary?RefId=Summary), New York City, NY, USA.
 
 2025-10-05 to 10: [Oberwolfach Arbeitsgemeinschaft: Analysis of Many-body Quantum Systems](https://mfo.de/occasion/2541/www_view), Oberwolfach, Germany.
+
+2025-11-05 to 08: [Hands-on Workshop on Electronic-Structure Theory and Artificial Intelligence for Materials Science](https://indico.ms1p.org/event/12/), Shanghai, China.
 
 2025-12-08 to 11: [CECAM Flagship Workshop on Recent advances in first-principles modeling of electron-phonon interactions](https://cecam.org/workshop-details/recent-advances-in-first-principles-modeling-of-electron-phonon-interactions-1383), Lausanne, Switzerland.
 

@@ -10,3 +10,5 @@
 
 2025-04-07 to 10: [6th European Conference on Plasma Diagnostics (ECPD 2025)](https://indico.ipp.cas.cz/event/30/), Prague, Czech Republic.
 
+2025-04-22 to 23: [2nd ITER Private Sector Fusion Workshop](https://indico.iter.org/event/529/), Cadarache, France.
+

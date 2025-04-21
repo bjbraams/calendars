@@ -2,9 +2,17 @@
 
 2025-05-03 to 08: [31st International Conference on Tools and Algorithms for the Construction and Analysis of Systems (TACAS 2025)](https://etaps.org/2025/conferences/tacas/), Hamilton, ON, Canada.
 
+2025-05-14: [Kolmogorov Meets Turing 2025; Applications of Stochastic Methods to the Analysis of Algorithms and Complex Systems](https://sites.google.com/view/kmt-2025), Rome, Italy.
+
+2025-05-26 to 29: [International Federation for Information Processing (IFIP) Networking 2025 Conference (NETWORKING 2025)](https://networking.ifip.org/2025/), Limassol, Cyprus.
+
+2025-06-02 to 04: [32nd International Colloquium On Structural Information and Communication Complexity (SIROCCO 2025)](https://www.torontomu.ca/sirocco-2025/), Delphi, Greece.
+
 2025-06-02 to 06: [Complexity, Algorithms, Automata and Logic Meet (CAALM 2025)](https://caalm-2025.sciencesconf.org), Villetaneuse, France.
 
 2025-06-04 to 06: [10th IGAFIT Highlights of Algorithms Meeting](https://2025.highlightsofalgorithms.org), Zurich, Switzerland.
+
+2025-06-09 to 11: [4th Symposium on Algorithmic Foundations of Dynamic Networks (SAND 2025)](https://sand2025.csc.liv.ac.uk/), Liverpool, UK.
 
 2025-06-10 to 12: [14th International Conference on Algorithms and Complexity (CIAC 2025)](https://easyconferences.eu/ciac2025/), Rome, Italy.
 
@@ -34,6 +42,10 @@
 
 2025-08-11 to 15: [37th Canadian Conference on Computational Geometry (CCCG 2025) and Algorithms and Data Structures Symposium (WADS 2025)](https://cccg-wads-2025.eecs.yorku.ca), Toronto, ON, Canada.
 
+2025-08-13 to 15: [11th IEEE International Conference on Data Science and Systems (DSS 2025)](https://hpcn.exeter.ac.uk/dss2025/), Exeter, UK.
+
+2025-08-25 to 27: [28th Prague Stringology Conference (PSC 2025)](https://www.stringology.org/event/2025/), Prague, Czech Republic.
+
 2025-08-25 to 29: [50th International Symposium on Mathematical Foundations of Computer Science (MFCS 2025)](https://mfcs2025.mimuw.edu.pl), Warsaw, Poland.
 
 2025-09-01 to 02: [Workshop on Random Simplicial Complexes and Hypergraphs (WoSCH 2025)](https://worsch25.github.io), Nottingham, UK.
@@ -45,6 +57,8 @@
 2025-09-15 to 19: [ALGO including European Symposium on Algorithms (ESA) and related conferences and workshops (ALGO 2025)](https://algo-conference.org/2025/), Warsaw, Poland.
 
 2025-09-17 to 19: [International Symposium on Parameterized and Exact Computation (IPEC 2025) in conjunction with ALGO 2025](https://algo-conference.org/2025/), Warsaw, Poland.
+
+2025-09-24 to 26: [33rd International Symposium on Graph Drawing and Network Visualization (GD 2025)](https://graphdrawing.github.io/gd2025/), Norrköping, Sweden.
 
 2025-12-14 to 17: [66th IEEE Symposium on Foundations of Computer Science (FOCS 2025)](https://focs.computer.org/2025/), Sydney, Australia.
 

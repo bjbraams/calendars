@@ -8,6 +8,8 @@
 
 2025-06-08 to 13: [22nd International Conference on Radiation Effects in Insulators (REI 2025)](https://rei22madrid.csic.es), Madrid, Spain.
 
+2025-06-22 to 25: [AVS 25th International Conference on Atomic Layer Deposition (ALD 2025) featuring the 12th International Atomic Layer Etching Workshop (ALE 2025)](https://ald2025.avs.org/), Jeju Island, Korea.
+
 2025-07-27 to 08-01: [Conference on Strongly Coupled Coulomb Systems (SCCS 2025)](https://event.fourwaves.com/sccs2025/), Lake Tahoe, NV, USA.
 
 2025-08-17 to 22: [27th Ion Beam Analysis (IBA) and 19th Particle-Induced  X-ray Emission (PIXE) Joint Conference](https://ibapixe.org), Montreal, QC, Canada.
@@ -31,6 +33,8 @@
 2026-06-21 to 26: [24th International Conference on Ion Beam Modification of Materials (IBMM 2026)](https://helsinki.fi/en/conferences/ibmm-2026), Helsinki, Finland.
 
 2026-08-31 to 09-03: [20th International Conference on Plasma Surface Engineering (PSE 2026)](https://pse-conferences.net), Erfurt, Germany.
+
+2026-08-31 to 09-03: [20th International Conference on Plasma Surface Engineering (PSE 2026)](https://pse-conferences.net/), Erfurt, Germany.
 
 **2026 tbd: 17th conference of COmputer Simulation of IRradiation Effects in Solids (COSIRES), tbd**. \[Search](https://www.google.com/search?q=17th+conference+on+COmputer+Simulation+of+IRradiation+Effects+in+Solids+COSIRES+2026)
 

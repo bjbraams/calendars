@@ -8,6 +8,8 @@
 
 2025-06-04 to 06: [40th Symposium on Chemical Kinetics and Dynamics (SCKD 2025)](http://sckd.jp/40Kobe/index_e.php), Kobe, Japan.
 
+2025-06-08 to 11: [Electronic Structure Workshop (ESW 2025)](https://www.utep.edu/science/electronic-structure-workshop/), El Paso, TX, USA.
+
 2025-06-08 to 13: [13th International Conference on Chemical Kinetics (ICCK 2025)](https://icck2025.lbl.gov), Lake Tahoe, NV, USA.
 
 2025-06-18 to 20: [Current Trends in Electronic-Structure Theory (CTEST 2025)](https://ctest2025.com), Copenhagen, Denmark. Satellite of WATOC 2025
@@ -55,6 +57,8 @@
 2025-09-22 to 26: [Workshop on The determination of Hubbard parameters: progress, pitfalls, and prospects](https://sites.google.com/view/hubbard-workshop-2025/home), Gandia, Spain.
 
 2025-10-15 to 17: [2nd edition of The van der Waals/London Discussions](https://vdwldiscussions.github.io), Luxembourg, Luxembourg.
+
+2025-11-18 to 21: [Advanced Quantum Algorithms for Many-body Problems (AQAM 2025)](https://indico.ijclab.in2p3.fr/event/11479/), Montpellier, France.
 
 2025-12-15 to 20: [International Chemical Congress of Pacific Basin Societies (Pacifichem 2025)](https://pacifichem.org), Honolulu, HI, USA.
 

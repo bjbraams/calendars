@@ -1,5 +1,3 @@
-2025-04-22 to 23: [2nd ITER Private Sector Fusion Workshop](https://indico.iter.org/event/529/), Cadarache, France.
-
 2025-04-23 to 25: [ITER Business Forum (IBF 2025)](https://iterbusinessforum.com/homepage.aspx), Marseille, France.
 
 2025-05-05 to 09: [Fusion Energy Week](https://usfusionenergy.org/fusion-energy-week), Many locations, USA and elsewhere.
@@ -11,6 +9,8 @@
 2025-05-19 to 22: [25th Topical Conference on Radio-Frequency Power in Plasmas (RFPPC 2025)](https://ipp.mpg.de/rfppc2025), Schloss Hohenkammer (near Munich), Germany.
 
 2025-06-02 to 05: [5th Annual MagNetUS Workshop (MagNetUS 2025)](https://magnetus-2025.pa.ucla.edu), Morgantown, WV, USA.
+
+2025-06-05 to 06: [CHIMERAS (Collisionless HIgh-beta Magnetized Experiment Researching Astrophysical Systems) Workshop 2025](https://home.physics.ucla.edu/~sethd/chimeras25wvu/), Morgantown, WV, USA.
 
 2025-06-23 to 27: [IEEE Symposium on Fusion Engineering (SOFE 2025)](https://plasmafusion.eventsair.com/sofe2025/), Cambridge, MA, USA.
 

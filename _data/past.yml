@@ -453,6 +453,11 @@
   loc: Santa Fe, NM, USA
   pages: +plas-am
 - dates: 2025-04-20 to 25
+  name: 'BIRS Workshop Frontiers in Quantum Cryptography: New Functionalities, Primitives, and Foundations'
+  link: https://www.birs.ca/events/2025/5-day-workshops/25w5445
+  loc: Banff, AB, Canada
+  pages: cs-qc
+- dates: 2025-04-20 to 25
   name: Oberwolfach Workshop on Uncertainty Quantification
   link: https://mfo.de/occasion/2517/www_view
   loc: Oberwolfach, Germany
@@ -472,3 +477,8 @@
   link: https://imsi.institute/activities/uncertainty-quantification-and-ai-for-complex-systems/uncertainty-quantification-for-material-science-and-engineering/
   loc: Chicago, IL, USA
   pages: comp-uq
+- dates: 2025-04-22 to 23
+  name: 2nd ITER Private Sector Fusion Workshop
+  link: https://indico.iter.org/event/529/
+  loc: Cadarache, France
+  pages: plas-ph

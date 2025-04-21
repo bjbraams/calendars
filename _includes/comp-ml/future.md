@@ -14,6 +14,8 @@
 
 2025-06-23 to 25: [Workshop for Artificial Intelligence (AI)-Powered Materials Discovery in the Great Plains](https://aimaterialsworkshop.org/event/1/), Vermillion, SD, USA.
 
+2025-06-30 to 07-04: [6th ACM Europe Summer School on Data Science](https://europe.acm.org/seasonal-schools/data-science/2025), Ioannina, Greece.
+
 2025-07-14 to 16: [CECAM Flagship Workshop on Biomolecular Dynamics in the Age of Machine Learning](https://cecam.org/workshop-details/biomolecular-dynamics-in-the-age-of-machine-learning-1442), Chicago, IL, USA.
 
 2025-07-14 to 18: [IPAM Workshop Sampling, Inference, and Data-Driven Physical Modeling in Scientific Machine Learning](https://ipam.ucla.edu/programs/workshops/sampling-inference-and-data-driven-physical-modeling-in-scientific-machine-learning-2/), Los Angeles, CA, USA.
