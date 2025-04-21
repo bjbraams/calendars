@@ -1,5 +1,3 @@
-2025-04-21 to 25: [11th Conference of the Asia-Pacific Association of Theoretical and Computational Chemists (APATCC 2025)](https://apatcc11.jp), Kobe, Japan.
-
 2025-05-05 to 09: [26th Symposium on the Jahn-Teller effect: Vibronic Coupling and Jahn-Teller Effects in Molecules, Solids, and Nanoscale Materials](https://sites.google.com/view/jt26th-2025/), Online.
 
 2025-05-06 to 10: [Global Science Research Center for Systems Chemistry 1st International Symposium: Chemical Dynamics in Materials and Living Systems (GSRC 2025)](https://cdml.cau.ac.kr), Seoul, Korea.
@@ -12,9 +10,9 @@
 
 2025-06-08 to 13: [13th International Conference on Chemical Kinetics (ICCK 2025)](https://icck2025.lbl.gov), Lake Tahoe, NV, USA.
 
-2025-06-18 to 20: [Current Trends in Electronic-Structure Theory (CTEST 2025)](https://ctest2025.com), Copenhagen, Denmark. Satellite of WATOC 2025.
+2025-06-18 to 20: [Current Trends in Electronic-Structure Theory (CTEST 2025)](https://ctest2025.com), Copenhagen, Denmark. Satellite of WATOC 2025
 
-2025-06-18 to 20: [Numerical Methods in Quantum Chemistry Workshop](https://mrchemsoft.no/nmqc-2025/), Berlin, Germany. (Satellite of WATOC.).
+2025-06-18 to 20: [Numerical Methods in Quantum Chemistry Workshop](https://mrchemsoft.no/nmqc-2025/), Berlin, Germany. (Satellite of WATOC.)
 
 2025-06-22 to 27: [13th Triennial Congress of the World Association of Theoretical and Computational Chemists (WATOC 2025)](http://watoc2025.no), Oslo, Norway.
 
@@ -22,7 +20,7 @@
 
 2025-06-25 to 27: [NYC AI4Chemistry Summit 2025](https://wp.nyu.edu/sccpc/nyc-ai4chemistry-summit/), New York, NY, USA.
 
-2025-06-29 to 07-03: [CECAM Conference Reusable libraries for quantum chemistry (ReLibQC 2025)](https://helsinki.fi/en/conferences/reusable-libraries-quantum-chemistry-2025), Majvik, Finland. (Satellite of WATOC 2025.).
+2025-06-29 to 07-03: [CECAM Conference Reusable libraries for quantum chemistry (ReLibQC 2025)](https://helsinki.fi/en/conferences/reusable-libraries-quantum-chemistry-2025), Majvik, Finland. (Satellite of WATOC 2025.)
 
 2025-06-30 to 07-11: [IMSI Summer School Mathematical Introduction to High-Accuracy Electronic Structure Theory](https://imsi.institute/activities/mathematical-introduction-to-high-accuracy-electronic-structure-theory/), Chicago, IL, USA.
 
@@ -60,13 +58,13 @@
 
 2025-12-15 to 20: [International Chemical Congress of Pacific Basin Societies (Pacifichem 2025)](https://pacifichem.org), Honolulu, HI, USA.
 
-2025 Summer tbd: [Workshop on Recent Developments in Electronic Structure Methods (ES 2025)](https://mcc.illinois.edu/workshops/electronicstructure/), El Paso, TX, USA. (Announcement only.).
+2025 Summer tbd: [Workshop on Recent Developments in Electronic Structure Methods (ES 2025)](https://mcc.illinois.edu/workshops/electronicstructure/), El Paso, TX, USA. (Announcement only.)
 
-2025 tbd: [26th Asian Workshop on First-Principles Electronic Structure Calculations (ASIAN)](http://bandstructure.jp/INTRO/bandmape.html), Japan tbd. (Mention only.).
+2025 tbd: [26th Asian Workshop on First-Principles Electronic Structure Calculations (ASIAN)](http://bandstructure.jp/INTRO/bandmape.html), Japan tbd. (Mention only.)
 
-2026 tbd: 12th Workshop on Novel Methods for Electronic Structure Calculations, Argentina. [Search](https://www.google.com/search?q=12th+Workshop+on+Novel+Methods+for+Electronic+Structure+Calculations+Argentina+2026).
+2026 tbd: 12th Workshop on Novel Methods for Electronic Structure Calculations, Argentina. \[Search](https://www.google.com/search?q=12th+Workshop+on+Novel+Methods+for+Electronic+Structure+Calculations+Argentina+2026)
 
-2026 tbd: 31st Canadian Symposium on Theoretical and Computational Chemistry (CSTCC 2026), Ottawa, Canada. [Search](https://www.google.com/search?q=31st+Canadian+Symposium+on+Theoretical+and+Computational+Chemistry+CSTCC+2026).
+2026 tbd: 31st Canadian Symposium on Theoretical and Computational Chemistry (CSTCC 2026), Ottawa, Canada. \[Search](https://www.google.com/search?q=31st+Canadian+Symposium+on+Theoretical+and+Computational+Chemistry+CSTCC+2026)
 
-2027 tbd: 12th Triennial Congress of the International Society of Theoretical Chemical Physics (ISTCP 2027), tbd. [Search](https://www.google.com/search?q=12th+Triennial+Congress+of+the+International+Society+for+Theoretical+Chemical+Physics+ISTCP+2027).
+2027 tbd: 12th Triennial Congress of the International Society of Theoretical Chemical Physics (ISTCP 2027), tbd. \[Search](https://www.google.com/search?q=12th+Triennial+Congress+of+the+International+Society+for+Theoretical+Chemical+Physics+ISTCP+2027)
 

@@ -1,5 +1,3 @@
-2025-04-21 to 25: [CECAM Flagship Workshop Future directions in non-equilibrium statistical physics](https://cecam.org/workshop-details/future-directions-in-non-equilibrium-statistical-physics-1395), Beijing, China.
-
 2025-05-05 to 09: [Conference on Mixing Times between Probability, Computer Science and Statistical Physics (ICTP smr 4066)](https://indico.ictp.it/event/10831), Trieste, Italy.
 
 2025-05-11 to 15: [SIAM Conference on Applications of Dynamical Systems (DS 2025)](https://siam.org/conferences-events/siam-conferences/ds25), Denver, CO, USA.

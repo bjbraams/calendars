@@ -42,5 +42,5 @@
 
 2026-07-08 to 18: [Foundations of Computational Mathematics (FoCM 2026)](https://focm2026.univie.ac.at), Vienna, Austria.
 
-2026-08-17 to 21: Orthogonal Polynomials, Special Functions and Applications (OPSFA 2026), Kyoto, Japan. Web page to follow.
+2026-08-17 to 21: Orthogonal Polynomials, Special Functions and Applications (OPSFA 2026), Kyoto, Japan. Web page to follow
 

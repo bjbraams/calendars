@@ -1,2 +1,0 @@
-2025-06-30 to 07-04: [Journées de Probabilités 2025](https://www.i2m.univ-amu.fr/en/journee-de-proba-2025/), Marseille, France.
-

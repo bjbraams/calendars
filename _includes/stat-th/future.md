@@ -1,4 +1,4 @@
-2025-04-29: [7th Symposium on Advances in Approximate Bayesian Inference (AABI 2025)](https://approximateinference.org), Singapore. (Co-located with [ICLR 2025](https://iclr.cc).).
+2025-04-29: [7th Symposium on Advances in Approximate Bayesian Inference (AABI 2025)](https://approximateinference.org), Singapore. (Co-located with [ICLR 2025](https://iclr.cc).)
 
 2025-05-21 to 23: [CRiSM 2.0 Conference](https://warwick.ac.uk/fac/sci/statistics/news/crism-event2025), Warwick, UK.
 
@@ -8,7 +8,7 @@
 
 2025-06-16 to 20: [International Society for Bayesian Analysis Bayes Comp Meeting (BayesComp 2025)](https://bayescomp2025.sg), Singapore.
 
-2025-06-23 to 27: [14th International Conference on Bayesian Nonparametrics (BNP 2025)](https://bnp14.org), Los Angeles, CA, USA. (Satellite events Workshop on the 25th Anniversary of the Dependent Dirichlet Process and Workshop on Bayesian Predictive Inference, 2025-06-22.).
+2025-06-23 to 27: [14th International Conference on Bayesian Nonparametrics (BNP 2025)](https://bnp14.org), Los Angeles, CA, USA. (Satellite events Workshop on the 25th Anniversary of the Dependent Dirichlet Process and Workshop on Bayesian Predictive Inference, 2025-06-22.)
 
 2025-06-29 to 07-04: [Game-Theoretic Statistical Inference: Optional Sampling, Universal Inference, and Multiple Testing based on E-Values (BIRS 25w5482)](https://birs.ca/events/2025/5-day-workshops/25w5482), Chennai, India.
 
@@ -38,7 +38,7 @@
 
 2026-03-02 to 06: [Workshop on Bayesian Inverse Problems and UQ](https://icerm.brown.edu/program/semester_program_workshop/sp-s26-w2), Providence, RI, USA.
 
-2026-08-24 to 28: [Bernoulli Society European Meeting of Statisticians (EMS 2026)](https://bernoullisociety.org/organization/erc/ems), Lugano, Switzerland. (Preliminary announcement.).
+2026-08-24 to 28: [Bernoulli Society European Meeting of Statisticians (EMS 2026)](https://bernoullisociety.org/organization/erc/ems), Lugano, Switzerland. (Preliminary announcement.)
 
 **2027-07-11 to 15: [66th ISI World Statistics Congress (WSC 2027)](https://isi-next.org/conferences/isi-wsc2027), Busan, South Korea**.
 

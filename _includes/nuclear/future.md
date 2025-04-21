@@ -32,11 +32,11 @@
 
 2025-11-17 to 21: [11th ECTstar Workshop on Information and Statistics in Nuclear Experiment and Theory (ESNET 2025)](https://indico.ectstar.eu/event/247/), Trento, Italy.
 
-2026-06-14 to 19: [18th International Symposium on Capture Gamma-Ray Spectroscopy and Related Topics (CGS 2026)](https://mpi-hd.mpg.de/mpi/de/forschung/abteilungen-und-gruppen/gespeicherte-und-gekuehlte-ionen/veranstaltungen/konferenzen), Monterey, CA, USA. (Mention only.).
+2026-06-14 to 19: [18th International Symposium on Capture Gamma-Ray Spectroscopy and Related Topics (CGS 2026)](https://mpi-hd.mpg.de/mpi/de/forschung/abteilungen-und-gruppen/gespeicherte-und-gekuehlte-ionen/veranstaltungen/konferenzen), Monterey, CA, USA. (Mention only.)
 
 **2026-07-27 to 31: [Nuclear Structure (NS 2026)](https://indico.triumf.ca/event/745/), Vancouver, BC, Canada**.
 
 2026-08-30 to 09-06: [59th Zakopane Conference on Nuclear Physics (Zakopane 2026)](https://zakopane2026.ifj.edu.pl), Kraków, Poland.
 
-2026 tbd: [Conference on Nuclear Physics in Astrophysics (NPA-XII 2026)](https://members.eps.org/blogpost/739426/News), tbd. (Call for bids.) [Search](https://www.google.com/search?q=Conference+on+Nuclear+Physics+in+Astrophysics+NPA+XII+2026+-conferenceindex+-waset).
+2026 tbd: [Conference on Nuclear Physics in Astrophysics (NPA-XII 2026)](https://members.eps.org/blogpost/739426/News), tbd. (Call for bids.) [Search](https://www.google.com/search?q=Conference+on+Nuclear+Physics+in+Astrophysics+NPA+XII+2026+-conferenceindex+-waset)
 

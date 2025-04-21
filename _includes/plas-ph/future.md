@@ -42,9 +42,9 @@
 
 **2025-11-17 to 21: [67th Annual Meeting of the APS Division of Plasma Physics (APS-DPP 2025)](https://engage.aps.org/dpp/meetings/annual-meeting), Long Beach, CA, USA**.
 
-2025-12 tbd: Fusion Power Associates 46th Annual Meeting and Symposium (FPA 2025), Washington, DC, USA. [Search](https://www.google.com/search?q=Fusion+Power+Associates+%2246th%22+Annual+Meeting+and+Symposium+2025).
+2025-12 tbd: Fusion Power Associates 46th Annual Meeting and Symposium (FPA 2025), Washington, DC, USA. \[Search](https://www.google.com/search?q=Fusion+Power+Associates+%2246th%22+Annual+Meeting+and+Symposium+2025)
 
-2026-04-20 to 24: [25th International Stellarator-Heliotron Workshop (ISHW 2025)](https://ipp.mpg.de/4022808/ISHW), Cordoba, Spain. (Preliminary link.) [Search](https://www.google.com/search?q=International+Stellarator-Heliotron+Workshop+2026+cordoba).
+2026-04-20 to 24: [25th International Stellarator-Heliotron Workshop (ISHW 2025)](https://ipp.mpg.de/4022808/ISHW), Cordoba, Spain. (Preliminary link.) [Search](https://www.google.com/search?q=International+Stellarator-Heliotron+Workshop+2026+cordoba)
 
 2026-05-31 to 06-04: [27th ANS Topical Meetings on Technology of Fusion Energy (TOFE 2026)](https://ans.org/meetings/view-398/), Denver, CO, USA.
 

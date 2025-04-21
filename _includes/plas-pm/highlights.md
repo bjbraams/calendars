@@ -4,5 +4,5 @@
 
 **2026-05-17 to 22: [27th International Conference on Plasma-Surface Interactions in Controlled Fusion Devices (PSI 2026)](https://www.ipp.mpg.de/psi27/), Regensburg, Germany**.
 
-**2026 tbd: 17th conference of COmputer Simulation of IRradiation Effects in Solids (COSIRES), tbd**. [Search](https://www.google.com/search?q=17th+conference+on+COmputer+Simulation+of+IRradiation+Effects+in+Solids+COSIRES+2026).
+**2026 tbd: 17th conference of COmputer Simulation of IRradiation Effects in Solids (COSIRES), tbd**. \[Search](https://www.google.com/search?q=17th+conference+on+COmputer+Simulation+of+IRradiation+Effects+in+Solids+COSIRES+2026)
 

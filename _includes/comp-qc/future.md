@@ -14,7 +14,7 @@
 
 2025-06-30 to 07-03: [20th Central European Quantum Information Processing Workshop (CEQIP 2025)](http://ceqip.eu/2025/), Smolenice Castle, Slovakia.
 
-2025-07-07 to 12: [IEEE International Conference on Quantum Software (QSW 2025)](https://services.conferences.computer.org/2025/qsw/), Helsinki, Finland. (Part of the 2025 IEEE World Congress on SERVICES.
+2025-07-07 to 12: [IEEE International Conference on Quantum Software (QSW 2025)](https://services.conferences.computer.org/2025/qsw/), Helsinki, Finland. (Part of the 2025 IEEE World Congress on SERVICES
 
 2025-07-14 to 18: [22nd International Conference on Quantum Physics and Logic (QPL 2025)](https://qpl2025.github.io), Varna, Bulgaria.
 
@@ -46,7 +46,7 @@
 
 2025-10-15 to 17: [Quantum Network Workshop (QuNeW 2025)](https://qutech.nl/event/qunew/), The Hague, Netherlands.
 
-2025-11-10 to 12: [European Quantum Technologies Conference (EQTC 2025)](https://eqtc.eu), Copenhagen, Denmark. (Web pages expected here.).
+2025-11-10 to 12: [European Quantum Technologies Conference (EQTC 2025)](https://eqtc.eu), Copenhagen, Denmark. (Web pages expected here.)
 
 2025 tbd: [International Symposium on Quantum Physics and Quantum Information Sciences (QPQIS 2025)](http://qpqis.baqis.ac.cn/2025/), Beijing, China.
 

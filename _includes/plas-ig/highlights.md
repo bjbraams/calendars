@@ -8,7 +8,7 @@
 
 **2026-06-22 to 26: [53rd International Conference on Plasma Science (ICOPS 2026)](https://icops.ieee.org/icops2026/), Lake Tahoe, NV, USA**.
 
-**2026-07-07 to 11: [27th Europhysics Conference on Atomic and Molecular Physics of Ionized Gases (ESCAMPIG 2026)](https://escampig2024.physics.muni.cz), Madeira, Spain**. (Preliminary announcement.) [Search](https://www.google.com/search?q=27th+escampig+madeira+2026).
+**2026-07-07 to 11: [27th Europhysics Conference on Atomic and Molecular Physics of Ionized Gases (ESCAMPIG 2026)](https://escampig2024.physics.muni.cz), Madeira, Spain**. (Preliminary announcement.) [Search](https://www.google.com/search?q=27th+escampig+madeira+2026)
 
-**2026 tbd: 22nd International Congress on Plasma Physics (ICPP), tbd**. [Search](https://www.google.com/search?q=22nd+International+Congress+on+Plasma+Physics+ICPP+2026+-conferenceindex+-waset).
+**2026 tbd: 22nd International Congress on Plasma Physics (ICPP), tbd**. \[Search](https://www.google.com/search?q=22nd+International+Congress+on+Plasma+Physics+ICPP+2026+-conferenceindex+-waset)
 

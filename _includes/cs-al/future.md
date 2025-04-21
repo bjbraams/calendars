@@ -12,7 +12,7 @@
 
 2025-06-17 to 19: [36th Annual Symposium on Combinatorial Pattern Matching (CPM 2025)](https://cpm2025.pangenome.eu), Milan, Italy.
 
-2025-06-23 to 27: [41st International Symposium on Computational Geometry (SoCG 2025)](https://socg25.github.io/socg.html), Kanazawa, Japan. Part of [Computational Geometry Week](https://socg25.github.io).
+2025-06-23 to 27: [41st International Symposium on Computational Geometry (SoCG 2025)](https://socg25.github.io/socg.html), Kanazawa, Japan. Part of [Computational Geometry Week](https://socg25.github.io)
 
 2025-06-23 to 27: [57th Annual ACM Symposium on Theory of Computing (STOC 2025)](https://acm-stoc.org/stoc2025/), Prague, Czech Republic.
 

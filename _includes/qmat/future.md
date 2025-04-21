@@ -58,7 +58,7 @@
 
 2026-06-08 to 12: [IMSI Workshop Mathematical Aspects of 2D Quantum Materials and Meta-materials](https://imsi.institute/activities/mathematical-aspects-of-2d-quantum-materials-and-meta-materials/), Chicago, IL, USA.
 
-2026-07-26 to 08-01: [International Symposium on Quantum Fluids and Solids (QFS 2026)](https://people.umass.edu/qfs98/info1.htm), South Bend, IN, USA. Announcement only.
+2026-07-26 to 08-01: [International Symposium on Quantum Fluids and Solids (QFS 2026)](https://people.umass.edu/qfs98/info1.htm), South Bend, IN, USA. Announcement only
 
 2026 tbd: [Frontiers of Quantum and Mesoscopic Thermodynamics (FQMT 2026)](https://fqmt.fzu.cz/), Prague, Czech Republic.
 

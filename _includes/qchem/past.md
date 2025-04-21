@@ -6,3 +6,5 @@
 
 2025-03-27 to 28: [Symposium Can Ice Be Described from First Principles?](https://cas-nor.no/index.php/events/young-cas-fellow-symposium-can-ice-be-described-first-principles), Oslo, Norway.
 
+2025-04-21 to 25: [11th Conference of the Asia-Pacific Association of Theoretical and Computational Chemists (APATCC 2025)](https://apatcc11.jp), Kobe, Japan.
+

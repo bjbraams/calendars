@@ -1,0 +1,176 @@
+- dates: 2025-04-24 to 28
+  name: 13th International Conference on Learning Representations (ICLR 2025)
+  link: https://iclr.cc
+  loc: Singapore
+  pages: stat-ml!
+- dates: 2025-05-19 to 23
+  name: 20th International Conference on Plasma-Facing Materials and Components for Fusion Applications (PFMC 2025)
+  link: https://pfmc20.com
+  loc: Ljubljana, Slovenia
+  pages: plas-pm!
+- dates: 2025-05-25 to 30
+  name: 29th International Nuclear Physics Conference (INPC 2025)
+  link: https://inpc2025.org
+  loc: Daejeon, Korea
+  pages: nuclear!
+- dates: 2025-06-11 to 13
+  name: 26th Conference on Integer Programming and Combinatorial Optimization (IPCO 2025)
+  link: https://ipco25.cs.jhu.edu
+  loc: Baltimore, MD, USA
+  pages: cs-op!
+- dates: 2025-06-15 to 20
+  name: 25th IEEE Pulsed Power Conference (PPC 2025) and the 52nd IEEE International Conference on Plasma Science (ICOPS 2025)
+  link: https://ppps2025.kit.edu
+  loc: Berlin, Germany
+  pages: plas-ig!
+- dates: 2025-06-17 to 20
+  name: Meeting of the International Network of Nuclear Reaction Data Centres (NRDC 2025)
+  link: https://www-nds.iaea.org/nrdc/nrdc_2025/
+  loc: Madrid, Spain
+  pages: nuclear!
+- dates: 2025-06-22 to 27
+  name: 16th Nuclear Data for Science and Technology Conference (ND 2025)
+  link: https://nd2025madrid.com
+  loc: Madrid, Spain
+  pages: nuclear!
+- dates: 2025-06-30 to 07-04
+  name: 15th European Conference on Atoms, Molecules and Photons (ECAMP 2025)
+  link: https://ecamp15.org
+  loc: Innsbruck, Austria
+  pages: plas-ig!
+- dates: 2025-06-30 to 07-04
+  name: 38th Annual Conference on Learning Theory (COLT 2025)
+  link: http://learningtheory.org/colt2025/
+  loc: Lyon, France
+  pages: stat-ml!
+- dates: 2025-07-01 to 06
+  name: 75th International Conference Nucleus-2025 - Nuclear physics, elementary particle physics, and nuclear technologies
+  link: https://indico.spbu.ru/event/1/
+  loc: Saint Petersburg, Russia
+  pages: nuclear!
+- dates: 2025-07-07 to 11
+  name: 51st EPS Conference on Plasma Physics (EPS Plasma 2025)
+  link: https://epsplasma2025.com
+  loc: Vilnius, Lithuania
+  pages: plas-ph!
+- dates: 2025-07-13 to 19
+  name: 42nd International Conference on Machine Learning (ICML 2025)
+  link: https://icml.cc
+  loc: Vancouver, BC, Canada
+  pages: stat-ml!
+- dates: 2025-07-19 to 24
+  name: 8th International Conference on Continuous Optimization (ICCOPT 2025)
+  link: https://sites.google.com/view/iccopt2025
+  loc: Los Angeles, CA, USA
+  pages: comp-op!
+- dates: 2025-07-20 to 25
+  name: 36th International Conference on Phenomena in Ionized Gases (ICPIG 2025)
+  link: https://icpig2025.sciencesconf.org
+  loc: Aix-en-Provence, France
+  pages: plas-ig!
+- dates: 2025-07-21 to 25
+  name: 22nd International Conference on Atomic Processes in Plasmas (APiP 2025)
+  link: https://yebisu.ils.uec.ac.jp/apip2025/
+  loc: Tokyo, Japan
+  pages: plas-am!
+- dates: 2025-07-28 to 08-01
+  name: 17th Conference on Stochastic Programming
+  link: https://icsp2025.org
+  loc: Paris, France
+  pages: comp-op!
+- dates: 2025-07-29 to 08-05
+  name: 34th International Conference on Photonic, Electronic, and Atomic Collisions (ICPEAC 2025)
+  link: https://icpeac2025.jp
+  loc: Sapporo, Japan
+  pages: plas-am!
+- dates: 2025-08-02 to 07
+  name: ASA, IMS and other Joint Statistical Meetings (JSM 2025)
+  link: https://ww2.amstat.org/meetings/jsm/2025/
+  loc: Nashville, TN, USA
+  pages: stat-th!,stat-me!
+- dates: 2025-09-21 to 26
+  name: 9th Asia-Pacific Conference on Plasma Physics (AAPPS-DPP 2025)
+  link: https://aappsdpp.org/AAPPSDPPF/Meetings.html
+  loc: Fukuoka, Japan
+  pages: plas-ph!
+- dates: 2025-09-28 to 10-03
+  name: 22nd International Conference on Fusion Reactor Materials (ICFRM 2025)
+  link: https://icfrm-22.com
+  loc: Shizuoka, Japan
+  pages: plas-pm!
+- dates: 2025-10-05 to 09
+  name: 65th ISI World Statistics Congress (WSC 2025)
+  link: https://isi-next.org/conferences/isi-wsc2025/
+  loc: The Hague, Netherlands
+  pages: stat-th!,stat-me!
+- dates: 2025-10-13 to 17
+  name: 78th Gaseous Electronics Conference (GEC 2025)
+  link: https://apsgec.org/gec2025/
+  loc: Seoul, Korea
+  pages: plas-ig!
+- dates: 2025-10-13 to 18
+  name: 30th IAEA Fusion Energy Conference (FEC 2025)
+  link: https://conferences.iaea.org/event/392/
+  loc: Chengdu, China
+  pages: plas-ph!
+- dates: 2025-11-17 to 21
+  name: 67th Annual Meeting of the APS Division of Plasma Physics (APS-DPP 2025)
+  link: https://engage.aps.org/dpp/meetings/annual-meeting
+  loc: Long Beach, CA, USA
+  pages: plas-ph!
+- dates: 2025-12-09 to 15
+  name: Annual Conference on Neural Information Processing Systems (NeurIPS 2025)
+  link: http://wikicfp.com/cfp/servlet/event.showcfp?eventid=182647&copyownerid=163282
+  loc: San Diego, CA, USA
+  pages: stat-ml!
+- dates: 2026-05-17 to 22
+  name: 27th International Conference on Plasma-Surface Interactions in Controlled Fusion Devices (PSI 2026)
+  link: https://www.ipp.mpg.de/psi27/
+  loc: Regensburg, Germany
+  pages: plas-pm!
+- dates: 2026-06-22 to 26
+  name: 53rd International Conference on Plasma Science (ICOPS 2026)
+  link: https://icops.ieee.org/icops2026/
+  loc: Lake Tahoe, NV, USA
+  pages: plas-ig!
+- dates: 2026-07-07 to 11
+  name: 27th Europhysics Conference on Atomic and Molecular Physics of Ionized Gases (ESCAMPIG 2026)
+  link: https://escampig2024.physics.muni.cz
+  loc: Madeira, Spain
+  more: (Preliminary announcement.) [Search](https://www.google.com/search?q=27th+escampig+madeira+2026)
+  pages: plas-ig!
+- dates: 2026-07-27 to 31
+  name: Nuclear Structure (NS 2026)
+  link: https://indico.triumf.ca/event/745/
+  loc: Vancouver, BC, Canada
+  pages: nuclear!
+- dates: 2026-09-07 to 11
+  name: 22nd International Conference on the Physics of Highly Charged Ions (HCI 2026)
+  link: https://indico.impcas.ac.cn/event/75/
+  loc: Huizhou, China
+  pages: plas-am!
+- dates: 2026 tbd
+  name: 14th International Conference on Atomic and Molecular Data and Their Applications (ICAMDATA)
+  loc: tbd
+  more: \[Search](https://www.google.com/search?q=14th+International+Conference+on+Atomic+and+Molecular+Data+and+Their+Applications+ICAMDATA+2026)
+  pages: plas-am!
+- dates: 2026 tbd
+  name: 17th conference of COmputer Simulation of IRradiation Effects in Solids (COSIRES)
+  loc: tbd
+  more: \[Search](https://www.google.com/search?q=17th+conference+on+COmputer+Simulation+of+IRradiation+Effects+in+Solids+COSIRES+2026)
+  pages: plas-pm!
+- dates: 2026 tbd
+  name: 22nd International Congress on Plasma Physics (ICPP)
+  loc: tbd
+  more: \[Search](https://www.google.com/search?q=22nd+International+Congress+on+Plasma+Physics+ICPP+2026+-conferenceindex+-waset)
+  pages: plas-ig!
+- dates: 2027-07-11 to 15
+  name: 66th ISI World Statistics Congress (WSC 2027)
+  link: https://isi-next.org/conferences/isi-wsc2027
+  loc: Busan, South Korea
+  pages: stat-th!
+- dates: 2027-07-25 to 30
+  name: International Symposium on Mathematical Programming (ISMP 2027)
+  link: https://vu.nl/en/events/2027/international-symposium-on-mathematical-programming-2027
+  loc: Amsterdam, The Netherlands
+  pages: comp-op!

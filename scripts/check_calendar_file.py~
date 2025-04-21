@@ -1,0 +1,36 @@
+import sys
+import yaml
+
+MANDATORY_KEYS = {'dates','name','loc','pages'}
+OPTIONAL_KEYS = {'link','more'}
+RECOGNIZED_KEYS = MANDATORY_KEYS|OPTIONAL_KEYS
+
+def check_event(index,event):
+    # Return a list of errrors
+    if not isinstance(event,dict):
+        return [f"Event {index} is not a dictionary"]
+    if not MANDATORY_KEYS <= event.keys():
+        return [f"Event {index} is missing a mandatory key"]
+    errors = []
+    for key in event.keys():
+        if key not in RECOGNIZED_KEYS:
+            errors.append(f"Event {index} contains invalid key: {key}")
+    return errors
+
+def check_calendar(calendar):
+    # Return a list of errors
+    if not isinstance(calendar,list):
+        return ["Calendar is not a list"]
+    errors = []
+    for index, event in enumerate(calendar):
+        errors.extend(check_event(index,event))
+    return errors
+
+try:
+    with open(sys.argv[1], 'r') as file:
+        errors = check_calendar(yaml.safe_load(file))
+except yaml.YAMLError as e:
+    errors = [f"YAML parsing error: {str(e)}"]
+except FileNotFoundError:
+    errors = [f"File not found: {fn}"]
+print(errors)

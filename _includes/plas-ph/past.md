@@ -2,7 +2,7 @@
 
 2025-01-28 to 30: [32nd European Fusion Programme Workshop (EFPW 2025)](https://indico.euro-fusion.org/category/381/), Granada, Spain.
 
-2025-02-25 to 26: [Fusion Industry Association Annual Policy Conference (FIA 2025)](https://fusionindustryassociation.org/fia-annual-conference-2025/), Washington, DC, USA. [See also](https://x.com/Fusion_Industry).
+2025-02-25 to 26: [Fusion Industry Association Annual Policy Conference (FIA 2025)](https://fusionindustryassociation.org/fia-annual-conference-2025/), Washington, DC, USA. See [also](https://x.com/Fusion_Industry)
 
 2025-03-18: [1st Open Source Software for Fusion Energy (OSSFE 2025)](https://ossfe.github.io), Online.
 

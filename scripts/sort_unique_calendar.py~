@@ -1,0 +1,22 @@
+import sys
+import yaml
+
+def custom_sort_key(s):
+    """Replace spaces with a high-value Unicode character for sorting."""
+    return s.replace(' ', '\uffff')
+
+def remove_duplicates(data):
+    seen = set()
+    unique = []
+    for item in data:
+        t0 = tuple(sorted(item.items()))
+        if t0 not in seen:
+            seen.add(t0)
+            unique.append(item)
+    return unique
+
+unique_data = remove_duplicates(yaml.safe_load(sys.stdin))
+sorted_unique = sorted(unique_data, key=lambda x: custom_sort_key(str(x['dates'])+str(x['name'])))
+
+yaml.safe_dump(sorted_unique, sys.stdout,
+               allow_unicode=True, width=999, sort_keys=False)

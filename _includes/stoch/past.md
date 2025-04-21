@@ -12,3 +12,5 @@
 
 2025-04-07 to 11: [ICMS Workshop on Numerical Modelling of Nonlinear Stochastic Systems](https://icms.org.uk/workshops/2025/numerical-modelling-nonlinear-stochastic-systems), Edinburgh, UK.
 
+2025-04-21 to 25: [CECAM Flagship Workshop Future directions in non-equilibrium statistical physics](https://cecam.org/workshop-details/future-directions-in-non-equilibrium-statistical-physics-1395), Beijing, China.
+
