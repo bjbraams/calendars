@@ -44,3 +44,21 @@
   link: https://web.cvent.com/event/680e9ab4-72cb-486c-941e-1ab343b052bf/summary
   loc: Portland, ME, USA
   pages: qchem
+- dates: 2025-07-20 to 23
+  name: 34th ACM International Symposium on High-Performance Parallel and Distributed Computing (HPDC 2025)
+  link: https://hpdc.sci.utah.edu/2025/
+  loc: Notre Dame, IN, USA
+  pages: cs-qc
+- dates: 2025-07-20
+  name: 2nd Workshop on Quantum Algorithms, Software and Applied Research (QUASAR 2025)
+  link: https://sites.google.com/view/quasar25
+  loc: Notre Dame, IN, USA
+  more: Part of HPDC 2025
+- dates: 2025-09-22 to 26
+  name: 15th New Generation in Strongly Correlated Electron Systems Conference (NGSCES 2025)
+  link: https://sites.google.com/view/ngsces2025/
+  loc: Hvar, Croatia
+- dates: 2025-06-04 to 06
+  name: 10th IGAFIT Highlights of Algorithms Conference (HALG 2025)
+  link: https://2025.highlightsofalgorithms.org/
+  loc: Zurich, Switzerland
