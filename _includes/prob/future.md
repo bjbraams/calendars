@@ -1,5 +1,3 @@
-2025-04-22 to 25: [Conference on Analysis and Probability in Infinite Dimensions](https://anaprob2025.com), Bad Herrenalb, Germany.
-
 2025-05-26 to 30: [Joint European Thermodynamics Conference (JETC 2025)](https://mi.sanu.ac.rs/JETC2025), Belgrade, Serbia.
 
 2025-05-27 to 28: [Maryland Quantum-Thermodynamics Symposium (QTD 2025)](https://qtd-hub.umd.edu/event/symposium-2025), UMBC, Baltimore, MD, USA.

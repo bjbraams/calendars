@@ -482,3 +482,46 @@
   link: https://indico.iter.org/event/529/
   loc: Cadarache, France
   pages: plas-ph
+- dates: 2025-04-22 to 25
+  name: Conference on Analysis and Probability in Infinite Dimensions
+  link: https://anaprob2025.com
+  loc: Bad Herrenalb, Germany
+  pages: prob
+- dates: 2025-04-23 to 25
+  name: 25th European Conference on Evolutionary Computation in Combinatorial Optimisation (EvoCOP 2025)
+  link: https://evostar.org/2025/evocop/
+  loc: Trieste, Italy
+  more: Part of [EvoStar 2025](https://evostar.org/2025/)
+  pages: comp-op,cs-op
+- dates: 2025-04-23 to 25
+  name: 28th European Conference on Genetic Programming (EuroGP) 2025
+  link: https://evostar.org/2025/eurogp/
+  loc: Trieste, Italy
+  more: Part of [EvoStar 2025](https://evostar.org/2025/)
+  pages: comp-op,cs-op
+- dates: 2025-04-23 to 25
+  name: 4th Quantum Computing Theory in Practice conference (QCTiP 2025)
+  link: https://qctip2025.com
+  loc: Berlin, Germany
+  pages: comp-qc
+- dates: 2025-04-23 to 25
+  name: ITER Business Forum (IBF 2025)
+  link: https://iterbusinessforum.com/homepage.aspx
+  loc: Marseille, France
+  pages: plas-ph
+- dates: 2025-04-23 to 25
+  name: International Conference on the Applications of Evolutionary Computation (EvoApps 2025)
+  link: https://evostar.org/2025/evoapps/
+  loc: Trieste, Italy
+  more: Part of [EvoStar 2025](https://evostar.org/2025/)
+  pages: comp-op
+- dates: 2025-04-23 to 25
+  name: 'Workshop Quantum Machine Learning: theory meets experiments'
+  link: https://quantum.univie.ac.at/events/quantum-machine-learning-workshop-2025/
+  loc: Vienna, Austria
+  pages: stat-ml
+- dates: 2025-04-23 to 25
+  name: Workshop on Ion-electron effects in large scale atomistic modelling (ELLAM 2025)
+  link: https://ellam.aalto.fi
+  loc: Aalto University, Espoo, Finland
+  pages: qmat

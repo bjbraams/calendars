@@ -14,3 +14,5 @@
 
 2025-04-07 to 18: [10th CECAM School and Workshop on Time-Dependent Density-Functional Theory: Prospects and Applications](https://cecam.org/workshop-details/10th-school-and-workshop-on-time-dependent-density-functional-theory-prospects-and-applications-1340), Benasque, Spain.
 
+2025-04-23 to 25: [Workshop on Ion-electron effects in large scale atomistic modelling (ELLAM 2025)](https://ellam.aalto.fi), Aalto University, Espoo, Finland.
+

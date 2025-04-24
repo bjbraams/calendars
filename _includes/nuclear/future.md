@@ -36,6 +36,8 @@
 
 **2026-07-27 to 31: [Nuclear Structure (NS 2026)](https://indico.triumf.ca/event/745/), Vancouver, BC, Canada**.
 
+2026-08-17 to 21: [26th European Conference on Few-Body Problems in Physics](https://indico.cern.ch/event/1441702/), Prague, Czech Republic.
+
 2026-08-30 to 09-06: [59th Zakopane Conference on Nuclear Physics (Zakopane 2026)](https://zakopane2026.ifj.edu.pl), Kraków, Poland.
 
 2026 tbd: [Conference on Nuclear Physics in Astrophysics (NPA-XII 2026)](https://members.eps.org/blogpost/739426/News), tbd. (Call for bids.) [Search](https://www.google.com/search?q=Conference+on+Nuclear+Physics+in+Astrophysics+NPA+XII+2026+-conferenceindex+-waset)

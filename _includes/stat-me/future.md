@@ -8,5 +8,7 @@
 
 2026-06-28 to 07-03: [40th International Workshop on Statistical Modelling (IWSM 2026)](http://statmod.org/workshops.htm), Oslo, Norway. (Announcement only)
 
+2026-06-28 to 07-03: [40th International Workshop on Statistical Modelling (IWSM 2026)](https://www.mn.uio.no/math/english/research/groups/statistics-data-science/events/conferences/iwsm2026/), Osl, Norway.
+
 2026-08-25 to 28: [27th International Conference on Computational Statistics (CompStat 2026)](https://cmstatistics.org/CFECMStatistics2024/announcements.php), Athens, Greece. (Provisional link.)
 

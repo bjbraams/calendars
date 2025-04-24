@@ -1,5 +1,3 @@
-2025-04-23 to 25: [Workshop on Ion-electron effects in large scale atomistic modelling (ELLAM 2025)](https://ellam.aalto.fi), Aalto University, Espoo, Finland.
-
 2025-04-28 to 29: [IFT Workshop AI-Accelerated Superconductor Discovery: From Algorithms to Novel Materials](https://sites.google.com/ufl.edu/ai-for-sc-workshop-2025), Gainesville, FL, USA.
 
 2025-05-03 to 04: [Penn Conference on Theoretical Chemistry (PCTC 2025) (Ferroelectrics, Nanomaterials, Light-Matter Interactions, Next-Gen Computing & Renewable Energy)](https://pctc2025.regfox.com/pctc25), Philadelphia, PA, USA.

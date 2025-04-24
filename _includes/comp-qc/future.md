@@ -1,5 +1,3 @@
-2025-04-23 to 25: [4th Quantum Computing Theory in Practice conference (QCTiP 2025)](https://qctip2025.com), Berlin, Germany.
-
 2025-06-02 to 06: [3rd International Workshop on the Art, Science, and Engineering of Quantum Programming (QP 2025)](https://2025.programming-conference.org/details/prog25-workshops/4/The-3rd-International-Workshop-on-the-Art-Science-and-Engineering-of-Quantum-Progra), Prague, Czech Republic.
 
 2025-06-02 to 06: [FoQaCiA WORKSHOP Pioneering the Foundations of Quantum Computing](https://foqacia.org/foqacia-workshop-2025), Braga, Portugal.

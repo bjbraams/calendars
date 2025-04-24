@@ -1,5 +1,3 @@
-2025-04-23 to 25: [Workshop Quantum Machine Learning: theory meets experiments](https://quantum.univie.ac.at/events/quantum-machine-learning-workshop-2025/), Vienna, Austria.
-
 **2025-04-24 to 28: [13th International Conference on Learning Representations (ICLR 2025)](https://iclr.cc), Singapore**.
 
 2025-04-29 to 05-02: [ASA Symposium on Data Science and Statistics (SDSS 2025)](https://ww2.amstat.org/meetings/sdss/2025/), Salt Lake City, UT, USA.
@@ -37,6 +35,8 @@
 2025-11-11 to 17: [22nd International Conference on Principles of Knowledge Representation and Reasoning (KR 2025)](https://kr.org/KR2025), Melbourne, Australia. Co-located with CPAIOR 2025, ICAPS 2025 and NMR 2025
 
 2025-11-12 to 15: [25th IEEE International Conference on Data Mining (ICDM 2025)](https://www3.cs.stonybrook.edu/~icdm2025/), Washington, DC, USA.
+
+2025-12-09 to 12: [17th Asian Conference on Machine Learning (ACML 2025)](https://www.acml-conf.org/2025/), Taipei, Taiwan.
 
 **2025-12-09 to 15: [Annual Conference on Neural Information Processing Systems (NeurIPS 2025)](http://wikicfp.com/cfp/servlet/event.showcfp?eventid=182647&copyownerid=163282), San Diego, CA, USA**.
 

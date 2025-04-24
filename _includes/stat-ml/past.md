@@ -16,3 +16,5 @@
 
 2025-04-05 to 06: [IEEE 4th International Conference on Computing and Machine Intelligence (ICMI 2025)](https://icmiconf.com), Mount Pleasant, MI, USA.
 
+2025-04-23 to 25: [Workshop Quantum Machine Learning: theory meets experiments](https://quantum.univie.ac.at/events/quantum-machine-learning-workshop-2025/), Vienna, Austria.
+

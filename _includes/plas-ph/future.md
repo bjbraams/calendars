@@ -1,5 +1,3 @@
-2025-04-23 to 25: [ITER Business Forum (IBF 2025)](https://iterbusinessforum.com/homepage.aspx), Marseille, France.
-
 2025-05-05 to 09: [Fusion Energy Week](https://usfusionenergy.org/fusion-energy-week), Many locations, USA and elsewhere.
 
 2025-05-12 to 13: [4th Workshop on FAIR Data in Plasma Science (FDPS 2025)](https://plasma-mds.org/ws-fair-data-plasma-science-4.html), Greifswald, Germany.
@@ -15,6 +13,8 @@
 2025-06-23 to 27: [IEEE Symposium on Fusion Engineering (SOFE 2025)](https://plasmafusion.eventsair.com/sofe2025/), Cambridge, MA, USA.
 
 **2025-07-07 to 11: [51st EPS Conference on Plasma Physics (EPS Plasma 2025)](https://epsplasma2025.com), Vilnius, Lithuania**.
+
+2025-07-13 to 18: [17th International Conference on Numerical Modeling of Space Plasma Flow (ASTRONUM 2025)](https://space-science.uah.edu/astronum2025/), Madison, WI, USA..
 
 2025-08-04 to 08: [6th International Conference on Data-Driven Plasma Science (ICDDPS 2025)](https://web.cvent.com/event/7de9d238-e170-4fbf-8de5-20abc5c6eb49/), Santa Fe, NM, USA.
 
@@ -41,6 +41,8 @@
 2025-11-09 to 14: [16th International Symposium on Fusion Nuclear Technology (ISFNT 2025)](https://isfnt-16.ornl.gov), Knoxville, TN, USA.
 
 **2025-11-17 to 21: [67th Annual Meeting of the APS Division of Plasma Physics (APS-DPP 2025)](https://engage.aps.org/dpp/meetings/annual-meeting), Long Beach, CA, USA**.
+
+2025-12-09 to 10: [Fusion Power Associates 46th Annual Meeting and Symposium: Fusion Research: Status and the Next Ten Years](https://fusionpower.org/RegistrationForm.html), Irvine, CA, USA. Provisional link
 
 2025-12 tbd: Fusion Power Associates 46th Annual Meeting and Symposium (FPA 2025), Washington, DC, USA. \[Search](https://www.google.com/search?q=Fusion+Power+Associates+%2246th%22+Annual+Meeting+and+Symposium+2025)
 

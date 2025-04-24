@@ -18,6 +18,8 @@
 
 2025-08-25 to 29: [9th AtomDB Workshop and Workweek](https://etix.com/ticket/p/63582623/), Cambridge, MA, USA.
 
+2025-09-08 to 12: [21st International Conference on Ion Sources (ICIS 2025)](https://indico.stfc.ac.uk/event/1192/), Oxford, UK.
+
 2025-09-14 to 19: [13th International Conference on Inertial Fusion Sciences and Applications (IFSA 2025)](https://ifsa2025.org), Tours, France.
 
 **2026-09-07 to 11: [22nd International Conference on the Physics of Highly Charged Ions (HCI 2026)](https://indico.impcas.ac.cn/event/75/), Huizhou, China**.

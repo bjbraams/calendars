@@ -52,11 +52,15 @@
 
 2025-09-22 to 24: [8th RSC-CICAG / RSC-BMCS Artificial Intelligence in Chemistry Symposium (AIChem 2025)](https://rscbmcs.org/events/aichem8/), Cambridge, UK.
 
+2025-09-22 to 26: [15th New Generation in Strongly Correlated Electron Systems Conference (NGSCES 2025)](https://sites.google.com/view/ngsces2025/), Hvar, Croatia.
+
 2025-09-22 to 26: [61st Symposium on Theoretical Chemistry--Exploring Chemical Landscapes (STC 2025)](https://bcp.fu-berlin.de/en/stc2025), Berlin, Germany.
 
 2025-09-22 to 26: [Workshop on The determination of Hubbard parameters: progress, pitfalls, and prospects](https://sites.google.com/view/hubbard-workshop-2025/home), Gandia, Spain.
 
 2025-10-15 to 17: [2nd edition of The van der Waals/London Discussions](https://vdwldiscussions.github.io), Luxembourg, Luxembourg.
+
+2025-10-20 to 24: [Workshop on Astrochemistry in the Broadband Era](https://web.cvent.com/event/680e9ab4-72cb-486c-941e-1ab343b052bf/summary), Portland, ME, USA.
 
 2025-11-18 to 21: [Advanced Quantum Algorithms for Many-body Problems (AQAM 2025)](https://indico.ijclab.in2p3.fr/event/11479/), Montpellier, France.
 

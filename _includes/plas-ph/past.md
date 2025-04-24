@@ -12,3 +12,5 @@
 
 2025-04-22 to 23: [2nd ITER Private Sector Fusion Workshop](https://indico.iter.org/event/529/), Cadarache, France.
 
+2025-04-23 to 25: [ITER Business Forum (IBF 2025)](https://iterbusinessforum.com/homepage.aspx), Marseille, France.
+

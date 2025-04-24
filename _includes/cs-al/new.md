@@ -1,3 +1,5 @@
+2025-06-04 to 06: [10th IGAFIT Highlights of Algorithms Conference (HALG 2025)](https://2025.highlightsofalgorithms.org/), Zurich, Switzerland.
+
 2025-08-13 to 15: [11th IEEE International Conference on Data Science and Systems (DSS 2025)](https://hpcn.exeter.ac.uk/dss2025/), Exeter, UK.
 
 2025-05-14: [Kolmogorov Meets Turing 2025; Applications of Stochastic Methods to the Analysis of Algorithms and Complex Systems](https://sites.google.com/view/kmt-2025), Rome, Italy.

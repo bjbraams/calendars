@@ -10,3 +10,5 @@
 
 2025-03-31 to 04-02: [International Conference on Quantum Communications, Networking, and Computing (QCNC 2025)](https://ieee-qcnc.org/2025/), Nara, Japan.
 
+2025-04-23 to 25: [4th Quantum Computing Theory in Practice conference (QCTiP 2025)](https://qctip2025.com), Berlin, Germany.
+

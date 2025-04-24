@@ -32,6 +32,8 @@
 
 2025-08-31 to 09-05: [International Conference on Molecular Energy Transfer in Complex Systems (iCOMET 2025)](https://www2.sci.u-szeged.hu/icomet2025/home), Szeged, Hungary.
 
+2025-08-31 to 09-05: [Summer School on Modern Wavefunction Based Methods in Electronic Structure Theory (MWM 2025)](https://mwm.dcci.unipi.it/), Pisa, Italy.
+
 2025-09-02 to 04: [Conference on Quantum, Atomic and Molecular Physics (QuAMP 2025)](https://iop.eventsair.com/quamp2025/), Newcastle, UK.
 
 2025-09-02 to 05: [Conference on Extreme Light and Chiral Molecular Systems (ELCH 2025)](https://atom.uni-frankfurt.de/elch2025/), Kassel, Germany.
