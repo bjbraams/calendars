@@ -29,3 +29,18 @@
   link: https://www.european-mrs.com/meetings/2026-fall-meeting
   loc: Warsaw, Poland
   pages: plas-pmi
+- dates: 2025-09-11 to 12
+  name: Workshop on Recent Advances in Multi-Objective Optimization (RAMOO 2025)
+  link: 
+  loc: Straubing, Germany
+  pages: cs-opt
+- dates: 2025-08-31 to 09-05
+  name: Summer School on Modern Wavefunction Based Methods in Electronic Structure Theory (MWM 2025)
+  link: https://mwm.dcci.unipi.it/
+  loc: Pisa, Italy
+  pages: qmol
+- dates: 2025-10-20 to 24
+  name: Workshop on Astrochemistry in the Broadband Era
+  link: https://web.cvent.com/event/680e9ab4-72cb-486c-941e-1ab343b052bf/summary
+  loc: Portland, ME, USA
+  pages: qchem
