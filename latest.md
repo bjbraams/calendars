@@ -5,7 +5,7 @@
 
 # Latest Finds
 
-These events are scheduled to appear on the topical pages.
+These events are scheduled to appear on the topical pages soon.
 
 {%for event in site.data.latest%}
 {{event.dates}}:
