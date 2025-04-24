@@ -76,3 +76,13 @@
   link: https://cosires26.com/
   loc: Granada, Spain
   pages: plas-pm
+- dates: 2025-12-09 to 12
+  name: 17th Asian Conference on Machine Learning (ACML 2025)
+  link: https://www.acml-conf.org/2025/
+  loc: Taipei, Taiwan
+  pages: stat-ml
+- dates: 2026-06-28 to 07-03
+  name: 40th International Workshop on Statistical Modelling (IWSM 2026)
+  link: https://www.mn.uio.no/math/english/research/groups/statistics-data-science/events/conferences/iwsm2026/
+  loc: Osl, Norway
+  pages: stat-me
