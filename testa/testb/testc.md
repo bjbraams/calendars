@@ -1,2 +1,1 @@
-0{%if false%}a{%endif%}\
-{%if false%}b{%endif%}{%if true%}c{% endif%}
+0{%if false%}a{%endif%}{%if false%}b{%endif%}{%if true%}c{% endif%}
