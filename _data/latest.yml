@@ -134,6 +134,61 @@
   link: https://www.ipam.ucla.edu/programs/long-programs/multi-fidelity-methods-for-fusion-energy/?tab=activities
   loc: Lake Arrowhead, CA, USA
   kw: plas-ph
+- dd: 2025-07-15 to 18
+  name: 14th International Symposium on Imprecise Probability Theories and Applications (ISIPTA 2025)
+  link: https://isipta25.sipta.org/
+  loc: Bielefeld, Germany
+  kw: prob
+- dd: 2025-06-02 to 27
+  name: 2025 PIMS-CRM Summer School in Probability
+  link: https://www.slmath.org/summer-schools/1071
+  loc: Vancouver, BC, Canada
+  kw: prob
+- dd: 2025-06-02 to 13
+  name: SLMath Graduate School on Local Limits of Random Graphs
+  link: https://www.slmath.org/summer-schools/1099
+  loc: Paris, France
+  kw: prob
+- dd: 2025-06-02 to 06
+  name: AIM Workshop Mathematical foundations of sampling connected balanced graph partitions
+  link: https://aimath.org/workshops/upcoming/connectedbalanced/
+  loc: Pasadena, CA, USA
+  kw: prob
+- dd: 2026-08-01 to 06
+  name: ASA, IMS and other Joint Statistical Meetings (JSM 2026)
+  link: 
+  loc: Boston, MA, USA
+  kw: stat-th
+- dd: 2027-08-07 to 12
+  name: ASA, IMS and other Joint Statistical Meetings (JSM 2027)
+  link: 
+  loc: Chicago, IL, USA
+  kw: stat-th
+- dd: 2028-08-05 to 10
+  name: ASA, IMS and other Joint Statistical Meetings (JSM 2028)
+  link: 
+  loc: Philadelphia, PA, USA
+  kw: stat-th
+- dd: 2025-11-09 to 14
+  name: Workshop Arithmetic Statistics for Algebraic Objects
+  link: https://www.mfo.de/occasion/2546/www_view
+  loc: Oberwolfach, Germany
+  kw: prob
+- dd: 2025-09-23 to 26
+  name: Young Researchers in Stochastic Analysis and Stochastic Geometric Analysis
+  link: https://www.epfl.ch/labs/stoan/events/future-events/young-researchers-workshop/
+  loc: Lausanne, Switzerland
+  kw: stoch
+- dd: 2025-09-14 to 19
+  name: Workshop Combinatorics, Probability and Computing
+  link: https://www.mfo.de/occasion/2538/www_view
+  loc: Oberwolfach, Germany
+  kw: prob
+- dd: 2025-07-28 to 08-01
+  name: 11th International Conference on Lévy Processes
+  link: https://sites.google.com/view/levyconference2025
+  loc: Sofia, Bulgaria
+  kw: stoch
 - dd: 
   name: 
   link: 
