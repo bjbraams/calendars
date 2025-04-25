@@ -16,11 +16,15 @@
 
 2025-06-30 to 07-04: [Journées de Probabilités 2025](https://www.i2m.univ-amu.fr/en/journee-de-proba-2025/), Marseille, France.
 
+2025-07-01 to 04: [Markov, Semi-Markov Models and Associated Fields from Theory to Application and back (MaSeMo 2025)](https://masemo.sciencesconf.org/), Paris, France.
+
 2025-07-13 to 18: [29th International Conference on Statistical Physics (StatPhys 2025)](https://statphys29.org), Florence, Italy.
 
 2025-07-14 to 18: [44th Conference on Stochastic Processes and their Applications](https://spa.pwr.edu.pl), Wrocław, Poland.
 
 2025-07-15 to 18: [7th Spatial Statistics Conference: At the Dawn of AI](https://elsevier.com/events/conferences/all/spatial-statistics), Noordwijk, The Netherlands.
+
+2025-07-28 to 08-01: [11th International Conference on Lévy Processes](https://sites.google.com/view/levyconference2025), Sofia, Bulgaria.
 
 2025-08-24 to 29: [Oberwolfach Workshop on Stein’s Method in Stochastic Geometry, Statistical Learning, and Optimisation](https://mfo.de/occasion/2535b/www_view), Oberwolfach, Germany.
 
@@ -29,6 +33,10 @@
 2025-09-02 to 05: [Stochastics and Computational Finance (SCF 2025)](https://scf2025.iseg.ulisboa.pt), Lisbon, Portugal.
 
 2025-09-08 to 12: [12th International Conference on Stochastic Analysis and its Applications (ICSAA 2025)](https://sites.google.com/view/icsaa2025/), Bucharest, Romania.
+
+2025-09-19 to 20: [NBER-NSF Time Series Conference 2025](https://econweb.rutgers.edu/nswanson/Main-nbernsf.html), New Brunswick, NJ, USA.
+
+2025-09-23 to 26: [Young Researchers in Stochastic Analysis and Stochastic Geometric Analysis](https://www.epfl.ch/labs/stoan/events/future-events/young-researchers-workshop/), Lausanne, Switzerland.
 
 2025-10-15 to 17: [SPP2265 Workshop on Recent Developments in Spatial Interacting Random Systems](https://wias-berlin.de/workshops/sirs25/), Berlin, Germany.
 

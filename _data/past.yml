@@ -18,6 +18,11 @@
   link: https://www.isamp.in/society-activities/conferences
   loc: Dhanbad, India
   kw: plas-ig
+- dd: 2025-01-09 to 10
+  name: Workshop Advances in Combinatorial and Algebraic Probability
+  link: https://sites.google.com/view/comb-alg-prob-workshop
+  loc: Lancaster, UK
+  kw: prob
 - dd: 2025-01-12 to 15
   name: SIAM Symposium on Discrete Algorithms (SODA 2025)
   link: https://siam.org/conferences-events/siam-conferences/soda25/
@@ -141,6 +146,11 @@
   more: See [also](https://x.com/EctTrento)
   kw: nuclear
 - dd: 2025-02-17 to 21
+  name: Workshop Recent Perspectives on Non-crossing Partitions through Algebra, Combinatorics, and Probability
+  link: https://www.esi.ac.at/events/e548/
+  loc: Vienna, Austria
+  kw: prob
+- dd: 2025-02-17 to 21
   name: Workshop on Stochastic Processes on Random Geometries
   link: https://tu-braunschweig.de/stochastik/aktuell/workshops
   loc: Braunschweig, Germany
@@ -190,6 +200,11 @@
   link: https://pks.mpg.de/~eas/
   loc: Riezlern, Kleinwalsertal, Austria
   kw: plas-am
+- dd: 2025-02-24 to 28
+  name: Free Entropy Theory and Random Matrices
+  link: https://www.ipam.ucla.edu/programs/workshops/free-entropy-theory-and-random-matrices/
+  loc: IPAM, Los Angeles, CA, USA
+  kw: prob
 - dd: 2025-02-24 to 28
   name: International Workshop on Machine Learning for Quantum Matter
   link: https://pks.mpg.de/mlqmat25
@@ -342,6 +357,11 @@
   link: https://sciencecluster.dk/event/conference-ai4quantum/
   loc: Hillerød, Denmark
   kw: comp-qc
+- dd: 2025-03-24 to 28
+  name: Workshop Algebraic Statistics 2025
+  link: https://sites.google.com/view/algstat2025/
+  loc: Munich, Germany
+  kw: stat-th
 - dd: 2025-03-27 to 28
   name: Symposium Can Ice Be Described from First Principles?
   link: https://cas-nor.no/index.php/events/young-cas-fellow-symposium-can-ice-be-described-first-principles
@@ -377,6 +397,11 @@
   link: https://imsi.institute/activities/kernel-methods-in-uncertainty-quantification-and-experimental-design/
   loc: Chicago, IL, USA
   kw: comp-uq
+- dd: 2025-04-01 to 04
+  name: 'Workshop Algebraic Statistics and the Study of Multistate Models: Theory and Applications'
+  link: https://www.kaiekubjas.com/algstatmsm/
+  loc: Allto, Finland
+  kw: stat-th
 - dd: 2025-04-02 to 04
   name: (3rd Workshop on) Reinforcement Learning for Autonomous Accelerators (RL4AA 2025)
   link: https://rl4aa.github.io/RL4AA25/

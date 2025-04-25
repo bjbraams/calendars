@@ -1,10 +1,14 @@
 2025-04-29: [7th Symposium on Advances in Approximate Bayesian Inference (AABI 2025)](https://approximateinference.org), Singapore. (Co-located with [ICLR 2025](https://iclr.cc).)
 
+2025-05-08 to 10: [Conference The Past, Present and Future of Statistics in the Era of AI - Marking 90 Years of the GWU Department of Statistics](https://statistics.columbian.gwu.edu/gw-stat-90), Washington, DC, USA.
+
 2025-05-21 to 23: [CRiSM 2.0 Conference](https://warwick.ac.uk/fac/sci/statistics/news/crism-event2025), Warwick, UK.
 
 2025-05-26 to 28: [14th Workshop on Bayesian Inference in Stochastic Processes (BISP 2025)](https://-web.org/event-detail/436), Milan, Italy.
 
 2025-06-08 to 12: [Objective Bayes Methodology Conference (O'Bayes 2025)](https://obayes25.aueb.gr), Athens, Greece.
+
+2025-06-12 to 15: [International India Statistical Association Conference (IISA 2025)](https://www.intindstat.org/conference2025/index), Lincoln, NE, USA.
 
 2025-06-16 to 20: [International Society for Bayesian Analysis Bayes Comp Meeting (BayesComp 2025)](https://bayescomp2025.sg), Singapore.
 
@@ -20,7 +24,11 @@
 
 2025-07-28 to 08-15: [CODATA-RDA School and Advanced Workshops for Research Data Science (ICTP smr 4092)](https://indico.ictp.it/event/10857), Trieste, Italy.
 
+2025-07-31 to 08-02: [Institute of Mathematical Statistics New Researchers Conference (IMS-NRC 2025)](https://nrc2025.github.io/), Nashville, TN, USA.
+
 **2025-08-02 to 07: [ASA, IMS and other Joint Statistical Meetings (JSM 2025)](https://ww2.amstat.org/meetings/jsm/2025/), Nashville, TN, USA**.
+
+2025-08-27 to 29: [First International Vilnius Conference on Statistics and Its Applications](https://www.statistics-vilniusconference.eu/), Vilnius, Lithuania.
 
 2025-09-01 to 04: [Royal Statistical Society International Conference (RSS 2025)](https://rss.org.uk/training-events/conference-2025/), Edinburgh, UK.
 
@@ -40,7 +48,13 @@
 
 2026-06-03 to 05: [5th ISI Regional Statistics Conference (RSC 2026)](https://www.isi-next.org/conferences/isi-rsc-malta-2026/), Valletta, Malta.
 
+2026-08-01 to 06: ASA, IMS and other Joint Statistical Meetings (JSM 2026), Boston, MA, USA.
+
 2026-08-24 to 28: [Bernoulli Society European Meeting of Statisticians (EMS 2026)](https://bernoullisociety.org/organization/erc/ems), Lugano, Switzerland. (Preliminary announcement.)
 
 **2027-07-11 to 15: [66th ISI World Statistics Congress (WSC 2027)](https://isi-next.org/conferences/isi-wsc2027), Busan, South Korea**.
+
+2027-08-07 to 12: ASA, IMS and other Joint Statistical Meetings (JSM 2027), Chicago, IL, USA.
+
+2028-08-05 to 10: ASA, IMS and other Joint Statistical Meetings (JSM 2028), Philadelphia, PA, USA.
 

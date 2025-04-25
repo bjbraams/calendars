@@ -24,7 +24,7 @@
 import sys
 import yaml
 
-MANDATORY_KEYS = {'dd','name','loc','pp'}
+MANDATORY_KEYS = {'dd','name','loc','kw'}
 OPTIONAL_KEYS = {'link','more'}
 RECOGNIZED_KEYS = MANDATORY_KEYS|OPTIONAL_KEYS
 

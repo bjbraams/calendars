@@ -6,11 +6,15 @@
 
 2025-05-19 to 23: [41st IEEE International Conference on Data Engineering (ICDE 2025)](https://ieee-icde.org/2025/), Hong Kong, China.
 
+2025-05-29 to 31: [First Maryland Summer School in Statistics and Machine Learning](https://stat.umd.edu/summer-courses), College Park, MD, USA.
+
 2025-06-09 to 13: [IMSI Workshop Statistical and Computational Challenges in Probabilistic Scientific Machine Learning (SciML)](https://imsi.institute/activities/statistical-and-computational-challenges-in-probabilistic-scientific-machine-learning-sciml/), Chicago, IL, USA.
 
 2025-06-23 to 25: [International Conference on Statistics and Data Science](https://icsds.github.io/2025/), Vancouver, BC, Canada. (Not to be confused with the IMS International Conference on Statistics and Data Science in Sevilla, Spain in 2025.)
 
 2025-06-23 to 27: [Isaac Newton Institute Workshop Accelerating statistical inference and experimental design with machine learning](https://newton.ac.uk/event/rclw03/), Cambridge, UK.
+
+2025-06-30 to 07-04: [2nd International Summer School on Preference Learning for Ranking and Ordinal Data (PrefStat 2025)](http://www.prefstat.org/), Oslo, Norway.
 
 **2025-06-30 to 07-04: [38th Annual Conference on Learning Theory (COLT 2025)](http://learningtheory.org/colt2025/), Lyon, France**.
 

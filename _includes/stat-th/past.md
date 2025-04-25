@@ -8,3 +8,7 @@
 
 2025-03-09 to 14: [Workshop on Efficient Approximate Bayesian Inference (BIRS 25w5335)](https://birs.ca/events/2025/5-day-workshops/25w5335), Banff, AB, Canada.
 
+2025-03-24 to 28: [Workshop Algebraic Statistics 2025](https://sites.google.com/view/algstat2025/), Munich, Germany.
+
+2025-04-01 to 04: [Workshop Algebraic Statistics and the Study of Multistate Models: Theory and Applications](https://www.kaiekubjas.com/algstatmsm/), Allto, Finland.
+
