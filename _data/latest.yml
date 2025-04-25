@@ -1,1 +1,81 @@
 # dd,name,link,loc,more,kw
+- dd: 2025-05-12 to 16
+  name: Workshop on Geometry, Probability, and Algorithms
+  link: https://www.icts.res.in/discussion-meeting/gpa25
+  loc: ICTS, Bengaluru, India
+  kw: prob
+- dd: 2025-09-21 to 26
+  name: Workshop on Approximation, geometry and probability in high dimensions
+  link: https://sites.google.com/impan.pl/high-dimensions/
+  loc: Będlewo, Poland
+  kw: prob
+- dd: 2025-05-25 to 30
+  name: BIRS Workshop on Mixtures of Probability and Geometry
+  link: https://www.birs.ca/events/2025/5-day-workshops/25w5361
+  loc: Oaxaca, Mexico
+  kw: prob
+- dd: 2026-07-06 to 24
+  name: 4th Simons Math Summer Workshop on Algebraic methods in probability
+  link: https://scgp.stonybrook.edu/archives/45985
+  loc: Stony Brook, NY, USA
+  kw: prob
+- dd: 2025-03-24 to 28
+  name: Workshop Algebraic Statistics 2025
+  link: https://sites.google.com/view/algstat2025/
+  loc: Munich, Germany
+  kw: stat-th
+- dd: 2025-04-01 to 04
+  name: 'Workshop Algebraic Statistics and the Study of Multistate Models: Theory and Applications'
+  link: https://www.kaiekubjas.com/algstatmsm/
+  loc: Allto, Finland
+  kw: stat-th
+- dd: 2025-01-09 to 10
+  name: Workshop Advances in Combinatorial and Algebraic Probability
+  link: https://sites.google.com/view/comb-alg-prob-workshop
+  loc: Lancaster, UK
+  kw: prob
+- dd: 2025-06-09 to 13
+  name: Conference on Free Probability - on the occasion of Roland Speicher's 65th birthday
+  link: https://www.uni-saarland.de/lehrstuhl/weber-moritz/research/roland65.html
+  loc: Saarbrücken, Germany
+  kw: prob
+- dd: 2025-02-17 to 21
+  name: Workshop Recent Perspectives on Non-crossing Partitions through Algebra, Combinatorics, and Probability
+  link: https://www.esi.ac.at/events/e548/
+  loc: Vienna, Austria
+  kw: prob
+- dd: 2025-09-08 to 12
+  name: Workshop Random Matrix Theory for Learning and Statistical Physics
+  link: https://www.uni-bielefeld.de/einrichtungen/zif/groups/ongoing/matrices/
+  loc: Bielefeld, Germany
+  kw: prob
+- dd: 2025-10-27 to 31
+  name: Workshop Random Matrix Theory for Ecology, Economics, Finance and Statistical Physics
+  link: https://www.uni-bielefeld.de/einrichtungen/zif/groups/ongoing/matrices/
+  loc: Bielefeld, Germany
+  kw: prob
+- dd: 2025-12-08 to 12
+  name: 21st Brunel-Bielefeld Workshop on Random Matrix Theory
+  link: https://www.uni-bielefeld.de/einrichtungen/zif/groups/ongoing/matrices/
+  loc: Bielefeld, Germny
+  kw: prob
+- dd: 2025-08-25 to 09-06
+  name: '5th ZiF Summer School Randomness in Physics and Mathematics: From Thermalisation in Quantum Systems to Random Matrices'
+  link: https://indico.physik.uni-bielefeld.de/event/220/
+  loc: Bielefeld, Germany
+  kw: prob
+- dd: 2025-02-24 to 28
+  name: Free Entropy Theory and Random Matrices
+  link: https://www.ipam.ucla.edu/programs/workshops/free-entropy-theory-and-random-matrices/
+  loc: IPAM, Los Angeles, CA, USA
+  kw: prob
+- dd: 2025-06-16 to 20
+  name: 2nd Conference on Random Matrix Theory and Numerical Linear Algebra
+  link: https://faculty.washington.edu/trogdon/RMT+NLA_II/
+  loc: Seattle, WA, USA
+  kw: prob
+- dd: 2025-05-08 to 09
+  name: 3rd China-Japan-Korea Joint Probability Workshop
+  link: https://www.kurims.kyoto-u.ac.jp/~croydon/CJK3.html
+  loc: Kyoto, Japan
+  kw: prob
