@@ -10,6 +10,6 @@ These events are scheduled to appear on the topical pages soon.
 {%for event in site.data.latest%}
 {{event.dd}}:
 {%if event.link%}[{{event.name}}]({{event.link}}){%else%}{{event.name}}{%endif%},
-{{event.loc}}.{%if event.more%} {{event.more}}.{%endif%}{%if event.pages%} pages: {{event.kw}}.{%endif%}
+{{event.loc}}.{%if event.more%} {{event.more}}.{%endif%}{%if event.kw%} kw: {{event.kw}}.{%endif%}
 
 {%endfor%}
