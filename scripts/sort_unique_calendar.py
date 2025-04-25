@@ -2,10 +2,10 @@ import sys
 import yaml
 
 def sort_key(event):
-    # Sort on dates, ties resolved by event name.
+    # Sort on dd, ties resolved by event name.
     # Replace spaces with a high-value Unicode character for sorting.
     # ("YYYY tbd" will come after any specific date in year YYYY.)
-    s = str(event['dates'])+str(event['name'])
+    s = str(event['dd'])+str(event['name'])
     return s.replace(' ', '\uffff')
 
 def remove_duplicates(data):

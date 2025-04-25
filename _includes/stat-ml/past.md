@@ -18,3 +18,5 @@
 
 2025-04-23 to 25: [Workshop Quantum Machine Learning: theory meets experiments](https://quantum.univie.ac.at/events/quantum-machine-learning-workshop-2025/), Vienna, Austria.
 
+**2025-04-24 to 28: [13th International Conference on Learning Representations (ICLR 2025)](https://iclr.cc), Singapore**.
+

@@ -10,7 +10,7 @@
 # of mandatory and optional keys, and each value is a string.
 #
 # Common errors:
-# - A 'dates' entry is seen as a date and not as a string. In the YAML
+# - A 'dd' entry is seen as a date and not as a string. In the YAML
 # file, a date range is fine, that is recognized as a string. But a
 # single date is interpreted as a date, so there quotes must be used.
 # - An intended string contains a ": " and YAML sees it as a key-value
@@ -24,7 +24,7 @@
 import sys
 import yaml
 
-MANDATORY_KEYS = {'dates','name','loc','pages'}
+MANDATORY_KEYS = {'dd','name','loc','pp'}
 OPTIONAL_KEYS = {'link','more'}
 RECOGNIZED_KEYS = MANDATORY_KEYS|OPTIONAL_KEYS
 

@@ -38,6 +38,8 @@
 
 2026-03-02 to 06: [Workshop on Bayesian Inverse Problems and UQ](https://icerm.brown.edu/program/semester_program_workshop/sp-s26-w2), Providence, RI, USA.
 
+2026-06-03 to 05: [5th ISI Regional Statistics Conference (RSC 2026)](https://www.isi-next.org/conferences/isi-rsc-malta-2026/), Valletta, Malta.
+
 2026-08-24 to 28: [Bernoulli Society European Meeting of Statisticians (EMS 2026)](https://bernoullisociety.org/organization/erc/ems), Lugano, Switzerland. (Preliminary announcement.)
 
 **2027-07-11 to 15: [66th ISI World Statistics Congress (WSC 2027)](https://isi-next.org/conferences/isi-wsc2027), Busan, South Korea**.

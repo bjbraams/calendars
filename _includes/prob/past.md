@@ -2,5 +2,7 @@
 
 2025-04-09 to 11: [4th Probability, Analysis and Dynamics conference (PAD 2025)](https://people.maths.bris.ac.uk/~mb13434/pad25/), Bristol, UK.
 
+2025-04-10 to 12: [NYU Shanghai - Peking - Westlake Probability Conference](https://www.probabilityconference2025.com/), Shanghai, China.
+
 2025-04-22 to 25: [Conference on Analysis and Probability in Infinite Dimensions](https://anaprob2025.com), Bad Herrenalb, Germany.
 

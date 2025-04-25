@@ -29,12 +29,12 @@ targets = {} # Dictionary entries will be <filename>:<file>.
 
 for x in data:
     if 'link' in x.keys() and x['link']:
-        a = x['dates']+': ['+x['name']+']('+x['link']+'), '+x['loc']
+        a = x['dd']+': ['+x['name']+']('+x['link']+'), '+x['loc']
     else:
-        a = x['dates']+': '+x['name']+', '+x['loc']
+        a = x['dd']+': '+x['name']+', '+x['loc']
     if 'more' in x.keys() and x['more']:
         b = '. '+x['more']
     else:
         b = '.' 
-    for y in x['pages'].split(","):
+    for y in x['kw'].split(","):
         process(a,b,y)

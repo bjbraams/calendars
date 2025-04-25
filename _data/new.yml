@@ -1,220 +1,236 @@
+- dd: 2026-06-03 to 05
+  name: 5th ISI Regional Statistics Conference (RSC 2026)
+  link: https://www.isi-next.org/conferences/isi-rsc-malta-2026/
+  loc: Valletta, Malta
+  kw: stat-th
+- dd: 2026-06-28 to 07-03
+  name: 40th International Workshop on Statistical Modelling (IWSM 2026)
+  link: https://www.mn.uio.no/math/english/research/groups/statistics-data-science/events/conferences/iwsm2026/
+  loc: Oslo, Norway
+  kw: stat-me
+- dd: 2025-04-10 to 12
+  name: NYU Shanghai - Peking - Westlake Probability Conference
+  link: https://www.probabilityconference2025.com/
+  loc: Shanghai, China
+  kw: prob
+# 2025-04-25
 # dates, name, link, loc, more, pages
-- dates: 2025-09-08 to 12
+- dd: 2025-09-08 to 12
   name: 21st International Conference on Ion Sources (ICIS 2025)
   link: https://indico.stfc.ac.uk/event/1192/
   loc: Oxford, UK
-  pages: plas-am
-- dates: 2025-07-13 to 18
+  kw: plas-am
+- dd: 2025-07-13 to 18
   name: 17th International Conference on Numerical Modeling of Space Plasma Flow (ASTRONUM 2025)
   link: https://space-science.uah.edu/astronum2025/
   loc: Madison, WI, USA.
-  pages: plas-ph
-- dates: 2025-09-15 to 18
+  kw: plas-ph
+- dd: 2025-09-15 to 18
   name: European Materials Research Society (E-MRS) Spring Meeting 2025
   link: https://www.european-mrs.com/meetings/2025-spring-meeting
   loc: Strasbourgh, France
-  pages: plas-pm
-- dates: 2025-05-26 to 30
+  kw: plas-pm
+- dd: 2025-05-26 to 30
   name: European Materials Research Society (E-MRS) Fall Meeting 2025
   link: https://www.european-mrs.com/meetings/2025-fall-meeting
   loc: Warsaw, Poland
-  pages: plas-pm
-- dates: 2026-05-25 to 29
+  kw: plas-pm
+- dd: 2026-05-25 to 29
   name: European Materials Research Society (E-MRS) Spring Meeting 2026
   link: https://www.european-mrs.com/meetings/2026-spring-meeting
   loc: Strasbourgh, France
-  pages: plas-pm
-- dates: 2026-09-14 to 17
+  kw: plas-pm
+- dd: 2026-09-14 to 17
   name: European Materials Research Society (E-MRS) Fall Meeting 2026
   link: https://www.european-mrs.com/meetings/2026-fall-meeting
   loc: Warsaw, Poland
-  pages: plas-pm
-- dates: 2025-09-11 to 12
+  kw: plas-pm
+- dd: 2025-09-11 to 12
   name: Workshop on Recent Advances in Multi-Objective Optimization (RAMOO 2025)
   link: https://moo.univie.ac.at/
   loc: Straubing, Germany
-  pages: cs-op
-- dates: 2025-08-31 to 09-05
+  kw: cs-op
+- dd: 2025-08-31 to 09-05
   name: Summer School on Modern Wavefunction Based Methods in Electronic Structure Theory (MWM 2025)
   link: https://mwm.dcci.unipi.it/
   loc: Pisa, Italy
-  pages: qmol
-- dates: 2025-10-20 to 24
+  kw: qmol
+- dd: 2025-10-20 to 24
   name: Workshop on Astrochemistry in the Broadband Era
   link: https://web.cvent.com/event/680e9ab4-72cb-486c-941e-1ab343b052bf/summary
   loc: Portland, ME, USA
-  pages: qchem
-- dates: 2025-07-20 to 23
+  kw: qchem
+- dd: 2025-07-20 to 23
   name: 34th ACM International Symposium on High-Performance Parallel and Distributed Computing (HPDC 2025)
   link: https://hpdc.sci.utah.edu/2025/
   loc: Notre Dame, IN, USA
-  pages: cs-qc
-- dates: '2025-07-20'
+  kw: cs-qc
+- dd: '2025-07-20'
   name: 2nd Workshop on Quantum Algorithms, Software and Applied Research (QUASAR 2025)
   link: https://sites.google.com/view/quasar25
   loc: Notre Dame, IN, USA
   more: Part of HPDC 2025
-  pages: cs-qc
-- dates: 2025-09-22 to 26
+  kw: cs-qc
+- dd: 2025-09-22 to 26
   name: 15th New Generation in Strongly Correlated Electron Systems Conference (NGSCES 2025)
   link: https://sites.google.com/view/ngsces2025/
   loc: Hvar, Croatia
-  pages: qchem
-- dates: 2025-06-04 to 06
+  kw: qchem
+- dd: 2025-06-04 to 06
   name: 10th IGAFIT Highlights of Algorithms Conference (HALG 2025)
   link: https://2025.highlightsofalgorithms.org/
   loc: Zurich, Switzerland
-  pages: cs-al
-- dates: 2025-12-09 to 10
+  kw: cs-al
+- dd: 2025-12-09 to 10
   name: 'Fusion Power Associates 46th Annual Meeting and Symposium: Fusion Research: Status and the Next Ten Years'
   link: https://fusionpower.org/RegistrationForm.html
   loc: Irvine, CA, USA
   more: Provisional link
-  pages: plas-ph
-- dates: 2026-05-17 to 22
+  kw: plas-ph
+- dd: 2026-05-17 to 22
   name: 17th International Conference of Computer Simulation of Radiation Effects in Solids (COSIRES 2026)
   link: https://cosires26.com/
   loc: Granada, Spain
-  pages: plas-pm
-- dates: 2025-12-09 to 12
+  kw: plas-pm
+- dd: 2025-12-09 to 12
   name: 17th Asian Conference on Machine Learning (ACML 2025)
   link: https://www.acml-conf.org/2025/
   loc: Taipei, Taiwan
-  pages: stat-ml
-- dates: 2026-06-28 to 07-03
+  kw: stat-ml
+- dd: 2026-06-28 to 07-03
   name: 40th International Workshop on Statistical Modelling (IWSM 2026)
   link: https://www.mn.uio.no/math/english/research/groups/statistics-data-science/events/conferences/iwsm2026/
   loc: Osl, Norway
-  pages: stat-me
-- dates: 2026-08-17 to 21
+  kw: stat-me
+- dd: 2026-08-17 to 21
   name: 26th European Conference on Few-Body Problems in Physics
   link: https://indico.cern.ch/event/1441702/
   loc: Prague, Czech Republic
-  pages: nuclear
+  kw: nuclear
 # 2025-04-24
-- dates: 2025-11-18 to 21
+- dd: 2025-11-18 to 21
   name: Advanced Quantum Algorithms for Many-body Problems (AQAM 2025)
   link: https://indico.ijclab.in2p3.fr/event/11479/
   loc: Montpellier, France
-  pages: qchem
-- dates: 2025-06-16 to 20
+  kw: qchem
+- dd: 2025-06-16 to 20
   name: YMCN Summer School in Interacting Random Systems
   link: https://www.uni-muenster.de/MathematicsMuenster/events/2025/ymcn_summer-school_irs.shtml
   loc: Münster, Germany
-  pages: stoch
-- dates: 2025-11-05 to 08
+  kw: stoch
+- dd: 2025-11-05 to 08
   name: Hands-on Workshop on Electronic-Structure Theory and Artificial Intelligence for Materials Science
   link: https://indico.ms1p.org/event/12/
   loc: Shanghai, China
-  pages: qmat
-- dates: 2025-07-09 to 10
+  kw: qmat
+- dd: 2025-07-09 to 10
   name: 6th Artificial Intelligence for Materials Science Workshop (AIMS 2025)
   link: https://www.nist.gov/news-events/events/2025/07/artificial-intelligence-materials-science-aims-workshop
   loc: Gaithersburg, MD, USA
-  pages: qmat
-- dates: 2025-08-13 to 15
+  kw: qmat
+- dd: 2025-08-13 to 15
   name: 11th IEEE International Conference on Data Science and Systems (DSS 2025)
   link: https://hpcn.exeter.ac.uk/dss2025/
   loc: Exeter, UK
-  pages: cs-al
-- dates: '2025-05-14'
+  kw: cs-al
+- dd: '2025-05-14'
   name: Kolmogorov Meets Turing 2025; Applications of Stochastic Methods to the Analysis of Algorithms and Complex Systems
   link: https://sites.google.com/view/kmt-2025
   loc: Rome, Italy
-  pages: stoch,cs-al
-- dates: 2025-08-07 to 08
+  kw: stoch,cs-al
+- dd: 2025-08-07 to 08
   name: Workshop on AI-based Optimisation (AI-OPT 2025)
   link: https://optima.org.au/2025-workshop-on-ai-based-optimisation-ai-opt-2025/
   loc: Melbourne, Australia
-  pages: comp-op,cs-op
-- dates: 2025-09-08 to 10
+  kw: comp-op,cs-op
+- dd: 2025-09-08 to 10
   name: Workshop Mathematics in the age of data
   link: https://www.mathematik.tu-clausthal.de/workshop-mathdata
   loc: Clausthal, Germany
-  pages: tbd
-- dates: 2025-06-23 to 26
+  kw: tbd
+- dd: 2025-06-23 to 26
   name: 40th Annual ACM/IEEE Symposium on Logic in Computer Science (LICS 2025)
   link: https://lics.siglog.org/lics25/
   loc: Singapore
-  pages: cs-lo
-- dates: 2025-07-02 to 05
+  kw: cs-lo
+- dd: 2025-07-02 to 05
   name: 2nd Workshop on Quantum-Secure Networks and Systems (QSNS 2025)
   link: https://qubip.eu/qsns2025/
   loc: Bologna, Italy
-  pages: cs-qc
-- dates: 2025-09-14 to 17
+  kw: cs-qc
+- dd: 2025-09-14 to 17
   name: 20th Conference on Computer Science and Intelligence Systems (FedCSIS 2025)
   link: https://2025.fedcsis.org/
   loc: Kraków, Poland
-  pages: tbd
-- dates: 2025-09-24 to 26
+  kw: tbd
+- dd: 2025-09-24 to 26
   name: 33rd International Symposium on Graph Drawing and Network Visualization (GD 2025)
   link: https://graphdrawing.github.io/gd2025/
   loc: Norrköping, Sweden
-  pages: cs-al
-- dates: 2025-05-26 to 29
+  kw: cs-al
+- dd: 2025-05-26 to 29
   name: International Federation for Information Processing (IFIP) Networking 2025 Conference (NETWORKING 2025)
   link: https://networking.ifip.org/2025/
   loc: Limassol, Cyprus
-  pages: cs-al
-- dates: 2025-06-02 to 04
+  kw: cs-al
+- dd: 2025-06-02 to 04
   name: 32nd International Colloquium On Structural Information and Communication Complexity (SIROCCO 2025)
   link: https://www.torontomu.ca/sirocco-2025/
   loc: Delphi, Greece
-  pages: cs-al
-- dates: 2025-06-09 to 11
+  kw: cs-al
+- dd: 2025-06-09 to 11
   name: 4th Symposium on Algorithmic Foundations of Dynamic Networks (SAND 2025)
   link: https://sand2025.csc.liv.ac.uk/
   loc: Liverpool, UK
-  pages: cs-al
-- dates: 2025-09-22 to 25
+  kw: cs-al
+- dd: 2025-09-22 to 25
   name: 29th International Conference on Implementation and Application of Automata (CIAA 2025)
   link: https://ciaa2025.unipa.it/
   loc: Palermo, Italy
-  pages: cs-lo
-- dates: 2025-08-25 to 27
+  kw: cs-lo
+- dd: 2025-08-25 to 27
   name: 28th Prague Stringology Conference (PSC 2025)
   link: https://www.stringology.org/event/2025/
   loc: Prague, Czech Republic
-  pages: cs-al
-- dates: 2025-06-12 to 13
+  kw: cs-al
+- dd: 2025-06-12 to 13
   name: 4th workshop on Mathematics and AI – connecting the mathematics clusters
   link: https://aimath.nl/index.php/2025/03/13/4th-aim-cluster-event-tilburg/
   loc: Tilburg, Netherlands
-  pages: tbd
-- dates: 2026-08-31 to 09-03
+  kw: tbd
+- dd: 2026-08-31 to 09-03
   name: 20th International Conference on Plasma Surface Engineering (PSE 2026)
   link: https://pse-conferences.net/
   loc: Erfurt, Germany
-  pages: plas-pm
-- dates: 2025-06-22 to 25
+  kw: plas-pm
+- dd: 2025-06-22 to 25
   name: AVS 25th International Conference on Atomic Layer Deposition (ALD 2025) featuring the 12th International Atomic Layer Etching Workshop (ALE 2025)
   link: https://ald2025.avs.org/
   loc: Jeju Island, Korea
-  pages: plas-pm
-- dates: 2025-06-05 to 06
+  kw: plas-pm
+- dd: 2025-06-05 to 06
   name: CHIMERAS (Collisionless HIgh-beta Magnetized Experiment Researching Astrophysical Systems) Workshop 2025
   link: https://home.physics.ucla.edu/~sethd/chimeras25wvu/
   loc: Morgantown, WV, USA
-  pages: plas-ph
-- dates: 2025-08-05 to 08
+  kw: plas-ph
+- dd: 2025-08-05 to 08
   name: COST NanoSpace – AI in Astrochemistry Training School 2025
   link: https://ocamm.fi/event/cost-nanospace-ai-in-astrochemistry-training-school-2025/
   loc: Espoo, Finland
-  pages: qmol
-- dates: 2025-04-20 to 25
+  kw: qmol
+- dd: 2025-04-20 to 25
   name: 'BIRS Workshop Frontiers in Quantum Cryptography: New Functionalities, Primitives, and Foundations'
   link: https://www.birs.ca/events/2025/5-day-workshops/25w5445
   loc: Banff, AB, Canada
-  pages: cs-qc
-- dates: 2025-06-30 to 07-04
+  kw: cs-qc
+- dd: 2025-06-30 to 07-04
   name: 6th ACM Europe Summer School on Data Science
   link: https://europe.acm.org/seasonal-schools/data-science/2025
   loc: Ioannina, Greece
-  pages: comp-ml
-- dates: 2025-06-08 to 11
+  kw: comp-ml
+- dd: 2025-06-08 to 11
   name: Electronic Structure Workshop (ESW 2025)
   link: https://www.utep.edu/science/electronic-structure-workshop/
   loc: El Paso, TX, USA
-  pages: qchem
+  kw: qchem
 # 2025-04-21
