@@ -189,23 +189,48 @@
   link: https://sites.google.com/view/levyconference2025
   loc: Sofia, Bulgaria
   kw: stoch
-- dd: 
-  name: 
-  link: 
-  loc: 
-  kw: 
-- dd: 
-  name: 
-  link: 
-  loc: 
-  kw: 
-- dd: 
-  name: 
-  link: 
-  loc: 
-  kw: 
-- dd: 
-  name: 
-  link: 
-  loc: 
-  kw: 
+- dd: 2025-05-08 to 10
+  name: Conference The Past, Present and Future of Statistics in the Era of AI - Marking 90 Years of the GWU Department of Statistics
+  link: https://statistics.columbian.gwu.edu/gw-stat-90
+  loc: Washington, DC, USA
+  kw: stat-th
+- dd: 2025-05-29 to 31
+  name: First Maryland Summer School in Statistics and Machine Learning
+  link: https://stat.umd.edu/summer-courses
+  loc: College Park, MD, USA
+  kw: stat-ml
+- dd: 2025-06-12 to 15
+  name: International India Statistical Association Conference (IISA 2025)
+  link: https://www.intindstat.org/conference2025/index
+  loc: Lincoln, NE, USA
+  kw: stat-th
+- dd: 2025-06-30 to 07-04
+  name: 2nd International Summer School on Preference Learning for Ranking and Ordinal Data (PrefStat 2025)
+  link: http://www.prefstat.org/
+  loc: Oslo, Norway
+  kw: stat-ml
+- dd: 2025-07-01 to 04
+  name: Markov, Semi-Markov Models and Associated Fields from Theory to Application and back (MaSeMo 2025)
+  link: https://masemo.sciencesconf.org/
+  loc: Paris, France
+  kw: stoch
+- dd: 2025-07-31 to 08-02
+  name: Institute of Mathematical Statistics New Researchers Conference (IMS-NRC 2025)
+  link: https://nrc2025.github.io/
+  loc: Nashville, TN, USA
+  kw: stat-th
+- dd: 2025-07-07 to 09
+  name: International Association of Statistical Computing Conference Data Science, Statistics & Visualisation (DSSV 2025)
+  link: https://iasc-isi.org/dssv2025/
+  loc: Kruger Park, South Africa
+  kw: stat-me
+- dd: 2025-08-27 to 29
+  name: First International Vilnius Conference on Statistics and Its Applications
+  link: https://www.statistics-vilniusconference.eu/
+  loc: Vilnius, Lithuania
+  kw: stat-th
+- dd: 2025-09-19 to 20
+  name: NBER-NSF Time Series Conference 2025
+  link: https://econweb.rutgers.edu/nswanson/Main-nbernsf.html
+  loc: New Brunswick, NJ, USA
+  kw: stoch
