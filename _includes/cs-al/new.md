@@ -1,3 +1,5 @@
+2025-05-05 to 09: [36th International Conference on Probabilistic, Combinatorial and Asymptotic Methods for the Analysis of Algorithms (AofA 2025)](http://www.fields.utoronto.ca/activities/24-25/AofA-2025), Toronto, ON, Canada.
+
 2025-06-04 to 06: [10th IGAFIT Highlights of Algorithms Conference (HALG 2025)](https://2025.highlightsofalgorithms.org/), Zurich, Switzerland.
 
 2025-08-13 to 15: [11th IEEE International Conference on Data Science and Systems (DSS 2025)](https://hpcn.exeter.ac.uk/dss2025/), Exeter, UK.

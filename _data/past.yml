@@ -282,6 +282,11 @@
   link: https://sites.google.com/view/qp45-qbic2025
   loc: Tokyo, Japan
   kw: prob
+- dd: 2025-03-05 to 07
+  name: SPP 2265 Workshop Women in Random Geometric Systems
+  link: https://www.math.cit.tum.de/en/math/news/article/workshop-women-in-random-geometric-systems/
+  loc: Munich, Germany
+  kw: prob
 - dd: 2025-03-09 to 12
   name: Mesilla Chemistry Workshop 2025 Machine Learning in Molecular and Multiscale Dynamics
   link: https://chemistry.nmsu.edu/mesilla-chemistry-workshop/meeting-2025.html
@@ -358,6 +363,11 @@
   loc: Hillerød, Denmark
   kw: comp-qc
 - dd: 2025-03-24 to 28
+  name: Oxford Probability Workshop Random Discrete Structures
+  link: https://davidgeldbach.wixsite.com/website
+  loc: Oxford, UK
+  kw: prob
+- dd: 2025-03-24 to 28
   name: Workshop Algebraic Statistics 2025
   link: https://sites.google.com/view/algstat2025/
   loc: Munich, Germany
@@ -432,6 +442,11 @@
   link: https://indico.ipp.cas.cz/event/30/
   loc: Prague, Czech Republic
   kw: plas-ph
+- dd: 2025-04-07 to 11
+  name: CUWB-IV Frontiers in statistics and probability
+  link: https://cuwb.cimat.mx/node/68
+  loc: Mexico City, Mexico
+  kw: prob,stoch
 - dd: 2025-04-07 to 11
   name: ICMS Workshop on Numerical Modelling of Nonlinear Stochastic Systems
   link: https://icms.org.uk/workshops/2025/numerical-modelling-nonlinear-stochastic-systems
@@ -560,3 +575,8 @@
   link: https://iclr.cc
   loc: Singapore
   kw: +stat-ml
+- dd: 2025-04-27 to 05-02
+  name: Oberwolfach Workshop on Computational Multiscale Methods
+  link: https://mfo.de/occasion/2518/www_view
+  loc: Oberwolfach, Germany
+  kw: comp-fd

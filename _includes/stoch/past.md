@@ -10,6 +10,8 @@
 
 2025-04-07 to 09: [Stochastic Equations and Particle Systems, Mathematical Models in Statistical Physics](https://www1.mat.uniroma1.it/people/bertini/seps), Rome, Italy.
 
+2025-04-07 to 11: [CUWB-IV Frontiers in statistics and probability](https://cuwb.cimat.mx/node/68), Mexico City, Mexico.
+
 2025-04-07 to 11: [ICMS Workshop on Numerical Modelling of Nonlinear Stochastic Systems](https://icms.org.uk/workshops/2025/numerical-modelling-nonlinear-stochastic-systems), Edinburgh, UK.
 
 2025-04-21 to 25: [CECAM Flagship Workshop Future directions in non-equilibrium statistical physics](https://cecam.org/workshop-details/future-directions-in-non-equilibrium-statistical-physics-1395), Beijing, China.

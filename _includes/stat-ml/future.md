@@ -4,11 +4,15 @@
 
 2025-05-03 to 05: [28th International Conference on Artificial Intelligence and Statistics (AISTATS 2025)](https://aistats.org/aistats2025/), Mai Khao, Thailand.
 
+2025-05-12 to 16: [Lausanne Event on Machine Learning and Neural Network Theory (LemanTh 2025)](https://lemanth2025.github.io/), Lausanne, Switzerland.
+
 2025-05-19 to 23: [41st IEEE International Conference on Data Engineering (ICDE 2025)](https://ieee-icde.org/2025/), Hong Kong, China.
 
 2025-05-29 to 31: [First Maryland Summer School in Statistics and Machine Learning](https://stat.umd.edu/summer-courses), College Park, MD, USA.
 
 2025-06-09 to 13: [IMSI Workshop Statistical and Computational Challenges in Probabilistic Scientific Machine Learning (SciML)](https://imsi.institute/activities/statistical-and-computational-challenges-in-probabilistic-scientific-machine-learning-sciml/), Chicago, IL, USA.
+
+2025-06-16 to 20: [HSM Special Topic School on Statistical mechanics of spin glasses, neural networks and learning](https://www.mathematics.uni-bonn.de/hsm-school/programs/schools/hsm-special-topic-schools/sts-statistical-mechanics), Bonn, Germany.
 
 2025-06-23 to 25: [International Conference on Statistics and Data Science](https://icsds.github.io/2025/), Vancouver, BC, Canada. (Not to be confused with the IMS International Conference on Statistics and Data Science in Sevilla, Spain in 2025.)
 
@@ -28,9 +32,15 @@
 
 2025-08-24 to 29: [Oberwolfach Workshop on Stein’s Method in Stochastic Geometry, Statistical Learning, and Optimisation](https://mfo.de/occasion/2535b/www_view), Oberwolfach, Germany.
 
+2025-09-08 to 10: [Workshop Mathematics in the age of data](https://www.mathematik.tu-clausthal.de/workshop-mathdata), Clausthal, Germany.
+
+2025-09-08 to 12: [Summer School on Mathematical methods for high-dimensional data](https://sites.google.com/view/math-high-dimensional-data/), Rome, Italy.
+
 2025-09-09 to 12: [34th International Conference on Artificial Neural Networks (ICANN 2025)](https://e-nns.org/icann2025/), Kaunas, Lithuania.
 
 2025-09-15 to 19: [European Conference on Machine Learning and Principles and Practice of Knowledge Discovery in Databases (ECML-PKDD 2025)](https://ecmlpkdd.org/2025/), Porto, Portugal.
+
+2025-09-22 to 25: [Conference on Mathematics of Machine Learning 2025](https://www.tuhh.de/dsf/mml), Hamburg, Germany.
 
 2025-10-09 to 13: [12th IEEE International Conference on Data Science and Advanced Analytics (DSAA 2025)](https://dsaa.ieee.org/2025/), Birmingham, UK.
 

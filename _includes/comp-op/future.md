@@ -28,6 +28,8 @@
 
 2025-08-10 to 15: [31st International Conference on Principles and Practice of Constraint Programming](https://cp2025.a4cp.org), Glasgow, UK.
 
+2025-08-25 to 27: [Optimization Unplugged - Non-convex landscapes, dynamics and learning](https://optimization-unplugged.github.io/), Lausanne, Switzerland.
+
 2025-09-01 to 04: [International Conference on Optimization and Decision Science (ODS 2025)](https://airoconference.it/ods2025), Milan, Italy.
 
 2025-09-02 to 05: [16th Workshop on Global Optimization (STOGO 2025)](https://sites.google.com/view/stogo25/), Stockholm, Sweden.

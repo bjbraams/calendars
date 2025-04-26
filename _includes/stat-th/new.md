@@ -1,3 +1,5 @@
+2025-10-22 to 24: [Bayesian Biostatistics Conference Bayes 2025](https://www.bayes-pharma.org/), Leiden, Netherlands.
+
 2025-03-24 to 28: [Workshop Algebraic Statistics 2025](https://sites.google.com/view/algstat2025/), Munich, Germany.
 
 2025-04-01 to 04: [Workshop Algebraic Statistics and the Study of Multistate Models: Theory and Applications](https://www.kaiekubjas.com/algstatmsm/), Allto, Finland.

@@ -34,6 +34,8 @@
 
 **2025-10-05 to 09: [65th ISI World Statistics Congress (WSC 2025)](https://isi-next.org/conferences/isi-wsc2025/), The Hague, Netherlands**.
 
+2025-10-22 to 24: [Bayesian Biostatistics Conference Bayes 2025](https://www.bayes-pharma.org/), Leiden, Netherlands.
+
 2025-12-07 to 12: [Workshop on Bayesian Uncertainty Quantification in Large Models (BIRS 25w5329)](https://birs.ca/events/2025/5-day-workshops/25w5329), Chennai, India.
 
 2025-12-10 to 12: [EURANDOM Workshop on MCMC Methodology and Theory](https://eurandom.tue.nl/event/methodology-and-theory-mcmc/), Eindhoven, The Netherlands.

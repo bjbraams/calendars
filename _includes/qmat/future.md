@@ -40,6 +40,8 @@
 
 2025-08-25 to 28: [7th general Psi-k Conference (PsiK 2025)](https://psik2025.net), Lausanne, Switzerland.
 
+2025-08-31 to 09-05: [TRIQS Summer School Advanced methodologies in computational condensed matter physics](https://indico.flatironinstitute.org/event/4011/), Saint-Rémy-lès-Chevreuse, France.
+
 2025-09-06 to 12: [BEC conference on quantum gases and related fields (BEC 2025)](https://indico.phys.ethz.ch/event/143/), Sant Feliu de Guíxols, Spain.
 
 2025-09-08 to 12: [Conference on Frontiers in Atomistic Simulations: from Physics to Chemistry and Biology (ICTP smr 4098)](https://indico.ictp.it/event/10863), Trieste, Italy.
