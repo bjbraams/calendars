@@ -17,7 +17,7 @@
 - dd: 2025-05-20 to 23
   name: Eurandom Workshop Product-Form Probability Distributions
   link: https://www.eurandom.tue.nl/event/product-form-probability-distributions/
-  loc: Eindhoven, Netheerlands
+  loc: Eindhoven, Netherlands
   kw: prob
 - dd: 2025-06-01 to 05
   name: Workshop on Recent Advances in Evolving and Spatial Random Graphs
@@ -219,8 +219,53 @@
   link: https://indico.flatironinstitute.org/event/4011/
   loc: Saint-Rémy-lès-Chevreuse, France
   kw: qmat
-- dd: 
-  name: 
-  link: 
-  loc: 
-  kw: 
+- dd: 2026-03-26 to 28
+  name: Seminar on Stochastic Processes (SSP 2026)
+  link: https://depts.washington.edu/ssproc/ssp_nextssp.php
+  loc: Schenectady, NY, USA
+  kw: stoch
+- dd: 2025-03-24 to 28
+  name: Oxford Probability Workshop Random Discrete Structures
+  link: https://davidgeldbach.wixsite.com/website
+  loc: Oxford, UK
+  kw: prob
+- dd: 2025-06-16 to 20
+  name: IHS School Kinetically constrained models and boostrap percolation
+  link: https://indico.math.cnrs.fr/event/13130/
+  loc: Pars, France
+  kw: stoch
+- dd: 2025-06-23 to 27
+  name: Eurandom YEPXX Workshop 2025 Interacting Particle Systems on Random Structures
+  link: https://www.eurandom.tue.nl/event/yepxx-interacting-particle-systems-on-random-structures/
+  loc: Eindhoven, Netherlands
+  kw: prob,stoch
+- dd: 2025-08-25 to 29
+  name: SLMath Introductory Workshop Kinetic theory & Stochastic Partial Differential Equations
+  link: https://legacy.slmath.org/workshops/1117
+  loc: Berkeley, CA, USA
+  kw: stoch
+- dd: 2025-08-21 to 22
+  name: SLMath Connections Workshop Kinetic theory & Stochastic Partial Differential Equations
+  link: https://legacy.slmath.org/workshops/1116
+  loc: Berkeley, CA, USA
+  kw: stoch
+- dd: 2025-11-17 to 21
+  name: SLMath Workshop Recent Trends in Stochastic Partial Differential Equations
+  link: https://legacy.slmath.org/workshops/1148
+  loc: Berkeley, CA, USA
+  kw: stoch
+- dd: 2025-03-05 to 07
+  name: SPP 2265 Workshop Women in Random Geometric Systems
+  link: https://www.math.cit.tum.de/en/math/news/article/workshop-women-in-random-geometric-systems/
+  loc: Munich, Germany
+  kw: prob
+- dd: 2025-06-09 to 13
+  name: ICMS Conference Random Walks, Percolation and Mixing Times
+  link: https://sites.google.com/view/icmsrwconf/home
+  loc: Edinburgh, UK
+  kw: stoch
+- dd: 2025-04-07 to 11
+  name: CUWB-IV: Frontiers in statistics and probability
+  link: https://cuwb.cimat.mx/node/68
+  loc: Mexico City, Mexico
+  kw: prob,stoch
