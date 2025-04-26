@@ -5,12 +5,12 @@
   loc: Toronto, ON, Canada
   kw: cs-al
 - dd: 2025-05-19 to 23
-  name: Workshop Signatures and Rough Paths: From Stochastics, Geometry and Algebra to Machine Learning
+  name: Workshop Signatures and Rough Paths From Stochastics, Geometry and Algebra to Machine Learning
   link: https://www.icms.org.uk/SGAtoML
   loc: Edinburgh, UK
   kw: stoch
 - dd: 2025-05-20 to 22
-  name: Rossfest70 Celebrating 70 years of Ross Pinsky: Adventures in Probability, PDEs and Combinatorics
+  name: Rossfest70 Celebrating 70 years of Ross Pinsky Adventures in Probability, PDEs and Combinatorics
   link: https://sites.google.com/slu.edu/rossfest/
   loc: St. Louis, MO, USA
   kw: prob
@@ -55,7 +55,7 @@
   loc: Lausanne, Switzerland
   kw: prob
 - dd: 2025-10-20 to 24
-  name: CIRM Workshop New trends of stochastic nonlinear systems: well-posedeness, dynamics and numerics
+  name: CIRM Workshop New trends of stochastic nonlinear systems - well-posedeness, dynamics and numerics
   link: https://conferences.cirm-math.fr/3374.html
   loc: Marseille, France
   kw: stoch
@@ -170,7 +170,7 @@
   loc: Rome, Italy
   kw: stoch
 - dd: 2025-06-05 to 06
-  name: Workshop Stochastic Analysis in Mathematics and Natural Sciences: Theory and Applications
+  name: Workshop Stochastic Analysis in Mathematics and Natural Sciences Theory and Applications
   link: https://sites.google.com/view/samans2025/
   loc: Heraklion, Crete, Greece
   kw: stoch
@@ -214,11 +214,11 @@
   link: https://www.bayes-pharma.org/
   loc: Leiden, Netherlands
   kw: stat-th
-- dd: 
-  name: 
-  link: 
-  loc: 
-  kw: 
+- dd: 2025-08-31 to 09-05
+  name: TRIQS Summer School Advanced methodologies in computational condensed matter physics
+  link: https://indico.flatironinstitute.org/event/4011/
+  loc: Saint-Rémy-lès-Chevreuse, France
+  kw: qmat
 - dd: 
   name: 
   link: 
