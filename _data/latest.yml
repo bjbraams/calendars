@@ -54,51 +54,166 @@
   link: https://bernoulli.epfl.ch/programs/probability-and-mathematical-physics-walks-spins-loops-fields/
   loc: Lausanne, Switzerland
   kw: prob
-- dd: 
-  name: 
-  link: 
-  loc: 
-  kw: 
-- dd: 
-  name: 
-  link: 
-  loc: 
-  kw: 
-- dd: 
-  name: 
-  link: 
-  loc: 
-  kw: 
-- dd: 
-  name: 
-  link: 
-  loc: 
-  kw: 
-- dd: 
-  name: 
-  link: 
-  loc: 
-  kw: 
-- dd: 
-  name: 
-  link: 
-  loc: 
-  kw: 
-- dd: 
-  name: 
-  link: 
-  loc: 
-  kw: 
-- dd: 
-  name: 
-  link: 
-  loc: 
-  kw: 
-- dd: 
-  name: 
-  link: 
-  loc: 
-  kw: 
+- dd: 2025-10-20 to 24
+  name: CIRM Workshop New trends of stochastic nonlinear systems: well-posedeness, dynamics and numerics
+  link: https://conferences.cirm-math.fr/3374.html
+  loc: Marseille, France
+  kw: stoch
+- dd: 2025-10-06 to 10
+  name: Conference on Stochastic and Integral Geometry and Related Fields
+  link: https://sig25.org/
+  loc: Yerevan, Armenia
+  kw: stoch
+- dd: 2025-09-22 to 26
+  name: YMCN Autumn School Probability and dynamics on groups
+  link: https://www.uni-muenster.de/MathematicsMuenster/events/2025/probdyn-on-groups.shtml
+  loc: Münster, Germany
+  kw: prob
+- dd: 2025-09-22 to 25
+  name: Conference on Mathematics of Machine Learning 2025
+  link: https://www.tuhh.de/dsf/mml
+  loc: Hamburg, Germany
+  kw: stat-ml
+- dd: 2025-09-08 to 12
+  name: Summer School on Mathematical methods for high-dimensional data
+  link: https://sites.google.com/view/math-high-dimensional-data/
+  loc: Rome, Italy
+  kw: stat-ml
+- dd: 2025-09-08 to 10
+  name: Workshop Mathematics in the age of data
+  link: https://www.mathematik.tu-clausthal.de/workshop-mathdata
+  loc: Clausthal, Germany
+  kw: stat-ml
+- dd: 2025-09-07 to 12
+  name: SFB Summer School on Discrete Random Structures
+  link: https://sfbrandom.univie.ac.at/events/sfb-summer-school-2025/
+  loc: Pörtschach, Austria
+  kw: prob
+- dd: 2025-08-12 to 15
+  name: 13th International Conference on Multiple Comparison Procedures (MCP 2025)
+  link: http://isbiostat.org/conference-info/
+  loc: Philadelphia, PA, USA
+  kw: stat-me
+- dd: 2025-07-21 to 23
+  name: CoScaRa Workshop Deterministic and Stochastic Advection in Fluid Dynamics
+  link: https://dmi.unibas.ch/en/personen/gianluca-crippa/coscara-workshop-2025/
+  loc: Basel, Switzerland
+  kw: stoch
+- dd: 2025-06-12 to 14
+  name: TRR 391 Summer School on Generalized Additive Modelling and Statistical Methods for High-Dimensional Spatio-temporal Data
+  link: https://trr391.tu-dortmund.de/events/summer-schools/
+  loc: Dortmund, Germany
+  kw: stat-me
+- dd: 2025-07-07 to 11
+  name: Probability at Warwick Summer School Recent Trends in Probability and Statistics
+  link: https://warwick.ac.uk/fac/sci/statistics/news/patw_summer_school/
+  loc: Warwick, UK
+  kw: prob
+- dd: 2025-07-07 to 11
+  name: Conference on InterPlay between Integrable Probability and Interacting Particle systems
+  link: https://sites.google.com/view/ip3-angers/
+  loc: Angers, France
+  kw: prob
+- dd: 2025-07-03 to 05
+  name: Workshop Probability Theory and its Applications in celebration of Herold Dehling’s 70th Birthday
+  link: https://sites.google.com/view/workshop-prob-and-apps-2025
+  loc: Bochum, Germany
+  kw: prob
+- dd: 2025-06-16 to 27
+  name: Summer school on PDE and probability
+  link: https://indico.math.cnrs.fr/event/13554/
+  loc: Paris, France
+  kw: prob
+- dd: 2025-06-23 to 07-04
+  name: 2025 IHES Summer School Statistical Aspects of Nonlinear Physics
+  link: https://indico.math.cnrs.fr/event/12319/
+  loc: Le Bois-Marie, France
+  kw: prob
+- dd: 2025-06-29 to 07-12
+  name: Probability and Analysis CIMPA Summer School Türkiye
+  link: https://sites.google.com/view/probability-appliedanalysis/home/
+  loc: Istanbul, Turkey
+  kw: prob
+- dd: 20225-06-30 to 07-12
+  name: 53th Probability Summer School
+  link: https://lmbp.uca.fr/stflour/stflour-en.php
+  loc: Saint-Flour, France
+  kw: prob
+- dd: 2025-08-04 to 08
+  name: 28th Brazilian School of Probability
+  link: https://sites.google.com/view/ebp2025
+  loc: Belo Horizonte, MG, Brazil
+  kw: prob
+- dd: 2026-16 to 20
+  name: International Conference PRIN GRAFIA on geometry and statistics of random fields and their applications
+  link: https://sites.google.com/unimib.it/prin2022grafia/conference
+  loc: Cortona, Italy
+  kw: prob
+- dd: 2025-06-16 to 20
+  name: Perfectly matched perspectives on statistical mechanics, combinatorics and geometry Conference in honor of Richard Kenyon
+  link: https://dimers.science/events/rick61/
+  loc: Luminy, France
+  kw: prob
+- dd: 2025-06-16 to 20
+  name: HSM Special Topic School on Statistical mechanics of spin glasses, neural networks and learning
+  link: https://www.mathematics.uni-bonn.de/hsm-school/programs/schools/hsm-special-topic-schools/sts-statistical-mechanics
+  loc: Bonn, Germany
+  kw: prob,stat-ml
+- dd: 2025-06-30 to 07-02
+  name: Stochastics and Influences Workshop in honor of Bálint Tóth
+  link: https://erdoscenter.renyi.hu/events/stochastics-and-influences-workshop
+  loc: Budapest, Hungary
+  kw: stoch
+- dd: 2025-06-30 to 07-04
+  name: Workshop on Random Geometric Structures and Statistical Physics
+  link: https://sites.google.com/view/random-geometric-structures/
+  loc: Rome, Italy
+  kw: stoch
+- dd: 2025-06-05 to 06
+  name: Workshop Stochastic Analysis in Mathematics and Natural Sciences: Theory and Applications
+  link: https://sites.google.com/view/samans2025/
+  loc: Heraklion, Crete, Greece
+  kw: stoch
+- dd: 2025-07-21 to 25
+  name: BRIN Workshop Random Dynamical Systems, PDEs, and Stochastic Analysis
+  link: https://brinmrc.umd.edu/programs/workshops/summer25/summer25-workshop-random.html
+  loc: College Park, MD, USA
+  kw: stoch
+- dd: 2025-07-22 to 25
+  name: Conference on Progress in Discrete and Continuous Probability 2025
+  link: https://www.math.union.edu/~marianop/ProbabilityConference2025/ProgressDiscContProb2025.html
+  loc: Schenectady, NY, USA
+  kw: prob
+- dd: 2025-09-09 to 13
+  name: Workshop Diffusion in Warsaw
+  link: https://evolutionarypdes2025.icm.edu.pl/diffusion-in-warsaw/
+  loc: Warsaw, Poland
+  kw: stoch 
+- dd: 2025-10-26 to 31
+  name: BIRS Workshop Emerging Synergies between Stochastic Analysis and Statistical Mechanics
+  link: https://www.birs.ca/events/2025/5-day-workshops/25w5367
+  loc: Banff, AB, Canada
+  kw: stoch
+- dd: 2026-05-04 to 22
+  name: Research Programme Statistical Mechanics and Singular SPDEs
+  link: https://ims.nus.edu.sg/events/statistics_singularspdes/
+  loc: Singapore
+  kw: stoch
+- dd: 2026-06-15 to 19
+  name: Stochastic Networks Conference 2026
+  link: https://www.chicagobooth.edu/events/stochastic-networks-conference
+  loc: Chicago, IL, USA
+  kw: stoch
+- dd: 2025-09-22 to 26
+  name: CIRM Conference Interacting particle systems and related fields
+  link: https://conferences.cirm-math.fr/3335.html
+  loc: Marseille, France
+  kw: stoch
+- dd: 2025-10-22 to 24
+  name: Bayesian Biostatistics Conference Bayes 2025
+  link: https://www.bayes-pharma.org/
+  loc: Leiden, Netherlands
+  kw: stat-th
 - dd: 
   name: 
   link: 
