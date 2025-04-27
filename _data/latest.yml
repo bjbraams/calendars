@@ -124,21 +124,21 @@
   link: https://www.maths.dur.ac.uk/users/alpar.r.meszaros/web_DSMFG/2025_03_DSMFG.html
   loc: Durham, UK
   kw: stoch
-- dd: 
-  name: 
-  link: 
-  loc: 
-  kw: 
-- dd: 
-  name: 
-  link: 
-  loc: 
-  kw: 
-- dd: 
-  name: 
-  link: 
-  loc: 
-  kw: 
+- dd: 2025-06-04 to 06
+  name: DYNSTOCH Workshop 2025 Statistical Methods for Dynamical Stochastic Models
+  link: https://dynstoch2025.mathnum.inrae.fr/
+  loc: Le Mans, France
+  kw: stoch
+- dd: 2025-05-19 to 23
+  name: Leuven School on Basics of nonequilibrium statistical mechanics
+  link: https://indico.fys.kuleuven.be/event/106/
+  loc: Leuven, Belgium
+  kw: stoch
+- dd: 2025-06-08 to 13
+  name: Oberwolfach Seminar Stochastic Partial Differential Equations in Critical Spaces
+  link: https://www.mfo.de/occasion/2524a/www_view
+  loc: Oberwolfach, Germany
+  kw: stoch
 - dd: 
   name: 
   link: 
