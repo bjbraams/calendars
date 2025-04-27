@@ -139,12 +139,7 @@
   name: SIAM Conference on Applications of Dynamical Systems (DS 2025)
   link: https://siam.org/conferences-events/siam-conferences/ds25
   loc: Denver, CO, USA
-  kw: comp-na
-- dd: 2025-05-11 to 15
-  name: SIAM Conference on Applications of Dynamical Systems (DS 2025)
-  link: https://siam.org/conferences-events/siam-conferences/ds25
-  loc: Denver, CO, USA
-  kw: stoch
+  kw: comp-na,stoch
 - dd: 2025-05-12 to 13
   name: 4th Workshop on FAIR Data in Plasma Science (FDPS 2025)
   link: https://plasma-mds.org/ws-fair-data-plasma-science-4.html
@@ -1101,12 +1096,7 @@
   name: Journées de Probabilités 2025
   link: https://www.i2m.univ-amu.fr/en/journee-de-proba-2025/
   loc: Marseille, France
-  kw: prob
-- dd: 2025-06-30 to 07-04
-  name: Journées de Probabilités 2025
-  link: https://www.i2m.univ-amu.fr/en/journee-de-proba-2025/
-  loc: Marseille, France
-  kw: stoch
+  kw: prob,stoch
 - dd: 2025-06-30 to 07-04
   name: Workshop on Random Geometric Structures and Statistical Physics
   link: https://sites.google.com/view/random-geometric-structures/
@@ -1921,11 +1911,6 @@
   name: Workshop Mathematics in the age of data
   link: https://www.mathematik.tu-clausthal.de/workshop-mathdata
   loc: Clausthal, Germany
-  kw: tbd
-- dd: 2025-09-08 to 10
-  name: Workshop Mathematics in the age of data
-  link: https://www.mathematik.tu-clausthal.de/workshop-mathdata
-  loc: Clausthal, Germany
   kw: stat-ml
 - dd: 2025-09-08 to 11
   name: 20th Central European Symposium on Theoretical Chemistry (CESTC 2025)
@@ -2520,12 +2505,6 @@
   loc: Taipei, Taiwan
   kw: stat-th
 - dd: 2025-12 tbd
-  name: 17th Asian Conference on Machine Learning (ACML 2025)
-  link: https://acml-conf.org
-  loc: Taipei, Taiwan
-  more: (Provisional link.)
-  kw: stat-ml
-- dd: 2025-12 tbd
   name: Fusion Power Associates 46th Annual Meeting and Symposium (FPA 2025)
   loc: Washington, DC, USA
   more: \[Search](https://www.google.com/search?q=Fusion+Power+Associates+%2246th%22+Annual+Meeting+and+Symposium+2025)
@@ -2706,11 +2685,6 @@
   kw: nuclear
 - dd: 2026-06-15 to 18
   name: 31st Symposium on Plasma Physics and Technology
-  link: https://plasmaconference.cz
-  loc: Prague, Czech Republic
-  kw: plas-ph
-- dd: 2026-06-15 to 18
-  name: 31st Symposium on Plasma Physics and Technology
   link: https://www.plasmaconference.cz/
   loc: Prague, Czech Republic
   kw: plas-ph,plas-ig
@@ -2729,11 +2703,6 @@
   link: https://icops.ieee.org/icops2026/
   loc: Lake Tahoe, NV, USA
   kw: +plas-ig
-- dd: 2026-06-28 to 07-03
-  name: 40th International Workshop on Statistical Modelling (IWSM 2026)
-  link: https://www.mn.uio.no/math/english/research/groups/statistics-data-science/events/conferences/iwsm2026/
-  loc: Osl, Norway
-  kw: stat-me
 - dd: 2026-06-28 to 07-03
   name: 40th International Workshop on Statistical Modelling (IWSM 2026)
   link: https://www.mn.uio.no/math/english/research/groups/statistics-data-science/events/conferences/iwsm2026/
@@ -2827,11 +2796,6 @@
 - dd: 2026-08-31 to 09-03
   name: 20th International Conference on Plasma Surface Engineering (PSE 2026)
   link: https://pse-conferences.net
-  loc: Erfurt, Germany
-  kw: plas-pm
-- dd: 2026-08-31 to 09-03
-  name: 20th International Conference on Plasma Surface Engineering (PSE 2026)
-  link: https://pse-conferences.net/
   loc: Erfurt, Germany
   kw: plas-pm
 - dd: 2026-09-07 to 11
