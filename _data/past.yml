@@ -53,6 +53,16 @@
   link: http://fis.puc.cl/~lawpp/
   loc: Santiago, Chile
   kw: plas-am,plas-ph
+- dd: 2025-01-20 to 24
+  name: School on Disordered media
+  link: https://erdoscenter.renyi.hu/events/school-disordered-media
+  loc: Budapest, Hungary
+  kw: stoch
+- dd: 2025-01-23 to 24
+  name: SLMath Connections Workshop Probability and Statistics of Discrete Structures
+  link: https://www.slmath.org/workshops/1085
+  loc: Berkeley, CA, USA
+  kw: prob
 - dd: 2025-01-26 to 02-01
   name: 45th International Workshop on High Energy Density Physics with Intense Ion and Laser Beams
   link: https://indico.gsi.de/event/19829/
@@ -64,15 +74,35 @@
   loc: Bormio, Italy
   kw: nuclear
 - dd: 2025-01-27 to 31
+  name: Workshop on Disordered media
+  link: https://erdoscenter.renyi.hu/events/workshop-disordered-media
+  loc: Budapest, Hungary
+  kw: stoch
+- dd: 2025-01-27 to 31
   name: Workshop on Machine Learning for Analysis of High-Energy Cosmic Particles
   link: https://events.icecube.wisc.edu/event/243/
   loc: Newark, DE, USA
   kw: comp-ml
+- dd: 2025-01-28 to 29
+  name: IHP Workshop on Inhomogeneous Random Systems
+  link: https://irs.math.cnrs.fr/2025/
+  loc: Paris, France
+  kw: stoch
 - dd: 2025-01-28 to 30
   name: 32nd European Fusion Programme Workshop (EFPW 2025)
   link: https://indico.euro-fusion.org/category/381/
   loc: Granada, Spain
   kw: plas-ph
+- dd: 2025-01-29 to 31
+  name: WIAS Workshop on Critical behaviour in spatial particle systems
+  link: https://www.wias-berlin.de/workshops/csps25/
+  loc: Berlin, Germany
+  kw: stoch
+- dd: 2025-01-29 to 31
+  name: Workshop on Critical behaviour in spatial particle systems
+  link: https://www.wias-berlin.de/workshops/csps25/
+  loc: Berlin, Germany
+  kw: stoch
 - dd: 2025-01-30 to 02-01
   name: International Conference on Applied Probability, Statistics and Stochastic Processes (ICAPSSP 2025)
   link: https://sites.google.com/nitc.ac.in/icapssp25/
@@ -155,6 +185,11 @@
   link: https://tu-braunschweig.de/stochastik/aktuell/workshops
   loc: Braunschweig, Germany
   kw: stoch
+- dd: 2025-02-17 to 28
+  name: Winter school on Statistical Mechanics, Nonequilibrium Processes and Probability
+  link: https://sites.google.com/view/winterschoolsapienza/
+  loc: Rome, Italy
+  kw: prob
 - dd: 2025-02-19 to 20
   name: 4th Quantum Matters in Materials Science Workshop (QMMS 2025)
   link: https://nist.gov/news-events/events/2025/02/quantum-matters-material-sciences-qmms
@@ -368,10 +403,35 @@
   loc: Oxford, UK
   kw: prob
 - dd: 2025-03-24 to 28
+  name: Spring School Extrema of logarithmically correlated random fields and applications
+  link: https://www2.mathematik.tu-darmstadt.de/~stochastik/SpringSchool2025/
+  loc: Darmstadt, Germany
+  kw: prob
+- dd: 2025-03-24 to 28
+  name: Spring School on Extrema of logarithmically correlated random fields and applications
+  link: https://www2.mathematik.tu-darmstadt.de/~stochastik/SpringSchool2025/
+  loc: Darmstadt, Germany
+  kw: stoch
+- dd: 2025-03-24 to 28
   name: Workshop Algebraic Statistics 2025
   link: https://sites.google.com/view/algstat2025/
   loc: Munich, Germany
   kw: stat-th
+- dd: 2025-03-24 to 28
+  name: YMCN Spring School Recent Advances in SPDEs
+  link: https://www.uni-muenster.de/MathematicsMuenster/de/events/2025/ymcn_spring-school_spdes.shtml
+  loc: Münster, Germany
+  kw: stoch
+- dd: 2025-03-24 to 28
+  name: YMCN Spring School on Recent Advances in SPDEs
+  link: https://www.uni-muenster.de/MathematicsMuenster/de/events/2025/ymcn_spring-school_spdes.shtml
+  loc: Münster, Germany
+  kw: stoch
+- dd: 2025-03-25 to 28
+  name: Durham Symposium on Mean Field Games
+  link: https://www.maths.dur.ac.uk/users/alpar.r.meszaros/web_DSMFG/2025_03_DSMFG.html
+  loc: Durham, UK
+  kw: stoch
 - dd: 2025-03-27 to 28
   name: Symposium Can Ice Be Described from First Principles?
   link: https://cas-nor.no/index.php/events/young-cas-fellow-symposium-can-ice-be-described-first-principles
@@ -402,6 +462,11 @@
   link: https://qi.rub.de/wact
   loc: Bochum, Germany
   kw: cs-al
+- dd: 2025-03-31 to 04-04
+  name: Dynamics of Random Sustems - UK Easter Probability Meeting 2025
+  link: https://sites.google.com/view/ukeastermeeting2025/home
+  loc: Durham, UK
+  kw: prob
 - dd: 2025-03-31 to 04-04
   name: IMSI Workshop Kernel Methods in Uncertainty Quantification and Experimental Design
   link: https://imsi.institute/activities/kernel-methods-in-uncertainty-quantification-and-experimental-design/
@@ -492,6 +557,11 @@
   link: https://biomedicalimaging.org/2025/
   loc: Houston, TX, USA
   kw: comp-in
+- dd: 2025-04-14 to 17
+  name: Workshop on Regularisation by noise
+  link: https://regbynoise2025.conf.tuwien.ac.at/
+  loc: Vienna, Austria
+  kw: stoch
 - dd: 2025-04-15 to 18
   name: 12th International Workshop on Warm Dense Matter (WDM 2025)
   link: https://sandia.gov/wdm/
@@ -570,13 +640,13 @@
   link: https://ellam.aalto.fi
   loc: Aalto University, Espoo, Finland
   kw: qmat
+- dd: 2025-04-24 to 25
+  name: Symposium in Memory of Fritz Leisch
+  link: https://boku.ac.at/nwnr/stat/tagungen-und-veranstaltungen/symposium-in-memory-of-fritz-leisch
+  loc: Vienna, Austria
+  kw: stat-me
 - dd: 2025-04-24 to 28
   name: 13th International Conference on Learning Representations (ICLR 2025)
   link: https://iclr.cc
   loc: Singapore
   kw: +stat-ml
-- dd: 2025-04-27 to 05-02
-  name: Oberwolfach Workshop on Computational Multiscale Methods
-  link: https://mfo.de/occasion/2518/www_view
-  loc: Oberwolfach, Germany
-  kw: comp-fd

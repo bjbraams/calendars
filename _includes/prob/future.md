@@ -66,6 +66,8 @@
 
 2025-08-04 to 08: [28th Brazilian School of Probability](https://sites.google.com/view/ebp2025), Belo Horizonte, MG, Brazil.
 
+2025-08-04 to 08: [Log-gases in Caeli Australi](https://lica2025.github.io/), Creswick, Australia.
+
 2025-08-25 to 09-06: [5th ZiF Summer School Randomness in Physics and Mathematics: From Thermalisation in Quantum Systems to Random Matrices](https://indico.physik.uni-bielefeld.de/event/220/), Bielefeld, Germany.
 
 2025-09-07 to 12: [SFB Summer School on Discrete Random Structures](https://sfbrandom.univie.ac.at/events/sfb-summer-school-2025/), Pörtschach, Austria.

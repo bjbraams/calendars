@@ -8,6 +8,8 @@
 
 2025-06-08 to 12: [Objective Bayes Methodology Conference (O'Bayes 2025)](https://obayes25.aueb.gr), Athens, Greece.
 
+2025-06-12 to 13: [HCM Workshop Functional Data Analysis - in Honor of Alois Kneip](https://www.mathematics.uni-bonn.de/hcm/events/workshops-conferences/workshop_functional-data-analysis-a), Bonn, Germany.
+
 2025-06-12 to 15: [International India Statistical Association Conference (IISA 2025)](https://www.intindstat.org/conference2025/index), Lincoln, NE, USA.
 
 2025-06-16 to 20: [International Society for Bayesian Analysis Bayes Comp Meeting (BayesComp 2025)](https://bayescomp2025.sg), Singapore.

@@ -1,3 +1,7 @@
+2025-04-28 to 30: [Turbulence on the Banks of the Arno](https://indico.sns.it/event/62/), Pisa, Italy.
+
+2025-05-05 to 08: [Moroccan-Swedish Conference on Stochastic Analysis (MOSCSA 2025)](https://moscsa2025.com/), Marrakesh, Marocco.
+
 2025-05-05 to 09: [Conference on Mixing Times between Probability, Computer Science and Statistical Physics (ICTP smr 4066)](https://indico.ictp.it/event/10831), Trieste, Italy.
 
 2025-05-11 to 15: [SIAM Conference on Applications of Dynamical Systems (DS 2025)](https://siam.org/conferences-events/siam-conferences/ds25), Denver, CO, USA.
@@ -8,19 +12,31 @@
 
 2025-05-14 to 16: [CECAM Flagship Workshop on Stochastics processes: Inferences in complex systems](https://cecam.org/workshop-details/stochastics-processes-inferences-in-complex-systems-1390), Lausanne, Switzerland.
 
+2025-05-19 to 23: [Leuven School on Basics of nonequilibrium statistical mechanics](https://indico.fys.kuleuven.be/event/106/), Leuven, Belgium.
+
 2025-05-19 to 23: [Workshop Signatures and Rough Paths From Stochastics, Geometry and Algebra to Machine Learning](https://www.icms.org.uk/SGAtoML), Edinburgh, UK.
 
 2025-06-03 to 05: [Conference on Probability and SPDEs at OSU](https://u.osu.edu/spdeworkshop/), Columbus, OH, USA.
 
+2025-06-04 to 06: [DYNSTOCH Workshop 2025 Statistical Methods for Dynamical Stochastic Models](https://dynstoch2025.mathnum.inrae.fr/), Le Mans, France.
+
 2025-06-05 to 06: [Workshop Stochastic Analysis in Mathematics and Natural Sciences Theory and Applications](https://sites.google.com/view/samans2025/), Heraklion, Crete, Greece.
 
+2025-06-08 to 13: [Oberwolfach Seminar Stochastic Partial Differential Equations in Critical Spaces](https://www.mfo.de/occasion/2524a/www_view), Oberwolfach, Germany.
+
 2025-06-09 to 13: [ICMS Conference Random Walks, Percolation and Mixing Times](https://sites.google.com/view/icmsrwconf/home), Edinburgh, UK.
+
+2025-06-09 to 13: [Stochastic Reaction Networks Summer School](https://constrained.polito.it/stochastic-reaction-networks-summer-school/), Torgnon, Italy.
+
+2025-06-11 to 14: [Young Summer School on Stochastic Analysis](https://sites.google.com/view/ysssa25), Växjö, Sweden.
 
 2025-06-16 to 18: [Stochastic Reaction Networks Workshop](https://constrained.polito.it/stochastic-reaction-networks-workshop/), Torino, Italy.
 
 2025-06-16 to 20: [IHS School Kinetically constrained models and boostrap percolation](https://indico.math.cnrs.fr/event/13130/), Pars, France.
 
 2025-06-16 to 20: [Linnaeus Workshop on Stochastic Analysis and Applications (LSAA 2025)](https://lnu.se/en/meet-linnaeus-university/current/events/2025/konferenser/lsaa25/), Växjö, Sweden.
+
+2025-06-16 to 20: [School on stochastic interacting particle systems and random matrices](https://erdoscenter.renyi.hu/events/school-stochastic-interacting-particle-systems-and-random-matrices), Budapest, Hungary.
 
 2025-06-16 to 20: [YMCN Summer School in Interacting Random Systems](https://www.uni-muenster.de/MathematicsMuenster/events/2025/ymcn_summer-school_irs.shtml), Münster, Germany.
 

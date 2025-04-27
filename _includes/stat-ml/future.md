@@ -10,6 +10,8 @@
 
 2025-05-29 to 31: [First Maryland Summer School in Statistics and Machine Learning](https://stat.umd.edu/summer-courses), College Park, MD, USA.
 
+2025-06-02 to 06: [INI Workshop Calibrating prediction uncertainty - statistics and machine learning perspectives](https://www.newton.ac.uk/event/rclw02/), Cambridge, UK.
+
 2025-06-09 to 13: [IMSI Workshop Statistical and Computational Challenges in Probabilistic Scientific Machine Learning (SciML)](https://imsi.institute/activities/statistical-and-computational-challenges-in-probabilistic-scientific-machine-learning-sciml/), Chicago, IL, USA.
 
 2025-06-16 to 20: [HSM Special Topic School on Statistical mechanics of spin glasses, neural networks and learning](https://www.mathematics.uni-bonn.de/hsm-school/programs/schools/hsm-special-topic-schools/sts-statistical-mechanics), Bonn, Germany.
