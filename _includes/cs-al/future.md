@@ -14,8 +14,6 @@
 
 2025-06-04 to 06: [10th IGAFIT Highlights of Algorithms Conference (HALG 2025)](https://2025.highlightsofalgorithms.org/), Zurich, Switzerland.
 
-2025-06-04 to 06: [10th IGAFIT Highlights of Algorithms Meeting](https://2025.highlightsofalgorithms.org), Zurich, Switzerland.
-
 2025-06-09 to 11: [4th Symposium on Algorithmic Foundations of Dynamic Networks (SAND 2025)](https://sand2025.csc.liv.ac.uk/), Liverpool, UK.
 
 2025-06-10 to 12: [14th International Conference on Algorithms and Complexity (CIAC 2025)](https://easyconferences.eu/ciac2025/), Rome, Italy.

@@ -72,7 +72,7 @@
 
 2026 tbd: 12th Workshop on Novel Methods for Electronic Structure Calculations, Argentina. \[Search](https://www.google.com/search?q=12th+Workshop+on+Novel+Methods+for+Electronic+Structure+Calculations+Argentina+2026)
 
-2026 tbd: 31st Canadian Symposium on Theoretical and Computational Chemistry (CSTCC 2026), Ottawa, Canada. \[Search](https://www.google.com/search?q=31st+Canadian+Symposium+on+Theoretical+and+Computational+Chemistry+CSTCC+2026)
+2026 tbd: 31st Canadian Symposium on Theoretical and Computational Chemistry (CSTCC 2026), Ottawa, Canada. [Search](https://www.google.com/search?q=31st+Canadian+Symposium+on+Theoretical+and+Computational+Chemistry+CSTCC+2026)
 
-2027 tbd: 12th Triennial Congress of the International Society of Theoretical Chemical Physics (ISTCP 2027), tbd. \[Search](https://www.google.com/search?q=12th+Triennial+Congress+of+the+International+Society+for+Theoretical+Chemical+Physics+ISTCP+2027)
+2027 tbd: 12th Triennial Congress of the International Society of Theoretical Chemical Physics (ISTCP 2027), tbd. [Search](https://www.google.com/search?q=12th+Triennial+Congress+of+the+International+Society+for+Theoretical+Chemical+Physics+ISTCP+2027)
 

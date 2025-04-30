@@ -44,8 +44,6 @@
 
 2025-12-09 to 10: [Fusion Power Associates 46th Annual Meeting and Symposium: Fusion Research: Status and the Next Ten Years](https://fusionpower.org/RegistrationForm.html), Irvine, CA, USA. Provisional link
 
-2025-12 tbd: Fusion Power Associates 46th Annual Meeting and Symposium (FPA 2025), Washington, DC, USA. \[Search](https://www.google.com/search?q=Fusion+Power+Associates+%2246th%22+Annual+Meeting+and+Symposium+2025)
-
 2026-03-10 to 13: [Long Program Multi-Fidelity Methods for Fusion Energy Tutorials](https://www.ipam.ucla.edu/programs/long-programs/multi-fidelity-methods-for-fusion-energy/?tab=activities), los Angeles, CA, USA.
 
 2026-03-23 to 26: [Long Program Multi-Fidelity Methods for Fusion Energy Workshop 1 Multi-Fidelity Methods](https://www.ipam.ucla.edu/programs/long-programs/multi-fidelity-methods-for-fusion-energy/?tab=activities), Los Angeles, CA, USA.
@@ -61,8 +59,6 @@
 2026-05-31 to 06-04: [27th ANS Topical Meetings on Technology of Fusion Energy (TOFE 2026)](https://ans.org/meetings/view-398/), Denver, CO, USA.
 
 2026-06-07 to 12: [Long Program Multi-Fidelity Methods for Fusion Energy Culminating Retreat](https://www.ipam.ucla.edu/programs/long-programs/multi-fidelity-methods-for-fusion-energy/?tab=activities), Lake Arrowhead, CA, USA.
-
-2026-06-15 to 18: [31st Symposium on Plasma Physics and Technology](https://plasmaconference.cz), Prague, Czech Republic.
 
 2026-06-15 to 18: [31st Symposium on Plasma Physics and Technology](https://www.plasmaconference.cz/), Prague, Czech Republic.
 

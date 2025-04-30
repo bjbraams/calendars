@@ -14,8 +14,6 @@
 
 **2025-10-05 to 09: [65th ISI World Statistics Congress (WSC 2025)](https://isi-next.org/conferences/isi-wsc2025/), The Hague, Netherlands**.
 
-2026-06-28 to 07-03: [40th International Workshop on Statistical Modelling (IWSM 2026)](https://www.mn.uio.no/math/english/research/groups/statistics-data-science/events/conferences/iwsm2026/), Osl, Norway.
-
 2026-06-28 to 07-03: [40th International Workshop on Statistical Modelling (IWSM 2026)](https://www.mn.uio.no/math/english/research/groups/statistics-data-science/events/conferences/iwsm2026/), Oslo, Norway.
 
 2026-08-25 to 28: [27th International Conference on Computational Statistics (CompStat 2026)](https://cmstatistics.org/CFECMStatistics2024/announcements.php), Athens, Greece. (Provisional link.)

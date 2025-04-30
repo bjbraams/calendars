@@ -4,5 +4,5 @@
 
 **2026-09-07 to 11: [22nd International Conference on the Physics of Highly Charged Ions (HCI 2026)](https://indico.impcas.ac.cn/event/75/), Huizhou, China**.
 
-**2026 tbd: 14th International Conference on Atomic and Molecular Data and Their Applications (ICAMDATA), tbd**. \[Search](https://www.google.com/search?q=14th+International+Conference+on+Atomic+and+Molecular+Data+and+Their+Applications+ICAMDATA+2026)
+**2026 tbd: 14th International Conference on Atomic and Molecular Data and Their Applications (ICAMDATA), tbd**. [Search](https://www.google.com/search?q=14th+International+Conference+on+Atomic+and+Molecular+Data+and+Their+Applications+ICAMDATA+2026)
 

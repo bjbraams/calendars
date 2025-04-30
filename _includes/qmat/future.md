@@ -1,5 +1,3 @@
-2025-04-28 to 29: [IFT Workshop AI-Accelerated Superconductor Discovery: From Algorithms to Novel Materials](https://sites.google.com/ufl.edu/ai-for-sc-workshop-2025), Gainesville, FL, USA.
-
 2025-05-03 to 04: [Penn Conference on Theoretical Chemistry (PCTC 2025) (Ferroelectrics, Nanomaterials, Light-Matter Interactions, Next-Gen Computing & Renewable Energy)](https://pctc2025.regfox.com/pctc25), Philadelphia, PA, USA.
 
 2025-05-20 to 23: [5th Quantum Matter International Conference (QUANTUMatter 2025)](https://quantumconf.eu/2025/), Grenoble, France.
@@ -39,6 +37,8 @@
 2025-08-11 to 15: [New Frontiers in Out-of-Equilibrium Quantum Many-Body Dynamics](https://pks.mpg.de/qudyn25), Dresden, Germany.
 
 2025-08-25 to 28: [7th general Psi-k Conference (PsiK 2025)](https://psik2025.net), Lausanne, Switzerland.
+
+2025-08-25 to 29: [Paris International School on Advanced Computational Materials Science (PISACMS 2025)](https://pisacms.sciencesconf.org/), Paris, France.
 
 2025-08-31 to 09-05: [TRIQS Summer School Advanced methodologies in computational condensed matter physics](https://indico.flatironinstitute.org/event/4011/), Saint-Rémy-lès-Chevreuse, France.
 

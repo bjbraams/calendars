@@ -20,3 +20,5 @@
 
 **2025-04-24 to 28: [13th International Conference on Learning Representations (ICLR 2025)](https://iclr.cc), Singapore**.
 
+2025-04-29 to 05-02: [ASA Symposium on Data Science and Statistics (SDSS 2025)](https://ww2.amstat.org/meetings/sdss/2025/), Salt Lake City, UT, USA.
+

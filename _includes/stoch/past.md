@@ -36,3 +36,5 @@
 
 2025-04-21 to 25: [CECAM Flagship Workshop Future directions in non-equilibrium statistical physics](https://cecam.org/workshop-details/future-directions-in-non-equilibrium-statistical-physics-1395), Beijing, China.
 
+2025-04-28 to 30: [Turbulence on the Banks of the Arno](https://indico.sns.it/event/62/), Pisa, Italy.
+

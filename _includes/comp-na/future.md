@@ -1,5 +1,3 @@
-2025-04-27 to 30: [International Conference on Mathematics and Computational Methods Applied to Nuclear Science and Engineering (M&C 2025)](https://ans.org/meetings/mc2025/), Denver, CO, USA.
-
 2025-05-11 to 15: [SIAM Conference on Applications of Dynamical Systems (DS 2025)](https://siam.org/conferences-events/siam-conferences/ds25), Denver, CO, USA.
 
 2025-05-19 to 22: [Shanks Conference Constructive Functions 2025](https://my.vanderbilt.edu/constructivefunctions2025/), Nashville, TN, USA.

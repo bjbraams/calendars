@@ -42,11 +42,7 @@
 
 2026-08-31 to 09-03: [20th International Conference on Plasma Surface Engineering (PSE 2026)](https://pse-conferences.net), Erfurt, Germany.
 
-2026-08-31 to 09-03: [20th International Conference on Plasma Surface Engineering (PSE 2026)](https://pse-conferences.net/), Erfurt, Germany.
-
 2026-09-14 to 17: [European Materials Research Society (E-MRS) Fall Meeting 2026](https://www.european-mrs.com/meetings/2026-fall-meeting), Warsaw, Poland.
 
-**2026 tbd: 17th conference of COmputer Simulation of IRradiation Effects in Solids (COSIRES), tbd**. \[Search](https://www.google.com/search?q=17th+conference+on+COmputer+Simulation+of+IRradiation+Effects+in+Solids+COSIRES+2026)
-
-2026 tbd: European X-ray Spectrometry Conference (EXRS), Catania, Italy?. \[Search](https://www.google.com/search?q=European+X-ray+Spectrometry+Conference+EXRS+2026)
+2026 tbd: European X-ray Spectrometry Conference (EXRS), Catania, Italy?. [Search](https://www.google.com/search?q=European+X-ray+Spectrometry+Conference+EXRS+2026)
 

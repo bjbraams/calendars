@@ -12,3 +12,5 @@
 
 2025-04-01 to 04: [Workshop Algebraic Statistics and the Study of Multistate Models: Theory and Applications](https://www.kaiekubjas.com/algstatmsm/), Allto, Finland.
 
+2025-04-29: [7th Symposium on Advances in Approximate Bayesian Inference (AABI 2025)](https://approximateinference.org), Singapore. (Co-located with [ICLR 2025](https://iclr.cc).)
+

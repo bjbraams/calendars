@@ -1,5 +1,3 @@
-2025-04-28 to 30: [Turbulence on the Banks of the Arno](https://indico.sns.it/event/62/), Pisa, Italy.
-
 2025-05-05 to 08: [Moroccan-Swedish Conference on Stochastic Analysis (MOSCSA 2025)](https://moscsa2025.com/), Marrakesh, Marocco.
 
 2025-05-05 to 09: [Conference on Mixing Times between Probability, Computer Science and Statistical Physics (ICTP smr 4066)](https://indico.ictp.it/event/10831), Trieste, Italy.
@@ -32,7 +30,7 @@
 
 2025-06-16 to 18: [Stochastic Reaction Networks Workshop](https://constrained.polito.it/stochastic-reaction-networks-workshop/), Torino, Italy.
 
-2025-06-16 to 20: [IHS School Kinetically constrained models and boostrap percolation](https://indico.math.cnrs.fr/event/13130/), Pars, France.
+2025-06-16 to 20: [IHS School Kinetically constrained models and boostrap percolation](https://indico.math.cnrs.fr/event/13130/), Paris, France.
 
 2025-06-16 to 20: [Linnaeus Workshop on Stochastic Analysis and Applications (LSAA 2025)](https://lnu.se/en/meet-linnaeus-university/current/events/2025/konferenser/lsaa25/), Växjö, Sweden.
 
