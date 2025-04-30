@@ -9,16 +9,16 @@
   link: https://eventos.uva.es/129130/detail/2nd-international-school-on-atomic-and-molecular-data-evaluation-and-curation.html
   loc: Valladolid, Spain
   kw: plas-am
-- dd: 
-  name: 
-  link: 
-  loc: 
-  kw: 
-- dd: 
-  name: 
-  link: 
-  loc: 
-  kw: 
+- dd: 2025-08-18 to 22
+  name: 25th Max Planck Advanced Course on the Foundations of Computer Science (ADFOCS 2025)
+  link: https://www.mpi-inf.mpg.de/departments/algorithms-complexity/adfocs/2025/
+  loc: Saarbrücken, Germany
+  kw: cs-al
+- dd: 2025-09-23 to 26
+  name: International Workshop on Algorithmic Optimization
+  link: https://alop.uni-trier.de/event/international-workshop-on-algorithmic-optimization/
+  loc: Trier. Germany
+  kw: cs-op
 - dd: 
   name: 
   link: 
