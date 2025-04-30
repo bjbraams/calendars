@@ -19,16 +19,16 @@
   link: https://alop.uni-trier.de/event/international-workshop-on-algorithmic-optimization/
   loc: Trier. Germany
   kw: cs-op
-- dd: 
-  name: 
-  link: 
-  loc: 
-  kw: 
-- dd: 
-  name: 
-  link: 
-  loc: 
-  kw: 
+- dd: 2025-08-25 to 27
+  name: 19th International Symposium on Spatial and Temporal Data (SSTD 2025)
+  link: https://sstd2025.github.io/
+  loc: Osaka, Japan
+  kw: stoch
+- dd: 2025-06-16 to 19
+  name: INFORMED AI Summer School 2025
+  link: https://informed-ai.net/event/informed-ai-summer-school-2025/
+  loc: Bristol, UK
+  kw: stat-ml
 - dd: 
   name: 
   link: 
