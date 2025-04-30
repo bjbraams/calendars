@@ -4,21 +4,21 @@
   link: https://pisacms.sciencesconf.org/
   loc: Paris, France
   kw: qmat
-- dd: 
-  name: 
-  link: 
-  loc: 
-  kw: 
-- dd: 
-  name: 
-  link: 
-  loc: 
-  kw: 
-- dd: 
-  name: 
-  link: 
-  loc: 
-  kw: 
+- dd: 2025-08-25 to 29
+  name: 31st International European Conference on Parallel and Distributed Computing (Euro-Par 2025)
+  link: https://2025.euro-par.org/
+  loc: Dresden, Germany
+  kw: comp-sc
+- dd: 2026-11-15 to 20
+  name: ACM-IEEE International Conference for High Performance Computing, Networking, Storage and Analysis (SC 2026)
+  link: https://conferences.ieee.org/conferences_events/conferences/conferencedetails/51908
+  loc: Chicago, IL, USA
+  kw: comp-sc
+- dd: 2025-07-21 to 23
+  name: 45th IEEE International Conference on Distributed Computing Systems (ICDCS 2025)
+  link: https://icdcs2025.icdcs.org/
+  loc: Glasgow, UK
+  kw: comp-sc
 - dd: 
   name: 
   link: 
