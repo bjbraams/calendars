@@ -12,7 +12,7 @@
 
 2025-07-25 to 27: [29th International Symposium on Ion-Atom Collisions (ISIAC 2025)](https://ion-beam.jp/isiac2025/), Kyoto, Japan. (Satellite of ICPEAC)
 
-2025-07-28: [3rd meeting on Electron, Photon, and Ion Collisions with Molecular and Atomic Nanostructures (EPIC-MAN)](https://epic-man3.sciencesconf.org), Sapporo, Japan. Satellite of ICPEAC 2025
+2025-07-28: [3rd Meeting on Electron, Photon, and Ion Collisions With Molecular and Atomic Nanostructures (EPIC-MAN)](https://epic-man3.sciencesconf.org), Sapporo, Japan. Satellite of ICPEAC 2025
 
 **2025-07-29 to 08-05: [34th International Conference on Photonic, Electronic, and Atomic Collisions (ICPEAC 2025)](https://icpeac2025.jp), Sapporo, Japan**.
 
@@ -21,6 +21,8 @@
 2025-09-08 to 12: [21st International Conference on Ion Sources (ICIS 2025)](https://indico.stfc.ac.uk/event/1192/), Oxford, UK.
 
 2025-09-14 to 19: [13th International Conference on Inertial Fusion Sciences and Applications (IFSA 2025)](https://ifsa2025.org), Tours, France.
+
+2025-09-22 to 24: [2nd International School on Atomic and Molecular Data Evaluation and Curation (2025)](https://eventos.uva.es/129130/detail/2nd-international-school-on-atomic-and-molecular-data-evaluation-and-curation.html), Valladolid, Spain.
 
 **2026-09-07 to 11: [22nd International Conference on the Physics of Highly Charged Ions (HCI 2026)](https://indico.impcas.ac.cn/event/75/), Huizhou, China**.
 

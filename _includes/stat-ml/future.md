@@ -8,15 +8,19 @@
 
 2025-05-29 to 31: [First Maryland Summer School in Statistics and Machine Learning](https://stat.umd.edu/summer-courses), College Park, MD, USA.
 
-2025-06-02 to 06: [INI Workshop Calibrating prediction uncertainty - statistics and machine learning perspectives](https://www.newton.ac.uk/event/rclw02/), Cambridge, UK.
+2025-06-02 to 06: [INI Workshop Calibrating Prediction Uncertainty - Statistics and Machine Learning Perspectives](https://www.newton.ac.uk/event/rclw02/), Cambridge, UK.
 
 2025-06-09 to 13: [IMSI Workshop Statistical and Computational Challenges in Probabilistic Scientific Machine Learning (SciML)](https://imsi.institute/activities/statistical-and-computational-challenges-in-probabilistic-scientific-machine-learning-sciml/), Chicago, IL, USA.
 
-2025-06-16 to 20: [HSM Special Topic School on Statistical mechanics of spin glasses, neural networks and learning](https://www.mathematics.uni-bonn.de/hsm-school/programs/schools/hsm-special-topic-schools/sts-statistical-mechanics), Bonn, Germany.
+2025-06-16 to 19: [INFORMED AI Summer School 2025](https://informed-ai.net/event/informed-ai-summer-school-2025/), Bristol, UK.
+
+2025-06-16 to 20: [HSM Special Topic School on Statistical Mechanics of Spin Glasses, Neural Networks and Learning](https://www.mathematics.uni-bonn.de/hsm-school/programs/schools/hsm-special-topic-schools/sts-statistical-mechanics), Bonn, Germany.
+
+2025-06-16 to 27: [17th Madrid UPM Machine Learning and Advanced Statistics Summer School (2025)](https://cig.fi.upm.es/mlas/), Madrid, Spain.
 
 2025-06-23 to 25: [International Conference on Statistics and Data Science](https://icsds.github.io/2025/), Vancouver, BC, Canada. (Not to be confused with the IMS International Conference on Statistics and Data Science in Sevilla, Spain in 2025.)
 
-2025-06-23 to 27: [Isaac Newton Institute Workshop Accelerating statistical inference and experimental design with machine learning](https://newton.ac.uk/event/rclw03/), Cambridge, UK.
+2025-06-23 to 27: [Isaac Newton Institute Workshop Accelerating Statistical Inference and Experimental Design With Machine Learning](https://newton.ac.uk/event/rclw03/), Cambridge, UK.
 
 2025-06-30 to 07-04: [2nd International Summer School on Preference Learning for Ranking and Ordinal Data (PrefStat 2025)](http://www.prefstat.org/), Oslo, Norway.
 
@@ -32,9 +36,9 @@
 
 2025-08-24 to 29: [Oberwolfach Workshop on Stein’s Method in Stochastic Geometry, Statistical Learning, and Optimisation](https://mfo.de/occasion/2535b/www_view), Oberwolfach, Germany.
 
-2025-09-08 to 10: [Workshop Mathematics in the age of data](https://www.mathematik.tu-clausthal.de/workshop-mathdata), Clausthal, Germany.
+2025-09-08 to 10: [Workshop Mathematics in the Age of Data](https://www.mathematik.tu-clausthal.de/workshop-mathdata), Clausthal, Germany.
 
-2025-09-08 to 12: [Summer School on Mathematical methods for high-dimensional data](https://sites.google.com/view/math-high-dimensional-data/), Rome, Italy.
+2025-09-08 to 12: [Summer School on Mathematical Methods for High-Dimensional Data](https://sites.google.com/view/math-high-dimensional-data/), Rome, Italy.
 
 2025-09-09 to 12: [34th International Conference on Artificial Neural Networks (ICANN 2025)](https://e-nns.org/icann2025/), Kaunas, Lithuania.
 

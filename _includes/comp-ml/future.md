@@ -2,7 +2,7 @@
 
 2025-05-19 to 22: [Machine Learning in Chemical and Material Sciences (MLCM 2025)](https://web.cvent.com/event/d74fa979-47ee-4882-8618-7a5b22632953/summary/), Santa Fe, NM, USA.
 
-2025-05-19 to 23: [7th Inter-experiment Machine Learning Workshop](https://indico.cern.ch/event/1502120/), CERN, Geneva, Switzerland.
+2025-05-19 to 23: [7th Inter-Experiment Machine Learning Workshop](https://indico.cern.ch/event/1502120/), CERN, Geneva, Switzerland.
 
 2025-05-26 to 31: [CECAM Flagship School on Machine Learning in Physical Sciences: Theory and Applications](https://cecam.org/workshop-details/machine-learning-in-physical-sciences-theory-and-applications-1449), Lyon, France.
 
@@ -10,7 +10,7 @@
 
 2025-06-16 to 20: [2nd European AI for Fundamental Physics Conference (EuCAIFCon 2025)](https://agenda.infn.it/event/43565/), Cagliari, Italy.
 
-2025-06-22 to 27: [Workshop on Efficient and Reliable Deep Learning Methods and their Scientific Applications (BIRS 25w5382)](https://birs.ca/events/2025/5-day-workshops/25w5382), Banff, AB, Canada.
+2025-06-22 to 27: [Workshop on Efficient and Reliable Deep Learning Methods and Their Scientific Applications (BIRS 25w5382)](https://birs.ca/events/2025/5-day-workshops/25w5382), Banff, AB, Canada.
 
 2025-06-23 to 25: [Workshop for Artificial Intelligence (AI)-Powered Materials Discovery in the Great Plains](https://aimaterialsworkshop.org/event/1/), Vermillion, SD, USA.
 
@@ -26,5 +26,5 @@
 
 2025-08-31 to 09-03: [35th IEEE International Workshop on Machine Learning for Signal Processing (MLSP 2025)](https://2025.ieeemlsp.org/en/), Istanbul, Turkey.
 
-2025-11-25 to 28: [CECAM Flagship Workshop on Uncertainty quantification in atomistic modeling: From uncertainty-aware density functional theory to machine learning](https://cecam.org/workshop-details/uncertainty-quantification-in-atomistic-modeling-from-uncertainty-aware-density-functional-theory-to-machine-learning-1380), Lausanne, Switzerland.
+2025-11-25 to 28: [CECAM Flagship Workshop on Uncertainty Quantification in Atomistic Modeling: From Uncertainty-Aware Density Functional Theory to Machine Learning](https://cecam.org/workshop-details/uncertainty-quantification-in-atomistic-modeling-from-uncertainty-aware-density-functional-theory-to-machine-learning-1380), Lausanne, Switzerland.
 

@@ -18,7 +18,7 @@
 
 2025-09-01 to 05: [10th Central European Symposium on Plasma Chemistry (CESPC 2025)](https://cespc.inflpr.ro), Bucharest, Romania.
 
-2025-09-01 to 05: [Conference on Partially ionized plasmas in astrophysics (PIPA 2025)](https://uib.no/en/ift/173827/partially-ionized-plasmas-astrophysics-pipa2025), Bergen, Norway.
+2025-09-01 to 05: [Conference on Partially Ionized Plasmas in Astrophysics (PIPA 2025)](https://uib.no/en/ift/173827/partially-ionized-plasmas-astrophysics-pipa2025), Bergen, Norway.
 
 2025-09-03 to 04: [21st International Conference on Plasma Physics and Applications (CPPA 2025)](https://cespc.inflpr.ro), Bucharest, Romania.
 

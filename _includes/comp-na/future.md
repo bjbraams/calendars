@@ -10,7 +10,9 @@
 
 2025-06-23 to 27: [BRIN Workshop on Stochastic PDEs](https://brinmrc.umd.edu/programs/workshops/summer25/summer25-workshop-pdes.html), College Park, MD, USA.
 
-2025-06-30 to 07-03: [Workshop on Stochastic Numerics Milstein's Method: 50 years On](https://maths.nottingham.ac.uk/plp/pmzmt/milstein2025/), Nottingham, UK.
+2025-06-24 to 27: [30th Biennial Numerical Analysis Conference (2025)](https://numericalanalysisconference.org.uk/), Glasgow, UK.
+
+2025-06-30 to 07-03: [Workshop on Stochastic Numerics Milstein's Method: 50 Years On](https://maths.nottingham.ac.uk/plp/pmzmt/milstein2025/), Nottingham, UK.
 
 2025-07-03 to 04: [17th International Conference on Reversible Computation (RC 2025)](https://reversible-computation-2025.github.io), Odense, Denmark.
 

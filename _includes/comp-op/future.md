@@ -1,5 +1,3 @@
-2025-04-30 to 05-02: [5th IMA and OR Society Conference on Mathematics of Operational Research](https://ima.org.uk/24367/5th-ima-and-or-society-conference-on-mathematics-of-operational-research/), Birmingham, UK.
-
 2025-06-02 to 06: [International School and Conference on Network Science (NetSci 2025](https://netsci2025.github.io), Maastricht, The Netherlands.
 
 2025-06-11 to 14: [Workshop on Optimization, Dynamics and Convex Analysis (WODCA)](https://sites.google.com/view/wodca2025), Aveiro, Portugal.
@@ -28,7 +26,7 @@
 
 2025-08-10 to 15: [31st International Conference on Principles and Practice of Constraint Programming](https://cp2025.a4cp.org), Glasgow, UK.
 
-2025-08-25 to 27: [Optimization Unplugged - Non-convex landscapes, dynamics and learning](https://optimization-unplugged.github.io/), Lausanne, Switzerland.
+2025-08-25 to 27: [Optimization Unplugged - Non-Convex Landscapes, Dynamics and Learning](https://optimization-unplugged.github.io/), Lausanne, Switzerland.
 
 2025-09-01 to 04: [International Conference on Optimization and Decision Science (ODS 2025)](https://airoconference.it/ods2025), Milan, Italy.
 
@@ -42,7 +40,7 @@
 
 2026-02-17 to 20: [International School and Conference on Network Science (NetSciX 2026)](https://netscix2026.github.io), Auckland, New Zealand.
 
-2026-04-13 to 17: [Workshop on Simulation-Based Optimization with Applications](https://icerm.brown.edu/program/semester_program_workshop/sp-s26-w3), Providence, RI, USA.
+2026-04-13 to 17: [Workshop on Simulation-Based Optimization With Applications](https://icerm.brown.edu/program/semester_program_workshop/sp-s26-w3), Providence, RI, USA.
 
 2026-06-02 to 05: [SIAM Conference on Optimization (OP 2026)](https://www.siam.org/conferences-events/siam-conferences/op26/), Edinburgh, UK.
 

@@ -1,8 +1,8 @@
-2025-05-05 to 09: [Fusion Energy Week](https://usfusionenergy.org/fusion-energy-week), Many locations, USA and elsewhere.
+2025-05-05 to 09: [Fusion Energy Week 2025](https://usfusionenergy.org/fusion-energy-week), Many locations, USA and elsewhere.
 
 2025-05-12 to 13: [4th Workshop on FAIR Data in Plasma Science (FDPS 2025)](https://plasma-mds.org/ws-fair-data-plasma-science-4.html), Greifswald, Germany.
 
-2025-05-12 to 23: [Joint ICTP-IAEA Fusion Energy School (ICTP smr 4069)](https://indico.ictp.it/event/10834), Trieste, Italy.
+2025-05-12 to 23: [Joint ICTP-IAEA Fusion Energy School (ICTP SMR 4069)](https://indico.ictp.it/event/10834), Trieste, Italy.
 
 2025-05-19 to 22: [25th Topical Conference on Radio-Frequency Power in Plasmas (RFPPC 2025)](https://ipp.mpg.de/rfppc2025), Schloss Hohenkammer (near Munich), Germany.
 
@@ -48,7 +48,7 @@
 
 2026-03-23 to 26: [Long Program Multi-Fidelity Methods for Fusion Energy Workshop 1 Multi-Fidelity Methods](https://www.ipam.ucla.edu/programs/long-programs/multi-fidelity-methods-for-fusion-energy/?tab=activities), Los Angeles, CA, USA.
 
-2026-04-13 to 17: [Long Program Multi-Fidelity Methods for Fusion Energy Workshop 2 Learning Models from Data](https://www.ipam.ucla.edu/programs/long-programs/multi-fidelity-methods-for-fusion-energy/?tab=activities), Los Angeles, CA, USA.
+2026-04-13 to 17: [Long Program Multi-Fidelity Methods for Fusion Energy Workshop 2 Learning Models From Data](https://www.ipam.ucla.edu/programs/long-programs/multi-fidelity-methods-for-fusion-energy/?tab=activities), Los Angeles, CA, USA.
 
 2026-04-20 to 24: [25th International Stellarator-Heliotron Workshop (ISHW 2025)](https://ipp.mpg.de/4022808/ISHW), Cordoba, Spain. (Preliminary link.) [Search](https://www.google.com/search?q=International+Stellarator-Heliotron+Workshop+2026+cordoba)
 

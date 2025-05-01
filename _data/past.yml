@@ -54,7 +54,7 @@
   loc: Santiago, Chile
   kw: plas-am,plas-ph
 - dd: 2025-01-20 to 24
-  name: School on Disordered media
+  name: School on Disordered Media
   link: https://erdoscenter.renyi.hu/events/school-disordered-media
   loc: Budapest, Hungary
   kw: stoch
@@ -64,7 +64,7 @@
   loc: Berkeley, CA, USA
   kw: prob
 - dd: 2025-01-26 to 02-01
-  name: 45th International Workshop on High Energy Density Physics with Intense Ion and Laser Beams
+  name: 45th International Workshop on High Energy Density Physics With Intense Ion and Laser Beams
   link: https://indico.gsi.de/event/19829/
   loc: Hirschegg, Germany
   kw: plas-am
@@ -74,7 +74,7 @@
   loc: Bormio, Italy
   kw: nuclear
 - dd: 2025-01-27 to 31
-  name: Workshop on Disordered media
+  name: Workshop on Disordered Media
   link: https://erdoscenter.renyi.hu/events/workshop-disordered-media
   loc: Budapest, Hungary
   kw: stoch
@@ -94,12 +94,12 @@
   loc: Granada, Spain
   kw: plas-ph
 - dd: 2025-01-29 to 31
-  name: WIAS Workshop on Critical behaviour in spatial particle systems
+  name: WIAS Workshop on Critical Behaviour in Spatial Particle Systems
   link: https://www.wias-berlin.de/workshops/csps25/
   loc: Berlin, Germany
   kw: stoch
 - dd: 2025-01-29 to 31
-  name: Workshop on Critical behaviour in spatial particle systems
+  name: Workshop on Critical Behaviour in Spatial Particle Systems
   link: https://www.wias-berlin.de/workshops/csps25/
   loc: Berlin, Germany
   kw: stoch
@@ -123,6 +123,11 @@
   link: https://kaust.edu.sa/html/img25/
   loc: King Abdullah University of Science and Technology, Thuwal, Saudi Arabia
   kw: comp-na
+- dd: '2025-02-05'
+  name: 29th London Stringology Days & London Algorithmic Workshop (LSD & LAW)
+  link: https://nms.kcl.ac.uk/informatics/events/LSD&LAW25/
+  loc: London, UK
+  kw: cs-al
 - dd: 2025-02-09 to 14
   name: Conference on Artificial Intelligence and Quantum Science (AI+Quantum)
   link: https://sites.google.com/view/quai-acp-2025/home
@@ -170,13 +175,13 @@
   loc: Hannover, Germany
   kw: comp-qc
 - dd: 2025-02-17 to 21
-  name: ECTstar workshop on Key Reactions in Nuclear Astrophysics
+  name: ECTstar Workshop on Key Reactions in Nuclear Astrophysics
   link: https://indico.ectstar.eu/event/228/
   loc: Trento, Italy
   more: See [also](https://x.com/EctTrento)
   kw: nuclear
 - dd: 2025-02-17 to 21
-  name: Workshop Recent Perspectives on Non-crossing Partitions through Algebra, Combinatorics, and Probability
+  name: Workshop Recent Perspectives on Non-Crossing Partitions Through Algebra, Combinatorics, and Probability
   link: https://www.esi.ac.at/events/e548/
   loc: Vienna, Austria
   kw: prob
@@ -186,7 +191,7 @@
   loc: Braunschweig, Germany
   kw: stoch
 - dd: 2025-02-17 to 28
-  name: Winter school on Statistical Mechanics, Nonequilibrium Processes and Probability
+  name: Winter School on Statistical Mechanics, Nonequilibrium Processes and Probability
   link: https://sites.google.com/view/winterschoolsapienza/
   loc: Rome, Italy
   kw: prob
@@ -196,7 +201,7 @@
   loc: NIST, Gaithersburg, MD, USA
   kw: qmat
 - dd: 2025-02-23 to 28
-  name: 64th Sanibel Symposium (on quantum chemical theory)
+  name: 64th Sanibel Symposium (On Quantum Chemical Theory)
   link: https://sanibelsymposium.qtp.ufl.edu
   loc: St. Augustine Beach, FL, USA
   kw: qchem
@@ -206,7 +211,7 @@
   loc: Oberwolfach, Germany
   kw: stat-th
 - dd: 2025-02-24 to 03-07
-  name: Workshop Modeling Complex (Astro)Chemical Systems - Astrochemistry meets Data Science
+  name: Workshop Modeling Complex (Astro)Chemical Systems - Astrochemistry Meets Data Science
   link: https://munich-iapbp.de/activities/activities-2025/astrochemical-systems
   loc: Garching/Munich, Germany
   kw: plas-ig
@@ -246,7 +251,7 @@
   loc: Dresden, Germany
   kw: qmat
 - dd: 2025-02-24 to 28
-  name: NUSTAR Annual meeting 2025
+  name: NUSTAR Annual Meeting 2025
   link: https://indico.gsi.de/event/20773/
   loc: Darmstadt, Germany
   kw: nuclear
@@ -283,7 +288,7 @@
   loc: Okinawa, Japan
   kw: stat-ml
 - dd: 2025-03-03 to 06
-  name: CECAM Flagship Workshop Density Functional Theory and Artificial Intelligence learning from each other
+  name: CECAM Flagship Workshop Density Functional Theory and Artificial Intelligence Learning From Each Other
   link: https://cecam.org/workshop-details/density-functional-theory-and-artificial-intelligence-learning-from-each-other-1281
   loc: Lausanne, Switzerland
   kw: qmat
@@ -388,12 +393,12 @@
   loc: Oberwolfach, Germany
   kw: stat-ml
 - dd: 2025-03-24 to 26
-  name: 1st Annual Meeting of EMS-AI activity group on Scientific Machine Learning
+  name: 1st Annual Meeting of EMS-AI Activity Group on Scientific Machine Learning
   link: https://mate.polimi.it/events/EMS-TAG-SciML-25/
   loc: Milan, Italy
   kw: comp-ml
 - dd: 2025-03-24 to 28
-  name: Conference AI4Quantum - Accelerating Quantum Computing with AI
+  name: Conference AI4Quantum - Accelerating Quantum Computing With AI
   link: https://sciencecluster.dk/event/conference-ai4quantum/
   loc: Hillerød, Denmark
   kw: comp-qc
@@ -403,12 +408,7 @@
   loc: Oxford, UK
   kw: prob
 - dd: 2025-03-24 to 28
-  name: Spring School Extrema of logarithmically correlated random fields and applications
-  link: https://www2.mathematik.tu-darmstadt.de/~stochastik/SpringSchool2025/
-  loc: Darmstadt, Germany
-  kw: prob
-- dd: 2025-03-24 to 28
-  name: Spring School on Extrema of logarithmically correlated random fields and applications
+  name: Spring School on Extrema of Logarithmically Correlated Random Fields and Applications
   link: https://www2.mathematik.tu-darmstadt.de/~stochastik/SpringSchool2025/
   loc: Darmstadt, Germany
   kw: stoch
@@ -417,11 +417,6 @@
   link: https://sites.google.com/view/algstat2025/
   loc: Munich, Germany
   kw: stat-th
-- dd: 2025-03-24 to 28
-  name: YMCN Spring School Recent Advances in SPDEs
-  link: https://www.uni-muenster.de/MathematicsMuenster/de/events/2025/ymcn_spring-school_spdes.shtml
-  loc: Münster, Germany
-  kw: stoch
 - dd: 2025-03-24 to 28
   name: YMCN Spring School on Recent Advances in SPDEs
   link: https://www.uni-muenster.de/MathematicsMuenster/de/events/2025/ymcn_spring-school_spdes.shtml
@@ -433,7 +428,7 @@
   loc: Durham, UK
   kw: stoch
 - dd: 2025-03-27 to 28
-  name: Symposium Can Ice Be Described from First Principles?
+  name: Symposium Can Ice Be Described From First Principles?
   link: https://cas-nor.no/index.php/events/young-cas-fellow-symposium-can-ice-be-described-first-principles
   loc: Oslo, Norway
   kw: qchem
@@ -453,7 +448,7 @@
   loc: Nara, Japan
   kw: comp-qc
 - dd: 2025-03-31 to 04-03
-  name: 'CECAM Flagship Workshop Fulfilling the Multiscale Promise in Materials: Getting Information out of the Atomistic Scale'
+  name: 'CECAM Flagship Workshop Fulfilling the Multiscale Promise in Materials: Getting Information Out of the Atomistic Scale'
   link: https://cecam.org/workshop-details/fulfilling-the-multiscale-promise-in-materials-getting-information-out-of-the-atomistic-scale-1283
   loc: Lausanne, Switzerland & online
   kw: qmat
@@ -478,7 +473,7 @@
   loc: Allto, Finland
   kw: stat-th
 - dd: 2025-04-02 to 04
-  name: (3rd Workshop on) Reinforcement Learning for Autonomous Accelerators (RL4AA 2025)
+  name: (3rd Workshop On) Reinforcement Learning for Autonomous Accelerators (RL4AA 2025)
   link: https://rl4aa.github.io/RL4AA25/
   loc: Hamburg, Germany
   kw: stat-ml
@@ -493,7 +488,7 @@
   loc: Rome, Italy
   kw: stoch
 - dd: 2025-04-07 to 09
-  name: Workshop On Randomness and Discrete Structures (WORDS 2025)
+  name: Workshop on Randomness and Discrete Structures (WORDS 2025)
   link: https://sites.google.com/rug.nl/words2025/
   loc: Groningen, The Netherlands
   kw: cs-al
@@ -508,7 +503,7 @@
   loc: Prague, Czech Republic
   kw: plas-ph
 - dd: 2025-04-07 to 11
-  name: CUWB-IV Frontiers in statistics and probability
+  name: CUWB-IV Frontiers in Statistics and Probability
   link: https://cuwb.cimat.mx/node/68
   loc: Mexico City, Mexico
   kw: prob,stoch
@@ -538,7 +533,7 @@
   loc: Geneva, Switzerland
   kw: comp-ml
 - dd: 2025-04-09 to 11
-  name: 4th Probability, Analysis and Dynamics conference (PAD 2025)
+  name: 4th Probability, Analysis and Dynamics Conference (PAD 2025)
   link: https://people.maths.bris.ac.uk/~mb13434/pad25/
   loc: Bristol, UK
   kw: prob
@@ -558,7 +553,7 @@
   loc: Houston, TX, USA
   kw: comp-in
 - dd: 2025-04-14 to 17
-  name: Workshop on Regularisation by noise
+  name: Workshop on Regularisation by Noise
   link: https://regbynoise2025.conf.tuwien.ac.at/
   loc: Vienna, Austria
   kw: stoch
@@ -583,7 +578,7 @@
   loc: Kobe, Japan
   kw: qchem
 - dd: 2025-04-21 to 25
-  name: CECAM Flagship Workshop Future directions in non-equilibrium statistical physics
+  name: CECAM Flagship Workshop Future Directions in Non-Equilibrium Statistical Physics
   link: https://cecam.org/workshop-details/future-directions-in-non-equilibrium-statistical-physics-1395
   loc: Beijing, China
   kw: stoch
@@ -615,7 +610,7 @@
   more: Part of [EvoStar 2025](https://evostar.org/2025/)
   kw: comp-op,cs-op
 - dd: 2025-04-23 to 25
-  name: 4th Quantum Computing Theory in Practice conference (QCTiP 2025)
+  name: 4th Quantum Computing Theory in Practice Conference (QCTiP 2025)
   link: https://qctip2025.com
   loc: Berlin, Germany
   kw: comp-qc
@@ -631,12 +626,12 @@
   more: Part of [EvoStar 2025](https://evostar.org/2025/)
   kw: comp-op
 - dd: 2025-04-23 to 25
-  name: 'Workshop Quantum Machine Learning: theory meets experiments'
+  name: 'Workshop Quantum Machine Learning: Theory Meets Experiments'
   link: https://quantum.univie.ac.at/events/quantum-machine-learning-workshop-2025/
   loc: Vienna, Austria
   kw: stat-ml
 - dd: 2025-04-23 to 25
-  name: Workshop on Ion-electron effects in large scale atomistic modelling (ELLAM 2025)
+  name: Workshop on Ion-Electron Effects in Large Scale Atomistic Modelling (ELLAM 2025)
   link: https://ellam.aalto.fi
   loc: Aalto University, Espoo, Finland
   kw: qmat
@@ -681,3 +676,8 @@
   link: https://ww2.amstat.org/meetings/sdss/2025/
   loc: Salt Lake City, UT, USA
   kw: stat-ml
+- dd: 2025-04-30 to 05-02
+  name: 5th IMA and OR Society Conference on Mathematics of Operational Research
+  link: https://ima.org.uk/24367/5th-ima-and-or-society-conference-on-mathematics-of-operational-research/
+  loc: Birmingham, UK
+  kw: comp-op

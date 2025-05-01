@@ -2,11 +2,11 @@
 
 2025-06-10 to 13: [16th International OSD Conference on Order in Statistical Data - Order Statistics and Beyond (ODOS 2025)](https://www.osd2025.isw.rwth-aachen.de/cms/~bjvtqt/osd2025-isw/), Aachen, Germany.
 
-2025-06-12 to 14: [TRR 391 Summer School on Generalized Additive Modelling and Statistical Methods for High-Dimensional Spatio-temporal Data](https://trr391.tu-dortmund.de/events/summer-schools/), Dortmund, Germany.
+2025-06-12 to 14: [TRR 391 Summer School on Generalized Additive Modelling and Statistical Methods for High-Dimensional Spatio-Temporal Data](https://trr391.tu-dortmund.de/events/summer-schools/), Dortmund, Germany.
 
 2025-07-07 to 09: [International Association of Statistical Computing Conference Data Science, Statistics & Visualisation (DSSV 2025)](https://iasc-isi.org/dssv2025/), Kruger Park, South Africa.
 
-**2025-08-02 to 07: [ASA, IMS and other Joint Statistical Meetings (JSM 2025)](https://ww2.amstat.org/meetings/jsm/2025/), Nashville, TN, USA**.
+**2025-08-02 to 07: [ASA, IMS and Other Joint Statistical Meetings (JSM 2025)](https://ww2.amstat.org/meetings/jsm/2025/), Nashville, TN, USA**.
 
 2025-08-12 to 15: [13th International Conference on Multiple Comparison Procedures (MCP 2025)](http://isbiostat.org/conference-info/), Philadelphia, PA, USA.
 

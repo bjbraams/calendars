@@ -4,7 +4,7 @@
 
 2025-03-11 to 13: [Synergies of Machine Learning and Numerics](https://conf.rupp.ink/osaka25/), Osaka, Japan.
 
-2025-03-24 to 26: [1st Annual Meeting of EMS-AI activity group on Scientific Machine Learning](https://mate.polimi.it/events/EMS-TAG-SciML-25/), Milan, Italy.
+2025-03-24 to 26: [1st Annual Meeting of EMS-AI Activity Group on Scientific Machine Learning](https://mate.polimi.it/events/EMS-TAG-SciML-25/), Milan, Italy.
 
 2025-04-08 to 11: [5th ICFA Beam Dynamics Mini-Workshop on Machine Learning for Particle Accelerators](https://indico.cern.ch/event/1382428/), Geneva, Switzerland.
 

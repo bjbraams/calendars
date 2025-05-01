@@ -1,48 +1,50 @@
-# dd,name,link,loc,more,kw
-- dd: 2025-08-25 to 29
-  name: Paris International School on Advanced Computational Materials Science (PISACMS 2025)
-  link: https://pisacms.sciencesconf.org/
-  loc: Paris, France
-  kw: qmat
-- dd: 2025-08-25 to 29
-  name: 31st International European Conference on Parallel and Distributed Computing (Euro-Par 2025)
-  link: https://2025.euro-par.org/
-  loc: Dresden, Germany
-  kw: comp-sc
-- dd: 2026-11-15 to 20
-  name: ACM-IEEE International Conference for High Performance Computing, Networking, Storage and Analysis (SC 2026)
-  link: https://conferences.ieee.org/conferences_events/conferences/conferencedetails/51908
-  loc: Chicago, IL, USA
-  kw: comp-sc
-- dd: 2025-07-21 to 23
-  name: 45th IEEE International Conference on Distributed Computing Systems (ICDCS 2025)
-  link: https://icdcs2025.icdcs.org/
+- dd: 2025-06-24 to 27
+  name: 30th Biennial Numerical Analysis Conference (2025)
+  link: https://numericalanalysisconference.org.uk/
   loc: Glasgow, UK
-  kw: comp-sc
-# 2025-04-30
-# dd,name,link,loc,more,kw
-- dd: 2025-08-04 to 08
-  name: Log-gases in Caeli Australi
-  link: https://lica2025.github.io/
-  loc: Creswick, Australia
-  kw: prob
-- dd: 2026-03-23 to 27
-  name: INI Workshop Geometry of Eigenvalues
-  link: https://www.newton.ac.uk/event/gstw02/
-  loc: Cambridge, UK
-  kw: tbd
-- dd: 2025-06-16 to 20
-  name: School on stochastic interacting particle systems and random matrices
-  link: https://erdoscenter.renyi.hu/events/school-stochastic-interacting-particle-systems-and-random-matrices
-  loc: Budapest, Hungary
+  kw: comp-na
+- dd: 2025-09-22 to 24
+  name: 2nd International School on Atomic and Molecular Data Evaluation and Curation (2025)
+  link: https://eventos.uva.es/129130/detail/2nd-international-school-on-atomic-and-molecular-data-evaluation-and-curation.html
+  loc: Valladolid, Spain
+  kw: plas-am
+- dd: 2025-08-18 to 22
+  name: 25th Max Planck Advanced Course on the Foundations of Computer Science (ADFOCS 2025)
+  link: https://www.mpi-inf.mpg.de/departments/algorithms-complexity/adfocs/2025/
+  loc: Saarbrücken, Germany
+  kw: cs-al
+- dd: 2025-09-23 to 26
+  name: International Workshop on Algorithmic Optimization
+  link: https://alop.uni-trier.de/event/international-workshop-on-algorithmic-optimization/
+  loc: Trier. Germany
+  kw: cs-op
+- dd: 2025-08-25 to 27
+  name: 19th International Symposium on Spatial and Temporal Data (SSTD 2025)
+  link: https://sstd2025.github.io/
+  loc: Osaka, Japan
   kw: stoch
-- dd: 2025-06-12 to 13
-  name: HCM Workshop Functional Data Analysis - in Honor of Alois Kneip
-  link: https://www.mathematics.uni-bonn.de/hcm/events/workshops-conferences/workshop_functional-data-analysis-a
-  loc: Bonn, Germany
-  kw: stat-th
-- dd: 2025-06-10 to 13
-  name: 16th International OSD Conference on Order in Statistical Data - Order Statistics and Beyond (ODOS 2025)
-  link: https://www.osd2025.isw.rwth-aachen.de/cms/~bjvtqt/osd2025-isw/
-  loc: Aachen, Germany
-  kw: stat-me
+- dd: 2025-06-16 to 19
+  name: INFORMED AI Summer School 2025
+  link: https://informed-ai.net/event/informed-ai-summer-school-2025/
+  loc: Bristol, UK
+  kw: stat-ml
+- dd: '2025-02-05'
+  name: 29th London Stringology Days & London Algorithmic Workshop (LSD & LAW)
+  link: https://nms.kcl.ac.uk/informatics/events/LSD&LAW25/
+  loc: London, UK
+  kw: cs-al
+- dd: 2025-10-21 to 23
+  name: ICGA Advances in Computer Games Conference (ACG 2025)
+  link: https://icga.org/?page_id=4052
+  loc: Online
+  kw: cs-al
+- dd: 2025-06-16 to 27
+  name: 17th Madrid UPM Machine Learning and Advanced Statistics Summer School (2025)
+  link: https://cig.fi.upm.es/mlas/
+  loc: Madrid, Spain
+  kw: stat-ml
+- dd: 2025-06-23 to 25
+  name: International Symposium of AI on Electrochemistry (iSAIEC 2025)
+  link: https://ai4ec.ac.cn/zh/event/isaiec_2025
+  loc: Xiamen, China
+  kw: qchem

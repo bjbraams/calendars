@@ -2,9 +2,9 @@
 
 2025-01-23 to 24: [SLMath Connections Workshop Probability and Statistics of Discrete Structures](https://www.slmath.org/workshops/1085), Berkeley, CA, USA.
 
-2025-02-17 to 21: [Workshop Recent Perspectives on Non-crossing Partitions through Algebra, Combinatorics, and Probability](https://www.esi.ac.at/events/e548/), Vienna, Austria.
+2025-02-17 to 21: [Workshop Recent Perspectives on Non-Crossing Partitions Through Algebra, Combinatorics, and Probability](https://www.esi.ac.at/events/e548/), Vienna, Austria.
 
-2025-02-17 to 28: [Winter school on Statistical Mechanics, Nonequilibrium Processes and Probability](https://sites.google.com/view/winterschoolsapienza/), Rome, Italy.
+2025-02-17 to 28: [Winter School on Statistical Mechanics, Nonequilibrium Processes and Probability](https://sites.google.com/view/winterschoolsapienza/), Rome, Italy.
 
 2025-02-24 to 28: [Free Entropy Theory and Random Matrices](https://www.ipam.ucla.edu/programs/workshops/free-entropy-theory-and-random-matrices/), IPAM, Los Angeles, CA, USA.
 
@@ -14,13 +14,11 @@
 
 2025-03-24 to 28: [Oxford Probability Workshop Random Discrete Structures](https://davidgeldbach.wixsite.com/website), Oxford, UK.
 
-2025-03-24 to 28: [Spring School Extrema of logarithmically correlated random fields and applications](https://www2.mathematik.tu-darmstadt.de/~stochastik/SpringSchool2025/), Darmstadt, Germany.
-
 2025-03-31 to 04-04: [Dynamics of Random Sustems - UK Easter Probability Meeting 2025](https://sites.google.com/view/ukeastermeeting2025/home), Durham, UK.
 
-2025-04-07 to 11: [CUWB-IV Frontiers in statistics and probability](https://cuwb.cimat.mx/node/68), Mexico City, Mexico.
+2025-04-07 to 11: [CUWB-IV Frontiers in Statistics and Probability](https://cuwb.cimat.mx/node/68), Mexico City, Mexico.
 
-2025-04-09 to 11: [4th Probability, Analysis and Dynamics conference (PAD 2025)](https://people.maths.bris.ac.uk/~mb13434/pad25/), Bristol, UK.
+2025-04-09 to 11: [4th Probability, Analysis and Dynamics Conference (PAD 2025)](https://people.maths.bris.ac.uk/~mb13434/pad25/), Bristol, UK.
 
 2025-04-10 to 12: [NYU Shanghai - Peking - Westlake Probability Conference](https://www.probabilityconference2025.com/), Shanghai, China.
 

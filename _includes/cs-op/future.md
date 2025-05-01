@@ -12,5 +12,7 @@
 
 2025-09-11 to 12: [Workshop on Recent Advances in Multi-Objective Optimization (RAMOO 2025)](https://moo.univie.ac.at/), Straubing, Germany.
 
+2025-09-23 to 26: [International Workshop on Algorithmic Optimization](https://alop.uni-trier.de/event/international-workshop-on-algorithmic-optimization/), Trier. Germany.
+
 2025-12-09 to 12: [Mixed Integer Programming Workshop South America 2025](https://mixedinteger.org/MIPSouthAmerica/2025/), Viña del Mar, Chile.
 

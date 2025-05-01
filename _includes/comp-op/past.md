@@ -8,3 +8,5 @@
 
 2025-04-23 to 25: [International Conference on the Applications of Evolutionary Computation (EvoApps 2025)](https://evostar.org/2025/evoapps/), Trieste, Italy. Part of [EvoStar 2025](https://evostar.org/2025/)
 
+2025-04-30 to 05-02: [5th IMA and OR Society Conference on Mathematics of Operational Research](https://ima.org.uk/24367/5th-ima-and-or-society-conference-on-mathematics-of-operational-research/), Birmingham, UK.
+

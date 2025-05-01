@@ -26,7 +26,7 @@
 
 2025-08-03 to 08: [37th International Symposium on Free Radicals (FRS 2025)](https://thefrs.org), Snowbird, UT, USA.
 
-2025-08-05 to 08: [COST NanoSpace – AI in Astrochemistry Training School 2025](https://ocamm.fi/event/cost-nanospace-ai-in-astrochemistry-training-school-2025/), Espoo, Finland.
+2025-08-05 to 08: [COST NanoSpace AI in Astrochemistry Training School 2025](https://ocamm.fi/event/cost-nanospace-ai-in-astrochemistry-training-school-2025), Espoo, Finland.
 
 2025-08-17 to 21: [WE-Hereaus Seminar Manipulating Molecular Electronic Properties by Vibrational Excitations: Novel Spectroscopies and Microscopies](https://we-heraeus-stiftung.de/veranstaltungen/manipulating-molecular-electronic-properties-by-vibrational-excitations-novel-spectroscopies-and-microscopies/main/), Bad Honnef, Germany.
 

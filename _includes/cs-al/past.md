@@ -2,6 +2,8 @@
 
 2025-01-12 to 15: [SIAM Symposium on Discrete Algorithms (SODA 2025)](https://siam.org/conferences-events/siam-conferences/soda25/), New Orleans, LA, USA.
 
+2025-02-05: [29th London Stringology Days & London Algorithmic Workshop (LSD & LAW)](https://nms.kcl.ac.uk/informatics/events/LSD&LAW25/), London, UK.
+
 2025-03-03 to 04: [Workshop on Algorithms, Complexity and Logic (“Theorietag”)](https://stacs2025.de/workshop/), Jena, Germany. (In association with [STACS 2025](https://stacs2025.de).)
 
 2025-03-04 to 07: [42nd International Symposium on Theoretical Aspects of Computer Science (STACS 2025)](https://stacs2025.de), Jena, Germany.
@@ -10,5 +12,5 @@
 
 2025-03-31 to 04-04: [8th Workshop on Algebraic Complexity Theory (WACT 2025)](https://qi.rub.de/wact), Bochum, Germany.
 
-2025-04-07 to 09: [Workshop On Randomness and Discrete Structures (WORDS 2025)](https://sites.google.com/rug.nl/words2025/), Groningen, The Netherlands.
+2025-04-07 to 09: [Workshop on Randomness and Discrete Structures (WORDS 2025)](https://sites.google.com/rug.nl/words2025/), Groningen, The Netherlands.
 

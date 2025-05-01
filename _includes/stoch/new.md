@@ -1,2 +1,2 @@
-2025-06-16 to 20: [School on stochastic interacting particle systems and random matrices](https://erdoscenter.renyi.hu/events/school-stochastic-interacting-particle-systems-and-random-matrices), Budapest, Hungary.
+2025-08-25 to 27: [19th International Symposium on Spatial and Temporal Data (SSTD 2025)](https://sstd2025.github.io/), Osaka, Japan.
 

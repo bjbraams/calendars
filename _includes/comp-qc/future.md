@@ -4,7 +4,7 @@
 
 2025-06-09 to 12: [Adiabatic Quantum Computing Conference (AQC 2025)](https://aqc25.phas.ubc.ca), Vancouver, BC, Canada.
 
-2025-06-16 to 18: [Vienna Workshop on quantum cryptography beyond quantum key distribution (VIE-CRYPT 2025)](https://quantum.univie.ac.at/events/vie-crypt-2025/), Vienna, Austria.
+2025-06-16 to 18: [Vienna Workshop on Quantum Cryptography Beyond Quantum Key Distribution (VIE-CRYPT 2025)](https://quantum.univie.ac.at/events/vie-crypt-2025/), Vienna, Austria.
 
 2025-06-16 to 20: [2nd Workshop on Quantum Software 2025](https://pldi25.sigplan.org/home/wqs-2025), Seoul, Korea.
 

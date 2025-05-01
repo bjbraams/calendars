@@ -1,4 +1,4 @@
-2025-06-02 to 13: [Algorithms For Multiphysics Models In The Post-Moore's Law Era](https://sites.google.com/msu.edu/modeling-beyond-moore/), Los Alamos, NM, USA.
+2025-06-02 to 13: [Algorithms for Multiphysics Models in the Post-Moore's Law Era](https://sites.google.com/msu.edu/modeling-beyond-moore/), Los Alamos, NM, USA.
 
 2025-07-07 to 09: [25th International Conference on Computational Science (ICCS 2025)](https://iccs-meeting.org/iccs2025/), Singapore.
 

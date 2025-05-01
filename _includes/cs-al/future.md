@@ -8,7 +8,7 @@
 
 2025-05-26 to 29: [International Federation for Information Processing (IFIP) Networking 2025 Conference (NETWORKING 2025)](https://networking.ifip.org/2025/), Limassol, Cyprus.
 
-2025-06-02 to 04: [32nd International Colloquium On Structural Information and Communication Complexity (SIROCCO 2025)](https://www.torontomu.ca/sirocco-2025/), Delphi, Greece.
+2025-06-02 to 04: [32nd International Colloquium on Structural Information and Communication Complexity (SIROCCO 2025)](https://www.torontomu.ca/sirocco-2025/), Delphi, Greece.
 
 2025-06-02 to 06: [Complexity, Algorithms, Automata and Logic Meet (CAALM 2025)](https://caalm-2025.sciencesconf.org), Villetaneuse, France.
 
@@ -46,6 +46,8 @@
 
 2025-08-13 to 15: [11th IEEE International Conference on Data Science and Systems (DSS 2025)](https://hpcn.exeter.ac.uk/dss2025/), Exeter, UK.
 
+2025-08-18 to 22: [25th Max Planck Advanced Course on the Foundations of Computer Science (ADFOCS 2025)](https://www.mpi-inf.mpg.de/departments/algorithms-complexity/adfocs/2025/), Saarbrücken, Germany.
+
 2025-08-25 to 27: [28th Prague Stringology Conference (PSC 2025)](https://www.stringology.org/event/2025/), Prague, Czech Republic.
 
 2025-08-25 to 29: [50th International Symposium on Mathematical Foundations of Computer Science (MFCS 2025)](https://mfcs2025.mimuw.edu.pl), Warsaw, Poland.
@@ -56,11 +58,13 @@
 
 2025-09-12 to 14: [27th China-Japan Conference on Discrete and Computational Geometry, Graphs, and Games (CJCDCG3 2025)](https://sokoban.cn/yang/cjcdcggg2025), Guangzhou, China.
 
-2025-09-15 to 19: [ALGO including European Symposium on Algorithms (ESA) and related conferences and workshops (ALGO 2025)](https://algo-conference.org/2025/), Warsaw, Poland.
+2025-09-15 to 19: [ALGO Including European Symposium on Algorithms (ESA) and Related Conferences and Workshops (ALGO 2025)](https://algo-conference.org/2025/), Warsaw, Poland.
 
-2025-09-17 to 19: [International Symposium on Parameterized and Exact Computation (IPEC 2025) in conjunction with ALGO 2025](https://algo-conference.org/2025/), Warsaw, Poland.
+2025-09-17 to 19: [International Symposium on Parameterized and Exact Computation (IPEC 2025) in Conjunction With ALGO 2025](https://algo-conference.org/2025/), Warsaw, Poland.
 
 2025-09-24 to 26: [33rd International Symposium on Graph Drawing and Network Visualization (GD 2025)](https://graphdrawing.github.io/gd2025/), Norrköping, Sweden.
+
+2025-10-21 to 23: [ICGA Advances in Computer Games Conference (ACG 2025)](https://icga.org/?page_id=4052), Online.
 
 2025-12-14 to 17: [66th IEEE Symposium on Foundations of Computer Science (FOCS 2025)](https://focs.computer.org/2025/), Sydney, Australia.
 

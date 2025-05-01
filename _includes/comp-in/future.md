@@ -6,7 +6,7 @@
 
 2025-07-28 to 08-01: [12th Applied Inverse Problems Conference (AIP 2025)](https://eventos.fgv.br/aip2025), Rio de Janeiro, Brazil.
 
-2025-08-04 to 08: [Summer School on Topological data analysis in stochastic geometry and image processing](https://sites.google.com/view/aarhustda/), Aarhus Institute of Advanced Studies, Aarhus, Denmark.
+2025-08-04 to 08: [Summer School on Topological Data Analysis in Stochastic Geometry and Image Processing](https://sites.google.com/view/aarhustda/), Aarhus Institute of Advanced Studies, Aarhus, Denmark.
 
 2025-08-25 to 29: [Stochastic Numerics and Inverse Problems in Southern Sweden (SNIPSS 2025)](https://lnu.se/en/meet-linnaeus-university/current/events/2025/konferenser/snipss-2025--stochastic-numerics-and-inverse-problems-in-southern-sweden-2025/), Växjö, Sweden.
 
@@ -22,5 +22,5 @@
 
 2026-06-01 to 30 (to be specified): [9th International Conference on Image Formation in X-Ray Computed Tomography (CT 2026)](https://ct-meeting.org), Salt Lake City, UT, USA.
 
-2026-07-01 to 31 (to be specified): [Medical Imaging with Deep Learning (MIDL 2026)](https://2026.midl.io), Taipei, Taiwan.
+2026-07-01 to 31 (to be specified): [Medical Imaging With Deep Learning (MIDL 2026)](https://2026.midl.io), Taipei, Taiwan.
 
