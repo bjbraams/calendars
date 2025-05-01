@@ -75,10 +75,11 @@ stat-th:
 prob:
   title: Probability Theory
   excerpt: Foundations, probability on algebraic, combinatorial and geometric structures, distributions, asymptotics.
+    Random matrix theory, percolation theory and statistical physics of spin systems is classified under probability.
 stoch:
   title: Stochastic Processes
   excerpt: Key words include stochastic processes, stochastic analysis, stochastic differential equations, stochastic dynamics, spatial stochastics, stochastic geometry, martingales,
-    Markov processes, Lévy Processes, Brownian motion, models from statistical mechanics, queuing theory.
+    Markov processes, Lévy Processes, Brownian motion, queuing theory.
 qchem:
   title: Quantum Chemistry
   excerpt: Calendar in progress.
