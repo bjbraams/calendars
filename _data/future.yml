@@ -280,7 +280,7 @@
   loc: Galapagos Islands, Equador
   kw: spintronics
 - dd: 2025-05-25 to 30
-  name: BIRS Workshop on Mixtures of Probability and Geometry
+  name: BIRS Workshop on Mixtures of Probability and Geometry (2025)
   link: https://www.birs.ca/events/2025/5-day-workshops/25w5361
   loc: Oaxaca, Mexico
   kw: prob
@@ -843,7 +843,7 @@
   loc: Ann Arbor, MI, USA
   kw: cs-oh
 - dd: 2025-06-22 to 27
-  name: Workshop on Efficient and Reliable Deep Learning Methods and Their Scientific Applications (BIRS 25w5382)
+  name: BIRS Workshop on Efficient and Reliable Deep Learning Methods and Their Scientific Applications (2025)
   link: https://birs.ca/events/2025/5-day-workshops/25w5382
   loc: Banff, AB, Canada
   kw: comp-ml
@@ -1002,7 +1002,7 @@
   more: (Satellite of WATOC 2025.)
   kw: qchem
 - dd: 2025-06-29 to 07-04
-  name: 'Game-Theoretic Statistical Inference: Optional Sampling, Universal Inference, and Multiple Testing Based on E-Values (BIRS 25w5482)'
+  name: 'BIRS Workshop Game-Theoretic Statistical Inference: Optional Sampling, Universal Inference, and Multiple Testing Based on E-Values (2025)'
   link: https://birs.ca/events/2025/5-day-workshops/25w5482
   loc: Chennai, India
   kw: stat-th
@@ -2316,7 +2316,7 @@
   loc: Bologna, Italy
   kw: cs-oh
 - dd: 2025-10-26 to 31
-  name: BIRS Workshop Emerging Synergies Between Stochastic Analysis and Statistical Mechanics
+  name: BIRS Workshop Emerging Synergies Between Stochastic Analysis and Statistical Mechanics (2025)
   link: https://www.birs.ca/events/2025/5-day-workshops/25w5367
   loc: Banff, AB, Canada
   kw: stoch
@@ -2448,7 +2448,7 @@
   loc: Seattle, WA, USA
   kw: comp-na
 - dd: 2025-12-07 to 12
-  name: Workshop on Bayesian Uncertainty Quantification in Large Models (BIRS 25w5329)
+  name: BIRS Workshop on Bayesian Uncertainty Quantification in Large Models (2025)
   link: https://birs.ca/events/2025/5-day-workshops/25w5329
   loc: Chennai, India
   kw: stat-th
