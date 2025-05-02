@@ -70,7 +70,7 @@
 
 2025 tbd: [26th Asian Workshop on First-Principles Electronic Structure Calculations (ASIAN)](http://bandstructure.jp/INTRO/bandmape.html), Japan tbd. (Mention only.)
 
-2026 tbd: 12th Workshop on Novel Methods for Electronic Structure Calculations, Argentina. \[Search](https://www.google.com/search?q=12th+Workshop+on+Novel+Methods+for+Electronic+Structure+Calculations+Argentina+2026)
+2026 tbd: 12th Workshop on Novel Methods for Electronic Structure Calculations, Argentina. [Search](https://www.google.com/search?q=12th+Workshop+on+Novel+Methods+for+Electronic+Structure+Calculations+Argentina+2026)
 
 2026 tbd: 31st Canadian Symposium on Theoretical and Computational Chemistry (CSTCC 2026), Ottawa, Canada. [Search](https://www.google.com/search?q=31st+Canadian+Symposium+on+Theoretical+and+Computational+Chemistry+CSTCC+2026)
 

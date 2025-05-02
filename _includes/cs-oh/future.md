@@ -18,6 +18,8 @@
 
 2025-08-16 to 22: [34th International Joint Conference on Artificial Intelligence (IJCAI 2025)](https://2025.ijcai.org), Montreal, QC, Canada.
 
+2025-08-25 to 30: [36th International Conference on Concurrency Theory (CONCUR), 30th IC on Formal Methods for Industrial Critical Systems (FMICS) and Joint IC on Quantitative Evaluation of SysTems and on Formal Modeling and Analysis of Timed Systems (QEST+FORMATS) (CONFEST 2025)](https://conferences.au.dk/confest2025), Aarhus, Denmark.
+
 2025-09-01 to 05: [22nd International Conference on Unconventional Computation and Natural Computation (UCNC 2025)](https://webusers.i3s.univ-cotedazur.fr/UCNC2025/), Nice, France.
 
 2025-10-06 to 10: [25th International Conference on Formal Methods in Computer-Aided Design (FMCAD 2025)](https://fmcad.org/FMCAD25/) and [17th International Conference on Verified Software: Theories, Tools, and Experiments (VSTTE 2025)](https://easychair.org/cfp/vstte25), colocated at Menlo Park, CA, USA.
@@ -27,6 +29,8 @@
 2025-10-27 to 31: [39th International Symposium on Distributed Computing (DISC 2025)](https://disc-conference.org/wp/disc2025/), Berlin, Germany.
 
 2025-10-29 to 31: [7th International Conference on Geometric Science of Information (GSI 2025)](https://conference-gsi.org), Saint Malo, France.
+
+2025-12-01 to 03: [Symposium on Dependable Software Engineering - Theories, Tools and Applications (SETTA 2025)](https://www.setta2025.uk/), Oxford, UK.
 
 2026-08-16 to 20: [28th International Conference on Pattern Recognition (ICPR 2026)](https://iapr.org/conferences/conference-schedule/), Lyon, France. (Announcement only.)
 

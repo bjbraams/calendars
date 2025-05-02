@@ -1,2 +1,2 @@
-2025-08-04 to 08: [Log-gases in Caeli Australi](https://lica2025.github.io/), Creswick, Australia.
+2025-05-26 to 30: [43rd Finnish Summer School on Probability and Statistics (2025)](https://fdnss.fi/43rd-finnish-summer-school-on-probability-and-statistics/), Lammi, Finland.
 

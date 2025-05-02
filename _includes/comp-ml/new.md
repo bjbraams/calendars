@@ -1,2 +1,2 @@
-2025-06-30 to 07-04: [6th ACM Europe Summer School on Data Science](https://europe.acm.org/seasonal-schools/data-science/2025), Ioannina, Greece.
+2025-06-30 to 07-02: [UCL DISI Conference on AI for Data Intensive Science and Industry (2025)](https://www.ucl.ac.uk/data-intensive-science-industry/news/2024/dec/explore-future-ai-data-intensive-science-and-industry), London, UK.
 

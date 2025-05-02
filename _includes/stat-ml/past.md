@@ -22,3 +22,5 @@
 
 2025-04-29 to 05-02: [ASA Symposium on Data Science and Statistics (SDSS 2025)](https://ww2.amstat.org/meetings/sdss/2025/), Salt Lake City, UT, USA.
 
+2025-05-01 to 03: [SIAM International Conference on Data Mining (SDM 2025)](https://siam.org/conferences-events/siam-conferences/sdm25/), Alexandria, VA, USA.
+

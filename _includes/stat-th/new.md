@@ -1,2 +1,2 @@
-2025-06-12 to 13: [HCM Workshop Functional Data Analysis - in Honor of Alois Kneip](https://www.mathematics.uni-bonn.de/hcm/events/workshops-conferences/workshop_functional-data-analysis-a), Bonn, Germany.
+2025-05-26 to 30: [43rd Finnish Summer School on Probability and Statistics (2025)](https://fdnss.fi/43rd-finnish-summer-school-on-probability-and-statistics/), Lammi, Finland.
 

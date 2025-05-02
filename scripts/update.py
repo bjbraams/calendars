@@ -1,37 +1,79 @@
 import sys
-import re # for later
-def process(a,b,y):
-    # entry a+b to dir/y/fn, with formatting
-    # dir and fn are global variables
-    if "*" in y:
-        format0 = "**"
-        format1 = "**"
-        y1 = y.replace("*","")
+import os
+from datetime import date
+import yaml
+import myyaml
+
+TODAY = date.today().strftime('%Y-%m-%d')
+
+cwd = os.getcwd()
+if os.path.basename(cwd) != 'calendars':
+    print('wrong working directory: '+cwd)
+    sys.exit(1)
+
+print('Checking _data/past.yml...\n')
+with open('_data/past.yml') as file:
+    past = yaml.safe_load(file)
+errors = myyaml.check_calendar(past)
+for error in errors:
+    print(error)
+
+print('Checking _data/future.yml...\n')
+with open('_data/future.yml') as file:
+    future = yaml.safe_load(file)
+errors = myyaml.check_calendar(future)
+for error in errors:
+    print(error)
+
+print('Checking _data/new.yml...\n')
+with open('_data/new.yml') as file:
+    new = yaml.safe_load(file)
+errors = myyaml.check_calendar(new)
+for error in errors:
+    print(error)
+
+print('Checking _data/latest.yml...\n')
+with open('_data/latest.yml') as file:
+    latest = yaml.safe_load(file)
+errors = myyaml.check_calendar(latest)
+for error in errors:
+    print(error)
+
+for event in latest:
+    myyaml.capitalize(event)
+
+all = myyaml.sorted_unique(past+future+latest)
+
+with open('_data/all-'+TODAY+'.yml', 'w') as file:
+    yaml.safe_dump(all, file,
+                   allow_unicode=True, width=999, sort_keys=False)
+
+with open('_data/new-'+TODAY+'.yml', 'w') as file:
+    yaml.safe_dump(latest, file,
+                   allow_unicode=True, width=999, sort_keys=False)
+    file.write('# '+TODAY+'\n')
+    yaml.safe_dump(new, file,
+                   allow_unicode=True, width=999, sort_keys=False)
+
+with open('_data/latest-'+TODAY+'.yml', 'w') as file:
+    file.write('# dd,name,link,loc,more,kw\n')
+
+f0 = open('_data/past-'+TODAY+'.yml', 'w')
+f1 = open('_data/future-'+TODAY+'.yml', 'w')
+
+for event in all:
+    if str(event['dd']).replace(' ','\uffff') < TODAY:
+        yaml.safe_dump([event], f0, allow_unicode=True,
+                       width=999, sort_keys=False)
     else:
-        format0 = ""
-        format1 = ""
-        y1 = y
-    if y1 not in targets.keys():
-        try:
-            targets[y1] = open(dir+"/"+y1+"/"+fn+".md", "w")
-        except:
-            print ("not found: "+dir+"/"+y1+"/")
-            targets[y1] = None
-    if targets[y1]:
-        targets[y1].write(format0+a+format1+b+"\n\n")
-fn = sys.argv[1]
-dir = "_includes"
-f0 = open("_data"+"/"+fn+".csv")
-targets = {}
-while line := f0.readline()[:-1]:
-    x = line.split("|")
-    if len(x) != 6:
-        print(line)
-    else:
-        if x[2]:
-            a = x[0]+": ["+x[1]+"]("+x[2]+"), "+x[3]
-        else:
-            a = x[0]+": "+x[1]+", "+x[3]
-        b = (". "+x[4] if x[4] else "")+"."
-        for y in x[-1].split(","):
-            process(a,b,y)
+        yaml.safe_dump([event], f1, allow_unicode=True,
+                       width=999, sort_keys=False)
+
+# Check to proceed
+response = input(f"Return to proceed, Ctrl-c to cancel")
+
+# Do not rename '_data/all-'+TODAY+'.yml'
+os.rename('_data/new-'+TODAY+'.yml', '_data/new.yml')
+os.rename('_data/latest-'+TODAY+'.yml', '_data/latest.yml')
+os.rename('_data/past-'+TODAY+'.yml', '_data/past.yml')
+os.rename('_data/future-'+TODAY+'.yml', '_data/future.yml')

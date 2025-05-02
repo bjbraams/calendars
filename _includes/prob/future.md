@@ -8,7 +8,9 @@
 
 2025-05-20 to 23: [Eurandom Workshop Product-Form Probability Distributions](https://www.eurandom.tue.nl/event/product-form-probability-distributions/), Eindhoven, Netherlands.
 
-2025-05-25 to 30: [BIRS Workshop on Mixtures of Probability and Geometry](https://www.birs.ca/events/2025/5-day-workshops/25w5361), Oaxaca, Mexico.
+2025-05-25 to 30: [BIRS Workshop on Mixtures of Probability and Geometry (2025)](https://www.birs.ca/events/2025/5-day-workshops/25w5361), Oaxaca, Mexico.
+
+2025-05-26 to 30: [43rd Finnish Summer School on Probability and Statistics (2025)](https://fdnss.fi/43rd-finnish-summer-school-on-probability-and-statistics/), Lammi, Finland.
 
 2025-05-26 to 30: [Joint European Thermodynamics Conference (JETC 2025)](https://mi.sanu.ac.rs/JETC2025), Belgrade, Serbia.
 

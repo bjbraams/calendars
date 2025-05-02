@@ -2,6 +2,10 @@
 
 2025-06-02 to 06: [FoQaCiA WORKSHOP Pioneering the Foundations of Quantum Computing](https://foqacia.org/foqacia-workshop-2025), Braga, Portugal.
 
+2025-06-03 to 07-23: [Quantum Fringe Summer Festival of Quantum Events 2025](https://www.quantumsoftwarelab.com/quantum-fringe-scotland), Various Scotland, UK.
+
+2025-06-08 to 13: [LMS Research School Quantum Machine Learning and Hamiltonian Simulation (2025)](https://www.icms.org.uk/workshops/2025/lms-research-school), Isle of skye, UK.
+
 2025-06-09 to 12: [Adiabatic Quantum Computing Conference (AQC 2025)](https://aqc25.phas.ubc.ca), Vancouver, BC, Canada.
 
 2025-06-16 to 18: [Vienna Workshop on Quantum Cryptography Beyond Quantum Key Distribution (VIE-CRYPT 2025)](https://quantum.univie.ac.at/events/vie-crypt-2025/), Vienna, Austria.
@@ -17,6 +21,8 @@
 2025-07-14 to 18: [22nd International Conference on Quantum Physics and Logic (QPL 2025)](https://qpl2025.github.io), Varna, Bulgaria.
 
 2025-07-21 to 25: [Advances in Quantum Control - Techniques, Applications, and Challenges](https://pks.mpg.de/aqute25), Dresden, Germany.
+
+2025-07-27 to 08-01: [WE-Heraeus Seminar Quantum Science With Interacting Arrays of Rydberg Atoms and Molecules](https://www.we-heraeus-stiftung.de/veranstaltungen/quantum-science-with-interacting-arrays-of-rydberg-atoms-and-molecules/), Bad Honnef, Germany.
 
 2025-08-03 to 08: [Gordon Research Conference Quantum Control of Light and Matter: Quantum Control in the Era of Quantum Technologies](https://grc.org/quantum-control-of-light-and-matter-conference/2025/), Newport, RI, USA.
 
@@ -41,6 +47,10 @@
 2025-09-15 to 19: [20th Theory of Quantum Computation, Communication and Cryptography Conference (TQC 2025)](https://tqc-conference.org), Bangelore, India.
 
 2025-09-17 to 19: [Toulouse Tensor Workshop 2025](https://tensor.sciencesconf.org), Toulouse, France.
+
+2025-10-07 to 09: [JCNS Workshop 2025 Trends and Perspectives in Neutron Scattering - Quantum Materials Theory and Experiments](https://iffindico.fz-juelich.de/event/20/), Tutzing, Germany.
+
+2025-10-08 to 10: [1st Conference on Applied Quantum Methods in Computational Science and Engineering (AQMCSE 2025)](https://aqmcse.com/), Aachen, Germany.
 
 2025-10-15 to 17: [Quantum Network Workshop (QuNeW 2025)](https://qutech.nl/event/qunew/), The Hague, Netherlands.
 

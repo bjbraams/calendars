@@ -1,4 +1,0 @@
-import sys
-import yaml
-
-data = yaml.safe_load(sys.stdin)

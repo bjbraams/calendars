@@ -4,6 +4,8 @@
 
 2025-05-26 to 28: [14th Workshop on Bayesian Inference in Stochastic Processes (BISP 2025)](https://-web.org/event-detail/436), Milan, Italy.
 
+2025-05-26 to 30: [43rd Finnish Summer School on Probability and Statistics (2025)](https://fdnss.fi/43rd-finnish-summer-school-on-probability-and-statistics/), Lammi, Finland.
+
 2025-06-08 to 12: [Objective Bayes Methodology Conference (O'Bayes 2025)](https://obayes25.aueb.gr), Athens, Greece.
 
 2025-06-12 to 13: [HCM Workshop Functional Data Analysis - In Honor of Alois Kneip](https://www.mathematics.uni-bonn.de/hcm/events/workshops-conferences/workshop_functional-data-analysis-a), Bonn, Germany.
@@ -14,7 +16,7 @@
 
 2025-06-23 to 27: [14th International Conference on Bayesian Nonparametrics (BNP 2025)](https://bnp14.org), Los Angeles, CA, USA. (Satellite events Workshop on the 25th Anniversary of the Dependent Dirichlet Process and Workshop on Bayesian Predictive Inference, 2025-06-22.)
 
-2025-06-29 to 07-04: [Game-Theoretic Statistical Inference: Optional Sampling, Universal Inference, and Multiple Testing Based on E-Values (BIRS 25w5482)](https://birs.ca/events/2025/5-day-workshops/25w5482), Chennai, India.
+2025-06-29 to 07-04: [BIRS Workshop Game-Theoretic Statistical Inference: Optional Sampling, Universal Inference, and Multiple Testing Based on E-Values (2025)](https://birs.ca/events/2025/5-day-workshops/25w5482), Chennai, India.
 
 2025-07-13 to 18: [39th International Workshop on Statistical Modelling (IWSM 2025)](https://iwsm2025.ie), Limerick, Ireland.
 
@@ -36,7 +38,7 @@
 
 2025-10-22 to 24: [Bayesian Biostatistics Conference Bayes 2025](https://www.bayes-pharma.org/), Leiden, Netherlands.
 
-2025-12-07 to 12: [Workshop on Bayesian Uncertainty Quantification in Large Models (BIRS 25w5329)](https://birs.ca/events/2025/5-day-workshops/25w5329), Chennai, India.
+2025-12-07 to 12: [BIRS Workshop on Bayesian Uncertainty Quantification in Large Models (2025)](https://birs.ca/events/2025/5-day-workshops/25w5329), Chennai, India.
 
 2025-12-10 to 12: [EURANDOM Workshop on McMc Methodology and Theory](https://eurandom.tue.nl/event/methodology-and-theory-mcmc/), Eindhoven, The Netherlands.
 

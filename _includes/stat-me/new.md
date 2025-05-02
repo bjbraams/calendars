@@ -1,2 +1,6 @@
-2025-06-10 to 13: [16th International OSD Conference on Order in Statistical Data - Order Statistics and Beyond (ODOS 2025)](https://www.osd2025.isw.rwth-aachen.de/cms/~bjvtqt/osd2025-isw/), Aachen, Germany.
+2026-06-22 to 26: [7th International Symposia on Nonparametric Statistics (ISNPS 2026)](https://www.isnps.org/), Thessaloniki, Greece. Preliminary link.
+
+2025-05-19 to 21: [ASA Statistical Methods in Imaging Conference (SMI 2025)](https://statistics.rice.edu/events/2025-statistical-methods-imaging-conference), Houston, TX, USA.
+
+2026-06-01 to 04: [9th International Workshop in Sequential Methodologies (IWSM 2026)](https://www.american.edu/cas/iwsm2026/), Washington, DC, USA.
 

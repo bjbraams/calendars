@@ -32,6 +32,8 @@
 
 2025-11-17 to 21: [11th ECTstar Workshop on Information and Statistics in Nuclear Experiment and Theory (ESNET 2025)](https://indico.ectstar.eu/event/247/), Trento, Italy.
 
+2026-05-18 to 22: [10th Oslo Workshop on Level Density and Gamma Strength (2026)](https://www.mn.uio.no/fysikk/english/research/news-and-events/events/conferences/gamma10/), Oslo, Norway. Preliminary link
+
 2026-06-14 to 19: [18th International Symposium on Capture Gamma-Ray Spectroscopy and Related Topics (CGS 2026)](https://mpi-hd.mpg.de/mpi/de/forschung/abteilungen-und-gruppen/gespeicherte-und-gekuehlte-ionen/veranstaltungen/konferenzen), Monterey, CA, USA. (Mention only.)
 
 **2026-07-27 to 31: [Nuclear Structure (NS 2026)](https://indico.triumf.ca/event/745/), Vancouver, BC, Canada**.

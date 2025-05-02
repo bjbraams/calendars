@@ -10,9 +10,11 @@
 
 2025-06-16 to 20: [2nd European AI for Fundamental Physics Conference (EuCAIFCon 2025)](https://agenda.infn.it/event/43565/), Cagliari, Italy.
 
-2025-06-22 to 27: [Workshop on Efficient and Reliable Deep Learning Methods and Their Scientific Applications (BIRS 25w5382)](https://birs.ca/events/2025/5-day-workshops/25w5382), Banff, AB, Canada.
+2025-06-22 to 27: [BIRS Workshop on Efficient and Reliable Deep Learning Methods and Their Scientific Applications (2025)](https://birs.ca/events/2025/5-day-workshops/25w5382), Banff, AB, Canada.
 
 2025-06-23 to 25: [Workshop for Artificial Intelligence (AI)-Powered Materials Discovery in the Great Plains](https://aimaterialsworkshop.org/event/1/), Vermillion, SD, USA.
+
+2025-06-30 to 07-02: [UCL DISI Conference on AI for Data Intensive Science and Industry (2025)](https://www.ucl.ac.uk/data-intensive-science-industry/news/2024/dec/explore-future-ai-data-intensive-science-and-industry), London, UK.
 
 2025-06-30 to 07-04: [6th ACM Europe Summer School on Data Science](https://europe.acm.org/seasonal-schools/data-science/2025), Ioannina, Greece.
 

@@ -52,7 +52,7 @@
 
 2025-07-13 to 18: [29th International Conference on Statistical Physics (StatPhys 2025)](https://statphys29.org), Florence, Italy.
 
-2025-07-14 to 18: [44th Conference on Stochastic Processes and Their Applications](https://spa.pwr.edu.pl), Wrocław, Poland.
+2025-07-14 to 18: [44th Bernoulli Society Conference on Stochastic Processes and Their Applications (SPA 2025)](https://spa.pwr.edu.pl), Wrocław, Poland.
 
 2025-07-15 to 18: [7th Spatial Statistics Conference: At the Dawn of AI](https://elsevier.com/events/conferences/all/spatial-statistics), Noordwijk, The Netherlands.
 
@@ -92,7 +92,7 @@
 
 2025-10-20 to 24: [CIRM Workshop New Trends of Stochastic Nonlinear Systems - Well-Posedeness, Dynamics and Numerics](https://conferences.cirm-math.fr/3374.html), Marseille, France.
 
-2025-10-26 to 31: [BIRS Workshop Emerging Synergies Between Stochastic Analysis and Statistical Mechanics](https://www.birs.ca/events/2025/5-day-workshops/25w5367), Banff, AB, Canada.
+2025-10-26 to 31: [BIRS Workshop Emerging Synergies Between Stochastic Analysis and Statistical Mechanics (2025)](https://www.birs.ca/events/2025/5-day-workshops/25w5367), Banff, AB, Canada.
 
 2025-11-17 to 21: [SLMath Workshop Recent Trends in Stochastic Partial Differential Equations](https://legacy.slmath.org/workshops/1148), Berkeley, CA, USA.
 
