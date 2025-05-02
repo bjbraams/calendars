@@ -36,16 +36,16 @@
   link: https://fdnss.fi/43rd-finnish-summer-school-on-probability-and-statistics/
   loc: Lammi, Finland
   kw: prob,stat-th
-- dd: 
-  name: 
-  link: 
-  loc: 
-  kw: 
-- dd: 
-  name: 
-  link: 
-  loc: 
-  kw: 
+- dd: 2025-06-30 to 07-02
+  name: UCL DISI Conference on AI for Data Intensive Science and Industry (2025)
+  link: https://www.ucl.ac.uk/data-intensive-science-industry/news/2024/dec/explore-future-ai-data-intensive-science-and-industry
+  loc: London, UK
+  kw: comp-ml
+- dd: 2025-12-01 to 03
+  name: Symposium on Dependable Software Engineering - Theories, Tools and Applications (SETTA 2025)
+  link: https://www.setta2025.uk/
+  loc: Oxford, UK
+  kw: cs-oh
 - dd: 
   name: 
   link: 
