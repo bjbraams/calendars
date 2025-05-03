@@ -1,3 +1,24 @@
+- dd: 2025-07-21 to 22
+  name: 15th International Workshop on Non-Classical Models of Automata and Applications (NCMA 2025)
+  link: https://www.lboro.ac.uk/departments/compsci/events/ncma-2025/
+  loc: Loughborough, UK
+  kw: cs-lo
+- dd: 2025-07-22 to 24
+  name: 26th International Conference on Descriptional Complexity of Formal Systems (DCFS 2025)
+  link: https://www.lboro.ac.uk/departments/compsci/events/dcfs-2025/
+  loc: Loughborough, UK
+  kw: cs-lo
+- dd: 2026-07-12 to 17
+  name: 24th Conference of the International Federation of Operational Research Societies (IFORS 2026)
+  link: https://www.ifors2026.at/home/
+  loc: Vienna, Austria
+  kw: comp-op
+- dd: 2025-08-12 to 15
+  name: 18th International Symposium on Combinatorial Search (SoCS 2025)
+  link: https://socs25.search-conference.org/
+  loc: Glasgow, UK
+  kw: cs-al
+# 2025-05-03
 - dd: 2026-05-18 to 22
   name: 10th Oslo Workshop on Level Density and Gamma Strength (2026)
   link: https://www.mn.uio.no/fysikk/english/research/news-and-events/events/conferences/gamma10/
@@ -85,7 +106,6 @@
   link: https://aqmcse.com/
   loc: Aachen, Germany
   kw: comp-qc
-# 2025-05-02
 - dd: 2025-06-24 to 27
   name: 30th Biennial Numerical Analysis Conference (2025)
   link: https://numericalanalysisconference.org.uk/

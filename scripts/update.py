@@ -1,10 +1,10 @@
 import sys
 import os
-from datetime import date
+import datetime
 import yaml
 import myyaml
 
-TODAY = date.today().strftime('%Y-%m-%d')
+TODAY = datetime.date.today().strftime('%Y-%m-%d')
 
 cwd = os.getcwd()
 if os.path.basename(cwd) != 'calendars':
@@ -44,36 +44,36 @@ for event in latest:
 
 all = myyaml.sorted_unique(past+future+latest)
 
+past = []
+future = []
+for event in all:
+    if str(event['dd']).replace(' ','\uffff') < TODAY:
+        past.append(event)
+    else:
+        future.append(event)
+
 with open('_data/all-'+TODAY+'.yml', 'w') as file:
-    yaml.safe_dump(all, file,
-                   allow_unicode=True, width=999, sort_keys=False)
+    myyaml.dump(all,file)
+
+with open('_data/past-'+TODAY+'.yml', 'w') as file:
+    myyaml.dump(past,file)
+
+with open('_data/future-'+TODAY+'.yml', 'w') as file:
+    myyaml.dump(future,file)
 
 with open('_data/new-'+TODAY+'.yml', 'w') as file:
-    yaml.safe_dump(latest, file,
-                   allow_unicode=True, width=999, sort_keys=False)
+    myyaml.dump(latest,file)
     file.write('# '+TODAY+'\n')
-    yaml.safe_dump(new, file,
-                   allow_unicode=True, width=999, sort_keys=False)
+    myyaml.dump(new,file)
 
 with open('_data/latest-'+TODAY+'.yml', 'w') as file:
     file.write('# dd,name,link,loc,more,kw\n')
-
-f0 = open('_data/past-'+TODAY+'.yml', 'w')
-f1 = open('_data/future-'+TODAY+'.yml', 'w')
-
-for event in all:
-    if str(event['dd']).replace(' ','\uffff') < TODAY:
-        yaml.safe_dump([event], f0, allow_unicode=True,
-                       width=999, sort_keys=False)
-    else:
-        yaml.safe_dump([event], f1, allow_unicode=True,
-                       width=999, sort_keys=False)
 
 # Check to proceed
 response = input(f"Return to proceed, Ctrl-c to cancel")
 
 # Do not rename '_data/all-'+TODAY+'.yml'
-os.rename('_data/new-'+TODAY+'.yml', '_data/new.yml')
-os.rename('_data/latest-'+TODAY+'.yml', '_data/latest.yml')
 os.rename('_data/past-'+TODAY+'.yml', '_data/past.yml')
 os.rename('_data/future-'+TODAY+'.yml', '_data/future.yml')
+os.rename('_data/new-'+TODAY+'.yml', '_data/new.yml')
+os.rename('_data/latest-'+TODAY+'.yml', '_data/latest.yml')

@@ -56,3 +56,8 @@ def check_calendar(calendar):
     for index, event in enumerate(calendar):
         errors.extend(check_event(event,index))
     return errors
+
+def dump(data,fn):
+    # My specialized version of yaml.safe_dump
+    yaml.safe_dump(data, fn, allow_unicode=True,
+                   width=999, sort_keys=False)

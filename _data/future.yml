@@ -1383,6 +1383,11 @@
   link: https://grc.org/dynamics-at-surfaces-conference/2025/
   loc: Holderness, NH, USA
   kw: qmat
+- dd: 2025-07-21 to 22
+  name: 15th International Workshop on Non-Classical Models of Automata and Applications (NCMA 2025)
+  link: https://www.lboro.ac.uk/departments/compsci/events/ncma-2025/
+  loc: Loughborough, UK
+  kw: cs-lo
 - dd: 2025-07-21 to 23
   name: 45th IEEE International Conference on Distributed Computing Systems (ICDCS 2025)
   link: https://icdcs2025.icdcs.org/
@@ -1443,6 +1448,11 @@
   link: https://regindex.github.io/sea2025.github.io
   loc: Venice, Italy
   kw: cs-al
+- dd: 2025-07-22 to 24
+  name: 26th International Conference on Descriptional Complexity of Formal Systems (DCFS 2025)
+  link: https://www.lboro.ac.uk/departments/compsci/events/dcfs-2025/
+  loc: Loughborough, UK
+  kw: cs-lo
 - dd: 2025-07-22 to 25
   name: Conference on Progress in Discrete and Continuous Probability 2025
   link: https://www.math.union.edu/~marianop/ProbabilityConference2025/ProgressDiscContProb2025.html
@@ -1651,6 +1661,11 @@
   link: http://isbiostat.org/conference-info/
   loc: Philadelphia, PA, USA
   kw: stat-me
+- dd: 2025-08-12 to 15
+  name: 18th International Symposium on Combinatorial Search (SoCS 2025)
+  link: https://socs25.search-conference.org/
+  loc: Glasgow, UK
+  kw: cs-al
 - dd: 2025-08-13 to 15
   name: 11th IEEE International Conference on Data Science and Systems (DSS 2025)
   link: https://hpcn.exeter.ac.uk/dss2025/
@@ -2836,6 +2851,11 @@
   link: https://focm2026.univie.ac.at
   loc: Vienna, Austria
   kw: comp-na
+- dd: 2026-07-12 to 17
+  name: 24th Conference of the International Federation of Operational Research Societies (IFORS 2026)
+  link: https://www.ifors2026.at/home/
+  loc: Vienna, Austria
+  kw: comp-op
 - dd: 2026-07-26 to 08-01
   name: International Symposium on Quantum Fluids and Solids (QFS 2026)
   link: https://people.umass.edu/qfs98/info1.htm
