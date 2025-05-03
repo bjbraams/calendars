@@ -5,6 +5,88 @@
 
 # Event calendars of selected institutes and organizations
 
+## Reminders, to be placed
+
+IUPAP. https://iupap.org/conferences/.
+
+IUPAC. https://iupac.org/events/.
+
+IEEE.
+
+ACM.
+
+SLMath.
+
+MFO.
+
+ASA. https://ww2.amstat.org/dateline/.
+
+IMS. https://imstat.org/meetings-calendar/.
+
+Bernoulli Society. https://www.bernoullisociety.org/meetings.
+
+ISI. https://isi-web.org/calendar.
+
+IASC. https://iasc-isi.org/events-all/.
+
+IMSI. https://www.imsi.institute/events/.
+
+SIAM.
+
+ICIAM.
+
+APS.
+
+EPS. https://eps.org/what-we-do/.
+
+IOP.
+
+CECAM.
+
+Psi-k.
+
+ICTP.
+
+Eurandom.
+
+IPAM (UCLA).
+
+IHS.
+
+Renyi.
+
+BIRS.
+
+CIRM.
+
+GRC.
+
+Bad Honnef.
+
+WE Heraeus.
+
+RIMS (Kyoto). https://www.kurims.kyoto-u.ac.jp/kyoten/en/workshop.html.
+
+ITAMP.
+
+ILAS.
+
+MathOpt. https://www.mathopt.org/?nav=meetings.
+
+OIST. https://www.oist.jp/conference.
+
+INI (Newton). https://www.newton.ac.uk/events/.
+
+INFORMS. https://www.informs.org/Meetings-Conferences.
+
+NUPECC. https://nupecc.org/?display=events.
+
+ANS. https://www.ans.org/meetings/.
+
+RSC.
+
+EuChemS DPC. https://www.euchems.eu/divisions/physical-chemistry-2/conferences/.
+
 ## Institutes
 
 ### Diverse Mathematical and Physical Science
