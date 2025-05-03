@@ -1,4 +1,4 @@
-2025-06-23 to 26: [40th Annual ACM/IEEE Symposium on Logic in Computer Science (LICS 2025)](https://lics.siglog.org/lics25/), Singapore.
+2025-07-21 to 22: [15th International Workshop on Non-Classical Models of Automata and Applications (NCMA 2025)](https://www.lboro.ac.uk/departments/compsci/events/ncma-2025/), Loughborough, UK.
 
-2025-09-22 to 25: [29th International Conference on Implementation and Application of Automata (CIAA 2025)](https://ciaa2025.unipa.it/), Palermo, Italy.
+2025-07-22 to 24: [26th International Conference on Descriptional Complexity of Formal Systems (DCFS 2025)](https://www.lboro.ac.uk/departments/compsci/events/dcfs-2025/), Loughborough, UK.
 

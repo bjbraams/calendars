@@ -4,6 +4,10 @@
 
 2025-07-14 to 17: [Workshop on Logic, Language, Information and Computation (WoLLIC 2025)](https://wollic2025.github.io), Porto, Portugal.
 
+2025-07-21 to 22: [15th International Workshop on Non-Classical Models of Automata and Applications (NCMA 2025)](https://www.lboro.ac.uk/departments/compsci/events/ncma-2025/), Loughborough, UK.
+
+2025-07-22 to 24: [26th International Conference on Descriptional Complexity of Formal Systems (DCFS 2025)](https://www.lboro.ac.uk/departments/compsci/events/dcfs-2025/), Loughborough, UK.
+
 2025-08-19 to 22: [29th International Conference on Developments in Language Theory (DLT 2025)](https://cida.uos.ac.kr/dlt2025/), Seoul, Korea.
 
 2025-09-12 to 19: [41st International Conference on Logic Programming (ICLP 2025)](https://iclp25.demacs.unical.it), Rende (CS), Italy.

@@ -39,10 +39,16 @@ errors = myyaml.check_calendar(latest)
 for error in errors:
     print(error)
 
-for event in latest:
-    myyaml.capitalize(event)
+if latest:
+    for event in latest:
+        myyaml.capitalize(event)
 
-all = myyaml.sorted_unique(past+future+latest)
+all0 = past+future
+if new:
+    all0.extend(new)
+if latest:
+    all0.extend(latest)
+all = myyaml.sorted_unique(all0)
 
 past = []
 future = []
@@ -62,9 +68,11 @@ with open('_data/future-'+TODAY+'.yml', 'w') as file:
     myyaml.dump(future,file)
 
 with open('_data/new-'+TODAY+'.yml', 'w') as file:
-    myyaml.dump(latest,file)
+    if latest:
+        myyaml.dump(latest,file)
     file.write('# '+TODAY+'\n')
-    myyaml.dump(new,file)
+    if new:
+        myyaml.dump(new,file)
 
 with open('_data/latest-'+TODAY+'.yml', 'w') as file:
     file.write('# dd,name,link,loc,more,kw\n')

@@ -44,5 +44,7 @@
 
 2026-06-02 to 05: [SIAM Conference on Optimization (OP 2026)](https://www.siam.org/conferences-events/siam-conferences/op26/), Edinburgh, UK.
 
+2026-07-12 to 17: [24th Conference of the International Federation of Operational Research Societies (IFORS 2026)](https://www.ifors2026.at/home/), Vienna, Austria.
+
 **2027-07-25 to 30: [International Symposium on Mathematical Programming (ISMP 2027)](https://vu.nl/en/events/2027/international-symposium-on-mathematical-programming-2027), Amsterdam, The Netherlands**.
 

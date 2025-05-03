@@ -44,6 +44,8 @@
 
 2025-08-11 to 15: [37th Canadian Conference on Computational Geometry (CCCG 2025) and Algorithms and Data Structures Symposium (WADS 2025)](https://cccg-wads-2025.eecs.yorku.ca), Toronto, ON, Canada.
 
+2025-08-12 to 15: [18th International Symposium on Combinatorial Search (SoCS 2025)](https://socs25.search-conference.org/), Glasgow, UK.
+
 2025-08-13 to 15: [11th IEEE International Conference on Data Science and Systems (DSS 2025)](https://hpcn.exeter.ac.uk/dss2025/), Exeter, UK.
 
 2025-08-18 to 22: [25th Max Planck Advanced Course on the Foundations of Computer Science (ADFOCS 2025)](https://www.mpi-inf.mpg.de/departments/algorithms-complexity/adfocs/2025/), Saarbrücken, Germany.
