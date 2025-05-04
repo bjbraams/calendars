@@ -1,9 +1,12 @@
 compsci:
   title: Computational Science
   excerpt: Computational science theory and applications.
+comp-el:
+  title: Computational Electromagnetics, Elasticity, Geophysics and Related
+  excerpt: Computational science in fields dominated by wave equations.
 comp-fd:
   title: Computational Fluid Dynamics, Kinetic Equations and Multiphysics
-  excerpt: All of the above and elasticity too, including geophysical and astrophysical applications.
+  excerpt: All of the above including applications.
 comp-hp:
   title: High-Performance Computing
   excerpt: Includes programming for GPU or TPU for scientific applications.
