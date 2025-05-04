@@ -1,1 +1,22 @@
 # dd,name,link,loc,more,kw
+- dd: 2025-05-26 to 30
+  name: 10th International Conference on Precision Physics and Fundamental Physical Constants (FFK 2025)
+  link: https://ffk2025.candela.org.pl
+  loc: Warsaw, Poland
+  kw: qmol
+- dd: 2025-09-08 to 19
+  name: CERN Theory Institute on Quantum Simulation and Computation in High-Energy Physics (2025)
+  link: https://indico.cern.ch/event/1488240/
+  loc: Geneva, Switzerland
+  kw: comp-qc
+- dd: 2026-05-23 to 29
+  name: 28th Conference on Computing in High Energy and Nuclear Physics (CHEP 2026)
+  link: https://chep2026.phys.sc.chula.ac.th
+  loc: Bangkok, Thailand
+  more: See [also](https://indico.cern.ch/event/1471803/)
+  kw: nuclear
+- dd: 2026-07-23 to 30
+  name: International Congress of Mathematicians (ICM 2026)
+  link: https://icm2026.org
+  loc: Philadelphia, PA, USA
+  kw: tbd
