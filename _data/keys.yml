@@ -1,9 +1,12 @@
 compsci:
   pages: compsci
   desc: Computational science
+comp-el:
+  pages: comp-el,compsci
+  desc: Computational electromagnetics, elasticity, geophysics and other things dominated by wave equations
 comp-fd:
   pages: comp-fd,compsci
-  desc: Computational fluid dynamics, and allied subjects
+  desc: Computational fluid dynamics, kinetic equations and allied subjects
 comp-hp:
   pages: comp-hp,compsci
   desc: High-performance computing, GPU and TPU computing
