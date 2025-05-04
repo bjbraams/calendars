@@ -17,10 +17,6 @@
 
 {% endfor %}
 
-## Preliminary
-
-[Not yet categorized]({{baseurl}}/inprogress).
-
 ## Related
 
 [Relevant Organizations]({{baseurl}}/orgs).
