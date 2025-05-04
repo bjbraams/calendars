@@ -1,0 +1,9 @@
+Event name:
+  key0: key value
+  key1: with\: a colon
+  key2: with\[ a bracket
+  key3: \[ astarts with a bracket
+  key4: () with round brackets
+  key5: {} with braces
+Another event:
+  key0: tut
