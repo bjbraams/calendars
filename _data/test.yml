@@ -1,6 +1,6 @@
 Event name:
   key0: key value
-  # key1: with\: a colon, not allowed
+# key1: with\: a colon, not allowed
   key2: with\[ a square bracket
   key3: \[ starts with a bracket
   key4: () with round brackets
