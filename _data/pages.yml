@@ -2,7 +2,7 @@ compsci:
   title: Computational Science
   excerpt: Computational science theory and applications.
 comp-el:
-  title: Computational Electromagnetics, Elasticity, Geophysics and Related
+  title: Computational Electromagnetics, Elasticity, Seismology and Related
   excerpt: Computational science in fields dominated by wave equations.
 comp-fd:
   title: Computational Fluid Dynamics, Kinetic Equations and Multiphysics
