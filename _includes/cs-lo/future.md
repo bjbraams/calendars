@@ -1,3 +1,5 @@
+2025-06-17 to 20: [32nd Foundational Methods in Computer Science Workshop (FMCS 2025)](https://sites.google.com/view/fmcs-ottawa), Ottawa, ON, Canada.
+
 2025-06-23 to 26: [40th ACM/IEEE Symposium on Logic in Computer Science (LICS)](https://lics.siglog.org/lics25/), Singapore.
 
 2025-06-23 to 26: [40th Annual ACM/IEEE Symposium on Logic in Computer Science (LICS 2025)](https://lics.siglog.org/lics25/), Singapore.

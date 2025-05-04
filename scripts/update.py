@@ -85,3 +85,5 @@ os.rename('_data/past-'+TODAY+'.yml', '_data/past.yml')
 os.rename('_data/future-'+TODAY+'.yml', '_data/future.yml')
 os.rename('_data/new-'+TODAY+'.yml', '_data/new.yml')
 os.rename('_data/latest-'+TODAY+'.yml', '_data/latest.yml')
+
+print('Now do YAML to MD and git update')

@@ -24,3 +24,5 @@
 
 2025-05-01 to 03: [SIAM International Conference on Data Mining (SDM 2025)](https://siam.org/conferences-events/siam-conferences/sdm25/), Alexandria, VA, USA.
 
+2025-05-03 to 05: [28th International Conference on Artificial Intelligence and Statistics (AISTATS 2025)](https://aistats.org/aistats2025/), Mai Khao, Thailand.
+

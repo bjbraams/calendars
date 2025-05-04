@@ -4,6 +4,8 @@
 
 2025-05-11 to 15: [SIAM Conference on Applications of Dynamical Systems (DS 2025)](https://siam.org/conferences-events/siam-conferences/ds25), Denver, CO, USA.
 
+2025-05-12 to 14: [Fields-Cfi Conference on Optimal Stopping and Its Applications in Finance and Insurance (2025)](http://www.fields.utoronto.ca/activities/24-25/optimal-stopping), Toronto, ON, Canada.
+
 2025-05-12 to 16: [Workshop on Stochastic Thermodynamics (WOST 2025)](https://wostmeeting.org), Online.
 
 2025-05-14: [Kolmogorov Meets Turing 2025; Applications of Stochastic Methods to the Analysis of Algorithms and Complex Systems](https://sites.google.com/view/kmt-2025), Rome, Italy.
@@ -41,6 +43,8 @@
 2025-06-23 to 27: [Eurandom YEPXX Workshop 2025 Interacting Particle Systems on Random Structures](https://www.eurandom.tue.nl/event/yepxx-interacting-particle-systems-on-random-structures/), Eindhoven, Netherlands.
 
 2025-06-23 to 27: [Workshop on Stochastic Interacting Particle Systems and Random Matrices](https://erdoscenter.renyi.hu/events/workshop-stochastic-interacting-particle-systems-and-random-matrices), Budapest, Hungary.
+
+2025-06-25 to 27: [12th International Conference on Matrix-Analytic Methods in Stochastic Models (MAM 2025)](https://sites.google.com/ontariotechu.net/mam-12-conference), Toronto, ON, Canada.
 
 2025-06-30 to 07-02: [Stochastics and Influences Workshop in Honor of Bálint Tóth](https://erdoscenter.renyi.hu/events/stochastics-and-influences-workshop), Budapest, Hungary.
 
@@ -95,6 +99,8 @@
 2025-10-26 to 31: [BIRS Workshop Emerging Synergies Between Stochastic Analysis and Statistical Mechanics (2025)](https://www.birs.ca/events/2025/5-day-workshops/25w5367), Banff, AB, Canada.
 
 2025-11-17 to 21: [SLMath Workshop Recent Trends in Stochastic Partial Differential Equations](https://legacy.slmath.org/workshops/1148), Berkeley, CA, USA.
+
+2026-02-09 to 13: [ESI Workshop Probabilistic Mass Transport From Schrödinger to Stochastic Analysis (2026)](https://www.esi.ac.at/events/e581/), Vienna, Austria.
 
 2026-03-26 to 28: [Seminar on Stochastic Processes (SSP 2026)](https://depts.washington.edu/ssproc/ssp_nextssp.php), Schenectady, NY, USA.
 

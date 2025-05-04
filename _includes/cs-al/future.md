@@ -1,10 +1,8 @@
-2025-05-03 to 08: [28th International Conference on Foundations of Software Science and Computation Structures (FoSSaCS 2025)](https://etaps.org/2025/conferences/fossacs/), Hamilton, ON, Canada.
-
-2025-05-03 to 08: [31st International Conference on Tools and Algorithms for the Construction and Analysis of Systems (TACAS 2025)](https://etaps.org/2025/conferences/tacas/), Hamilton, ON, Canada.
-
 2025-05-05 to 09: [36th International Conference on Probabilistic, Combinatorial and Asymptotic Methods for the Analysis of Algorithms (AofA 2025)](http://www.fields.utoronto.ca/activities/24-25/AofA-2025), Toronto, ON, Canada.
 
 2025-05-14: [Kolmogorov Meets Turing 2025; Applications of Stochastic Methods to the Analysis of Algorithms and Complex Systems](https://sites.google.com/view/kmt-2025), Rome, Italy.
+
+2025-05-20 to 23: [Canadian Discrete and Algorithmic Mathematics Conference (CanaDAM 2025)](https://canadam.ca/2025), Ottawa, ON, Canada.
 
 2025-05-26 to 29: [International Federation for Information Processing (IFIP) Networking 2025 Conference (NETWORKING 2025)](https://networking.ifip.org/2025/), Limassol, Cyprus.
 
@@ -38,6 +36,8 @@
 
 2025-07-28 to 08-01: [37th ACM Symposium on Parallelism in Algorithms and Architectures (SPAA 2025)](https://spaa.acm.org), Portland, OR, USA.
 
+2025-07-30 to 08-01: [SIAM Conference on Applied and Computational Discrete Algorithms (ACDA 2025)](https://www.siam.org/conferences-events/siam-conferences/acda25/), Montreal QC, Canada.
+
 2025-08-05 to 08: [Computational Complexity Conference (CCC 2025)](http://fields.utoronto.ca/activities/25-26/CCC2025), Toronto, ON, Canada.
 
 2025-08-11 to 15: [28th International Conference on Theory and Applications of Satisfiability Testing (SAT 2025)](https://satisfiability.org/SAT25/), Glasgow, UK.
@@ -49,6 +49,8 @@
 2025-08-13 to 15: [11th IEEE International Conference on Data Science and Systems (DSS 2025)](https://hpcn.exeter.ac.uk/dss2025/), Exeter, UK.
 
 2025-08-18 to 22: [25th Max Planck Advanced Course on the Foundations of Computer Science (ADFOCS 2025)](https://www.mpi-inf.mpg.de/departments/algorithms-complexity/adfocs/2025/), Saarbrücken, Germany.
+
+2025-08-18 to 22: [Hausdorff Research Institute for Mathematics Follow-Up Workshop Logic and Algorithms in Group Theory (2025)](https://www.mathematics.uni-bonn.de/him/programs/follow-up-workshops/2025_08_18), Bonn, Germany.
 
 2025-08-25 to 27: [28th Prague Stringology Conference (PSC 2025)](https://www.stringology.org/event/2025/), Prague, Czech Republic.
 

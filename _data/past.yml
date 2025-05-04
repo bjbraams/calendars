@@ -686,3 +686,39 @@
   link: https://siam.org/conferences-events/siam-conferences/sdm25/
   loc: Alexandria, VA, USA
   kw: stat-ml
+- dd: 2025-05-03 to 04
+  name: Penn Conference on Theoretical Chemistry (PCTC 2025) (Ferroelectrics, Nanomaterials, Light-Matter Interactions, Next-Gen Computing & Renewable Energy)
+  link: https://pctc2025.regfox.com/pctc25
+  loc: Philadelphia, PA, USA
+  kw: qmat
+- dd: 2025-05-03 to 05
+  name: 28th International Conference on Artificial Intelligence and Statistics (AISTATS 2025)
+  link: https://aistats.org/aistats2025/
+  loc: Mai Khao, Thailand
+  kw: stat-ml
+- dd: 2025-05-03 to 08
+  name: 28th International Conference on Foundations of Software Science and Computation Structures (FoSSaCS 2025)
+  link: https://etaps.org/2025/conferences/fossacs/
+  loc: Hamilton, ON, Canada
+  kw: cs-al
+- dd: 2025-05-03 to 08
+  name: 28th International Conference on Fundamental Approaches to Software Engineering (FASE 2025)
+  link: https://etaps.org/2025/conferences/fase/
+  loc: Hamilton, ON, Canada
+  kw: cs-oh
+- dd: 2025-05-03 to 08
+  name: 31st International Conference on Tools and Algorithms for the Construction and Analysis of Systems (TACAS 2025)
+  link: https://etaps.org/2025/conferences/tacas/
+  loc: Hamilton, ON, Canada
+  kw: cs-al
+- dd: 2025-05-03 to 08
+  name: 34th European Symposium on Programming (ESOP 2025)
+  link: https://etaps.org/2025/conferences/esop/
+  loc: Hamilton, ON, Canada
+  kw: cs-oh
+- dd: 2025-05-03 to 08
+  name: International Joint Conferences on Theory and Practice of Software (ETAPS 2025)
+  link: https://etaps.org/2025/
+  loc: Hamilton, ON, Canada
+  more: Incorporating ESOP, FASE, FoSSaCS, TACAS
+  kw: cs-oh

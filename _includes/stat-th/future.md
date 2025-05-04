@@ -36,6 +36,8 @@
 
 **2025-10-05 to 09: [65th ISI World Statistics Congress (WSC 2025)](https://isi-next.org/conferences/isi-wsc2025/), The Hague, Netherlands**.
 
+2025-10-19 to 23: [7th School on Belief Functions and Their Applications (BFTA 2025)](https://www.bfasociety.org/BFTA2025/), Granada, Spain.
+
 2025-10-22 to 24: [Bayesian Biostatistics Conference Bayes 2025](https://www.bayes-pharma.org/), Leiden, Netherlands.
 
 2025-12-07 to 12: [BIRS Workshop on Bayesian Uncertainty Quantification in Large Models (2025)](https://birs.ca/events/2025/5-day-workshops/25w5329), Chennai, India.
@@ -55,6 +57,8 @@
 2026-08-01 to 06: ASA, IMS and Other Joint Statistical Meetings (JSM 2026), Boston, MA, USA.
 
 2026-08-24 to 28: [Bernoulli Society European Meeting of Statisticians (EMS 2026)](https://bernoullisociety.org/organization/erc/ems), Lugano, Switzerland. (Preliminary announcement.)
+
+2026 tbd: [9th International Conference on Belief Functions (BELIEF 2026)](https://www.bfasociety.org/), tbd. Provisional link
 
 **2027-07-11 to 15: [66th ISI World Statistics Congress (WSC 2027)](https://isi-next.org/conferences/isi-wsc2027), Busan, South Korea**.
 

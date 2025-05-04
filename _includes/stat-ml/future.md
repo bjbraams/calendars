@@ -1,6 +1,6 @@
-2025-05-03 to 05: [28th International Conference on Artificial Intelligence and Statistics (AISTATS 2025)](https://aistats.org/aistats2025/), Mai Khao, Thailand.
-
 2025-05-12 to 16: [Lausanne Event on Machine Learning and Neural Network Theory (LemanTh 2025)](https://lemanth2025.github.io/), Lausanne, Switzerland.
+
+2025-05-19 to 21: [ICERM Workshop Applied Math in Statistics and Data Science Education (2025)](https://icerm.brown.edu/program/hot_topics_workshop/htw-25-amsdse), Providence, RI, USA.
 
 2025-05-19 to 23: [41st IEEE International Conference on Data Engineering (ICDE 2025)](https://ieee-icde.org/2025/), Hong Kong, China.
 
@@ -23,6 +23,8 @@
 2025-06-30 to 07-04: [2nd International Summer School on Preference Learning for Ranking and Ordinal Data (PrefStat 2025)](http://www.prefstat.org/), Oslo, Norway.
 
 **2025-06-30 to 07-04: [38th Annual Conference on Learning Theory (COLT 2025)](http://learningtheory.org/colt2025/), Lyon, France**.
+
+2025-07-07 to 18: [SLMath Summer School Principled Scientific Discovery With Formal Methods (2025)](https://www.slmath.org/summer-schools/1110), Yorktown Heights, NY, USA.
 
 **2025-07-13 to 19: [42nd International Conference on Machine Learning (ICML 2025)](https://icml.cc), Vancouver, BC, Canada**.
 
@@ -49,6 +51,8 @@
 2025-11-11 to 17: [22nd International Conference on Principles of Knowledge Representation and Reasoning (KR 2025)](https://kr.org/KR2025), Melbourne, Australia. Co-located with CPAIOR 2025, ICAPS 2025 and NMR 2025
 
 2025-11-12 to 15: [25th IEEE International Conference on Data Mining (ICDM 2025)](https://www3.cs.stonybrook.edu/~icdm2025/), Washington, DC, USA.
+
+2025-12-08 to 12: [AIM Workshop MetaMath: Modeling the Mathematical Sciences Community Using Mathematics, Statistics, and Data Science](https://aimath.org/workshops/upcoming/metamath/), Pasadena, CA, USA.
 
 2025-12-09 to 12: [17th Asian Conference on Machine Learning (ACML 2025)](https://www.acml-conf.org/2025/), Taipei, Taiwan.
 

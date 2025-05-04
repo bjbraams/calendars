@@ -14,3 +14,7 @@
 
 2025-04-07 to 09: [Workshop on Randomness and Discrete Structures (WORDS 2025)](https://sites.google.com/rug.nl/words2025/), Groningen, The Netherlands.
 
+2025-05-03 to 08: [28th International Conference on Foundations of Software Science and Computation Structures (FoSSaCS 2025)](https://etaps.org/2025/conferences/fossacs/), Hamilton, ON, Canada.
+
+2025-05-03 to 08: [31st International Conference on Tools and Algorithms for the Construction and Analysis of Systems (TACAS 2025)](https://etaps.org/2025/conferences/tacas/), Hamilton, ON, Canada.
+

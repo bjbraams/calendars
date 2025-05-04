@@ -18,6 +18,8 @@
 
 2025-07-03 to 05: [Applied Linear Algebra Conference (ALA 2025)](https://ala2025.pmf.uns.ac.rs), Novi Sad, Serbia.
 
+2025-07-07 to 11: [ICMS Workshop Parallel-in-Time Algorithms for Exascale Applications (2025)](https://www.icms.org.uk/workshops/2025/parallel-time-algorithms-exascale-applications), Edinburgh, UK.
+
 2025-07-13 to 18: [15th International Congress on Spectral and High Order Methods (ICOSAHOM 2025)](https://icosahom2025.org), Montreal, Canada.
 
 2025-07-28 to 08-01: [15th International Conference on Monte Carlo Methods and Applications (MCM 2025)](https://ccbatiit.github.io/mcm2025/), Chicago, IL, USA.

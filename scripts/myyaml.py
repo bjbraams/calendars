@@ -61,3 +61,22 @@ def dump(data,fn):
     # My specialized version of yaml.safe_dump
     yaml.safe_dump(data, fn, allow_unicode=True,
                    width=999, sort_keys=False)
+
+def yaml_to_md(a,b,base,cal,fn,targets):
+    # entry a+b to base/cal/fn, with formatting
+    if cal.strip().startswith('+'):
+        format0 = '**'
+        format1 = '**'
+        cal1 = cal.strip(' +')
+    else:
+        format0 = ''
+        format1 = ''
+        cal1 = cal.strip()
+    if cal1 not in targets.keys():
+        try:
+            targets[cal1] = open(dir+'/'+cal1+'/'+fn+'.md', 'w')
+        except:
+            print ('not found: '+dir+'/'+cal1+'/')
+            targets[cal1] = None
+    if targets[cal1]:
+        targets[cal1].write(format0+a+format1+b+'\n\n')
