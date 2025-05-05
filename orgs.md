@@ -121,17 +121,13 @@ IHS.
 
 Renyi.
 
-BIRS.
+[Banff International Research Station for Mathematical Innovation and Discovery (BIRS) Calendar of Events](https://www.birs.ca/events/).
 
-CIRM.
+[Centre International de Rencontres Mathématiques (CIRM) Events Calendar](https://www.cirm-math.com/calendars.html).
 
-GRC.
+[Wilhelm and Else Heraeus Foundation (WE-Heraeus-Stiftung) Forthcoming Seminars](https://www.we-heraeus-stiftung.de/veranstaltungen/kategorie/we-heraeus-seminar/).
 
-Bad Honnef.
-
-WE Heraeus.
-
-RIMS (Kyoto). https://www.kurims.kyoto-u.ac.jp/kyoten/en/workshop.html.
+[Research Institute for Mathematical Sciences at Kyoto University (RIMS) Workshops and Other Events](https://www.kurims.kyoto-u.ac.jp/kyoten/en/workshop.html).
 
 ITAMP.
 
@@ -141,19 +137,23 @@ ILAS.
 
 [Centre Européen de Calcul Atomique et Moléculaire (CECAM)](https://www.cecam.org/program).
 
-International Centre for Theoretical Physics (ICTP)
+[International Centre for Theoretical Physics (ICTP) Schools, Workshops and Conferences](https://www.ictp.it/home/scientific-calendar?ty%5B56%5D=56&ty%5B54%5D=54&ty%5B55%5D=55&tt=).
 
 Psi-k.
 
-Perimeter Institute for Theoretical Physics, Waterloo, Canada.
+[Perimeter Institute for Theoretical Physics (Waterloo, Canada) Conferences](https://perimeterinstitute.ca/research/conferences).
 
-Kavli Institute for Theoretical Physics (KITP), UCSB.
+[Kavli Institute for Theoretical Physics (KITP, UCSB) Programs and Conferences](https://www.kitp.ucsb.edu/activities).
 
-Kavli Tokyo.
+[Kavli Institute for the Physics and Mathematics of the Universe (IPMU, Tokyo) Upcoming Conferences](https://research.ipmu.jp/seminar/?mode=conference_coming).
 
-Les Houches School of Physics.
+[Gordon Research Conferences (GRC) and Schools (GRS)](https://www.grc.org/find-a-conference/).
 
-Aspen Center for Physics (ACP)
+[Bad Honnef Physics Schools](https://www.dpg-physik.de/ueber-uns/physikzentrum-bad-honnef/bad-honnef-physics-schools).
+
+[Les Houches School of Physics Program of Events](https://www.houches-school-physics.com/program/).
+
+[Aspen Center for Physics (ACP) Conferences in Winter](https://aspenphys.org/winter-conferences/) and [Workshops in Summer](https://aspenphys.org/summer-workshops/).
 
 [Nordic Institute for Theoretical Physics (Nordita), Stockholm, Sweden](https://nordita.org/events/conferences/).
 
@@ -161,19 +161,19 @@ Aspen Center for Physics (ACP)
 
 [Okinawa Institute of Science and Technology (OIST) Conferences & Meetings](https://www.oist.jp/conference).
 
-Asia Pacific Center for Theoretical Physics (APCTP).
+[Asia Pacific Center for Theoretical Physics (APCTP) Academic Activities](https://www.apctp.org/theme/d/html/activities/01.php).
 
-East African Institute for Fundamental Research (EAIFR).
+[ICTP - East African Institute for Fundamental Research (EAIFR) Events Calendar](https://eaifr.ictp.it/events/).
 
 Perimeter Institute Africa (PI Africa).
 
 ### Primarily Theoretical Computer Science
 
-Simons Institute for the Theory of Computing, UC Berkeley.
+[Simons Institute for the Theory of Computing (at UCB) Workshop & Symposia](https://simons.berkeley.edu/workshop-symposia).
 
-Center for Discrete Mathematics and Theoretical Computer Science (DIMACS).
+[Center for Discrete Mathematics and Theoretical Computer Science (DIMACS) Programs](http://dimacs.rutgers.edu/programs/).
 
-Dagstuhl – Leibniz Center for Informatics, Germany.
+[Dagstuhl – Leibniz Center for Informatics Seminar Calendar](https://www.dagstuhl.de/en/seminars/seminar-calendar).
 
 ## Other broad conference listings
 
