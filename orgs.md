@@ -17,37 +17,35 @@ AMS, SIAM, ...
 
 ICIAM.
 
-INFORMS. https://www.informs.org/Meetings-Conferences.
+[INFORMS](https://www.informs.org/Meetings-Conferences)
 
-MathOpt. https://www.mathopt.org/?nav=meetings.
+[MathOpt](https://www.mathopt.org/?nav=meetings)
 
 ### Primarily Probability and Statistics
 
-ASA. https://ww2.amstat.org/dateline/.
+[ASA](https://ww2.amstat.org/dateline/)
 
-IMS. https://imstat.org/meetings-calendar/.
+[IMS](https://imstat.org/meetings-calendar/)
 
 Bernoulli Society. https://www.bernoullisociety.org/meetings.
 
-ISI. https://isi-web.org/calendar.
+[ISI](https://isi-web.org/calendar)
 
 [ISI Courses, Webinars & Workshops](https://isi-web.org/courses-webinars-workshops).
 
-IASC. https://iasc-isi.org/events-all/.
+[IASC](https://iasc-isi.org/events-all/)
 
 ### Primarily Physical Sciences
 
-IUPAP. https://iupap.org/conferences/.
+[International Union of Pure and Applied Physics (IUPAP) Approved Conferences](https://iupap.org/conferences/approved-conferences/).
 
-IUPAC. https://iupac.org/events/.
+[IUPAC](https://iupac.org/events/)
 
 [American Physical Society (APS) Meetings & Events](https://www.aps.org/meetings/).
 
 [Institute of Physics (IOP) Conferences](https://www.iop.org/events).
 
 [European Physical Society (EPS) Conference Listings](https://www.eps.org/page/events).
-
-[International Union of Pure and Applied Physics (IUPAP) Approved Conferences](https://iupap.org/conferences/approved-conferences/).
 
 [Space Physics and Aeronomy Conferences (AGU)](https://www.agu.org/Events).
 
@@ -59,7 +57,7 @@ IUPAC. https://iupac.org/events/.
 
 EuChemS DPC. https://www.euchems.eu/divisions/physical-chemistry-2/conferences/.
 
-NUPECC. https://nupecc.org/?display=events.
+[NUPECC](https://nupecc.org/?display=events)
 
 ## Institutes and Organizations
 
@@ -107,21 +105,11 @@ Chennai Mathematical Institute (CMI), India.
 
 African Institute for Mathematical Sciences (AIMS).
 
-SLMath.
-
 MFO.
 
-IMSI. https://www.imsi.institute/events/.
-
-CECAM.
-
-Psi-k.
-
-ICTP.
+[IMSI](https://www.imsi.institute/events/)
 
 Eurandom.
-
-IPAM (UCLA).
 
 IHS.
 
@@ -139,7 +127,7 @@ WE Heraeus.
 
 RIMS (Kyoto). https://www.kurims.kyoto-u.ac.jp/kyoten/en/workshop.html.
 
-OIST. https://www.oist.jp/conference.
+[OIST](https://www.oist.jp/conference)
 
 ITAMP.
 
@@ -150,6 +138,8 @@ ILAS.
 [Centre Européen de Calcul Atomique et Moléculaire (CECAM)](https://www.cecam.org/program).
 
 International Centre for Theoretical Physics (ICTP)
+
+Psi-k.
 
 Perimeter Institute for Theoretical Physics, Waterloo, Canada.
 
