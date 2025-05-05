@@ -3,21 +3,25 @@
   <link rel="stylesheet" href="assets/style.css">
 </head>
 
-# Event calendars of selected institutes and organizations
+# Event Calendars of Selected Societies and Institutes
 
-## Reminders, to be placed
+## Scientific Societies
 
-IUPAP. https://iupap.org/conferences/.
-
-IUPAC. https://iupac.org/events/.
+### Primarily Mathematics and Computing
 
 IEEE.
 
-ACM.
+ACM
 
-SLMath.
+AMS, SIAM, ...
 
-MFO.
+ICIAM.
+
+INFORMS. https://www.informs.org/Meetings-Conferences.
+
+MathOpt. https://www.mathopt.org/?nav=meetings.
+
+### Primarily Probability and Statistics
 
 ASA. https://ww2.amstat.org/dateline/.
 
@@ -27,67 +31,37 @@ Bernoulli Society. https://www.bernoullisociety.org/meetings.
 
 ISI. https://isi-web.org/calendar.
 
+[ISI Courses, Webinars & Workshops](https://isi-web.org/courses-webinars-workshops).
+
 IASC. https://iasc-isi.org/events-all/.
 
-IMSI. https://www.imsi.institute/events/.
+### Primarily Physical Sciences
 
-SIAM.
+IUPAP. https://iupap.org/conferences/.
 
-ICIAM.
+IUPAC. https://iupac.org/events/.
 
-APS.
+[American Physical Society (APS) Meetings & Events](https://www.aps.org/meetings/).
 
-EPS. https://eps.org/what-we-do/.
+[Institute of Physics (IOP) Conferences](https://www.iop.org/events).
 
-IOP.
+[European Physical Society (EPS) Conference Listings](https://www.eps.org/page/events).
 
-CECAM.
+[International Union of Pure and Applied Physics (IUPAP) Approved Conferences](https://iupap.org/conferences/approved-conferences/).
 
-Psi-k.
+[Space Physics and Aeronomy Conferences (AGU)](https://www.agu.org/Events).
 
-ICTP.
+[Australian Institute of Physics Conferences (AIP)](https://www.aip.org/conferences).
 
-Eurandom.
+[American Nuclear Society (ANS) Meetings](https://www.ans.org/meetings/).
 
-IPAM (UCLA).
-
-IHS.
-
-Renyi.
-
-BIRS.
-
-CIRM.
-
-GRC.
-
-Bad Honnef.
-
-WE Heraeus.
-
-RIMS (Kyoto). https://www.kurims.kyoto-u.ac.jp/kyoten/en/workshop.html.
-
-ITAMP.
-
-ILAS.
-
-MathOpt. https://www.mathopt.org/?nav=meetings.
-
-OIST. https://www.oist.jp/conference.
-
-INI (Newton). https://www.newton.ac.uk/events/.
-
-INFORMS. https://www.informs.org/Meetings-Conferences.
-
-NUPECC. https://nupecc.org/?display=events.
-
-ANS. https://www.ans.org/meetings/.
-
-RSC.
+[RSC Events List](https://www.rsc.org/events). [PhysicalChemistry](https://www.rsc.org/events/subject/physical).
 
 EuChemS DPC. https://www.euchems.eu/divisions/physical-chemistry-2/conferences/.
 
-## Institutes
+NUPECC. https://nupecc.org/?display=events.
+
+## Institutes and Organizations
 
 ### Diverse Mathematical and Physical Science
 
@@ -97,7 +71,7 @@ EuChemS DPC. https://www.euchems.eu/divisions/physical-chemistry-2/conferences/.
 
 Institute of Advanced Studies (IAS) at Nanyang Technological University (NTU), Singapore?
 
-### Primarily mathematics
+### Primarily Mathematics
 
 [Oberwolfach Workshops](https://www.mfo.de/scientific-program/meetings).
 
@@ -133,6 +107,44 @@ Chennai Mathematical Institute (CMI), India.
 
 African Institute for Mathematical Sciences (AIMS).
 
+SLMath.
+
+MFO.
+
+IMSI. https://www.imsi.institute/events/.
+
+CECAM.
+
+Psi-k.
+
+ICTP.
+
+Eurandom.
+
+IPAM (UCLA).
+
+IHS.
+
+Renyi.
+
+BIRS.
+
+CIRM.
+
+GRC.
+
+Bad Honnef.
+
+WE Heraeus.
+
+RIMS (Kyoto). https://www.kurims.kyoto-u.ac.jp/kyoten/en/workshop.html.
+
+OIST. https://www.oist.jp/conference.
+
+ITAMP.
+
+ILAS.
+
 ### Primarily Physics
 
 [Centre Européen de Calcul Atomique et Moléculaire (CECAM)](https://www.cecam.org/program).
@@ -166,28 +178,6 @@ Simons Institute for the Theory of Computing, UC Berkeley.
 Center for Discrete Mathematics and Theoretical Computer Science (DIMACS).
 
 Dagstuhl – Leibniz Center for Informatics, Germany.
-
-## Scientific Organizations
-
-AMS, SIAM, ...
-
-[RSC Events List](https://www.rsc.org/events). [PhysicalChemistry](https://www.rsc.org/events/subject/physical).
-
-[ISI Courses, Webinars & Workshops](https://isi-web.org/courses-webinars-workshops).
-
-[American Physical Society (APS) Meetings & Events](https://www.aps.org/meetings/).
-
-[Institute of Physics (IOP) Conferences](https://www.iop.org/events).
-
-[European Physical Society (EPS) Conference Listings](https://www.eps.org/page/events).
-
-[International Union of Pure and Applied Physics (IUPAP) Approved Conferences](https://iupap.org/conferences/approved-conferences/).
-
-[Space Physics and Aeronomy Conferences (AGU)](https://www.agu.org/Events).
-
-[Australian Institute of Physics Conferences (AIP)](https://www.aip.org/conferences).
-
-[American Nuclear Society (ANS) Meetings](https://www.ans.org/meetings/).
 
 ## Other broad conference listings
 
