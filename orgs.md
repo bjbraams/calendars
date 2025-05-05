@@ -23,23 +23,21 @@ ICIAM.
 
 ### Primarily Probability and Statistics
 
-[ASA](https://ww2.amstat.org/dateline/)
+[American Statistical Association (ASA) Calendar of Events](https://ww2.amstat.org/dateline/)
 
-[IMS](https://imstat.org/meetings-calendar/)
+[Institute of Mathematical Statistics (IMS) Meetings Calendar](https://imstat.org/meetings-calendar/)
 
-Bernoulli Society. https://www.bernoullisociety.org/meetings.
+[Bernoulli Society for Mathematical Statistics and Probability (Bernoulli Society) Meetings and Conferences](https://www.bernoullisociety.org/meetings)
 
-[ISI](https://isi-web.org/calendar)
+[International Statistical Institute (ISI) Calendar of Upcoming Events](https://isi-web.org/calendar)
 
-[ISI Courses, Webinars & Workshops](https://isi-web.org/courses-webinars-workshops).
-
-[IASC](https://iasc-isi.org/events-all/)
+[ISI Internatinal Association for Statistical Computing (ISI-IASC) Events List](https://iasc-isi.org/events-all/)
 
 ### Primarily Physical Sciences
 
-[International Union of Pure and Applied Physics (IUPAP) Approved Conferences](https://iupap.org/conferences/approved-conferences/).
+[International Union of Pure and Applied Physics (IUPAP) Approved Conferences](https://iupap.org/conferences/approved-conferences-of-the-year/).
 
-[IUPAC](https://iupac.org/events/)
+[International Union of Pure and Applied Chemistry (IUPAC) Endorsed Events](https://iupac.org/events/)
 
 [American Physical Society (APS) Meetings & Events](https://www.aps.org/meetings/).
 
@@ -55,9 +53,9 @@ Bernoulli Society. https://www.bernoullisociety.org/meetings.
 
 [RSC Events List](https://www.rsc.org/events). [PhysicalChemistry](https://www.rsc.org/events/subject/physical).
 
-EuChemS DPC. https://www.euchems.eu/divisions/physical-chemistry-2/conferences/.
+[European Chemical Society Division of Physical Chemistry (EuChemS DPC) Supported Upcoming Conferences](https://www.euchems.eu/divisions/physical-chemistry-2/conferences/).
 
-[NUPECC](https://nupecc.org/?display=events)
+[Nuclear Physics European Collaboration Committee (NUPECC) Conference List](https://nupecc.org/?display=events)
 
 ## Institutes and Organizations
 
