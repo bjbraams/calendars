@@ -69,6 +69,20 @@ Institute of Advanced Studies (IAS) at Nanyang Technological University (NTU), S
 
 ### Primarily Mathematics
 
+[U.S. National Science Foundation Mathematical Sciences Institutes (IMSI, AIM, SM at IAS, ICERM, IPAM, MSRI, SAMSI) Upcoming Events](https://mathinstitutes.org/events).
+
+[American Institute of Mathematics (AIM) Workshops](https://aimath.org/workshops/).
+
+[Institute for Advanced Study (IAS) School of Mathematics Conferences & Workshops](https://www.ias.edu/math/workshops).
+
+[Institute for Computational and Experimental Research in Mathematics (ICERM) Workshops and Programs](https://icerm.brown.edu/programs).
+
+[Institute for Mathematical and Statistical Innovation (IMSI) Events List](https://www.imsi.institute/events/).
+
+[Institute for Pure & Applied Mathematics (IPAM) Workshops, Schools and Conferences](https://www.ipam.ucla.edu/programs/).
+
+[Simons Laufer Mathematical Sciences Institute (SLMath) Programs](https://www.slmath.org/programs) and [Workshops](https://www.slmath.org/workshops).
+
 [Oberwolfach Workshops](https://www.mfo.de/scientific-program/meetings).
 
 [Long Programs at IPAM at UCLA](https://www.ipam.ucla.edu/programs/long-programs/).
