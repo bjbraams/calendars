@@ -83,7 +83,7 @@ Institute of Advanced Studies (IAS) at Nanyang Technological University (NTU), S
 
 [Simons Laufer Mathematical Sciences Institute (SLMath) Programs](https://www.slmath.org/programs) and [Workshops](https://www.slmath.org/workshops).
 
-[Oberwolfach Workshops](https://www.mfo.de/scientific-program/meetings).
+[Mathematisches Forschungsinstitut Oberwolfach (MFO, Oberwolfach Research Institute for Mathematics) Calendar of Meeetings](https://www.mfo.de/scientific-program/meetings).
 
 [Long Programs at IPAM at UCLA](https://www.ipam.ucla.edu/programs/long-programs/).
 
@@ -109,17 +109,11 @@ Centro di Ricerca Matematica Ennio De Giorgi (CRM), Pisa, Italy
 
 [Centrum Wiskunde & Informatica (CWI) Research Semester Programmes](https://www.cwi.nl/en/events/cwi-research-semester-programmes/).
 
-Institute for Computational and Experimental Research in Mathematics (ICERM), Providence, RI, USA.
-
 Institute for Mathematical Sciences (IMS) at National University of Singapore (NUS)?
 
 Chennai Mathematical Institute (CMI), India.
 
 African Institute for Mathematical Sciences (AIMS).
-
-MFO.
-
-[IMSI](https://www.imsi.institute/events/)
 
 Eurandom.
 
@@ -138,8 +132,6 @@ Bad Honnef.
 WE Heraeus.
 
 RIMS (Kyoto). https://www.kurims.kyoto-u.ac.jp/kyoten/en/workshop.html.
-
-[OIST](https://www.oist.jp/conference)
 
 ITAMP.
 
@@ -166,6 +158,8 @@ Aspen Center for Physics (ACP)
 [Nordic Institute for Theoretical Physics (Nordita), Stockholm, Sweden](https://nordita.org/events/conferences/).
 
 [International Institute of Physics (IIP), Natal (RN), Brazil](https://www.iip.ufrn.br/events.php).
+
+[Okinawa Institute of Science and Technology (OIST) Conferences & Meetings](https://www.oist.jp/conference).
 
 Asia Pacific Center for Theoretical Physics (APCTP).
 
