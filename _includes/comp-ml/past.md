@@ -8,3 +8,5 @@
 
 2025-04-08 to 11: [5th ICFA Beam Dynamics Mini-Workshop on Machine Learning for Particle Accelerators](https://indico.cern.ch/event/1382428/), Geneva, Switzerland.
 
+2025-05-05 to 08: [CECAM Flagship Workshop Machine Learning for Materials Discovery (ML4MD 2025)](https://sites.utu.fi/ml4md2025/), Aalto University, Espoo, Finland.
+

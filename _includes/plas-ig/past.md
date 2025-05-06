@@ -4,3 +4,5 @@
 
 2025-02-24 to 03-07: [Workshop Modeling Complex (Astro)Chemical Systems - Astrochemistry Meets Data Science](https://munich-iapbp.de/activities/activities-2025/astrochemical-systems), Garching/Munich, Germany.
 
+2025-05-05 to 09: [11th International Conference on Frontiers of Plasma Physics and Technology (FPPT 2025)](http://cro-vacuum.hr/2025/01/30/https-www-fpptseries-org/), Dubrovnik, Croatia.
+

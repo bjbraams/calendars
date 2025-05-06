@@ -44,6 +44,8 @@
 
 2025-09-01 to 05: [Workshop on Quantum Computing and Quantum Information](https://users.utu.fi/mikhirve/workshop2025/), Nice, France.
 
+2025-09-08 to 19: [CERN Theory Institute on Quantum Simulation and Computation in High-Energy Physics (2025)](https://indico.cern.ch/event/1488240/), Geneva, Switzerland.
+
 2025-09-15 to 19: [20th Theory of Quantum Computation, Communication and Cryptography Conference (TQC 2025)](https://tqc-conference.org), Bangelore, India.
 
 2025-09-17 to 19: [Toulouse Tensor Workshop 2025](https://tensor.sciencesconf.org), Toulouse, France.

@@ -8,6 +8,8 @@
 
 2025-08-25 to 29: [31st International European Conference on Parallel and Distributed Computing (Euro-Par 2025)](https://2025.euro-par.org/), Dresden, Germany.
 
+2025-10-27 to 31: [39th International Symposium on Distributed Computing (DISC 2025)](https://www.disc-conference.org/wp/disc2025/), Berlin, Germany.
+
 2025-11-16 to 21: [International Conference for High Performance Computing, Networking, Storage, and Analysis (SC 2025)](https://sc25.supercomputing.org), St. Louis, MO, USA.
 
 2025-12-17 to 20: [32nd IEEE International Conference on High Performance Computing, Data, and Analytics (HiPC 2025)](https://hipc.org), Hiderabad, India.

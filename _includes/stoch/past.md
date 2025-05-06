@@ -36,3 +36,7 @@
 
 2025-04-28 to 30: [Turbulence on the Banks of the Arno](https://indico.sns.it/event/62/), Pisa, Italy.
 
+2025-05-05 to 08: [Moroccan-Swedish Conference on Stochastic Analysis (MOSCSA 2025)](https://moscsa2025.com/), Marrakesh, Marocco.
+
+2025-05-05 to 09: [Conference on Mixing Times Between Probability, Computer Science and Statistical Physics (ICTP SMR 4066)](https://indico.ictp.it/event/10831), Trieste, Italy.
+

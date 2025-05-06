@@ -16,6 +16,8 @@
 
 2025-06-16 to 27: [17th Madrid UPM Machine Learning and Advanced Statistics Summer School (2025)](https://cig.fi.upm.es/mlas/), Madrid, Spain.
 
+2025-06-19 to 20: [ASCAI Group Meeting 2025 on the Interface Between Statistical Physics and Learning and on Computational Barriers in Statistical Learning](https://www.imo.universite-paris-saclay.fr/fr/conf/ascai-meeting/), Orsay, France.
+
 2025-06-23 to 25: [International Conference on Statistics and Data Science](https://icsds.github.io/2025/), Vancouver, BC, Canada. (Not to be confused with the IMS International Conference on Statistics and Data Science in Sevilla, Spain in 2025.)
 
 2025-06-23 to 27: [Isaac Newton Institute Workshop Accelerating Statistical Inference and Experimental Design With Machine Learning](https://newton.ac.uk/event/rclw03/), Cambridge, UK.

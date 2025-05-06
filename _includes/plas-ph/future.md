@@ -1,5 +1,3 @@
-2025-05-05 to 09: [Fusion Energy Week 2025](https://usfusionenergy.org/fusion-energy-week), Many locations, USA and elsewhere.
-
 2025-05-12 to 13: [4th Workshop on FAIR Data in Plasma Science (FDPS 2025)](https://plasma-mds.org/ws-fair-data-plasma-science-4.html), Greifswald, Germany.
 
 2025-05-12 to 23: [Joint ICTP-IAEA Fusion Energy School (ICTP SMR 4069)](https://indico.ictp.it/event/10834), Trieste, Italy.

@@ -722,3 +722,38 @@
   loc: Hamilton, ON, Canada
   more: Incorporating ESOP, FASE, FoSSaCS, TACAS
   kw: cs-oh
+- dd: 2025-05-05 to 08
+  name: CECAM Flagship Workshop Machine Learning for Materials Discovery (ML4MD 2025)
+  link: https://sites.utu.fi/ml4md2025/
+  loc: Aalto University, Espoo, Finland
+  kw: comp-ml
+- dd: 2025-05-05 to 08
+  name: Moroccan-Swedish Conference on Stochastic Analysis (MOSCSA 2025)
+  link: https://moscsa2025.com/
+  loc: Marrakesh, Marocco
+  kw: stoch
+- dd: 2025-05-05 to 09
+  name: 11th International Conference on Frontiers of Plasma Physics and Technology (FPPT 2025)
+  link: http://cro-vacuum.hr/2025/01/30/https-www-fpptseries-org/
+  loc: Dubrovnik, Croatia
+  kw: plas-ig
+- dd: 2025-05-05 to 09
+  name: '26th Symposium on the Jahn-Teller Effect: Vibronic Coupling and Jahn-Teller Effects in Molecules, Solids, and Nanoscale Materials'
+  link: https://sites.google.com/view/jt26th-2025/
+  loc: Online
+  kw: qchem
+- dd: 2025-05-05 to 09
+  name: 36th International Conference on Probabilistic, Combinatorial and Asymptotic Methods for the Analysis of Algorithms (AofA 2025)
+  link: http://www.fields.utoronto.ca/activities/24-25/AofA-2025
+  loc: Toronto, ON, Canada
+  kw: cs-al
+- dd: 2025-05-05 to 09
+  name: Conference on Mixing Times Between Probability, Computer Science and Statistical Physics (ICTP SMR 4066)
+  link: https://indico.ictp.it/event/10831
+  loc: Trieste, Italy
+  kw: stoch
+- dd: 2025-05-05 to 09
+  name: Fusion Energy Week 2025
+  link: https://usfusionenergy.org/fusion-energy-week
+  loc: Many locations, USA and elsewhere
+  kw: plas-ph

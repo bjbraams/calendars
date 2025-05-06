@@ -1,5 +1,3 @@
-2025-05-05 to 09: [11th International Conference on Frontiers of Plasma Physics and Technology (FPPT 2025)](http://cro-vacuum.hr/2025/01/30/https-www-fpptseries-org/), Dubrovnik, Croatia.
-
 2025-05-18 to 22: [10th International Conference on the Physics of Dusty Plasmas (ICPDP 2025)](https://icpdp2025.dryfta.com), Eindhoven, The Netherlands.
 
 **2025-06-15 to 20: [25th IEEE Pulsed Power Conference (PPC 2025) and the 52nd IEEE International Conference on Plasma Science (ICOPS 2025)](https://ppps2025.kit.edu), Berlin, Germany**.

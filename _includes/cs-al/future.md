@@ -1,5 +1,3 @@
-2025-05-05 to 09: [36th International Conference on Probabilistic, Combinatorial and Asymptotic Methods for the Analysis of Algorithms (AofA 2025)](http://www.fields.utoronto.ca/activities/24-25/AofA-2025), Toronto, ON, Canada.
-
 2025-05-14: [Kolmogorov Meets Turing 2025; Applications of Stochastic Methods to the Analysis of Algorithms and Complex Systems](https://sites.google.com/view/kmt-2025), Rome, Italy.
 
 2025-05-20 to 23: [Canadian Discrete and Algorithmic Mathematics Conference (CanaDAM 2025)](https://canadam.ca/2025), Ottawa, ON, Canada.

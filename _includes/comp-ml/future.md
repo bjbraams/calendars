@@ -1,5 +1,3 @@
-2025-05-05 to 08: [CECAM Flagship Workshop Machine Learning for Materials Discovery (ML4MD 2025)](https://sites.utu.fi/ml4md2025/), Aalto University, Espoo, Finland.
-
 2025-05-19 to 22: [Machine Learning in Chemical and Material Sciences (MLCM 2025)](https://web.cvent.com/event/d74fa979-47ee-4882-8618-7a5b22632953/summary/), Santa Fe, NM, USA.
 
 2025-05-19 to 23: [7th Inter-Experiment Machine Learning Workshop](https://indico.cern.ch/event/1502120/), CERN, Geneva, Switzerland.

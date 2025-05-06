@@ -14,3 +14,5 @@
 
 2025-04-23 to 25: [ITER Business Forum (IBF 2025)](https://iterbusinessforum.com/homepage.aspx), Marseille, France.
 
+2025-05-05 to 09: [Fusion Energy Week 2025](https://usfusionenergy.org/fusion-energy-week), Many locations, USA and elsewhere.
+

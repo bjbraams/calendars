@@ -18,3 +18,5 @@
 
 2025-05-03 to 08: [31st International Conference on Tools and Algorithms for the Construction and Analysis of Systems (TACAS 2025)](https://etaps.org/2025/conferences/tacas/), Hamilton, ON, Canada.
 
+2025-05-05 to 09: [36th International Conference on Probabilistic, Combinatorial and Asymptotic Methods for the Analysis of Algorithms (AofA 2025)](http://www.fields.utoronto.ca/activities/24-25/AofA-2025), Toronto, ON, Canada.
+

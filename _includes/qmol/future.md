@@ -4,6 +4,8 @@
 
 2025-05-25 to 30: [22nd International Conference on Time-Resolved Vibrational Spectroscopy (TRVS 2025)](https://trvs2025.jp/), Moriyama, Shiga, Japan.
 
+2025-05-26 to 30: [10th International Conference on Precision Physics and Fundamental Physical Constants (FFK 2025)](https://ffk2025.candela.org.pl), Warsaw, Poland.
+
 2025-06-09 to 13: [Workshop on Molecular Excited States (MolEx 2025)](https://molex.umk.pl), Toruń, Poland.
 
 2025-06-15 to 20: [Gordon Research Conference Atomic Physics: Cold Atoms and Molecules, Precision Measurements and Quantum Science](https://grc.org/atomic-physics-conference/2025/), Newport, RI, USA.

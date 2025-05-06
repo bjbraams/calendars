@@ -8,3 +8,5 @@
 
 2025-04-21 to 25: [11th Conference of the Asia-Pacific Association of Theoretical and Computational Chemists (APATCC 2025)](https://apatcc11.jp), Kobe, Japan.
 
+2025-05-05 to 09: [26th Symposium on the Jahn-Teller Effect: Vibronic Coupling and Jahn-Teller Effects in Molecules, Solids, and Nanoscale Materials](https://sites.google.com/view/jt26th-2025/), Online.
+

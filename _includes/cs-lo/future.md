@@ -18,3 +18,5 @@
 
 2025-09-22 to 25: [29th International Conference on Implementation and Application of Automata (CIAA 2025)](https://ciaa2025.unipa.it/), Palermo, Italy.
 
+2026-03-23 to 26: [14th International Symposium on Foundations of Information and Knowledge Systems (FoIKS 2026)](https://foiks2026.github.io/), Hanover, Germany.
+
