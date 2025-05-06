@@ -83,7 +83,7 @@ Institute of Advanced Studies (IAS) at Nanyang Technological University (NTU), S
 
 ### Primarily Mathematics
 
-[U.S. National Science Foundation Mathematical Sciences Institutes (IMSI, AIM, SM at IAS, ICERM, IPAM, MSRI, SAMSI) Upcoming Events](https://mathinstitutes.org/events).
+[U.S. National Science Foundation Mathematical Sciences Institutes (AIM, IAS Mathematics, ICERM, IMSI, IPAM, SLMath) Upcoming Events](https://mathinstitutes.org/events).
 
 [American Institute of Mathematics (AIM) Workshops](https://aimath.org/workshops/).
 
