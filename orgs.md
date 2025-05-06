@@ -9,17 +9,27 @@
 
 ### Primarily Mathematics and Computing
 
-IEEE.
+[IEEE All Conferences](https://www.ieee.org/conferences/index.html).
 
-ACM
+[IEEE Computer Society Conferences](https://www.computer.org/conferences/calendar).
 
-AMS, SIAM, ...
+[IEEE Information Theory Society Events of Interest to Members](https://www.itsoc.org/news-events/upcoming-events).
 
-ICIAM.
+[IEEE Nuclear and Plasma Sciences Society Sponsored and Cosponsored Events](https://ieee-npss.org/conferences/).
+
+[IEEE Signal Processing Society Upcoming Conferences & Events](https://signalprocessingsociety.org/events/attend-an-event).
+
+[Association for Computing Machinery (ACM) Upcoming Conferences](https://dl.acm.org/conferences/upcoming).
+
+[Society for Industrial and Applied Mathematics (SIAM) Conferences](https://www.siam.org/conferences-events/).
+
+[International Council for Industrial and Applied Mathematics (ICIAM) Supported Conferences](https://iciam.org/list-supported-meetings-and-conferences).
 
 [INFORMS](https://www.informs.org/Meetings-Conferences)
 
 [MathOpt](https://www.mathopt.org/?nav=meetings)
+
+AMS
 
 ### Primarily Probability and Statistics
 
@@ -31,7 +41,7 @@ ICIAM.
 
 [International Statistical Institute (ISI) Calendar of Upcoming Events](https://isi-web.org/calendar)
 
-[ISI Internatinal Association for Statistical Computing (ISI-IASC) Events List](https://iasc-isi.org/events-all/)
+[ISI International Association for Statistical Computing (ISI-IASC) Events List](https://iasc-isi.org/events-all/)
 
 ### Primarily Physical Sciences
 
@@ -45,8 +55,6 @@ ICIAM.
 
 [European Physical Society (EPS) Conference Listings](https://www.eps.org/page/events).
 
-[Space Physics and Aeronomy Conferences (AGU)](https://www.agu.org/Events).
-
 [Australian Institute of Physics Conferences (AIP)](https://www.aip.org/conferences).
 
 [American Nuclear Society (ANS) Meetings](https://www.ans.org/meetings/).
@@ -54,6 +62,12 @@ ICIAM.
 [RSC Events List](https://www.rsc.org/events). [PhysicalChemistry](https://www.rsc.org/events/subject/physical).
 
 [European Chemical Society Division of Physical Chemistry (EuChemS DPC) Supported Upcoming Conferences](https://www.euchems.eu/divisions/physical-chemistry-2/conferences/).
+
+[Centre Européen de Calcul Atomique et Moléculaire (CECAM) Program](https://www.cecam.org/program).
+
+[Psi-k Funded Workshops](https://psi-k.net/workshops/).
+
+[Space Physics and Aeronomy Conferences (AGU)](https://www.agu.org/Events).
 
 [Nuclear Physics European Collaboration Committee (NUPECC) Conference List](https://nupecc.org/?display=events)
 
@@ -111,11 +125,13 @@ Centro di Ricerca Matematica Ennio De Giorgi (CRM), Pisa, Italy
 
 Institute for Mathematical Sciences (IMS) at National University of Singapore (NUS)?
 
-Chennai Mathematical Institute (CMI), India.
+Chennai Mathematical Institute (CMI) Schools, Workshops and Conferences](https://www.cmi.ac.in//activities/conferences.php).
 
 African Institute for Mathematical Sciences (AIMS).
 
-Eurandom.
+[Eurandom, Netherlands, Workshops](https://www.eurandom.tue.nl/).
+
+[Institut des Hautes Études Scientifiques (IHES) Conferences](https://www.ihes.fr/en/events/#conferences).
 
 IHS.
 
@@ -129,17 +145,11 @@ Renyi.
 
 [Research Institute for Mathematical Sciences at Kyoto University (RIMS) Workshops and Other Events](https://www.kurims.kyoto-u.ac.jp/kyoten/en/workshop.html).
 
-ITAMP.
-
 ILAS.
 
 ### Primarily Physics
 
-[Centre Européen de Calcul Atomique et Moléculaire (CECAM)](https://www.cecam.org/program).
-
 [International Centre for Theoretical Physics (ICTP) Schools, Workshops and Conferences](https://www.ictp.it/home/scientific-calendar?ty%5B56%5D=56&ty%5B54%5D=54&ty%5B55%5D=55&tt=).
-
-Psi-k.
 
 [Perimeter Institute for Theoretical Physics (Waterloo, Canada) Conferences](https://perimeterinstitute.ca/research/conferences).
 
@@ -152,6 +162,8 @@ Psi-k.
 [Bad Honnef Physics Schools](https://www.dpg-physik.de/ueber-uns/physikzentrum-bad-honnef/bad-honnef-physics-schools).
 
 [Les Houches School of Physics Program of Events](https://www.houches-school-physics.com/program/).
+
+[Institute for Theoretical Atomic, Molecular and Optical Physics (ITAMP) Workshops](https://lweb.cfa.harvard.edu/itamp-events).
 
 [Aspen Center for Physics (ACP) Conferences in Winter](https://aspenphys.org/winter-conferences/) and [Workshops in Summer](https://aspenphys.org/summer-workshops/).
 
