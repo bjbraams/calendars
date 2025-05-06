@@ -2,10 +2,10 @@ Event name:
   key0: key value
   key1: Another value
 A List of dictionaries:
-- dict0 key0: tut
-  dict0 key1: tut
-- dict1 key0: tut
-  dict1 key1: tut
+  - dict0 key0: tut
+    dict0 key1: tut
+  - dict1 key0: tut
+    dict1 key1: tut
 # key1: with\: a colon, not allowed
 # key2: with\[ a square bracket
 # key3: \[ starts with a bracket
