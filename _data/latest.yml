@@ -39,6 +39,62 @@
   link: https://www.icnc2025.com/
   loc: Rome, Italy
   kw: comp-fd
+- dd: 2025-08-22 to 23
+  name: NCTS Workshop on Computational Mathematics and Scientific Computing for Young Researchers (2025)
+  link: https://ncts.ntu.edu.tw/events_2_detail.php?nid=505
+  loc: Taipei, Taiwan
+  kw: comp-na
+- dd: 2025-09-16 to 22
+  name: 23rd International Conference of Numerical Analysis and Applied Mathematics (ICNAAM 2025)
+  link: https://icnaam.org/
+  loc: Heraklion, Crete, Greece
+  kw: comp-na
+- dd: 2025-09-23 to 26
+  name: 2nd Workshop on Accelerated HPC in the Cloud-Edge Continuum (AHPC 2025)
+  link: http://ahpc3.di.unipi.it/
+  loc: Rennes, France
+  kw: comp-hp
+- dd: 2025-09-23 to 26
+  name: 13th IEEE International Conference on Cloud Engineering (IC2E 2025)
+  link: https://conferences.computer.org/IC2E/2025/
+  loc: Rennes, France
+  kw: comp-hp
+- dd: '2025-08-02'
+  name: 10th International Workshop on Satisfiability Checking and Symbolic Computation (SC2 2025)
+  link: https://www.sc-square.org/CSA/workshop10.html
+  loc: Stuttgart, Germany
+  more: Colocated with CADE 2025
+  kw: cs-lo
+- dd: 2025-07-28 to 31
+  name: 30th International Conference on Automated Deduction (CADE 2025)
+  link: https://www.dhbw-stuttgart.de/cade-30/
+  loc: Stuttgart, Germany
+  kw: cs-lo
+- dd: 2025-08-04 to 06
+  name: 28th Workshop on Future Research in Combinatorial Optimization (FRICO 2025)
+  link: https://frico.rwth-aachen.de/
+  loc: Aachen, Germany
+  kw: cs-op
+- dd: 
+  name: 
+  link: 
+  loc: 
+  kw: 
+- dd: 
+  name: 
+  link: 
+  loc: 
+  kw: 
+- dd: 
+  name: 
+  link: 
+  loc: 
+  kw: 
+- dd: 
+  name: 
+  link: 
+  loc: 
+  kw: 
 - dd: 
   name: 
   link: 
