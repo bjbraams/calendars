@@ -1,1 +1,66 @@
 # dd,name,link,loc,more,kw
+- dd: 2025-06-23 to 26
+  name: 15th Symposium SiO2, Advanced Dielectrics and Related Devices (SiO2 2025)
+  link: https://sio2-2025.sciencesconf.org/
+  loc: Saint-Étienne, France
+  kw: qmat
+- dd: 2025-09-22 to 26
+  name: Jülich Autumn School on Correlated Electrons 2025 Understanding Correlated Materials with DMFT
+  link: https://www.cond-mat.de/events/correl25/
+  loc: Jülich, Germany
+  kw: qmat
+- dd: 2025-06-05 to 06
+  name: Adaptive and Bayesian designs in real trials - clinicians\', patients\' and statisticians\' perspective
+  link: https://onlinesales.admin.cam.ac.uk/conferences-and-events/mrc-biostatistics-unit/adaptive-and-bayesian-designs-in-real-trials/adaptive-and-bayesian-designs-in-real-trials-05-06-june-2025
+  loc: Cambridge, UK
+  kw: stat-me
+- dd: 2025-09-01 to 05
+  name: 19th European Conference on Logics in Artificial Intelligence (JELIA 2025)
+  link: https://viam.science.tsu.ge/jelia2025/
+  loc: Kutaisi, Georgia
+  kw: cs-lo
+- dd: 2025-04-27 to 05-03
+  name: IEEE/ACM International Conference on Software Engineering (ICSE 2025)
+  link: https://conf.researchr.org/home/icse-2025
+  loc: Ottawa, ON, Canada
+  kw: cs-oh
+- dd: 2025-06-24 to 27
+  name: 3rd Spanish Fluid Mechanics Conference (SFMC 2025)
+  link: https://sfmc25.uma.es/
+  loc: Málaga, Spain
+  kw: comp-fd
+- dd: 2025-03-17 to 20
+  name: 23rd IACM Computational Fluids Conference (CFC 2025)
+  link: https://cfc2025.iacm.info/
+  loc: Santiago, Chile
+  kw: comp-fd
+- dd: 2025-10-14 to 17
+  name: Combustion Institute International Conference on Numerical Combustion (ICNC 2025)
+  link: https://www.icnc2025.com/
+  loc: Rome, Italy
+  kw: comp-fd
+- dd: 
+  name: 
+  link: 
+  loc: 
+  kw: 
+- dd: 
+  name: 
+  link: 
+  loc: 
+  kw: 
+- dd: 
+  name: 
+  link: 
+  loc: 
+  kw: 
+- dd: 
+  name: 
+  link: 
+  loc: 
+  kw: 
+- dd: 
+  name: 
+  link: 
+  loc: 
+  kw: 
