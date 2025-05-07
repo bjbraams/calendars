@@ -6,6 +6,8 @@
 
 2025-06-16 to 27: [Los Alamos Computational Condensed Matter Summer School 2025](https://laccmss.github.io/2025/), Los Alamos, NM, USA.
 
+2025-06-23 to 26: [15th Symposium SiO2, Advanced Dielectrics and Related Devices (SiO2 2025)](https://sio2-2025.sciencesconf.org/), Saint-Étienne, France.
+
 2025-06-23 to 27: [CECAM Flagship Workshop on the Atomic Simulation Environment Ecosystem: Present and Perspectives](https://cecam.org/workshop-details/the-atomic-simulation-environment-ecosystem-present-and-perspectives-1373), Lausanne, Switzerland.
 
 2025-06-24 to 27: [Condensed Matter and Quantum Materials Conference (CMQM 2025)](https://iop.org/events/condensed-matter-and-quantum-materials-cmqm-2025), Bristol, UK.
@@ -47,6 +49,8 @@
 2025-09-14 to 18: [18th European Congress and Exhibition on Advanced Materials and Processes](https://euromat2025.com), Granada, Spain.
 
 2025-09-15 to 19: [International Workshop on First-Principles and Artificial-Intelligence Methods for Materials](https://nomad.fhi.mpg.de/nomad_international_ws_juist_2025), Juist Island (North Sea), Germany.
+
+2025-09-22 to 26: [Jülich Autumn School on Correlated Electrons 2025 Understanding Correlated Materials With DMFT](https://www.cond-mat.de/events/correl25/), Jülich, Germany.
 
 2025-09-29 to 10-03: [Ab Initio Quantum Electrodynamics for Quantum Materials Engineering School](https://events.simonsfoundation.org/event/dd5ef895-f71f-4dee-9d8a-a1382cc28ec8/summary?RefId=Summary), New York City, NY, USA.
 

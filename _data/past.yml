@@ -362,6 +362,11 @@
   link: https://iop.eventsair.com/nppe2025/
   loc: London, UK
   kw: nuclear
+- dd: 2025-03-17 to 20
+  name: 23rd IACM Computational Fluids Conference (CFC 2025)
+  link: https://cfc2025.iacm.info/
+  loc: Santiago, Chile
+  kw: comp-fd
 - dd: 2025-03-17 to 21
   name: Quantum Resources 2025
   link: https://2025.quantumresources.science/
@@ -523,6 +528,11 @@
   loc: Benasque, Spain
   kw: qmat
 - dd: 2025-04-08 to 11
+  name: 12th International Conference on Computation in Electromagnetics (CEM 2025)
+  link: https://cem2025.com/
+  loc: Bruges, Belgium
+  kw: comp-el
+- dd: 2025-04-08 to 11
   name: 3rd Joint ECFA-NuPECC-ApPEC Symposium (JENAS 2025)
   link: https://indico.global/event/5574/
   loc: Didcot, Oxfordshire, UK
@@ -557,6 +567,11 @@
   link: https://regbynoise2025.conf.tuwien.ac.at/
   loc: Vienna, Austria
   kw: stoch
+- dd: 2025-04-14 to 18
+  name: Seismological Society of America Annual Meeting (SSA 2025)
+  link: https://2025.meetings.seismosoc.org/
+  loc: Baltimore, MD, USA
+  kw: comp-el
 - dd: 2025-04-15 to 18
   name: 12th International Workshop on Warm Dense Matter (WDM 2025)
   link: https://sandia.gov/wdm/
@@ -646,10 +661,20 @@
   loc: Singapore
   kw: +stat-ml
 - dd: 2025-04-27 to 05-02
+  name: European Geophysical Union General Assembly (EGU 2025)
+  link: https://www.egu25.eu/
+  loc: Vienna, Austria and online
+  kw: comp-el
+- dd: 2025-04-27 to 05-02
   name: Oberwolfach Workshop on Computational Multiscale Methods
   link: https://mfo.de/occasion/2518/www_view
   loc: Oberwolfach, Germany
   kw: comp-fd
+- dd: 2025-04-27 to 05-03
+  name: IEEE/ACM International Conference on Software Engineering (ICSE 2025)
+  link: https://conf.researchr.org/home/icse-2025
+  loc: Ottawa, ON, Canada
+  kw: cs-oh
 - dd: 2025-04-27 to 30
   name: International Conference on Mathematics and Computational Methods Applied to Nuclear Science and Engineering (M&C 2025)
   link: https://ans.org/meetings/mc2025/
@@ -757,3 +782,18 @@
   link: https://usfusionenergy.org/fusion-energy-week
   loc: Many locations, USA and elsewhere
   kw: plas-ph
+- dd: 2025-05-06 to 09
+  name: 16th Iberian Meeting on Computational Electromagnetics (EIEC 2025)
+  link: https://eiec.av.it.pt/
+  loc: Aveiro, Portugal
+  kw: comp-el
+- dd: 2025-05-06 to 09
+  name: Mallorca Topological Quantum Matter (MTQM 2025)
+  link: https://mtqm25.com/
+  loc: Palma de Mallorca, Spain
+  kw: tbd
+- dd: 2025-05-06 to 10
+  name: 'Global Science Research Center for Systems Chemistry 1st International Symposium: Chemical Dynamics in Materials and Living Systems (GSRC 2025)'
+  link: https://cdml.cau.ac.kr
+  loc: Seoul, Korea
+  kw: qchem

@@ -1,5 +1,3 @@
-2025-05-06 to 10: [Global Science Research Center for Systems Chemistry 1st International Symposium: Chemical Dynamics in Materials and Living Systems (GSRC 2025)](https://cdml.cau.ac.kr), Seoul, Korea.
-
 2025-05-07 to 09: [CECAM Flagship Workshop on Accurate Methods for Thermal and Excited Electrons](https://cecam.org/workshop-details/accurate-methods-for-thermal-and-excited-electrons-1371), Lausanne, Switzerland.
 
 2025-05-26 to 30: [CECAM Conference YRM 2025 - 21st ETSF Young Researchers' Meeting](https://cecam.org/workshop-details/yrm-2025-21st-etsf-young-researchers-meeting-1430), Trieste, Italy.

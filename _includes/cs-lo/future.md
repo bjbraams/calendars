@@ -10,7 +10,13 @@
 
 2025-07-22 to 24: [26th International Conference on Descriptional Complexity of Formal Systems (DCFS 2025)](https://www.lboro.ac.uk/departments/compsci/events/dcfs-2025/), Loughborough, UK.
 
+2025-07-28 to 31: [30th International Conference on Automated Deduction (CADE 2025)](https://www.dhbw-stuttgart.de/cade-30/), Stuttgart, Germany.
+
+2025-08-02: [10th International Workshop on Satisfiability Checking and Symbolic Computation (SC2 2025)](https://www.sc-square.org/CSA/workshop10.html), Stuttgart, Germany. Colocated with CADE 2025
+
 2025-08-19 to 22: [29th International Conference on Developments in Language Theory (DLT 2025)](https://cida.uos.ac.kr/dlt2025/), Seoul, Korea.
+
+2025-09-01 to 05: [19th European Conference on Logics in Artificial Intelligence (JELIA 2025)](https://viam.science.tsu.ge/jelia2025/), Kutaisi, Georgia.
 
 2025-09-12 to 19: [41st International Conference on Logic Programming (ICLP 2025)](https://iclp25.demacs.unical.it), Rende (CS), Italy.
 

@@ -28,9 +28,13 @@
 
 2025-08-18 to 22: [36th IUPAP Conference on Computational Physics (CCP 2025)](https://ccp2025.ornl.gov), Knoxville, TN, USA.
 
+2025-08-22 to 23: [NCTS Workshop on Computational Mathematics and Scientific Computing for Young Researchers (2025)](https://ncts.ntu.edu.tw/events_2_detail.php?nid=505), Taipei, Taiwan.
+
 2025-09-01 to 05: [European Conference on Numerical Mathematics and Advanced Applications (ENUMATH 2025)](https://enumath2025.eu), Heidelberg, Germany.
 
 2025-09-15 to 19: [9th International Conference on Advanced COmputational Methods in ENgineering and Applied Mathematics (ACOMEN 2025)](https://cage.ugent.be/acomen2025/), Ghent, Belgium.
+
+2025-09-16 to 22: [23rd International Conference of Numerical Analysis and Applied Mathematics (ICNAAM 2025)](https://icnaam.org/), Heraklion, Crete, Greece.
 
 2025-09-22 to 26: [5th Young Applied Mathematicians Conference (YAMC 2025)](https://yamc.it), Padua, Italy.
 

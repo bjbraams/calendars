@@ -1,3 +1,140 @@
+- dd: 2025-06-23 to 26
+  name: 15th Symposium SiO2, Advanced Dielectrics and Related Devices (SiO2 2025)
+  link: https://sio2-2025.sciencesconf.org/
+  loc: Saint-Étienne, France
+  kw: qmat
+- dd: 2025-09-22 to 26
+  name: Jülich Autumn School on Correlated Electrons 2025 Understanding Correlated Materials With DMFT
+  link: https://www.cond-mat.de/events/correl25/
+  loc: Jülich, Germany
+  kw: qmat
+- dd: 2025-06-05 to 06
+  name: Adaptive and Bayesian Designs in Real Trials - Clinicians\', Patients\' and Statisticians\' Perspective
+  link: https://onlinesales.admin.cam.ac.uk/conferences-and-events/mrc-biostatistics-unit/adaptive-and-bayesian-designs-in-real-trials/adaptive-and-bayesian-designs-in-real-trials-05-06-june-2025
+  loc: Cambridge, UK
+  kw: stat-me
+- dd: 2025-09-01 to 05
+  name: 19th European Conference on Logics in Artificial Intelligence (JELIA 2025)
+  link: https://viam.science.tsu.ge/jelia2025/
+  loc: Kutaisi, Georgia
+  kw: cs-lo
+- dd: 2025-04-27 to 05-03
+  name: IEEE/ACM International Conference on Software Engineering (ICSE 2025)
+  link: https://conf.researchr.org/home/icse-2025
+  loc: Ottawa, ON, Canada
+  kw: cs-oh
+- dd: 2025-06-24 to 27
+  name: 3rd Spanish Fluid Mechanics Conference (SFMC 2025)
+  link: https://sfmc25.uma.es/
+  loc: Málaga, Spain
+  kw: comp-fd
+- dd: 2025-03-17 to 20
+  name: 23rd IACM Computational Fluids Conference (CFC 2025)
+  link: https://cfc2025.iacm.info/
+  loc: Santiago, Chile
+  kw: comp-fd
+- dd: 2025-10-14 to 17
+  name: Combustion Institute International Conference on Numerical Combustion (ICNC 2025)
+  link: https://www.icnc2025.com/
+  loc: Rome, Italy
+  kw: comp-fd
+- dd: 2025-08-22 to 23
+  name: NCTS Workshop on Computational Mathematics and Scientific Computing for Young Researchers (2025)
+  link: https://ncts.ntu.edu.tw/events_2_detail.php?nid=505
+  loc: Taipei, Taiwan
+  kw: comp-na
+- dd: 2025-09-16 to 22
+  name: 23rd International Conference of Numerical Analysis and Applied Mathematics (ICNAAM 2025)
+  link: https://icnaam.org/
+  loc: Heraklion, Crete, Greece
+  kw: comp-na
+- dd: 2025-09-23 to 26
+  name: 2nd Workshop on Accelerated HPC in the Cloud-Edge Continuum (AHPC 2025)
+  link: http://ahpc3.di.unipi.it/
+  loc: Rennes, France
+  kw: comp-hp
+- dd: 2025-09-23 to 26
+  name: 13th IEEE International Conference on Cloud Engineering (IC2E 2025)
+  link: https://conferences.computer.org/IC2E/2025/
+  loc: Rennes, France
+  kw: comp-hp
+- dd: '2025-08-02'
+  name: 10th International Workshop on Satisfiability Checking and Symbolic Computation (SC2 2025)
+  link: https://www.sc-square.org/CSA/workshop10.html
+  loc: Stuttgart, Germany
+  more: Colocated with CADE 2025
+  kw: cs-lo
+- dd: 2025-07-28 to 31
+  name: 30th International Conference on Automated Deduction (CADE 2025)
+  link: https://www.dhbw-stuttgart.de/cade-30/
+  loc: Stuttgart, Germany
+  kw: cs-lo
+- dd: 2025-08-04 to 06
+  name: 28th Workshop on Future Research in Combinatorial Optimization (FRICO 2025)
+  link: https://frico.rwth-aachen.de/
+  loc: Aachen, Germany
+  kw: cs-op
+- dd: 2026-07-06 to 10
+  name: 13th International Conference on Computational Fluid Dynamics (ICCFD 2026)
+  link: https://www.linkedin.com/posts/alberto-guardone-269a416b_yesterday-we-successfully-wrapped-up-the-activity-7220407354540883968-jRwn
+  loc: Milan, Italy
+  more: Provisional link, announcement only
+  kw: comp-fd
+- dd: 2026 tbd
+  name: 6th International Seminar on Non Ideal Compressible Fluid Dynamics (NICFD 2026)
+  loc: tbd
+  more: '[Search](https://www.google.com/search?q=6th+International+seminar+on+Non+Ideal+Compressible+Fluid+Dynamics+nicfd+2026)'
+  kw: comp-fd
+- dd: 2025-04-27 to 05-02
+  name: European Geophysical Union General Assembly (EGU 2025)
+  link: https://www.egu25.eu/
+  loc: Vienna, Austria and online
+  kw: comp-el
+- dd: 2026-05-03 to 08
+  name: European Geophysical Union General Assembly (EGU 2026)
+  link: https://www.egu.eu/meetings/calendar/egu/
+  loc: Vianna, Austria and online
+  more: Provisional link
+  kw: comp-el
+- dd: 2027-04-04 to 09
+  name: European Geophysical Union General Assembly (EGU 2027)
+  link: https://www.egu.eu/meetings/calendar/egu/
+  loc: Vianna, Austria and online
+  more: Provisional link
+  kw: comp-el
+- dd: 2028-04-23 to 28
+  name: European Geophysical Union General Assembly (EGU 2028)
+  link: https://www.egu.eu/meetings/calendar/egu/
+  loc: Vianna, Austria and online
+  more: Provisional link
+  kw: comp-el
+- dd: 2025-04-14 to 18
+  name: Seismological Society of America Annual Meeting (SSA 2025)
+  link: https://2025.meetings.seismosoc.org/
+  loc: Baltimore, MD, USA
+  kw: comp-el
+- dd: 2026-04-14 to 18
+  name: Seismological Society of America Annual Meeting (SSA 2026)
+  link: https://meetings.seismosoc.org/
+  loc: Pasadena, CA, USA
+  kw: comp-el
+- dd: '2025-06-22'
+  name: IEEE Magnetics Italy International PhD School on Computational Electromagnetism (ComEl 2025)
+  link: https://www.comel2025phdschool.com/
+  loc: Naples, Italy
+  more: Matched with COMPUMAG 2025
+  kw: comp-el
+- dd: 2025-05-06 to 09
+  name: 16th Iberian Meeting on Computational Electromagnetics (EIEC 2025)
+  link: https://eiec.av.it.pt/
+  loc: Aveiro, Portugal
+  kw: comp-el
+- dd: 2025-04-08 to 11
+  name: 12th International Conference on Computation in Electromagnetics (CEM 2025)
+  link: https://cem2025.com/
+  loc: Bruges, Belgium
+  kw: comp-el
+# 2025-05-07
 - dd: 2025-05-26 to 30
   name: 10th International Conference on Precision Physics and Fundamental Physical Constants (FFK 2025)
   link: https://ffk2025.candela.org.pl
@@ -39,7 +176,6 @@
   link: https://foiks2026.github.io/
   loc: Hanover, Germany
   kw: cs-lo
-# 2025-05-06
 - dd: 2025-06-22 to 26
   name: 25th International Conference on the Computation of Electromagnetic Fields (COMPUMAG 2025)
   link: https://www.compumag2025.com/

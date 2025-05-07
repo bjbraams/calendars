@@ -10,3 +10,5 @@
 
 2025-05-05 to 09: [26th Symposium on the Jahn-Teller Effect: Vibronic Coupling and Jahn-Teller Effects in Molecules, Solids, and Nanoscale Materials](https://sites.google.com/view/jt26th-2025/), Online.
 
+2025-05-06 to 10: [Global Science Research Center for Systems Chemistry 1st International Symposium: Chemical Dynamics in Materials and Living Systems (GSRC 2025)](https://cdml.cau.ac.kr), Seoul, Korea.
+

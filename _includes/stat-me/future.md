@@ -2,6 +2,8 @@
 
 2025-05-19 to 23: [International Conference on Robust Statistics (ICORS 2025)](http://datascience.maths.unitn.it/icors2025/), Stresa (VA), Italy.
 
+2025-06-05 to 06: [Adaptive and Bayesian Designs in Real Trials - Clinicians\', Patients\' and Statisticians\' Perspective](https://onlinesales.admin.cam.ac.uk/conferences-and-events/mrc-biostatistics-unit/adaptive-and-bayesian-designs-in-real-trials/adaptive-and-bayesian-designs-in-real-trials-05-06-june-2025), Cambridge, UK.
+
 2025-06-10 to 13: [16th International OSD Conference on Order in Statistical Data - Order Statistics and Beyond (ODOS 2025)](https://www.osd2025.isw.rwth-aachen.de/cms/~bjvtqt/osd2025-isw/), Aachen, Germany.
 
 2025-06-12 to 14: [TRR 391 Summer School on Generalized Additive Modelling and Statistical Methods for High-Dimensional Spatio-Temporal Data](https://trr391.tu-dortmund.de/events/summer-schools/), Dortmund, Germany.
