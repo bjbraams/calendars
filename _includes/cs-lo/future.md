@@ -18,6 +18,8 @@
 
 2025-09-01 to 05: [19th European Conference on Logics in Artificial Intelligence (JELIA 2025)](https://viam.science.tsu.ge/jelia2025/), Kutaisi, Georgia.
 
+2025-09-12 to 13: [9th Workshop on Advances in Argumentation in Artificial Intelligence (AI3 2025)](https://sites.google.com/unical.it/ai3-2025), Rende, Italy. Colocated with ICLP 2025
+
 2025-09-12 to 19: [41st International Conference on Logic Programming (ICLP 2025)](https://iclp25.demacs.unical.it), Rende (CS), Italy.
 
 2025-09-15 to 17: [25th International Symposium on Fundamentals of Computation Theory (FCT 2025)](https://fct2025.cs.uni.wroc.pl), Wrocław, Poland.

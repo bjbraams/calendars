@@ -16,6 +16,8 @@
 
 2025-09-01 to 05: [Conference StatMathAppli 2025](https://statmathappli.mathnum.inrae.fr), Fréjus, France.
 
+2025-09-22 to 25: [Workshop on Detecting Anomalous Structures in Stream Settings (DASS 2025)](https://www.anomaly-programme.org/event-details/workshop-on-detecting-anomalous-structures-in-stream-settings-dass-workshop-2025), Lancaster, UK.
+
 **2025-10-05 to 09: [65th ISI World Statistics Congress (WSC 2025)](https://isi-next.org/conferences/isi-wsc2025/), The Hague, Netherlands**.
 
 2026-06-01 to 04: [9th International Workshop in Sequential Methodologies (IWSM 2026)](https://www.american.edu/cas/iwsm2026/), Washington, DC, USA.

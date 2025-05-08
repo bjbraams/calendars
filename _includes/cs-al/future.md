@@ -50,6 +50,8 @@
 
 2025-08-18 to 22: [Hausdorff Research Institute for Mathematics Follow-Up Workshop Logic and Algorithms in Group Theory (2025)](https://www.mathematics.uni-bonn.de/him/programs/follow-up-workshops/2025_08_18), Bonn, Germany.
 
+2025-08-20 to 22: [WABI Conference on Algorithms in Bioinformatics (WABI 2025)](https://wabiconf.github.io/2025/), College Park, MD, USA.
+
 2025-08-25 to 27: [28th Prague Stringology Conference (PSC 2025)](https://www.stringology.org/event/2025/), Prague, Czech Republic.
 
 2025-08-25 to 29: [50th International Symposium on Mathematical Foundations of Computer Science (MFCS 2025)](https://mfcs2025.mimuw.edu.pl), Warsaw, Poland.
@@ -63,6 +65,8 @@
 2025-09-15 to 19: [ALGO Including European Symposium on Algorithms (ESA) and Related Conferences and Workshops (ALGO 2025)](https://algo-conference.org/2025/), Warsaw, Poland.
 
 2025-09-17 to 19: [International Symposium on Parameterized and Exact Computation (IPEC 2025) in Conjunction With ALGO 2025](https://algo-conference.org/2025/), Warsaw, Poland.
+
+2025-09-18 to 19: [Workshop on Approximation and Online Algorithms (WAOA 2025)](https://algo-conference.org/2025/waoa/), Warsaw, Poland. Colocated with ALGO 2025
 
 2025-09-24 to 26: [33rd International Symposium on Graph Drawing and Network Visualization (GD 2025)](https://graphdrawing.github.io/gd2025/), Norrköping, Sweden.
 

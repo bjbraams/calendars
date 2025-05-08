@@ -1,3 +1,7 @@
+2025-08-20 to 22: [WABI Conference on Algorithms in Bioinformatics (WABI 2025)](https://wabiconf.github.io/2025/), College Park, MD, USA.
+
+2025-09-18 to 19: [Workshop on Approximation and Online Algorithms (WAOA 2025)](https://algo-conference.org/2025/waoa/), Warsaw, Poland. Colocated with ALGO 2025
+
 2025-08-18 to 22: [Hausdorff Research Institute for Mathematics Follow-Up Workshop Logic and Algorithms in Group Theory (2025)](https://www.mathematics.uni-bonn.de/him/programs/follow-up-workshops/2025_08_18), Bonn, Germany.
 
 2025-05-20 to 23: [Canadian Discrete and Algorithmic Mathematics Conference (CanaDAM 2025)](https://canadam.ca/2025), Ottawa, ON, Canada.

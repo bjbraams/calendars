@@ -1,22 +1,20 @@
-2026-06-15 to 18: [31st Symposium on Plasma Physics and Technology](https://www.plasmaconference.cz/), Prague, Czech Republic.
+2025-07-14 to 24: [Culham Plasma Physics Summer School 2025](https://culhamsummerschool.org.uk/), Culham Campus, Oxon, UK.
 
-2026 tbd: [23rd International Spherical Torus Workshop](https://sites.google.com/a/pppl.gov/iea-st/st-workshops), Seville, Spain.
+2025-09-08 to 12: [IPP Summer University for Plasma Physics and Fusion Research 2025](https://www.ipp.mpg.de/summeruni), Garching near Munich, Germany.
 
-2026-03-10 to 13: [Long Program Multi-Fidelity Methods for Fusion Energy Tutorials](https://www.ipam.ucla.edu/programs/long-programs/multi-fidelity-methods-for-fusion-energy/?tab=activities), los Angeles, CA, USA.
+2025-05-07 to 15: [Karlsruhe International Summer School on Fusion Technologies 2025](https://summerschool.fusion.kit.edu/), Karlsruhe, Germany.
 
-2026-03-23 to 26: [Long Program Multi-Fidelity Methods for Fusion Energy Workshop 1 Multi-Fidelity Methods](https://www.ipam.ucla.edu/programs/long-programs/multi-fidelity-methods-for-fusion-energy/?tab=activities), Los Angeles, CA, USA.
+2025-06-30 to 07-25: [13th Advanced School Festival De Théorie 2025 Turbulent Boundary Layers](https://festival-theorie.org/), Aix en Provence, France.
 
-2026-04-13 to 17: [Long Program Multi-Fidelity Methods for Fusion Energy Workshop 2 Learning Models from Data](https://www.ipam.ucla.edu/programs/long-programs/multi-fidelity-methods-for-fusion-energy/?tab=activities), Los Angeles, CA, USA.
+2025-06-09 to 13: [6th Summer School of Plasma Diagnostics (PhDiaFusion 2025)](https://phdia2025.ifj.edu.pl/), Castle near Kraków, Poland.
 
-2026-05-04 to 08: [Long Program Multi-Fidelity Methods for Fusion Energy Workshop 3 Device Design and Engineering](https://www.ipam.ucla.edu/programs/long-programs/multi-fidelity-methods-for-fusion-energy/?tab=activities), Los Angeles, CA, USA.
+2025-07-13 to 19: [Summer School on Plasma Physics, Intense Lasers and Nuclear Fusion (PlasmaSurf 2025)](https://plasmasurf.tecnico.ulisboa.pt/), Lisbon, Portugal.
 
-2026-05-18 to 22: [Long Program Multi-Fidelity Methods for Fusion Energy Workshop 4 Optimization and Control](https://www.ipam.ucla.edu/programs/long-programs/multi-fidelity-methods-for-fusion-energy/?tab=activities), Los Angeles, CA, USA.
+2025-09-01 to 12: [JT-60SA International Fusion School 2025 Innovations in Fusion (JIFS 2025)](https://indico.euro-fusion.org/event/3385/), Naka, Japan.
 
-2026-06-07 to 12: [Long Program Multi-Fidelity Methods for Fusion Energy Culminating Retreat](https://www.ipam.ucla.edu/programs/long-programs/multi-fidelity-methods-for-fusion-energy/?tab=activities), Lake Arrowhead, CA, USA.
+2025-01-06 to 08: [Microwaves in Beams and Plasmas Workshop 2025](https://indico.ukaea.uk/event/364/), Heslington, York, UK.
 
-2025-07-13 to 18: [17th International Conference on Numerical Modeling of Space Plasma Flow (ASTRONUM 2025)](https://space-science.uah.edu/astronum2025/), Madison, WI, USA..
+2025-06-30 to 07-04: [14th ITER International School - Integrated Modelling of Magnetic Fusion Plasmas (IIS 2025)](https://iis2025.sciencesconf.org/), Aix en Provence, France.
 
-2025-12-09 to 10: [Fusion Power Associates 46th Annual Meeting and Symposium: Fusion Research: Status and the Next Ten Years](https://fusionpower.org/RegistrationForm.html), Irvine, CA, USA. Provisional link
-
-2025-06-05 to 06: [CHIMERAS (Collisionless HIgh-beta Magnetized Experiment Researching Astrophysical Systems) Workshop 2025](https://home.physics.ucla.edu/~sethd/chimeras25wvu/), Morgantown, WV, USA.
+2025-06-02 to 13: [PPPL Introduction to Plasma and Fusion Course 2025](https://suli.pppl.gov/2025/course/), Online.
 

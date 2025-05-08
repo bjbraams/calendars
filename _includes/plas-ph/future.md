@@ -6,13 +6,25 @@
 
 2025-06-02 to 05: [5th Annual MagNetUS Workshop (MagNetUS 2025)](https://magnetus-2025.pa.ucla.edu), Morgantown, WV, USA.
 
+2025-06-02 to 13: [PPPL Introduction to Plasma and Fusion Course 2025](https://suli.pppl.gov/2025/course/), Online.
+
 2025-06-05 to 06: [CHIMERAS (Collisionless HIgh-beta Magnetized Experiment Researching Astrophysical Systems) Workshop 2025](https://home.physics.ucla.edu/~sethd/chimeras25wvu/), Morgantown, WV, USA.
 
+2025-06-09 to 13: [6th Summer School of Plasma Diagnostics (PhDiaFusion 2025)](https://phdia2025.ifj.edu.pl/), Castle near Kraków, Poland.
+
 2025-06-23 to 27: [IEEE Symposium on Fusion Engineering (SOFE 2025)](https://plasmafusion.eventsair.com/sofe2025/), Cambridge, MA, USA.
+
+2025-06-30 to 07-04: [14th ITER International School - Integrated Modelling of Magnetic Fusion Plasmas (IIS 2025)](https://iis2025.sciencesconf.org/), Aix en Provence, France.
+
+2025-06-30 to 07-25: [13th Advanced School Festival De Théorie 2025 Turbulent Boundary Layers](https://festival-theorie.org/), Aix en Provence, France.
 
 **2025-07-07 to 11: [51st EPS Conference on Plasma Physics (EPS Plasma 2025)](https://epsplasma2025.com), Vilnius, Lithuania**.
 
 2025-07-13 to 18: [17th International Conference on Numerical Modeling of Space Plasma Flow (ASTRONUM 2025)](https://space-science.uah.edu/astronum2025/), Madison, WI, USA..
+
+2025-07-13 to 19: [Summer School on Plasma Physics, Intense Lasers and Nuclear Fusion (PlasmaSurf 2025)](https://plasmasurf.tecnico.ulisboa.pt/), Lisbon, Portugal.
+
+2025-07-14 to 24: [Culham Plasma Physics Summer School 2025](https://culhamsummerschool.org.uk/), Culham Campus, Oxon, UK.
 
 2025-08-04 to 08: [6th International Conference on Data-Driven Plasma Science (ICDDPS 2025)](https://web.cvent.com/event/7de9d238-e170-4fbf-8de5-20abc5c6eb49/), Santa Fe, NM, USA.
 
@@ -21,6 +33,10 @@
 2025-09-01 to 05: [21st International Symposium on Laser-Aided Plasma Diagnostics (LAPD 2025)](https://lapd21.epfl.ch), Saillon les Bains, Switzerland.
 
 2025-09-01 to 05: [Diagnostics for Fusion Reactors: The Burning Plasma Era (ICFRD 2025)](https://icpc.it/diagnostics/diagnostics-for-fusion-reactors-the-burning-plasma-era/), Varenna, Italy.
+
+2025-09-01 to 12: [JT-60SA International Fusion School 2025 Innovations in Fusion (JIFS 2025)](https://indico.euro-fusion.org/event/3385/), Naka, Japan.
+
+2025-09-08 to 12: [IPP Summer University for Plasma Physics and Fusion Research 2025](https://www.ipp.mpg.de/summeruni), Garching near Munich, Germany.
 
 2025-09-09 to 11: [28th International Conference on Numerical Simulation of Plasmas (ICNSP 2025)](https://pls.llnl.gov/about/events/28th-international-conference-numerical-simulation-plasmas), Berkeley, CA, USA.
 

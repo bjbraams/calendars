@@ -1,3 +1,8 @@
+- dd: 2025-01-06 to 08
+  name: Microwaves in Beams and Plasmas Workshop 2025
+  link: https://indico.ukaea.uk/event/364/
+  loc: Heslington, York, UK
+  kw: plas-ph
 - dd: 2025-01-07 to 10
   name: 16th Innovations in Theoretical Computer Science Conference (ITCS 2025)
   link: http://itcs-conf.org
@@ -797,3 +802,13 @@
   link: https://cdml.cau.ac.kr
   loc: Seoul, Korea
   kw: qchem
+- dd: 2025-05-07 to 09
+  name: CECAM Flagship Workshop on Accurate Methods for Thermal and Excited Electrons
+  link: https://cecam.org/workshop-details/accurate-methods-for-thermal-and-excited-electrons-1371
+  loc: Lausanne, Switzerland
+  kw: qchem
+- dd: 2025-05-07 to 15
+  name: Karlsruhe International Summer School on Fusion Technologies 2025
+  link: https://summerschool.fusion.kit.edu/
+  loc: Karlsruhe, Germany
+  kw: plas-ph

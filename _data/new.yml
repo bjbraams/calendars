@@ -1,3 +1,106 @@
+- dd: 2025-08-20 to 22
+  name: WABI Conference on Algorithms in Bioinformatics (WABI 2025)
+  link: https://wabiconf.github.io/2025/
+  loc: College Park, MD, USA
+  kw: cs-al
+- dd: 2025-09-12 to 13
+  name: 9th Workshop on Advances in Argumentation in Artificial Intelligence (AI3 2025)
+  link: https://sites.google.com/unical.it/ai3-2025
+  loc: Rende, Italy
+  more: Colocated with ICLP 2025
+  kw: cs-lo
+- dd: 2025-09-18 to 19
+  name: Workshop on Approximation and Online Algorithms (WAOA 2025)
+  link: https://algo-conference.org/2025/waoa/
+  loc: Warsaw, Poland
+  more: Colocated with ALGO 2025
+  kw: cs-al
+- dd: 2025-09-29 to 10-02
+  name: 35th Brazilian Conference on Intelligent Systems (BRACIS 2025)
+  link: https://bracis.sbc.org.br/2025/
+  loc: Fortaleza, CE, Brazil
+  kw: cs-oh
+- dd: 2025-06-30 to 07-01
+  name: 67th CREST Open Workshop on AI-powered Software Engineering
+  link: https://www.ucl.ac.uk/crest/events/2025/jun/67th-crest-open-workshop-ai-powered-software-engineering
+  loc: London, UK
+  kw: cs-oh
+- dd: 2025-09-02 to 05
+  name: IEEE International Conference on Cluster Computing (Cluster 2025)
+  link: https://clustercomp.org/2025/
+  loc: Edinburgh, UK
+  kw: comp-hp
+- dd: 2025-11-12 to 13
+  name: 16th IEEE International Conference on Knowledge Graphs (ICKG 2025)
+  link: https://cyprusconferences.org/ickg2025/
+  loc: Limassol, Cyprus
+  kw: cs-oh
+- dd: 2025-09-22 to 25
+  name: Workshop on Detecting Anomalous Structures in Stream Settings (DASS 2025)
+  link: https://www.anomaly-programme.org/event-details/workshop-on-detecting-anomalous-structures-in-stream-settings-dass-workshop-2025
+  loc: Lancaster, UK
+  kw: stat-me
+- dd: 2025-06-07 to 08
+  name: Identifying and Bridging Gaps in Laboratory Astrophysics
+  link: https://labastro-workshop.github.io/
+  loc: Anchorage, AK, USA
+  kw: qmol
+- dd: 2025-08-25 to 29
+  name: Radboud University Summer School on Waves Modeling, Analysis, and Numerics (2025)
+  link: https://www.math.ru.nl/wave/
+  loc: Nijmegen, Netherlends
+  kw: comp-el
+- dd: 2025-07-14 to 24
+  name: Culham Plasma Physics Summer School 2025
+  link: https://culhamsummerschool.org.uk/
+  loc: Culham Campus, Oxon, UK
+  kw: plas-ph
+- dd: 2025-09-08 to 12
+  name: IPP Summer University for Plasma Physics and Fusion Research 2025
+  link: https://www.ipp.mpg.de/summeruni
+  loc: Garching near Munich, Germany
+  kw: plas-ph
+- dd: 2025-05-07 to 15
+  name: Karlsruhe International Summer School on Fusion Technologies 2025
+  link: https://summerschool.fusion.kit.edu/
+  loc: Karlsruhe, Germany
+  kw: plas-ph
+- dd: 2025-06-30 to 07-25
+  name: 13th Advanced School Festival De Théorie 2025 Turbulent Boundary Layers
+  link: https://festival-theorie.org/
+  loc: Aix en Provence, France
+  kw: plas-ph
+- dd: 2025-06-09 to 13
+  name: 6th Summer School of Plasma Diagnostics (PhDiaFusion 2025)
+  link: https://phdia2025.ifj.edu.pl/
+  loc: Castle near Kraków, Poland
+  kw: plas-ph
+- dd: 2025-07-13 to 19
+  name: Summer School on Plasma Physics, Intense Lasers and Nuclear Fusion (PlasmaSurf 2025)
+  link: https://plasmasurf.tecnico.ulisboa.pt/
+  loc: Lisbon, Portugal
+  kw: plas-ph
+- dd: 2025-09-01 to 12
+  name: JT-60SA International Fusion School 2025 Innovations in Fusion (JIFS 2025)
+  link: https://indico.euro-fusion.org/event/3385/
+  loc: Naka, Japan
+  kw: plas-ph
+- dd: 2025-01-06 to 08
+  name: Microwaves in Beams and Plasmas Workshop 2025
+  link: https://indico.ukaea.uk/event/364/
+  loc: Heslington, York, UK
+  kw: plas-ph
+- dd: 2025-06-30 to 07-04
+  name: 14th ITER International School - Integrated Modelling of Magnetic Fusion Plasmas (IIS 2025)
+  link: https://iis2025.sciencesconf.org/
+  loc: Aix en Provence, France
+  kw: plas-ph
+- dd: 2025-06-02 to 13
+  name: PPPL Introduction to Plasma and Fusion Course 2025
+  link: https://suli.pppl.gov/2025/course/
+  loc: Online
+  kw: plas-ph
+# 2025-05-08
 - dd: 2025-06-23 to 26
   name: 15th Symposium SiO2, Advanced Dielectrics and Related Devices (SiO2 2025)
   link: https://sio2-2025.sciencesconf.org/
@@ -134,7 +237,6 @@
   link: https://cem2025.com/
   loc: Bruges, Belgium
   kw: comp-el
-# 2025-05-07
 - dd: 2025-05-26 to 30
   name: 10th International Conference on Precision Physics and Fundamental Physical Constants (FFK 2025)
   link: https://ffk2025.candela.org.pl

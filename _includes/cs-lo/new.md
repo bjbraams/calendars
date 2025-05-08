@@ -1,3 +1,5 @@
+2025-09-12 to 13: [9th Workshop on Advances in Argumentation in Artificial Intelligence (AI3 2025)](https://sites.google.com/unical.it/ai3-2025), Rende, Italy. Colocated with ICLP 2025
+
 2025-09-01 to 05: [19th European Conference on Logics in Artificial Intelligence (JELIA 2025)](https://viam.science.tsu.ge/jelia2025/), Kutaisi, Georgia.
 
 2025-08-02: [10th International Workshop on Satisfiability Checking and Symbolic Computation (SC2 2025)](https://www.sc-square.org/CSA/workshop10.html), Stuttgart, Germany. Colocated with CADE 2025

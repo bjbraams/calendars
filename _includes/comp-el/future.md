@@ -2,6 +2,8 @@
 
 2025-06-22 to 26: [25th International Conference on the Computation of Electromagnetic Fields (COMPUMAG 2025)](https://www.compumag2025.com/), Naples, Italy.
 
+2025-08-25 to 29: [Radboud University Summer School on Waves Modeling, Analysis, and Numerics (2025)](https://www.math.ru.nl/wave/), Nijmegen, Netherlends.
+
 2026-04-14 to 18: [Seismological Society of America Annual Meeting (SSA 2026)](https://meetings.seismosoc.org/), Pasadena, CA, USA.
 
 2026-05-03 to 08: [European Geophysical Union General Assembly (EGU 2026)](https://www.egu.eu/meetings/calendar/egu/), Vianna, Austria and online. Provisional link

@@ -6,6 +6,8 @@
 
 2025-06-23 to 26: [4th Annual Conference of SPP2265: Random Geometric Systems](https://wias-berlin.de/workshops/An_2025_RaGeSys/), Berlin, Germany.
 
+2025-06-30 to 07-01: [67th CREST Open Workshop on AI-powered Software Engineering](https://www.ucl.ac.uk/crest/events/2025/jun/67th-crest-open-workshop-ai-powered-software-engineering), London, UK.
+
 2025-06-30 to 07-05: [International Joint Conference on Neural Networks (IJCNN 2025)](https://2025.ijcnn.org), Rome, Italy.
 
 2025-07-08 to 11: [24th IEEE International Symposium on Parallel and Distributed Computing (ISPDC 2025)](https://ispdc2025.inria.fr), Rennes, France.
@@ -16,6 +18,8 @@
 
 2025-09-01 to 05: [22nd International Conference on Unconventional Computation and Natural Computation (UCNC 2025)](https://webusers.i3s.univ-cotedazur.fr/UCNC2025/), Nice, France.
 
+2025-09-29 to 10-02: [35th Brazilian Conference on Intelligent Systems (BRACIS 2025)](https://bracis.sbc.org.br/2025/), Fortaleza, CE, Brazil.
+
 2025-10-06 to 10: [25th International Conference on Formal Methods in Computer-Aided Design (FMCAD 2025)](https://fmcad.org/FMCAD25/) and [17th International Conference on Verified Software: Theories, Tools, and Experiments (VSTTE 2025)](https://easychair.org/cfp/vstte25), colocated at Menlo Park, CA, USA.
 
 2025-10-25 to 30: [28th European Conference on Artificial Intelligence (ECAI 2025)](https://ecai2025.org), Bologna, Italy.
@@ -23,6 +27,8 @@
 2025-10-27 to 31: [39th International Symposium on Distributed Computing (DISC 2025)](https://disc-conference.org/wp/disc2025/), Berlin, Germany.
 
 2025-10-29 to 31: [7th International Conference on Geometric Science of Information (GSI 2025)](https://conference-gsi.org), Saint Malo, France.
+
+2025-11-12 to 13: [16th IEEE International Conference on Knowledge Graphs (ICKG 2025)](https://cyprusconferences.org/ickg2025/), Limassol, Cyprus.
 
 2025-12-01 to 03: [Symposium on Dependable Software Engineering - Theories, Tools and Applications (SETTA 2025)](https://www.setta2025.uk/), Oxford, UK.
 

@@ -1,3 +1,5 @@
+2025-08-25 to 29: [Radboud University Summer School on Waves Modeling, Analysis, and Numerics (2025)](https://www.math.ru.nl/wave/), Nijmegen, Netherlends.
+
 2025-04-27 to 05-02: [European Geophysical Union General Assembly (EGU 2025)](https://www.egu25.eu/), Vienna, Austria and online.
 
 2026-05-03 to 08: [European Geophysical Union General Assembly (EGU 2026)](https://www.egu.eu/meetings/calendar/egu/), Vianna, Austria and online. Provisional link
