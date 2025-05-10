@@ -45,26 +45,131 @@
   link: https://skew2026.stat.unipd.it/
   loc: Padova, Italy
   kw: prob
-- dd: 
-  name: 
-  link: 
-  loc: 
-  kw: 
-- dd: 
-  name: 
-  link: 
-  loc: 
-  kw: 
-- dd: 
-  name: 
-  link: 
-  loc: 
-  kw: 
-- dd: 
-  name: 
-  link: 
-  loc: 
-  kw: 
+- dd: 2026-07-19 to 24
+  name: 17th World Congres on Computational Mechanics and 10th European Congress on Computational Methods in Applied Sciences and Engineering (WCCM-ECCOMAS 2026)
+  link: https://wccm-eccomas2026.org/
+  loc: Munich, Germany
+  kw: comp-el
+- dd: 2025-07-08 to 11
+  name: 26th International Conference on Computer Methods in Mechanics (CMM 2025)
+  link: https://cmm2025.p.lodz.pl/
+  loc: Lodz, Poland
+  kw: comp-el
+- dd: 2025-10-20 to 22
+  name: (ECCOMAS-IACM Associated) 9th International Conference on Particle-based Methods (PARTICLES 2025)
+  link: https://particles2025.cimne.com/
+  loc: Barcelona, Spain
+  kw: comp-fl
+- dd: 2025-09-22 to 26
+  name: (ECCOMAS-IACM Associated) 2nd International Conference on Highly Flexible Slender Structures (HFSS 2025)
+  link: https://hfss.uniri.hr/
+  loc: Kaiserslautern, Germany
+  kw: comp-el
+- dd: 2025-09-14 to 17
+  name: (ECCOMAS-IACM Associated) 13th International Conference on Isogeometric Analysis (IGA 2025)
+  link: https://iga2025.cimne.com/
+  loc: Eindhoven, Netherlands
+  kw: comp-el
+- dd: 2025-09-02 to 05
+  name: (ECCOMAS-IACM Associated) 18th International Conference on Computational Plasticity Fundamentals and Applications (COMPLAS 2025)
+  link: https://complas2025.cimne.com/complas_2025
+  loc: Barcelona, Spain
+  kw: comp-el
+- dd: 2025-07-01 to 04
+  name: (ECCOMAS-IACM Associated) 5th international Conference on Computational Methods for Multi-scale, Multi-uncertainty and Multi-physics Problems (CM3P 2025)
+  link: https://cm3p.org/
+  loc: Porto, Portugal
+  kw: comp-fl
+- dd: 2025-07-01 to 04
+  name: (APACM-IACM Associated) 4th International Conference on Computational Engineering and Science for Safety and Environmental Problems (COMPSAFE 2025)
+  link: https://www.compsafe2025.org/
+  loc: Kobe, Japan
+  kw: comp-el
+- dd: 2025-06-23 to 25
+  name: (ECCOMAS-IACM Associated) 11th International Conference on Computational Methods in Marine Engineering (MARINE 2025)
+  link: https://marine2025.cimne.com/
+  loc: Edinburgh, UK
+  kw: comp-fl
+- dd: 2025-06-09 to 11
+  name: (ECCOMAS-IACM Associated) 12th International Conference on Adaptive Modeling and Simulation (ADMOS 2025)
+  link: https://admos2025.cimne.com/
+  loc: Barcelona, Spain
+  kw: comp-fl
+- dd: 2025-06-04 to 06
+  name: (ECCOMAS-IACM Associated) 2nd Conference Math 2 Product, Emerging Technologies in Computational Science for Industry, Sustainability and Innovation (M2P 2025)
+  link: https://www.m2p2025.com/M2P2025/
+  loc: Valencia, Spain
+  kw: comp-ot
+- dd: 2025-05-25 to 28
+  name: (ECCOMAS-IACM Associated) 11th International Conference on Coupled Problems in Science and Engineering (COUPLED 2025)
+  link: https://coupled2025.cimne.com/
+  loc: Villasimius, Sardinia, Italy
+  kw: comp-fl
+- dd: 2025-11-26 to 28
+  name: (ECCOMAS-IACM Associated) 7th International Workshop on Model Order Reduction Techniques (MORTech 2025)
+  link: https://mortech2025.i3a.es/
+  loc: Zaragoza, Spain
+  kw: comp-ml
+- dd: 2025-09-16 to 18
+  name: (ECCOMAS Associated) 16th Conference on Evolutionary and Deterministic Methods for Design, Optimization, and Control with Applications (EUROGEN 2025)
+  link: https://www.lut.fi/en/eurogen-2025
+  loc: Lahti, Finland
+  kw: comp-op
+- dd: 2025-09-09 to 11
+  name: 10th ECCOMAS Thematic Conference on the Mechanical Response of Composites (COMPOSITES 2025)
+  link: https://composites2025.cimne.com/
+  loc: Vienna, Austria
+  kw: comp-el
+- dd: 2025-08-20 to 22
+  name: ECCOMAS Thematic Conference on Modern Finite Element Technologies (MFET 2025)
+  link: https://mfet2025.de/
+  loc: Aachen, Germany
+  kw: comp-el
+- dd: 2025-07-13 to 18
+  name: 12th ECCOMAS Thematic Conference on Multibody Dynamics (MULTIBODY 2025)
+  link: https://www.uibk.ac.at/en/congress/multibody2025/
+  loc: Innsbruck, Austria
+  kw: comp-el
+- dd: 2025-07-02 to 04
+  name: 8th International Conference on Computational Contact Mechanics (ICCCM 2025)
+  link: https://www.unibw.de/icccm2025
+  loc: Munich, Germany
+  kw: comp-el
+- dd: 2025-06-25 to 27
+  name: 7th International Conference ECCOMAS MSF On Multiscale Computational Methods for Solids and Fluids (MSF 2025)
+  link: https://ceacm.net/msf-2025/
+  loc: Split, Croatia
+  kw: comp-el
+- dd: 2025-06-15 to 18
+  name: 10th International Conference on Computational Methods in Structural Dynamics and Earthquake Engineering (COMPDYN 2025)
+  link: https://2025.compdyn.org/
+  loc: Rhodes, Greece
+  kw: comp-el
+- dd: 2025-06-04 to 06
+  name: 8th International Conference on Computational Modeling of Fracture and Failure of Materials and Structures (CFRAC 2025)
+  link: https://www.cfrac2025.pt/
+  loc: Porto, Portugal
+  kw: comp-el
+- dd: 2025-05-13 to 16
+  name: 4th International Conference on Computational Modeling of Complex Materials Across the Scales (CMCS 2025)
+  link: https://cmcs2025.sciencesconf.org/
+  loc: Champs-sur-Marne, France
+  kw: comp-el
+- dd: 2025-04-22 to 24
+  name: 3rd ECCOMAS Thematic Conference on Multidisciplinary Design Optimization of Aerospace Systems (AeroBest 2025)
+  link: https://aerobest.idmec.tecnico.ulisboa.pt/
+  loc: Lisbon, Portugal
+  kw: comp-op
+- dd: 2025-04-10 to 11
+  name: 7th International Conference on Numerical and Symbolic Computation: Developments and Applications (SYMCOMP 2025)
+  link: https://symcomp2025.isel.pt/
+  loc: Lisbon, Portugal
+  kw: comp-ot
+- dd: 2025-03-02 to 05
+  name: 29th Conference on Computer Methods in Materials Technology (KomPlasTech 2025)
+  link: https://komplastech.agh.edu.pl/
+  loc: Krynica-Zdrój, Poland
+  kw: comp-el
 - dd: 
   name: 
   link: 
