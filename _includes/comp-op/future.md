@@ -32,6 +32,8 @@
 
 2025-09-02 to 05: [16th Workshop on Global Optimization (STOGO 2025)](https://sites.google.com/view/stogo25/), Stockholm, Sweden.
 
+2025-09-16 to 18: [(ECCOMAS Associated) 16th Conference on Evolutionary and Deterministic Methods for Design, Optimization, and Control With Applications (EUROGEN 2025)](https://www.lut.fi/en/eurogen-2025), Lahti, Finland.
+
 2025-09-29 to 10-01: [European Conference on Computational Optimization 2025 (EUCCO 2025)](https://conference3.aau.at/event/122), Klagenfurt, Austria.
 
 2025-10-08 to 10: [12th International Conference of Networks, Games, Control and Optimization (NETGCOOP 2025)](https://netgcoop2025.univ-avignon.fr), Bilbao, Spain.

@@ -28,3 +28,5 @@
 
 2025-11-25 to 28: [CECAM Flagship Workshop on Uncertainty Quantification in Atomistic Modeling: From Uncertainty-Aware Density Functional Theory to Machine Learning](https://cecam.org/workshop-details/uncertainty-quantification-in-atomistic-modeling-from-uncertainty-aware-density-functional-theory-to-machine-learning-1380), Lausanne, Switzerland.
 
+2025-11-26 to 28: [(ECCOMAS-IACM Associated) 7th International Workshop on Model Order Reduction Techniques (MORTech 2025)](https://mortech2025.i3a.es/), Zaragoza, Spain.
+

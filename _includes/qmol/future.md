@@ -24,6 +24,8 @@
 
 2025-06-26 to 29: [Spectroscopy of Exoplanets: Over All Wavelength](https://exomol.com/activities/conference-spectroscopy-of-exoplanets-over-all-wavelength/), Broxbourne, Hertfordshire, UK.
 
+2025-07-01 to 05: [New Challenges for Ab Initio Theory in Molecular Science (2025)](https://ncaitms.chem.uw.edu.pl/en/), Warsaw, Poland. Commemorating Bogumił Jeziorski
+
 2025-07-06 to 11: [29th Dynamics of Molecular Collisions Conference (DMC 2025)](https://blog.umd.edu/29th-dmc/), Snowbird, UT, USA.
 
 2025-07-13 to 08-03: [Aspen Summer Workshop on Cold and Ultracold Molecules for Fundamental Physics and Many-Body Quantum Science](https://aspenphys.org/summer-workshops/#event5562), Aspen, CO, USA.
@@ -33,6 +35,8 @@
 2025-08-05 to 08: [COST NanoSpace AI in Astrochemistry Training School 2025](https://ocamm.fi/event/cost-nanospace-ai-in-astrochemistry-training-school-2025), Espoo, Finland.
 
 2025-08-17 to 21: [WE-Hereaus Seminar Manipulating Molecular Electronic Properties by Vibrational Excitations: Novel Spectroscopies and Microscopies](https://we-heraeus-stiftung.de/veranstaltungen/manipulating-molecular-electronic-properties-by-vibrational-excitations-novel-spectroscopies-and-microscopies/main/), Bad Honnef, Germany.
+
+2025-08-25 to 29: [29th Colloquium on High-Resolution Molecular Spectroscopy (HRMS 2025)](https://hrms2025.astro.uni-koeln.de/), Cologne, Germany.
 
 2025-08-31 to 09-05: [International Conference on Molecular Energy Transfer in Complex Systems (iCOMET 2025)](https://www2.sci.u-szeged.hu/icomet2025/home), Szeged, Hungary.
 

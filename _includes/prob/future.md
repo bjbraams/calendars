@@ -1,5 +1,3 @@
-2025-05-08 to 09: [3rd China-Japan-Korea Joint Probability Workshop](https://www.kurims.kyoto-u.ac.jp/~croydon/CJK3.html), Kyoto, Japan.
-
 2025-05-12 to 16: [Workshop on Geometry, Probability, and Algorithms](https://www.icts.res.in/discussion-meeting/gpa25), ICTS, Bengaluru, India.
 
 2025-05-19 to 23: [Probability and Mathematical Physics. Walks, Spins, Loops, Fields](https://bernoulli.epfl.ch/programs/probability-and-mathematical-physics-walks-spins-loops-fields/), Lausanne, Switzerland.
@@ -87,6 +85,8 @@
 2025-11-09 to 14: [Workshop Arithmetic Statistics for Algebraic Objects](https://www.mfo.de/occasion/2546/www_view), Oberwolfach, Germany.
 
 2025-12-08 to 12: [21st Brunel-Bielefeld Workshop on Random Matrix Theory](https://www.uni-bielefeld.de/einrichtungen/zif/groups/ongoing/matrices/), Bielefeld, Germany.
+
+2026-01-07 to 09: [Workshop on a Class of Distributions Which Includes the Normal One, Foundational Contributions and Recent Advancements on Skewed Distributions (SKEW 2026)](https://skew2026.stat.unipd.it/), Padova, Italy.
 
 2026-03-02 to 06: [17th Latin American Congress of Probability and Mathematical Statistics (CLAPEM 2026)](https://clapem17.cmat.edu.uy), Montevideo, Uruguay.
 

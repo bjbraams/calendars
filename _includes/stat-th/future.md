@@ -1,5 +1,3 @@
-2025-05-08 to 10: [Conference the Past, Present and Future of Statistics in the Era of AI - Marking 90 Years of the GWU Department of Statistics](https://statistics.columbian.gwu.edu/gw-stat-90), Washington, DC, USA.
-
 2025-05-21 to 23: [CRiSM 2.0 Conference](https://warwick.ac.uk/fac/sci/statistics/news/crism-event2025), Warwick, UK.
 
 2025-05-26 to 28: [14th Workshop on Bayesian Inference in Stochastic Processes (BISP 2025)](https://-web.org/event-detail/436), Milan, Italy.

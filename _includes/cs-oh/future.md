@@ -1,3 +1,5 @@
+2025-05-19 to 23: [24th International Conference on Autonomous Agents and Multiagent Systems (AAMAS 2025)](https://aamas2025.org/), Detroit, MI, USA.
+
 2025-06-01 to 05: [8th International Conference on the Dynamics of Information Systems (DIS 2025)](https://dis2025.ujep.cz), London, UK.
 
 2025-06-11 to 15: [IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR 2025)](https://cvpr.thecvf.com), Nashville, TN, USA.

@@ -14,3 +14,5 @@
 
 2025-04-29: [7th Symposium on Advances in Approximate Bayesian Inference (AABI 2025)](https://approximateinference.org), Singapore. (Co-located with [ICLR 2025](https://iclr.cc).)
 
+2025-05-08 to 10: [Conference the Past, Present and Future of Statistics in the Era of AI - Marking 90 Years of the GWU Department of Statistics](https://statistics.columbian.gwu.edu/gw-stat-90), Washington, DC, USA.
+

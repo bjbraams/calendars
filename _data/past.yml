@@ -281,6 +281,11 @@
   link: https://ppopp25.sigplan.org
   loc: Las Vegas, NV, USA
   kw: comp-hp
+- dd: 2025-03-02 to 05
+  name: 29th Conference on Computer Methods in Materials Technology (KomPlasTech 2025)
+  link: https://komplastech.agh.edu.pl/
+  loc: Krynica-Zdrój, Poland
+  kw: comp-el
 - dd: 2025-03-03 to 04
   name: Workshop on Algorithms, Complexity and Logic (“Theorietag”)
   link: https://stacs2025.de/workshop/
@@ -552,6 +557,11 @@
   link: https://people.maths.bris.ac.uk/~mb13434/pad25/
   loc: Bristol, UK
   kw: prob
+- dd: 2025-04-10 to 11
+  name: 7th International Conference on Numerical and Symbolic Computation, Developments and Applications (SYMCOMP 2025)
+  link: https://symcomp2025.isel.pt/
+  loc: Lisbon, Portugal
+  kw: comp-ot
 - dd: 2025-04-10 to 12
   name: NYU Shanghai - Peking - Westlake Probability Conference
   link: https://www.probabilityconference2025.com/
@@ -612,6 +622,11 @@
   link: https://indico.iter.org/event/529/
   loc: Cadarache, France
   kw: plas-ph
+- dd: 2025-04-22 to 24
+  name: 3rd ECCOMAS Thematic Conference on Multidisciplinary Design Optimization of Aerospace Systems (AeroBest 2025)
+  link: https://aerobest.idmec.tecnico.ulisboa.pt/
+  loc: Lisbon, Portugal
+  kw: comp-op
 - dd: 2025-04-22 to 25
   name: Conference on Analysis and Probability in Infinite Dimensions
   link: https://anaprob2025.com
@@ -812,3 +827,18 @@
   link: https://summerschool.fusion.kit.edu/
   loc: Karlsruhe, Germany
   kw: plas-ph
+- dd: 2025-05-08 to 09
+  name: 3rd China-Japan-Korea Joint Probability Workshop
+  link: https://www.kurims.kyoto-u.ac.jp/~croydon/CJK3.html
+  loc: Kyoto, Japan
+  kw: prob
+- dd: 2025-05-08 to 10
+  name: 38th Conference of the European Chapter on Combinatorial Optimization (ECCO 2025)
+  link: https://ecco2025.sciencesconf.org
+  loc: Marrakech, Morocco
+  kw: cs-op
+- dd: 2025-05-08 to 10
+  name: Conference the Past, Present and Future of Statistics in the Era of AI - Marking 90 Years of the GWU Department of Statistics
+  link: https://statistics.columbian.gwu.edu/gw-stat-90
+  loc: Washington, DC, USA
+  kw: stat-th

@@ -1,3 +1,5 @@
+2025-05-19 to 23: [24th International Conference on Autonomous Agents and Multiagent Systems (AAMAS 2025)](https://aamas2025.org/), Detroit, MI, USA.
+
 2025-09-29 to 10-02: [35th Brazilian Conference on Intelligent Systems (BRACIS 2025)](https://bracis.sbc.org.br/2025/), Fortaleza, CE, Brazil.
 
 2025-06-30 to 07-01: [67th CREST Open Workshop on AI-powered Software Engineering](https://www.ucl.ac.uk/crest/events/2025/jun/67th-crest-open-workshop-ai-powered-software-engineering), London, UK.

@@ -12,6 +12,8 @@
 
 2025-06-09 to 13: [6th Summer School of Plasma Diagnostics (PhDiaFusion 2025)](https://phdia2025.ifj.edu.pl/), Castle near Kraków, Poland.
 
+2025-06-16 to 19: [UKAEA Fusion Industry School York Course 2025](https://fusion-cdt.ac.uk/fusion-industry-school/), Heslington, York, UK.
+
 2025-06-23 to 27: [IEEE Symposium on Fusion Engineering (SOFE 2025)](https://plasmafusion.eventsair.com/sofe2025/), Cambridge, MA, USA.
 
 2025-06-30 to 07-04: [14th ITER International School - Integrated Modelling of Magnetic Fusion Plasmas (IIS 2025)](https://iis2025.sciencesconf.org/), Aix en Provence, France.
@@ -49,6 +51,8 @@
 2025-09-23 to 26: [20th International Workshop on Plasma Edge Theory in Fusion Devices (PET 2025)](https://pet2025.com/), Leuven, Belgium.
 
 2025-09-23 to 26: [21st European Fusion Theory Conference (EFTC 2025)](https://indico.global/event/13788/), Aix-en-Provence, France.
+
+2025-09-29 to 10-02: [UKAEA Fusion Industry School Oxford Course 2025](https://fusion-cdt.ac.uk/fusion-industry-school/), Oxford, UK.
 
 **2025-10-13 to 18: [30th IAEA Fusion Energy Conference (FEC 2025)](https://conferences.iaea.org/event/392/), Chengdu, China**.
 

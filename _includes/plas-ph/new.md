@@ -1,3 +1,7 @@
+2025-06-16 to 19: [UKAEA Fusion Industry School York Course 2025](https://fusion-cdt.ac.uk/fusion-industry-school/), Heslington, York, UK.
+
+2025-09-29 to 10-02: [UKAEA Fusion Industry School Oxford Course 2025](https://fusion-cdt.ac.uk/fusion-industry-school/), Oxford, UK.
+
 2025-07-14 to 24: [Culham Plasma Physics Summer School 2025](https://culhamsummerschool.org.uk/), Culham Campus, Oxon, UK.
 
 2025-09-08 to 12: [IPP Summer University for Plasma Physics and Fusion Research 2025](https://www.ipp.mpg.de/summeruni), Garching near Munich, Germany.

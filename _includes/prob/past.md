@@ -24,3 +24,5 @@
 
 2025-04-22 to 25: [Conference on Analysis and Probability in Infinite Dimensions](https://anaprob2025.com), Bad Herrenalb, Germany.
 
+2025-05-08 to 09: [3rd China-Japan-Korea Joint Probability Workshop](https://www.kurims.kyoto-u.ac.jp/~croydon/CJK3.html), Kyoto, Japan.
+

@@ -1,5 +1,3 @@
-2025-05-08 to 10: [38th Conference of the European Chapter on Combinatorial Optimization (ECCO 2025)](https://ecco2025.sciencesconf.org), Marrakech, Morocco.
-
 2025-06-03 to 06: [22nd Mixed Integer Programming Workshop (MIP 2025)](https://mixedinteger.org/2025/), Minneapolis, MN, USA.
 
 **2025-06-11 to 13: [26th Conference on Integer Programming and Combinatorial Optimization (IPCO 2025)](https://ipco25.cs.jhu.edu), Baltimore, MD, USA**.
