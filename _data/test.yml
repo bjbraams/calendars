@@ -1,13 +1,15 @@
 Event name:
   key0: key value
   key1: Another value
+  key2: with\: an escaped colon, not allowed
+  key3: 'quoted with: a colon is fine'
+  key4: with[ a square bracket
+  key5: with\[ an escaped square bracket
+  key6: \[ starts with an escaped bracket
+  key7: () with round brackets
+  key8: {} with braces
 A List of dictionaries:
   - dict0 key0: tut
     dict0 key1: tut
   - dict1 key0: tut
     dict1 key1: tut
-# key1: with\: a colon, not allowed
-# key2: with\[ a square bracket
-# key3: \[ starts with a bracket
-# key4: () with round brackets
-# key5: {} with braces
