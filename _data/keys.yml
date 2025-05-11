@@ -37,6 +37,9 @@ stat-me:
 stat-ml:
   pages: stat-ml,stats
   desc: Machine learning theory
+stat-ot:
+  pages: stat-ot,stats
+  desc: Statistics not classified elsewhere
 stat-th:
   pages: stat-th,stats
   desc: Statistics theory including inference, estimation, testing, regression
