@@ -79,6 +79,9 @@ cs-op:
 cs-oh:
   pages: cs-oh,cstheory
   desc: Temporary category for CS events not yet classified
+cs-qc:
+  pages: cs-qc,cstheory
+  desc: Quantum Computing from a CS perspective
 light:
   pages: light
   desc: Plasma light sources
