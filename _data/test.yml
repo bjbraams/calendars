@@ -2,7 +2,7 @@ Event name:
   key0: key value
   key1: Another value
   key3: 'quoted with: a colon is fine'
-  key4: 'with[ a square bracket'
+  key4: with[ a square bracket
   key5: with\[ an escaped square bracket
   key6: '\[ starts with an escaped bracket'
   key7: '() with round brackets'
