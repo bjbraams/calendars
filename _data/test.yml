@@ -1,7 +1,6 @@
 Event name:
   key0: key value
   key1: Another value
-# key2: with\: an escaped colon, not allowed
   key3: 'quoted with: a colon is fine'
   key4: with[ a square bracket
   key5: with\[ an escaped square bracket
@@ -13,3 +12,4 @@ A List of dictionaries:
     dict0 key1: tut
   - dict1 key0: tut
     dict1 key1: tut
+# key2: with\: an escaped colon, not allowed
