@@ -1,4 +1,4 @@
-2026-07-19 to 24: [17th World Congres on Computational Mechanics and 10th European Congress on Computational Methods in Applied Sciences and Engineering (WCCM-ECCOMAS 2026)](https://wccm-eccomas2026.org/), Munich, Germany.
+2026-07-19 to 24: [17th World Congres on Computational Mechanics and 10th European Congress on Computational Methods in Applied Sciences and Engineering (WCCM-ECCOMAS 2026)](https://wccm-eccomas2026.org/ "popup text"), Munich, Germany.
 
 2025-07-08 to 11: [26th International Conference on Computer Methods in Mechanics (CMM 2025)](https://cmm2025.p.lodz.pl/), Lodz, Poland.
 
