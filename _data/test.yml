@@ -1,12 +1,12 @@
 Event name:
   key0: key value
-# key1: A colon: or even an escaped\: colon is not allowed
-# key2: A square bracket is fine, except at the start of the value
+# key1: A value containing a colon: or an escaped\: colon must be quoted
+# key2: Square brackets and curly braces are allowed except at the start of the value
   key3: 'quoted with: a colon is fine'
-  key4: with[ a square bracket
+  key4: with [brackets] and {braces}
   key5: with\[ an escaped square bracket
   key6: \[ starts with an escaped bracket
-  key7: () with round brackets
+  key7: () Round brackets are allowed even at the start
   key8: with {} braces
 A List of dictionaries:
   - dict0 key0: tut
