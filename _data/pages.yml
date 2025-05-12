@@ -43,6 +43,9 @@ cs-op:
 cs-oh:
   title: Computer Science - Other
   excerpt: Temporary calendar for events not yet classified.
+cs-qc:
+  title: Computer Science - Quantum Computing
+  excerpt: Algorithms and hardware for quantum computing from the CS perspective
 nuclear:
   title: Nuclear Structure and Reactions
   excerpt: Calendar of meetings in the general field of nuclear structure and reactions—nuclear physics and nuclear data for energy and other applications.
@@ -75,6 +78,9 @@ stat-ml:
 stat-th:
   title: Statistics - Theory
   excerpt: Meetings in the general area described by arXiv code stat-th, including Foundations, Asymptotics, Testing, Estimation, Regression, Bayesian and Frequentist Inference, Decision Theory.
+stat-ot:
+  title: Statistics - Other
+  excerpt: Probability and statistics meetings focused on applications or otherwise not classified elsewhere.
 prob:
   title: Probability Theory
   excerpt: Foundations, probability on algebraic, combinatorial and geometric structures, distributions, asymptotics.
