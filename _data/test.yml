@@ -5,7 +5,7 @@ Event name:
   key3: 'quoted with: a colon is fine'
   key4: with[ a square bracket
   key5: with\[ an escaped square bracket
-  key6: '\[ starts with an escaped bracket'
+  key6: \[ starts with an escaped bracket
   key7: '() with round brackets'
   key8: '{} with braces'
 A List of dictionaries:
