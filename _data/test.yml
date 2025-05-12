@@ -1,13 +1,13 @@
 Event name:
   key0: key value
-# key1: A value containing a colon: or an escaped\: colon must be quoted
+# key1: A value containing a colon: or an escaped\: colon must always be quoted
 # key2: Square brackets and curly braces are allowed except at the start of the value
   key3: 'quoted with: a colon is fine'
   key4: with [brackets] and {braces}
-  key5: with\[ an escaped square bracket
-  key6: \[ starts with an escaped bracket
-  key7: () Round brackets are allowed even at the start
-  key8: with {} braces
+  key5: () Round brackets are allowed everywhere, even at the start
+  key6: \[ Starts with an escaped bracket
+  key7: \{ Starts with an escaped curly brace
+  key8: Anything else to be tested?
 A List of dictionaries:
   - dict0 key0: tut
     dict0 key1: tut
