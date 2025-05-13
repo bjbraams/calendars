@@ -171,6 +171,10 @@ ILAS.
 
 [Nordic Institute for Theoretical Physics (Nordita), Stockholm, Sweden](https://nordita.org/events/conferences/).
 
+[​International Research Network for Nuclear Astrophysics (IReNA) Events List](https://www.irenaweb.org/).
+
+[Yukawa Institute of Theoretical Physics (YITP), Kyoto, Japan, Workshops and Other Activities](https://www.yukawa.kyoto-u.ac.jp/en-GB/).
+
 [International Institute of Physics (IIP), Natal (RN), Brazil](https://www.iip.ufrn.br/events.php).
 
 [Okinawa Institute of Science and Technology (OIST) Conferences & Meetings](https://www.oist.jp/conference).
