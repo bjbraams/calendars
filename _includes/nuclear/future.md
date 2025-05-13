@@ -8,6 +8,10 @@
 
 2025-06-01 to 06: [16th International Particle Accelerator Conference (IPAC 2025)](https://ipac25.org), Taipei, Taiwan.
 
+2025-06-04 to 06: [BRIDGCE-IReNA 2025 Annual Meeting](https://sites.google.com/york.ac.uk/bridgce-york-2025/), York, UK.
+
+2025-06-08 to 13: [Conference on S, I & R Element Nucleosynthesis (sirEN 2025)](https://indico.ict.inaf.it/event/2876/), Giulianova, TE, Italy.
+
 2025-06-15 to 20: [18th International Symposium on Nuclei in the Cosmos (NIC 2025)](https://indico.icc.ub.edu/event/341/), Girona, Catalonia, Spain.
 
 2025-06-15 to 20: [Gordon Research Conference Nuclear Chemistry: Diving Into the Era of Discoveries With Exotic Beams](https://grc.org/nuclear-chemistry-conference/2025/), New London, NH, USA.
@@ -20,9 +24,19 @@
 
 **2025-07-01 to 06: [75th International Conference Nucleus-2025 - Nuclear Physics, Elementary Particle Physics, and Nuclear Technologies](https://indico.spbu.ru/event/1/), Saint Petersburg, Russia**.
 
+2025-07-14 to 18: [2nd IReNA-UKAKUREN Joint Workshop Advancing Nuclear Astrophysics and Beyond (IReNA-UKAKUREN 2025)](https://www.jinaweb.org/events/2nd-irena-ukakuren-joint-workshop-advancing-nuclear-astrophysics-and-beyond), Kyoto, Japan. Provisional link
+
 2025-07-14 to 18: [ECTstar Workshop on Next Generation Ab Initio Nuclear Theory](https://indico.ectstar.eu/event/238/), Trento, Italy.
 
+2025-07-21 to 25: [Helium Burning and Perspectives for Underground Labs (Helium 2025)](https://events.hifis.net/event/2207/), Dresden, Germany.
+
+2025-07-28 to 08-01: [Astrophysics With Radioactive Isotopes (2025)](https://indico.global/event/5668/), Traverse City, MI, USA.
+
 2025-07-28 to 31: [MLZ Conference Neutrons for Fusion and Nuclear Applications](https://indico.frm2.tum.de/event/540/), Munich, Germany.
+
+2025-08-15 to 19: [Nuclear Target Development Summer School (NTDSS 2025)](https://cyclotron.tamu.edu/ntdss2025/), College Station, TX, USA.
+
+2025-08-18 to 22: Workshop on Nuclear Masses in Astrophysics for the Next 25 Years (2025), Darmstadt, Germany. \[Search](https://www.google.com/search?q=Workshop+on+Nuclear+Masses+in+Astrophysics+for+the+Next+25+years+Darmstadt+2025)
 
 2025-09-22 to 26: [6th European Nuclear Physics Conference (EuNPC 2025)](https://indico.in2p3.fr/event/30430/), Caen, France.
 

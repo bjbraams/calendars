@@ -1,3 +1,5 @@
+2025-01-27 to 30: [Nucleosynthesis and Evolution of Neutron Stars (2025)](https://indico.yukawa.kyoto-u.ac.jp/event/46/), Kyoto, Japan.
+
 2025-01-27 to 31: [61st International Winter Meeting on Nuclear Physics (Bormio 2025)](https://bormiomeeting.com), Bormio, Italy.
 
 **2025-02-10 to 13: [Workshop for Applied Nuclear Data Activities (WANDA 2025)](https://conferences.lbl.gov/event/1816/), Arlington, VA, USA**. (May need to use [web archive](https://web.archive.org/web/20250306190719/https://conferences.lbl.gov/event/1816/).)
@@ -9,6 +11,8 @@
 2025-03-03 to 14: [CeNAM Nucleosynthesis Uncertainties Workshop](https://sites.google.com/view/nucleosynthesis-uncertainties), Seattle, WA, USA.
 
 2025-03-12 to 13: [Nuclear Physics in Plasma Environments](https://iop.eventsair.com/nppe2025/), London, UK.
+
+2025-03-16 to 22: [20th Russbach School on Nuclear Astrophysics (2025)](https://events.hifis.net/event/1817/), Russbach, Austria.
 
 2025-04-08 to 11: [3rd Joint ECFA-NuPECC-ApPEC Symposium (JENAS 2025)](https://indico.global/event/5574/), Didcot, Oxfordshire, UK.
 

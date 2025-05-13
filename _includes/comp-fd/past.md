@@ -4,3 +4,5 @@
 
 2025-04-27 to 05-02: [Oberwolfach Workshop on Computational Multiscale Methods](https://mfo.de/occasion/2518/www_view), Oberwolfach, Germany.
 
+2025-05-11 to 16: [Oberwolfach Workshop on Mathematical Advances in Geophysical Fluid Dynamics (2025)](https://www.mfo.de/occasion/2520/www_view), Oberwolfach, Germany.
+

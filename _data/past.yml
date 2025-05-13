@@ -73,6 +73,11 @@
   link: https://indico.gsi.de/event/19829/
   loc: Hirschegg, Germany
   kw: plas-am
+- dd: 2025-01-27 to 30
+  name: Nucleosynthesis and Evolution of Neutron Stars (2025)
+  link: https://indico.yukawa.kyoto-u.ac.jp/event/46/
+  loc: Kyoto, Japan
+  kw: nuclear
 - dd: 2025-01-27 to 31
   name: 61st International Winter Meeting on Nuclear Physics (Bormio 2025)
   link: https://bormiomeeting.com
@@ -371,6 +376,11 @@
   name: Nuclear Physics in Plasma Environments
   link: https://iop.eventsair.com/nppe2025/
   loc: London, UK
+  kw: nuclear
+- dd: 2025-03-16 to 22
+  name: 20th Russbach School on Nuclear Astrophysics (2025)
+  link: https://events.hifis.net/event/1817/
+  loc: Russbach, Austria
   kw: nuclear
 - dd: 2025-03-17 to 20
   name: 23rd IACM Computational Fluids Conference (CFC 2025)
@@ -842,3 +852,48 @@
   link: https://statistics.columbian.gwu.edu/gw-stat-90
   loc: Washington, DC, USA
   kw: stat-th
+- dd: 2025-05-11 to 15
+  name: SIAM Conference on Applications of Dynamical Systems (DS 2025)
+  link: https://siam.org/conferences-events/siam-conferences/ds25
+  loc: Denver, CO, USA
+  kw: comp-na,stoch
+- dd: 2025-05-11 to 16
+  name: Oberwolfach Workshop on Mathematical Advances in Geophysical Fluid Dynamics (2025)
+  link: https://www.mfo.de/occasion/2520/www_view
+  loc: Oberwolfach, Germany
+  kw: comp-fd
+- dd: 2025-05-12 to 13
+  name: 4th Workshop on FAIR Data in Plasma Science (FDPS 2025)
+  link: https://plasma-mds.org/ws-fair-data-plasma-science-4.html
+  loc: Greifswald, Germany
+  kw: plas-ph
+- dd: 2025-05-12 to 14
+  name: Fields-Cfi Conference on Optimal Stopping and Its Applications in Finance and Insurance (2025)
+  link: http://www.fields.utoronto.ca/activities/24-25/optimal-stopping
+  loc: Toronto, ON, Canada
+  kw: stoch
+- dd: 2025-05-12 to 15
+  name: 8th International Conference on Matter and Radiation at Extremes
+  link: http://icmre2025.mre.org.cn/en-us/
+  loc: Xi'an, China
+  kw: plas-am
+- dd: 2025-05-12 to 16
+  name: Lausanne Event on Machine Learning and Neural Network Theory (LemanTh 2025)
+  link: https://lemanth2025.github.io/
+  loc: Lausanne, Switzerland
+  kw: stat-ml
+- dd: 2025-05-12 to 16
+  name: Workshop on Geometry, Probability, and Algorithms
+  link: https://www.icts.res.in/discussion-meeting/gpa25
+  loc: ICTS, Bengaluru, India
+  kw: prob
+- dd: 2025-05-12 to 16
+  name: Workshop on Stochastic Thermodynamics (WOST 2025)
+  link: https://wostmeeting.org
+  loc: Online
+  kw: stoch
+- dd: 2025-05-12 to 23
+  name: Joint ICTP-IAEA Fusion Energy School (ICTP SMR 4069)
+  link: https://indico.ictp.it/event/10834
+  loc: Trieste, Italy
+  kw: plas-ph

@@ -26,3 +26,5 @@
 
 2025-05-08 to 09: [3rd China-Japan-Korea Joint Probability Workshop](https://www.kurims.kyoto-u.ac.jp/~croydon/CJK3.html), Kyoto, Japan.
 
+2025-05-12 to 16: [Workshop on Geometry, Probability, and Algorithms](https://www.icts.res.in/discussion-meeting/gpa25), ICTS, Bengaluru, India.
+

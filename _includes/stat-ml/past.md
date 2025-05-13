@@ -26,3 +26,5 @@
 
 2025-05-03 to 05: [28th International Conference on Artificial Intelligence and Statistics (AISTATS 2025)](https://aistats.org/aistats2025/), Mai Khao, Thailand.
 
+2025-05-12 to 16: [Lausanne Event on Machine Learning and Neural Network Theory (LemanTh 2025)](https://lemanth2025.github.io/), Lausanne, Switzerland.
+

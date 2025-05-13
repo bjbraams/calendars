@@ -1,4 +1,4 @@
-2026-07-19 to 24: [17th World Congres on Computational Mechanics and 10th European Congress on Computational Methods in Applied Sciences and Engineering (WCCM-ECCOMAS 2026)](https://wccm-eccomas2026.org/ "popup text"), Munich, Germany.
+2026-07-19 to 24: [17th World Congres on Computational Mechanics and 10th European Congress on Computational Methods in Applied Sciences and Engineering (WCCM-ECCOMAS 2026)](https://wccm-eccomas2026.org/), Munich, Germany.
 
 2025-07-08 to 11: [26th International Conference on Computer Methods in Mechanics (CMM 2025)](https://cmm2025.p.lodz.pl/), Lodz, Poland.
 
@@ -27,28 +27,4 @@
 2025-05-13 to 16: [4th International Conference on Computational Modeling of Complex Materials Across the Scales (CMCS 2025)](https://cmcs2025.sciencesconf.org/), Champs-sur-Marne, France.
 
 2025-03-02 to 05: [29th Conference on Computer Methods in Materials Technology (KomPlasTech 2025)](https://komplastech.agh.edu.pl/), Krynica-Zdrój, Poland.
-
-2025-08-25 to 29: [Radboud University Summer School on Waves Modeling, Analysis, and Numerics (2025)](https://www.math.ru.nl/wave/), Nijmegen, Netherlends.
-
-2025-04-27 to 05-02: [European Geophysical Union General Assembly (EGU 2025)](https://www.egu25.eu/), Vienna, Austria and online.
-
-2026-05-03 to 08: [European Geophysical Union General Assembly (EGU 2026)](https://www.egu.eu/meetings/calendar/egu/), Vianna, Austria and online. Provisional link
-
-2027-04-04 to 09: [European Geophysical Union General Assembly (EGU 2027)](https://www.egu.eu/meetings/calendar/egu/), Vianna, Austria and online. Provisional link
-
-2028-04-23 to 28: [European Geophysical Union General Assembly (EGU 2028)](https://www.egu.eu/meetings/calendar/egu/), Vianna, Austria and online. Provisional link
-
-2025-04-14 to 18: [Seismological Society of America Annual Meeting (SSA 2025)](https://2025.meetings.seismosoc.org/), Baltimore, MD, USA.
-
-2026-04-14 to 18: [Seismological Society of America Annual Meeting (SSA 2026)](https://meetings.seismosoc.org/), Pasadena, CA, USA.
-
-2025-06-22: [IEEE Magnetics Italy International PhD School on Computational Electromagnetism (ComEl 2025)](https://www.comel2025phdschool.com/), Naples, Italy. Matched with COMPUMAG 2025
-
-2025-05-06 to 09: [16th Iberian Meeting on Computational Electromagnetics (EIEC 2025)](https://eiec.av.it.pt/), Aveiro, Portugal.
-
-2025-04-08 to 11: [12th International Conference on Computation in Electromagnetics (CEM 2025)](https://cem2025.com/), Bruges, Belgium.
-
-2025-06-22 to 26: [25th International Conference on the Computation of Electromagnetic Fields (COMPUMAG 2025)](https://www.compumag2025.com/), Naples, Italy.
-
-2026-06-22 to 26: [18th European Conference Physics of Magnetism (PM 2026)](https://www.ifmpan.poznan.pl/pm26/), Poznań, Poland.
 

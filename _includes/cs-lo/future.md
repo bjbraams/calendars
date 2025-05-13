@@ -14,6 +14,8 @@
 
 2025-07-21 to 22: [15th International Workshop on Non-Classical Models of Automata and Applications (NCMA 2025)](https://www.lboro.ac.uk/departments/compsci/events/ncma-2025/), Loughborough, UK.
 
+2025-07-21 to 25: [37th International Conference on Computer Aided Verification (CAV 2025)](https://conferences.i-cav.org/2025/), Zagreb, Croatia.
+
 2025-07-22 to 24: [26th International Conference on Descriptional Complexity of Formal Systems (DCFS 2025)](https://www.lboro.ac.uk/departments/compsci/events/dcfs-2025/), Loughborough, UK.
 
 2025-07-28 to 31: [30th International Conference on Automated Deduction (CADE 2025)](https://www.dhbw-stuttgart.de/cade-30/), Stuttgart, Germany.

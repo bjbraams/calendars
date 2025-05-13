@@ -32,6 +32,8 @@
 
 2025-09-01 to 04: [Royal Statistical Society International Conference (RSS 2025)](https://rss.org.uk/training-events/conference-2025/), Edinburgh, UK.
 
+2025-09-08 to 10: [15th Scientific Meeting of Classification and Data Analysis Group (CLADAG 2025)](https://cladag2025.unina.it/), Naples, Italy.
+
 **2025-10-05 to 09: [65th ISI World Statistics Congress (WSC 2025)](https://isi-next.org/conferences/isi-wsc2025/), The Hague, Netherlands**.
 
 2025-10-19 to 23: [7th School on Belief Functions and Their Applications (BFTA 2025)](https://www.bfasociety.org/BFTA2025/), Granada, Spain.

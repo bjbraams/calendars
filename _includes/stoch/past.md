@@ -40,3 +40,9 @@
 
 2025-05-05 to 09: [Conference on Mixing Times Between Probability, Computer Science and Statistical Physics (ICTP SMR 4066)](https://indico.ictp.it/event/10831), Trieste, Italy.
 
+2025-05-11 to 15: [SIAM Conference on Applications of Dynamical Systems (DS 2025)](https://siam.org/conferences-events/siam-conferences/ds25), Denver, CO, USA.
+
+2025-05-12 to 14: [Fields-Cfi Conference on Optimal Stopping and Its Applications in Finance and Insurance (2025)](http://www.fields.utoronto.ca/activities/24-25/optimal-stopping), Toronto, ON, Canada.
+
+2025-05-12 to 16: [Workshop on Stochastic Thermodynamics (WOST 2025)](https://wostmeeting.org), Online.
+

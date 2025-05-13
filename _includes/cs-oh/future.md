@@ -22,6 +22,8 @@
 
 2025-09-29 to 10-02: [35th Brazilian Conference on Intelligent Systems (BRACIS 2025)](https://bracis.sbc.org.br/2025/), Fortaleza, CE, Brazil.
 
+2025-10-06 to 10: [28th (Jožef Stefan Institute) Information Society Multiconference (IS 2025)](https://is.ijs.si/), Ljubljana, Slovenia.
+
 2025-10-06 to 10: [25th International Conference on Formal Methods in Computer-Aided Design (FMCAD 2025)](https://fmcad.org/FMCAD25/) and [17th International Conference on Verified Software: Theories, Tools, and Experiments (VSTTE 2025)](https://easychair.org/cfp/vstte25), colocated at Menlo Park, CA, USA.
 
 2025-10-25 to 30: [28th European Conference on Artificial Intelligence (ECAI 2025)](https://ecai2025.org), Bologna, Italy.

@@ -1,5 +1,3 @@
-2025-05-11 to 16: [Oberwolfach Workshop on Mathematical Advances in Geophysical Fluid Dynamics (2025)](https://www.mfo.de/occasion/2520/www_view), Oberwolfach, Germany.
-
 2025-05-25 to 28: [(ECCOMAS-IACM Associated) 11th International Conference on Coupled Problems in Science and Engineering (COUPLED 2025)](https://coupled2025.cimne.com/), Villasimius, Sardinia, Italy.
 
 2025-06-02 to 13: [Algorithms for Multiphysics Models in the Post-Moore's Law Era](https://sites.google.com/msu.edu/modeling-beyond-moore/), Los Alamos, NM, USA.

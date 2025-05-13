@@ -20,3 +20,7 @@
 
 2025-05-07 to 15: [Karlsruhe International Summer School on Fusion Technologies 2025](https://summerschool.fusion.kit.edu/), Karlsruhe, Germany.
 
+2025-05-12 to 13: [4th Workshop on FAIR Data in Plasma Science (FDPS 2025)](https://plasma-mds.org/ws-fair-data-plasma-science-4.html), Greifswald, Germany.
+
+2025-05-12 to 23: [Joint ICTP-IAEA Fusion Energy School (ICTP SMR 4069)](https://indico.ictp.it/event/10834), Trieste, Italy.
+

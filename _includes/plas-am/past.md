@@ -8,3 +8,5 @@
 
 **2025-04-15 to 18: [12th International Workshop on Warm Dense Matter (WDM 2025)](https://sandia.gov/wdm/), Santa Fe, NM, USA**.
 
+2025-05-12 to 15: [8th International Conference on Matter and Radiation at Extremes](http://icmre2025.mre.org.cn/en-us/), Xi'an, China.
+

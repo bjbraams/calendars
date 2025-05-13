@@ -48,9 +48,13 @@
 
 2025-09-29 to 10-03: [Molecular Response Properties Summer School 2025](https://indico.fysik.su.se/event/9113/), Stockholm, Sweden.
 
+2025-10-27 to 29: [26th Asian Workshop on First-Principles Electronic Structure Calculations (ASIAN 2025)](https://www.nims.go.jp/event/asian26/), Tsukuba, Japan.
+
 2025-10-27 to 31: [19th International Conference on Molecular Magnetism (ICMM 2025)](https://icmm2025.sciencesconf.org), Bordeaux, France.
 
 2025-11-30 to 12-05: [13th International Conference on Advanced Vibrational Spectroscopy (ICAVS) and 5th International Conference on Enhanced Spectroscopy (ICES)](https://icavs.xmu.edu.cn), Xiamen, China.
+
+2025-12-09 to 12: [9th Asian Workshop on Molecular Spectroscopy (AWMS 2025)](https://awms-meeting.org/2025/), Sydney, Australia.
 
 2026-03-10 to 13: [Chemical Compound Space Conference (CCSC 2026)](https://ccsc2026.github.io), Erlangen, Germany.
 

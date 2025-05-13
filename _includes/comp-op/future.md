@@ -32,6 +32,8 @@
 
 2025-09-02 to 05: [16th Workshop on Global Optimization (STOGO 2025)](https://sites.google.com/view/stogo25/), Stockholm, Sweden.
 
+2025-09-02 to 05: [German Operations Research Society International Conference on Operations Research (OR 2025)](https://or2025.de/), Bielefeld, Germany.
+
 2025-09-16 to 18: [(ECCOMAS Associated) 16th Conference on Evolutionary and Deterministic Methods for Design, Optimization, and Control With Applications (EUROGEN 2025)](https://www.lut.fi/en/eurogen-2025), Lahti, Finland.
 
 2025-09-29 to 10-01: [European Conference on Computational Optimization 2025 (EUCCO 2025)](https://conference3.aau.at/event/122), Klagenfurt, Austria.
@@ -47,6 +49,8 @@
 2026-06-02 to 05: [SIAM Conference on Optimization (OP 2026)](https://www.siam.org/conferences-events/siam-conferences/op26/), Edinburgh, UK.
 
 2026-07-12 to 17: [24th Conference of the International Federation of Operational Research Societies (IFORS 2026)](https://www.ifors2026.at/home/), Vienna, Austria.
+
+2026-09-02 to 04: [German Operations Research Society International Conference on Operations Research (OR 2026)](https://or2026.de/), Passau, Germany.
 
 **2027-07-25 to 30: [International Symposium on Mathematical Programming (ISMP 2027)](https://vu.nl/en/events/2027/international-symposium-on-mathematical-programming-2027), Amsterdam, The Netherlands**.
 

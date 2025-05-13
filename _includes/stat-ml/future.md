@@ -1,5 +1,3 @@
-2025-05-12 to 16: [Lausanne Event on Machine Learning and Neural Network Theory (LemanTh 2025)](https://lemanth2025.github.io/), Lausanne, Switzerland.
-
 2025-05-19 to 21: [ICERM Workshop Applied Math in Statistics and Data Science Education (2025)](https://icerm.brown.edu/program/hot_topics_workshop/htw-25-amsdse), Providence, RI, USA.
 
 2025-05-19 to 23: [41st IEEE International Conference on Data Engineering (ICDE 2025)](https://ieee-icde.org/2025/), Hong Kong, China.
@@ -61,4 +59,6 @@
 **2025-12-09 to 15: [Annual Conference on Neural Information Processing Systems (NeurIPS 2025)](http://wikicfp.com/cfp/servlet/event.showcfp?eventid=182647&copyownerid=163282), San Diego, CA, USA**.
 
 2025-12-15 to 18: [4th IMS International Conference on Statistics and Data Science (ICSDS 2025)](https://sites.google.com/view/ims-icsds2025/), Sevilla, Spain.
+
+2026-07-14 to 16: 19th Conference of the International Federation of Classification Societies (IFCS 2026), Milan, Italy.
 

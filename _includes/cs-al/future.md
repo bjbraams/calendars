@@ -72,5 +72,7 @@
 
 2025-10-21 to 23: [ICGA Advances in Computer Games Conference (ACG 2025)](https://icga.org/?page_id=4052), Online.
 
+2025-12-07 to 10: [36th International Symposium on Algorithms and Computation (ISAAC 2025)](https://isaac2025.csie.ncku.edu.tw/), Tainan, Taiwan.
+
 2025-12-14 to 17: [66th IEEE Symposium on Foundations of Computer Science (FOCS 2025)](https://focs.computer.org/2025/), Sydney, Australia.
 

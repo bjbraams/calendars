@@ -1,9 +1,3 @@
-2025-05-11 to 15: [SIAM Conference on Applications of Dynamical Systems (DS 2025)](https://siam.org/conferences-events/siam-conferences/ds25), Denver, CO, USA.
-
-2025-05-12 to 14: [Fields-Cfi Conference on Optimal Stopping and Its Applications in Finance and Insurance (2025)](http://www.fields.utoronto.ca/activities/24-25/optimal-stopping), Toronto, ON, Canada.
-
-2025-05-12 to 16: [Workshop on Stochastic Thermodynamics (WOST 2025)](https://wostmeeting.org), Online.
-
 2025-05-14: [Kolmogorov Meets Turing 2025; Applications of Stochastic Methods to the Analysis of Algorithms and Complex Systems](https://sites.google.com/view/kmt-2025), Rome, Italy.
 
 2025-05-14 to 16: [CECAM Flagship Workshop on Stochastics Processes: Inferences in Complex Systems](https://cecam.org/workshop-details/stochastics-processes-inferences-in-complex-systems-1390), Lausanne, Switzerland.

@@ -4,6 +4,8 @@
 
 2025-06-05 to 06: [Adaptive and Bayesian Designs in Real Trials - Clinicians\', Patients\' and Statisticians\' Perspective](https://onlinesales.admin.cam.ac.uk/conferences-and-events/mrc-biostatistics-unit/adaptive-and-bayesian-designs-in-real-trials/adaptive-and-bayesian-designs-in-real-trials-05-06-june-2025), Cambridge, UK.
 
+2025-06-09 to 11: [Symbolic Data Analysis Workshop (SDA 2025)](https://gpml.foi.hr/sda_2025/), Varaždin, Croatia.
+
 2025-06-10 to 13: [16th International OSD Conference on Order in Statistical Data - Order Statistics and Beyond (ODOS 2025)](https://www.osd2025.isw.rwth-aachen.de/cms/~bjvtqt/osd2025-isw/), Aachen, Germany.
 
 2025-06-12 to 14: [TRR 391 Summer School on Generalized Additive Modelling and Statistical Methods for High-Dimensional Spatio-Temporal Data](https://trr391.tu-dortmund.de/events/summer-schools/), Dortmund, Germany.
@@ -19,6 +21,8 @@
 2025-09-22 to 25: [Workshop on Detecting Anomalous Structures in Stream Settings (DASS 2025)](https://www.anomaly-programme.org/event-details/workshop-on-detecting-anomalous-structures-in-stream-settings-dass-workshop-2025), Lancaster, UK.
 
 **2025-10-05 to 09: [65th ISI World Statistics Congress (WSC 2025)](https://isi-next.org/conferences/isi-wsc2025/), The Hague, Netherlands**.
+
+2025-12-13 to 15: [19th International Joint Conference on Computational and Financial Econometrics (CFE) and Computational and Methodological Statistics (CMStatistics) (CFE-CMStatistics 2025)](https://www.cmstatistics.org/CFECMStatistics2025/), London, UK.
 
 2026-06-01 to 04: [9th International Workshop in Sequential Methodologies (IWSM 2026)](https://www.american.edu/cas/iwsm2026/), Washington, DC, USA.
 

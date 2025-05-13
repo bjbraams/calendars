@@ -20,6 +20,8 @@
 
 2025-09-03 to 04: [21st International Conference on Plasma Physics and Applications (CPPA 2025)](https://cespc.inflpr.ro), Bucharest, Romania.
 
+2025-09-08 to 12: [17th International Conference on Gas Discharge Plasmas and Their Applications (GDP 2025)](https://gdp2025.uran.ru/), Ekaterinburg, Russia.
+
 2025-09-15 to 19: [IPPLM International Conference on Research and Application of Plasma (PLASMA 2025)](https://plasma2025.ipplm.pl), Warsaw, Poland.
 
 2025-09-23 to 25: [21st Plasma Technology Conference (PT 2025)](https://pt21-kiel.de), Kiel, Germany.

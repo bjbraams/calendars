@@ -12,6 +12,8 @@
 
 2025-06-22 to 25: [AVS 25th International Conference on Atomic Layer Deposition (ALD 2025) Featuring the 12th International Atomic Layer Etching Workshop (ALE 2025)](https://ald2025.avs.org/), Jeju Island, Korea.
 
+2025-07-22 to 23: [Warwick Atomic Layer Processing (WALP 2025) Workshop](https://warwick.ac.uk/fac/sci/chemistry/chemevents/walp2025/), Warwick, UK.
+
 2025-07-27 to 08-01: [Conference on Strongly Coupled Coulomb Systems (SCCS 2025)](https://event.fourwaves.com/sccs2025/), Lake Tahoe, NV, USA.
 
 2025-08-17 to 22: [27th Ion Beam Analysis (IBA) and 19th Particle-Induced  X-Ray Emission (PIXE) Joint Conference](https://ibapixe.org), Montreal, QC, Canada.

@@ -1,7 +1,3 @@
-2025-05-12 to 13: [4th Workshop on FAIR Data in Plasma Science (FDPS 2025)](https://plasma-mds.org/ws-fair-data-plasma-science-4.html), Greifswald, Germany.
-
-2025-05-12 to 23: [Joint ICTP-IAEA Fusion Energy School (ICTP SMR 4069)](https://indico.ictp.it/event/10834), Trieste, Italy.
-
 2025-05-19 to 22: [25th Topical Conference on Radio-Frequency Power in Plasmas (RFPPC 2025)](https://ipp.mpg.de/rfppc2025), Schloss Hohenkammer (near Munich), Germany.
 
 2025-06-02 to 05: [5th Annual MagNetUS Workshop (MagNetUS 2025)](https://magnetus-2025.pa.ucla.edu), Morgantown, WV, USA.

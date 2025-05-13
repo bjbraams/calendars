@@ -1,5 +1,3 @@
-2025-05-12 to 16: [Workshop on Geometry, Probability, and Algorithms](https://www.icts.res.in/discussion-meeting/gpa25), ICTS, Bengaluru, India.
-
 2025-05-19 to 23: [Probability and Mathematical Physics. Walks, Spins, Loops, Fields](https://bernoulli.epfl.ch/programs/probability-and-mathematical-physics-walks-spins-loops-fields/), Lausanne, Switzerland.
 
 2025-05-20 to 22: [Rossfest70 Celebrating 70 Years of Ross Pinsky Adventures in Probability, PDEs and Combinatorics](https://sites.google.com/slu.edu/rossfest/), St. Louis, MO, USA.
