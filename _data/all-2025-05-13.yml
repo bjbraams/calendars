@@ -2663,6 +2663,11 @@
   link: https://optima.org.au/2025-workshop-on-ai-based-optimisation-ai-opt-2025/
   loc: Melbourne, Australia
   kw: comp-op,cs-op
+- dd: 2025-08-10 to 11
+  name: 23rd International Workshop on Satisfiability Modulo Theories (SMT 2025)
+  link: https://smt-workshop.cs.uiowa.edu/2025/
+  loc: Glasgow, UK
+  kw: cs-lo
 - dd: 2025-08-10 to 15
   name: 31st International Conference on Principles and Practice of Constraint Programming
   link: https://cp2025.a4cp.org

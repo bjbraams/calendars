@@ -25,6 +25,8 @@ def process(a,b,y):
 dir = '_includes'
 fn = sys.argv[1]
 data = yaml.safe_load(sys.stdin)
+if not data:
+    data = []
 targets = {} # Dictionary entries will be <filename>:<file>.
 
 for x in data:

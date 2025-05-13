@@ -352,7 +352,7 @@
   name: YITP International Molecule-Type Workshop on Hydrodynamics of Low-Dimensional Interacting Systems Advances, Challenges, and Future Directions (2025)
   link: https://www.yukawa.kyoto-u.ac.jp/seminar/s53402?lang=en-GB
   loc: Kyoto, Japan
-  kw: comp-fl
+  kw: comp-fd
 - dd: 2025-06-02 to 27
   name: 2025 PIMS-CRM Summer School in Probability
   link: https://www.slmath.org/summer-schools/1071
@@ -1641,7 +1641,7 @@
   name: YITP 70th Condensed Matter Physics Summer School (CMPSS 2025)
   link: https://www.yukawa.kyoto-u.ac.jp/seminar/s53460?lang=en-GB
   loc: Shirahamaso, Japan
-  kw: comp-fl
+  kw: comp-fd
 - dd: 2025-07-29 to 08-05
   name: 34th International Conference on Photonic, Electronic, and Atomic Collisions (ICPEAC 2025)
   link: https://icpeac2025.jp
@@ -1764,6 +1764,11 @@
   link: https://optima.org.au/2025-workshop-on-ai-based-optimisation-ai-opt-2025/
   loc: Melbourne, Australia
   kw: comp-op,cs-op
+- dd: 2025-08-10 to 11
+  name: 23rd International Workshop on Satisfiability Modulo Theories (SMT 2025)
+  link: https://smt-workshop.cs.uiowa.edu/2025/
+  loc: Glasgow, UK
+  kw: cs-lo
 - dd: 2025-08-10 to 15
   name: 31st International Conference on Principles and Practice of Constraint Programming
   link: https://cp2025.a4cp.org

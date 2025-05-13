@@ -1,0 +1,68 @@
+- name: IEEE All Conferences
+  link: https://www.ieee.org/conferences/
+- name: IEEE Computer Society Conferences
+  link: https://www.computer.org/conferences/calendar
+- name: IEEE Information Theory Society Events of Interest to Members
+  link: https://www.itsoc.org/news-events/upcoming-events
+- name: IEEE Nuclear and Plasma Sciences Society Sponsored and Cosponsored Events
+  link: https://ieee-npss.org/conferences/
+- name: IEEE Signal Processing Society Upcoming Conferences & Events
+  link: https://signalprocessingsociety.org/events/attend-an-event
+- name: Association for Computing Machinery (ACM) Upcoming Conferences
+  link: https://dl.acm.org/conferences/upcoming
+- name: Society for Industrial and Applied Mathematics (SIAM) Conferences
+  link: https://www.siam.org/conferences-events/
+- name: International Council for Industrial and Applied Mathematics (ICIAM) Supported Conferences
+  link: https://iciam.org/list-supported-meetings-and-conferences
+- name: INFORMS Meetings and Conferences
+  link: https://www.informs.org/Meetings-Conferences
+- name: Mathematical Optimization Society Events List
+  link: https://www.mathopt.org/?nav=meetings
+- name: American Mathematical Society (AMS) Meetings and Conferences
+  link: https://www.ams.org/meetings
+- name: American Statistical Association (ASA) Calendar of Events
+  link: https://ww2.amstat.org/dateline/
+- name: Institute of Mathematical Statistics (IMS) Meetings Calendar
+  link: https://imstat.org/meetings-calendar/
+- name: Bernoulli Society for Mathematical Statistics and Probability (Bernoulli Society) Meetings and Conferences
+  link: https://www.bernoullisociety.org/meetings
+- name: International Statistical Institute (ISI) Calendar of Upcoming Events
+  link: https://isi-web.org/calendar
+- name: ISI International Association for Statistical Computing (ISI-IASC) Events List
+  link: https://iasc-isi.org/events-all/
+- name: International Union of Pure and Applied Physics (IUPAP) Approved Conferences
+  link: https://iupap.org/conferences/approved-conferences-of-the-year/
+- name: International Union of Pure and Applied Chemistry (IUPAC) Endorsed Events
+  link: https://iupac.org/events/
+- name: American Physical Society (APS) Meetings & Events
+  link: https://www.aps.org/meetings/
+- name: Institute of Physics (IOP) Conferences
+  link: https://www.iop.org/events
+- name: European Physical Society (EPS) Conference Listings
+  link: https://www.eps.org/page/events
+- name: Australian Institute of Physics (AIP) Conferences
+  link: https://www.aip.org/conferences
+- name: American Nuclear Society (ANS) Meetings
+  link: https://www.ans.org/meetings/
+- name: American Physical Society Division of Nuclear Physics Meeting List
+  link: https://engage.aps.org/dnp/meetings/upcoming
+- name: RSC Events List
+  link: https://www.rsc.org/events/
+- name: RSC Events Physical Chemistry
+  link: https://www.rsc.org/events/subject/physical
+- name: European Chemical Society Division of Physical Chemistry (EuChemS DPC) Supported Upcoming Conferences
+  link: https://www.euchems.eu/divisions/physical-chemistry-2/conferences/
+- name: Centre Européen de Calcul Atomique et Moléculaire (CECAM) Program
+  link: https://www.cecam.org/program
+- name: Psi-k Funded Workshops
+  link: https://psi-k.net/workshops/
+- name: Space Physics and Aeronomy Conferences (AGU
+  link: https://www.agu.org/Events
+- name: Nuclear Physics European Collaboration Committee (NUPECC) Conference List
+  link: https://nupecc.org/?display=events
+- name: Announcements of Conferences, Workshops, Schools known to Psi-k Network
+  link: https://psi-k.net/events/
+- name: Psi-k Forum Mailing Lists
+  link: https://psi-k.net/list/
+- name: International Society for Bayesian Analysis Upcoming Events (own and other)
+  link: https://bayesian.org/events/upcoming-meetings/

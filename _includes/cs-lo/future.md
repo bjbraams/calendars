@@ -22,6 +22,8 @@
 
 2025-08-02: [10th International Workshop on Satisfiability Checking and Symbolic Computation (SC2 2025)](https://www.sc-square.org/CSA/workshop10.html), Stuttgart, Germany. Colocated with CADE 2025
 
+2025-08-10 to 11: [23rd International Workshop on Satisfiability Modulo Theories (SMT 2025)](https://smt-workshop.cs.uiowa.edu/2025/), Glasgow, UK.
+
 2025-08-19 to 22: [29th International Conference on Developments in Language Theory (DLT 2025)](https://cida.uos.ac.kr/dlt2025/), Seoul, Korea.
 
 2025-09-01 to 05: [19th European Conference on Logics in Artificial Intelligence (JELIA 2025)](https://viam.science.tsu.ge/jelia2025/), Kutaisi, Georgia.
