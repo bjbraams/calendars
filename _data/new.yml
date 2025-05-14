@@ -1,0 +1,32 @@
+- dd: 2025-09-01 to 03
+  name: 4th CNR-Nano Workshop on Two-Dimensional Excitonic Insulators (2025)
+  link: https://excitonic-insulator.nano.cnr.it/workshop-2d-excitonic-insulator/
+  loc: Modena, Italy
+  kw: qmat
+- dd: 2025-07-02 to 04
+  name: CECAM Flagship Workshop on Open Software for Neural Wavefunctions (2025)
+  link: https://www.cecam.org/workshop-details/open-software-for-neural-wavefunctions-1384
+  loc: Lausanne, Switzerland
+  kw: qmol
+- dd: 2025-11-17 to 19
+  name: 7th International Workshop on Formal Methods for Autonomous Systems (FMAS 2025)
+  link: https://fmasworkshop.github.io/FMAS2025/
+  loc: Paris, France
+  kw: cs-lo
+- dd: 2025-11-17 to 21
+  name: 20th International Conference on Integrated Formal Methods (iFM 2025)
+  link: https://ifm2025.ens.psl.eu/
+  loc: Paris, France
+  kw: cs-lo
+- dd: 2025-11-10 to 14
+  name: 23rd International Conference on Software Engineering and Formal Methods (SEFM 2025)
+  link: https://sefm-conference.github.io/2025/
+  loc: Toledo, Spain
+  kw: cs-lo
+- dd: '2025-07-22'
+  name: 12th Workshop on Horn Clauses for Verification and Synthesis (HCVS 2025)
+  link: https://www.sci.unich.it/hcvs25/
+  loc: Zagreb, Croatia
+  more: Colocated with CAV 2025
+  kw: cs-lo
+# 2025-05-14

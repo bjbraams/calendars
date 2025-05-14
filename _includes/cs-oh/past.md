@@ -1,8 +1,8 @@
-2025-04-27 to 05-03: [IEEE/ACM International Conference on Software Engineering (ICSE 2025)](https://conf.researchr.org/home/icse-2025), Ottawa, ON, Canada.
+2025-04-27 to 05-03: [IEEE/ACM International Conference on Software Engineering (ICSE 2025)](https://conf.researchr.org/home/icse-2025 "ICSE 2025 focuses on software engineering, covering program analysis, testing, and software verification. Topics include automated debugging, software security, and AI-driven development, with applications in cloud computing and embedded systems, emphasizing robust software design."), Ottawa, ON, Canada.
 
-2025-05-03 to 08: [28th International Conference on Fundamental Approaches to Software Engineering (FASE 2025)](https://etaps.org/2025/conferences/fase/), Hamilton, ON, Canada.
+2025-05-03 to 08: [28th International Conference on Fundamental Approaches to Software Engineering (FASE 2025)](https://etaps.org/2025/conferences/fase/ "FASE 2025 focuses on software engineering, covering model-driven development, formal methods, and software testing. Topics include requirements engineering, software synthesis, and applications in embedded systems, emphasizing practical and theoretical approaches to software design."), Hamilton, ON, Canada.
 
-2025-05-03 to 08: [34th European Symposium on Programming (ESOP 2025)](https://etaps.org/2025/conferences/esop/), Hamilton, ON, Canada.
+2025-05-03 to 08: [34th European Symposium on Programming (ESOP 2025)](https://etaps.org/2025/conferences/esop/ "ESOP 2025 focuses on programming languages, covering semantics, type systems, and program verification. Topics include functional programming, concurrency models, and applications in compilers and distributed systems, emphasizing theoretical and practical programming advancements."), Hamilton, ON, Canada.
 
-2025-05-03 to 08: [International Joint Conferences on Theory and Practice of Software (ETAPS 2025)](https://etaps.org/2025/), Hamilton, ON, Canada. Incorporating ESOP, FASE, FoSSaCS, TACAS
+2025-05-03 to 08: [International Joint Conferences on Theory and Practice of Software (ETAPS 2025)](https://etaps.org/2025/ "ETAPS 2025 explores software science and engineering, covering semantics, verification, and programming languages. Topics include formal methods, model checking, and software synthesis, with applications in security, concurrency, and AI, emphasizing theoretical and practical software advancements."), Hamilton, ON, Canada. Incorporating ESOP, FASE, FoSSaCS, TACAS
 

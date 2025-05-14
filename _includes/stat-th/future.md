@@ -1,66 +1,66 @@
-2025-05-21 to 23: [CRiSM 2.0 Conference](https://warwick.ac.uk/fac/sci/statistics/news/crism-event2025), Warwick, UK.
+2025-05-21 to 23: [CRiSM 2.0 Conference](https://warwick.ac.uk/fac/sci/statistics/news/crism-event2025 "CRiSM 2.0 focuses on statistical theory, covering Bayesian inference, high-dimensional statistics, and time-series analysis. Topics include computational statistics, causal inference, and applications in biostatistics and economics, emphasizing theoretical advancements in statistical modeling and analysis."), Warwick, UK.
 
-2025-05-26 to 28: [14th Workshop on Bayesian Inference in Stochastic Processes (BISP 2025)](https://-web.org/event-detail/436), Milan, Italy.
+2025-05-26 to 28: [14th Workshop on Bayesian Inference in Stochastic Processes (BISP 2025)](https://bisp14.imati.cnr.it/ "BISP 2025 focuses on Bayesian inference in stochastic processes, covering Markov chain Monte Carlo, Gaussian processes, and sequential inference. Topics include time-series modeling, applications in finance and biostatistics, emphasizing computational Bayesian methods for stochastic systems."), Milan, Italy.
 
-2025-05-26 to 30: [43rd Finnish Summer School on Probability and Statistics (2025)](https://fdnss.fi/43rd-finnish-summer-school-on-probability-and-statistics/), Lammi, Finland.
+2025-05-26 to 30: [43rd Finnish Summer School on Probability and Statistics (2025)](https://fdnss.fi/43rd-finnish-summer-school-on-probability-and-statistics/ "This summer school explores probability and statistics, covering stochastic processes, Bayesian inference, and high-dimensional data analysis. Topics include random walks, statistical modeling, and applications in biology and finance, emphasizing foundational and applied probabilistic techniques."), Lammi, Finland.
 
-2025-06-08 to 12: [Objective Bayes Methodology Conference (O'Bayes 2025)](https://obayes25.aueb.gr), Athens, Greece.
+2025-06-08 to 12: [Objective Bayes Methodology Conference (O\'Bayes 2025)](https://obayes25.aueb.gr "O\'Bayes 2025 explores objective Bayesian methods, covering prior elicitation, model selection, and computational Bayes. Topics include high-dimensional inference, applications in economics and biostatistics, emphasizing objective approaches to Bayesian statistical analysis."), Athens, Greece.
 
-2025-06-12 to 13: [HCM Workshop Functional Data Analysis - In Honor of Alois Kneip](https://www.mathematics.uni-bonn.de/hcm/events/workshops-conferences/workshop_functional-data-analysis-a), Bonn, Germany.
+2025-06-12 to 13: [HCM Workshop Functional Data Analysis - In Honor of Alois Kneip](https://www.mathematics.uni-bonn.de/hcm/events/workshops-conferences/workshop_functional-data-analysis-a "This workshop focuses on functional data analysis, covering functional regression, time-series modeling, and high-dimensional statistics. Topics include applications in biostatistics and economics, honoring Alois Kneip’s contributions, emphasizing advanced statistical methods for functional data."), Bonn, Germany.
 
-2025-06-12 to 15: [International India Statistical Association Conference (IISA 2025)](https://www.intindstat.org/conference2025/index), Lincoln, NE, USA.
+2025-06-12 to 15: [International India Statistical Association Conference (IISA 2025)](https://www.intindstat.org/conference2025/index "IISA 2025 explores statistical theory and applications, covering Bayesian inference, machine learning, and survival analysis. Topics include biostatistics, data science, and applications in healthcare and economics, emphasizing statistical advancements with global perspectives."), Lincoln, NE, USA.
 
-2025-06-16 to 20: [International Society for Bayesian Analysis Bayes Comp Meeting (BayesComp 2025)](https://bayescomp2025.sg), Singapore.
+2025-06-16 to 20: [International Society for Bayesian Analysis Bayes Comp Meeting (BayesComp 2025)](https://bayescomp2025.sg "BayesComp 2025 explores computational Bayesian methods, focusing on Markov chain Monte Carlo, variational inference, and scalable algorithms. Topics include Bayesian deep learning, applications in biostatistics and finance, emphasizing computational advances in Bayesian statistical modeling."), Singapore.
 
-2025-06-23 to 27: [14th International Conference on Bayesian Nonparametrics (BNP 2025)](https://bnp14.org), Los Angeles, CA, USA. (Satellite events Workshop on the 25th Anniversary of the Dependent Dirichlet Process and Workshop on Bayesian Predictive Inference, 2025-06-22.)
+2025-06-23 to 27: [14th International Conference on Bayesian Nonparametrics (BNP 2025)](https://bnp14.org "BNP 2025 explores Bayesian nonparametrics, covering Dirichlet processes, Gaussian processes, and hierarchical models. Topics include nonparametric inference, clustering, and applications in biostatistics and machine learning, emphasizing flexible Bayesian modeling for complex data."), Los Angeles, CA, USA.
 
-2025-06-29 to 07-04: [BIRS Workshop Game-Theoretic Statistical Inference: Optional Sampling, Universal Inference, and Multiple Testing Based on E-Values (2025)](https://birs.ca/events/2025/5-day-workshops/25w5482), Chennai, India.
+2025-06-29 to 07-04: [BIRS Workshop Game-Theoretic Statistical Inference: Optional Sampling, Universal Inference, and Multiple Testing Based on E-Values (2025)](https://birs.ca/events/2025/5-day-workshops/25w5482 "This workshop explores game-theoretic statistical inference, covering optional sampling, universal inference, and e-value-based multiple testing. Topics include sequential analysis, hypothesis testing, and applications in biostatistics, emphasizing probabilistic and game-theoretic statistical methods."), Chennai, India.
 
-2025-07-13 to 18: [39th International Workshop on Statistical Modelling (IWSM 2025)](https://iwsm2025.ie), Limerick, Ireland.
+2025-07-13 to 18: [39th International Workshop on Statistical Modelling (IWSM 2025)](https://iwsm2025.ie "IWSM 2025 focuses on statistical modeling, covering generalized linear models, Bayesian methods, and time-series analysis. Topics include applications in health, economics, and environmental science, emphasizing theoretical and applied statistical techniques for complex data modeling."), Limerick, Ireland.
 
-2025-07-14 to 18: [IPAM Workshop Sampling, Inference, and Data-Driven Physical Modeling in Scientific Machine Learning](https://ipam.ucla.edu/programs/workshops/sampling-inference-and-data-driven-physical-modeling-in-scientific-machine-learning-2/), Los Angeles, CA, USA.
+2025-07-14 to 18: [IPAM Workshop Sampling, Inference, and Data-Driven Physical Modeling in Scientific Machine Learning](https://ipam.ucla.edu/programs/workshops/sampling-inference-and-data-driven-physical-modeling-in-scientific-machine-learning-2/ "This workshop explores scientific machine learning, covering sampling methods, Bayesian inference, and physics-informed neural networks. Topics include uncertainty quantification, applications in physics and engineering, emphasizing data-driven computational modeling for scientific discovery."), Los Angeles, CA, USA.
 
-2025-07-21 to 25: [24th European Young Statisticians Meeting](https://sites.google.com/view/eysmtorino2025/), Turin, Italy.
+2025-07-21 to 25: [24th European Young Statisticians Meeting](https://sites.google.com/view/eysmtorino2025/ "This meeting focuses on statistical research, covering Bayesian methods, high-dimensional statistics, and time-series analysis. Topics include applications in biostatistics, economics, and machine learning, emphasizing innovative statistical methodologies for young researchers in theoretical statistics."), Turin, Italy.
 
-2025-07-28 to 08-15: [CODATA-RDA School and Advanced Workshops for Research Data Science (ICTP SMR 4092)](https://indico.ictp.it/event/10857), Trieste, Italy.
+2025-07-28 to 08-15: [CODATA-RDA School and Advanced Workshops for Research Data Science (ICTP SMR 4092)](https://indico.ictp.it/event/10857 "This school focuses on research data science, covering data management, statistical analysis, and machine learning. Topics include data visualization, reproducibility, and applications in physics and social sciences, emphasizing practical skills for handling and analyzing scientific data."), Trieste, Italy.
 
-2025-07-31 to 08-02: [Institute of Mathematical Statistics New Researchers Conference (IMS-NRC 2025)](https://nrc2025.github.io/), Nashville, TN, USA.
+2025-07-31 to 08-02: [Institute of Mathematical Statistics New Researchers Conference (IMS-NRC 2025)](https://nrc2025.github.io/ "IMS-NRC 2025 focuses on statistical research, covering probability theory, Bayesian methods, and high-dimensional statistics. Topics include applications in biostatistics, machine learning, and finance, emphasizing innovative statistical methodologies for early-career researchers in theoretical statistics."), Nashville, TN, USA.
 
-**2025-08-02 to 07: [ASA, IMS and Other Joint Statistical Meetings (JSM 2025)](https://ww2.amstat.org/meetings/jsm/2025/), Nashville, TN, USA**.
+**2025-08-02 to 07: [ASA, IMS and Other Joint Statistical Meetings (JSM 2025)](https://ww2.amstat.org/meetings/jsm/2025/ "JSM 2025 focuses on statistics and data science, covering Bayesian methods, time-series analysis, and statistical computing. Topics include applications in biostatistics, economics, and machine learning, emphasizing theoretical and applied statistical advancements for diverse fields."), Nashville, TN, USA**.
 
-2025-08-27 to 29: [First International Vilnius Conference on Statistics and Its Applications](https://www.statistics-vilniusconference.eu/), Vilnius, Lithuania.
+2025-08-27 to 29: [First International Vilnius Conference on Statistics and Its Applications](https://www.statistics-vilniusconference.eu/ "This conference explores statistics, covering probability theory, statistical inference, and data analysis. Topics include applications in economics, biology, and social sciences, emphasizing theoretical and applied statistical methods for modeling and interpreting complex datasets."), Vilnius, Lithuania.
 
-2025-09-01 to 04: [Royal Statistical Society International Conference (RSS 2025)](https://rss.org.uk/training-events/conference-2025/), Edinburgh, UK.
+2025-09-01 to 04: [Royal Statistical Society International Conference (RSS 2025)](https://rss.org.uk/training-events/conference-2025/ "RSS 2025 explores statistics, covering Bayesian methods, statistical modeling, and data visualization. Topics include applications in health, economics, and environmental science, emphasizing theoretical and applied statistical techniques for analyzing and interpreting diverse datasets."), Edinburgh, UK.
 
-2025-09-08 to 10: [15th Scientific Meeting of Classification and Data Analysis Group (CLADAG 2025)](https://cladag2025.unina.it/), Naples, Italy.
+2025-09-08 to 10: [15th Scientific Meeting of Classification and Data Analysis Group (CLADAG 2025)](https://cladag2025.unina.it/ "CLADAG 2025 focuses on classification and data analysis, covering clustering, discriminant analysis, and multivariate statistics. Topics include applications in social sciences, bioinformatics, and marketing, emphasizing statistical methodologies for data classification and pattern recognition."), Naples, Italy.
 
-**2025-10-05 to 09: [65th ISI World Statistics Congress (WSC 2025)](https://isi-next.org/conferences/isi-wsc2025/), The Hague, Netherlands**.
+**2025-10-05 to 09: [65th ISI World Statistics Congress (WSC 2025)](https://isi-next.org/conferences/isi-wsc2025/ "WSC 2025 focuses on statistics, covering statistical theory, data science, and applied methodologies. Topics include Bayesian inference, time-series analysis, and applications in economics, health, and environmental science, emphasizing theoretical and practical advancements in statistical modeling and analysis."), The Hague, Netherlands**.
 
-2025-10-19 to 23: [7th School on Belief Functions and Their Applications (BFTA 2025)](https://www.bfasociety.org/BFTA2025/), Granada, Spain.
+2025-10-19 to 23: [7th School on Belief Functions and Their Applications (BFTA 2025)](https://www.bfasociety.org/BFTA2025/ "BFTA 2025 focuses on belief functions, covering Dempster-Shafer theory, uncertainty modeling, and decision-making. Topics include applications in data fusion, risk analysis, and AI, emphasizing statistical and theoretical frameworks for handling uncertainty in complex systems."), Granada, Spain.
 
-2025-10-22 to 24: [Bayesian Biostatistics Conference Bayes 2025](https://www.bayes-pharma.org/), Leiden, Netherlands.
+2025-10-22 to 24: [Bayesian Biostatistics Conference Bayes 2025](https://www.bayes-pharma.org/ "Bayes 2025 explores Bayesian biostatistics, covering Bayesian inference, clinical trial design, and pharmacometrics. Topics include applications in drug development, personalized medicine, and epidemiology, emphasizing statistical methods for handling uncertainty in biomedical research and decision-making."), Leiden, Netherlands.
 
-2025-12-07 to 12: [BIRS Workshop on Bayesian Uncertainty Quantification in Large Models (2025)](https://birs.ca/events/2025/5-day-workshops/25w5329), Chennai, India.
+2025-12-07 to 12: [BIRS Workshop on Bayesian Uncertainty Quantification in Large Models (2025)](https://birs.ca/events/2025/5-day-workshops/25w5329 "This workshop explores Bayesian uncertainty quantification, covering Bayesian inference, Gaussian processes, and large-scale models. Topics include applications in machine learning, climate modeling, and finance, emphasizing statistical methods for quantifying uncertainty in complex, high-dimensional systems."), Chennai, India.
 
-2025-12-10 to 12: [EURANDOM Workshop on McMc Methodology and Theory](https://eurandom.tue.nl/event/methodology-and-theory-mcmc/), Eindhoven, The Netherlands.
+2025-12-10 to 12: [EURANDOM Workshop on McMc Methodology and Theory](https://eurandom.tue.nl/event/methodology-and-theory-mcmc/ "This workshop explores Markov chain Monte Carlo (MCMC) methods, covering convergence analysis, sampling techniques, and Bayesian inference. Topics include applications in statistics, machine learning, and physics, emphasizing theoretical and computational advancements in MCMC methodologies."), Eindhoven, The Netherlands.
 
-2025-12-14 to 19: [44th International Workshop on Bayesian Inference and Maximum Entropy Methods in Science and Engineering (MaxEnt 2025)](https://maxent2025.co.nz), Auckland, New Zealand.
+2025-12-14 to 19: [44th International Workshop on Bayesian Inference and Maximum Entropy Methods in Science and Engineering (MaxEnt 2025)](https://maxent2025.co.nz "MaxEnt 2025 explores Bayesian inference and maximum entropy methods, covering probabilistic modeling and information theory. Topics include applications in physics, engineering, and data science, emphasizing statistical techniques for uncertainty quantification and optimal inference in complex systems."), Auckland, New Zealand.
 
-2025-12-17 to 20: [Joint Meeting of Taipei International Statistical Symposium (TISS) and 13th ICSA International Conference (JOINT 2025)](https://www3.stat.sinica.edu.tw/joint2025/), Taipei, Taiwan.
+2025-12-17 to 20: [Joint Meeting of Taipei International Statistical Symposium (TISS) and 13th ICSA International Conference (JOINT 2025)](https://www3.stat.sinica.edu.tw/joint2025/ "JOINT 2025 explores statistics, covering probability theory, statistical modeling, and data analysis. Topics include applications in biostatistics, economics, and environmental science, emphasizing theoretical and applied statistical methods for addressing complex, real-world data challenges."), Taipei, Taiwan.
 
-2026-01-12 to 16: [Nonparametric Bayesian Inference - Computational Issues](https://icerm.brown.edu/program/topical_workshop/tw-26-bnp), Providence, RI, USA.
+2026-01-12 to 16: [Nonparametric Bayesian Inference - Computational Issues](https://icerm.brown.edu/program/topical_workshop/tw-26-bnp "This workshop explores nonparametric Bayesian inference, covering Dirichlet processes, Gaussian processes, and computational challenges. Topics include applications in machine learning, bioinformatics, and time-series analysis, emphasizing statistical and computational methods for flexible Bayesian modeling."), Providence, RI, USA.
 
-2026-03-02 to 06: [Workshop on Bayesian Inverse Problems and UQ](https://icerm.brown.edu/program/semester_program_workshop/sp-s26-w2), Providence, RI, USA.
+2026-03-02 to 06: [Workshop on Bayesian Inverse Problems and UQ](https://icerm.brown.edu/program/semester_program_workshop/sp-s26-w2 "This workshop explores Bayesian inverse problems and uncertainty quantification, covering Markov chain Monte Carlo and Gaussian processes. Topics include applications in imaging, geophysics, and engineering, emphasizing statistical and computational methods for solving inverse problems with uncertainty."), Providence, RI, USA.
 
-2026-06-03 to 05: [5th ISI Regional Statistics Conference (RSC 2026)](https://www.isi-next.org/conferences/isi-rsc-malta-2026/), Valletta, Malta.
+2026-06-03 to 05: [5th ISI Regional Statistics Conference (RSC 2026)](https://www.isi-next.org/conferences/isi-rsc-malta-2026/ "RSC 2026 explores statistical theory and applications, covering Bayesian methods, time-series analysis, and data science. Topics include applications in economics, health, and environmental statistics, emphasizing theoretical and practical advancements in statistical modeling and analysis."), Valletta, Malta.
 
 2026-08-01 to 06: ASA, IMS and Other Joint Statistical Meetings (JSM 2026), Boston, MA, USA.
 
-2026-08-24 to 28: [Bernoulli Society European Meeting of Statisticians (EMS 2026)](https://bernoullisociety.org/organization/erc/ems), Lugano, Switzerland. (Preliminary announcement.)
+2026-08-24 to 28: [Bernoulli Society European Meeting of Statisticians (EMS 2026)](https://bernoullisociety.org/organization/erc/ems "EMS 2026 focuses on statistics, covering probability theory, statistical inference, and stochastic processes. Topics include applications in finance, biology, and social sciences, emphasizing theoretical and applied statistical methods for addressing complex data and uncertainty."), Lugano, Switzerland.
 
-2026 tbd: [9th International Conference on Belief Functions (BELIEF 2026)](https://www.bfasociety.org/), tbd. Provisional link
+2026 tbd: [9th International Conference on Belief Functions (BELIEF 2026)](https://www.bfasociety.org/ "BELIEF 2026 explores belief functions, covering Dempster-Shafer theory, uncertainty modeling, and decision-making. Topics include applications in data fusion, AI, and risk analysis, emphasizing statistical frameworks for handling uncertainty in complex systems and data."), tbd.
 
-**2027-07-11 to 15: [66th ISI World Statistics Congress (WSC 2027)](https://isi-next.org/conferences/isi-wsc2027), Busan, South Korea**.
+**2027-07-11 to 15: [66th ISI World Statistics Congress (WSC 2027)](https://isi-next.org/conferences/isi-wsc2027 "WSC 2027 explores statistics, covering statistical theory, data science, and applied methodologies. Topics include Bayesian inference, big data analytics, and applications in health, economics, and environment, emphasizing theoretical and practical statistical advancements."), Busan, South Korea**.
 
 2027-08-07 to 12: ASA, IMS and Other Joint Statistical Meetings (JSM 2027), Chicago, IL, USA.
 

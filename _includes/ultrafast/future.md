@@ -1,14 +1,14 @@
-2025-05-26 to 30: [CECAM Flagship School on New Computational Methods for Attosecond Molecular Processes](https://cecam.org/workshop-details/costzcam-school-on-new-computational-methods-for-attosecond-molecular-processes-1411), Zaragoza, Spain.
+2025-05-26 to 30: [CECAM Flagship School on New Computational Methods for Attosecond Molecular Processes](https://cecam.org/workshop-details/costzcam-school-on-new-computational-methods-for-attosecond-molecular-processes-1411 "This school explores computational methods for attosecond molecular processes, focusing on ultrafast electron dynamics and time-resolved spectroscopy. Topics include time-dependent quantum simulations, attosecond pulse interactions, and applications in photochemistry, emphasizing cutting-edge computational techniques."), Zaragoza, Spain.
 
-2025-07-01 to 02: Theory for XFEL Research in Chemical and Condensed Matter Science, London, UK. Announced on molecular-dynamics-news email list. Web page to follow
+2025-07-01 to 02: [Theory for XFEL Research in Chemical and Condensed Matter Science](https://indico.stfc.ac.uk/event/1538/ ""), London, UK.
 
-2025-07-06 to 11: [10th International Conference on Attosecond Science and Technology (ATTO 2025)](http://attox.se), Lund, Sweden.
+2025-07-06 to 11: [10th International Conference on Attosecond Science and Technology (ATTO 2025)](http://attox.se "ATTO 2025 focuses on attosecond science, covering ultrafast laser pulses, electron dynamics, and time-resolved spectroscopy. Topics include attosecond pulse generation, quantum coherence, and applications in chemistry and materials, emphasizing experimental and theoretical advancements in ultrafast phenomena."), Lund, Sweden.
 
-2025-09-01 to 05: [Quantum Optics XI](https://quantumoptics11.confer.uj.edu.pl), Kraków, Poland.
+2025-09-01 to 05: [Quantum Optics XI](https://quantumoptics11.confer.uj.edu.pl "Quantum Optics XI focuses on quantum optics, covering photon entanglement, quantum coherence, and ultrafast spectroscopy. Topics include applications in quantum information, nonlinear optics, and photonics, emphasizing experimental and theoretical advancements in quantum optical phenomena and technologies."), Kraków, Poland.
 
-2025-10-23 to 26: [3rd International Conference on UltrafastX (UltrafastX 2025)](https://ultrafastx.com), Xiamen, China.
+2025-10-23 to 26: [3rd International Conference on UltrafastX (UltrafastX 2025)](https://ultrafastx.com "UltrafastX 2025 focuses on ultrafast science, covering femtosecond spectroscopy, attosecond physics, and laser-matter interactions. Topics include applications in materials science, chemistry, and quantum technologies, emphasizing experimental and computational methods for studying ultrafast dynamical processes."), Xiamen, China.
 
-2026-04-16 to 19: [International Workshop on Ultra-Fast and X-Ray Science (WUFXS 2026)](http://lps.ecnu.edu.cn/wufxs2026/), Shanghai, China.
+2026-04-16 to 19: [International Workshop on Ultra-Fast and X-Ray Science (WUFXS 2026)](http://lps.ecnu.edu.cn/wufxs2026/ "WUFXS 2026 explores ultrafast and X-ray science, covering attosecond pulses, X-ray spectroscopy, and laser-matter interactions. Topics include applications in materials science, chemical dynamics, and biophysics, emphasizing experimental and computational methods for ultrafast and X-ray studies."), Shanghai, China.
 
-2026-06-29 to 07-03: [Conference on Attosecond and Free-Electron Laser Science (Atto-Fel 2026)](https://linkedin.com/posts/agapi-emmanouilidou-2702a06b_dear-all-the-atto-fel-2026-conference-on-activity-7298750876557443072-TpFc/), London, UK. (Announcement only.)
+2026-06-29 to 07-03: [Conference on Attosecond and Free-Electron Laser Science (Atto-FEL 2026)](https://linkedin.com/posts/agapi-emmanouilidou-2702a06b_dear-all-the-atto-fel-2026-conference-on-activity-7298750876557443072-TpFc/ "Atto-FEL 2026 focuses on attosecond and free-electron laser science, covering ultrafast spectroscopy, electron dynamics, and laser technologies. Topics include applications in chemical physics, materials science, and biophysics, emphasizing experimental and computational methods for ultrafast phenomena."), London, UK.
 

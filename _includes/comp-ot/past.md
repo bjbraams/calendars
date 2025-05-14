@@ -1,2 +1,2 @@
-2025-04-10 to 11: [7th International Conference on Numerical and Symbolic Computation, Developments and Applications (SYMCOMP 2025)](https://symcomp2025.isel.pt/), Lisbon, Portugal.
+2025-04-10 to 11: [7th International Conference on Numerical and Symbolic Computation, Developments and Applications (SYMCOMP 2025)](https://symcomp2025.isel.pt/ "SYMCOMP 2025 focuses on numerical and symbolic computation, covering computer algebra, numerical solvers, and hybrid methods. Topics include polynomial systems, optimization, and applications in engineering and physics, emphasizing computational tools for exact and approximate solutions."), Lisbon, Portugal.
 

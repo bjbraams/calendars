@@ -1,6 +1,6 @@
-**2025-06-30 to 07-04: [38th Annual Conference on Learning Theory (COLT 2025)](http://learningtheory.org/colt2025/), Lyon, France**.
+**2025-06-30 to 07-04: [38th Annual Conference on Learning Theory (COLT 2025)](http://learningtheory.org/colt2025/ "COLT 2025 explores learning theory, covering statistical learning, online learning, and generalization bounds. Topics include deep learning theory, adversarial robustness, and applications in AI, emphasizing theoretical foundations of machine learning and data science."), Lyon, France**.
 
-**2025-07-13 to 19: [42nd International Conference on Machine Learning (ICML 2025)](https://icml.cc), Vancouver, BC, Canada**.
+**2025-07-13 to 19: [42nd International Conference on Machine Learning (ICML 2025)](https://icml.cc "ICML 2025 explores machine learning, covering deep learning, reinforcement learning, and probabilistic models. Topics include generative AI, neural network optimization, and applications in vision and natural language processing, emphasizing theoretical and practical machine learning advancements."), Vancouver, BC, Canada**.
 
-**2025-12-09 to 15: [Annual Conference on Neural Information Processing Systems (NeurIPS 2025)](http://wikicfp.com/cfp/servlet/event.showcfp?eventid=182647&copyownerid=163282), San Diego, CA, USA**.
+**2025-12-09 to 15: [Annual Conference on Neural Information Processing Systems (NeurIPS 2025)](http://wikicfp.com/cfp/servlet/event.showcfp?eventid=182647©ownerid=163282 "NeurIPS 2025 focuses on neural information processing, covering deep learning, generative models, and reinforcement learning. Topics include applications in AI, computer vision, and robotics, emphasizing statistical and computational advancements in neural network research and applications."), San Diego, CA, USA**.
 

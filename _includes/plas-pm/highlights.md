@@ -1,6 +1,6 @@
-**2025-05-19 to 23: [20th International Conference on Plasma-Facing Materials and Components for Fusion Applications (PFMC 2025)](https://pfmc20.com), Ljubljana, Slovenia**.
+**2025-05-19 to 23: [20th International Conference on Plasma-Facing Materials and Components for Fusion Applications (PFMC 2025)](https://pfmc20.com "PFMC 2025 focuses on plasma-facing materials for fusion, covering material erosion, tritium retention, and thermal properties. Topics include tungsten alloys, liquid metals, and computational modeling of plasma-material interactions, emphasizing durable materials for fusion reactor environments."), Ljubljana, Slovenia**.
 
-**2025-09-28 to 10-03: [22nd International Conference on Fusion Reactor Materials (ICFRM 2025)](https://icfrm-22.com), Shizuoka, Japan**.
+**2025-09-28 to 10-03: [22nd International Conference on Fusion Reactor Materials (ICFRM 2025)](https://icfrm-22.com "ICFRM 2025 focuses on fusion reactor materials, covering plasma-material interactions, radiation effects, and advanced alloys. Topics include materials for divertors, blankets, and first walls, with applications in fusion energy, emphasizing experimental and computational studies of material performance under extreme conditions."), Shizuoka, Japan**.
 
-**2026-05-17 to 22: [27th International Conference on Plasma-Surface Interactions in Controlled Fusion Devices (PSI 2026)](https://www.ipp.mpg.de/psi27/), Regensburg, Germany**.
+**2026-05-17 to 22: [27th International Conference on Plasma-Surface Interactions in Controlled Fusion Devices (PSI 2026)](https://www.ipp.mpg.de/psi27/ "PSI 2026 explores plasma-surface interactions in fusion devices, covering erosion, deposition, and material recycling. Topics include divertor materials, plasma diagnostics, and fusion reactor durability, emphasizing experimental and computational studies for advancing fusion energy technologies."), Regensburg, Germany**.
 

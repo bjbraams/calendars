@@ -1,8 +1,8 @@
-2025-07-21 to 25: [37th International Conference on Computer Aided Verification (CAV 2025)](https://conferences.i-cav.org/2025/), Zagreb, Croatia.
+2025-11-17 to 19: [7th International Workshop on Formal Methods for Autonomous Systems (FMAS 2025)](https://fmasworkshop.github.io/FMAS2025/), Paris, France.
 
-2025-06-16 to 20: [11th Conference on Algebra and Coalgebra in Computer Science (CALCO 2025) and 41st Conference on the Mathematical Foundations of Programming Semantics (MFPS 2025)](https://coalg.org/calco-mfps-2025/), Glasgow, UK.
+2025-11-17 to 21: [20th International Conference on Integrated Formal Methods (iFM 2025)](https://ifm2025.ens.psl.eu/), Paris, France.
 
-2025-06-09 to 13: [31st International Conference on Types for Proofs and Programs (TYPES 2025)](https://msp.cis.strath.ac.uk/types2025/), Glasgow, UK.
+2025-11-10 to 14: [23rd International Conference on Software Engineering and Formal Methods (SEFM 2025)](https://sefm-conference.github.io/2025/), Toledo, Spain.
 
-2025-07-14 to 20: [10th International Conference on Formal Structures for Computation and Deduction (FSCD 2025)](https://fscd2025.github.io/), Birmingham, UK.
+2025-07-22: [12th Workshop on Horn Clauses for Verification and Synthesis (HCVS 2025)](https://www.sci.unich.it/hcvs25/), Zagreb, Croatia. Colocated with CAV 2025
 

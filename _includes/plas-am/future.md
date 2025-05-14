@@ -1,28 +1,28 @@
-2025-05-19 to 22: [20th Direct Drive and Fast Ignition Workshop (DDFIW 2025)](https://indico.gsi.de/event/21177/), Darmstadt, Germany.
+2025-05-19 to 22: [20th Direct Drive and Fast Ignition Workshop (DDFIW 2025)](https://indico.gsi.de/event/21177/ "DDFIW 2025 explores direct drive and fast ignition in inertial fusion, focusing on laser-plasma interactions and high-energy-density physics. Topics include implosion dynamics, ignition schemes, and computational modeling, with applications in fusion energy, emphasizing experimental and theoretical advancements."), Darmstadt, Germany.
 
-2025-06-09 to 13: [15th Serbian Conference on Spectral Line Shapes in Astrophysics (SCSLSA 2025)](http://servo.aob.rs/scslsa/), Niš, Serbia.
+2025-06-09 to 13: [15th Serbian Conference on Spectral Line Shapes in Astrophysics (SCSLSA 2025)](http://servo.aob.rs/scslsa/ "SCSLSA 2025 focuses on spectral line shapes in astrophysics, covering plasma diagnostics, radiative transfer, and line broadening. Topics include stellar atmospheres, interstellar media, and applications in astrophysical modeling, emphasizing spectroscopic analysis of plasmas."), Niš, Serbia.
 
-2025-06-21 to 26: [Extreme Ultraviolet Lithography (EUVL) and Source Workshop 2025](https://euvlitho.com), Cambridge, MA, USA.
+2025-06-21 to 26: [Extreme Ultraviolet Lithography (EUVL) and Source Workshop 2025](https://euvlitho.com "This workshop focuses on extreme ultraviolet lithography, covering plasma-based EUV sources, optics, and patterning. Topics include high-power plasma generation, source stability, and applications in semiconductor manufacturing, emphasizing advancements in plasma-driven lithography technologies."), Cambridge, MA, USA.
 
-2025-06-30 to 07-03: [19th Ultrafast X-Ray Summer School](https://indico.psi.ch/event/17172/), Villigen, Switzerland.
+2025-06-30 to 07-03: [19th Ultrafast X-Ray Summer School](https://indico.psi.ch/event/17172/ "This summer school focuses on ultrafast X-ray science, covering X-ray free-electron lasers, time-resolved spectroscopy, and plasma interactions. Topics include ultrafast dynamics, structural biology, and applications in materials science, emphasizing experimental and computational X-ray techniques."), Villigen, Switzerland.
 
-**2025-07-21 to 25: [22nd International Conference on Atomic Processes in Plasmas (APiP 2025)](https://yebisu.ils.uec.ac.jp/apip2025/), Tokyo, Japan**.
+**2025-07-21 to 25: [22nd International Conference on Atomic Processes in Plasmas (APiP 2025)](https://yebisu.ils.uec.ac.jp/apip2025/ "APiP 2025 focuses on atomic processes in plasmas, covering ionization, recombination, and spectral modeling. Topics include plasma diagnostics, astrophysical plasmas, and applications in fusion and materials processing, emphasizing atomic physics in plasma environments."), Tokyo, Japan**.
 
-2025-07-25 to 27: [29th International Symposium on Ion-Atom Collisions (ISIAC 2025)](https://ion-beam.jp/isiac2025/), Kyoto, Japan. (Satellite of ICPEAC)
+2025-07-25 to 27: [29th International Symposium on Ion-Atom Collisions (ISIAC 2025)](https://ion-beam.jp/isiac2025/ "ISIAC 2025 focuses on ion-atom collisions, covering charge transfer, ionization, and scattering processes. Topics include plasma diagnostics, astrophysical applications, and materials analysis, emphasizing experimental and theoretical studies of ion-atom interaction dynamics in plasmas."), Kyoto, Japan.
 
-2025-07-28: [3rd Meeting on Electron, Photon, and Ion Collisions With Molecular and Atomic Nanostructures (EPIC-MAN)](https://epic-man3.sciencesconf.org), Sapporo, Japan. Satellite of ICPEAC 2025
+2025-07-28: [3rd Meeting on Electron, Photon, and Ion Collisions With Molecular and Atomic Nanostructures (EPIC-MAN)](https://epic-man3.sciencesconf.org "EPIC-MAN 2025 focuses on electron, photon, and ion collisions with nanostructures, covering scattering, excitation, and ionization processes. Topics include nanoscale plasma interactions, applications in materials science and nanotechnology, emphasizing experimental and theoretical collision dynamics."), Sapporo, Japan.
 
-**2025-07-29 to 08-05: [34th International Conference on Photonic, Electronic, and Atomic Collisions (ICPEAC 2025)](https://icpeac2025.jp), Sapporo, Japan**.
+**2025-07-29 to 08-05: [34th International Conference on Photonic, Electronic, and Atomic Collisions (ICPEAC 2025)](https://icpeac2025.jp "ICPEAC 2025 focuses on photonic, electronic, and atomic collisions, covering scattering, ionization, and plasma interactions. Topics include laser-induced processes, astrophysical applications, and materials analysis, emphasizing experimental and theoretical collision dynamics in plasmas."), Sapporo, Japan**.
 
-2025-08-25 to 29: [9th AtomDB Workshop and Workweek](https://etix.com/ticket/p/63582623/), Cambridge, MA, USA.
+2025-08-25 to 29: [9th AtomDB Workshop and Workweek](https://etix.com/ticket/p/63582623/ "The AtomDB workshop focuses on atomic databases for plasmas, covering spectral modeling, ionization, and recombination data. Topics include applications in astrophysical plasmas, fusion research, and plasma diagnostics, emphasizing computational tools for accurate atomic data in plasma simulations."), Cambridge, MA, USA.
 
-2025-09-08 to 12: [21st International Conference on Ion Sources (ICIS 2025)](https://indico.stfc.ac.uk/event/1192/), Oxford, UK.
+2025-09-08 to 12: [21st International Conference on Ion Sources (ICIS 2025)](https://indico.stfc.ac.uk/event/1192/ "ICIS 2025 focuses on ion sources, covering ion beam production, plasma-based sources, and beam diagnostics. Topics include applications in particle accelerators, fusion research, and materials analysis, emphasizing advancements in ion source technology for plasma and atomic physics."), Oxford, UK.
 
-2025-09-14 to 19: [13th International Conference on Inertial Fusion Sciences and Applications (IFSA 2025)](https://ifsa2025.org), Tours, France.
+2025-09-14 to 19: [13th International Conference on Inertial Fusion Sciences and Applications (IFSA 2025)](https://ifsa2025.org "IFSA 2025 focuses on inertial fusion, covering laser-driven fusion, plasma compression, and ignition physics. Topics include applications in fusion energy, high-energy-density physics, and astrophysics, emphasizing experimental and computational advances in inertial confinement fusion."), Tours, France.
 
-2025-09-22 to 24: [2nd International School on Atomic and Molecular Data Evaluation and Curation (2025)](https://eventos.uva.es/129130/detail/2nd-international-school-on-atomic-and-molecular-data-evaluation-and-curation.html), Valladolid, Spain.
+2025-09-22 to 24: [2nd International School on Atomic and Molecular Data Evaluation and Curation (2025)](https://eventos.uva.es/129130/detail/2nd-international-school-on-atomic-and-molecular-data-evaluation-and-curation.html "This school focuses on atomic and molecular data curation, covering spectral databases, collision data, and plasma modeling. Topics include applications in astrophysics, fusion, and plasma diagnostics, emphasizing computational and experimental methods for accurate data evaluation."), Valladolid, Spain.
 
-**2026-09-07 to 11: [22nd International Conference on the Physics of Highly Charged Ions (HCI 2026)](https://indico.impcas.ac.cn/event/75/), Huizhou, China**.
+**2026-09-07 to 11: [22nd International Conference on the Physics of Highly Charged Ions (HCI 2026)](https://indico.impcas.ac.cn/event/75/ "HCI 2026 explores highly charged ions, covering atomic collisions, spectroscopy, and plasma interactions. Topics include applications in astrophysics, fusion plasmas, and materials science, emphasizing experimental and theoretical studies of highly charged ion dynamics."), Huizhou, China**.
 
-**2026 tbd: 14th International Conference on Atomic and Molecular Data and Their Applications (ICAMDATA), tbd**. [Search](https://www.google.com/search?q=14th+International+Conference+on+Atomic+and+Molecular+Data+and+Their+Applications+ICAMDATA+2026)
+**2026 tbd: 14th International Conference on Atomic and Molecular Data and Their Applications (ICAMDATA), tbd**.
 

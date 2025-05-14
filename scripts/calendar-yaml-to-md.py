@@ -31,7 +31,11 @@ targets = {} # Dictionary entries will be <filename>:<file>.
 
 for x in data:
     if 'link' in x.keys() and x['link']:
-        a = x['dd']+': ['+x['name']+']('+x['link']+'), '+x['loc']
+        if 'excerpt' in x.keys():
+            link = x['link']+' "'+x['excerpt']+'"'
+        else:
+            link = x['link']
+        a = x['dd']+': ['+x['name']+']('+link+'), '+x['loc']
     else:
         a = x['dd']+': '+x['name']+', '+x['loc']
     if 'more' in x.keys() and x['more']:

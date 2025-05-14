@@ -1,8 +1,8 @@
-2025-02-02 to 06: [Society for Imaging Science and Technology Computational Imaging Conference XXIII](https://imaging.org/IST/Conferences/EI/EI2025/Conference/C_COIMG.aspx), Burlingame, CA, USA.
+2025-02-02 to 06: [Society for Imaging Science and Technology Computational Imaging Conference XXIII](https://imaging.org/IST/Conferences/EI/EI2025/Conference/C_COIMG.aspx "This conference explores computational imaging, focusing on algorithms for image reconstruction, enhancement, and analysis. Topics include machine learning for imaging, inverse problems, compressive sensing, and computational photography. It addresses applications in medical imaging, remote sensing, and computer vision, emphasizing innovative data-driven and model-based approaches."), Burlingame, CA, USA.
 
-2025-02-16 to 20: [SPIE Medical Imaging 2025](https://spie.org/conferences-and-exhibitions/medical-imaging), San Diego, CA, USA.
+2025-02-16 to 20: [SPIE Medical Imaging 2025](https://spie.org/conferences-and-exhibitions/medical-imaging "This conference covers computational techniques in medical imaging. Topics include image processing, deep learning for diagnostics, and quantitative imaging. It explores applications in radiology, pathology, and neuroimaging, emphasizing advancements in image reconstruction, segmentation, and computer-aided diagnosis for precision medicine."), San Diego, CA, USA.
 
-2025-03-22 to 23: [Deep Reconstruction Workshop 2025](https://aiai.jhu.edu/deep_reconstruction_workshop_2025/), Baltimore, MD, USA.
+2025-03-22 to 23: [Deep Reconstruction Workshop 2025](https://aiai.jhu.edu/deep_reconstruction_workshop_2025/ "This workshop focuses on deep learning for image reconstruction, covering generative models, inverse problems, and neural network architectures. Topics include medical imaging, tomography, and super-resolution, emphasizing data-driven approaches to enhance reconstruction accuracy and computational efficiency."), Baltimore, MD, USA.
 
-2025-04-14 to 17: [IEEE International Symposium on Biomedical Imaging (ISBI 2025)](https://biomedicalimaging.org/2025/), Houston, TX, USA.
+2025-04-14 to 17: [IEEE International Symposium on Biomedical Imaging (ISBI 2025)](https://biomedicalimaging.org/2025/ "ISBI 2025 explores biomedical imaging, focusing on computational techniques for image analysis and reconstruction. Topics include deep learning, image segmentation, and multimodal imaging, with applications in MRI, CT, and microscopy, emphasizing advancements in medical diagnostics and research."), Houston, TX, USA.
 

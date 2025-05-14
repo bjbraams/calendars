@@ -1,12 +1,12 @@
-2025-06-12 to 13: [4th Workshop on Mathematics and AI – Connecting the Mathematics Clusters](https://aimath.nl/index.php/2025/03/13/4th-aim-cluster-event-tilburg/), Tilburg, Netherlands.
+2025-06-12 to 13: [4th Workshop on Mathematics and AI – Connecting the Mathematics Clusters](https://aimath.nl/index.php/2025/03/13/4th-aim-cluster-event-tilburg/ "This workshop explores mathematics and AI, focusing on algebraic methods, optimization, and probabilistic models. Topics include graph neural networks, mathematical foundations of deep learning, and applications in data science, emphasizing interdisciplinary mathematical AI research."), Tilburg, Netherlands.
 
-2025-09-14 to 17: [20th Conference on Computer Science and Intelligence Systems (FedCSIS 2025)](https://2025.fedcsis.org/), Kraków, Poland.
+2025-09-14 to 17: [20th Conference on Computer Science and Intelligence Systems (FedCSIS 2025)](https://2025.fedcsis.org/ "FedCSIS 2025 explores computer science and intelligent systems, covering algorithms, AI, and data science. Topics include machine learning, cybersecurity, and software engineering, emphasizing interdisciplinary computational methods and applications in intelligent system design and analysis."), Kraków, Poland.
 
-2025-09-17 to 19: [10th International Workshop on Computational Social Choice (COMSOC 2025)](https://www.ac.tuwien.ac.at/comsoc2025/), Vienna, Austria.
+2025-09-17 to 19: [10th International Workshop on Computational Social Choice (COMSOC 2025)](https://www.ac.tuwien.ac.at/comsoc2025/ "COMSOC 2025 focuses on computational social choice, covering voting theory, preference aggregation, and fair division. Topics include applications in economics, political science, and AI, emphasizing computational and theoretical approaches to collective decision-making and social choice problems."), Vienna, Austria.
 
-2025-11-30 to 12-04: [26th International Congress on Modelling and Simulation (MODSIM 2025)](https://www.mssanz.org.au/modsim2025/), Adelaide, SA, Australia.
+2025-11-30 to 12-04: [26th International Congress on Modelling and Simulation (MODSIM 2025)](https://www.mssanz.org.au/modsim2025/ "MODSIM 2025 explores modeling and simulation, covering agent-based models, numerical simulations, and data-driven approaches. Topics include applications in environmental science, engineering, and social systems, emphasizing computational and interdisciplinary methods for simulating complex real-world phenomena."), Adelaide, SA, Australia.
 
-2026-03-23 to 27: [INI Workshop Geometry of Eigenvalues](https://www.newton.ac.uk/event/gstw02/), Cambridge, UK.
+2026-03-23 to 27: [INI Workshop Geometry of Eigenvalues](https://www.newton.ac.uk/event/gstw02/ "This workshop explores the geometry of eigenvalues, covering spectral geometry, random matrices, and operator theory. Topics include applications in quantum mechanics, graph theory, and statistical physics, emphasizing mathematical and computational methods for eigenvalue analysis."), Cambridge, UK.
 
-2026-07-23 to 30: [International Congress of Mathematicians (ICM 2026)](https://icm2026.org), Philadelphia, PA, USA.
+2026-07-23 to 30: [International Congress of Mathematicians (ICM 2026)](https://icm2026.org "ICM 2026 covers all areas of mathematics, including algebra, geometry, probability, and applied mathematics. Topics include theoretical advances, computational methods, and interdisciplinary applications, emphasizing foundational and cutting-edge developments across mathematical disciplines."), Philadelphia, PA, USA.
 

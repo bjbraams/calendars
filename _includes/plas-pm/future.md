@@ -1,50 +1,50 @@
-**2025-05-19 to 23: [20th International Conference on Plasma-Facing Materials and Components for Fusion Applications (PFMC 2025)](https://pfmc20.com), Ljubljana, Slovenia**.
+**2025-05-19 to 23: [20th International Conference on Plasma-Facing Materials and Components for Fusion Applications (PFMC 2025)](https://pfmc20.com "PFMC 2025 focuses on plasma-facing materials for fusion, covering material erosion, tritium retention, and thermal properties. Topics include tungsten alloys, liquid metals, and computational modeling of plasma-material interactions, emphasizing durable materials for fusion reactor environments."), Ljubljana, Slovenia**.
 
-2025-05-26 to 28: [7th International Workshop on Models and Data for Plasma-Material Interaction in Fusion Devices (MoD-PMI 2025)](https://amdis.iaea.org/meetings/mod-pmi-2025/), Vienna, Austria.
+2025-05-26 to 28: [7th International Workshop on Models and Data for Plasma-Material Interaction in Fusion Devices (MoD-PMI 2025)](https://amdis.iaea.org/meetings/mod-pmi-2025/ "MoD-PMI 2025 focuses on plasma-material interactions in fusion, covering erosion, deposition, and tritium retention. Topics include computational modeling, surface diagnostics, and advanced materials, with applications in fusion reactor durability, emphasizing data-driven and experimental insights."), Vienna, Austria.
 
-2025-05-26 to 30: [European Materials Research Society (E-Mrs) Fall Meeting 2025](https://www.european-mrs.com/meetings/2025-fall-meeting), Warsaw, Poland.
+2025-05-26 to 30: [European Materials Research Society (E-Mrs) Fall Meeting 2025](https://www.european-mrs.com/meetings/2025-fall-meeting "The E-MRS Fall Meeting focuses on materials science, covering plasma-processed materials, thin films, and nanomaterials. Topics include plasma deposition, surface engineering, and applications in energy and electronics, emphasizing experimental and computational advancements in material design."), Warsaw, Poland.
 
-2025-06-01 to 06: [20th International Conference on Positron Annihilation (ICPA 2025)](https://confit.atlas.jp/guide/event/icpa20/top), Takamatsu, Japan.
+2025-06-01 to 06: [20th International Conference on Positron Annihilation (ICPA 2025)](https://confit.atlas.jp/guide/event/icpa20/top "ICPA 2025 focuses on positron annihilation, covering positron spectroscopy, defect characterization, and plasma-material interactions. Topics include positron trapping, surface studies, and applications in materials science and nanotechnology, emphasizing experimental and computational techniques."), Takamatsu, Japan.
 
-2025-06-02 to 07: [26th International Conference on Laser Spectroscopy (ICOLS 2025)](https://icols2025.it), Elba Island, Italy.
+2025-06-02 to 07: [26th International Conference on Laser Spectroscopy (ICOLS 2025)](https://icols2025.it "ICOLS 2025 focuses on laser spectroscopy, covering precision measurements, plasma diagnostics, and laser-material interactions. Topics include atomic clocks, laser-induced breakdown spectroscopy, and applications in fusion and astrophysics, emphasizing advanced spectroscopic techniques."), Elba Island, Italy.
 
-2025-06-08 to 13: [22nd International Conference on Radiation Effects in Insulators (REI 2025)](https://rei22madrid.csic.es), Madrid, Spain.
+2025-06-08 to 13: [22nd International Conference on Radiation Effects in Insulators (REI 2025)](https://rei22madrid.csic.es "REI 2025 focuses on radiation effects in insulators, covering ion implantation, defect formation, and plasma-material interactions. Topics include radiation damage, dielectric materials, and applications in nuclear reactors and space technology, emphasizing experimental and computational studies."), Madrid, Spain.
 
-2025-06-22 to 25: [AVS 25th International Conference on Atomic Layer Deposition (ALD 2025) Featuring the 12th International Atomic Layer Etching Workshop (ALE 2025)](https://ald2025.avs.org/), Jeju Island, Korea.
+2025-06-22 to 25: [AVS 25th International Conference on Atomic Layer Deposition (ALD 2025) Featuring the 12th International Atomic Layer Etching Workshop (ALE 2025)](https://ald2025.avs.org/ "ALD/ALE 2025 focuses on atomic layer deposition and etching, covering plasma-enhanced processes, thin-film growth, and surface engineering. Topics include semiconductor fabrication, nanomaterials, and applications in electronics, emphasizing precision plasma-based material processing."), Jeju Island, Korea.
 
-2025-07-22 to 23: [Warwick Atomic Layer Processing (WALP 2025) Workshop](https://warwick.ac.uk/fac/sci/chemistry/chemevents/walp2025/), Warwick, UK.
+2025-07-22 to 23: [Warwick Atomic Layer Processing (WALP 2025) Workshop](https://warwick.ac.uk/fac/sci/chemistry/chemevents/walp2025/ "WALP 2025 focuses on atomic layer processing, covering atomic layer deposition and etching, plasma-enhanced techniques, and thin-film fabrication. Topics include semiconductor manufacturing, nanomaterials, and applications in electronics, emphasizing precision plasma-based material processing."), Warwick, UK.
 
-2025-07-27 to 08-01: [Conference on Strongly Coupled Coulomb Systems (SCCS 2025)](https://event.fourwaves.com/sccs2025/), Lake Tahoe, NV, USA.
+2025-07-27 to 08-01: [Conference on Strongly Coupled Coulomb Systems (SCCS 2025)](https://event.fourwaves.com/sccs2025/ "SCCS 2025 focuses on strongly coupled Coulomb systems, covering dense plasmas, dusty plasmas, and warm dense matter. Topics include plasma thermodynamics, ion correlations, and applications in fusion and astrophysics, emphasizing theoretical and computational plasma physics."), Lake Tahoe, NV, USA.
 
-2025-08-17 to 22: [27th Ion Beam Analysis (IBA) and 19th Particle-Induced  X-Ray Emission (PIXE) Joint Conference](https://ibapixe.org), Montreal, QC, Canada.
+2025-08-17 to 22: [27th Ion Beam Analysis (IBA) and 19th Particle-Induced X-Ray Emission (PIXE) Joint Conference](https://ibapixe.org "This joint conference focuses on ion beam analysis and PIXE, covering ion scattering, elemental analysis, and material characterization. Topics include applications in materials science, archaeology, and environmental studies, emphasizing high-precision ion beam techniques for plasma-material interactions."), Montreal, QC, Canada.
 
-2025-08-24 to 29: [38th European Conference on Surface Science (ECOSS 2025)](https://ecoss38.pt), Braga, Portugal.
+2025-08-24 to 29: [38th European Conference on Surface Science (ECOSS 2025)](https://ecoss38.pt "ECOSS 2025 focuses on surface science, covering surface reactions, thin films, and plasma-surface interactions. Topics include catalysis, nanotechnology, and materials characterization, emphasizing experimental and computational approaches to surface phenomena in plasma and material science."), Braga, Portugal.
 
-2025-08-25 to 29: [27th International Conference on Ion-Surface Interactions (ISI 2025)](http://isi2025.yarsu.ru/eng/first_en.html), Ryazan, Russia.
+2025-08-25 to 29: [27th International Conference on Ion-Surface Interactions (ISI 2025)](http://isi2025.yarsu.ru/eng/first_en.html "ISI 2025 explores ion-surface interactions, covering sputtering, ion implantation, and surface modification. Topics include plasma-material interactions, nanotechnology, and applications in semiconductor manufacturing, emphasizing experimental and computational studies of ion-induced surface phenomena."), Ryazan, Russia.
 
-2025-09-14 to 19: [25th International Workshop on Inelastic Ion-Surface Collisions (IISC2025)](https://tuwien.at/en/phy/iap/conferences/iisc25), Frankenfels, Austria.
+2025-09-14 to 19: [25th International Workshop on Inelastic Ion-Surface Collisions (IISC2025)](https://tuwien.at/en/phy/iap/conferences/iisc25 "IISC2025 explores inelastic ion-surface collisions, covering energy transfer, surface scattering, and ion-induced processes. Topics include applications in materials analysis, plasma processing, and nanotechnology, emphasizing experimental and computational studies of ion-surface interaction dynamics."), Frankenfels, Austria.
 
-2025-09-14 to 19: [33rd International Conference on Defects in Semiconductors (ICDS 2025)](https://icds2025.org), Shanghai, China.
+2025-09-14 to 19: [33rd International Conference on Defects in Semiconductors (ICDS 2025)](https://icds2025.org "ICDS 2025 focuses on defects in semiconductors, covering point defects, dislocations, and impurity effects. Topics include applications in electronics, photovoltaics, and plasma processing, emphasizing experimental and computational studies of defect formation and material properties."), Shanghai, China.
 
-2025-09-15 to 18: [European Materials Research Society (E-Mrs) Spring Meeting 2025](https://www.european-mrs.com/meetings/2025-spring-meeting), Strasbourgh, France.
+2025-09-15 to 18: [European Materials Research Society (E-Mrs) Spring Meeting 2025](https://www.european-mrs.com/meetings/2025-spring-meeting "The E-MRS Spring Meeting 2025 focuses on materials science, covering thin films, nanomaterials, and plasma processing. Topics include applications in electronics, energy storage, and biomaterials, emphasizing experimental and computational advances in material synthesis and characterization."), Strasbourg, France.
 
-2025-09-21 to 26: [14th International Conference on Tritium Science and Technology](https://tritium2025.com), Ottawa, ON, Canada.
+2025-09-21 to 26: [14th International Conference on Tritium Science and Technology](https://tritium2025.com "This conference focuses on tritium science, covering tritium handling, fusion fuel cycles, and plasma-material interactions. Topics include applications in fusion reactors, environmental safety, and isotope separation, emphasizing experimental and computational advances in tritium technologies."), Ottawa, ON, Canada.
 
-**2025-09-28 to 10-03: [22nd International Conference on Fusion Reactor Materials (ICFRM 2025)](https://icfrm-22.com), Shizuoka, Japan**.
+**2025-09-28 to 10-03: [22nd International Conference on Fusion Reactor Materials (ICFRM 2025)](https://icfrm-22.com "ICFRM 2025 focuses on fusion reactor materials, covering plasma-material interactions, radiation effects, and advanced alloys. Topics include materials for divertors, blankets, and first walls, with applications in fusion energy, emphasizing experimental and computational studies of material performance under extreme conditions."), Shizuoka, Japan**.
 
-2025-11-03 to 06: [14th Asian-European International Conference on Plasma Surface Engineering (AEPSE 2025) in Parallel With International Conference on Surface Engineering (ICSE 2025)](http://aepse.org/2025/), Phuket, Thailand.
+2025-11-03 to 06: [14th Asian-European International Conference on Plasma Surface Engineering (AEPSE 2025) in Parallel With International Conference on Surface Engineering (ICSE 2025)](http://aepse.org/2025/ "AEPSE and ICSE 2025 focus on plasma surface engineering, covering plasma coatings, surface modification, and thin films. Topics include applications in electronics, biomedical devices, and energy, emphasizing experimental and computational advances in plasma-based surface engineering technologies."), Phuket, Thailand.
 
-2026-05-17 to 22: [17th International Conference of Computer Simulation of Radiation Effects in Solids (COSIRES 2026)](https://cosires26.com/), Granada, Spain.
+2026-05-17 to 22: [17th International Conference of Computer Simulation of Radiation Effects in Solids (COSIRES 2026)](https://cosires26.com/ "COSIRES 2026 focuses on radiation effects in solids, covering ion-solid interactions, defect formation, and materials modification. Topics include applications in nuclear materials, semiconductors, and nanotechnology, emphasizing computational simulations of radiation-induced processes and material properties."), Granada, Spain.
 
-**2026-05-17 to 22: [27th International Conference on Plasma-Surface Interactions in Controlled Fusion Devices (PSI 2026)](https://www.ipp.mpg.de/psi27/), Regensburg, Germany**.
+**2026-05-17 to 22: [27th International Conference on Plasma-Surface Interactions in Controlled Fusion Devices (PSI 2026)](https://www.ipp.mpg.de/psi27/ "PSI 2026 explores plasma-surface interactions in fusion devices, covering erosion, deposition, and material recycling. Topics include divertor materials, plasma diagnostics, and fusion reactor durability, emphasizing experimental and computational studies for advancing fusion energy technologies."), Regensburg, Germany**.
 
-2026-05-25 to 29: [European Materials Research Society (E-Mrs) Spring Meeting 2026](https://www.european-mrs.com/meetings/2026-spring-meeting), Strasbourgh, France.
+2026-05-25 to 29: [European Materials Research Society (E-MRS) Spring Meeting 2026](https://www.european-mrs.com/meetings/2026-spring-meeting "E-MRS 2026 explores materials science, covering plasma processing, thin films, and nanomaterials. Topics include applications in energy, electronics, and biomaterials, emphasizing experimental and computational advances in material synthesis, characterization, and plasma-based surface engineering."), Strasbourg, France.
 
-2026-06-21 to 26: [24th International Conference on Ion Beam Modification of Materials (IBMM 2026)](https://helsinki.fi/en/conferences/ibmm-2026), Helsinki, Finland.
+2026-06-21 to 26: [24th International Conference on Ion Beam Modification of Materials (IBMM 2026)](https://helsinki.fi/en/conferences/ibmm-2026 "IBMM 2026 focuses on ion beam modification, covering ion implantation, surface engineering, and nanostructure formation. Topics include applications in semiconductors, biomaterials, and energy materials, emphasizing experimental and computational techniques for material modification and characterization."), Helsinki, Finland.
 
-2026-08-31 to 09-03: [20th International Conference on Plasma Surface Engineering (PSE 2026)](https://pse-conferences.net), Erfurt, Germany.
+2026-08-31 to 09-03: [20th International Conference on Plasma Surface Engineering (PSE 2026)](https://pse-conferences.net "PSE 2026 explores plasma surface engineering, covering plasma coatings, surface modification, and thin films. Topics include applications in electronics, biomedical devices, and energy, emphasizing experimental and computational advances in plasma-based surface engineering technologies."), Erfurt, Germany.
 
-2026-09-14 to 17: [European Materials Research Society (E-Mrs) Fall Meeting 2026](https://www.european-mrs.com/meetings/2026-fall-meeting), Warsaw, Poland.
+2026-09-14 to 17: [European Materials Research Society (E-MRS) Fall Meeting 2026](https://www.european-mrs.com/meetings/2026-fall-meeting "E-MRS 2026 focuses on materials science, covering plasma processing, nanomaterials, and functional coatings. Topics include applications in energy storage, electronics, and biomedicine, emphasizing computational and experimental methods for advanced material synthesis and characterization."), Warsaw, Poland.
 
-2026 tbd: European X-Ray Spectrometry Conference (EXRS), Catania, Italy?. [Search](https://www.google.com/search?q=European+X-ray+Spectrometry+Conference+EXRS+2026)
+2026 tbd: European X-Ray Spectrometry Conference (EXRS), Catania, Italy?.
 
