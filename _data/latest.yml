@@ -183,26 +183,71 @@
   link: https://iutam.org/events/iutam-symposium-on-nonlinear-dynamics-of-systems-and-structures-for-green-energy-conversion
   loc: Senigallia, Italy
   kw: comp-fd
-- dd: 
-  name: 
-  link: 
-  loc: 
-  kw: 
-- dd: 
-  name: 
-  link: 
-  loc: 
-  kw: 
-- dd: 
-  name: 
-  link: 
-  loc: 
-  kw: 
-- dd: 
-  name: 
-  link: 
-  loc: 
-  kw: 
+- dd: 2025-05-21 to 23
+  name: EuroMech Colloquium 656 on Data-driven mechanics and physics of solids (2025)
+  link: https://656.euromech.org/
+  loc: Gothenburg, Sweden
+  kw: comp-el
+- dd: 2025-12-08 to 10
+  name: EuroMech Colloquium 657 on Recent advances in non-smooth dynamics (2025)
+  link: https://657.euromech.org/
+  loc: Exeter, UK
+  kw: comp-fd
+- dd: 2025-08-25 to 27
+  name: EuroMech Colloquium 655 on Cutting mechanics of soft tissues: Nonlinear fracture and contact mechanics (2025)
+  link: https://655.euromech.org/
+  loc: Graz, Austria
+  kw: comp-el
+- dd: 2025-09-15 to 17
+  name: EuroMech Colloquium 658 on Coherent structures and instabilities in transitional and turbulent wall-bounded flows (2025)
+  link: http://658.euromech.org/
+  loc: Bari, Italy
+  kw: comp-fd
+- dd: 2025-03-25 to 28
+  name: EuroMech Colloquium 659 on Metamaterials in fluid flows and beyond (2025)
+  link: http://659.euromech.org/
+  loc: Groningen, Netherlans
+  kw: comp-fd
+- dd: 2025-04-02 to 04
+  name: EuroMech Colloquium 629 on Data-driven fluid mechanics (2025)
+  link: https://629.euromech.org/
+  loc: London, UK
+  kw: comp-fd
+- dd: 2025-08-25 to 29
+  name: EuroMech Colloquium 651 on Films, bubbles, droplets and phase change (2025)
+  link: http://651.euromech.org/
+  loc: Metz, France
+  kw: comp-fd
+- dd: 2025-08-27 to 29
+  name: EuroMech Colloquium 650 on Addressing Challenges in Applied Mechanics through Artificial Intelligence Applications (2025)
+  link: http://650.euromech.org/
+  loc: Belgrade, Serbia
+  kw: comp-el
+- dd: 2025-07-16 to 18
+  name: EuroMech Colloquium 652 on Non-spherical particles in turbulence: recent advances in theory, simulation and experiments (2025)
+  link: https://652.euromech.org/
+  loc: Udine, Italy
+  kw: comp-fd
+- dd: 2025-05-28 to 31
+  name: EuroMech Colloquium 640 on Gradient mechanics across materials, processes and scales (2025)
+  link: https://640.euromech.org/
+  loc: Rethymnon, Crete, Greece
+  kw: comp-el
+- dd: 2025-04-23 to 25
+  name: EuroMech Colloquium 647 on Stability and bifurcation problems in nonlinear solid mechanics (2025)
+  link: https://647.euromech.org/
+  loc: Glasgow, UK
+  kw: comp-el
+- dd: 2025-08-26 to 28
+  name: EuroMech Colloquium 653 on Mechanics of interfaces (2025)
+  link: http://653.euromech.org/
+  loc: Metz, France
+  kw: comp-el,comp-fd
+- dd: 2025-07-09 to 11
+  name: EuroMech Colloquium 654 on Bio-inspired Fluid-Structure Interaction (2025)
+  link: http://654.euromech.org/
+  loc: Vienna, Austria
+  kw: comp-fd
 - dd: 
   name: 
   link: 
