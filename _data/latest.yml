@@ -44,81 +44,80 @@
   link: https://rldm.org/
   loc: Dublin, UK
   kw: stat-ml
-- dd: 
-  name: 
-  link: 
-  loc: 
-  kw: 
-- dd: 
-  name: 
-  link: 
-  loc: 
-  kw: 
-- dd: 
-  name: 
-  link: 
-  loc: 
-  kw: 
-- dd: 
-  name: 
-  link: 
-  loc: 
-  kw: 
-- dd: 
-  name: 
-  link: 
-  loc: 
-  kw: 
-- dd: 
-  name: 
-  link: 
-  loc: 
-  kw: 
-- dd: 
-  name: 
-  link: 
-  loc: 
-  kw: 
-- dd: 
-  name: 
-  link: 
-  loc: 
-  kw: 
-- dd: 
-  name: 
-  link: 
-  loc: 
-  kw: 
-- dd: 
-  name: 
-  link: 
-  loc: 
-  kw: 
-- dd: 
-  name: 
-  link: 
-  loc: 
-  kw: 
-- dd: 
-  name: 
-  link: 
-  loc: 
-  kw: 
-- dd: 
-  name: 
-  link: 
-  loc: 
-  kw: 
-- dd: 
-  name: 
-  link: 
-  loc: 
-  kw: 
-- dd: 
-  name: 
-  link: 
-  loc: 
-  kw: 
+- dd: 2025-06-16 to 20
+  name: 20th International Federated Conference on Distributed Computing Techniques (DisCoTec 2025)
+  link: https://www.discotec.org/2025/
+  loc: Lille, France
+  kw: cs-oh
+- dd: 2025-11-03 to 05
+  name: 37th IEEE International Conference on Tools with Artificial Intelligence (ICTAI 2025)
+  link: https://easyconferences.eu/ictai2025/
+  loc: Athens, Greece
+  kw: cs-oh
+- dd: 2025-11-11 to 14
+  name: IFIP WG 7.3 Performance Conference 2025
+  link: https://performance2025.sciencesconf.org/
+  loc: Amsterdam, Netherlands
+  kw: cs-oh
+- dd: 2025-04-07 to 11
+  name: 95th Annual Meeting of the International Association of Applied Mathematics and Mechanics (GAMM 2025)
+  link: https://jahrestagung.gamm.org/annual-meeting-2025/95th-annual-meeting-2/
+  loc: Poznań, Poland
+  kw: comp-ot
+- dd: 2025-10-16 to 17
+  name: Annual GAMM Workshop on Computational and Mathematical Methods in Data Science 2025
+  loc: Chemnitz, Germany
+  kw: comp-ot
+- dd: 2025-09-11 to 12
+  name: Workshop on Low-Rank Models and Applications (LRMA 2025)
+  link: https://sites.google.com/view/lrma25/
+  loc: Mons, Belgium
+  kw: comp-la
+- dd: 2025-06-02 to 06
+  name: 9th Linear Algebra Workshop (LAW 2025)
+  link: http://www.law05.si/law25/
+  loc: Portorož, Slovenia
+  kw: comp-la
+- dd: 2025-10-08 to 10
+  name: 6rd Annual meeting of the German-Speaking Inverse Problems Society (GIP 2025)
+  link: https://inverseprobleme.de/?page_id=424
+  loc: Saarbrücken, Germany
+  kw: comp-in
+- dd: 2025-04-01 to 02
+  name: Computational Techniques and Imaging Innovations in the Age of AI (CTAIA 2025)
+  link: https://ctiai.github.io/
+  loc: London, UK
+  kw: comp-in
+- dd: 2025-06-23 to 27
+  name: Summer School on Inverse Problems and Artificial Intelligence in Medicine (2025)
+  link: https://bathsymposium.ac.uk/symposium/inverse-problems-and-artificial-intelligence-in-medicine/
+  loc: Bath, UK
+  kw: comp-in
+- dd: 2025-06-30 to 07-04
+  name: Conference on Inverse Problems and Artificial Intelligence in Medicine (2025)
+  link: https://bathsymposium.ac.uk/symposium/inverse-problems-and-artificial-intelligence-in-medicine/
+  loc: Bath, UK
+  kw: comp-in
+- dd: 2025-10-06 to 10
+  name: International Conference on Quasilinear Equations, Inverse Problems and their Applications (QIPA 2025)
+  link: https://qipa2025.mipt.ru/
+  loc: Sirius Federal Territory, Russia
+  kw: comp-in
+- dd: 2025-05-14 to 16
+  name: 7th Conference of the ALAMA network of Linear Algebra, Matrix Analysis and Applications (ALAMA 2025)
+  link: https://congresosalcala.fgua.es/jornadasalama/?idioma=en
+  loc: Castro Urdiales, Cantabria, Spain
+  kw: comp-in
+- dd: 2025-10-27 to 31
+  name: Autumn School on Scientific Machine Learning and Numerical Methods (2025)
+  link: https://www.cwi.nl/en/education/semester-programmes/cwi-research-semester-programs/synergies-in-numerical-linear-algebra-and-machine-learning/
+  loc: Amsterdam, Netherlands
+  kw: comp-na,comp-ml
+- dd: 2025-12-01 to 03
+  name: Workshop on industrial applications of numerical analysis and machine learning (2025)
+  link: https://www.cwi.nl/en/education/semester-programmes/cwi-research-semester-programs/synergies-in-numerical-linear-algebra-and-machine-learning/
+  loc: Amsterdam, Netherlands
+  kw: comp-na,comp-ml
 - dd: 
   name: 
   link: 
