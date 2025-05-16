@@ -133,56 +133,56 @@
   link: https://www.mathmod.at/
   loc: Vienna, Austria
   kw: comp-ot
-- dd: 
-  name: 
-  link: 
-  loc: 
-  kw: 
-- dd: 
-  name: 
-  link: 
-  loc: 
-  kw: 
-- dd: 
-  name: 
-  link: 
-  loc: 
-  kw: 
-- dd: 
-  name: 
-  link: 
-  loc: 
-  kw: 
-- dd: 
-  name: 
-  link: 
-  loc: 
-  kw: 
-- dd: 
-  name: 
-  link: 
-  loc: 
-  kw: 
-- dd: 
-  name: 
-  link: 
-  loc: 
-  kw: 
-- dd: 
-  name: 
-  link: 
-  loc: 
-  kw: 
-- dd: 
-  name: 
-  link: 
-  loc: 
-  kw: 
-- dd: 
-  name: 
-  link: 
-  loc: 
-  kw: 
+- dd: 2025-06-30 to 07-04
+  name: 31st International Workshop on Cellular Automata and Discrete Complex Systems joint with Workshop on Automata Networks (AUTOMATA+WAN 2025)
+  link: https://automata-wan-2025.univ-lille.fr/
+  loc: Lille, France
+  kw: cs-oh
+- dd: 2025-02-03 to 07
+  name: Short course on Advanced numerical methods for hyperbolic equations 2025
+  link: https://eventi.unitn.it/en/short-course-advanced-numerical-methods-hyperbolic-equations-2025
+  loc: Trento, Italy
+  kw: comp-fd
+- dd: 2025-06-29 to 07-02
+  name: IUTAM Symposium on Chemo-Mechanics (2025)
+  link: https://iutam.org/events/iutam-symposium-on-chemo-mechanics
+  loc: Oxford, UK
+  kw: comp-fd
+- dd: 2025-11-22 to 24
+  name: IUTAM Symposium on Frontiers of Physical Mechanics (2025)
+  link: https://iutam.org/events/iutam-symposium-on-frontiers-of-physical-mechanics
+  loc: Nanjing, China
+  kw: comp-el
+- dd: 2025-06-16 to 18
+  name: IUTAM Symposium on Fundamental Mechanics for Future Microfluidics (2025)
+  link: https://iutam.org/events/iutam-symposium-on-fundamental-mechanics-for-future-microfluidics
+  loc: Manchester, UK
+  kw: comp-fd
+- dd: 2025-06-01 to 05
+  name: IUTAM Symposium on Failure Dynamics and Resilience under Extreme Events
+  link: https://iutam.org/events/iutam-symposium-on-failure-dynamics-and-resilience-under-extreme-events
+  loc: Granada, Spain
+  kw: comp-el
+- dd: 2025-05-15 to 17
+  name: IUTAM Symposium on Machine Learning in Diverse Fluid Mechanics (2025)
+  link: https://iutam.org/events/iutam-symposium-on-machine-learning-in-diverse-fluid-mechanics
+  loc: Okinawa, Japan
+  kw: comp-fd
+- dd: 2025-05-16 to 20
+  name: IUTAM Symposium on Multiphysics Analysis of Wave Propagation in Electronic Device Structures (2025)
+  link: https://iutam.org/events/6705
+  loc: Ningbo, China
+  kw: comp-el
+- dd: 2025-05-26 to 30
+  name: IUTAM Summer School on Gravity Currents in the Environment (2025)
+  link: https://iutam.org/events/iutam-summer-school-on-gravity-currents-in-the-environment
+  loc: Udine, Italy
+  kw: comp-fd
+- dd: 2025-06-02 to 05
+  name: IUTAM Symposium on Nonlinear Dynamics of Systems and Structures for Green Energy Conversion (2025)
+  link: https://iutam.org/events/iutam-symposium-on-nonlinear-dynamics-of-systems-and-structures-for-green-energy-conversion
+  loc: Senigallia, Italy
+  kw: comp-fd
 - dd: 
   name: 
   link: 
