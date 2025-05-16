@@ -26,7 +26,11 @@
 
 2025-08-31 to 09-03: [35th IEEE International Workshop on Machine Learning for Signal Processing (MLSP 2025)](https://2025.ieeemlsp.org/en/ "MLSP 2025 focuses on machine learning for signal processing, covering neural networks, sparse modeling, and time-series analysis. Topics include applications in audio processing, medical imaging, and telecommunications, emphasizing computational methods for signal and data analysis."), Istanbul, Turkey.
 
+2025-10-27 to 31: [Autumn School on Scientific Machine Learning and Numerical Methods (2025)](https://www.cwi.nl/en/education/semester-programmes/cwi-research-semester-programs/synergies-in-numerical-linear-algebra-and-machine-learning/), Amsterdam, Netherlands.
+
 2025-11-25 to 28: [CECAM Flagship Workshop on Uncertainty Quantification in Atomistic Modeling: From Uncertainty-Aware Density Functional Theory to Machine Learning](https://cecam.org/workshop-details/uncertainty-quantification-in-atomistic-modeling-from-uncertainty-aware-density-functional-theory-to-machine-learning-1380 "This workshop explores uncertainty quantification in atomistic modeling, covering uncertainty-aware DFT, Bayesian methods, and machine learning. Topics include applications in materials science, chemical physics, and nanotechnology, emphasizing computational techniques for reliable atomistic simulations."), Lausanne, Switzerland.
 
 2025-11-26 to 28: [(ECCOMAS-IACM Associated) 7th International Workshop on Model Order Reduction Techniques (MORTech 2025)](https://mortech2025.i3a.es/ "MORTech 2025 focuses on model order reduction, covering reduced-order modeling, proper orthogonal decomposition, and machine learning integration. Topics include applications in fluid dynamics, structural mechanics, and control systems, emphasizing computational methods for efficient high-fidelity simulations."), Zaragoza, Spain.
+
+2025-12-01 to 03: [Workshop on Industrial Applications of Numerical Analysis and Machine Learning (2025)](https://www.cwi.nl/en/education/semester-programmes/cwi-research-semester-programs/synergies-in-numerical-linear-algebra-and-machine-learning/), Amsterdam, Netherlands.
 

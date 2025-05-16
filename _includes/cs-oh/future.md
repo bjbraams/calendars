@@ -4,15 +4,21 @@
 
 2025-06-11 to 15: [IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR 2025)](https://cvpr.thecvf.com "CVPR 2025 focuses on computer vision and pattern recognition, covering deep learning, image segmentation, and object detection. Topics include generative models, 3D vision, and applications in autonomous systems, emphasizing cutting-edge vision algorithms and AI."), Nashville, TN, USA.
 
+2025-06-16 to 20: [20th International Federated Conference on Distributed Computing Techniques (DisCoTec 2025)](https://www.discotec.org/2025/), Lille, France.
+
 2025-06-22 to 27: [IEEE International Symposium on Information Theory (ISIT 2025)](https://2025.ieee-isit.org "ISIT 2025 explores information theory, covering coding theory, data compression, and Shannon theory. Topics include quantum information, network coding, and applications in communications and machine learning, emphasizing theoretical foundations of information processing and transmission."), Ann Arbor, MI, USA.
 
 2025-06-23 to 26: [4th Annual Conference of SPP2265: Random Geometric Systems](https://wias-berlin.de/workshops/An_2025_RaGeSys/ "This conference focuses on random geometric systems, covering stochastic geometry, random graphs, and spatial processes. Topics include point processes, tessellations, and applications in network science and materials, emphasizing probabilistic models for geometric structures."), Berlin, Germany.
 
 2025-06-30 to 07-01: [67th CREST Open Workshop on AI-powered Software Engineering](https://www.ucl.ac.uk/crest/events/2025/jun/67th-crest-open-workshop-ai-powered-software-engineering "This workshop focuses on AI-powered software engineering, covering machine learning for code analysis, automated testing, and software optimization. Topics include AI-driven debugging, program synthesis, and applications in software development, emphasizing AI-enhanced software engineering tools."), London, UK.
 
+2025-06-30 to 07-04: [31st International Workshop on Cellular Automata and Discrete Complex Systems Joint With Workshop on Automata Networks (AUTOMATA+WAN 2025)](https://automata-wan-2025.univ-lille.fr/), Lille, France.
+
 2025-06-30 to 07-05: [International Joint Conference on Neural Networks (IJCNN 2025)](https://2025.ijcnn.org "IJCNN 2025 explores neural networks, covering deep learning, recurrent networks, and neuromorphic computing. Topics include image recognition, time-series prediction, and applications in robotics and healthcare, emphasizing advancements in neural network algorithms and applications."), Rome, Italy.
 
 2025-07-08 to 11: [24th IEEE International Symposium on Parallel and Distributed Computing (ISPDC 2025)](https://ispdc2025.inria.fr "ISPDC 2025 focuses on parallel and distributed computing, covering high-performance computing, cloud computing, and parallel algorithms. Topics include distributed machine learning, big data processing, and applications in scientific simulations, emphasizing scalable computational architectures."), Rennes, France.
+
+2025-07-27 to 08-01: [63rd Annual Meeting of the Association for Computational Linguistics (ACL 2025)](https://2025.aclweb.org/), Vienna, Austria.
 
 2025-08-16 to 22: [34th International Joint Conference on Artificial Intelligence (IJCAI 2025)](https://2025.ijcai.org "IJCAI 2025 explores artificial intelligence, covering machine learning, knowledge representation, and robotics. Topics include deep learning, natural language processing, and AI ethics, with applications in healthcare, finance, and autonomous systems, emphasizing theoretical and applied AI advancements."), Montreal, QC, Canada.
 
@@ -31,6 +37,10 @@
 2025-10-27 to 31: [39th International Symposium on Distributed Computing (DISC 2025)](https://disc-conference.org/wp/disc2025/ "DISC 2025 focuses on distributed computing, covering distributed algorithms, fault tolerance, and blockchain. Topics include applications in cloud computing, IoT, and decentralized systems, emphasizing theoretical and computational advancements in scalable distributed system design and analysis."), Berlin, Germany.
 
 2025-10-29 to 31: [7th International Conference on Geometric Science of Information (GSI 2025)](https://conference-gsi.org "GSI 2025 focuses on geometric science of information, covering information geometry, manifold learning, and statistical inference. Topics include applications in machine learning, signal processing, and neuroscience, emphasizing geometric and computational methods for information processing and analysis."), Saint Malo, France.
+
+2025-11-03 to 05: [37th IEEE International Conference on Tools With Artificial Intelligence (ICTAI 2025)](https://easyconferences.eu/ictai2025/), Athens, Greece.
+
+2025-11-11 to 14: [IFIP WG 7.3 Performance Conference 2025](https://performance2025.sciencesconf.org/), Amsterdam, Netherlands.
 
 2025-11-12 to 13: [16th IEEE International Conference on Knowledge Graphs (ICKG 2025)](https://cyprusconferences.org/ickg2025/ "ICKG 2025 explores knowledge graphs, covering graph-based reasoning, semantic modeling, and data integration. Topics include applications in AI, search engines, and recommendation systems, emphasizing computational methods for constructing and utilizing large-scale knowledge graph structures."), Limassol, Cyprus.
 

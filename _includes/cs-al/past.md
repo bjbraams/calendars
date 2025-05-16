@@ -1,6 +1,10 @@
 2025-01-07 to 10: [16th Innovations in Theoretical Computer Science Conference (ITCS 2025)](http://itcs-conf.org "ITCS 2025 focuses on groundbreaking ideas in theoretical computer science. Topical areas include algorithms, complexity theory, cryptography, quantum computing, and machine learning theory. The conference emphasizes innovative approaches to computational problems, fostering interdisciplinary connections between computer science, mathematics, and physics, with a focus on novel paradigms and foundational advancements."), New York City, NY, USA.
 
+2025-01-12 to 13: [SIAM Symposium on Algorithm Engineering and Experiments (ALENEX 2025)](https://www.siam.org/conferences-events/past-event-archive/alenex25/), New Orleans, LA, USA.
+
 2025-01-12 to 15: [SIAM Symposium on Discrete Algorithms (SODA 2025)](https://siam.org/conferences-events/siam-conferences/soda25/ "SODA 2025 focuses on discrete algorithms and their applications in computer science. Topics include graph algorithms, combinatorial optimization, randomized algorithms, and approximation algorithms. The symposium addresses theoretical advancements and practical implementations in areas like network design, machine learning, and data mining, fostering innovation in algorithm design."), New Orleans, LA, USA.
+
+2025-01-13 to 15: [SIAM Symposium on Simplicity in Algorithms (SOSA 2025)](https://www.siam.org/conferences-events/past-event-archive/sosa25/), New Orleans, LA, USA.
 
 2025-02-05: [29th London Stringology Days & London Algorithmic Workshop (LSD & LAW)](https://nms.kcl.ac.uk/informatics/events/LSD&LAW25/ "LSD & LAW 2025 explores stringology and algorithmic techniques. Topics include string matching, data compression, and sequence alignment, alongside broader algorithmic challenges like graph algorithms and combinatorial optimization. The workshop emphasizes theoretical advancements with applications in bioinformatics, text processing, and data science."), London, UK.
 
@@ -19,4 +23,6 @@
 2025-05-03 to 08: [31st International Conference on Tools and Algorithms for the Construction and Analysis of Systems (TACAS 2025)](https://etaps.org/2025/conferences/tacas/ "TACAS 2025 explores tools and algorithms for system analysis, covering model checking, theorem proving, and static analysis. Topics include verification of concurrent systems, security protocols, and applications in software and hardware, emphasizing automated analysis techniques."), Hamilton, ON, Canada.
 
 2025-05-05 to 09: [36th International Conference on Probabilistic, Combinatorial and Asymptotic Methods for the Analysis of Algorithms (AofA 2025)](http://www.fields.utoronto.ca/activities/24-25/AofA-2025 "AofA 2025 explores probabilistic and combinatorial methods for algorithm analysis, covering random structures, asymptotic enumeration, and average-case complexity. Topics include random trees, hashing, and applications in data structures, emphasizing mathematical analysis of algorithms."), Toronto, ON, Canada.
+
+2025-05-14: [Kolmogorov Meets Turing 2025; Applications of Stochastic Methods to the Analysis of Algorithms and Complex Systems](https://sites.google.com/view/kmt-2025 "This workshop bridges stochastic methods and algorithmic analysis, focusing on random processes in complex systems. Topics include Markov chains, randomized algorithms, and stochastic optimization, with applications in network analysis, machine learning, and statistical physics, emphasizing probabilistic approaches to computational problems."), Rome, Italy.
 

@@ -4,5 +4,9 @@
 
 2025-03-22 to 23: [Deep Reconstruction Workshop 2025](https://aiai.jhu.edu/deep_reconstruction_workshop_2025/ "This workshop focuses on deep learning for image reconstruction, covering generative models, inverse problems, and neural network architectures. Topics include medical imaging, tomography, and super-resolution, emphasizing data-driven approaches to enhance reconstruction accuracy and computational efficiency."), Baltimore, MD, USA.
 
+2025-04-01 to 02: [Computational Techniques and Imaging Innovations in the Age of AI (CTAIA 2025)](https://ctiai.github.io/), London, UK.
+
 2025-04-14 to 17: [IEEE International Symposium on Biomedical Imaging (ISBI 2025)](https://biomedicalimaging.org/2025/ "ISBI 2025 explores biomedical imaging, focusing on computational techniques for image analysis and reconstruction. Topics include deep learning, image segmentation, and multimodal imaging, with applications in MRI, CT, and microscopy, emphasizing advancements in medical diagnostics and research."), Houston, TX, USA.
+
+2025-05-14 to 16: [7th Conference of the ALAMA Network of Linear Algebra, Matrix Analysis and Applications (ALAMA 2025)](https://congresosalcala.fgua.es/jornadasalama/?idioma=en), Castro Urdiales, Cantabria, Spain.
 

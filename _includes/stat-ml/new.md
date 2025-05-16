@@ -1,2 +1,2 @@
-2026-07-14 to 16: 19th Conference of the International Federation of Classification Societies (IFCS 2026), Milan, Italy.
+2025-06-11 to 14: [Multi-Disciplinary Conference on Reinforcement Learning and Decision Making (RLDM 2025)](https://rldm.org/), Dublin, UK.
 

@@ -8,6 +8,8 @@
 
 2025-06-09 to 13: [IMSI Workshop Statistical and Computational Challenges in Probabilistic Scientific Machine Learning (SciML)](https://imsi.institute/activities/statistical-and-computational-challenges-in-probabilistic-scientific-machine-learning-sciml/ "This workshop explores probabilistic scientific machine learning, covering Bayesian neural networks, uncertainty quantification, and physics-informed models. Topics include computational challenges, applications in climate and materials science, emphasizing statistical robustness in scientific ML."), Chicago, IL, USA.
 
+2025-06-11 to 14: [Multi-Disciplinary Conference on Reinforcement Learning and Decision Making (RLDM 2025)](https://rldm.org/), Dublin, UK.
+
 2025-06-16 to 19: [INFORMED AI Summer School 2025](https://informed-ai.net/event/informed-ai-summer-school-2025/ "This summer school explores AI and machine learning, focusing on neural networks, Bayesian methods, and data-driven modeling. Topics include deep learning, uncertainty quantification, and applications in scientific discovery, emphasizing foundational and applied AI techniques for researchers."), Bristol, UK.
 
 2025-06-16 to 20: [HSM Special Topic School on Statistical Mechanics of Spin Glasses, Neural Networks and Learning](https://www.mathematics.uni-bonn.de/hsm-school/programs/schools/hsm-special-topic-schools/sts-statistical-mechanics "This school explores statistical mechanics of spin glasses, neural networks, and learning, covering disordered systems, optimization, and probabilistic models. Topics include replica theory, deep learning theory, and applications in AI, emphasizing statistical physics approaches to learning."), Bonn, Germany.

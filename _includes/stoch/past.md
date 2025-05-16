@@ -44,3 +44,7 @@
 
 2025-05-12 to 16: [Workshop on Stochastic Thermodynamics (WOST 2025)](https://wostmeeting.org "WOST 2025 focuses on stochastic thermodynamics, covering fluctuation theorems, entropy production, and nonequilibrium work relations. Topics include applications in biophysics, molecular motors, and active matter, emphasizing probabilistic frameworks for understanding thermodynamic processes at small scales."), Online.
 
+2025-05-14: [Kolmogorov Meets Turing 2025; Applications of Stochastic Methods to the Analysis of Algorithms and Complex Systems](https://sites.google.com/view/kmt-2025 "This workshop bridges stochastic methods and algorithmic analysis, focusing on random processes in complex systems. Topics include Markov chains, randomized algorithms, and stochastic optimization, with applications in network analysis, machine learning, and statistical physics, emphasizing probabilistic approaches to computational problems."), Rome, Italy.
+
+2025-05-14 to 16: [CECAM Flagship Workshop on Stochastics Processes: Inferences in Complex Systems](https://cecam.org/workshop-details/stochastics-processes-inferences-in-complex-systems-1390 "This workshop explores stochastic processes for inference in complex systems, covering Bayesian methods, stochastic differential equations, and Monte Carlo techniques. Topics include inference in networks, biophysics, and climate modeling, emphasizing probabilistic tools for understanding and predicting complex system dynamics."), Lausanne, Switzerland.
+

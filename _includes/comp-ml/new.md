@@ -1,2 +1,4 @@
-2025-11-26 to 28: [(ECCOMAS-IACM Associated) 7th International Workshop on Model Order Reduction Techniques (MORTech 2025)](https://mortech2025.i3a.es/), Zaragoza, Spain.
+2025-10-27 to 31: [Autumn School on Scientific Machine Learning and Numerical Methods (2025)](https://www.cwi.nl/en/education/semester-programmes/cwi-research-semester-programs/synergies-in-numerical-linear-algebra-and-machine-learning/), Amsterdam, Netherlands.
+
+2025-12-01 to 03: [Workshop on Industrial Applications of Numerical Analysis and Machine Learning (2025)](https://www.cwi.nl/en/education/semester-programmes/cwi-research-semester-programs/synergies-in-numerical-linear-algebra-and-machine-learning/), Amsterdam, Netherlands.
 

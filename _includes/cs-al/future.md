@@ -1,5 +1,3 @@
-2025-05-14: [Kolmogorov Meets Turing 2025; Applications of Stochastic Methods to the Analysis of Algorithms and Complex Systems](https://sites.google.com/view/kmt-2025 "This workshop bridges stochastic methods and algorithmic analysis, focusing on random processes in complex systems. Topics include Markov chains, randomized algorithms, and stochastic optimization, with applications in network analysis, machine learning, and statistical physics, emphasizing probabilistic approaches to computational problems."), Rome, Italy.
-
 2025-05-20 to 23: [Canadian Discrete and Algorithmic Mathematics Conference (CanaDAM 2025)](https://canadam.ca/2025 "CanaDAM 2025 focuses on discrete and algorithmic mathematics, covering graph theory, combinatorial optimization, and coding theory. Topics include network algorithms, discrete structures, and applications in cryptography and data science, emphasizing theoretical and computational advancements."), Ottawa, ON, Canada.
 
 2025-05-26 to 29: [International Federation for Information Processing (IFIP) Networking 2025 Conference (NETWORKING 2025)](https://networking.ifip.org/2025/ "NETWORKING 2025 explores network science, focusing on algorithmic design, network optimization, and performance analysis. Topics include routing protocols, network security, and graph-based models, with applications in 5G and IoT, emphasizing computational approaches to network efficiency."), Limassol, Cyprus.
@@ -73,4 +71,10 @@
 2025-12-07 to 10: [36th International Symposium on Algorithms and Computation (ISAAC 2025)](https://isaac2025.csie.ncku.edu.tw/ "ISAAC 2025 focuses on algorithms and computation, covering graph algorithms, approximation algorithms, and computational geometry. Topics include applications in networks, bioinformatics, and cryptography, emphasizing theoretical and practical advancements in algorithmic design and analysis."), Tainan, Taiwan.
 
 2025-12-14 to 17: [66th IEEE Symposium on Foundations of Computer Science (FOCS 2025)](https://focs.computer.org/2025/ "FOCS 2025 focuses on computer science foundations, covering algorithms, complexity theory, and cryptography. Topics include applications in graph theory, machine learning, and network security, emphasizing theoretical advancements in computational theory and algorithmic design."), Sydney, Australia.
+
+2026-01-11 to 12: [SIAM Symposium on Algorithm Engineering and Experiments (ALENEX 2026)](https://www.siam.org/conferences-events/siam-conferences/alenex26/), Vancouver, BC, Canada.
+
+2026-01-11 to 14: [ACM-SIAM Symposium on Discrete Algorithms (SODA 2026)](https://www.siam.org/conferences-events/siam-conferences/soda26/), Vancouver, BC, Canada.
+
+2026-01-12 to 13: [SIAM Symposium on Simplicity in Algorithms (SOSA 2026)](https://www.siam.org/conferences-events/siam-conferences/sosa26/), Vancouver, BC, Canada.
 

@@ -4,6 +4,8 @@
 
 2025-04-14 to 18: [Seismological Society of America Annual Meeting (SSA 2025)](https://2025.meetings.seismosoc.org/ "SSA 2025 focuses on seismology, covering computational methods for seismic wave propagation and earthquake modeling. Topics include finite difference methods, seismic imaging, and ground motion prediction, with applications in hazard assessment and geophysical exploration, emphasizing numerical simulations."), Baltimore, MD, USA.
 
+2025-04-23 to 25: [EuroMech Colloquium 647 on Stability and Bifurcation Problems in Nonlinear Solid Mechanics (2025)](https://647.euromech.org/), Glasgow, UK.
+
 2025-04-27 to 05-02: [European Geophysical Union General Assembly (EGU 2025)](https://www.egu25.eu/ "EGU 2025 focuses on geophysics, covering computational methods for seismic, atmospheric, and oceanic modeling. Topics include numerical weather prediction, earthquake simulations, and geomagnetic modeling, with applications in climate science and hazard assessment, emphasizing interdisciplinary geophysical computations."), Vienna, Austria and online.
 
 2025-05-06 to 09: [16th Iberian Meeting on Computational Electromagnetics (EIEC 2025)](https://eiec.av.it.pt/ "EIEC 2025 focuses on computational electromagnetics, covering numerical methods for Maxwell’s equations, high-frequency techniques, and electromagnetic compatibility. Topics include antenna modeling, wave propagation, and applications in wireless communications, emphasizing advanced computational tools."), Aveiro, Portugal.

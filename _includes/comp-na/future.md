@@ -1,5 +1,7 @@
 2025-05-19 to 22: [Shanks Conference Constructive Functions 2025](https://my.vanderbilt.edu/constructivefunctions2025/ "This conference focuses on constructive functions, covering approximation theory, orthogonal polynomials, and numerical analysis. Topics include function reconstruction, computational harmonic analysis, and applications in signal processing and scientific computing, emphasizing mathematical tools for constructive approximations."), Nashville, TN, USA.
 
+2025-06-02 to 06: [9th Linear Algebra Workshop (LAW 2025)](http://www.law05.si/law25/), Portorož, Slovenia.
+
 2025-06-08 to 13: [22nd Householder Symposium](https://householder-symposium.github.io "This symposium focuses on numerical linear algebra, covering matrix computations, eigenvalue problems, and iterative solvers. Topics include Krylov subspace methods, low-rank approximations, and applications in scientific computing, emphasizing computational efficiency and accuracy."), Ithaca, NY, USA.
 
 2025-06-23 to 27: [26th Conference of the International Linear Algebra Society (ILAS 2025)](https://ilas2025.tw "ILAS 2025 explores linear algebra, covering matrix theory, eigenvalue problems, and numerical methods. Topics include tensor computations, sparse matrices, and applications in data science and control theory, emphasizing theoretical and computational linear algebra advancements."), Kaohsiung, Taiwan.
@@ -30,6 +32,8 @@
 
 2025-09-01 to 05: [European Conference on Numerical Mathematics and Advanced Applications (ENUMATH 2025)](https://enumath2025.eu "ENUMATH 2025 explores numerical mathematics, covering finite element methods, numerical PDEs, and high-performance computing. Topics include applications in fluid dynamics, materials science, and biology, emphasizing advanced computational techniques for solving complex mathematical models."), Heidelberg, Germany.
 
+2025-09-11 to 12: [Workshop on Low-Rank Models and Applications (LRMA 2025)](https://sites.google.com/view/lrma25/), Mons, Belgium.
+
 2025-09-15 to 19: [9th International Conference on Advanced COmputational Methods in ENgineering and Applied Mathematics (ACOMEN 2025)](https://cage.ugent.be/acomen2025/ "ACOMEN 2025 explores computational engineering and mathematics, covering numerical PDEs, finite elements, and optimization. Topics include applications in fluid dynamics, structural analysis, and materials science, emphasizing advanced computational methods for engineering and applied mathematics."), Ghent, Belgium.
 
 2025-09-16 to 22: [23rd International Conference of Numerical Analysis and Applied Mathematics (ICNAAM 2025)](https://icnaam.org/ "ICNAAM 2025 explores numerical analysis and applied mathematics, covering numerical PDEs, optimization, and computational modeling. Topics include applications in physics, engineering, and biology, emphasizing computational techniques for solving complex mathematical and scientific problems."), Heraklion, Crete, Greece.
@@ -38,7 +42,11 @@
 
 2025-10-14 to 17: [SIAM Conference on Mathematical & Computational Issues in the Geosciences (GS 2025)](https://siam.org/conferences-events/siam-conferences/gs25/ "GS 2025 explores computational geosciences, covering numerical PDEs, inverse problems, and geophysical modeling. Topics include applications in climate modeling, seismic imaging, and resource exploration, emphasizing mathematical and computational methods for understanding Earth systems and processes."), Baton Rouge, LA, USA.
 
+2025-10-27 to 31: [Autumn School on Scientific Machine Learning and Numerical Methods (2025)](https://www.cwi.nl/en/education/semester-programmes/cwi-research-semester-programs/synergies-in-numerical-linear-algebra-and-machine-learning/), Amsterdam, Netherlands.
+
 2025-11-17 to 20: [SIAM Conference on Analysis of Partial Differential Equations (PD 2025)](https://siam.org/conferences-events/siam-conferences/pd25 "PD 2025 focuses on partial differential equations, covering numerical methods, variational techniques, and mathematical modeling. Topics include applications in fluid dynamics, materials science, and biology, emphasizing computational and analytical approaches to solving complex PDE systems."), Pittsburgh, PA, USA.
+
+2025-12-01 to 03: [Workshop on Industrial Applications of Numerical Analysis and Machine Learning (2025)](https://www.cwi.nl/en/education/semester-programmes/cwi-research-semester-programs/synergies-in-numerical-linear-algebra-and-machine-learning/), Amsterdam, Netherlands.
 
 2025-12-07 to 10: [Winter Simulation Conference (WSC 2025)](https://meetings.informs.org/wordpress/wsc2025/ "WSC 2025 explores simulation, covering discrete-event simulation, agent-based modeling, and Monte Carlo methods. Topics include applications in logistics, healthcare, and manufacturing, emphasizing computational techniques for modeling and analyzing complex systems and decision-making processes."), Seattle, WA, USA.
 
