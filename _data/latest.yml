@@ -74,46 +74,46 @@
   link: https://site-branpers2025.apps.math.cnrs.fr/
   loc: Angers, France
   kw: prob
-- dd: 
-  name: 
-  link: 
-  loc: 
-  kw: 
-- dd: 
-  name: 
-  link: 
-  loc: 
-  kw: 
-- dd: 
-  name: 
-  link: 
-  loc: 
-  kw: 
-- dd: 
-  name: 
-  link: 
-  loc: 
-  kw: 
-- dd: 
-  name: 
-  link: 
-  loc: 
-  kw: 
-- dd: 
-  name: 
-  link: 
-  loc: 
-  kw: 
-- dd: 
-  name: 
-  link: 
-  loc: 
-  kw: 
-- dd: 
-  name: 
-  link: 
-  loc: 
-  kw: 
+- dd: 2025-04-16 to 17
+  name: Workshop Everything You Always Wanted to Know About Discretization, Approximation, and Numerical Analysis for the JKO Scheme (2025)
+  link: https://indico.math.cnrs.fr/event/13361/
+  loc: Villeurbanne, France
+  kw: comp-na
+- dd: 2025-04-07 to 10
+  name: 'Conference on Kinetic equations and turbulence in honor of Claude Bardos''s 85th birthday'
+  link: https://bardos-85.sciencesconf.org/?lang=en
+  loc: Gif-sur-Yvette, France
+  kw: comp-fd
+- dd: 2025-03-24 to 26
+  name: International Research Project PICASSO Conference on hyperbolic models, numerical Analysis and Scientific computation (2025)
+  link: https://indico.math.cnrs.fr/event/13192/
+  loc: Málaga, Spain
+  kw: comp-na
+- dd: 2025-02-18 to 20
+  name: Conference on Mathematical Modeling with Applications Celebrating the 65th birthday of Prof Hassane Sadok (M2A 2025)
+  link: https://www.m2a25-conference.ma/
+  loc: Marrakesh, Morocco
+  kw: comp-na
+- dd: 2025-02-05 to 07
+  name: 'EMS Topical Activity Group Mixtures Conference on Mixtures: Modeling, analysis and computing (2025)'
+  link: https://www.karlin.mff.cuni.cz/~prusv/ncmm/conference/mixtures/
+  loc: Prague, Czech Republic
+  kw: comp-fd
+- dd: 2025-01-29 to 31
+  name: IMSI Winter School Reduced-Order Modeling for Complex Engineering Problems (2025)
+  link: https://www.imsi.institute/activities/reduced-order-modeling-for-complex-engineering-problems-from-analysis-to-practical-implementation/
+  loc: Chicago, IL, USA
+  kw: comp-ml
+- dd: 2025-02-03 to 07
+  name: IMSI Research Workshop Reduced-Order Modeling for Complex Engineering Problems (2025)
+  link: https://www.imsi.institute/activities/reduced-order-modeling-for-complex-engineering-problems-from-analysis-to-practical-implementation/
+  loc: Chicago, IL, USA
+  kw: comp-ml
+- dd: 2025-01-14 to 17
+  name: 4th International Conference on Variational Analysis and Optimization (2025)
+  link: https://eventos.cmm.uchile.cl/lopezcerda2025/
+  loc: Santiago, Chile
+  kw: comp-op
 - dd: 
   name: 
   link: 
