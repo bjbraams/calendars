@@ -68,7 +68,11 @@
 
 2025-08-25 to 09-06: [5th ZiF Summer School Randomness in Physics and Mathematics: From Thermalisation in Quantum Systems to Random Matrices](https://indico.physik.uni-bielefeld.de/event/220/ "This summer school explores randomness, covering quantum thermalization, random matrices, and stochastic processes. Topics include applications in statistical physics, quantum information, and number theory, emphasizing probabilistic methods for understanding random phenomena in physics and mathematics."), Bielefeld, Germany.
 
+2025-09-01 to 05: [2nd French-Japanese Conference Probability & Interactions (2025)](https://sites.google.com/view/frenchjapaneseconference/), Tokyo, Japan.
+
 2025-09-07 to 12: [SFB Summer School on Discrete Random Structures](https://sfbrandom.univie.ac.at/events/sfb-summer-school-2025/ "This summer school explores discrete random structures, covering random graphs, combinatorial probability, and stochastic processes. Topics include applications in network science, statistical physics, and computer science, emphasizing probabilistic methods for analyzing discrete random systems."), Pörtschach, Austria.
+
+2025-09-08 to 12: [Random Matrix Theory Summer School in Japan (2025)](https://benoitcollins.github.io/rmt2025/), Kyoto, Japan.
 
 2025-09-08 to 12: [Workshop Random Matrix Theory for Learning and Statistical Physics](https://www.uni-bielefeld.de/einrichtungen/zif/groups/ongoing/matrices/ "This workshop explores random matrix theory, covering eigenvalue distributions, spectral statistics, and applications in statistical physics and machine learning. Topics include neural network analysis, disordered systems, and high-dimensional statistics, emphasizing probabilistic methods for random matrices."), Bielefeld, Germany.
 

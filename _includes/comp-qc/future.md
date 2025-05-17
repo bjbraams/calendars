@@ -20,6 +20,8 @@
 
 2025-07-14 to 18: [22nd International Conference on Quantum Physics and Logic (QPL 2025)](https://qpl2025.github.io "QPL 2025 explores quantum physics and logic, covering quantum programming, categorical quantum mechanics, and quantum foundations. Topics include quantum algorithms, entanglement theory, and applications in quantum computing, emphasizing logical and theoretical quantum information frameworks."), Varna, Bulgaria.
 
+2025-07-15 to 08-22: [CEMRACS International Summer School on Quantum Computing (2025)](https://cemracs2025.math.cnrs.fr/en/), Marseille, France.
+
 2025-07-21 to 25: [Advances in Quantum Control - Techniques, Applications, and Challenges](https://pks.mpg.de/aqute25 "This conference focuses on quantum control, covering coherent control, quantum feedback, and optimal control techniques. Topics include quantum computing, quantum sensing, and applications in quantum technologies, emphasizing theoretical and experimental quantum control advancements."), Dresden, Germany.
 
 2025-07-27 to 08-01: [WE-Heraeus Seminar Quantum Science With Interacting Arrays of Rydberg Atoms and Molecules](https://www.we-heraeus-stiftung.de/veranstaltungen/quantum-science-with-interacting-arrays-of-rydberg-atoms-and-molecules/ "This seminar focuses on Rydberg atoms and molecules, covering quantum simulation, Rydberg interactions, and quantum information processing. Topics include quantum computing, many-body physics, and applications in quantum technologies, emphasizing experimental and theoretical Rydberg quantum systems."), Bad Honnef, Germany.

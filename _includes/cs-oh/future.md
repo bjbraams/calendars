@@ -48,3 +48,5 @@
 
 2026-08-16 to 20: [28th International Conference on Pattern Recognition (ICPR 2026)](https://iapr.org/conferences/conference-schedule/ "ICPR 2026 focuses on pattern recognition, covering computer vision, machine learning, and image processing. Topics include applications in biometrics, autonomous systems, and medical imaging, emphasizing computational methods for recognizing and analyzing complex patterns in data."), Lyon, France.
 
+https://epia2025.ualg.pt/: [24th EPIA (Portugal) Conference on Artificial Intelligence (EPIA 2025)](https://epia2025.ualg.pt/), Faro, Portugal.
+

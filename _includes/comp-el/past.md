@@ -12,3 +12,5 @@
 
 2025-05-13 to 16: [4th International Conference on Computational Modeling of Complex Materials Across the Scales (CMCS 2025)](https://cmcs2025.sciencesconf.org/ "CMCS 2025 focuses on computational modeling of complex materials, covering multiscale methods, finite element simulations, and molecular dynamics. Topics include material deformation, electromagnetic properties, and nanoscale interactions, with applications in composites and metamaterials, emphasizing numerical techniques for cross-scale material behavior."), Champs-sur-Marne, France.
 
+2025-05-16 to 20: [IUTAM Symposium on Multiphysics Analysis of Wave Propagation in Electronic Device Structures (2025)](https://iutam.org/events/6705), Ningbo, China.
+

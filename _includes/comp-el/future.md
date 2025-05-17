@@ -1,5 +1,3 @@
-2025-05-16 to 20: [IUTAM Symposium on Multiphysics Analysis of Wave Propagation in Electronic Device Structures (2025)](https://iutam.org/events/6705), Ningbo, China.
-
 2025-05-21 to 23: [EuroMech Colloquium 656 on Data-Driven Mechanics and Physics of Solids (2025)](https://656.euromech.org/), Gothenburg, Sweden.
 
 2025-05-28 to 31: [EuroMech Colloquium 640 on Gradient Mechanics Across Materials, Processes and Scales (2025)](https://640.euromech.org/), Rethymnon, Crete, Greece.

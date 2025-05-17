@@ -1,3 +1,124 @@
+- dd: 2026-06-08 to 12
+  name: SMAI-SIGMA 11th International Conference on Curves and Surfaces (CS 2026)
+  link: https://cs2026.sciencesconf.org/
+  loc: Saint-Malo, France
+  kw: comp-na
+- dd: 2025-09-01 to 05
+  name: 2nd French-Japanese Conference Probability & Interactions (2025)
+  link: https://sites.google.com/view/frenchjapaneseconference/
+  loc: Tokyo, Japan
+  kw: prob
+- dd: 2025-08-25 to 29
+  name: International Symposium on Stochastic Processes and Complex Systems (2025)
+  link: https://www.tfc.tohoku.ac.jp/event/4308.html
+  loc: Tokyo, Japan
+  kw: stoch
+- dd: 2025-09-08 to 12
+  name: Random Matrix Theory Summer School in Japan (2025)
+  link: https://benoitcollins.github.io/rmt2025/
+  loc: Kyoto, Japan
+  kw: prob
+- dd: 2025-07-15 to 08-22
+  name: CEMRACS International Summer School on Quantum Computing (2025)
+  link: https://cemracs2025.math.cnrs.fr/en/
+  loc: Marseille, France
+  kw: comp-qc
+- dd: 2025-06-30 to 07-04
+  name: ANR Project TRECOS Conference on Control of PDEs and Related Topics (2025)
+  link: https://indico.math.cnrs.fr/event/12315/
+  loc: Toulouse, France
+  kw: comp-in
+- dd: 2025-06-23 to 27
+  name: Summer School EUR MINT on Control, Inverse Problems and Spectral Theory (2025)
+  link: https://indico.math.cnrs.fr/event/12766/
+  loc: Toulouse, France
+  kw: comp-in
+- dd: 2025-06-16 to 20
+  name: Conference on Differential Geometry, Analysis and Epistemology in Honor of Marco Rigoli\'s 70th Birthday
+  link: https://sites.google.com/view/dgaemi25
+  loc: Milan, Italy
+  kw: tbd
+- dd: 2025-06-16 to 19
+  name: 4th International Conference Nonlinear Elliptic PDE in Hauts-De-France (2025)
+  link: https://4th-nlepde-hf.sciencesconf.org/
+  loc: Calais, France
+  kw: tbd
+- dd: 2025-06-10 to 13
+  name: Waves and Imaging in Complex Media (Wicom 2025)
+  link: https://wicom.sciencesconf.org/
+  loc: Paris, France
+  kw: comp-in
+- dd: 2025-05-22 to 23
+  name: 2nd International Workshop on Advance in Nonlinear Dynamical Systems, Complex Networks and Applications (DySyX 2025)
+  link: https://dysyx2025.sciencesconf.org/
+  loc: Kenitra, Morocco
+  kw: comp-fd
+- dd: 2025-05-05 to 07
+  name: ANR Project ADA Conference on Theoretical and Numerical Analysis of Multi-Scale Equations (2025)
+  link: https://conf-ada.sciencesconf.org/
+  loc: Lyon, France
+  kw: comp-fd
+- dd: 2025-05-05 to 07
+  name: Control Theory & Inverse Problems (CTIP 2025)
+  link: https://ctip25.sciencesconf.org/?lang=en
+  loc: Monastir, Tunesia
+  kw: comp-in
+- dd: 2025-04-23 to 25
+  name: 11th International Conference on Sensitivity Analysis of Model Output (SAMO 2025)
+  link: https://samo2025.sciencesconf.org/?lang=en
+  loc: Grenoble, France
+  kw: comp-uq
+- dd: 2025-04-09 to 11
+  name: Conference on Branching and Persistence (2025)
+  link: https://site-branpers2025.apps.math.cnrs.fr/
+  loc: Angers, France
+  kw: prob
+- dd: 2025-04-16 to 17
+  name: Workshop Everything You Always Wanted to Know About Discretization, Approximation, and Numerical Analysis for the JKO Scheme (2025)
+  link: https://indico.math.cnrs.fr/event/13361/
+  loc: Villeurbanne, France
+  kw: comp-na
+- dd: 2025-04-07 to 10
+  name: Conference on Kinetic Equations and Turbulence in Honor of Claude Bardos\'s 85th Birthday
+  link: https://bardos-85.sciencesconf.org/?lang=en
+  loc: Gif-sur-Yvette, France
+  kw: comp-fd
+- dd: 2025-03-24 to 26
+  name: International Research Project PICASSO Conference on Hyperbolic Models, Numerical Analysis and Scientific Computation (2025)
+  link: https://indico.math.cnrs.fr/event/13192/
+  loc: Málaga, Spain
+  kw: comp-na
+- dd: 2025-02-18 to 20
+  name: Conference on Mathematical Modeling With Applications Celebrating the 65th Birthday of Prof Hassane Sadok (M2A 2025)
+  link: https://www.m2a25-conference.ma/
+  loc: Marrakesh, Morocco
+  kw: comp-na
+- dd: 2025-02-05 to 07
+  name: 'EMS Topical Activity Group Mixtures Conference on Mixtures: Modeling, Analysis and Computing (2025)'
+  link: https://www.karlin.mff.cuni.cz/~prusv/ncmm/conference/mixtures/
+  loc: Prague, Czech Republic
+  kw: comp-fd
+- dd: 2025-01-29 to 31
+  name: IMSI Winter School Reduced-Order Modeling for Complex Engineering Problems (2025)
+  link: https://www.imsi.institute/activities/reduced-order-modeling-for-complex-engineering-problems-from-analysis-to-practical-implementation/
+  loc: Chicago, IL, USA
+  kw: comp-ml
+- dd: 2025-02-03 to 07
+  name: IMSI Research Workshop Reduced-Order Modeling for Complex Engineering Problems (2025)
+  link: https://www.imsi.institute/activities/reduced-order-modeling-for-complex-engineering-problems-from-analysis-to-practical-implementation/
+  loc: Chicago, IL, USA
+  kw: comp-ml
+- dd: 2025-01-14 to 17
+  name: 4th International Conference on Variational Analysis and Optimization (2025)
+  link: https://eventos.cmm.uchile.cl/lopezcerda2025/
+  loc: Santiago, Chile
+  kw: comp-op
+- dd: https://epia2025.ualg.pt/
+  name: 24th EPIA (Portugal) Conference on Artificial Intelligence (EPIA 2025)
+  link: https://epia2025.ualg.pt/
+  loc: Faro, Portugal
+  kw: cs-oh
+# 2025-05-17
 - dd: 2026-01-11 to 12
   name: SIAM Symposium on Algorithm Engineering and Experiments (ALENEX 2026)
   link: https://www.siam.org/conferences-events/siam-conferences/alenex26/
@@ -247,7 +368,6 @@
   link: http://654.euromech.org/
   loc: Vienna, Austria
   kw: comp-fd
-# 2025-05-16
 - dd: 2025-09-01 to 03
   name: 4th CNR-Nano Workshop on Two-Dimensional Excitonic Insulators (2025)
   link: https://excitonic-insulator.nano.cnr.it/workshop-2d-excitonic-insulator/

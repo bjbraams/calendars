@@ -52,6 +52,8 @@
 
 2026-02-02 to 06: [Randomized Numerical Linear Algebra Workshop](https://icerm.brown.edu/program/semester_program_workshop/sp-s26-w1 "This workshop explores randomized numerical linear algebra, covering randomized SVD, sketching, and matrix factorization. Topics include applications in data science, machine learning, and scientific computing, emphasizing computational techniques for efficient large-scale linear algebra operations."), Providence, RI, USA.
 
+2026-06-08 to 12: [SMAI-SIGMA 11th International Conference on Curves and Surfaces (CS 2026)](https://cs2026.sciencesconf.org/), Saint-Malo, France.
+
 2026-07-08 to 18: [Foundations of Computational Mathematics (FoCM 2026)](https://focm2026.univie.ac.at "FoCM 2026 explores computational mathematics, covering numerical analysis, optimization, and computational geometry. Topics include applications in scientific computing, machine learning, and data science, emphasizing theoretical and computational methods for solving mathematical problems."), Vienna, Austria.
 
 2026-08-17 to 21: Orthogonal Polynomials, Special Functions and Applications (OPSFA 2026), Kyoto, Japan.

@@ -1,3 +1,5 @@
+2025-01-14 to 17: [4th International Conference on Variational Analysis and Optimization (2025)](https://eventos.cmm.uchile.cl/lopezcerda2025/), Santiago, Chile.
+
 2025-01-14 to 17: [International School and Conference on Network Science (NetSciX 2025)](https://netscix2025.iiti.ac.in "NetSciX 2025 focuses on network science, covering complex networks, graph theory, and their applications. Key topics include social network analysis, biological networks, epidemic modeling, and network dynamics. The event bridges computational methods, statistical physics, and data science to study interconnected systems in sociology, biology, and technology."), Indore, India.
 
 2025-03-04 to 06: [International Conference on Optimization (SIGOPT 2025)](https://sigopt2025.uni-siegen.de "SIGOPT 2025 explores optimization, focusing on linear and nonlinear programming, combinatorial optimization, and stochastic optimization. Topics include interior-point methods, heuristic algorithms, and applications in logistics, energy, and machine learning, emphasizing efficient computational strategies for complex problems."), Siegen, Germany.

@@ -8,3 +8,5 @@
 
 2025-04-21 to 25: [IMSI Workshop Uncertainty Quantification for Material Science and Engineering](https://imsi.institute/activities/uncertainty-quantification-and-ai-for-complex-systems/uncertainty-quantification-for-material-science-and-engineering/ "This workshop focuses on uncertainty quantification in materials science, covering Bayesian methods, surrogate modeling, and uncertainty propagation. Topics include material property prediction, multiscale modeling, and applications in alloys and composites, emphasizing robust computational strategies."), Chicago, IL, USA.
 
+2025-04-23 to 25: [11th International Conference on Sensitivity Analysis of Model Output (SAMO 2025)](https://samo2025.sciencesconf.org/?lang=en), Grenoble, France.
+

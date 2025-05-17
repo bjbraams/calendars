@@ -20,6 +20,8 @@
 
 2025-04-09 to 11: [4th Probability, Analysis and Dynamics Conference (PAD 2025)](https://people.maths.bris.ac.uk/~mb13434/pad25/ "PAD 2025 explores probability, analysis, and dynamics, covering stochastic processes, partial differential equations, and dynamical systems. Topics include random walks, ergodic theory, and applications in statistical physics and fluid dynamics, emphasizing mathematical connections across disciplines."), Bristol, UK.
 
+2025-04-09 to 11: [Conference on Branching and Persistence (2025)](https://site-branpers2025.apps.math.cnrs.fr/), Angers, France.
+
 2025-04-10 to 12: [NYU Shanghai - Peking - Westlake Probability Conference](https://www.probabilityconference2025.com/ "This conference explores probability theory, covering stochastic processes, random matrices, and probabilistic combinatorics. Topics include Gaussian processes, random graphs, and applications in statistical physics and machine learning, emphasizing theoretical advancements and interdisciplinary connections."), Shanghai, China.
 
 2025-04-22 to 25: [Conference on Analysis and Probability in Infinite Dimensions](https://anaprob2025.com "This conference explores infinite-dimensional analysis and probability, covering stochastic PDEs, Gaussian measures, and functional integration. Topics include stochastic control, applications in quantum field theory and finance, emphasizing mathematical frameworks for infinite-dimensional probabilistic systems."), Bad Herrenalb, Germany.

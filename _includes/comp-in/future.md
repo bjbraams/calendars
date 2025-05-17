@@ -2,7 +2,13 @@
 
 2025-06-01 to 03: [Inverse Problems Symposium (IPS 2025)](https://canr.msu.edu/inverse-problems/ "IPS 2025 focuses on inverse problems, covering regularization, Bayesian inversion, and computational imaging. Topics include seismic tomography, medical imaging, and inverse scattering, with applications in geophysics and diagnostics, emphasizing numerical methods for solving ill-posed problems."), East Lansing, MI, USA.
 
+2025-06-10 to 13: [Waves and Imaging in Complex Media (Wicom 2025)](https://wicom.sciencesconf.org/), Paris, France.
+
+2025-06-23 to 27: [Summer School EUR MINT on Control, Inverse Problems and Spectral Theory (2025)](https://indico.math.cnrs.fr/event/12766/), Toulouse, France.
+
 2025-06-23 to 27: [Summer School on Inverse Problems and Artificial Intelligence in Medicine (2025)](https://bathsymposium.ac.uk/symposium/inverse-problems-and-artificial-intelligence-in-medicine/), Bath, UK.
+
+2025-06-30 to 07-04: [ANR Project TRECOS Conference on Control of PDEs and Related Topics (2025)](https://indico.math.cnrs.fr/event/12315/), Toulouse, France.
 
 2025-06-30 to 07-04: [Conference on Inverse Problems and Artificial Intelligence in Medicine (2025)](https://bathsymposium.ac.uk/symposium/inverse-problems-and-artificial-intelligence-in-medicine/), Bath, UK.
 
