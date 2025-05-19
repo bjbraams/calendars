@@ -14,6 +14,8 @@
 
 2025-06-01 to 05: [Workshop on Recent Advances in Evolving and Spatial Random Graphs](https://sites.google.com/view/bas-lodewijks/workshop-evolving-and-spatial-random-graphs "This workshop focuses on evolving and spatial random graphs, covering dynamic network models, percolation, and spatial point processes. Topics include graph dynamics, random geometric graphs, and applications in epidemiology and telecommunications, emphasizing probabilistic network analysis."), Bayrischzell, Germany.
 
+2025-06-01 to 06: [BIRS Workshop on Free Probability, Random Matrices and Finite-Dimensional Approximations (2025)](https://www.birs.ca/events/2025/5-day-workshops/25w5440), Oaxaca, Mexico.
+
 2025-06-02 to 06: [AIM Workshop Mathematical Foundations of Sampling Connected Balanced Graph Partitions](https://aimath.org/workshops/upcoming/connectedbalanced/ "This workshop focuses on sampling balanced graph partitions, covering Markov chain Monte Carlo, random graphs, and combinatorial probability. Topics include graph clustering, network partitioning, and applications in data science, emphasizing probabilistic algorithms for graph structures."), Pasadena, CA, USA.
 
 2025-06-02 to 06: [Workshop Integrability, Random Matrices, and All That](https://perso.ens-lyon.fr/alex.simon/PIICQ/PIICQ_2025.php "This workshop explores integrability and random matrices, covering eigenvalue distributions, integrable systems, and free probability. Topics include applications in statistical physics, quantum chaos, and number theory, emphasizing probabilistic and algebraic connections in complex systems."), Lyon, France.
@@ -91,6 +93,12 @@
 2026-01-07 to 09: [Workshop on a Class of Distributions Which Includes the Normal One, Foundational Contributions and Recent Advancements on Skewed Distributions (SKEW 2026)](https://skew2026.stat.unipd.it/ "SKEW 2026 explores skewed distributions, covering theoretical foundations, statistical modeling, and applications. Topics include skew-normal distributions, financial modeling, and risk analysis, emphasizing probabilistic and statistical methods for analyzing non-normal data distributions and their properties."), Padova, Italy.
 
 2026-03-02 to 06: [17th Latin American Congress of Probability and Mathematical Statistics (CLAPEM 2026)](https://clapem17.cmat.edu.uy "CLAPEM 2026 focuses on probability and mathematical statistics, covering stochastic processes, statistical inference, and extreme value theory. Topics include applications in finance, epidemiology, and environmental science, emphasizing theoretical and applied probabilistic and statistical methodologies."), Montevideo, Uruguay.
+
+2026-03-23 to 27: [CIRM Workshop on Entropy and Random Matrices (2026)](https://conferences.cirm-math.fr/3597.html), Marseille, France.
+
+2026-04-14 to 17: [SCGP Workshop Random Geometry in Math and Physics (2026)](https://scgp.stonybrook.edu/archives/45656), Stony Brook.
+
+2026-06-07 to 12: [Oberwolfach Workshop on Random Matrices](https://www.mfo.de/occasion/2624/www_view), Oberwolfach, Germany.
 
 2026-07-06 to 24: [4th Simons Math Summer Workshop on Algebraic Methods in Probability](https://scgp.stonybrook.edu/archives/45985 "This workshop explores algebraic methods in probability, covering random matrices, combinatorial probability, and algebraic statistics. Topics include applications in statistical physics, machine learning, and cryptography, emphasizing algebraic and probabilistic techniques for complex systems analysis."), Stony Brook, NY, USA.
 

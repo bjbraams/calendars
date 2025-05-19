@@ -1,3 +1,35 @@
+- dd: 2025-07-14 to 16
+  name: 30th Australasian Conference on Information Security and Privacy (ACISP 2025)
+  link: https://uow-ic2.github.io/acisp2025/
+  loc: Wollongong, Australia
+  kw: cs-oh
+- dd: 2026-06-07 to 12
+  name: Oberwolfach Workshop on Random Matrices
+  link: https://www.mfo.de/occasion/2624/www_view
+  loc: Oberwolfach, Germany
+  kw: prob
+- dd: 2025-06-01 to 06
+  name: BIRS Workshop on Free Probability, Random Matrices and Finite-Dimensional Approximations (2025)
+  link: https://www.birs.ca/events/2025/5-day-workshops/25w5440
+  loc: Oaxaca, Mexico
+  kw: prob
+- dd: 2026-03-23 to 27
+  name: CIRM Workshop on Entropy and Random Matrices (2026)
+  link: https://conferences.cirm-math.fr/3597.html
+  loc: Marseille, France
+  kw: prob
+- dd: 2026-04-14 to 17
+  name: SCGP Workshop Random Geometry in Math and Physics (2026)
+  link: https://scgp.stonybrook.edu/archives/45656
+  loc: Stony Brook
+  kw: prob
+- dd: 2027 tbd
+  name: EPS Nuclear Physics Division European Nuclear Physics Conference (EuNPC 2027)
+  link: https://members.eps.org/blogpost/739426/509153/Call-for-bids-European-Nuclear-Physics-Conference-2027-EuNPC-2027
+  loc: tbd
+  more: Provisional Link
+  kw: nuclear
+# 2025-05-18
 - dd: 2026-06-08 to 12
   name: SMAI-SIGMA 11th International Conference on Curves and Surfaces (CS 2026)
   link: https://cs2026.sciencesconf.org/
@@ -118,7 +150,6 @@
   link: https://epia2025.ualg.pt/
   loc: Faro, Portugal
   kw: cs-oh
-# 2025-05-17
 - dd: 2026-01-11 to 12
   name: SIAM Symposium on Algorithm Engineering and Experiments (ALENEX 2026)
   link: https://www.siam.org/conferences-events/siam-conferences/alenex26/

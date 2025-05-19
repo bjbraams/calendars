@@ -75,7 +75,7 @@ with open('_data/new-'+TODAY+'.yml', 'w') as file:
         myyaml.dump(new,file)
 
 with open('_data/latest-'+TODAY+'.yml', 'w') as file:
-    file.write('# dd,name,link,loc,more,kw\n')
+    file.write('# id,dd,name,link,loc,more,kw\n')
 
 # Check to proceed
 response = input(f"Return to proceed, Ctrl-c to cancel")

@@ -25,7 +25,7 @@ import sys
 import yaml
 
 MANDATORY_KEYS = {'dd','name','loc','kw'}
-OPTIONAL_KEYS = {'link','more'}
+OPTIONAL_KEYS = {'id','link','more'}
 RECOGNIZED_KEYS = MANDATORY_KEYS|OPTIONAL_KEYS
 
 def check_pair(key,value,index):

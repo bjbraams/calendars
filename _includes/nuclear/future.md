@@ -58,3 +58,5 @@
 
 2026 tbd: [Conference on Nuclear Physics in Astrophysics (NPA-XII 2026)](https://members.eps.org/blogpost/739426/News "NPA-XII 2026 focuses on nuclear astrophysics, covering nucleosynthesis, stellar evolution, and nuclear reactions. Topics include applications in supernovae, neutron stars, and cosmology, emphasizing experimental and theoretical studies of nuclear processes in astrophysical environments."), tbd.
 
+2027 tbd: [EPS Nuclear Physics Division European Nuclear Physics Conference (EuNPC 2027)](https://members.eps.org/blogpost/739426/509153/Call-for-bids-European-Nuclear-Physics-Conference-2027-EuNPC-2027), tbd. Provisional Link
+

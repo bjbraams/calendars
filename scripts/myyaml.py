@@ -2,7 +2,7 @@ import yaml
 from titlecase import titlecase
 
 MANDATORY_KEYS = {'dd','name','loc','kw'}
-OPTIONAL_KEYS = {'link','more','excerpt'}
+OPTIONAL_KEYS = {'id','link','more','excerpt'}
 RECOGNIZED_KEYS = MANDATORY_KEYS|OPTIONAL_KEYS
 
 def capitalize(event):

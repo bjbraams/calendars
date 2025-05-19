@@ -18,6 +18,8 @@
 
 2025-07-08 to 11: [24th IEEE International Symposium on Parallel and Distributed Computing (ISPDC 2025)](https://ispdc2025.inria.fr "ISPDC 2025 focuses on parallel and distributed computing, covering high-performance computing, cloud computing, and parallel algorithms. Topics include distributed machine learning, big data processing, and applications in scientific simulations, emphasizing scalable computational architectures."), Rennes, France.
 
+2025-07-14 to 16: [30th Australasian Conference on Information Security and Privacy (ACISP 2025)](https://uow-ic2.github.io/acisp2025/), Wollongong, Australia.
+
 2025-07-27 to 08-01: [63rd Annual Meeting of the Association for Computational Linguistics (ACL 2025)](https://2025.aclweb.org/), Vienna, Austria.
 
 2025-08-16 to 22: [34th International Joint Conference on Artificial Intelligence (IJCAI 2025)](https://2025.ijcai.org "IJCAI 2025 explores artificial intelligence, covering machine learning, knowledge representation, and robotics. Topics include deep learning, natural language processing, and AI ethics, with applications in healthcare, finance, and autonomous systems, emphasizing theoretical and applied AI advancements."), Montreal, QC, Canada.
