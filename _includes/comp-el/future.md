@@ -1,8 +1,14 @@
 2025-05-21 to 23: [EuroMech Colloquium 656 on Data-Driven Mechanics and Physics of Solids (2025)](https://656.euromech.org/), Gothenburg, Sweden.
 
+2025-05-21 to 23: [EuroMech Colloquium 656 on Data-Driven Mechanics and Physics of Solids (2025)](https://656.euromech.org/), Gothenburg, Sweden.
+
+2025-05-28 to 31: [EuroMech Colloquium 640 on Gradient Mechanics Across Materials, Processes and Scales (2025)](https://640.euromech.org/), Rethymnon, Crete, Greece.
+
 2025-05-28 to 31: [EuroMech Colloquium 640 on Gradient Mechanics Across Materials, Processes and Scales (2025)](https://640.euromech.org/), Rethymnon, Crete, Greece.
 
 2025-06-01 to 05: [IUTAM Symposium on Failure Dynamics and Resilience Under Extreme Events](https://iutam.org/events/iutam-symposium-on-failure-dynamics-and-resilience-under-extreme-events), Granada, Spain.
+
+2025-06-01 to 05: [IUTAM Symposium on Failure Dynamics and Resilience Under Extreme Events (2025)](https://iutam.org/events/iutam-symposium-on-failure-dynamics-and-resilience-under-extreme-events), Granada, Spain.
 
 2025-06-04 to 06: [8th International Conference on Computational Modeling of Fracture and Failure of Materials and Structures (CFRAC 2025)](https://www.cfrac2025.pt/ "CFRAC 2025 focuses on computational modeling of material fracture and failure, covering finite element methods and damage mechanics. Topics include crack propagation, composite failure, and applications in aerospace and civil engineering, emphasizing numerical simulation techniques."), Porto, Portugal.
 
@@ -26,9 +32,15 @@
 
 2025-08-25 to 27: [EuroMech Colloquium 655 on Cutting Mechanics of Soft Tissues: Nonlinear Fracture and Contact Mechanics (2025)](https://655.euromech.org/), Graz, Austria.
 
+2025-08-25 to 27: [EuroMech Colloquium 655 on Cutting Mechanics of Soft Tissues: Nonlinear Fracture and Contact Mechanics (2025)](https://655.euromech.org/), Graz, Austria.
+
 2025-08-25 to 29: [Radboud University Summer School on Waves Modeling, Analysis, and Numerics (2025)](https://www.math.ru.nl/wave/ "This summer school explores wave modeling, covering numerical methods, wave propagation, and scattering theory. Topics include applications in acoustics, electromagnetics, and fluid dynamics, emphasizing computational and analytical techniques for solving wave-related problems in engineering and physics."), Nijmegen, Netherlands.
 
 2025-08-26 to 28: [EuroMech Colloquium 653 on Mechanics of Interfaces (2025)](http://653.euromech.org/), Metz, France.
+
+2025-08-26 to 28: [EuroMech Colloquium 653 on Mechanics of Interfaces (2025)](http://653.euromech.org/), Metz, France.
+
+2025-08-27 to 29: [EuroMech Colloquium 650 on Addressing Challenges in Applied Mechanics Through Artificial Intelligence Applications (2025)](http://650.euromech.org/), Belgrade, Serbia.
 
 2025-08-27 to 29: [EuroMech Colloquium 650 on Addressing Challenges in Applied Mechanics Through Artificial Intelligence Applications (2025)](http://650.euromech.org/), Belgrade, Serbia.
 
@@ -39,6 +51,8 @@
 2025-09-14 to 17: [(ECCOMAS-IACM Associated) 13th International Conference on Isogeometric Analysis (IGA 2025)](https://iga2025.cimne.com/ "IGA 2025 focuses on isogeometric analysis, covering spline-based methods, CAD integration, and numerical simulations. Topics include applications in structural mechanics, fluid dynamics, and biomechanics, emphasizing computational techniques for seamless design-to-analysis workflows in engineering."), Eindhoven, Netherlands.
 
 2025-09-22 to 26: [(ECCOMAS-IACM Associated) 2nd International Conference on Highly Flexible Slender Structures (HFSS 2025)](https://hfss.uniri.hr/ "HFSS 2025 focuses on highly flexible slender structures, covering computational mechanics, nonlinear dynamics, and structural analysis. Topics include applications in aerospace, marine engineering, and robotics, emphasizing numerical methods for modeling flexible structural behavior."), Kaiserslautern, Germany.
+
+2025-11-22 to 24: [IUTAM Symposium on Frontiers of Physical Mechanics (2025)](https://iutam.org/events/iutam-symposium-on-frontiers-of-physical-mechanics), Nanjing, China.
 
 2025-11-22 to 24: [IUTAM Symposium on Frontiers of Physical Mechanics (2025)](https://iutam.org/events/iutam-symposium-on-frontiers-of-physical-mechanics), Nanjing, China.
 

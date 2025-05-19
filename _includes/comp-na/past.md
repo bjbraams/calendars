@@ -2,13 +2,19 @@
 
 2025-02-18 to 20: [Conference on Mathematical Modeling With Applications Celebrating the 65th Birthday of Prof Hassane Sadok (M2A 2025)](https://www.m2a25-conference.ma/), Marrakesh, Morocco.
 
+2025-02-18 to 20: [Conference on Mathematical Modeling With Applications Celebrating the 65th Birthday of Prof Hassane Sadok (M2A 2025)](https://www.m2a25-conference.ma/), Marrakesh, Morocco.
+
 2025-02-24 to 28: [Conference on Mathematics of Wave Phenomena 2025](https://conference25.waves.kit.edu "This conference explores mathematical modeling of wave phenomena, covering wave propagation, scattering, and inverse problems. Topics include partial differential equations, numerical methods, and applications in acoustics, electromagnetics, and seismology, emphasizing analytical and computational advancements in wave physics."), Karlsruhe, Germany.
 
 2025-03-03 to 07: [SIAM Conference on Computational Science and Engineering (CSE 2025)](https://siam.org/conferences-events/siam-conferences/cse25/ "CSE 2025 explores computational science, focusing on numerical algorithms, high-performance computing, and scientific simulations. Topics include finite elements, optimization, and uncertainty quantification, with applications in engineering, physics, and biology, emphasizing scalable computational methods for complex systems."), Fort Worth, TX, USA.
 
 2025-03-24 to 26: [International Research Project PICASSO Conference on Hyperbolic Models, Numerical Analysis and Scientific Computation (2025)](https://indico.math.cnrs.fr/event/13192/), Málaga, Spain.
 
-2025-04-13 to 17: [22nd Copper Mountain Conference on Multigrid Methods](https://grandmaster.colorado.edu/copper/2025/ "This conference focuses on multigrid methods, covering iterative solvers, preconditioners, and adaptive algorithms. Topics include algebraic multigrid, geometric multigrid, and applications in fluid dynamics and image processing, emphasizing scalable numerical methods for large-scale problems."), Copper Mountain, CO, USA.
+2025-03-24 to 26: [International Research Project PICASSO Conference on Hyperbolic Models, Numerical Analysis and Scientific Computation (2025)](https://indico.math.cnrs.fr/event/13192/), Málaga, Spain.
+
+2025-04-13 to 17: [22nd Copper Mountain Conference on Multigrid Methods (2025)](https://grandmaster.colorado.edu/copper/2025/ "This conference focuses on multigrid methods, covering iterative solvers, preconditioners, and adaptive algorithms. Topics include algebraic multigrid, geometric multigrid, and applications in fluid dynamics and image processing, emphasizing scalable numerical methods for large-scale problems."), Copper Mountain, CO, USA.
+
+2025-04-16 to 17: [Workshop Everything You Always Wanted to Know About Discretization, Approximation, and Numerical Analysis for the JKO Scheme (2025)](https://indico.math.cnrs.fr/event/13361/), Villeurbanne, France.
 
 2025-04-16 to 17: [Workshop Everything You Always Wanted to Know About Discretization, Approximation, and Numerical Analysis for the JKO Scheme (2025)](https://indico.math.cnrs.fr/event/13361/), Villeurbanne, France.
 

@@ -1,4 +1,4 @@
-2025-02-02 to 06: [Society for Imaging Science and Technology Computational Imaging Conference XXIII](https://imaging.org/IST/Conferences/EI/EI2025/Conference/C_COIMG.aspx "This conference explores computational imaging, focusing on algorithms for image reconstruction, enhancement, and analysis. Topics include machine learning for imaging, inverse problems, compressive sensing, and computational photography. It addresses applications in medical imaging, remote sensing, and computer vision, emphasizing innovative data-driven and model-based approaches."), Burlingame, CA, USA.
+2025-02-02 to 06: [Society for Imaging Science and Technology 23rd Computational Imaging Conference (2025)](https://imaging.org/IST/Conferences/EI/EI2025/Conference/C_COIMG.aspx "This conference explores computational imaging, focusing on algorithms for image reconstruction, enhancement, and analysis. Topics include machine learning for imaging, inverse problems, compressive sensing, and computational photography. It addresses applications in medical imaging, remote sensing, and computer vision, emphasizing innovative data-driven and model-based approaches."), Burlingame, CA, USA.
 
 2025-02-16 to 20: [SPIE Medical Imaging 2025](https://spie.org/conferences-and-exhibitions/medical-imaging "This conference covers computational techniques in medical imaging. Topics include image processing, deep learning for diagnostics, and quantitative imaging. It explores applications in radiology, pathology, and neuroimaging, emphasizing advancements in image reconstruction, segmentation, and computer-aided diagnosis for precision medicine."), San Diego, CA, USA.
 
@@ -6,9 +6,15 @@
 
 2025-04-01 to 02: [Computational Techniques and Imaging Innovations in the Age of AI (CTAIA 2025)](https://ctiai.github.io/), London, UK.
 
+2025-04-01 to 02: [Computational Techniques and Imaging Innovations in the Age of AI (CTAIA 2025)](https://ctiai.github.io/), London, UK.
+
 2025-04-14 to 17: [IEEE International Symposium on Biomedical Imaging (ISBI 2025)](https://biomedicalimaging.org/2025/ "ISBI 2025 explores biomedical imaging, focusing on computational techniques for image analysis and reconstruction. Topics include deep learning, image segmentation, and multimodal imaging, with applications in MRI, CT, and microscopy, emphasizing advancements in medical diagnostics and research."), Houston, TX, USA.
 
 2025-05-05 to 07: [Control Theory & Inverse Problems (CTIP 2025)](https://ctip25.sciencesconf.org/?lang=en), Monastir, Tunesia.
+
+2025-05-05 to 07: [Control Theory & Inverse Problems (CTIP 2025)](https://ctip25.sciencesconf.org/?lang=en), Monastir, Tunesia.
+
+2025-05-14 to 16: [7th Conference of the ALAMA Network of Linear Algebra, Matrix Analysis and Applications (ALAMA 2025)](https://congresosalcala.fgua.es/jornadasalama/?idioma=en), Castro Urdiales, Cantabria, Spain.
 
 2025-05-14 to 16: [7th Conference of the ALAMA Network of Linear Algebra, Matrix Analysis and Applications (ALAMA 2025)](https://congresosalcala.fgua.es/jornadasalama/?idioma=en), Castro Urdiales, Cantabria, Spain.
 

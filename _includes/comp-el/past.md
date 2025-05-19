@@ -6,11 +6,15 @@
 
 2025-04-23 to 25: [EuroMech Colloquium 647 on Stability and Bifurcation Problems in Nonlinear Solid Mechanics (2025)](https://647.euromech.org/), Glasgow, UK.
 
+2025-04-23 to 25: [EuroMech Colloquium 647 on Stability and Bifurcation Problems in Nonlinear Solid Mechanics (2025)](https://647.euromech.org/), Glasgow, UK.
+
 2025-04-27 to 05-02: [European Geophysical Union General Assembly (EGU 2025)](https://www.egu25.eu/ "EGU 2025 focuses on geophysics, covering computational methods for seismic, atmospheric, and oceanic modeling. Topics include numerical weather prediction, earthquake simulations, and geomagnetic modeling, with applications in climate science and hazard assessment, emphasizing interdisciplinary geophysical computations."), Vienna, Austria and online.
 
 2025-05-06 to 09: [16th Iberian Meeting on Computational Electromagnetics (EIEC 2025)](https://eiec.av.it.pt/ "EIEC 2025 focuses on computational electromagnetics, covering numerical methods for Maxwell’s equations, high-frequency techniques, and electromagnetic compatibility. Topics include antenna modeling, wave propagation, and applications in wireless communications, emphasizing advanced computational tools."), Aveiro, Portugal.
 
 2025-05-13 to 16: [4th International Conference on Computational Modeling of Complex Materials Across the Scales (CMCS 2025)](https://cmcs2025.sciencesconf.org/ "CMCS 2025 focuses on computational modeling of complex materials, covering multiscale methods, finite element simulations, and molecular dynamics. Topics include material deformation, electromagnetic properties, and nanoscale interactions, with applications in composites and metamaterials, emphasizing numerical techniques for cross-scale material behavior."), Champs-sur-Marne, France.
+
+2025-05-16 to 20: [IUTAM Symposium on Multiphysics Analysis of Wave Propagation in Electronic Device Structures (2025)](https://iutam.org/events/6705), Ningbo, China.
 
 2025-05-16 to 20: [IUTAM Symposium on Multiphysics Analysis of Wave Propagation in Electronic Device Structures (2025)](https://iutam.org/events/6705), Ningbo, China.
 

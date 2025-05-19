@@ -4,7 +4,7 @@
 
 2025-06-21 to 26: [Extreme Ultraviolet Lithography (EUVL) and Source Workshop 2025](https://euvlitho.com "This workshop focuses on extreme ultraviolet lithography, covering plasma-based EUV sources, optics, and patterning. Topics include high-power plasma generation, source stability, and applications in semiconductor manufacturing, emphasizing advancements in plasma-driven lithography technologies."), Cambridge, MA, USA.
 
-2025-06-30 to 07-03: [19th Ultrafast X-Ray Summer School](https://indico.psi.ch/event/17172/ "This summer school focuses on ultrafast X-ray science, covering X-ray free-electron lasers, time-resolved spectroscopy, and plasma interactions. Topics include ultrafast dynamics, structural biology, and applications in materials science, emphasizing experimental and computational X-ray techniques."), Villigen, Switzerland.
+2025-06-30 to 07-03: [19th Ultrafast X-Ray Summer School (2025)](https://indico.psi.ch/event/17172/ "This summer school focuses on ultrafast X-ray science, covering X-ray free-electron lasers, time-resolved spectroscopy, and plasma interactions. Topics include ultrafast dynamics, structural biology, and applications in materials science, emphasizing experimental and computational X-ray techniques."), Villigen, Switzerland.
 
 **2025-07-21 to 25: [22nd International Conference on Atomic Processes in Plasmas (APiP 2025)](https://yebisu.ils.uec.ac.jp/apip2025/ "APiP 2025 focuses on atomic processes in plasmas, covering ionization, recombination, and spectral modeling. Topics include plasma diagnostics, astrophysical plasmas, and applications in fusion and materials processing, emphasizing atomic physics in plasma environments."), Tokyo, Japan**.
 
@@ -14,7 +14,7 @@
 
 **2025-07-29 to 08-05: [34th International Conference on Photonic, Electronic, and Atomic Collisions (ICPEAC 2025)](https://icpeac2025.jp "ICPEAC 2025 focuses on photonic, electronic, and atomic collisions, covering scattering, ionization, and plasma interactions. Topics include laser-induced processes, astrophysical applications, and materials analysis, emphasizing experimental and theoretical collision dynamics in plasmas."), Sapporo, Japan**.
 
-2025-08-25 to 29: [9th AtomDB Workshop and Workweek](https://etix.com/ticket/p/63582623/ "The AtomDB workshop focuses on atomic databases for plasmas, covering spectral modeling, ionization, and recombination data. Topics include applications in astrophysical plasmas, fusion research, and plasma diagnostics, emphasizing computational tools for accurate atomic data in plasma simulations."), Cambridge, MA, USA.
+2025-08-25 to 29: [9th AtomDB Workshop and Workweek (2025)](https://etix.com/ticket/p/63582623/ "The AtomDB workshop focuses on atomic databases for plasmas, covering spectral modeling, ionization, and recombination data. Topics include applications in astrophysical plasmas, fusion research, and plasma diagnostics, emphasizing computational tools for accurate atomic data in plasma simulations."), Cambridge, MA, USA.
 
 2025-09-08 to 12: [21st International Conference on Ion Sources (ICIS 2025)](https://indico.stfc.ac.uk/event/1192/ "ICIS 2025 focuses on ion sources, covering ion beam production, plasma-based sources, and beam diagnostics. Topics include applications in particle accelerators, fusion research, and materials analysis, emphasizing advancements in ion source technology for plasma and atomic physics."), Oxford, UK.
 
@@ -24,5 +24,5 @@
 
 **2026-09-07 to 11: [22nd International Conference on the Physics of Highly Charged Ions (HCI 2026)](https://indico.impcas.ac.cn/event/75/ "HCI 2026 explores highly charged ions, covering atomic collisions, spectroscopy, and plasma interactions. Topics include applications in astrophysics, fusion plasmas, and materials science, emphasizing experimental and theoretical studies of highly charged ion dynamics."), Huizhou, China**.
 
-**2026 tbd: 14th International Conference on Atomic and Molecular Data and Their Applications (ICAMDATA), tbd**.
+**2026 tbd: 14th International Conference on Atomic and Molecular Data and Their Applications (ICAMDATA 2026), tbd**.
 

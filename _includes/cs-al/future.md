@@ -22,6 +22,8 @@
 
 2025-06-30 to 07-02: [21st Spanish Meeting on Computational Geometry (EGC 2025)](https://egc2025.unican.es "EGC 2025 focuses on computational geometry, covering geometric algorithms, shape analysis, and spatial data structures. Topics include computational topology, geometric optimization, and applications in GIS and robotics, emphasizing theoretical and applied geometric computing."), Santander, Spain.
 
+2025-06-30 to 07-04: [ADYN Summer School on Algorithms, Dynamics, and Information Flow in Networks (2025)](https://eac.cs.tu-dortmund.de/adyn-summerschool-2025/), Möhnesee, NRW, Germany.
+
 2025-07-07 to 11: [International Conference on Permutation Patterns 2025](https://sites.cs.st-andrews.ac.uk/pp25/ "This conference explores permutation patterns, covering combinatorial algorithms, pattern avoidance, and permutation statistics. Topics include applications in computational biology, coding theory, and discrete mathematics, emphasizing theoretical and algorithmic advances in permutation-based combinatorics."), St Andrews, UK.
 
 2025-07-08 to 11: [52nd EATCS International Colloquium on Automata, Languages, and Programming (ICALP 2025)](https://conferences.au.dk/icalp2025 "ICALP 2025 explores theoretical computer science, covering automata theory, formal languages, and algorithm design. Topics include complexity, randomized algorithms, and applications in verification and cryptography, emphasizing foundational advances in computational theory and programming."), Aarhus, Denmark.
@@ -74,7 +76,13 @@
 
 2026-01-11 to 12: [SIAM Symposium on Algorithm Engineering and Experiments (ALENEX 2026)](https://www.siam.org/conferences-events/siam-conferences/alenex26/), Vancouver, BC, Canada.
 
+2026-01-11 to 12: [SIAM Symposium on Algorithm Engineering and Experiments (ALENEX 2026)](https://www.siam.org/conferences-events/siam-conferences/alenex26/), Vancouver, BC, Canada.
+
 2026-01-11 to 14: [ACM-SIAM Symposium on Discrete Algorithms (SODA 2026)](https://www.siam.org/conferences-events/siam-conferences/soda26/), Vancouver, BC, Canada.
+
+2026-01-11 to 14: [ACM-SIAM Symposium on Discrete Algorithms (SODA 2026)](https://www.siam.org/conferences-events/siam-conferences/soda26/), Vancouver, BC, Canada.
+
+2026-01-12 to 13: [SIAM Symposium on Simplicity in Algorithms (SOSA 2026)](https://www.siam.org/conferences-events/siam-conferences/sosa26/), Vancouver, BC, Canada.
 
 2026-01-12 to 13: [SIAM Symposium on Simplicity in Algorithms (SOSA 2026)](https://www.siam.org/conferences-events/siam-conferences/sosa26/), Vancouver, BC, Canada.
 

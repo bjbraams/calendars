@@ -46,6 +46,11 @@
   link: https://www.siam.org/conferences-events/past-event-archive/alenex25/
   loc: New Orleans, LA, USA
   kw: cs-al
+- dd: 2025-01-12 to 13
+  name: SIAM Symposium on Algorithm Engineering and Experiments (ALENEX 2025)
+  link: https://www.siam.org/conferences-events/past-event-archive/alenex25/
+  loc: New Orleans, LA, USA
+  kw: cs-al
 - id: SIAMSODA2025
   dd: 2025-01-12 to 15
   name: SIAM Symposium on Discrete Algorithms (SODA 2025)
@@ -66,8 +71,18 @@
   link: https://www.siam.org/conferences-events/past-event-archive/sosa25/
   loc: New Orleans, LA, USA
   kw: cs-al
+- dd: 2025-01-13 to 15
+  name: SIAM Symposium on Simplicity in Algorithms (SOSA 2025)
+  link: https://www.siam.org/conferences-events/past-event-archive/sosa25/
+  loc: New Orleans, LA, USA
+  kw: cs-al
 - id: 4ICVAO2025
   dd: 2025-01-14 to 17
+  name: 4th International Conference on Variational Analysis and Optimization (2025)
+  link: https://eventos.cmm.uchile.cl/lopezcerda2025/
+  loc: Santiago, Chile
+  kw: comp-op
+- dd: 2025-01-14 to 17
   name: 4th International Conference on Variational Analysis and Optimization (2025)
   link: https://eventos.cmm.uchile.cl/lopezcerda2025/
   loc: Santiago, Chile
@@ -169,6 +184,11 @@
   link: https://www.imsi.institute/activities/reduced-order-modeling-for-complex-engineering-problems-from-analysis-to-practical-implementation/
   loc: Chicago, IL, USA
   kw: comp-ml
+- dd: 2025-01-29 to 31
+  name: IMSI Winter School Reduced-Order Modeling for Complex Engineering Problems (2025)
+  link: https://www.imsi.institute/activities/reduced-order-modeling-for-complex-engineering-problems-from-analysis-to-practical-implementation/
+  loc: Chicago, IL, USA
+  kw: comp-ml
 - id: WIASWCBSPS2025
   dd: 2025-01-29 to 31
   name: WIAS Workshop on Critical Behaviour in Spatial Particle Systems (2025)
@@ -210,8 +230,18 @@
   link: https://www.imsi.institute/activities/reduced-order-modeling-for-complex-engineering-problems-from-analysis-to-practical-implementation/
   loc: Chicago, IL, USA
   kw: comp-ml
+- dd: 2025-02-03 to 07
+  name: IMSI Research Workshop Reduced-Order Modeling for Complex Engineering Problems (2025)
+  link: https://www.imsi.institute/activities/reduced-order-modeling-for-complex-engineering-problems-from-analysis-to-practical-implementation/
+  loc: Chicago, IL, USA
+  kw: comp-ml
 - id: TSCANMHE2025
   dd: 2025-02-03 to 07
+  name: Short Course on Advanced Numerical Methods for Hyperbolic Equations 2025
+  link: https://eventi.unitn.it/en/short-course-advanced-numerical-methods-hyperbolic-equations-2025
+  loc: Trento, Italy
+  kw: comp-fd
+- dd: 2025-02-03 to 07
   name: Short Course on Advanced Numerical Methods for Hyperbolic Equations 2025
   link: https://eventi.unitn.it/en/short-course-advanced-numerical-methods-hyperbolic-equations-2025
   loc: Trento, Italy
@@ -225,6 +255,11 @@
   excerpt: LSD & LAW 2025 explores stringology and algorithmic techniques. Topics include string matching, data compression, and sequence alignment, alongside broader algorithmic challenges like graph algorithms and combinatorial optimization. The workshop emphasizes theoretical advancements with applications in bioinformatics, text processing, and data science.
 - id: EMSTAGMMAC2025
   dd: 2025-02-05 to 07
+  name: 'EMS Topical Activity Group Mixtures Conference on Mixtures: Modeling, Analysis and Computing (2025)'
+  link: https://www.karlin.mff.cuni.cz/~prusv/ncmm/conference/mixtures/
+  loc: Prague, Czech Republic
+  kw: comp-fd
+- dd: 2025-02-05 to 07
   name: 'EMS Topical Activity Group Mixtures Conference on Mixtures: Modeling, Analysis and Computing (2025)'
   link: https://www.karlin.mff.cuni.cz/~prusv/ncmm/conference/mixtures/
   loc: Prague, Czech Republic
@@ -258,13 +293,6 @@
   loc: San Diego, CA, USA
   kw: comp-in
   excerpt: This conference covers computational techniques in medical imaging. Topics include image processing, deep learning for diagnostics, and quantitative imaging. It explores applications in radiology, pathology, and neuroimaging, emphasizing advancements in image reconstruction, segmentation, and computer-aided diagnosis for precision medicine.
-- id: OMWNDCQS2025
-  dd: 2025-02-16 to 21
-  name: Oberwolfach Mini-Workshop on New Directions in Correlated Quantum Systems
-  link: https://mfo.de/occasion/2508a/www_view
-  loc: Oberwolfach, Germany
-  kw: qmat
-  excerpt: This mini-workshop explores correlated quantum systems, focusing on strongly interacting quantum materials. Topics include quantum phase transitions, topological order, and many-body entanglement. It addresses theoretical models like Hubbard systems and experimental probes, with applications in condensed matter physics and quantum simulation.
 - id: BIRS-WUQNNM2025
   dd: 2025-02-16 to 21
   name: BIRS Workshop on Uncertainty Quantification in Neural Network Models (2025)
@@ -272,6 +300,13 @@
   loc: Banff, AB, Canada
   kw: comp-uq
   excerpt: This workshop focuses on uncertainty quantification in neural networks, covering Bayesian neural networks, ensemble methods, and probabilistic deep learning. Topics include uncertainty estimation, model calibration, and robustness in AI applications like autonomous systems and medical diagnostics, bridging statistics and machine learning.
+- id: OMWNDCQS2025
+  dd: 2025-02-16 to 21
+  name: Oberwolfach Mini-Workshop on New Directions in Correlated Quantum Systems
+  link: https://mfo.de/occasion/2508a/www_view
+  loc: Oberwolfach, Germany
+  kw: qmat
+  excerpt: This mini-workshop explores correlated quantum systems, focusing on strongly interacting quantum materials. Topics include quantum phase transitions, topological order, and many-body entanglement. It addresses theoretical models like Hubbard systems and experimental probes, with applications in condensed matter physics and quantum simulation.
 - id: ITAMPWSQRAMOS2025
   dd: 2025-02-16 to 22
   name: ITAMP Winter School on Quantum Revolution in AMO Sciences (2025)
@@ -328,6 +363,11 @@
   link: https://www.m2a25-conference.ma/
   loc: Marrakesh, Morocco
   kw: comp-na
+- dd: 2025-02-18 to 20
+  name: Conference on Mathematical Modeling With Applications Celebrating the 65th Birthday of Prof Hassane Sadok (M2A 2025)
+  link: https://www.m2a25-conference.ma/
+  loc: Marrakesh, Morocco
+  kw: comp-na
 - id: 4QMMS2025
   dd: 2025-02-19 to 20
   name: 4th Quantum Matters in Materials Science Workshop (QMMS 2025)
@@ -337,6 +377,11 @@
   excerpt: QMMS 2025 focuses on quantum materials, exploring topological insulators, superconductors, and quantum magnets. Topics include quantum phase transitions, many-body interactions, and computational modeling of quantum systems. It addresses applications in quantum computing and energy technologies, bridging theory and experiment.
 - id: 11VICMM2025
   dd: 2025-02-19 to 21
+  name: 11th Vienna International Conference on Mathematical Modelling (MathMod 2025)
+  link: https://www.mathmod.at/
+  loc: Vienna, Austria
+  kw: comp-ot
+- dd: 2025-02-19 to 21
   name: 11th Vienna International Conference on Mathematical Modelling (MathMod 2025)
   link: https://www.mathmod.at/
   loc: Vienna, Austria
@@ -532,13 +577,6 @@
   loc: Mesilla, NM, USA
   kw: qmat
   excerpt: This workshop explores machine learning in molecular and multiscale dynamics, focusing on neural network potentials, coarse-graining, and reaction pathway prediction. Topics include molecular dynamics simulations, quantum chemistry, and applications in materials design and drug discovery, emphasizing data-driven chemical modeling.
-- id: OWMMQC2025
-  dd: 2025-03-09 to 14
-  name: Oberwolfach Workshop on Mathematical Methods in Quantum Chemistry (2025)
-  link: https://mfo.de/occasion/2511/www_view
-  loc: Oberwolfach, Germany
-  kw: qchem
-  excerpt: This workshop focuses on mathematical methods in quantum chemistry, covering electronic structure theory, wavefunction methods, and quantum Monte Carlo. Topics include coupled-cluster theory, density functional approximations, and applications in molecular reactivity and spectroscopy, emphasizing rigorous computational approaches.
 - id: BIRS-WEABI
   dd: 2025-03-09 to 14
   name: BIRS Workshop on Efficient Approximate Bayesian Inference (2025)
@@ -546,6 +584,13 @@
   loc: Banff, AB, Canada
   kw: stat-th
   excerpt: This workshop explores efficient approximate Bayesian inference, covering variational inference, Markov chain Monte Carlo, and sequential Monte Carlo. Topics include scalable algorithms, uncertainty quantification, and applications in machine learning and biostatistics, emphasizing computational efficiency in Bayesian modeling.
+- id: OWMMQC2025
+  dd: 2025-03-09 to 14
+  name: Oberwolfach Workshop on Mathematical Methods in Quantum Chemistry (2025)
+  link: https://mfo.de/occasion/2511/www_view
+  loc: Oberwolfach, Germany
+  kw: qchem
+  excerpt: This workshop focuses on mathematical methods in quantum chemistry, covering electronic structure theory, wavefunction methods, and quantum Monte Carlo. Topics include coupled-cluster theory, density functional approximations, and applications in molecular reactivity and spectroscopy, emphasizing rigorous computational approaches.
 - id: SMLN2025
   dd: 2025-03-11 to 13
   name: Synergies of Machine Learning and Numerics (2025)
@@ -643,6 +688,11 @@
   link: https://indico.math.cnrs.fr/event/13192/
   loc: Málaga, Spain
   kw: comp-na
+- dd: 2025-03-24 to 26
+  name: International Research Project PICASSO Conference on Hyperbolic Models, Numerical Analysis and Scientific Computation (2025)
+  link: https://indico.math.cnrs.fr/event/13192/
+  loc: Málaga, Spain
+  kw: comp-na
 - id: CAI4QAQCWAI2025
   dd: 2025-03-24 to 28
   name: Conference AI4Quantum - Accelerating Quantum Computing With AI (2025)
@@ -687,6 +737,11 @@
   excerpt: This symposium focuses on mean field games, covering stochastic control, partial differential equations, and game theory. Topics include Nash equilibria, large population dynamics, and applications in economics, crowd modeling, and energy systems, emphasizing mathematical modeling of collective behavior.
 - id: EMCMFFB2025
   dd: 2025-03-25 to 28
+  name: EuroMech Colloquium 659 on Metamaterials in Fluid Flows and Beyond (2025)
+  link: http://659.euromech.org/
+  loc: Groningen, Netherlans
+  kw: comp-fd
+- dd: 2025-03-25 to 28
   name: EuroMech Colloquium 659 on Metamaterials in Fluid Flows and Beyond (2025)
   link: http://659.euromech.org/
   loc: Groningen, Netherlans
@@ -753,6 +808,11 @@
   link: https://ctiai.github.io/
   loc: London, UK
   kw: comp-in
+- dd: 2025-04-01 to 02
+  name: Computational Techniques and Imaging Innovations in the Age of AI (CTAIA 2025)
+  link: https://ctiai.github.io/
+  loc: London, UK
+  kw: comp-in
 - id: WASSMMTA2025
   dd: 2025-04-01 to 04
   name: 'Workshop Algebraic Statistics and the Study of Multistate Models: Theory and Applications (2025)'
@@ -769,6 +829,11 @@
   excerpt: RL4AA 2025 explores reinforcement learning for particle accelerators, focusing on control optimization, beam tuning, and fault detection. Topics include deep reinforcement learning, multi-agent systems, and applications in synchrotron light sources and colliders, emphasizing autonomous accelerator operations.
 - id: EMCDDFM2025
   dd: 2025-04-02 to 04
+  name: EuroMech Colloquium 629 on Data-Driven Fluid Mechanics (2025)
+  link: https://629.euromech.org/
+  loc: London, UK
+  kw: comp-fd
+- dd: 2025-04-02 to 04
   name: EuroMech Colloquium 629 on Data-Driven Fluid Mechanics (2025)
   link: https://629.euromech.org/
   loc: London, UK
@@ -814,8 +879,18 @@
   link: https://bardos-85.sciencesconf.org/?lang=en
   loc: Gif-sur-Yvette, France
   kw: comp-fd
+- dd: 2025-04-07 to 10
+  name: Conference on Kinetic Equations and Turbulence in Honor of Claude Bardos\'s 85th Birthday
+  link: https://bardos-85.sciencesconf.org/?lang=en
+  loc: Gif-sur-Yvette, France
+  kw: comp-fd
 - id: 95AMGAMM2025
   dd: 2025-04-07 to 11
+  name: 95th Annual Meeting of the International Association of Applied Mathematics and Mechanics (GAMM 2025)
+  link: https://jahrestagung.gamm.org/annual-meeting-2025/95th-annual-meeting-2/
+  loc: Poznań, Poland
+  kw: comp-ot
+- dd: 2025-04-07 to 11
   name: 95th Annual Meeting of the International Association of Applied Mathematics and Mechanics (GAMM 2025)
   link: https://jahrestagung.gamm.org/annual-meeting-2025/95th-annual-meeting-2/
   loc: Poznań, Poland
@@ -882,6 +957,11 @@
   link: https://site-branpers2025.apps.math.cnrs.fr/
   loc: Angers, France
   kw: prob
+- dd: 2025-04-09 to 11
+  name: Conference on Branching and Persistence (2025)
+  link: https://site-branpers2025.apps.math.cnrs.fr/
+  loc: Angers, France
+  kw: prob
 - id: 7ICSYMCOMP2025
   dd: 2025-04-10 to 11
   name: 7th International Conference on Numerical and Symbolic Computation, Developments and Applications (SYMCOMP 2025)
@@ -933,6 +1013,11 @@
   excerpt: WDM 2025 explores warm dense matter, focusing on high-pressure plasmas and equation-of-state modeling. Topics include laser-driven experiments, plasma thermodynamics, and computational simulations, with applications in planetary science, inertial fusion, and astrophysics, emphasizing extreme matter states.
 - id: WEYAWKADANAJKOS2025
   dd: 2025-04-16 to 17
+  name: Workshop Everything You Always Wanted to Know About Discretization, Approximation, and Numerical Analysis for the JKO Scheme (2025)
+  link: https://indico.math.cnrs.fr/event/13361/
+  loc: Villeurbanne, France
+  kw: comp-na
+- dd: 2025-04-16 to 17
   name: Workshop Everything You Always Wanted to Know About Discretization, Approximation, and Numerical Analysis for the JKO Scheme (2025)
   link: https://indico.math.cnrs.fr/event/13361/
   loc: Villeurbanne, France
@@ -999,6 +1084,11 @@
   link: https://samo2025.sciencesconf.org/?lang=en
   loc: Grenoble, France
   kw: comp-uq
+- dd: 2025-04-23 to 25
+  name: 11th International Conference on Sensitivity Analysis of Model Output (SAMO 2025)
+  link: https://samo2025.sciencesconf.org/?lang=en
+  loc: Grenoble, France
+  kw: comp-uq
 - id: 25EvoCOP2025
   dd: 2025-04-23 to 25
   name: 25th European Conference on Evolutionary Computation in Combinatorial Optimisation (EvoCOP 2025)
@@ -1024,6 +1114,11 @@
   excerpt: QCTiP 2025 focuses on quantum computing theory and practice, covering quantum algorithms, error correction, and hardware implementations. Topics include variational quantum circuits, quantum optimization, and applications in cryptography and chemistry, emphasizing bridging theory and experiment.
 - id: EMCSBPNSM2025
   dd: 2025-04-23 to 25
+  name: EuroMech Colloquium 647 on Stability and Bifurcation Problems in Nonlinear Solid Mechanics (2025)
+  link: https://647.euromech.org/
+  loc: Glasgow, UK
+  kw: comp-el
+- dd: 2025-04-23 to 25
   name: EuroMech Colloquium 647 on Stability and Bifurcation Problems in Nonlinear Solid Mechanics (2025)
   link: https://647.euromech.org/
   loc: Glasgow, UK
@@ -1198,8 +1293,18 @@
   link: https://conf-ada.sciencesconf.org/
   loc: Lyon, France
   kw: comp-fd
+- dd: 2025-05-05 to 07
+  name: ANR Project ADA Conference on Theoretical and Numerical Analysis of Multi-Scale Equations (2025)
+  link: https://conf-ada.sciencesconf.org/
+  loc: Lyon, France
+  kw: comp-fd
 - id: CTIP2025
   dd: 2025-05-05 to 07
+  name: Control Theory & Inverse Problems (CTIP 2025)
+  link: https://ctip25.sciencesconf.org/?lang=en
+  loc: Monastir, Tunesia
+  kw: comp-in
+- dd: 2025-05-05 to 07
   name: Control Theory & Inverse Problems (CTIP 2025)
   link: https://ctip25.sciencesconf.org/?lang=en
   loc: Monastir, Tunesia
@@ -1239,13 +1344,6 @@
   loc: Toronto, ON, Canada
   kw: cs-al
   excerpt: AofA 2025 explores probabilistic and combinatorial methods for algorithm analysis, covering random structures, asymptotic enumeration, and average-case complexity. Topics include random trees, hashing, and applications in data structures, emphasizing mathematical analysis of algorithms.
-- id: ICTP-CMTBPCSSP2025
-  dd: 2025-05-05 to 09
-  name: ICTP Conference on Mixing Times Between Probability, Computer Science and Statistical Physics (2025)
-  link: https://indico.ictp.it/event/10831
-  loc: Trieste, Italy
-  kw: stoch
-  excerpt: This conference explores mixing times, bridging probability, computer science, and statistical physics. Topics include Markov chain convergence, random graphs, and spin systems, with applications in sampling algorithms and network dynamics, emphasizing interdisciplinary probabilistic approaches.
 - id: FusionEnergyWeek2025
   dd: 2025-05-05 to 09
   name: Fusion Energy Week 2025
@@ -1253,6 +1351,13 @@
   loc: Many locations, USA and elsewhere
   kw: plas-ph
   excerpt: Fusion Energy Week 2025 focuses on fusion energy, covering plasma confinement, fusion reactor design, and plasma diagnostics. Topics include tokamak physics, inertial fusion, and materials for fusion, emphasizing advancements toward sustainable fusion power and industry collaboration.
+- id: ICTP-CMTBPCSSP2025
+  dd: 2025-05-05 to 09
+  name: ICTP Conference on Mixing Times Between Probability, Computer Science and Statistical Physics (2025)
+  link: https://indico.ictp.it/event/10831
+  loc: Trieste, Italy
+  kw: stoch
+  excerpt: This conference explores mixing times, bridging probability, computer science, and statistical physics. Topics include Markov chain convergence, random graphs, and spin systems, with applications in sampling algorithms and network dynamics, emphasizing interdisciplinary probabilistic approaches.
 - id: 16EIEC2025
   dd: 2025-05-06 to 09
   name: 16th Iberian Meeting on Computational Electromagnetics (EIEC 2025)
@@ -1276,6 +1381,11 @@
   excerpt: GSRC 2025 focuses on chemical dynamics in materials and living systems, covering reaction kinetics, molecular dynamics, and systems chemistry. Topics include self-assembly, biomolecular interactions, and applications in synthetic biology and materials design, emphasizing computational and experimental approaches.
 - id: 3ICGWSS2025
   dd: 2025-05-07 to 09
+  name: 3rd International Clausthal-Göttingen Workshop on Simulation Science (SimScience 2025)
+  link: https://www.simscience2025.tu-clausthal.de/
+  loc: Clausthal-Zellerfeld, Germany
+  kw: comp-ot
+- dd: 2025-05-07 to 09
   name: 3rd International Clausthal-Göttingen Workshop on Simulation Science (SimScience 2025)
   link: https://www.simscience2025.tu-clausthal.de/
   loc: Clausthal-Zellerfeld, Germany
@@ -1405,6 +1515,11 @@
   link: https://congresosalcala.fgua.es/jornadasalama/?idioma=en
   loc: Castro Urdiales, Cantabria, Spain
   kw: comp-in
+- dd: 2025-05-14 to 16
+  name: 7th Conference of the ALAMA Network of Linear Algebra, Matrix Analysis and Applications (ALAMA 2025)
+  link: https://congresosalcala.fgua.es/jornadasalama/?idioma=en
+  loc: Castro Urdiales, Cantabria, Spain
+  kw: comp-in
 - id: CECAM-FWSPICS2025
   dd: 2025-05-14 to 16
   name: 'CECAM Flagship Workshop on Stochastics Processes: Inferences in Complex Systems (2025)'
@@ -1418,9 +1533,26 @@
   link: https://iutam.org/events/iutam-symposium-on-machine-learning-in-diverse-fluid-mechanics
   loc: Okinawa, Japan
   kw: comp-fd
+- dd: 2025-05-15 to 17
+  name: IUTAM Symposium on Machine Learning in Diverse Fluid Mechanics (2025)
+  link: https://iutam.org/events/iutam-symposium-on-machine-learning-in-diverse-fluid-mechanics
+  loc: Okinawa, Japan
+  kw: comp-fd
 - id: IUTAM-SMAWPEDS2025
   dd: 2025-05-16 to 20
   name: IUTAM Symposium on Multiphysics Analysis of Wave Propagation in Electronic Device Structures (2025)
   link: https://iutam.org/events/6705
   loc: Ningbo, China
   kw: comp-el
+- dd: 2025-05-16 to 20
+  name: IUTAM Symposium on Multiphysics Analysis of Wave Propagation in Electronic Device Structures (2025)
+  link: https://iutam.org/events/6705
+  loc: Ningbo, China
+  kw: comp-el
+- id: 10ICPDP2025
+  dd: 2025-05-18 to 22
+  name: 10th International Conference on the Physics of Dusty Plasmas (ICPDP 2025)
+  link: https://icpdp2025.dryfta.com
+  loc: Eindhoven, The Netherlands
+  kw: plas-ig
+  excerpt: ICPDP 2025 focuses on dusty plasma physics, covering particle charging, plasma-surface interactions, and dust dynamics. Topics include dusty plasma instabilities, applications in astrophysics, and plasma processing for nanotechnology, emphasizing experimental and theoretical insights into complex plasma systems.

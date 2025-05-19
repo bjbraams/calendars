@@ -2,17 +2,21 @@
 
 2025-01-12 to 13: [SIAM Symposium on Algorithm Engineering and Experiments (ALENEX 2025)](https://www.siam.org/conferences-events/past-event-archive/alenex25/), New Orleans, LA, USA.
 
+2025-01-12 to 13: [SIAM Symposium on Algorithm Engineering and Experiments (ALENEX 2025)](https://www.siam.org/conferences-events/past-event-archive/alenex25/), New Orleans, LA, USA.
+
 2025-01-12 to 15: [SIAM Symposium on Discrete Algorithms (SODA 2025)](https://siam.org/conferences-events/siam-conferences/soda25/ "SODA 2025 focuses on discrete algorithms and their applications in computer science. Topics include graph algorithms, combinatorial optimization, randomized algorithms, and approximation algorithms. The symposium addresses theoretical advancements and practical implementations in areas like network design, machine learning, and data mining, fostering innovation in algorithm design."), New Orleans, LA, USA.
+
+2025-01-13 to 15: [SIAM Symposium on Simplicity in Algorithms (SOSA 2025)](https://www.siam.org/conferences-events/past-event-archive/sosa25/), New Orleans, LA, USA.
 
 2025-01-13 to 15: [SIAM Symposium on Simplicity in Algorithms (SOSA 2025)](https://www.siam.org/conferences-events/past-event-archive/sosa25/), New Orleans, LA, USA.
 
 2025-02-05: [29th London Stringology Days & London Algorithmic Workshop (LSD & LAW)](https://nms.kcl.ac.uk/informatics/events/LSD&LAW25/ "LSD & LAW 2025 explores stringology and algorithmic techniques. Topics include string matching, data compression, and sequence alignment, alongside broader algorithmic challenges like graph algorithms and combinatorial optimization. The workshop emphasizes theoretical advancements with applications in bioinformatics, text processing, and data science."), London, UK.
 
-2025-03-03 to 04: [Workshop on Algorithms, Complexity and Logic (“Theorietag”)](https://stacs2025.de/workshop/ "Theorietag 2025 focuses on algorithms, computational complexity, and logic, covering graph algorithms, parameterized complexity, and formal methods. Topics include logical foundations of computation, complexity classes, and applications in verification and optimization, emphasizing theoretical computer science advancements."), Jena, Germany. (In association with [STACS 2025](https://stacs2025.de).)
+2025-03-03 to 04: [Workshop on Algorithms, Complexity and Logic (Theorietag 2025)](https://stacs2025.de/workshop/ "Theorietag 2025 focuses on algorithms, computational complexity, and logic, covering graph algorithms, parameterized complexity, and formal methods. Topics include logical foundations of computation, complexity classes, and applications in verification and optimization, emphasizing theoretical computer science advancements."), Jena, Germany. (In association with [STACS 2025](https://stacs2025.de).)
 
 2025-03-04 to 07: [42nd International Symposium on Theoretical Aspects of Computer Science (STACS 2025)](https://stacs2025.de "STACS 2025 focuses on theoretical computer science, covering algorithms, complexity, and automata theory. Topics include parameterized algorithms, computational geometry, and quantum computing theory, with applications in cryptography, bioinformatics, and network analysis, emphasizing rigorous mathematical foundations."), Jena, Germany.
 
-2025-03-23 to 28: [Dagstuhl Seminar 25132 Approximation Algorithms for Stochastic Optimization](https://dagstuhl.de/25132 "This seminar explores approximation algorithms for stochastic optimization, covering randomized algorithms, online optimization, and robust optimization. Topics include Markov decision processes, stochastic programming, and applications in scheduling, logistics, and machine learning, emphasizing efficient algorithmic strategies."), Wadern, Germany.
+2025-03-23 to 28: [Dagstuhl Seminar 25132 Approximation Algorithms for Stochastic Optimization (2025)](https://dagstuhl.de/25132 "This seminar explores approximation algorithms for stochastic optimization, covering randomized algorithms, online optimization, and robust optimization. Topics include Markov decision processes, stochastic programming, and applications in scheduling, logistics, and machine learning, emphasizing efficient algorithmic strategies."), Wadern, Germany.
 
 2025-03-31 to 04-04: [8th Workshop on Algebraic Complexity Theory (WACT 2025)](https://qi.rub.de/wact "WACT 2025 explores algebraic complexity theory, covering circuit complexity, polynomial identity testing, and algebraic algorithms. Topics include matrix multiplication, tensor decompositions, and applications in cryptography and optimization, emphasizing mathematical foundations of computational efficiency."), Bochum, Germany.
 

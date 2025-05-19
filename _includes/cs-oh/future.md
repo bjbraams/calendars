@@ -6,11 +6,15 @@
 
 2025-06-16 to 20: [20th International Federated Conference on Distributed Computing Techniques (DisCoTec 2025)](https://www.discotec.org/2025/), Lille, France.
 
+2025-06-16 to 20: [20th International Federated Conference on Distributed Computing Techniques (DisCoTec 2025)](https://www.discotec.org/2025/), Lille, France.
+
 2025-06-22 to 27: [IEEE International Symposium on Information Theory (ISIT 2025)](https://2025.ieee-isit.org "ISIT 2025 explores information theory, covering coding theory, data compression, and Shannon theory. Topics include quantum information, network coding, and applications in communications and machine learning, emphasizing theoretical foundations of information processing and transmission."), Ann Arbor, MI, USA.
 
-2025-06-23 to 26: [4th Annual Conference of SPP2265: Random Geometric Systems](https://wias-berlin.de/workshops/An_2025_RaGeSys/ "This conference focuses on random geometric systems, covering stochastic geometry, random graphs, and spatial processes. Topics include point processes, tessellations, and applications in network science and materials, emphasizing probabilistic models for geometric structures."), Berlin, Germany.
+2025-06-23 to 26: [4th Annual Conference of SPP2265: Random Geometric Systems (2025)](https://wias-berlin.de/workshops/An_2025_RaGeSys/ "This conference focuses on random geometric systems, covering stochastic geometry, random graphs, and spatial processes. Topics include point processes, tessellations, and applications in network science and materials, emphasizing probabilistic models for geometric structures."), Berlin, Germany.
 
-2025-06-30 to 07-01: [67th CREST Open Workshop on AI-powered Software Engineering](https://www.ucl.ac.uk/crest/events/2025/jun/67th-crest-open-workshop-ai-powered-software-engineering "This workshop focuses on AI-powered software engineering, covering machine learning for code analysis, automated testing, and software optimization. Topics include AI-driven debugging, program synthesis, and applications in software development, emphasizing AI-enhanced software engineering tools."), London, UK.
+2025-06-30 to 07-01: [67th CREST Open Workshop on AI-powered Software Engineering (2025)](https://www.ucl.ac.uk/crest/events/2025/jun/67th-crest-open-workshop-ai-powered-software-engineering "This workshop focuses on AI-powered software engineering, covering machine learning for code analysis, automated testing, and software optimization. Topics include AI-driven debugging, program synthesis, and applications in software development, emphasizing AI-enhanced software engineering tools."), London, UK.
+
+2025-06-30 to 07-04: [31st International Workshop on Cellular Automata and Discrete Complex Systems Joint With Workshop on Automata Networks (AUTOMATA+WAN 2025)](https://automata-wan-2025.univ-lille.fr/), Lille, France.
 
 2025-06-30 to 07-04: [31st International Workshop on Cellular Automata and Discrete Complex Systems Joint With Workshop on Automata Networks (AUTOMATA+WAN 2025)](https://automata-wan-2025.univ-lille.fr/), Lille, France.
 
@@ -20,7 +24,11 @@
 
 2025-07-14 to 16: [30th Australasian Conference on Information Security and Privacy (ACISP 2025)](https://uow-ic2.github.io/acisp2025/), Wollongong, Australia.
 
+2025-07-14 to 16: [30th Australasian Conference on Information Security and Privacy (ACISP 2025)](https://uow-ic2.github.io/acisp2025/), Wollongong, Australia.
+
 2025-07-27 to 08-01: [63rd Annual Meeting of the Association for Computational Linguistics (ACL 2025)](https://2025.aclweb.org/), Vienna, Austria.
+
+2025-07-27 to 08-01: [Association for Computational Linguistics 63rd Annual Meeting (ACL 2025)](https://2025.aclweb.org/), Vienna, Austria.
 
 2025-08-16 to 22: [34th International Joint Conference on Artificial Intelligence (IJCAI 2025)](https://2025.ijcai.org "IJCAI 2025 explores artificial intelligence, covering machine learning, knowledge representation, and robotics. Topics include deep learning, natural language processing, and AI ethics, with applications in healthcare, finance, and autonomous systems, emphasizing theoretical and applied AI advancements."), Montreal, QC, Canada.
 
@@ -29,6 +37,8 @@
 2025-09-01 to 05: [22nd International Conference on Unconventional Computation and Natural Computation (UCNC 2025)](https://webusers.i3s.univ-cotedazur.fr/UCNC2025/ "UCNC 2025 explores unconventional and natural computation, covering quantum computing, cellular automata, and bio-inspired algorithms. Topics include applications in complex systems, AI, and quantum simulation, emphasizing novel computational paradigms beyond classical models."), Nice, France.
 
 2025-09-29 to 10-02: [35th Brazilian Conference on Intelligent Systems (BRACIS 2025)](https://bracis.sbc.org.br/2025/ "BRACIS 2025 focuses on intelligent systems, covering machine learning, knowledge representation, and robotics. Topics include deep learning, natural language processing, and AI applications in healthcare and agriculture, emphasizing theoretical and applied advancements in computational intelligence and smart systems."), Fortaleza, CE, Brazil.
+
+2025-10-01 to 03: [24th EPIA (Portugal) Conference on Artificial Intelligence (EPIA 2025)](https://epia2025.ualg.pt/), Faro, Portugal.
 
 2025-10-06 to 10: [25th International Conference on Formal Methods in Computer-Aided Design (FMCAD 2025) and 17th International Conference on Verified Software: Theories, Tools, and Experiments (VSTTE 2025)](https://fmcad.org/FMCAD25/ "FMCAD and VSTTE 2025 explore formal methods and verified software, covering model checking, theorem proving, and software verification. Topics include applications in hardware design, AI, and critical systems, emphasizing computational tools for ensuring correctness and reliability in software and hardware."), colocated at Menlo Park, CA, USA.
 
@@ -41,6 +51,10 @@
 2025-10-29 to 31: [7th International Conference on Geometric Science of Information (GSI 2025)](https://conference-gsi.org "GSI 2025 focuses on geometric science of information, covering information geometry, manifold learning, and statistical inference. Topics include applications in machine learning, signal processing, and neuroscience, emphasizing geometric and computational methods for information processing and analysis."), Saint Malo, France.
 
 2025-11-03 to 05: [37th IEEE International Conference on Tools With Artificial Intelligence (ICTAI 2025)](https://easyconferences.eu/ictai2025/), Athens, Greece.
+
+2025-11-03 to 05: [37th IEEE International Conference on Tools With Artificial Intelligence (ICTAI 2025)](https://easyconferences.eu/ictai2025/), Athens, Greece.
+
+2025-11-11 to 14: [IFIP WG 7.3 Performance Conference 2025](https://performance2025.sciencesconf.org/), Amsterdam, Netherlands.
 
 2025-11-11 to 14: [IFIP WG 7.3 Performance Conference 2025](https://performance2025.sciencesconf.org/), Amsterdam, Netherlands.
 

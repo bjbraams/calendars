@@ -2,17 +2,19 @@
 
 2025-06-02 to 06: [9th Linear Algebra Workshop (LAW 2025)](http://www.law05.si/law25/), Portorož, Slovenia.
 
-2025-06-08 to 13: [22nd Householder Symposium](https://householder-symposium.github.io "This symposium focuses on numerical linear algebra, covering matrix computations, eigenvalue problems, and iterative solvers. Topics include Krylov subspace methods, low-rank approximations, and applications in scientific computing, emphasizing computational efficiency and accuracy."), Ithaca, NY, USA.
+2025-06-02 to 06: [9th Linear Algebra Workshop (LAW 2025)](http://www.law05.si/law25/), Portorož, Slovenia.
+
+2025-06-08 to 13: [22nd Householder Symposium (2025)](https://householder-symposium.github.io "This symposium focuses on numerical linear algebra, covering matrix computations, eigenvalue problems, and iterative solvers. Topics include Krylov subspace methods, low-rank approximations, and applications in scientific computing, emphasizing computational efficiency and accuracy."), Ithaca, NY, USA.
 
 2025-06-23 to 27: [26th Conference of the International Linear Algebra Society (ILAS 2025)](https://ilas2025.tw "ILAS 2025 explores linear algebra, covering matrix theory, eigenvalue problems, and numerical methods. Topics include tensor computations, sparse matrices, and applications in data science and control theory, emphasizing theoretical and computational linear algebra advancements."), Kaohsiung, Taiwan.
 
 2025-06-23 to 27: [29th International Conference on Domain Decomposition Methods (DDM 2025)](https://dd29.polimi.it "DDM 2025 focuses on domain decomposition methods, covering parallel algorithms, preconditioners, and numerical solvers. Topics include applications in fluid dynamics, structural mechanics, and electromagnetics, emphasizing scalable computational methods for large-scale simulations."), Milan, Italy.
 
-2025-06-23 to 27: [BRIN Workshop on Stochastic PDEs](https://brinmrc.umd.edu/programs/workshops/summer25/summer25-workshop-pdes.html "This workshop focuses on stochastic partial differential equations, covering regularity, numerical methods, and probabilistic solutions. Topics include stochastic heat equations, applications in fluid dynamics and finance, emphasizing mathematical and computational approaches to stochastic PDEs."), College Park, MD, USA.
+2025-06-23 to 27: [BRIN Workshop on Stochastic PDEs (2025)](https://brinmrc.umd.edu/programs/workshops/summer25/summer25-workshop-pdes.html "This workshop focuses on stochastic partial differential equations, covering regularity, numerical methods, and probabilistic solutions. Topics include stochastic heat equations, applications in fluid dynamics and finance, emphasizing mathematical and computational approaches to stochastic PDEs."), College Park, MD, USA.
 
 2025-06-24 to 27: [30th Biennial Numerical Analysis Conference (2025)](https://numericalanalysisconference.org.uk/ "This conference focuses on numerical analysis, covering numerical linear algebra, PDE solvers, and optimization algorithms. Topics include adaptive methods, high-performance computing, and applications in engineering and physics, emphasizing advancements in numerical computational techniques."), Glasgow, UK.
 
-2025-06-30 to 07-03: [Workshop on Stochastic Numerics Milstein's Method: 50 Years On](https://maths.nottingham.ac.uk/plp/pmzmt/milstein2025/ "This workshop celebrates Milstein’s method, focusing on stochastic numerical methods for differential equations. Topics include stochastic integration, numerical stability, and applications in finance and physics, emphasizing advancements in stochastic computational techniques."), Nottingham, UK.
+2025-06-30 to 07-03: [Workshop on Stochastic Numerics Milstein's Method: 50 Years On (2025)](https://maths.nottingham.ac.uk/plp/pmzmt/milstein2025/ "This workshop celebrates Milstein’s method, focusing on stochastic numerical methods for differential equations. Topics include stochastic integration, numerical stability, and applications in finance and physics, emphasizing advancements in stochastic computational techniques."), Nottingham, UK.
 
 2025-07-03 to 04: [17th International Conference on Reversible Computation (RC 2025)](https://reversible-computation-2025.github.io "RC 2025 focuses on reversible computation, covering reversible logic, quantum circuits, and energy-efficient computing. Topics include reversible programming, thermodynamic computing, and applications in low-power systems and quantum algorithms, emphasizing theoretical and practical advancements in reversible computational models."), Odense, Denmark.
 
@@ -34,6 +36,8 @@
 
 2025-09-11 to 12: [Workshop on Low-Rank Models and Applications (LRMA 2025)](https://sites.google.com/view/lrma25/), Mons, Belgium.
 
+2025-09-11 to 12: [Workshop on Low-Rank Models and Applications (LRMA 2025)](https://sites.google.com/view/lrma25/), Mons, Belgium.
+
 2025-09-15 to 19: [9th International Conference on Advanced COmputational Methods in ENgineering and Applied Mathematics (ACOMEN 2025)](https://cage.ugent.be/acomen2025/ "ACOMEN 2025 explores computational engineering and mathematics, covering numerical PDEs, finite elements, and optimization. Topics include applications in fluid dynamics, structural analysis, and materials science, emphasizing advanced computational methods for engineering and applied mathematics."), Ghent, Belgium.
 
 2025-09-16 to 22: [23rd International Conference of Numerical Analysis and Applied Mathematics (ICNAAM 2025)](https://icnaam.org/ "ICNAAM 2025 explores numerical analysis and applied mathematics, covering numerical PDEs, optimization, and computational modeling. Topics include applications in physics, engineering, and biology, emphasizing computational techniques for solving complex mathematical and scientific problems."), Heraklion, Crete, Greece.
@@ -44,13 +48,19 @@
 
 2025-10-27 to 31: [Autumn School on Scientific Machine Learning and Numerical Methods (2025)](https://www.cwi.nl/en/education/semester-programmes/cwi-research-semester-programs/synergies-in-numerical-linear-algebra-and-machine-learning/), Amsterdam, Netherlands.
 
+2025-10-27 to 31: [Autumn School on Scientific Machine Learning and Numerical Methods (2025)](https://www.cwi.nl/en/education/semester-programmes/cwi-research-semester-programs/synergies-in-numerical-linear-algebra-and-machine-learning/), Amsterdam, Netherlands.
+
 2025-11-17 to 20: [SIAM Conference on Analysis of Partial Differential Equations (PD 2025)](https://siam.org/conferences-events/siam-conferences/pd25 "PD 2025 focuses on partial differential equations, covering numerical methods, variational techniques, and mathematical modeling. Topics include applications in fluid dynamics, materials science, and biology, emphasizing computational and analytical approaches to solving complex PDE systems."), Pittsburgh, PA, USA.
+
+2025-12-01 to 03: [Workshop on Industrial Applications of Numerical Analysis and Machine Learning (2025)](https://www.cwi.nl/en/education/semester-programmes/cwi-research-semester-programs/synergies-in-numerical-linear-algebra-and-machine-learning/), Amsterdam, Netherlands.
 
 2025-12-01 to 03: [Workshop on Industrial Applications of Numerical Analysis and Machine Learning (2025)](https://www.cwi.nl/en/education/semester-programmes/cwi-research-semester-programs/synergies-in-numerical-linear-algebra-and-machine-learning/), Amsterdam, Netherlands.
 
 2025-12-07 to 10: [Winter Simulation Conference (WSC 2025)](https://meetings.informs.org/wordpress/wsc2025/ "WSC 2025 explores simulation, covering discrete-event simulation, agent-based modeling, and Monte Carlo methods. Topics include applications in logistics, healthcare, and manufacturing, emphasizing computational techniques for modeling and analyzing complex systems and decision-making processes."), Seattle, WA, USA.
 
-2026-02-02 to 06: [Randomized Numerical Linear Algebra Workshop](https://icerm.brown.edu/program/semester_program_workshop/sp-s26-w1 "This workshop explores randomized numerical linear algebra, covering randomized SVD, sketching, and matrix factorization. Topics include applications in data science, machine learning, and scientific computing, emphasizing computational techniques for efficient large-scale linear algebra operations."), Providence, RI, USA.
+2026-02-02 to 06: [Randomized Numerical Linear Algebra Workshop (2026)](https://icerm.brown.edu/program/semester_program_workshop/sp-s26-w1 "This workshop explores randomized numerical linear algebra, covering randomized SVD, sketching, and matrix factorization. Topics include applications in data science, machine learning, and scientific computing, emphasizing computational techniques for efficient large-scale linear algebra operations."), Providence, RI, USA.
+
+2026-06-08 to 12: [SMAI-SIGMA 11th International Conference on Curves and Surfaces (CS 2026)](https://cs2026.sciencesconf.org/), Saint-Malo, France.
 
 2026-06-08 to 12: [SMAI-SIGMA 11th International Conference on Curves and Surfaces (CS 2026)](https://cs2026.sciencesconf.org/), Saint-Malo, France.
 
