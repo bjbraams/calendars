@@ -6,3 +6,5 @@
 
 2025-05-03 to 08: [International Joint Conferences on Theory and Practice of Software (ETAPS 2025)](https://etaps.org/2025/ "ETAPS 2025 explores software science and engineering, covering semantics, verification, and programming languages. Topics include formal methods, model checking, and software synthesis, with applications in security, concurrency, and AI, emphasizing theoretical and practical software advancements."), Hamilton, ON, Canada. Incorporating ESOP, FASE, FoSSaCS, TACAS
 
+2025-05-19 to 23: [24th International Conference on Autonomous Agents and Multiagent Systems (AAMAS 2025)](https://aamas2025.org/ "AAMAS 2025 explores autonomous agents and multiagent systems, focusing on distributed AI, game theory, and agent coordination. Topics include reinforcement learning, auction mechanisms, and applications in robotics and smart grids, emphasizing scalable and robust multiagent algorithms."), Detroit, MI, USA.
+

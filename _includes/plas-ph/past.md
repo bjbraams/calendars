@@ -24,3 +24,5 @@
 
 2025-05-12 to 23: [Joint ICTP-IAEA Fusion Energy School (2025)](https://indico.ictp.it/event/10834 "This school explores fusion energy, focusing on plasma physics, magnetic confinement, and fusion reactor technologies. Topics include tokamak and stellarator physics, plasma instabilities, and fusion diagnostics, with applications in sustainable energy, emphasizing theoretical and experimental training."), Trieste, Italy.
 
+2025-05-19 to 22: [25th Topical Conference on Radio-Frequency Power in Plasmas (RFPPC 2025)](https://ipp.mpg.de/rfppc2025 "RFPPC 2025 focuses on radio-frequency power in plasmas, covering RF heating, current drive, and plasma diagnostics. Topics include ion cyclotron resonance, RF wave propagation, and applications in magnetic fusion devices, emphasizing advancements in plasma control for fusion energy."), Schloss Hohenkammer (near Munich), Germany.
+

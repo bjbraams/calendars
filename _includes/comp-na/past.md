@@ -22,3 +22,5 @@
 
 2025-05-11 to 15: [SIAM Conference on Applications of Dynamical Systems (DS 2025)](https://siam.org/conferences-events/siam-conferences/ds25 "DS 2025 focuses on dynamical systems, covering nonlinear dynamics, chaos, and stochastic differential equations. Topics include bifurcation analysis, synchronization, and applications in neuroscience, climate modeling, and engineering, emphasizing computational and analytical approaches to complex dynamics."), Denver, CO, USA.
 
+2025-05-19 to 22: [Shanks Conference Constructive Functions 2025](https://my.vanderbilt.edu/constructivefunctions2025/ "This conference focuses on constructive functions, covering approximation theory, orthogonal polynomials, and numerical analysis. Topics include function reconstruction, computational harmonic analysis, and applications in signal processing and scientific computing, emphasizing mathematical tools for constructive approximations."), Nashville, TN, USA.
+

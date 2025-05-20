@@ -32,3 +32,5 @@
 
 2025-05-12 to 16: [Workshop on Geometry, Probability, and Algorithms (2025)](https://www.icts.res.in/discussion-meeting/gpa25 "This workshop explores intersections of geometry, probability, and algorithms, covering random geometric structures, probabilistic algorithms, and discrete geometry. Topics include random graphs, convex optimization, and applications in data science and network analysis, emphasizing interdisciplinary mathematical approaches."), ICTS, Bengaluru, India.
 
+2025-05-19 to 23: [Probability and Mathematical Physics. Walks, Spins, Loops, Fields (2025)](https://bernoulli.epfl.ch/programs/probability-and-mathematical-physics-walks-spins-loops-fields/ "This conference focuses on probability and mathematical physics, covering random walks, spin systems, and random fields. Topics include percolation, Ising models, and applications in statistical mechanics and quantum field theory, emphasizing probabilistic structures in physical systems."), Lausanne, Switzerland.
+

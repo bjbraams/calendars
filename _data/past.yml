@@ -1556,3 +1556,122 @@
   loc: Eindhoven, The Netherlands
   kw: plas-ig
   excerpt: ICPDP 2025 focuses on dusty plasma physics, covering particle charging, plasma-surface interactions, and dust dynamics. Topics include dusty plasma instabilities, applications in astrophysics, and plasma processing for nanotechnology, emphasizing experimental and theoretical insights into complex plasma systems.
+- id: ASA-SMIC2025
+  dd: 2025-05-19 to 21
+  name: ASA Statistical Methods in Imaging Conference (SMI 2025)
+  link: https://statistics.rice.edu/events/2025-statistical-methods-imaging-conference
+  loc: Houston, TX, USA
+  kw: stat-me
+  excerpt: SMI 2025 explores statistical methods in imaging, focusing on image analysis, segmentation, and reconstruction. Topics include Bayesian approaches, machine learning for medical imaging, and spatial statistics, with applications in MRI, CT, and neuroscience, emphasizing robust statistical tools for imaging data.
+- id: ICERM-WAMSDSE2025
+  dd: 2025-05-19 to 21
+  name: ICERM Workshop Applied Math in Statistics and Data Science Education (2025)
+  link: https://icerm.brown.edu/program/hot_topics_workshop/htw-25-amsdse
+  loc: Providence, RI, USA
+  kw: stat-ml
+  excerpt: This workshop focuses on applied mathematics in statistics and data science education, covering curriculum development, machine learning, and statistical modeling. Topics include data-driven pedagogy, computational statistics, and applications in interdisciplinary education, emphasizing innovative teaching strategies for data science.
+- id: 20DDFIW2025
+  dd: 2025-05-19 to 22
+  name: 20th Direct Drive and Fast Ignition Workshop (DDFIW 2025)
+  link: https://indico.gsi.de/event/21177/
+  loc: Darmstadt, Germany
+  kw: plas-am
+  excerpt: DDFIW 2025 explores direct drive and fast ignition in inertial fusion, focusing on laser-plasma interactions and high-energy-density physics. Topics include implosion dynamics, ignition schemes, and computational modeling, with applications in fusion energy, emphasizing experimental and theoretical advancements.
+- id: 25RFPPC2025
+  dd: 2025-05-19 to 22
+  name: 25th Topical Conference on Radio-Frequency Power in Plasmas (RFPPC 2025)
+  link: https://ipp.mpg.de/rfppc2025
+  loc: Schloss Hohenkammer (near Munich), Germany
+  kw: plas-ph
+  excerpt: RFPPC 2025 focuses on radio-frequency power in plasmas, covering RF heating, current drive, and plasma diagnostics. Topics include ion cyclotron resonance, RF wave propagation, and applications in magnetic fusion devices, emphasizing advancements in plasma control for fusion energy.
+- id: MLCMS2025
+  dd: 2025-05-19 to 22
+  name: Machine Learning in Chemical and Material Sciences (MLCM 2025)
+  link: https://web.cvent.com/event/d74fa979-47ee-4882-8618-7a5b22632953/summary/
+  loc: Santa Fe, NM, USA
+  kw: comp-ml
+  excerpt: MLCM 2025 explores machine learning in chemical and material sciences, focusing on neural networks for property prediction and reaction modeling. Topics include generative models, high-throughput screening, and applications in drug discovery and materials design, emphasizing data-driven scientific discovery.
+- id: SCCF2025
+  dd: 2025-05-19 to 22
+  name: Shanks Conference Constructive Functions 2025
+  link: https://my.vanderbilt.edu/constructivefunctions2025/
+  loc: Nashville, TN, USA
+  kw: comp-na
+  excerpt: This conference focuses on constructive functions, covering approximation theory, orthogonal polynomials, and numerical analysis. Topics include function reconstruction, computational harmonic analysis, and applications in signal processing and scientific computing, emphasizing mathematical tools for constructive approximations.
+- id: 20PFMC2025
+  dd: 2025-05-19 to 23
+  name: 20th International Conference on Plasma-Facing Materials and Components for Fusion Applications (PFMC 2025)
+  link: https://pfmc20.com
+  loc: Ljubljana, Slovenia
+  kw: +plas-pm
+  excerpt: PFMC 2025 focuses on plasma-facing materials for fusion, covering material erosion, tritium retention, and thermal properties. Topics include tungsten alloys, liquid metals, and computational modeling of plasma-material interactions, emphasizing durable materials for fusion reactor environments.
+- id: 24AAMAS2025
+  dd: 2025-05-19 to 23
+  name: 24th International Conference on Autonomous Agents and Multiagent Systems (AAMAS 2025)
+  link: https://aamas2025.org/
+  loc: Detroit, MI, USA
+  kw: cs-oh
+  excerpt: AAMAS 2025 explores autonomous agents and multiagent systems, focusing on distributed AI, game theory, and agent coordination. Topics include reinforcement learning, auction mechanisms, and applications in robotics and smart grids, emphasizing scalable and robust multiagent algorithms.
+- id: 24ICRM2025
+  dd: 2025-05-19 to 23
+  name: 24th International Conference on Radionuclide Metrology and Applications (ICRM 2025)
+  link: https://icrm2025.org
+  loc: Paris, France
+  kw: nuclear
+  excerpt: ICRM 2025 focuses on radionuclide metrology, covering measurement techniques, decay data, and standardization. Topics include low-level radioactivity, nuclear forensics, and applications in environmental monitoring and medical isotopes, emphasizing precision in nuclear measurement methodologies.
+- id: IEEE-41ICDE2025
+  dd: 2025-05-19 to 23
+  name: 41st IEEE International Conference on Data Engineering (ICDE 2025)
+  link: https://ieee-icde.org/2025/
+  loc: Hong Kong, China
+  kw: stat-ml
+  excerpt: ICDE 2025 explores data engineering, focusing on big data management, machine learning integration, and data analytics. Topics include graph databases, data privacy, and real-time processing, with applications in AI and IoT, emphasizing scalable data systems and algorithms.
+- id: 7IEMLW2025
+  dd: 2025-05-19 to 23
+  name: 7th Inter-Experiment Machine Learning Workshop (2025)
+  link: https://indico.cern.ch/event/1502120/
+  loc: CERN, Geneva, Switzerland
+  kw: comp-ml
+  excerpt: This workshop focuses on machine learning for high-energy physics, covering neural networks for particle identification and event reconstruction. Topics include deep learning, uncertainty quantification, and applications in collider experiments, emphasizing collaborative ML advancements across experiments.
+- id: IMSI-WUQMLCPS2025
+  dd: 2025-05-19 to 23
+  name: IMSI Workshop Uncertainty Quantification and Machine Learning for Complex Physical Systems (2025)
+  link: https://imsi.institute/activities/uncertainty-quantification-and-ai-for-complex-systems/uncertainty-quantification-and-machine-learning-for-complex-physical-systems/
+  loc: Chicago, IL, USA
+  kw: comp-uq
+  excerpt: This workshop explores uncertainty quantification and machine learning for physical systems, covering Bayesian methods and surrogate models. Topics include uncertainty propagation, physics-informed neural networks, and applications in fluid dynamics and materials, emphasizing robust computational frameworks.
+- id: IReNA-CeNAM-FNAM2025
+  dd: 2025-05-19 to 23
+  name: IReNA-CeNAM Frontiers in Nuclear Astrophysics Meeting (CeNAM 2025)
+  link: https://sites.ohio.edu/cenam-2025/
+  loc: Athens, OH, USA
+  kw: nuclear
+  excerpt: CeNAM 2025 focuses on nuclear astrophysics, covering nucleosynthesis, stellar explosions, and nuclear reactions. Topics include reaction rates, neutron star physics, and computational astrophysics, with applications in understanding cosmic element formation, emphasizing experimental and theoretical progress.
+- id: ICORS2025
+  dd: 2025-05-19 to 23
+  name: International Conference on Robust Statistics (ICORS 2025)
+  link: http://datascience.maths.unitn.it/icors2025/
+  loc: Stresa (VA), Italy
+  kw: stat-me
+  excerpt: ICORS 2025 explores robust statistics, focusing on outlier-resistant methods and high-dimensional inference. Topics include robust regression, multivariate analysis, and applications in finance and bioinformatics, emphasizing statistical techniques for reliable data analysis in noisy environments.
+- id: LSBNSM2025
+  dd: 2025-05-19 to 23
+  name: Leuven School on Basics of Nonequilibrium Statistical Mechanics (2025)
+  link: https://indico.fys.kuleuven.be/event/106/
+  loc: Leuven, Belgium
+  kw: stoch
+  excerpt: This school explores nonequilibrium statistical mechanics, covering stochastic thermodynamics, fluctuation relations, and entropy production. Topics include applications in biophysics, active matter, and complex systems, emphasizing foundational probabilistic models for nonequilibrium phenomena.
+- id: PMPWSLF2025
+  dd: 2025-05-19 to 23
+  name: Probability and Mathematical Physics. Walks, Spins, Loops, Fields (2025)
+  link: https://bernoulli.epfl.ch/programs/probability-and-mathematical-physics-walks-spins-loops-fields/
+  loc: Lausanne, Switzerland
+  kw: prob
+  excerpt: This conference focuses on probability and mathematical physics, covering random walks, spin systems, and random fields. Topics include percolation, Ising models, and applications in statistical mechanics and quantum field theory, emphasizing probabilistic structures in physical systems.
+- id: WSRPFSGAML2025
+  dd: 2025-05-19 to 23
+  name: Workshop Signatures and Rough Paths From Stochastics, Geometry and Algebra to Machine Learning (2025)
+  link: https://www.icms.org.uk/SGAtoML
+  loc: Edinburgh, UK
+  kw: stoch
+  excerpt: This workshop explores signatures and rough paths, bridging stochastic analysis, geometry, and machine learning. Topics include rough path theory, signature-based feature extraction, and applications in time-series analysis and finance, emphasizing mathematical tools for complex data modeling.

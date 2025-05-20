@@ -28,3 +28,7 @@
 
 2025-05-12 to 16: [Lausanne Event on Machine Learning and Neural Network Theory (LemanTh 2025)](https://lemanth2025.github.io/ "LemanTh 2025 explores machine learning and neural network theory, covering deep learning theory, generalization bounds, and optimization landscapes. Topics include neural architecture design, robustness, and applications in vision and language, emphasizing theoretical foundations of machine learning."), Lausanne, Switzerland.
 
+2025-05-19 to 21: [ICERM Workshop Applied Math in Statistics and Data Science Education (2025)](https://icerm.brown.edu/program/hot_topics_workshop/htw-25-amsdse "This workshop focuses on applied mathematics in statistics and data science education, covering curriculum development, machine learning, and statistical modeling. Topics include data-driven pedagogy, computational statistics, and applications in interdisciplinary education, emphasizing innovative teaching strategies for data science."), Providence, RI, USA.
+
+2025-05-19 to 23: [41st IEEE International Conference on Data Engineering (ICDE 2025)](https://ieee-icde.org/2025/ "ICDE 2025 explores data engineering, focusing on big data management, machine learning integration, and data analytics. Topics include graph databases, data privacy, and real-time processing, with applications in AI and IoT, emphasizing scalable data systems and algorithms."), Hong Kong, China.
+

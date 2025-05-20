@@ -18,3 +18,7 @@
 
 2025-05-05 to 08: [CECAM Flagship Workshop Machine Learning for Materials Discovery (ML4MD 2025)](https://sites.utu.fi/ml4md2025/ "ML4MD 2025 focuses on machine learning for materials discovery, covering neural networks for property prediction, generative models, and high-throughput screening. Topics include alloy design, battery materials, and applications in energy technologies, emphasizing data-driven materials innovation."), Aalto University, Espoo, Finland.
 
+2025-05-19 to 22: [Machine Learning in Chemical and Material Sciences (MLCM 2025)](https://web.cvent.com/event/d74fa979-47ee-4882-8618-7a5b22632953/summary/ "MLCM 2025 explores machine learning in chemical and material sciences, focusing on neural networks for property prediction and reaction modeling. Topics include generative models, high-throughput screening, and applications in drug discovery and materials design, emphasizing data-driven scientific discovery."), Santa Fe, NM, USA.
+
+2025-05-19 to 23: [7th Inter-Experiment Machine Learning Workshop (2025)](https://indico.cern.ch/event/1502120/ "This workshop focuses on machine learning for high-energy physics, covering neural networks for particle identification and event reconstruction. Topics include deep learning, uncertainty quantification, and applications in collider experiments, emphasizing collaborative ML advancements across experiments."), CERN, Geneva, Switzerland.
+

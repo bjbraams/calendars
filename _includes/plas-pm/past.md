@@ -1,0 +1,2 @@
+**2025-05-19 to 23: [20th International Conference on Plasma-Facing Materials and Components for Fusion Applications (PFMC 2025)](https://pfmc20.com "PFMC 2025 focuses on plasma-facing materials for fusion, covering material erosion, tritium retention, and thermal properties. Topics include tungsten alloys, liquid metals, and computational modeling of plasma-material interactions, emphasizing durable materials for fusion reactor environments."), Ljubljana, Slovenia**.
+

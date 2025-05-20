@@ -10,3 +10,5 @@
 
 2025-05-12 to 15: [8th International Conference on Matter and Radiation at Extremes (2025)](http://icmre2025.mre.org.cn/en-us/ "This conference focuses on matter and radiation at extremes, covering high-energy-density physics, laser-plasma interactions, and relativistic plasmas. Topics include inertial confinement fusion, astrophysical plasmas, and extreme material states, emphasizing experimental and computational advancements."), Xi'an, China.
 
+2025-05-19 to 22: [20th Direct Drive and Fast Ignition Workshop (DDFIW 2025)](https://indico.gsi.de/event/21177/ "DDFIW 2025 explores direct drive and fast ignition in inertial fusion, focusing on laser-plasma interactions and high-energy-density physics. Topics include implosion dynamics, ignition schemes, and computational modeling, with applications in fusion energy, emphasizing experimental and theoretical advancements."), Darmstadt, Germany.
+
