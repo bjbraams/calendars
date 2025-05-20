@@ -1,9 +1,4 @@
-<head>
-  <meta charset="UTF-8">
-  <link rel="stylesheet" href="assets/style.css">
-</head>
-
-{% assign basename = {{page.name|remove:".md"}} %}
+{% assign basename = page.path | replace: '/index.md' | '' %}
 
 <!-- An html comment -->
 
