@@ -22,6 +22,9 @@ comp-na:
 comp-op:
   title: Numerical Optimization, Operational Research and Control
   excerpt: Primarily continuous optimization.
+comp-ot:
+  title: Computational Science and Engineering, Other
+  excerpt: Any CSE that does not belong in the more focused comp-* pages.
 comp-qc:
   title: Quantum Computing for Computational Science
   excerpt: Quantum computing and quantum algorithms for applications.
