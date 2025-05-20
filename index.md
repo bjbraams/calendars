@@ -1,7 +1,7 @@
-<head>
-  <link rel="stylesheet" href="assets/style.css">
-  <meta name="google-site-verification" content="-TclahrTImXSL7tMHLFb3wUP8ne2e1MvaT5MyUA5msA" />
-</head>
+---
+layout: default
+title: Calendars Home
+---
 
 {% assign baseurl = "https://bjbraams.github.io/calendars" %}
 
