@@ -19,26 +19,26 @@
 
 ## Highlights
 
-{% include {{basename}}/highlights.md %}
+{% include {{basename}}/_includes/highlights.md %}
 
 ## Latest Additions
 
-Newly added information is shown here for about two months in reverse order of time of addition.
+Reserved space to show newly added information.
 
-{% include {{basename}}/new.md %}
+{% include {{basename}}/_includes/new.md %}
 
 ## Future Meetings
 
-{% include {{basename}}/future.md %}
+{% include {{basename}}/_includes/future.md %}
 
 ## Other Meeting Lists
 
-{% include {{basename}}/lists.md %}
+{% include {{basename}}/_includes/lists.md %}
 
 ## Selected Serial Meetings
 
-{% include {{basename}}/series.md %}
+{% include {{basename}}/_includes/series.md %}
 
 ## Past Meetings
 
-{% include {{basename}}/past.md %}
+{% include {{basename}}/_includes/past.md %}
