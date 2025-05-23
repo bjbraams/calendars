@@ -22,7 +22,7 @@
 
 2025-07-14 to 18: [22nd International Conference on Quantum Physics and Logic (QPL 2025)](https://qpl2025.github.io "QPL 2025 explores quantum physics and logic, covering quantum programming, categorical quantum mechanics, and quantum foundations. Topics include quantum algorithms, entanglement theory, and applications in quantum computing, emphasizing logical and theoretical quantum information frameworks."), Varna, Bulgaria.
 
-2025-07-15 to 08-22: [CEMRACS International Summer School on Quantum Computing (2025)](https://cemracs2025.math.cnrs.fr/en/), Marseille, France.
+2025-07-15 to 08-22: [CEMRACS International Summer School on Quantum Computing (2025)](https://cemracs2025.math.cnrs.fr/en/ "Focuses on quantum computing, covering algorithms, quantum information theory, and computational methods. Topics include quantum simulation, error correction, and applications in physics and cryptography."), Marseille, France.
 
 2025-07-21 to 25: [Advances in Quantum Control - Techniques, Applications, and Challenges (2025)](https://pks.mpg.de/aqute25 "This conference focuses on quantum control, covering coherent control, quantum feedback, and optimal control techniques. Topics include quantum computing, quantum sensing, and applications in quantum technologies, emphasizing theoretical and experimental quantum control advancements."), Dresden, Germany.
 

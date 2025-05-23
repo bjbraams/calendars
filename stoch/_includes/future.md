@@ -54,7 +54,7 @@
 
 2025-08-25 to 27: [19th International Symposium on Spatial and Temporal Data (SSTD 2025)](https://sstd2025.github.io/ "SSTD 2025 focuses on spatial and temporal data, covering geospatial analytics, time-series modeling, and stochastic processes. Topics include applications in urban planning, environmental monitoring, and mobility analysis, emphasizing computational methods for spatiotemporal data analysis."), Osaka, Japan.
 
-2025-08-25 to 29: [International Symposium on Stochastic Processes and Complex Systems (2025)](https://www.tfc.tohoku.ac.jp/event/4308.html), Tokyo, Japan.
+2025-08-25 to 29: [International Symposium on Stochastic Processes and Complex Systems (2025)](https://www.tfc.tohoku.ac.jp/event/4308.html "Explores stochastic processes and complex systems. Topics include Markov processes, random networks, and applications in physics, biology, and data science."), Tokyo, Japan.
 
 2025-08-25 to 29: [SLMath Introductory Workshop Kinetic Theory & Stochastic Partial Differential Equations (2025)](https://legacy.slmath.org/workshops/1117 "This workshop explores kinetic theory and stochastic PDEs, covering transport equations, stochastic processes, and numerical methods. Topics include applications in plasma physics, fluid dynamics, and biological modeling, emphasizing probabilistic and computational approaches to stochastic systems."), Berkeley, CA, USA.
 

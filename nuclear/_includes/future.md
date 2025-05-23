@@ -54,5 +54,5 @@
 
 2026-08-30 to 09-06: [59th Zakopane Conference on Nuclear Physics (Zakopane 2026)](https://zakopane2026.ifj.edu.pl "Zakopane 2026 focuses on nuclear physics, covering nuclear structure, reactions, and astrophysics. Topics include quark-gluon plasma, nuclear spectroscopy, and neutrino physics, emphasizing experimental and theoretical advances in understanding nuclear phenomena and applications."), Kraków, Poland.
 
-2027 tbd: [EPS Nuclear Physics Division European Nuclear Physics Conference (EuNPC 2027)](https://members.eps.org/blogpost/739426/509153/Call-for-bids-European-Nuclear-Physics-Conference-2027-EuNPC-2027), tbd. Provisional Link.
+2027 tbd: [EPS Nuclear Physics Division European Nuclear Physics Conference (EuNPC 2027)](https://members.eps.org/blogpost/739426/509153/Call-for-bids-European-Nuclear-Physics-Conference-2027-EuNPC-2027 "Explores advancements in nuclear physics. Topics include nuclear structure, reactions, and computational modeling, with applications in particle physics and astrophysics."), tbd. Provisional Link.
 

@@ -46,6 +46,7 @@ SIAMALENEX2025:
   link: https://www.siam.org/conferences-events/past-event-archive/alenex25/
   loc: New Orleans, LA, USA
   kw: cs-al
+  excerpt: Focuses on algorithm engineering, combining theoretical algorithm design with practical implementation. Topics include data structures, graph algorithms, combinatorial optimization, and experimental techniques for evaluating algorithmic performance in real-world applications.
 SIAMSODA2025:
   dd: 2025-01-12 to 15
   name: SIAM Symposium on Discrete Algorithms (SODA 2025)
@@ -66,12 +67,14 @@ SIAMSOSA2025:
   link: https://www.siam.org/conferences-events/past-event-archive/sosa25/
   loc: New Orleans, LA, USA
   kw: cs-al
+  excerpt: Explores the design and analysis of simple, elegant algorithms for complex computational problems. Topics include approximation algorithms, randomized algorithms, and efficient data structures, emphasizing clarity and practical applicability in algorithm development.
 4ICVAO2025:
   dd: 2025-01-14 to 17
   name: 4th International Conference on Variational Analysis and Optimization (2025)
   link: https://eventos.cmm.uchile.cl/lopezcerda2025/
   loc: Santiago, Chile
   kw: comp-op
+  excerpt: Covers variational analysis, optimization theory, and applications. Key topics include nonsmooth optimization, variational inequalities, optimal control, and equilibrium problems, with a focus on mathematical modeling and computational methods for complex systems.
 ISCNSX2025:
   dd: 2025-01-14 to 17
   name: International School and Conference on Network Science (NetSciX 2025)
@@ -169,6 +172,7 @@ IMSIWSROM2025:
   link: https://www.imsi.institute/activities/reduced-order-modeling-for-complex-engineering-problems-from-analysis-to-practical-implementation/
   loc: Chicago, IL, USA
   kw: comp-ml
+  excerpt: Introduces reduced-order modeling for engineering systems, focusing on machine learning techniques, data-driven approaches, and computational efficiency. Topics include model reduction, uncertainty quantification, and applications in fluid dynamics and structural mechanics.
 WIASWCBSPS2025:
   dd: 2025-01-29 to 31
   name: WIAS Workshop on Critical Behaviour in Spatial Particle Systems (2025)
@@ -210,12 +214,14 @@ IMSIWROMCEP2025:
   link: https://www.imsi.institute/activities/reduced-order-modeling-for-complex-engineering-problems-from-analysis-to-practical-implementation/
   loc: Chicago, IL, USA
   kw: comp-ml
+  excerpt: Explores advanced reduced-order modeling techniques, emphasizing machine learning and data-driven methods. Topics include high-dimensional systems, computational efficiency, and applications in engineering, such as aerodynamics, structural analysis, and control systems.
 TSCANMHE2025:
   dd: 2025-02-03 to 07
   name: Short Course on Advanced Numerical Methods for Hyperbolic Equations 2025
   link: https://eventi.unitn.it/en/short-course-advanced-numerical-methods-hyperbolic-equations-2025
   loc: Trento, Italy
   kw: comp-fd
+  excerpt: Focuses on numerical methods for solving hyperbolic partial differential equations. Topics include finite volume methods, discontinuous Galerkin schemes, and high-order approximations, with applications in fluid dynamics, wave propagation, and conservation laws.
 29LSDLAW2025:
   dd: '2025-02-05'
   name: 29th London Stringology Days & London Algorithmic Workshop (LSD & LAW)
@@ -229,6 +235,7 @@ EMSTAGMMAC2025:
   link: https://www.karlin.mff.cuni.cz/~prusv/ncmm/conference/mixtures/
   loc: Prague, Czech Republic
   kw: comp-fd
+  excerpt: Examines mathematical modeling and computational methods for mixture problems. Topics include multiphase flows, mixture models in fluid dynamics, and numerical simulations for complex systems in physics and engineering.
 CAIQS2025:
   dd: 2025-02-09 to 14
   name: Conference on Artificial Intelligence and Quantum Science (AI+Quantum 2025)
@@ -328,6 +335,7 @@ CMMWA2025:
   link: https://www.m2a25-conference.ma/
   loc: Marrakesh, Morocco
   kw: comp-na
+  excerpt: Explores mathematical modeling in applied mathematics, focusing on numerical analysis, linear algebra, and optimization. Topics include iterative methods, preconditioning techniques, and applications in scientific computing and engineering.
 4QMMS2025:
   dd: 2025-02-19 to 20
   name: 4th Quantum Matters in Materials Science Workshop (QMMS 2025)
@@ -341,6 +349,7 @@ CMMWA2025:
   link: https://www.mathmod.at/
   loc: Vienna, Austria
   kw: comp-ot
+  excerpt: Covers mathematical modeling and simulation across disciplines. Topics include system dynamics, control theory, optimization, and numerical methods, with applications in engineering, physics, and biology.
 64SSQCT2025:
   dd: 2025-02-23 to 28
   name: 64th Sanibel Symposium on Quantum Chemical Theory (2025)
@@ -643,6 +652,7 @@ IRPPCHMNASC2025:
   link: https://indico.math.cnrs.fr/event/13192/
   loc: Málaga, Spain
   kw: comp-na
+  excerpt: Focuses on hyperbolic partial differential equations and numerical methods. Topics include finite difference schemes, stability analysis, and applications in fluid dynamics, wave propagation, and scientific computing.
 CAI4QAQCWAI2025:
   dd: 2025-03-24 to 28
   name: Conference AI4Quantum - Accelerating Quantum Computing With AI (2025)
@@ -689,8 +699,9 @@ EMCMFFB2025:
   dd: 2025-03-25 to 28
   name: EuroMech Colloquium 659 on Metamaterials in Fluid Flows and Beyond (2025)
   link: http://659.euromech.org/
-  loc: Groningen, Netherlans
+  loc: Groningen, Netherlands
   kw: comp-fd
+  excerpt: Explores the role of metamaterials in fluid mechanics and related fields. Topics include wave manipulation, fluid-structure interactions, and computational modeling of metamaterials in aerodynamics and acoustics.
 SCIBDFFP2025:
   dd: 2025-03-27 to 28
   name: Symposium Can Ice Be Described From First Principles? (2025)
@@ -753,6 +764,7 @@ CTIIAAI2025:
   link: https://ctiai.github.io/
   loc: London, UK
   kw: comp-in
+  excerpt: Focuses on AI-driven computational techniques for imaging. Topics include machine learning for image reconstruction, inverse problems, and applications in medical imaging, computer vision, and scientific visualization.
 WASSMMTA2025:
   dd: 2025-04-01 to 04
   name: 'Workshop Algebraic Statistics and the Study of Multistate Models: Theory and Applications (2025)'
@@ -773,6 +785,7 @@ EMCDDFM2025:
   link: https://629.euromech.org/
   loc: London, UK
   kw: comp-fd
+  excerpt: Explores data-driven approaches in fluid mechanics, integrating machine learning and computational modeling. Topics include turbulence modeling, flow prediction, and applications in aerodynamics and environmental flows.
 IEEE4ICCMI2025:
   dd: 2025-04-05 to 06
   name: IEEE 4th International Conference on Computing and Machine Intelligence (ICMI 2025)
@@ -814,12 +827,14 @@ CKETCB2025:
   link: https://bardos-85.sciencesconf.org/?lang=en
   loc: Gif-sur-Yvette, France
   kw: comp-fd
+  excerpt: Focuses on kinetic equations and turbulence modeling. Topics include Boltzmann equations, computational fluid dynamics, and turbulence simulation, with applications in physics and engineering.
 95AMGAMM2025:
   dd: 2025-04-07 to 11
   name: 95th Annual Meeting of the International Association of Applied Mathematics and Mechanics (GAMM 2025)
   link: https://jahrestagung.gamm.org/annual-meeting-2025/95th-annual-meeting-2/
   loc: Poznań, Poland
   kw: comp-ot
+  excerpt: Covers applied mathematics and mechanics, focusing on numerical methods, optimization, and continuum mechanics. Topics include computational mechanics, control theory, and applications in engineering and physics.
 CUWB4FSP2025:
   dd: 2025-04-07 to 11
   name: CUWB-IV Frontiers in Statistics and Probability (2025)
@@ -882,6 +897,7 @@ AngersCBP2025:
   link: https://site-branpers2025.apps.math.cnrs.fr/
   loc: Angers, France
   kw: prob
+  excerpt: Explores probabilistic models of branching processes and persistence. Topics include stochastic processes, random walks, and applications in population dynamics, epidemiology, and statistical physics.
 7ICSYMCOMP2025:
   dd: 2025-04-10 to 11
   name: 7th International Conference on Numerical and Symbolic Computation, Developments and Applications (SYMCOMP 2025)
@@ -937,6 +953,7 @@ WEYAWKADANAJKOS2025:
   link: https://indico.math.cnrs.fr/event/13361/
   loc: Villeurbanne, France
   kw: comp-na
+  excerpt: Focuses on numerical analysis for the JKO scheme, emphasizing discretization and approximation techniques. Topics include optimal transport, gradient flows, and applications in mathematical modeling and physics.
 BIRS-WFQCNFPF:
   dd: 2025-04-20 to 25
   name: 'BIRS Workshop Frontiers in Quantum Cryptography: New Functionalities, Primitives, and Foundations'
@@ -999,6 +1016,7 @@ CAPID2025:
   link: https://samo2025.sciencesconf.org/?lang=en
   loc: Grenoble, France
   kw: comp-uq
+  excerpt: Explores sensitivity analysis for model validation and uncertainty quantification. Topics include global sensitivity methods, variance-based techniques, and applications in engineering, environmental modeling, and decision-making.
 25EvoCOP2025:
   dd: 2025-04-23 to 25
   name: 25th European Conference on Evolutionary Computation in Combinatorial Optimisation (EvoCOP 2025)
@@ -1028,6 +1046,7 @@ EMCSBPNSM2025:
   link: https://647.euromech.org/
   loc: Glasgow, UK
   kw: comp-el
+  excerpt: Focuses on stability and bifurcation in nonlinear solid mechanics. Topics include material instabilities, structural dynamics, and computational methods for analyzing complex mechanical systems.
 ITERBF2025:
   dd: 2025-04-23 to 25
   name: ITER Business Forum (IBF 2025)
@@ -1198,12 +1217,14 @@ ANRADA-CTNAMSE2025:
   link: https://conf-ada.sciencesconf.org/
   loc: Lyon, France
   kw: comp-fd
+  excerpt: Examines theoretical and numerical methods for multi-scale equations. Topics include homogenization, finite element methods, and applications in fluid dynamics and material science.
 CTIP2025:
   dd: 2025-05-05 to 07
   name: Control Theory & Inverse Problems (CTIP 2025)
   link: https://ctip25.sciencesconf.org/?lang=en
   loc: Monastir, Tunesia
   kw: comp-in
+  excerpt: Focuses on control theory and inverse problems, exploring mathematical modeling and computational techniques. Topics include optimal control, parameter estimation, and applications in imaging and engineering.
 CECAM-FWML4MD2025:
   dd: 2025-05-05 to 08
   name: CECAM Flagship Workshop Machine Learning for Materials Discovery (ML4MD 2025)
@@ -1280,6 +1301,7 @@ GSRC-SC1IS2025:
   link: https://www.simscience2025.tu-clausthal.de/
   loc: Clausthal-Zellerfeld, Germany
   kw: comp-ot
+  excerpt: Covers simulation science, focusing on numerical modeling and optimization. Topics include computational physics, simulation-based design, and applications in engineering and natural sciences.
 CECAM-FWAMTEE2025:
   dd: 2025-05-07 to 09
   name: CECAM Flagship Workshop on Accurate Methods for Thermal and Excited Electrons (2025)
@@ -1405,6 +1427,7 @@ KMT2025ASMAACS:
   link: https://congresosalcala.fgua.es/jornadasalama/?idioma=en
   loc: Castro Urdiales, Cantabria, Spain
   kw: comp-in
+  excerpt: Explores linear algebra and matrix analysis, focusing on computational methods and applications. Topics include eigenvalue problems, matrix factorizations, and applications in data science and engineering.
 CECAM-FWSPICS2025:
   dd: 2025-05-14 to 16
   name: 'CECAM Flagship Workshop on Stochastics Processes: Inferences in Complex Systems (2025)'
@@ -1418,12 +1441,14 @@ IUTAM-SMLDFM2025:
   link: https://iutam.org/events/iutam-symposium-on-machine-learning-in-diverse-fluid-mechanics
   loc: Okinawa, Japan
   kw: comp-fd
+  excerpt: Integrates machine learning with fluid mechanics, focusing on data-driven modeling. Topics include turbulence prediction, flow optimization, and applications in aerodynamics and environmental flows.
 IUTAM-SMAWPEDS2025:
   dd: 2025-05-16 to 20
   name: IUTAM Symposium on Multiphysics Analysis of Wave Propagation in Electronic Device Structures (2025)
   link: https://iutam.org/events/6705
   loc: Ningbo, China
   kw: comp-el
+  excerpt: Examines multiphysics analysis of wave propagation in electronic devices. Topics include electromagnetic waves, material modeling, and computational methods for device design and performance optimization.
 10ICPDP2025:
   dd: 2025-05-18 to 22
   name: 10th International Conference on the Physics of Dusty Plasmas (ICPDP 2025)
@@ -1598,6 +1623,7 @@ EuroMech-DDMPS2025:
   link: https://656.euromech.org/
   loc: Gothenburg, Sweden
   kw: comp-el
+  excerpt: Focuses on data-driven approaches in solid mechanics, integrating machine learning and computational modeling. Topics include material characterization, structural analysis, and applications in engineering design.
 WRPDATDMS2025:
   dd: 2025-05-21 to 23
   name: Workshop on Recent Progress, Development, and Applications of Two-Dimensional Magnets in Spintronics (2025)
@@ -1618,6 +1644,7 @@ WRPDATDMS2025:
   link: https://dysyx2025.sciencesconf.org/
   loc: Kenitra, Morocco
   kw: comp-fd
+  excerpt: Explores nonlinear dynamical systems and complex networks. Topics include chaos theory, network dynamics, and applications in physics, biology, and engineering.
 11MQM2025:
   dd: 2025-05-23 to 28
   name: 11th Triennial Molecular Quantum Mechanics Conference (MQM 2025)
@@ -1722,6 +1749,7 @@ IUTAM-SSGCE2025:
   link: https://iutam.org/events/iutam-summer-school-on-gravity-currents-in-the-environment
   loc: Udine, Italy
   kw: comp-fd
+  excerpt: Focuses on gravity currents in environmental fluid mechanics. Topics include density-driven flows, numerical modeling, and applications in oceanography, meteorology, and environmental engineering.
 JETC2025:
   dd: 2025-05-26 to 30
   name: Joint European Thermodynamics Conference (JETC 2025)
@@ -1756,6 +1784,7 @@ EuroMechGMAMPS2025:
   link: https://640.euromech.org/
   loc: Rethymnon, Crete, Greece
   kw: comp-el
+  excerpt: Explores gradient mechanics in materials and processes. Topics include multiscale modeling, material gradients, and computational methods for analyzing mechanical behavior across scales.
 FMSSSML2025:
   dd: 2025-05-29 to 31
   name: First Maryland Summer School in Statistics and Machine Learning (2025)
@@ -1783,6 +1812,7 @@ IUTAM-SFDRUEE2025:
   link: https://iutam.org/events/iutam-symposium-on-failure-dynamics-and-resilience-under-extreme-events
   loc: Granada, Spain
   kw: comp-el
+  excerpt: Focuses on failure dynamics and resilience in materials under extreme conditions. Topics include fracture mechanics, computational modeling, and applications in structural engineering and disaster mitigation.
 WRAESRG2025:
   dd: 2025-06-01 to 05
   name: Workshop on Recent Advances in Evolving and Spatial Random Graphs (2025)
@@ -1810,6 +1840,7 @@ BIRS-WFPRMFDA2025:
   link: https://www.birs.ca/events/2025/5-day-workshops/25w5440
   loc: Oaxaca, Mexico
   kw: prob
+  excerpt: Explores free probability and random matrix theory. Topics include finite-dimensional approximations, operator algebras, and applications in statistical physics and quantum mechanics.
 32SIROCCO2025:
   dd: 2025-06-02 to 04
   name: 32nd International Colloquium on Structural Information and Communication Complexity (SIROCCO 2025)
@@ -1844,6 +1875,7 @@ IUTAMSNDSSGEC2025:
   link: https://iutam.org/events/iutam-symposium-on-nonlinear-dynamics-of-systems-and-structures-for-green-energy-conversion
   loc: Senigallia, Italy
   kw: comp-fd
+  excerpt: Focuses on nonlinear dynamics in green energy systems. Topics include vibrational energy harvesting, nonlinear structural dynamics, and computational modeling for renewable energy applications.
 3IWASEQP2025:
   dd: 2025-06-02 to 06
   name: 3rd International Workshop on the Art, Science, and Engineering of Quantum Programming (QP 2025)
@@ -1857,6 +1889,7 @@ IUTAMSNDSSGEC2025:
   link: http://www.law05.si/law25/
   loc: Portorož, Slovenia
   kw: comp-na
+  excerpt: Covers advances in linear algebra and numerical analysis. Topics include matrix theory, eigenvalue problems, and computational methods for large-scale systems in science and engineering.
 AIM-WMFSCBGP2025:
   dd: 2025-06-02 to 06
   name: AIM Workshop Mathematical Foundations of Sampling Connected Balanced Graph Partitions (2025)
@@ -2220,6 +2253,7 @@ Wicom2025:
   link: https://wicom.sciencesconf.org/
   loc: Paris, France
   kw: comp-in
+  excerpt: Explores wave propagation and imaging in complex media. Topics include inverse scattering, wave-based imaging, and applications in geophysics, medical imaging, and material science.
 26IPCO2025:
   dd: 2025-06-11 to 13
   name: 26th Conference on Integer Programming and Combinatorial Optimization (IPCO 2025)
@@ -2240,6 +2274,7 @@ MDCRLDM2025:
   link: https://rldm.org/
   loc: Dublin, UK
   kw: stat-ml
+  excerpt: Focuses on reinforcement learning and decision-making, integrating machine learning and cognitive science. Topics include algorithmic advancements, neural modeling, and applications in robotics and AI.
 WODCAWODCA2025:
   dd: 2025-06-11 to 14
   name: Workshop on Optimization, Dynamics and Convex Analysis (WODCA) (2025)
@@ -2302,6 +2337,7 @@ QWGAIMEE2025:
   link: https://gail.ed.ac.uk/news-and-events/events/generative-ai-modelling-for-extreme-events
   loc: Edinburgh, UK
   kw: stat-ml
+  excerpt: Explores generative AI for modeling extreme events. Topics include probabilistic modeling, data-driven forecasting, and applications in climate science, finance, and risk assessment.
 PAOW2025:
   dd: 2025-06-13 to 15
   name: Portuguese American Optimization Workshop (PAOW 2025)
@@ -2378,6 +2414,7 @@ IUTAM-SFMFM2025:
   link: https://iutam.org/events/iutam-symposium-on-fundamental-mechanics-for-future-microfluidics
   loc: Manchester, UK
   kw: comp-fd
+  excerpt: Focuses on mechanics in microfluidics, emphasizing computational and experimental approaches. Topics include microscale flow dynamics, lab-on-chip systems, and applications in biomedical engineering.
 SRNW2025:
   dd: 2025-06-16 to 18
   name: Stochastic Reaction Networks Workshop (2025)
@@ -2398,6 +2435,7 @@ VIECRYPT2025:
   link: https://4th-nlepde-hf.sciencesconf.org/
   loc: Calais, France
   kw: tbd
+  excerpt: Explores nonlinear elliptic partial differential equations. Topics include existence and regularity of solutions, numerical methods, and applications in physics, biology, and material science.
 CESP2025:
   dd: 2025-06-16 to 19
   name: Conference on Excited State Processes (ESP 2025)
@@ -2432,6 +2470,7 @@ UKAEA-FISYC2025:
   link: https://www.discotec.org/2025/
   loc: Lille, France
   kw: cs-oh
+  excerpt: Covers distributed computing techniques, focusing on concurrency, coordination, and formal methods. Topics include distributed algorithms, cloud computing, and applications in networked systems.
 2CRMTNLA2025:
   dd: 2025-06-16 to 20
   name: 2nd Conference on Random Matrix Theory and Numerical Linear Algebra (2025)
@@ -2466,6 +2505,7 @@ CDGAERigoli2025:
   link: https://sites.google.com/view/dgaemi25
   loc: Milan, Italy
   kw: tbd
+  excerpt: Explores differential geometry, analysis, and epistemology. Topics include geometric analysis, PDEs on manifolds, and mathematical philosophy, with applications in physics and geometry.
 HSM-STSSMSGNNL2025:
   dd: 2025-06-16 to 20
   name: HSM Special Topic School on Statistical Mechanics of Spin Glasses, Neural Networks and Learning (2025)
@@ -2843,12 +2883,14 @@ EURMINT-SSCIPST2025:
   link: https://indico.math.cnrs.fr/event/12766/
   loc: Toulouse, France
   kw: comp-in
+  excerpt: Focuses on control theory, inverse problems, and spectral analysis. Topics include PDE control, spectral methods, and applications in imaging, engineering, and mathematical physics.
 SSIPAIM2025:
   dd: 2025-06-23 to 27
   name: Summer School on Inverse Problems and Artificial Intelligence in Medicine (2025)
   link: https://bathsymposium.ac.uk/symposium/inverse-problems-and-artificial-intelligence-in-medicine/
   loc: Bath, UK
   kw: comp-in
+  excerpt: Explores AI-driven inverse problems in medical applications. Topics include image reconstruction, parameter estimation, and machine learning techniques for medical imaging and diagnostics.
 WADDE2025:
   dd: 2025-06-23 to 27
   name: Workshop Atmospheric Discharges in Dynamic Environments (2025)
@@ -2939,6 +2981,7 @@ IUTAM-SCM2025:
   link: https://iutam.org/events/iutam-symposium-on-chemo-mechanics
   loc: Oxford, UK
   kw: comp-fd
+  excerpt: Examines chemo-mechanics, focusing on coupled chemical and mechanical processes. Topics include reactive flows, material degradation, and computational modeling in engineering and biology.
 CECAM-CRLQCRLQC2025:
   dd: 2025-06-29 to 07-03
   name: CECAM Conference Reusable Libraries for Quantum Chemistry (ReLibQC 2025)
@@ -3050,6 +3093,7 @@ ITER-14IIS2025:
   link: https://automata-wan-2025.univ-lille.fr/
   loc: Lille, France
   kw: cs-oh
+  excerpt: Explores cellular automata and discrete complex systems. Topics include computational models, network dynamics, and applications in physics, biology, and computer science.
 38COLT2025:
   dd: 2025-06-30 to 07-04
   name: 38th Annual Conference on Learning Theory (COLT 2025)
@@ -3070,18 +3114,21 @@ ADYN-SSADIFN2025:
   link: https://eac.cs.tu-dortmund.de/adyn-summerschool-2025/
   loc: Möhnesee, NRW, Germany
   kw: cs-al
+  excerpt: Focuses on algorithms and dynamics in network systems. Topics include information flow, graph algorithms, and applications in social networks, communication systems, and data science.
 ANR-TRECOS-CCPDERT2025:
   dd: 2025-06-30 to 07-04
   name: ANR Project TRECOS Conference on Control of PDEs and Related Topics (2025)
   link: https://indico.math.cnrs.fr/event/12315/
   loc: Toulouse, France
   kw: comp-in
+  excerpt: Explores control theory for partial differential equations. Topics include optimal control, stabilization techniques, and applications in fluid dynamics, materials, and engineering systems.
 CIPAIM2025:
   dd: 2025-06-30 to 07-04
   name: Conference on Inverse Problems and Artificial Intelligence in Medicine (2025)
   link: https://bathsymposium.ac.uk/symposium/inverse-problems-and-artificial-intelligence-in-medicine/
   loc: Bath, UK
   kw: comp-in
+  excerpt: Focuses on inverse problems and AI in medical applications. Topics include medical image reconstruction, machine learning for diagnostics, and computational methods for health sciences.
 IIQSAC2025:
   dd: 2025-06-30 to 07-04
   name: Intermediate International Quantum Structures Association Conference (IQSA 2025)
@@ -3137,7 +3184,7 @@ XFELRCCMS2025:
   link: https://indico.stfc.ac.uk/event/1538/
   loc: London, UK
   kw: ultrafast
-  excerpt: ''
+  excerpt: Explores theoretical methods for XFEL research in chemical and condensed matter systems. Topics include ultrafast dynamics, quantum simulations, and applications in material science and chemistry.
 EUROMIP2025:
   dd: 2025-07-01 to 03
   name: Mixed Integer Programming European Workshop (EUROMIP 2025)
@@ -3193,6 +3240,7 @@ CECAM-FWOSNW2025:
   link: https://www.cecam.org/workshop-details/open-software-for-neural-wavefunctions-1384
   loc: Lausanne, Switzerland
   kw: qmol
+  excerpt: Focuses on open-source software for neural wavefunction methods in quantum chemistry. Topics include machine learning for quantum systems, molecular simulations, and computational quantum mechanics.
 2QSNS2025:
   dd: 2025-07-02 to 05
   name: 2nd Workshop on Quantum-Secure Networks and Systems (QSNS 2025)
@@ -3367,6 +3415,7 @@ EuroMechBIFSI2025:
   link: http://654.euromech.org/
   loc: Vienna, Austria
   kw: comp-fd
+  excerpt: Explores bio-inspired fluid-structure interactions. Topics include computational modeling of biological systems, flow-structure coupling, and applications in biomechanics and engineering design.
 ASWCUMFPMBQS2025:
   dd: 2025-07-13 to 08-03
   name: Aspen Summer Workshop on Cold and Ultracold Molecules for Fundamental Physics and Many-Body Quantum Science (2025)
@@ -3436,6 +3485,7 @@ SSPPILNF2025:
   link: https://uow-ic2.github.io/acisp2025/
   loc: Wollongong, Australia
   kw: cs-oh
+  excerpt: Covers information security and privacy. Topics include cryptography, secure protocols, and applications in cybersecurity, data protection, and network security.
 CECAM-FWBDAML2025:
   dd: 2025-07-14 to 16
   name: CECAM Flagship Workshop on Biomolecular Dynamics in the Age of Machine Learning (2025)
@@ -3512,6 +3562,7 @@ CEMRACS-ISSQC2025:
   link: https://cemracs2025.math.cnrs.fr/en/
   loc: Marseille, France
   kw: comp-qc
+  excerpt: Focuses on quantum computing, covering algorithms, quantum information theory, and computational methods. Topics include quantum simulation, error correction, and applications in physics and cryptography.
 14ISIPTA2025:
   dd: 2025-07-15 to 18
   name: 14th International Symposium on Imprecise Probability Theories and Applications (ISIPTA 2025)
@@ -3546,6 +3597,7 @@ EuroMech-CNSPT2025:
   link: https://652.euromech.org/
   loc: Udine, Italy
   kw: comp-fd
+  excerpt: Examines non-spherical particles in turbulent flows. Topics include particle dynamics, computational simulations, and experimental methods for applications in environmental and industrial flows.
 8ICCOPT2025:
   dd: 2025-07-19 to 24
   name: 8th International Conference on Continuous Optimization (ICCOPT 2025)
@@ -3700,6 +3752,7 @@ HBPUL2025:
   loc: Zagreb, Croatia
   more: Colocated with CAV 2025
   kw: cs-lo
+  excerpt: Focuses on Horn clauses for formal verification and synthesis. Topics include automated reasoning, program verification, and applications in software and hardware validation.
 Warwick-WALP2025:
   dd: 2025-07-22 to 23
   name: Warwick Workshop Atomic Layer Processing (WALP 2025)
@@ -3741,6 +3794,7 @@ ACL-63AM2025:
   link: https://2025.aclweb.org/
   loc: Vienna, Austria
   kw: cs-oh
+  excerpt: Explores computational linguistics and natural language processing. Topics include machine learning for language models, text analysis, and applications in AI and human-computer interaction.
 CSCCS2025:
   dd: 2025-07-27 to 08-01
   name: Conference on Strongly Coupled Coulomb Systems (SCCS 2025)
@@ -4230,6 +4284,7 @@ WFMQC2025:
   loc: Aarhus, Denmark
   more: Colocated with CONFEST 2025
   kw: cs-lo
+  excerpt: Focuses on formal methods for quantum computing. Topics include quantum program verification, logic-based approaches, and applications in quantum algorithm design and validation.
 ZiF-5SSRPM2025:
   dd: 2025-08-25 to 09-06
   name: '5th ZiF Summer School Randomness in Physics and Mathematics: From Thermalisation in Quantum Systems to Random Matrices (2025)'
@@ -4257,6 +4312,7 @@ EuroMech-CMSTNFCM2025:
   link: https://655.euromech.org/
   loc: Graz, Austria
   kw: comp-el
+  excerpt: Examines nonlinear fracture and contact mechanics in soft tissues. Topics include computational modeling, biomechanical analysis, and applications in medical engineering and tissue mechanics.
 OUNCLDL2025:
   dd: 2025-08-25 to 27
   name: Optimization Unplugged - Non-Convex Landscapes, Dynamics and Learning (2025)
@@ -4319,12 +4375,14 @@ EuroMech-FBDPC2025:
   link: http://651.euromech.org/
   loc: Metz, France
   kw: comp-fd
+  excerpt: Focuses on fluid mechanics of films, bubbles, and droplets. Topics include phase change, interfacial dynamics, and computational modeling for applications in materials and environmental science.
 ISSPCS2025:
   dd: 2025-08-25 to 29
   name: International Symposium on Stochastic Processes and Complex Systems (2025)
   link: https://www.tfc.tohoku.ac.jp/event/4308.html
   loc: Tokyo, Japan
   kw: stoch
+  excerpt: Explores stochastic processes and complex systems. Topics include Markov processes, random networks, and applications in physics, biology, and data science.
 PISACMS2025:
   dd: 2025-08-25 to 29
   name: Paris International School on Advanced Computational Materials Science (PISACMS 2025)
@@ -4373,12 +4431,14 @@ EuroMech-MI2025:
   link: http://653.euromech.org/
   loc: Metz, France
   kw: comp-el,comp-fd
+  excerpt: Focuses on mechanics at material interfaces. Topics include interfacial dynamics, computational modeling, and applications in solid mechanics and fluid-structure interactions.
 EuroMechACAMTAIA2025:
   dd: 2025-08-27 to 29
   name: EuroMech Colloquium 650 on Addressing Challenges in Applied Mechanics Through Artificial Intelligence Applications (2025)
   link: http://650.euromech.org/
   loc: Belgrade, Serbia
   kw: comp-el
+  excerpt: Explores AI applications in applied mechanics. Topics include machine learning for material modeling, structural analysis, and optimization in engineering design.
 Vilnius-FICSIA2025:
   dd: 2025-08-27 to 29
   name: First International Vilnius Conference on Statistics and Its Applications (2025)
@@ -4434,6 +4494,7 @@ CNR-Nano-4WTDEI2025:
   link: https://excitonic-insulator.nano.cnr.it/workshop-2d-excitonic-insulator/
   loc: Modena, Italy
   kw: qmat
+  excerpt: Focuses on two-dimensional excitonic insulators in quantum materials. Topics include electronic properties, quantum simulations, and applications in condensed matter physics and nanotechnology.
 ICODS2025:
   dd: 2025-09-01 to 04
   name: International Conference on Optimization and Decision Science (ODS 2025)
@@ -4489,6 +4550,7 @@ RSS-IC2025:
   link: https://sites.google.com/view/frenchjapaneseconference/
   loc: Tokyo, Japan
   kw: prob
+  excerpt: Explores probability theory and its interactions with other fields. Topics include stochastic processes, random graphs, and applications in statistical physics and machine learning.
 CStatMathAppli2025:
   dd: 2025-09-01 to 05
   name: Conference StatMathAppli 2025
@@ -4663,6 +4725,7 @@ ClausthalWMAD2025:
   link: https://sites.google.com/view/spire-2025/
   loc: London, UK
   kw: cs-al
+  excerpt: Focuses on string processing and information retrieval. Topics include text algorithms, data compression, and applications in bioinformatics, search engines, and data mining.
 12ICSAA2025:
   dd: 2025-09-08 to 12
   name: 12th International Conference on Stochastic Analysis and Its Applications (ICSAA 2025)
@@ -4704,6 +4767,7 @@ RMTSSJ2025:
   link: https://benoitcollins.github.io/rmt2025/
   loc: Kyoto, Japan
   kw: prob
+  excerpt: Covers random matrix theory and its applications. Topics include eigenvalue distributions, free probability, and applications in quantum physics, statistics, and machine learning.
 SSMMHDD2025:
   dd: 2025-09-08 to 12
   name: Summer School on Mathematical Methods for High-Dimensional Data (2025)
@@ -4773,6 +4837,7 @@ WLRMALRMA2025:
   link: https://sites.google.com/view/lrma25/
   loc: Mons, Belgium
   kw: comp-na
+  excerpt: Explores low-rank models in numerical analysis. Topics include matrix factorization, tensor decomposition, and applications in data science, machine learning, and scientific computing.
 WRAMOO2025:
   dd: 2025-09-11 to 12
   name: Workshop on Recent Advances in Multi-Objective Optimization (RAMOO 2025)
@@ -4863,6 +4928,7 @@ EuroMech-CSITTWBF2025:
   link: http://658.euromech.org/
   loc: Bari, Italy
   kw: comp-fd
+  excerpt: Focuses on coherent structures in wall-bounded turbulent flows. Topics include instability analysis, computational fluid dynamics, and applications in aerodynamics and engineering.
 14ECCompTheorChem2025:
   dd: 2025-09-15 to 18
   name: 14th European Conference on Computational and Theoretical Chemistry 2025 (EuChemS CompChem 2025)
@@ -5149,6 +5215,7 @@ YRSASGA2025:
   link: https://conferences.miccai.org/2025/en/
   loc: Daejeon, Korea
   kw: comp-in
+  excerpt: Explores medical image computing and computer-assisted interventions. Topics include image analysis, machine learning for diagnostics, and applications in medical imaging and surgery.
 33ISGDNV2025:
   dd: 2025-09-24 to 26
   name: 33rd International Symposium on Graph Drawing and Network Visualization (GD 2025)
@@ -5218,6 +5285,7 @@ MRPSS2025:
   link: https://epia2025.ualg.pt/
   loc: Faro, Portugal
   kw: cs-oh
+  excerpt: Covers artificial intelligence advancements. Topics include machine learning, knowledge representation, and applications in robotics, natural language processing, and decision systems.
 4AAIP2025:
   dd: 2025-10-02 to 03
   name: 4th Alps-Adriatic Inverse Problems Workshop (AAIP 2025)
@@ -5252,12 +5320,14 @@ MFO-AMBQS2025:
   link: https://indico.nifs.ac.jp/event/54/
   loc: Kyoto, Japan
   kw: plas-pm
+  excerpt: Focuses on plasma-material interactions for fusion research. Topics include material erosion, plasma diagnostics, and computational modeling for fusion reactor design.
 KLAIM2025:
   dd: 2025-10-06 to 08
   name: Kaiserslautern Applied and Industrial Mathematics Days (KLAIM 2025)
   link: https://www.itwm.fraunhofer.de/en/fairs_events/2025/2025_10_06_klaim_en.html
   loc: Kaiserslautern, Germany
   kw: comp-ot
+  excerpt: Explores applied and industrial mathematics. Topics include optimization, numerical methods, and applications in engineering, finance, and data science.
 25FMCAD17VSTTE2025:
   dd: 2025-10-06 to 10
   name: '25th International Conference on Formal Methods in Computer-Aided Design (FMCAD 2025) and 17th International Conference on Verified Software: Theories, Tools, and Experiments (VSTTE 2025)'
@@ -5292,6 +5362,7 @@ ICQEIPTA2025:
   link: https://qipa2025.mipt.ru/
   loc: Sirius Federal Territory, Russia
   kw: comp-in
+  excerpt: Focuses on quasilinear equations and inverse problems. Topics include nonlinear PDEs, parameter estimation, and applications in imaging, geophysics, and engineering.
 JCNS-WTPNSQMTE2025:
   dd: 2025-10-07 to 09
   name: JCNS Workshop Trends and Perspectives in Neutron Scattering - Quantum Materials Theory and Experiments (2025)
@@ -5319,6 +5390,7 @@ JCNS-WTPNSQMTE2025:
   link: https://inverseprobleme.de/?page_id=424
   loc: Saarbrücken, Germany
   kw: comp-in
+  excerpt: Explores inverse problems in mathematical modeling. Topics include regularization techniques, imaging, and applications in medical diagnostics, geophysics, and engineering.
 IEEE-12DSAA2025:
   dd: 2025-10-09 to 13
   name: 12th IEEE International Conference on Data Science and Advanced Analytics (DSAA 2025)
@@ -5380,6 +5452,7 @@ GAMM-AWCMMDS2025:
   name: Annual GAMM Workshop on Computational and Mathematical Methods in Data Science 2025
   loc: Chemnitz, Germany
   kw: comp-ot
+  excerpt: Focuses on computational and mathematical methods in data science. Topics include numerical optimization, machine learning algorithms, and applications in big data analytics.
 7SBFTA2025:
   dd: 2025-10-19 to 23
   name: 7th School on Belief Functions and Their Applications (BFTA 2025)
@@ -5484,6 +5557,7 @@ ASSMLNM2025:
   link: https://www.cwi.nl/en/education/semester-programmes/cwi-research-semester-programs/synergies-in-numerical-linear-algebra-and-machine-learning/
   loc: Amsterdam, Netherlands
   kw: comp-na,comp-ml
+  excerpt: Explores synergies between numerical linear algebra and machine learning. Topics include matrix computations, deep learning optimization, and applications in scientific computing and data analysis.
 WRMTEEFSP2025:
   dd: 2025-10-27 to 31
   name: Workshop Random Matrix Theory for Ecology, Economics, Finance and Statistical Physics (2025)
@@ -5504,6 +5578,7 @@ IEEE-37ICTAI2025:
   link: https://easyconferences.eu/ictai2025/
   loc: Athens, Greece
   kw: cs-oh
+  excerpt: Covers AI tools and techniques. Topics include machine learning, knowledge-based systems, and applications in computer vision, robotics, and decision support systems.
 14AEPSEICSE2025:
   dd: 2025-11-03 to 06
   name: 14th Asian-European International Conference on Plasma Surface Engineering (AEPSE 2025) in Parallel With International Conference on Surface Engineering (ICSE 2025)
@@ -5566,12 +5641,14 @@ EQTC2025:
   link: https://sefm-conference.github.io/2025/
   loc: Toledo, Spain
   kw: cs-lo
+  excerpt: Focuses on formal methods in software engineering. Topics include program verification, model checking, and applications in software development and system reliability.
 IFIP-WG73-PC2025:
   dd: 2025-11-11 to 14
   name: IFIP WG 7.3 Performance Conference 2025
   link: https://performance2025.sciencesconf.org/
   loc: Amsterdam, Netherlands
   kw: cs-oh
+  excerpt: Explores performance evaluation in computing systems. Topics include queuing theory, system modeling, and applications in network performance, cloud computing, and software optimization.
 22KICPKRR2025:
   dd: 2025-11-11 to 17
   name: 22nd International Conference on Principles of Knowledge Representation and Reasoning (KR 2025)
@@ -5606,6 +5683,7 @@ IEEE-ACM-SC2025:
   link: https://fmasworkshop.github.io/FMAS2025/
   loc: Paris, France
   kw: cs-lo
+  excerpt: Focuses on formal methods for autonomous systems. Topics include verification, synthesis, and applications in robotics, autonomous vehicles, and AI-driven systems.
 SIAM-PD2025:
   dd: 2025-11-17 to 20
   name: SIAM Conference on Analysis of Partial Differential Equations (PD 2025)
@@ -5626,6 +5704,7 @@ ECTstar-11ESNET2025:
   link: https://ifm2025.ens.psl.eu/
   loc: Paris, France
   kw: cs-lo
+  excerpt: Explores integrated formal methods for system design. Topics include formal verification, model-based development, and applications in software and hardware systems.
 APS-DPP-67AM2025:
   dd: 2025-11-17 to 21
   name: 67th Annual Meeting of the APS Division of Plasma Physics (APS-DPP 2025)
@@ -5653,6 +5732,7 @@ IUTAM-SFPM2025:
   link: https://iutam.org/events/iutam-symposium-on-frontiers-of-physical-mechanics
   loc: Nanjing, China
   kw: comp-el
+  excerpt: Focuses on advancements in physical mechanics. Topics include computational mechanics, material modeling, and applications in structural engineering and material science.
 CECAM-FWUQAM2025:
   dd: 2025-11-25 to 28
   name: 'CECAM Flagship Workshop on Uncertainty Quantification in Atomistic Modeling: From Uncertainty-Aware Density Functional Theory to Machine Learning (2025)'
@@ -5694,6 +5774,7 @@ WIANAML2025:
   link: https://www.cwi.nl/en/education/semester-programmes/cwi-research-semester-programs/synergies-in-numerical-linear-algebra-and-machine-learning/
   loc: Amsterdam, Netherlands
   kw: comp-na,comp-ml
+  excerpt: Explores numerical analysis and machine learning in industry. Topics include large-scale matrix computations, data-driven modeling, and applications in engineering and finance.
 36ISAAC2025:
   dd: 2025-12-07 to 10
   name: 36th International Symposium on Algorithms and Computation (ISAAC 2025)
@@ -5721,6 +5802,7 @@ EuroMech-RANSD2025:
   link: https://657.euromech.org/
   loc: Exeter, UK
   kw: comp-fd
+  excerpt: Focuses on non-smooth dynamics in mechanical systems. Topics include computational methods, impact dynamics, and applications in robotics and engineering.
 CECAM-FWRAFPMEPI2025:
   dd: 2025-12-08 to 11
   name: CECAM Flagship Workshop on Recent Advances in First-Principles Modeling of Electron-Phonon Interactions (2025)
@@ -5860,18 +5942,21 @@ SIAM-ALENEX2026:
   link: https://www.siam.org/conferences-events/siam-conferences/alenex26/
   loc: Vancouver, BC, Canada
   kw: cs-al
+  excerpt: Focuses on algorithm engineering, combining theoretical design with practical implementation. Topics include data structures, graph algorithms, and experimental evaluation for real-world applications.
 ACM-SIAM-SODA2026:
   dd: 2026-01-11 to 14
   name: ACM-SIAM Symposium on Discrete Algorithms (SODA 2026)
   link: https://www.siam.org/conferences-events/siam-conferences/soda26/
   loc: Vancouver, BC, Canada
   kw: cs-al
+  excerpt: Explores discrete algorithms and their applications. Topics include combinatorial optimization, graph theory, and computational complexity, with emphasis on theoretical advancements.
 SIAM-SOSA2026:
   dd: 2026-01-12 to 13
   name: SIAM Symposium on Simplicity in Algorithms (SOSA 2026)
   link: https://www.siam.org/conferences-events/siam-conferences/sosa26/
   loc: Vancouver, BC, Canada
   kw: cs-al
+  excerpt: Focuses on simple and efficient algorithms for complex problems. Topics include approximation algorithms, randomized methods, and applications in data structures and optimization.
 IPAM-WNFQAOQS2026:
   dd: 2026-01-12 to 16
   name: IPAM Workshop New Frontiers in Quantum Algorithms for Open Quantum Systems (2026)
@@ -5962,6 +6047,7 @@ CIRM-WERM2026:
   link: https://conferences.cirm-math.fr/3597.html
   loc: Marseille, France
   kw: prob
+  excerpt: Explores entropy and random matrix theory. Topics include information theory, statistical mechanics, and applications in quantum physics and data science.
 INI-WGE2026:
   dd: 2026-03-23 to 27
   name: INI Workshop Geometry of Eigenvalues (2026)
@@ -5982,6 +6068,7 @@ IEEE-ISBI2026:
   link: https://biomedicalimaging.org/2026/
   loc: London, UK
   kw: comp-in
+  excerpt: Focuses on biomedical imaging techniques. Topics include image processing, machine learning for diagnostics, and applications in medical imaging and healthcare.
 IPAM-LPMFMFEW2LMFD2026:
   dd: 2026-04-13 to 17
   name: Long Program Multi-Fidelity Methods for Fusion Energy Workshop 2 Learning Models From Data (2026)
@@ -6002,6 +6089,7 @@ SCGP-WRGMP2026:
   link: https://scgp.stonybrook.edu/archives/45656
   loc: Stony Brook
   kw: prob
+  excerpt: Explores random geometry in mathematics and physics. Topics include stochastic geometry, random surfaces, and applications in statistical physics and quantum field theory.
 SeisSocAm-AM2026:
   dd: 2026-04-14 to 18
   name: Seismological Society of America Annual Meeting (SSA 2026)
@@ -6155,6 +6243,7 @@ MFO-WRM2026:
   link: https://www.mfo.de/occasion/2624/www_view
   loc: Oberwolfach, Germany
   kw: prob
+  excerpt: Focuses on random matrix theory. Topics include eigenvalue distributions, free probability, and applications in quantum mechanics, statistics, and machine learning.
 IMSI-WMA2DQMMM2026:
   dd: 2026-06-08 to 12
   name: IMSI Workshop Mathematical Aspects of 2D Quantum Materials and Meta-Materials (2026)
@@ -6168,6 +6257,7 @@ SMAI-SIGMA-11ICCS2026:
   link: https://cs2026.sciencesconf.org/
   loc: Saint-Malo, France
   kw: comp-na
+  excerpt: Explores mathematical methods for curves and surfaces. Topics include geometric modeling, numerical analysis, and applications in computer graphics and engineering design.
 18ISCGRSRT2026:
   dd: 2026-06-14 to 19
   name: 18th International Symposium on Capture Gamma-Ray Spectroscopy and Related Topics (CGS 2026)
@@ -6333,6 +6423,7 @@ ICCPLT2026:
   link: https://www.mertenlab.de/cplt2026/
   loc: Bochum, Germany
   kw: qmol
+  excerpt: Focuses on chemistry and physics at low temperatures. Topics include quantum molecular dynamics, cryogenic experiments, and computational modeling for quantum systems.
 28ICPR2026:
   dd: 2026-08-16 to 20
   name: 28th International Conference on Pattern Recognition (ICPR 2026)
@@ -6541,6 +6632,7 @@ EPS-NPD-EuNPC2027:
   loc: tbd
   more: Provisional Link
   kw: nuclear
+  excerpt: Explores advancements in nuclear physics. Topics include nuclear structure, reactions, and computational modeling, with applications in particle physics and astrophysics.
 EGU-GA2028:
   dd: 2028-04-23 to 28
   name: European Geophysical Union General Assembly (EGU 2028)
@@ -6554,3 +6646,21 @@ ASA-IMS-JSM2028:
   loc: Philadelphia, PA, USA
   kw: stat-th
   excerpt: JSM 2028 explores statistics, covering statistical modeling, probability theory, and data science. Topics include applications in biostatistics, environmental science, and economics, emphasizing theoretical and applied statistical methods for analyzing complex datasets and uncertainties.
+CECAM-FSSpectMC2025:
+  dd: 2025-09-01 to 05
+  name: CECAM Flagship School CECAM/ALC/CCP9 Spectroscopy Masterclass (2025)
+  link: https://www.cecam.org/workshop-details/cecamalcccp9-spectroscopy-masterclass-1439
+  loc: Daresbury, UK
+  kw: qmat
+ERN-CA20111Symp2025:
+  dd: 2025-09-08 to 19
+  name: European Research Network on Formal Proofs COST Action CA20111 Final EuroProofNet Symposium (2025)
+  link: https://europroofnet.github.io/Symposium/
+  loc: Orsay, France
+  kw: cs-lo
+4ITADATA2025:
+  dd: 2025-09-09 to 11
+  name: 4th Italian Conference on Big Data and Data Science (ITADATA 2025)
+  link: https://www.itadata.it/
+  loc: Turin, Italy
+  kw: stat-ml,comp-ml

@@ -4,9 +4,9 @@
 
 2025-06-09 to 13: [IMSI Workshop Statistical and Computational Challenges in Probabilistic Scientific Machine Learning (SciML 2025)](https://imsi.institute/activities/statistical-and-computational-challenges-in-probabilistic-scientific-machine-learning-sciml/ "This workshop explores probabilistic scientific machine learning, covering Bayesian neural networks, uncertainty quantification, and physics-informed models. Topics include computational challenges, applications in climate and materials science, emphasizing statistical robustness in scientific ML."), Chicago, IL, USA.
 
-2025-06-11 to 14: [Multi-Disciplinary Conference on Reinforcement Learning and Decision Making (RLDM 2025)](https://rldm.org/), Dublin, UK.
+2025-06-11 to 14: [Multi-Disciplinary Conference on Reinforcement Learning and Decision Making (RLDM 2025)](https://rldm.org/ "Focuses on reinforcement learning and decision-making, integrating machine learning and cognitive science. Topics include algorithmic advancements, neural modeling, and applications in robotics and AI."), Dublin, UK.
 
-2025-06-13 to 14: [GAIL Workshop Generative AI Modelling for Extreme Events](https://gail.ed.ac.uk/news-and-events/events/generative-ai-modelling-for-extreme-events), Edinburgh, UK.
+2025-06-13 to 14: [GAIL Workshop Generative AI Modelling for Extreme Events](https://gail.ed.ac.uk/news-and-events/events/generative-ai-modelling-for-extreme-events "Explores generative AI for modeling extreme events. Topics include probabilistic modeling, data-driven forecasting, and applications in climate science, finance, and risk assessment."), Edinburgh, UK.
 
 2025-06-16 to 19: [INFORMED AI Summer School 2025](https://informed-ai.net/event/informed-ai-summer-school-2025/ "This summer school explores AI and machine learning, focusing on neural networks, Bayesian methods, and data-driven modeling. Topics include deep learning, uncertainty quantification, and applications in scientific discovery, emphasizing foundational and applied AI techniques for researchers."), Bristol, UK.
 
@@ -39,6 +39,8 @@
 2025-09-08 to 10: [Workshop Mathematics in the Age of Data (2025)](https://www.mathematik.tu-clausthal.de/workshop-mathdata "This workshop explores mathematics in data science, covering statistical learning, optimization, and graph theory. Topics include applications in machine learning, network analysis, and big data, emphasizing mathematical frameworks for analyzing and modeling complex datasets."), Clausthal, Germany.
 
 2025-09-08 to 12: [Summer School on Mathematical Methods for High-Dimensional Data (2025)](https://sites.google.com/view/math-high-dimensional-data/ "This summer school explores mathematical methods for high-dimensional data, covering sparse modeling, tensor decomposition, and statistical inference. Topics include applications in genomics, imaging, and machine learning, emphasizing computational and statistical techniques for high-dimensional data analysis."), Rome, Italy.
+
+2025-09-09 to 11: [4th Italian Conference on Big Data and Data Science (ITADATA 2025)](https://www.itadata.it/), Turin, Italy.
 
 2025-09-09 to 12: [34th International Conference on Artificial Neural Networks (ICANN 2025)](https://e-nns.org/icann2025/ "ICANN 2025 explores artificial neural networks, covering deep learning, convolutional networks, and reinforcement learning. Topics include applications in computer vision, natural language processing, and robotics, emphasizing computational and statistical advancements in neural network methodologies."), Kaunas, Lithuania.
 

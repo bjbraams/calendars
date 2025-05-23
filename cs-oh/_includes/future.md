@@ -2,7 +2,7 @@
 
 2025-06-11 to 15: [IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR 2025)](https://cvpr.thecvf.com "CVPR 2025 focuses on computer vision and pattern recognition, covering deep learning, image segmentation, and object detection. Topics include generative models, 3D vision, and applications in autonomous systems, emphasizing cutting-edge vision algorithms and AI."), Nashville, TN, USA.
 
-2025-06-16 to 20: [20th International Federated Conference on Distributed Computing Techniques (DisCoTec 2025)](https://www.discotec.org/2025/), Lille, France.
+2025-06-16 to 20: [20th International Federated Conference on Distributed Computing Techniques (DisCoTec 2025)](https://www.discotec.org/2025/ "Covers distributed computing techniques, focusing on concurrency, coordination, and formal methods. Topics include distributed algorithms, cloud computing, and applications in networked systems."), Lille, France.
 
 2025-06-22 to 27: [IEEE International Symposium on Information Theory (ISIT 2025)](https://2025.ieee-isit.org "ISIT 2025 explores information theory, covering coding theory, data compression, and Shannon theory. Topics include quantum information, network coding, and applications in communications and machine learning, emphasizing theoretical foundations of information processing and transmission."), Ann Arbor, MI, USA.
 
@@ -10,15 +10,15 @@
 
 2025-06-30 to 07-01: [67th CREST Open Workshop on AI-powered Software Engineering (2025)](https://www.ucl.ac.uk/crest/events/2025/jun/67th-crest-open-workshop-ai-powered-software-engineering "This workshop focuses on AI-powered software engineering, covering machine learning for code analysis, automated testing, and software optimization. Topics include AI-driven debugging, program synthesis, and applications in software development, emphasizing AI-enhanced software engineering tools."), London, UK.
 
-2025-06-30 to 07-04: [31st International Workshop on Cellular Automata and Discrete Complex Systems Joint With Workshop on Automata Networks (AUTOMATA+WAN 2025)](https://automata-wan-2025.univ-lille.fr/), Lille, France.
+2025-06-30 to 07-04: [31st International Workshop on Cellular Automata and Discrete Complex Systems Joint With Workshop on Automata Networks (AUTOMATA+WAN 2025)](https://automata-wan-2025.univ-lille.fr/ "Explores cellular automata and discrete complex systems. Topics include computational models, network dynamics, and applications in physics, biology, and computer science."), Lille, France.
 
 2025-06-30 to 07-05: [International Joint Conference on Neural Networks (IJCNN 2025)](https://2025.ijcnn.org "IJCNN 2025 explores neural networks, covering deep learning, recurrent networks, and neuromorphic computing. Topics include image recognition, time-series prediction, and applications in robotics and healthcare, emphasizing advancements in neural network algorithms and applications."), Rome, Italy.
 
 2025-07-08 to 11: [24th IEEE International Symposium on Parallel and Distributed Computing (ISPDC 2025)](https://ispdc2025.inria.fr "ISPDC 2025 focuses on parallel and distributed computing, covering high-performance computing, cloud computing, and parallel algorithms. Topics include distributed machine learning, big data processing, and applications in scientific simulations, emphasizing scalable computational architectures."), Rennes, France.
 
-2025-07-14 to 16: [30th Australasian Conference on Information Security and Privacy (ACISP 2025)](https://uow-ic2.github.io/acisp2025/), Wollongong, Australia.
+2025-07-14 to 16: [30th Australasian Conference on Information Security and Privacy (ACISP 2025)](https://uow-ic2.github.io/acisp2025/ "Covers information security and privacy. Topics include cryptography, secure protocols, and applications in cybersecurity, data protection, and network security."), Wollongong, Australia.
 
-2025-07-27 to 08-01: [Association for Computational Linguistics 63rd Annual Meeting (ACL 2025)](https://2025.aclweb.org/), Vienna, Austria.
+2025-07-27 to 08-01: [Association for Computational Linguistics 63rd Annual Meeting (ACL 2025)](https://2025.aclweb.org/ "Explores computational linguistics and natural language processing. Topics include machine learning for language models, text analysis, and applications in AI and human-computer interaction."), Vienna, Austria.
 
 2025-08-16 to 22: [34th International Joint Conference on Artificial Intelligence (IJCAI 2025)](https://2025.ijcai.org "IJCAI 2025 explores artificial intelligence, covering machine learning, knowledge representation, and robotics. Topics include deep learning, natural language processing, and AI ethics, with applications in healthcare, finance, and autonomous systems, emphasizing theoretical and applied AI advancements."), Montreal, QC, Canada.
 
@@ -28,7 +28,7 @@
 
 2025-09-29 to 10-02: [35th Brazilian Conference on Intelligent Systems (BRACIS 2025)](https://bracis.sbc.org.br/2025/ "BRACIS 2025 focuses on intelligent systems, covering machine learning, knowledge representation, and robotics. Topics include deep learning, natural language processing, and AI applications in healthcare and agriculture, emphasizing theoretical and applied advancements in computational intelligence and smart systems."), Fortaleza, CE, Brazil.
 
-2025-10-01 to 03: [24th EPIA (Portugal) Conference on Artificial Intelligence (EPIA 2025)](https://epia2025.ualg.pt/), Faro, Portugal.
+2025-10-01 to 03: [24th EPIA (Portugal) Conference on Artificial Intelligence (EPIA 2025)](https://epia2025.ualg.pt/ "Covers artificial intelligence advancements. Topics include machine learning, knowledge representation, and applications in robotics, natural language processing, and decision systems."), Faro, Portugal.
 
 2025-10-06 to 10: [25th International Conference on Formal Methods in Computer-Aided Design (FMCAD 2025) and 17th International Conference on Verified Software: Theories, Tools, and Experiments (VSTTE 2025)](https://fmcad.org/FMCAD25/ "FMCAD and VSTTE 2025 explore formal methods and verified software, covering model checking, theorem proving, and software verification. Topics include applications in hardware design, AI, and critical systems, emphasizing computational tools for ensuring correctness and reliability in software and hardware."), colocated at Menlo Park, CA, USA.
 
@@ -40,9 +40,9 @@
 
 2025-10-29 to 31: [7th International Conference on Geometric Science of Information (GSI 2025)](https://conference-gsi.org "GSI 2025 focuses on geometric science of information, covering information geometry, manifold learning, and statistical inference. Topics include applications in machine learning, signal processing, and neuroscience, emphasizing geometric and computational methods for information processing and analysis."), Saint Malo, France.
 
-2025-11-03 to 05: [37th IEEE International Conference on Tools With Artificial Intelligence (ICTAI 2025)](https://easyconferences.eu/ictai2025/), Athens, Greece.
+2025-11-03 to 05: [37th IEEE International Conference on Tools With Artificial Intelligence (ICTAI 2025)](https://easyconferences.eu/ictai2025/ "Covers AI tools and techniques. Topics include machine learning, knowledge-based systems, and applications in computer vision, robotics, and decision support systems."), Athens, Greece.
 
-2025-11-11 to 14: [IFIP WG 7.3 Performance Conference 2025](https://performance2025.sciencesconf.org/), Amsterdam, Netherlands.
+2025-11-11 to 14: [IFIP WG 7.3 Performance Conference 2025](https://performance2025.sciencesconf.org/ "Explores performance evaluation in computing systems. Topics include queuing theory, system modeling, and applications in network performance, cloud computing, and software optimization."), Amsterdam, Netherlands.
 
 2025-11-12 to 13: [16th IEEE International Conference on Knowledge Graphs (ICKG 2025)](https://cyprusconferences.org/ickg2025/ "ICKG 2025 explores knowledge graphs, covering graph-based reasoning, semantic modeling, and data integration. Topics include applications in AI, search engines, and recommendation systems, emphasizing computational methods for constructing and utilizing large-scale knowledge graph structures."), Limassol, Cyprus.
 

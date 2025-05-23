@@ -22,7 +22,7 @@
 
 2025-06-26 to 29: [Spectroscopy of Exoplanets: Over All Wavelength (2025)](https://exomol.com/activities/conference-spectroscopy-of-exoplanets-over-all-wavelength/ "This conference focuses on exoplanet spectroscopy, covering molecular absorption, emission spectra, and atmospheric modeling. Topics include high-resolution spectroscopy, radiative transfer, and applications in exoplanet characterization, emphasizing spectroscopic techniques across all wavelengths."), Broxbourne, Hertfordshire, UK.
 
-2025-07-02 to 04: [CECAM Flagship Workshop on Open Software for Neural Wavefunctions (2025)](https://www.cecam.org/workshop-details/open-software-for-neural-wavefunctions-1384), Lausanne, Switzerland.
+2025-07-02 to 04: [CECAM Flagship Workshop on Open Software for Neural Wavefunctions (2025)](https://www.cecam.org/workshop-details/open-software-for-neural-wavefunctions-1384 "Focuses on open-source software for neural wavefunction methods in quantum chemistry. Topics include machine learning for quantum systems, molecular simulations, and computational quantum mechanics."), Lausanne, Switzerland.
 
 2025-07-06 to 11: [29th Dynamics of Molecular Collisions Conference (DMC 2025)](https://blog.umd.edu/29th-dmc/ "DMC 2025 explores molecular collisions, covering reaction dynamics, scattering processes, and quantum chemistry. Topics include cold molecule interactions, photochemical reactions, and applications in atmospheric and astrophysical chemistry, emphasizing experimental and computational studies of molecular dynamics."), Snowbird, UT, USA.
 
@@ -62,5 +62,5 @@
 
 2026-07-01 to 08-31: [9th High-Dimensional Quantum Dynamics Workshop (HDQD 2026)](https://hdqd2026.wordpress.com "HDQD 2026 explores high-dimensional quantum dynamics, covering quantum simulations, wavepacket dynamics, and quantum control. Topics include applications in photochemistry, quantum computing, and molecular physics, emphasizing computational methods for modeling complex quantum systems."), Salamanca, Spain.
 
-2026-08-02 to 06: [Conference on Chemistry and Physics at Low Temperatures (CPLT 2026)](https://www.mertenlab.de/cplt2026/), Bochum, Germany.
+2026-08-02 to 06: [Conference on Chemistry and Physics at Low Temperatures (CPLT 2026)](https://www.mertenlab.de/cplt2026/ "Focuses on chemistry and physics at low temperatures. Topics include quantum molecular dynamics, cryogenic experiments, and computational modeling for quantum systems."), Bochum, Germany.
 

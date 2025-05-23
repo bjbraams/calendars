@@ -1,8 +1,8 @@
 2025-06-12 to 13: [4th Workshop on Mathematics and AI – Connecting the Mathematics Clusters (2025)](https://aimath.nl/index.php/2025/03/13/4th-aim-cluster-event-tilburg/ "This workshop explores mathematics and AI, focusing on algebraic methods, optimization, and probabilistic models. Topics include graph neural networks, mathematical foundations of deep learning, and applications in data science, emphasizing interdisciplinary mathematical AI research."), Tilburg, Netherlands.
 
-2025-06-16 to 19: [4th International Conference Nonlinear Elliptic PDE in Hauts-De-France (2025)](https://4th-nlepde-hf.sciencesconf.org/), Calais, France.
+2025-06-16 to 19: [4th International Conference Nonlinear Elliptic PDE in Hauts-De-France (2025)](https://4th-nlepde-hf.sciencesconf.org/ "Explores nonlinear elliptic partial differential equations. Topics include existence and regularity of solutions, numerical methods, and applications in physics, biology, and material science."), Calais, France.
 
-2025-06-16 to 20: [Conference on Differential Geometry, Analysis and Epistemology in Honor of Marco Rigoli\'s 70th Birthday (2025)](https://sites.google.com/view/dgaemi25), Milan, Italy.
+2025-06-16 to 20: [Conference on Differential Geometry, Analysis and Epistemology in Honor of Marco Rigoli\'s 70th Birthday (2025)](https://sites.google.com/view/dgaemi25 "Explores differential geometry, analysis, and epistemology. Topics include geometric analysis, PDEs on manifolds, and mathematical philosophy, with applications in physics and geometry."), Milan, Italy.
 
 2025-09-14 to 17: [20th Conference on Computer Science and Intelligence Systems (FedCSIS 2025)](https://2025.fedcsis.org/ "FedCSIS 2025 explores computer science and intelligent systems, covering algorithms, AI, and data science. Topics include machine learning, cybersecurity, and software engineering, emphasizing interdisciplinary computational methods and applications in intelligent system design and analysis."), Kraków, Poland.
 

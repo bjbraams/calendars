@@ -38,7 +38,9 @@
 
 2025-08-31 to 09-05: [TRIQS Summer School Advanced Methodologies in Computational Condensed Matter Physics (2025)](https://indico.flatironinstitute.org/event/4011/ "This summer school explores computational condensed matter physics, covering quantum Monte Carlo, dynamical mean-field theory, and tensor networks. Topics include strongly correlated systems, topological materials, and applications in electronics, emphasizing advanced computational methodologies."), Saint-Rémy-lès-Chevreuse, France.
 
-2025-09-01 to 03: [4th CNR-Nano Workshop on Two-Dimensional Excitonic Insulators (2025)](https://excitonic-insulator.nano.cnr.it/workshop-2d-excitonic-insulator/), Modena, Italy.
+2025-09-01 to 03: [4th CNR-Nano Workshop on Two-Dimensional Excitonic Insulators (2025)](https://excitonic-insulator.nano.cnr.it/workshop-2d-excitonic-insulator/ "Focuses on two-dimensional excitonic insulators in quantum materials. Topics include electronic properties, quantum simulations, and applications in condensed matter physics and nanotechnology."), Modena, Italy.
+
+2025-09-01 to 05: [CECAM Flagship School CECAM/ALC/CCP9 Spectroscopy Masterclass (2025)](https://www.cecam.org/workshop-details/cecamalcccp9-spectroscopy-masterclass-1439), Daresbury, UK.
 
 2025-09-06 to 12: [BEC Conference on Quantum Gases and Related Fields (BEC 2025)](https://indico.phys.ethz.ch/event/143/ "BEC 2025 explores Bose-Einstein condensates and quantum gases, covering ultracold atoms, superfluidity, and quantum simulations. Topics include applications in quantum computing, topological phases, and many-body physics, emphasizing experimental and theoretical quantum gas research."), Sant Feliu de Guíxols, Spain.
 

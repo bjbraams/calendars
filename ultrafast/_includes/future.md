@@ -1,6 +1,6 @@
 2025-05-26 to 30: [CECAM Flagship School on New Computational Methods for Attosecond Molecular Processes (2025)](https://cecam.org/workshop-details/costzcam-school-on-new-computational-methods-for-attosecond-molecular-processes-1411 "This school explores computational methods for attosecond molecular processes, focusing on ultrafast electron dynamics and time-resolved spectroscopy. Topics include time-dependent quantum simulations, attosecond pulse interactions, and applications in photochemistry, emphasizing cutting-edge computational techniques."), Zaragoza, Spain.
 
-2025-07-01 to 02: [Theory for XFEL Research in Chemical and Condensed Matter Science (2025)](https://indico.stfc.ac.uk/event/1538/ ""), London, UK.
+2025-07-01 to 02: [Theory for XFEL Research in Chemical and Condensed Matter Science (2025)](https://indico.stfc.ac.uk/event/1538/ "Explores theoretical methods for XFEL research in chemical and condensed matter systems. Topics include ultrafast dynamics, quantum simulations, and applications in material science and chemistry."), London, UK.
 
 2025-07-06 to 11: [10th International Conference on Attosecond Science and Technology (ATTO 2025)](http://attox.se "ATTO 2025 focuses on attosecond science, covering ultrafast laser pulses, electron dynamics, and time-resolved spectroscopy. Topics include attosecond pulse generation, quantum coherence, and applications in chemistry and materials, emphasizing experimental and theoretical advancements in ultrafast phenomena."), Lund, Sweden.
 

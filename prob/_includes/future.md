@@ -8,7 +8,7 @@
 
 2025-06-01 to 05: [Workshop on Recent Advances in Evolving and Spatial Random Graphs (2025)](https://sites.google.com/view/bas-lodewijks/workshop-evolving-and-spatial-random-graphs "This workshop focuses on evolving and spatial random graphs, covering dynamic network models, percolation, and spatial point processes. Topics include graph dynamics, random geometric graphs, and applications in epidemiology and telecommunications, emphasizing probabilistic network analysis."), Bayrischzell, Germany.
 
-2025-06-01 to 06: [BIRS Workshop on Free Probability, Random Matrices and Finite-Dimensional Approximations (2025)](https://www.birs.ca/events/2025/5-day-workshops/25w5440), Oaxaca, Mexico.
+2025-06-01 to 06: [BIRS Workshop on Free Probability, Random Matrices and Finite-Dimensional Approximations (2025)](https://www.birs.ca/events/2025/5-day-workshops/25w5440 "Explores free probability and random matrix theory. Topics include finite-dimensional approximations, operator algebras, and applications in statistical physics and quantum mechanics."), Oaxaca, Mexico.
 
 2025-06-02 to 06: [AIM Workshop Mathematical Foundations of Sampling Connected Balanced Graph Partitions (2025)](https://aimath.org/workshops/upcoming/connectedbalanced/ "This workshop focuses on sampling balanced graph partitions, covering Markov chain Monte Carlo, random graphs, and combinatorial probability. Topics include graph clustering, network partitioning, and applications in data science, emphasizing probabilistic algorithms for graph structures."), Pasadena, CA, USA.
 
@@ -64,11 +64,11 @@
 
 2025-08-25 to 09-06: [5th ZiF Summer School Randomness in Physics and Mathematics: From Thermalisation in Quantum Systems to Random Matrices (2025)](https://indico.physik.uni-bielefeld.de/event/220/ "This summer school explores randomness, covering quantum thermalization, random matrices, and stochastic processes. Topics include applications in statistical physics, quantum information, and number theory, emphasizing probabilistic methods for understanding random phenomena in physics and mathematics."), Bielefeld, Germany.
 
-2025-09-01 to 05: [2nd French-Japanese Conference Probability & Interactions (2025)](https://sites.google.com/view/frenchjapaneseconference/), Tokyo, Japan.
+2025-09-01 to 05: [2nd French-Japanese Conference Probability & Interactions (2025)](https://sites.google.com/view/frenchjapaneseconference/ "Explores probability theory and its interactions with other fields. Topics include stochastic processes, random graphs, and applications in statistical physics and machine learning."), Tokyo, Japan.
 
 2025-09-07 to 12: [SFB Summer School on Discrete Random Structures (2025)](https://sfbrandom.univie.ac.at/events/sfb-summer-school-2025/ "This summer school explores discrete random structures, covering random graphs, combinatorial probability, and stochastic processes. Topics include applications in network science, statistical physics, and computer science, emphasizing probabilistic methods for analyzing discrete random systems."), Pörtschach, Austria.
 
-2025-09-08 to 12: [Random Matrix Theory Summer School in Japan (2025)](https://benoitcollins.github.io/rmt2025/), Kyoto, Japan.
+2025-09-08 to 12: [Random Matrix Theory Summer School in Japan (2025)](https://benoitcollins.github.io/rmt2025/ "Covers random matrix theory and its applications. Topics include eigenvalue distributions, free probability, and applications in quantum physics, statistics, and machine learning."), Kyoto, Japan.
 
 2025-09-08 to 12: [Workshop Random Matrix Theory for Learning and Statistical Physics (2025)](https://www.uni-bielefeld.de/einrichtungen/zif/groups/ongoing/matrices/ "This workshop explores random matrix theory, covering eigenvalue distributions, spectral statistics, and applications in statistical physics and machine learning. Topics include neural network analysis, disordered systems, and high-dimensional statistics, emphasizing probabilistic methods for random matrices."), Bielefeld, Germany.
 
@@ -88,11 +88,11 @@
 
 2026-03-02 to 06: [17th Latin American Congress of Probability and Mathematical Statistics (CLAPEM 2026)](https://clapem17.cmat.edu.uy "CLAPEM 2026 focuses on probability and mathematical statistics, covering stochastic processes, statistical inference, and extreme value theory. Topics include applications in finance, epidemiology, and environmental science, emphasizing theoretical and applied probabilistic and statistical methodologies."), Montevideo, Uruguay.
 
-2026-03-23 to 27: [CIRM Workshop on Entropy and Random Matrices (2026)](https://conferences.cirm-math.fr/3597.html), Marseille, France.
+2026-03-23 to 27: [CIRM Workshop on Entropy and Random Matrices (2026)](https://conferences.cirm-math.fr/3597.html "Explores entropy and random matrix theory. Topics include information theory, statistical mechanics, and applications in quantum physics and data science."), Marseille, France.
 
-2026-04-14 to 17: [SCGP Workshop Random Geometry in Math and Physics (2026)](https://scgp.stonybrook.edu/archives/45656), Stony Brook.
+2026-04-14 to 17: [SCGP Workshop Random Geometry in Math and Physics (2026)](https://scgp.stonybrook.edu/archives/45656 "Explores random geometry in mathematics and physics. Topics include stochastic geometry, random surfaces, and applications in statistical physics and quantum field theory."), Stony Brook.
 
-2026-06-07 to 12: [Oberwolfach Workshop on Random Matrices (2026)](https://www.mfo.de/occasion/2624/www_view), Oberwolfach, Germany.
+2026-06-07 to 12: [Oberwolfach Workshop on Random Matrices (2026)](https://www.mfo.de/occasion/2624/www_view "Focuses on random matrix theory. Topics include eigenvalue distributions, free probability, and applications in quantum mechanics, statistics, and machine learning."), Oberwolfach, Germany.
 
 2026-07-06 to 24: [4th Simons Math Summer Workshop on Algebraic Methods in Probability (2026)](https://scgp.stonybrook.edu/archives/45985 "This workshop explores algebraic methods in probability, covering random matrices, combinatorial probability, and algebraic statistics. Topics include applications in statistical physics, machine learning, and cryptography, emphasizing algebraic and probabilistic techniques for complex systems analysis."), Stony Brook, NY, USA.
 

@@ -4,7 +4,7 @@
 
 2025-04-14 to 18: [Seismological Society of America Annual Meeting (SSA 2025)](https://2025.meetings.seismosoc.org/ "SSA 2025 focuses on seismology, covering computational methods for seismic wave propagation and earthquake modeling. Topics include finite difference methods, seismic imaging, and ground motion prediction, with applications in hazard assessment and geophysical exploration, emphasizing numerical simulations."), Baltimore, MD, USA.
 
-2025-04-23 to 25: [EuroMech Colloquium 647 on Stability and Bifurcation Problems in Nonlinear Solid Mechanics (2025)](https://647.euromech.org/), Glasgow, UK.
+2025-04-23 to 25: [EuroMech Colloquium 647 on Stability and Bifurcation Problems in Nonlinear Solid Mechanics (2025)](https://647.euromech.org/ "Focuses on stability and bifurcation in nonlinear solid mechanics. Topics include material instabilities, structural dynamics, and computational methods for analyzing complex mechanical systems."), Glasgow, UK.
 
 2025-04-27 to 05-02: [European Geophysical Union General Assembly (EGU 2025)](https://www.egu25.eu/ "EGU 2025 focuses on geophysics, covering computational methods for seismic, atmospheric, and oceanic modeling. Topics include numerical weather prediction, earthquake simulations, and geomagnetic modeling, with applications in climate science and hazard assessment, emphasizing interdisciplinary geophysical computations."), Vienna, Austria and online.
 
@@ -12,7 +12,7 @@
 
 2025-05-13 to 16: [4th International Conference on Computational Modeling of Complex Materials Across the Scales (CMCS 2025)](https://cmcs2025.sciencesconf.org/ "CMCS 2025 focuses on computational modeling of complex materials, covering multiscale methods, finite element simulations, and molecular dynamics. Topics include material deformation, electromagnetic properties, and nanoscale interactions, with applications in composites and metamaterials, emphasizing numerical techniques for cross-scale material behavior."), Champs-sur-Marne, France.
 
-2025-05-16 to 20: [IUTAM Symposium on Multiphysics Analysis of Wave Propagation in Electronic Device Structures (2025)](https://iutam.org/events/6705), Ningbo, China.
+2025-05-16 to 20: [IUTAM Symposium on Multiphysics Analysis of Wave Propagation in Electronic Device Structures (2025)](https://iutam.org/events/6705 "Examines multiphysics analysis of wave propagation in electronic devices. Topics include electromagnetic waves, material modeling, and computational methods for device design and performance optimization."), Ningbo, China.
 
-2025-05-21 to 23: [EuroMech Colloquium 656 on Data-Driven Mechanics and Physics of Solids (2025)](https://656.euromech.org/), Gothenburg, Sweden.
+2025-05-21 to 23: [EuroMech Colloquium 656 on Data-Driven Mechanics and Physics of Solids (2025)](https://656.euromech.org/ "Focuses on data-driven approaches in solid mechanics, integrating machine learning and computational modeling. Topics include material characterization, structural analysis, and applications in engineering design."), Gothenburg, Sweden.
 

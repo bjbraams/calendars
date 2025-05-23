@@ -69,12 +69,14 @@ for key in deletes.keys():
     del main[key]
 
 for key, event in updates.items():
+    myyaml.sort_event_keys(event)
     if key in main.keys():
         main[key].update(event)
     else:
         main[key] = event
 
 for key, event in latest.items():
+    myyaml.sort_event_keys(event)
     myyaml.capitalize(event)
     main[key] = event
 
@@ -87,10 +89,10 @@ with open('_data/main.yml', 'w') as file:
 with open('_data/new-'+TODAY+'.yml', 'a') as file:
     myyaml.dump(latest,file)
 with open('_data/latest.yml', 'w') as file:
-    file.write('# id,dd,name,link,loc,more,kw\n')
+    file.write('# <id>:{dd,name,link,loc,more,kw}\n')
 with open('_data/deletes.yml', 'w') as file:
-    file.write('# id\n')
+    file.write('# <id>:\n')
 with open('_data/updates.yml', 'w') as file:
-    file.write('# id,dd,name,link,loc,more,kw\n')
+    file.write('# <id>:{dd,name,link,loc,more,kw}\n')
 
 print('Now do YAML to MD and git update')

@@ -16,7 +16,7 @@
 
 2025-07-22 to 24: [26th International Conference on Descriptional Complexity of Formal Systems (DCFS 2025)](https://www.lboro.ac.uk/departments/compsci/events/dcfs-2025/ "DCFS 2025 focuses on descriptional complexity, covering automata, grammars, and formal languages. Topics include state complexity, succinct representations, and applications in verification and cryptography, emphasizing theoretical measures of complexity in formal computational systems."), Loughborough, UK.
 
-2025-07-22: [12th Workshop on Horn Clauses for Verification and Synthesis (HCVS 2025)](https://www.sci.unich.it/hcvs25/), Zagreb, Croatia. Colocated with CAV 2025.
+2025-07-22: [12th Workshop on Horn Clauses for Verification and Synthesis (HCVS 2025)](https://www.sci.unich.it/hcvs25/ "Focuses on Horn clauses for formal verification and synthesis. Topics include automated reasoning, program verification, and applications in software and hardware validation."), Zagreb, Croatia. Colocated with CAV 2025.
 
 2025-07-28 to 31: [30th International Conference on Automated Deduction (CADE 2025)](https://www.dhbw-stuttgart.de/cade-30/ "CADE 2025 focuses on automated deduction, covering theorem proving, satisfiability checking, and formal reasoning. Topics include applications in program verification, AI, and cryptography, emphasizing computational tools for automated logical deduction and formal methods."), Stuttgart, Germany.
 
@@ -26,9 +26,11 @@
 
 2025-08-19 to 22: [29th International Conference on Developments in Language Theory (DLT 2025)](https://cida.uos.ac.kr/dlt2025/ "DLT 2025 focuses on language theory, covering automata, formal languages, and combinatorics on words. Topics include parsing algorithms, language complexity, and applications in verification and natural language processing, emphasizing theoretical advances in computational linguistics."), Seoul, Korea.
 
-2025-08-25: [Workshop on Formal Methods in Quantum Computing (FMQC 2025)](https://fmqc-workshop.github.io/2025/), Aarhus, Denmark. Colocated with CONFEST 2025.
+2025-08-25: [Workshop on Formal Methods in Quantum Computing (FMQC 2025)](https://fmqc-workshop.github.io/2025/ "Focuses on formal methods for quantum computing. Topics include quantum program verification, logic-based approaches, and applications in quantum algorithm design and validation."), Aarhus, Denmark. Colocated with CONFEST 2025.
 
 2025-09-01 to 05: [19th European Conference on Logics in Artificial Intelligence (JELIA 2025)](https://viam.science.tsu.ge/jelia2025/ "JELIA 2025 focuses on logics in AI, covering knowledge representation, non-monotonic reasoning, and argumentation. Topics include applications in automated planning, multi-agent systems, and AI ethics, emphasizing logical foundations for intelligent computational systems and reasoning."), Kutaisi, Georgia.
+
+2025-09-08 to 19: [European Research Network on Formal Proofs COST Action CA20111 Final EuroProofNet Symposium (2025)](https://europroofnet.github.io/Symposium/), Orsay, France.
 
 2025-09-12 to 13: [9th Workshop on Advances in Argumentation in Artificial Intelligence (AI3 2025)](https://sites.google.com/unical.it/ai3-2025 "AI3 2025 explores argumentation in AI, covering argument mining, dialogue systems, and non-monotonic reasoning. Topics include applications in legal reasoning, decision support, and AI ethics, emphasizing logical and computational frameworks for argumentative reasoning in intelligent systems."), Rende, Italy.
 
@@ -38,11 +40,11 @@
 
 2025-09-22 to 25: [29th International Conference on Implementation and Application of Automata (CIAA 2025)](https://ciaa2025.unipa.it/ "CIAA 2025 focuses on automata theory, covering finite automata, regular expressions, and parsing algorithms. Topics include applications in compiler design, natural language processing, and verification, emphasizing computational and theoretical advances in automata implementation."), Palermo, Italy.
 
-2025-11-10 to 14: [23rd International Conference on Software Engineering and Formal Methods (SEFM 2025)](https://sefm-conference.github.io/2025/), Toledo, Spain.
+2025-11-10 to 14: [23rd International Conference on Software Engineering and Formal Methods (SEFM 2025)](https://sefm-conference.github.io/2025/ "Focuses on formal methods in software engineering. Topics include program verification, model checking, and applications in software development and system reliability."), Toledo, Spain.
 
-2025-11-17 to 19: [7th International Workshop on Formal Methods for Autonomous Systems (FMAS 2025)](https://fmasworkshop.github.io/FMAS2025/), Paris, France.
+2025-11-17 to 19: [7th International Workshop on Formal Methods for Autonomous Systems (FMAS 2025)](https://fmasworkshop.github.io/FMAS2025/ "Focuses on formal methods for autonomous systems. Topics include verification, synthesis, and applications in robotics, autonomous vehicles, and AI-driven systems."), Paris, France.
 
-2025-11-17 to 21: [20th International Conference on Integrated Formal Methods (iFM 2025)](https://ifm2025.ens.psl.eu/), Paris, France.
+2025-11-17 to 21: [20th International Conference on Integrated Formal Methods (iFM 2025)](https://ifm2025.ens.psl.eu/ "Explores integrated formal methods for system design. Topics include formal verification, model-based development, and applications in software and hardware systems."), Paris, France.
 
 2026-03-23 to 26: [14th International Symposium on Foundations of Information and Knowledge Systems (FoIKS 2026)](https://foiks2026.github.io/ "FoIKS 2026 explores foundations of information and knowledge systems, covering databases, knowledge representation, and reasoning. Topics include applications in AI, data integration, and semantic web, emphasizing theoretical and computational frameworks for managing information and knowledge."), Hanover, Germany.
 

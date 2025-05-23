@@ -2,31 +2,26 @@ import yaml
 from titlecase import titlecase
 
 MANDATORY_KEYS = {'dd','name','loc','kw'}
-OPTIONAL_KEYS = {'id','link','more','excerpt'}
-RECOGNIZED_KEYS = MANDATORY_KEYS|OPTIONAL_KEYS
+OPTIONAL_KEYS = {'link','more','excerpt'}
+RECOGNIZED_KEYS = {'dd','name','link','loc','more','kw','excerpt'}
+    # = MANDATORY_KEYS|OPTIONAL_KEYS, sorted as we like it
 
 def capitalize(event):
     if 'name' in event.keys():
         event['name'] = titlecase(event['name'])
+
+def sort_event_keys(event):
+    t = {}
+    for k in RECOGNIZED_KEYS:
+        if k in event.keys():
+            t[k] = event[k]
+    event = t
 
 def sort_key(event):
     # Sort on dd, ties resolved by event name.
     # Replace spaces with a high-value Unicode character for sorting.
     # ('YYYY tbd' will come after any specific date in year YYYY.)
     return str(event['dd'])+str(event['name']).replace(' ','\uffff')
-
-def remove_duplicates(data):
-    seen = set()
-    unique = []
-    for event in data:
-
-        if t0 not in seen:
-            seen.add(t0)
-            unique.append(event)
-    return unique
-
-def sorted_unique(data):
-    return sorted(remove_duplicates(data), key=sort_key)
 
 def check_pair(key,value,id):
     # Return a list of errors
@@ -109,13 +104,13 @@ def event_yaml_to_md(x,hl):
     else:
         return a+b
 
-def page_yaml_select_sort(source,main):
-    # Expand and sort the main file based on source.values()
-    main = {}
-    for x in main.keys():
-        if x in source.keys():
-            main[x] = source[x]
-    return sorted(main.items(), key = lambda item: sort_key(item[1]))
+# def page_yaml_select_sort(source,main):
+#     # Expand and sort the main file based on source.values()
+#     main = {}
+#     for x in main.keys():
+#         if x in source.keys():
+#             main[x] = source[x]
+#     return sorted(main.items(), key = lambda item: sort_key(item[1]))
 
 def page_yaml_to_md(main,highlights,TODAY):
     # Generate Markdown entries for a page.

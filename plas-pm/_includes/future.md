@@ -30,7 +30,7 @@
 
 **2025-09-28 to 10-03: [22nd International Conference on Fusion Reactor Materials (ICFRM 2025)](https://icfrm-22.com "ICFRM 2025 focuses on fusion reactor materials, covering plasma-material interactions, radiation effects, and advanced alloys. Topics include materials for divertors, blankets, and first walls, with applications in fusion energy, emphasizing experimental and computational studies of material performance under extreme conditions."), Shizuoka, Japan**.
 
-2025-10-06 to 08: [9th International Workshop on Plasma Material Interaction Facilities for Fusion Research (PMIF 2025)](https://indico.nifs.ac.jp/event/54/), Kyoto, Japan.
+2025-10-06 to 08: [9th International Workshop on Plasma Material Interaction Facilities for Fusion Research (PMIF 2025)](https://indico.nifs.ac.jp/event/54/ "Focuses on plasma-material interactions for fusion research. Topics include material erosion, plasma diagnostics, and computational modeling for fusion reactor design."), Kyoto, Japan.
 
 2025-11-03 to 06: [14th Asian-European International Conference on Plasma Surface Engineering (AEPSE 2025) in Parallel With International Conference on Surface Engineering (ICSE 2025)](http://aepse.org/2025/ "AEPSE and ICSE 2025 focus on plasma surface engineering, covering plasma coatings, surface modification, and thin films. Topics include applications in electronics, biomedical devices, and energy, emphasizing experimental and computational advances in plasma-based surface engineering technologies."), Phuket, Thailand.
 
