@@ -1,1 +1,19 @@
 # id,dd,name,link,loc,more,kw
+CECAM-FSSpectMC2025:
+  dd: 2025-09-01 to 05
+  name: CECAM Flagship School CECAM/ALC/CCP9 Spectroscopy Masterclass (2025)
+  link: https://www.cecam.org/workshop-details/cecamalcccp9-spectroscopy-masterclass-1439
+  loc: Daresbury, UK
+  kw: qmat
+ERN-CA20111Symp2025:
+  dd: 2025-09-08 to 19
+  name: European Research Network on Formal Proofs COST action CA20111 Final EuroProofNet Symposium (2025)
+  link: https://europroofnet.github.io/Symposium/
+  loc: Orsay, France
+  kw: cs-lo
+4ITADATA2025:
+  dd: 2025-09-09 to 11
+  name: 4th Italian Conference on Big Data and Data Science (ITADATA 2025)
+  link: https://www.itadata.it/
+  loc: Turin, Italy
+  kw: stat-ml,comp-ml
