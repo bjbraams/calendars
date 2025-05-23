@@ -1,7 +1,3 @@
-2025-05-20 to 22: [Rossfest70 Celebrating 70 Years of Ross Pinsky Adventures in Probability, PDEs and Combinatorics (2025)](https://sites.google.com/slu.edu/rossfest/ "Rossfest70 celebrates Ross Pinsky’s contributions to probability, partial differential equations, and combinatorics. Topics include random walks, stochastic processes, and combinatorial optimization, with applications in statistical physics and network science, emphasizing interdisciplinary mathematical advancements."), St. Louis, MO, USA.
-
-2025-05-20 to 23: [Eurandom Workshop Product-Form Probability Distributions (2025)](https://www.eurandom.tue.nl/event/product-form-probability-distributions/ "This workshop explores product-form probability distributions, focusing on queueing theory, Markov chains, and statistical mechanics. Topics include equilibrium distributions, network models, and applications in performance analysis and complex systems, emphasizing analytical probabilistic techniques."), Eindhoven, Netherlands.
-
 2025-05-25 to 30: [BIRS Workshop on Mixtures of Probability and Geometry (2025)](https://www.birs.ca/events/2025/5-day-workshops/25w5361 "This workshop explores probability and geometry, covering random graphs, geometric measure theory, and stochastic geometry. Topics include random tessellations, point processes, and applications in network science and imaging, emphasizing probabilistic models for geometric structures."), Oaxaca, Mexico.
 
 2025-05-26 to 30: [43rd Finnish Summer School on Probability and Statistics (2025)](https://fdnss.fi/43rd-finnish-summer-school-on-probability-and-statistics/ "This summer school explores probability and statistics, covering stochastic processes, Bayesian inference, and high-dimensional data analysis. Topics include random walks, statistical modeling, and applications in biology and finance, emphasizing foundational and applied probabilistic techniques."), Lammi, Finland.
@@ -11,8 +7,6 @@
 2025-05-27 to 28: [Maryland Quantum-Thermodynamics Symposium (QTD 2025)](https://qtd-hub.umd.edu/event/symposium-2025 "QTD 2025 focuses on quantum thermodynamics, covering quantum heat engines, entanglement, and stochastic processes. Topics include quantum fluctuation theorems, thermodynamic uncertainty relations, and applications in quantum information, emphasizing probabilistic models for quantum thermodynamic systems."), UMBC, Baltimore, MD, USA.
 
 2025-06-01 to 05: [Workshop on Recent Advances in Evolving and Spatial Random Graphs (2025)](https://sites.google.com/view/bas-lodewijks/workshop-evolving-and-spatial-random-graphs "This workshop focuses on evolving and spatial random graphs, covering dynamic network models, percolation, and spatial point processes. Topics include graph dynamics, random geometric graphs, and applications in epidemiology and telecommunications, emphasizing probabilistic network analysis."), Bayrischzell, Germany.
-
-2025-06-01 to 06: [BIRS Workshop on Free Probability, Random Matrices and Finite-Dimensional Approximations (2025)](https://www.birs.ca/events/2025/5-day-workshops/25w5440), Oaxaca, Mexico.
 
 2025-06-01 to 06: [BIRS Workshop on Free Probability, Random Matrices and Finite-Dimensional Approximations (2025)](https://www.birs.ca/events/2025/5-day-workshops/25w5440), Oaxaca, Mexico.
 
@@ -72,11 +66,7 @@
 
 2025-09-01 to 05: [2nd French-Japanese Conference Probability & Interactions (2025)](https://sites.google.com/view/frenchjapaneseconference/), Tokyo, Japan.
 
-2025-09-01 to 05: [2nd French-Japanese Conference Probability & Interactions (2025)](https://sites.google.com/view/frenchjapaneseconference/), Tokyo, Japan.
-
 2025-09-07 to 12: [SFB Summer School on Discrete Random Structures (2025)](https://sfbrandom.univie.ac.at/events/sfb-summer-school-2025/ "This summer school explores discrete random structures, covering random graphs, combinatorial probability, and stochastic processes. Topics include applications in network science, statistical physics, and computer science, emphasizing probabilistic methods for analyzing discrete random systems."), Pörtschach, Austria.
-
-2025-09-08 to 12: [Random Matrix Theory Summer School in Japan (2025)](https://benoitcollins.github.io/rmt2025/), Kyoto, Japan.
 
 2025-09-08 to 12: [Random Matrix Theory Summer School in Japan (2025)](https://benoitcollins.github.io/rmt2025/), Kyoto, Japan.
 
@@ -100,13 +90,7 @@
 
 2026-03-23 to 27: [CIRM Workshop on Entropy and Random Matrices (2026)](https://conferences.cirm-math.fr/3597.html), Marseille, France.
 
-2026-03-23 to 27: [CIRM Workshop on Entropy and Random Matrices (2026)](https://conferences.cirm-math.fr/3597.html), Marseille, France.
-
 2026-04-14 to 17: [SCGP Workshop Random Geometry in Math and Physics (2026)](https://scgp.stonybrook.edu/archives/45656), Stony Brook.
-
-2026-04-14 to 17: [SCGP Workshop Random Geometry in Math and Physics (2026)](https://scgp.stonybrook.edu/archives/45656), Stony Brook.
-
-2026-06-07 to 12: [Oberwolfach Workshop on Random Matrices](https://www.mfo.de/occasion/2624/www_view), Oberwolfach, Germany.
 
 2026-06-07 to 12: [Oberwolfach Workshop on Random Matrices (2026)](https://www.mfo.de/occasion/2624/www_view), Oberwolfach, Germany.
 

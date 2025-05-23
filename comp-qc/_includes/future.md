@@ -1,3 +1,5 @@
+2025 tbd: [International Symposium on Quantum Physics and Quantum Information Sciences (QPQIS 2025)](http://qpqis.baqis.ac.cn/2025/ "QPQIS 2025 explores quantum physics and information, covering quantum computing, entanglement, and quantum cryptography. Topics include applications in quantum communication, simulation, and sensing, emphasizing theoretical and experimental advancements in quantum information science and technologies."), Beijing, China.
+
 2025-06-02 to 06: [3rd International Workshop on the Art, Science, and Engineering of Quantum Programming (QP 2025)](https://2025.programming-conference.org/details/prog25-workshops/4/The-3rd-International-Workshop-on-the-Art-Science-and-Engineering-of-Quantum-Progra "QP 2025 explores quantum programming, focusing on quantum algorithms, circuit design, and software frameworks. Topics include quantum error correction, hybrid quantum-classical programming, and applications in optimization and cryptography, emphasizing practical and theoretical quantum software development."), Prague, Czech Republic.
 
 2025-06-02 to 06: [FoQaCiA WORKSHOP Pioneering the Foundations of Quantum Computing (2025)](https://foqacia.org/foqacia-workshop-2025 "FoQaCiA 2025 focuses on quantum computing foundations, covering quantum algorithms, entanglement, and quantum complexity. Topics include variational quantum circuits, quantum error mitigation, and applications in simulation and optimization, emphasizing theoretical and experimental quantum advancements."), Braga, Portugal.
@@ -19,8 +21,6 @@
 2025-07-07 to 12: [IEEE International Conference on Quantum Software (QSW 2025)](https://services.conferences.computer.org/2025/qsw/ "QSW 2025 focuses on quantum software, covering quantum programming languages, compilers, and verification tools. Topics include quantum circuit optimization, hybrid quantum-classical systems, and applications in quantum simulation, emphasizing software development for quantum computing advancements."), Helsinki, Finland.
 
 2025-07-14 to 18: [22nd International Conference on Quantum Physics and Logic (QPL 2025)](https://qpl2025.github.io "QPL 2025 explores quantum physics and logic, covering quantum programming, categorical quantum mechanics, and quantum foundations. Topics include quantum algorithms, entanglement theory, and applications in quantum computing, emphasizing logical and theoretical quantum information frameworks."), Varna, Bulgaria.
-
-2025-07-15 to 08-22: [CEMRACS International Summer School on Quantum Computing (2025)](https://cemracs2025.math.cnrs.fr/en/), Marseille, France.
 
 2025-07-15 to 08-22: [CEMRACS International Summer School on Quantum Computing (2025)](https://cemracs2025.math.cnrs.fr/en/), Marseille, France.
 
@@ -61,6 +61,4 @@
 2025-10-15 to 17: [Quantum Network Workshop (QuNeW 2025)](https://qutech.nl/event/qunew/ "QuNeW 2025 focuses on quantum networks, covering quantum communication, entanglement distribution, and quantum repeaters. Topics include applications in secure communication and distributed quantum computing, emphasizing experimental and theoretical advancements in quantum networking technologies."), The Hague, Netherlands.
 
 2025-11-10 to 12: [European Quantum Technologies Conference (EQTC 2025)](https://eqtc.eu "EQTC 2025 focuses on quantum technologies, covering quantum computing, sensing, and communication. Topics include quantum algorithms, quantum cryptography, and quantum hardware development, emphasizing experimental and theoretical advancements for practical quantum technology applications."), Copenhagen, Denmark.
-
-2025 tbd: [International Symposium on Quantum Physics and Quantum Information Sciences (QPQIS 2025)](http://qpqis.baqis.ac.cn/2025/ "QPQIS 2025 explores quantum physics and information, covering quantum computing, entanglement, and quantum cryptography. Topics include applications in quantum communication, simulation, and sensing, emphasizing theoretical and experimental advancements in quantum information science and technologies."), Beijing, China.
 

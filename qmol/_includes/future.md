@@ -1,5 +1,3 @@
-2025-05-20 to 23: [4th Cold Atom Molecule Interactions Conference (CATMIN 2025)](https://eventos.ugr.es/catmin/ "CATMIN 2025 focuses on cold atom-molecule interactions, covering quantum scattering, ultracold chemistry, and quantum simulation. Topics include Feshbach resonances, molecular quantum gases, and applications in quantum information, emphasizing experimental and theoretical studies of cold quantum systems."), Granada, Spain.
-
 2025-05-23 to 28: [11th Triennial Molecular Quantum Mechanics Conference (MQM 2025)](http://mqm2025.net "MQM 2025 explores molecular quantum mechanics, focusing on electronic structure, quantum dynamics, and spectroscopy. Topics include ab initio methods, quantum Monte Carlo, and applications in photochemistry and molecular design, emphasizing computational advancements in quantum molecular modeling."), Kyoto, Japan.
 
 2025-05-25 to 30: [22nd International Conference on Time-Resolved Vibrational Spectroscopy (TRVS 2025)](https://trvs2025.jp/ "TRVS 2025 explores time-resolved vibrational spectroscopy, focusing on ultrafast molecular dynamics and chemical kinetics. Topics include Raman scattering, infrared spectroscopy, and applications in photochemistry and biophysics, emphasizing experimental techniques for probing molecular vibrations."), Moriyama, Shiga, Japan.
@@ -23,8 +21,6 @@
 2025-06-24 to 27: [Workshop on Ultracold Molecules (2025)](https://ultracold-molecules-2025.pl "This workshop focuses on ultracold molecules, covering quantum chemistry, molecular cooling, and quantum simulation. Topics include ultracold collisions, molecular quantum gases, and applications in quantum information, emphasizing experimental and theoretical ultracold molecular physics."), Warsaw, Poland.
 
 2025-06-26 to 29: [Spectroscopy of Exoplanets: Over All Wavelength (2025)](https://exomol.com/activities/conference-spectroscopy-of-exoplanets-over-all-wavelength/ "This conference focuses on exoplanet spectroscopy, covering molecular absorption, emission spectra, and atmospheric modeling. Topics include high-resolution spectroscopy, radiative transfer, and applications in exoplanet characterization, emphasizing spectroscopic techniques across all wavelengths."), Broxbourne, Hertfordshire, UK.
-
-2025-07-02 to 04: [CECAM Flagship Workshop on Open Software for Neural Wavefunctions (2025)](https://www.cecam.org/workshop-details/open-software-for-neural-wavefunctions-1384), Lausanne, Switzerland.
 
 2025-07-02 to 04: [CECAM Flagship Workshop on Open Software for Neural Wavefunctions (2025)](https://www.cecam.org/workshop-details/open-software-for-neural-wavefunctions-1384), Lausanne, Switzerland.
 
@@ -65,4 +61,6 @@
 2026-06-28 to 07-03: [Gordon Research Conference Molecular Interactions and Dynamics (2026)](https://grc.org/molecular-interactions-and-dynamics-conference/2026/ "This conference explores molecular interactions and dynamics, covering quantum chemistry, molecular dynamics, and spectroscopy. Topics include applications in chemical reactions, biophysics, and materials science, emphasizing computational and experimental studies of molecular behavior and interactions."), Easton, MA, USA.
 
 2026-07-01 to 08-31: [9th High-Dimensional Quantum Dynamics Workshop (HDQD 2026)](https://hdqd2026.wordpress.com "HDQD 2026 explores high-dimensional quantum dynamics, covering quantum simulations, wavepacket dynamics, and quantum control. Topics include applications in photochemistry, quantum computing, and molecular physics, emphasizing computational methods for modeling complex quantum systems."), Salamanca, Spain.
+
+2026-08-02 to 06: [Conference on Chemistry and Physics at Low Temperatures (CPLT 2026)](https://www.mertenlab.de/cplt2026/), Bochum, Germany.
 

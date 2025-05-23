@@ -2,10 +2,6 @@
 
 2025-01-29 to 31: [IMSI Winter School Reduced-Order Modeling for Complex Engineering Problems (2025)](https://www.imsi.institute/activities/reduced-order-modeling-for-complex-engineering-problems-from-analysis-to-practical-implementation/), Chicago, IL, USA.
 
-2025-01-29 to 31: [IMSI Winter School Reduced-Order Modeling for Complex Engineering Problems (2025)](https://www.imsi.institute/activities/reduced-order-modeling-for-complex-engineering-problems-from-analysis-to-practical-implementation/), Chicago, IL, USA.
-
-2025-02-03 to 07: [IMSI Research Workshop Reduced-Order Modeling for Complex Engineering Problems (2025)](https://www.imsi.institute/activities/reduced-order-modeling-for-complex-engineering-problems-from-analysis-to-practical-implementation/), Chicago, IL, USA.
-
 2025-02-03 to 07: [IMSI Research Workshop Reduced-Order Modeling for Complex Engineering Problems (2025)](https://www.imsi.institute/activities/reduced-order-modeling-for-complex-engineering-problems-from-analysis-to-practical-implementation/), Chicago, IL, USA.
 
 2025-02-17 to 21: [3rd IACM Digital Twins in Engineering Conference (DTE 2025) and 1st ECCOMAS Artificial Intelligence and Computational Methods in Applied Science (AICOMAS 2025)](https://dte_aicomas_2025.iacm.info "This joint conference explores digital twins and AI in engineering. Topics include machine learning for predictive modeling, real-time simulation, and data assimilation in digital twins. Applications span aerospace, automotive, and civil engineering, emphasizing computational methods for optimizing complex systems and decision-making."), Paris, France.

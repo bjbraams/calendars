@@ -4,3 +4,5 @@
 
 2025-03-31 to 04-02: [37th Molecular Modeling Workshop (MMWS 2025)](https://mmws2025.mgms-ds.de "MMWS 2025 focuses on molecular modeling, covering molecular dynamics, quantum chemistry, and force field development. Topics include protein-ligand interactions, molecular docking, and applications in drug design and materials science, emphasizing computational tools for molecular simulations."), Erlangen, Germany.
 
+2025-05-20 to 23: [4th Cold Atom Molecule Interactions Conference (CATMIN 2025)](https://eventos.ugr.es/catmin/ "CATMIN 2025 focuses on cold atom-molecule interactions, covering quantum scattering, ultracold chemistry, and quantum simulation. Topics include Feshbach resonances, molecular quantum gases, and applications in quantum information, emphasizing experimental and theoretical studies of cold quantum systems."), Granada, Spain.
+

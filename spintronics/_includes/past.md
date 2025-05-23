@@ -1,0 +1,2 @@
+2025-05-21 to 23: [Workshop on Recent Progress, Development, and Applications of Two-Dimensional Magnets in Spintronics (2025)](https://indico.science.upjs.sk/event/212/ "This workshop explores two-dimensional magnets in spintronics, focusing on magnetic van der Waals materials and spin transport. Topics include spin-orbit coupling, magnetic tunneling junctions, and applications in memory devices, emphasizing experimental and theoretical progress in spintronic technologies."), Belgrade, Serbia.
+

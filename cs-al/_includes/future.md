@@ -1,5 +1,3 @@
-2025-05-20 to 23: [Canadian Discrete and Algorithmic Mathematics Conference (CanaDAM 2025)](https://canadam.ca/2025 "CanaDAM 2025 focuses on discrete and algorithmic mathematics, covering graph theory, combinatorial optimization, and coding theory. Topics include network algorithms, discrete structures, and applications in cryptography and data science, emphasizing theoretical and computational advancements."), Ottawa, ON, Canada.
-
 2025-05-26 to 29: [International Federation for Information Processing (IFIP) Networking 2025 Conference (NETWORKING 2025)](https://networking.ifip.org/2025/ "NETWORKING 2025 explores network science, focusing on algorithmic design, network optimization, and performance analysis. Topics include routing protocols, network security, and graph-based models, with applications in 5G and IoT, emphasizing computational approaches to network efficiency."), Limassol, Cyprus.
 
 2025-06-02 to 04: [32nd International Colloquium on Structural Information and Communication Complexity (SIROCCO 2025)](https://www.torontomu.ca/sirocco-2025/ "SIROCCO 2025 explores structural information and communication complexity, focusing on distributed algorithms, network topologies, and graph theory. Topics include message-passing models, fault tolerance, and applications in distributed computing, emphasizing theoretical computational efficiency."), Delphi, Greece.
@@ -58,6 +56,8 @@
 
 2025-09-02 to 05: [18th International Symposium on Algorithmic Game Theory (SAGT 2025)](https://bath.ac.uk/events/the-18th-international-symposium-on-algorithmic-game-theory/ "SAGT 2025 focuses on algorithmic game theory, covering mechanism design, equilibrium computation, and market algorithms. Topics include applications in economics, network design, and AI, emphasizing theoretical and computational approaches to strategic interactions and game-theoretic modeling."), Bath, UK.
 
+2025-09-08 to 11: [32nd International Symposium on String Processing and Information Retrieval (SPIRE 2025)](https://sites.google.com/view/spire-2025/), London, UK.
+
 2025-09-12 to 14: [27th China-Japan Conference on Discrete and Computational Geometry, Graphs, and Games (CJCDCG3 2025)](https://sokoban.cn/yang/cjcdcggg2025 "CJCDCG3 2025 focuses on discrete and computational geometry, covering graph theory, geometric algorithms, and game theory. Topics include applications in robotics, computer graphics, and network design, emphasizing theoretical and computational advances in geometric and graph-based problems."), Guangzhou, China.
 
 2025-09-15 to 19: [ALGO Including European Symposium on Algorithms (ESA) and Related Conferences and Workshops (ALGO 2025)](https://algo-conference.org/2025/ "ALGO 2025 explores algorithms, covering graph algorithms, approximation algorithms, and computational geometry. Topics include applications in networks, bioinformatics, and machine learning, emphasizing theoretical and practical advancements in algorithm design and analysis for computational problems."), Warsaw, Poland.
@@ -76,13 +76,7 @@
 
 2026-01-11 to 12: [SIAM Symposium on Algorithm Engineering and Experiments (ALENEX 2026)](https://www.siam.org/conferences-events/siam-conferences/alenex26/), Vancouver, BC, Canada.
 
-2026-01-11 to 12: [SIAM Symposium on Algorithm Engineering and Experiments (ALENEX 2026)](https://www.siam.org/conferences-events/siam-conferences/alenex26/), Vancouver, BC, Canada.
-
 2026-01-11 to 14: [ACM-SIAM Symposium on Discrete Algorithms (SODA 2026)](https://www.siam.org/conferences-events/siam-conferences/soda26/), Vancouver, BC, Canada.
-
-2026-01-11 to 14: [ACM-SIAM Symposium on Discrete Algorithms (SODA 2026)](https://www.siam.org/conferences-events/siam-conferences/soda26/), Vancouver, BC, Canada.
-
-2026-01-12 to 13: [SIAM Symposium on Simplicity in Algorithms (SOSA 2026)](https://www.siam.org/conferences-events/siam-conferences/sosa26/), Vancouver, BC, Canada.
 
 2026-01-12 to 13: [SIAM Symposium on Simplicity in Algorithms (SOSA 2026)](https://www.siam.org/conferences-events/siam-conferences/sosa26/), Vancouver, BC, Canada.
 

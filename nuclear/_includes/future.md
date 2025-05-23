@@ -40,6 +40,8 @@
 
 2025-11-17 to 21: [11th ECTstar Workshop on Information and Statistics in Nuclear Experiment and Theory (ESNET 2025)](https://indico.ectstar.eu/event/247/ "ESNET 2025 explores statistical methods in nuclear physics, covering Bayesian analysis, uncertainty quantification, and experimental design. Topics include applications in nuclear reactions, astrophysics, and nuclear structure, emphasizing computational and statistical tools for nuclear experiment analysis."), Trento, Italy.
 
+2026 tbd: [12th Conference on Nuclear Physics in Astrophysics (NPA 2026)](https://members.eps.org/blogpost/739426/News "NPA-XII 2026 focuses on nuclear astrophysics, covering nucleosynthesis, stellar evolution, and nuclear reactions. Topics include applications in supernovae, neutron stars, and cosmology, emphasizing experimental and theoretical studies of nuclear processes in astrophysical environments."), tbd.
+
 2026-05-18 to 22: [10th Oslo Workshop on Level Density and Gamma Strength (2026)](https://www.mn.uio.no/fysikk/english/research/news-and-events/events/conferences/gamma10/ "This workshop focuses on nuclear level density and gamma strength, covering nuclear reactions, statistical models, and spectroscopy. Topics include applications in nuclear astrophysics and reactor physics, emphasizing experimental and theoretical methods for nuclear structure analysis."), Oslo, Norway.
 
 2026-05-23 to 29: [28th Conference on Computing in High Energy and Nuclear Physics (CHEP 2026)](https://chep2026.phys.sc.chula.ac.th "CHEP 2026 focuses on computing in high-energy and nuclear physics, covering data analysis, simulation, and machine learning. Topics include particle detector simulations, big data processing, and AI applications, emphasizing computational tools for advancing nuclear and particle physics research."), Bangkok, Thailand.
@@ -52,9 +54,5 @@
 
 2026-08-30 to 09-06: [59th Zakopane Conference on Nuclear Physics (Zakopane 2026)](https://zakopane2026.ifj.edu.pl "Zakopane 2026 focuses on nuclear physics, covering nuclear structure, reactions, and astrophysics. Topics include quark-gluon plasma, nuclear spectroscopy, and neutrino physics, emphasizing experimental and theoretical advances in understanding nuclear phenomena and applications."), Kraków, Poland.
 
-2026 tbd: [12th Conference on Nuclear Physics in Astrophysics (NPA 2026)](https://members.eps.org/blogpost/739426/News "NPA-XII 2026 focuses on nuclear astrophysics, covering nucleosynthesis, stellar evolution, and nuclear reactions. Topics include applications in supernovae, neutron stars, and cosmology, emphasizing experimental and theoretical studies of nuclear processes in astrophysical environments."), tbd.
-
-2027 tbd: [EPS Nuclear Physics Division European Nuclear Physics Conference (EuNPC 2027)](https://members.eps.org/blogpost/739426/509153/Call-for-bids-European-Nuclear-Physics-Conference-2027-EuNPC-2027), tbd. Provisional Link
-
-2027 tbd: [EPS Nuclear Physics Division European Nuclear Physics Conference (EuNPC 2027)](https://members.eps.org/blogpost/739426/509153/Call-for-bids-European-Nuclear-Physics-Conference-2027-EuNPC-2027), tbd. Provisional Link
+2027 tbd: [EPS Nuclear Physics Division European Nuclear Physics Conference (EuNPC 2027)](https://members.eps.org/blogpost/739426/509153/Call-for-bids-European-Nuclear-Physics-Conference-2027-EuNPC-2027), tbd. Provisional Link.
 

@@ -1,14 +1,8 @@
 2025-02-03 to 07: [Short Course on Advanced Numerical Methods for Hyperbolic Equations 2025](https://eventi.unitn.it/en/short-course-advanced-numerical-methods-hyperbolic-equations-2025), Trento, Italy.
 
-2025-02-03 to 07: [Short Course on Advanced Numerical Methods for Hyperbolic Equations 2025](https://eventi.unitn.it/en/short-course-advanced-numerical-methods-hyperbolic-equations-2025), Trento, Italy.
-
-2025-02-05 to 07: [EMS Topical Activity Group Mixtures Conference on Mixtures: Modeling, Analysis and Computing (2025)](https://www.karlin.mff.cuni.cz/~prusv/ncmm/conference/mixtures/), Prague, Czech Republic.
-
 2025-02-05 to 07: [EMS Topical Activity Group Mixtures Conference on Mixtures: Modeling, Analysis and Computing (2025)](https://www.karlin.mff.cuni.cz/~prusv/ncmm/conference/mixtures/), Prague, Czech Republic.
 
 2025-03-17 to 20: [23rd IACM Computational Fluids Conference (CFC 2025)](https://cfc2025.iacm.info/ "CFC 2025 focuses on computational fluid dynamics, covering numerical methods for incompressible and compressible flows. Topics include turbulence modeling, mesh adaptation, and high-order schemes, with applications in aerodynamics, environmental flows, and biofluids, emphasizing advanced simulation techniques."), Santiago, Chile.
-
-2025-03-25 to 28: [EuroMech Colloquium 659 on Metamaterials in Fluid Flows and Beyond (2025)](http://659.euromech.org/), Groningen, Netherlans.
 
 2025-03-25 to 28: [EuroMech Colloquium 659 on Metamaterials in Fluid Flows and Beyond (2025)](http://659.euromech.org/), Groningen, Netherlans.
 
@@ -16,15 +10,9 @@
 
 2025-04-02 to 04: [EuroMech Colloquium 629 on Data-Driven Fluid Mechanics (2025)](https://629.euromech.org/), London, UK.
 
-2025-04-02 to 04: [EuroMech Colloquium 629 on Data-Driven Fluid Mechanics (2025)](https://629.euromech.org/), London, UK.
-
-2025-04-07 to 10: [Conference on Kinetic Equations and Turbulence in Honor of Claude Bardos\'s 85th Birthday](https://bardos-85.sciencesconf.org/?lang=en), Gif-sur-Yvette, France.
-
 2025-04-07 to 10: [Conference on Kinetic Equations and Turbulence in Honor of Claude Bardos\'s 85th Birthday](https://bardos-85.sciencesconf.org/?lang=en), Gif-sur-Yvette, France.
 
 2025-04-27 to 05-02: [Oberwolfach Workshop on Computational Multiscale Methods (2025)](https://mfo.de/occasion/2518/www_view "This workshop explores computational multiscale methods, covering homogenization, multigrid techniques, and adaptive algorithms. Topics include multiscale fluid dynamics, materials modeling, and applications in engineering and biophysics, emphasizing efficient numerical methods for complex systems."), Oberwolfach, Germany.
-
-2025-05-05 to 07: [ANR Project ADA Conference on Theoretical and Numerical Analysis of Multi-Scale Equations (2025)](https://conf-ada.sciencesconf.org/), Lyon, France.
 
 2025-05-05 to 07: [ANR Project ADA Conference on Theoretical and Numerical Analysis of Multi-Scale Equations (2025)](https://conf-ada.sciencesconf.org/), Lyon, France.
 
@@ -32,5 +20,5 @@
 
 2025-05-15 to 17: [IUTAM Symposium on Machine Learning in Diverse Fluid Mechanics (2025)](https://iutam.org/events/iutam-symposium-on-machine-learning-in-diverse-fluid-mechanics), Okinawa, Japan.
 
-2025-05-15 to 17: [IUTAM Symposium on Machine Learning in Diverse Fluid Mechanics (2025)](https://iutam.org/events/iutam-symposium-on-machine-learning-in-diverse-fluid-mechanics), Okinawa, Japan.
+2025-05-22 to 23: [2nd International Workshop on Advance in Nonlinear Dynamical Systems, Complex Networks and Applications (DySyX 2025)](https://dysyx2025.sciencesconf.org/), Kenitra, Morocco.
 

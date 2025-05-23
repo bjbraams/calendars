@@ -2,10 +2,6 @@
 
 2025-06-16 to 19: [4th International Conference Nonlinear Elliptic PDE in Hauts-De-France (2025)](https://4th-nlepde-hf.sciencesconf.org/), Calais, France.
 
-2025-06-16 to 19: [4th International Conference Nonlinear Elliptic PDE in Hauts-De-France (2025)](https://4th-nlepde-hf.sciencesconf.org/), Calais, France.
-
-2025-06-16 to 20: [Conference on Differential Geometry, Analysis and Epistemology in Honor of Marco Rigoli\'s 70th Birthday](https://sites.google.com/view/dgaemi25), Milan, Italy.
-
 2025-06-16 to 20: [Conference on Differential Geometry, Analysis and Epistemology in Honor of Marco Rigoli\'s 70th Birthday (2025)](https://sites.google.com/view/dgaemi25), Milan, Italy.
 
 2025-09-14 to 17: [20th Conference on Computer Science and Intelligence Systems (FedCSIS 2025)](https://2025.fedcsis.org/ "FedCSIS 2025 explores computer science and intelligent systems, covering algorithms, AI, and data science. Topics include machine learning, cybersecurity, and software engineering, emphasizing interdisciplinary computational methods and applications in intelligent system design and analysis."), Kraków, Poland.

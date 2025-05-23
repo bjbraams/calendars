@@ -28,6 +28,8 @@
 
 **2025-10-13 to 17: [78th Gaseous Electronics Conference (GEC 2025)](https://apsgec.org/gec2025/ "GEC 2025 focuses on gaseous electronics, covering plasma discharges, electron collisions, and plasma chemistry. Topics include applications in semiconductor processing, lighting, and biomedical plasmas, emphasizing experimental and computational studies of low-temperature plasma phenomena and technologies."), Seoul, Korea**.
 
+**2026 tbd: 22nd International Congress on Plasma Physics (ICPP 2026), tbd**.
+
 2026-06-15 to 18: [31st Symposium on Plasma Physics and Technology (2026)](https://www.plasmaconference.cz/ "This symposium explores plasma physics, covering magnetic confinement, plasma diagnostics, and low-temperature plasmas. Topics include fusion energy, plasma processing, and biomedical applications, emphasizing experimental and computational advancements in plasma science and technology."), Prague, Czech Republic.
 
 **2026-06-22 to 26: [53rd International Conference on Plasma Science (ICOPS 2026)](https://icops.ieee.org/icops2026/ "ICOPS 2026 focuses on plasma science, covering plasma diagnostics, laser-plasma interactions, and plasma applications. Topics include fusion, space plasmas, and plasma processing, emphasizing experimental, theoretical, and computational advancements in plasma physics and technology."), Lake Tahoe, NV, USA**.
@@ -37,8 +39,6 @@
 2026-10-03 to 08: [29th International School on Low Temperature Plasma Physics: Basics and Applications (2026)](https://www.plasma-school.org/ "This school explores low-temperature plasma physics, covering plasma generation, diagnostics, and applications. Topics include plasma chemistry, surface processing, and biomedical plasmas, emphasizing fundamental principles and computational modeling for industrial and medical applications."), Bad Honnef, Germany.
 
 2026-11-30 to 12-03: [12th International Conference on Reactive Plasmas (ICRP 2026)](https://annex.jsap.or.jp/plasma/PE_files/meetings.html "ICRP 2026 focuses on reactive plasmas, covering plasma chemistry, etching, and deposition. Topics include applications in semiconductor manufacturing, surface modification, and nanotechnology, emphasizing experimental and computational studies of reactive plasma processes and technologies."), Kanazawa, Japan.
-
-**2026 tbd: 22nd International Congress on Plasma Physics (ICPP 2026), tbd**.
 
 2027-10-02 to 07: [30th International School on Low Temperature Plasma Physics: Basics and Applications (2026)](https://www.plasma-school.org/ "This school explores low-temperature plasma physics, covering plasma generation, diagnostics, and applications. Topics include plasma-surface interactions, biomedical plasmas, and industrial processing, emphasizing fundamental principles and computational modeling for practical plasma applications."), Bad Honnef, Germany.
 

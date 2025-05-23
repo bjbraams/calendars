@@ -20,3 +20,7 @@
 
 2025-05-03 to 04: [Penn Conference on Theoretical Chemistry (PCTC 2025) (Ferroelectrics, Nanomaterials, Light-Matter Interactions, Next-Gen Computing & Renewable Energy)](https://pctc2025.regfox.com/pctc25 "PCTC 2025 explores theoretical chemistry, focusing on ferroelectrics, nanomaterials, and light-matter interactions. Topics include quantum simulations, excitonic dynamics, and computational materials design, with applications in next-generation computing and renewable energy, emphasizing quantum chemical advancements."), Philadelphia, PA, USA.
 
+2025-05-20 to 23: [5th Quantum Matter International Conference (QUANTUMatter 2025)](https://quantumconf.eu/2025/ "QUANTUMatter 2025 explores quantum materials, focusing on topological phases, superconductors, and quantum magnetism. Topics include many-body interactions, quantum phase transitions, and applications in quantum computing and spintronics, emphasizing theoretical and experimental advancements in quantum matter."), Grenoble, France.
+
+2025-05-21 to 27: [90th Workshop of the International School of Solid State Physics: Dynamics of Electrons in Atomic and Molecular Nanoclusters (DEAMN 2025)](https://dornsife.usc.edu/deamn25/ "DEAMN 2025 focuses on electron dynamics in nanoclusters, covering quantum confinement, charge transfer, and plasmonics. Topics include computational modeling, spectroscopic techniques, and applications in nanotechnology and catalysis, emphasizing electron behavior in atomic and molecular systems."), Erici, Sicily, Italy.
+

@@ -6,7 +6,7 @@
 
 2025-06-11 to 14: [Multi-Disciplinary Conference on Reinforcement Learning and Decision Making (RLDM 2025)](https://rldm.org/), Dublin, UK.
 
-2025-06-11 to 14: [Multi-Disciplinary Conference on Reinforcement Learning and Decision Making (RLDM 2025)](https://rldm.org/), Dublin, UK.
+2025-06-13 to 14: [GAIL Workshop Generative AI Modelling for Extreme Events](https://gail.ed.ac.uk/news-and-events/events/generative-ai-modelling-for-extreme-events), Edinburgh, UK.
 
 2025-06-16 to 19: [INFORMED AI Summer School 2025](https://informed-ai.net/event/informed-ai-summer-school-2025/ "This summer school explores AI and machine learning, focusing on neural networks, Bayesian methods, and data-driven modeling. Topics include deep learning, uncertainty quantification, and applications in scientific discovery, emphasizing foundational and applied AI techniques for researchers."), Bristol, UK.
 

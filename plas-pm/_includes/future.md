@@ -34,6 +34,8 @@
 
 2025-11-03 to 06: [14th Asian-European International Conference on Plasma Surface Engineering (AEPSE 2025) in Parallel With International Conference on Surface Engineering (ICSE 2025)](http://aepse.org/2025/ "AEPSE and ICSE 2025 focus on plasma surface engineering, covering plasma coatings, surface modification, and thin films. Topics include applications in electronics, biomedical devices, and energy, emphasizing experimental and computational advances in plasma-based surface engineering technologies."), Phuket, Thailand.
 
+2026 tbd: European X-Ray Spectrometry Conference (EXRS), Catania, Italy?.
+
 2026-05-17 to 22: [17th International Conference of Computer Simulation of Radiation Effects in Solids (COSIRES 2026)](https://cosires26.com/ "COSIRES 2026 focuses on radiation effects in solids, covering ion-solid interactions, defect formation, and materials modification. Topics include applications in nuclear materials, semiconductors, and nanotechnology, emphasizing computational simulations of radiation-induced processes and material properties."), Granada, Spain.
 
 **2026-05-17 to 22: [27th International Conference on Plasma-Surface Interactions in Controlled Fusion Devices (PSI 2026)](https://www.ipp.mpg.de/psi27/ "PSI 2026 explores plasma-surface interactions in fusion devices, covering erosion, deposition, and material recycling. Topics include divertor materials, plasma diagnostics, and fusion reactor durability, emphasizing experimental and computational studies for advancing fusion energy technologies."), Regensburg, Germany**.
@@ -45,6 +47,4 @@
 2026-08-31 to 09-03: [20th International Conference on Plasma Surface Engineering (PSE 2026)](https://pse-conferences.net "PSE 2026 explores plasma surface engineering, covering plasma coatings, surface modification, and thin films. Topics include applications in electronics, biomedical devices, and energy, emphasizing experimental and computational advances in plasma-based surface engineering technologies."), Erfurt, Germany.
 
 2026-09-14 to 17: [European Materials Research Society (E-MRS) Fall Meeting 2026](https://www.european-mrs.com/meetings/2026-fall-meeting "E-MRS 2026 focuses on materials science, covering plasma processing, nanomaterials, and functional coatings. Topics include applications in energy storage, electronics, and biomedicine, emphasizing computational and experimental methods for advanced material synthesis and characterization."), Warsaw, Poland.
-
-2026 tbd: European X-Ray Spectrometry Conference (EXRS), Catania, Italy?.
 

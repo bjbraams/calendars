@@ -14,11 +14,9 @@
 
 2025-07-21 to 25: [37th International Conference on Computer Aided Verification (CAV 2025)](https://conferences.i-cav.org/2025/ "CAV 2025 focuses on computer-aided verification, covering model checking, formal methods, and program analysis. Topics include software verification, hardware validation, and applications in AI safety, emphasizing rigorous computational methods for system correctness."), Zagreb, Croatia.
 
-2025-07-22: [12th Workshop on Horn Clauses for Verification and Synthesis (HCVS 2025)](https://www.sci.unich.it/hcvs25/), Zagreb, Croatia. Colocated with CAV 2025
-
-2025-07-22: [12th Workshop on Horn Clauses for Verification and Synthesis (HCVS 2025)](https://www.sci.unich.it/hcvs25/), Zagreb, Croatia. Colocated with CAV 2025
-
 2025-07-22 to 24: [26th International Conference on Descriptional Complexity of Formal Systems (DCFS 2025)](https://www.lboro.ac.uk/departments/compsci/events/dcfs-2025/ "DCFS 2025 focuses on descriptional complexity, covering automata, grammars, and formal languages. Topics include state complexity, succinct representations, and applications in verification and cryptography, emphasizing theoretical measures of complexity in formal computational systems."), Loughborough, UK.
+
+2025-07-22: [12th Workshop on Horn Clauses for Verification and Synthesis (HCVS 2025)](https://www.sci.unich.it/hcvs25/), Zagreb, Croatia. Colocated with CAV 2025.
 
 2025-07-28 to 31: [30th International Conference on Automated Deduction (CADE 2025)](https://www.dhbw-stuttgart.de/cade-30/ "CADE 2025 focuses on automated deduction, covering theorem proving, satisfiability checking, and formal reasoning. Topics include applications in program verification, AI, and cryptography, emphasizing computational tools for automated logical deduction and formal methods."), Stuttgart, Germany.
 
@@ -27,6 +25,8 @@
 2025-08-10 to 11: [23rd International Workshop on Satisfiability Modulo Theories (SMT 2025)](https://smt-workshop.cs.uiowa.edu/2025/ "SMT 2025 focuses on satisfiability modulo theories, covering constraint solving, SMT solvers, and automated reasoning. Topics include applications in program verification, scheduling, and AI planning, emphasizing computational techniques for logical and constraint-based problem-solving."), Glasgow, UK.
 
 2025-08-19 to 22: [29th International Conference on Developments in Language Theory (DLT 2025)](https://cida.uos.ac.kr/dlt2025/ "DLT 2025 focuses on language theory, covering automata, formal languages, and combinatorics on words. Topics include parsing algorithms, language complexity, and applications in verification and natural language processing, emphasizing theoretical advances in computational linguistics."), Seoul, Korea.
+
+2025-08-25: [Workshop on Formal Methods in Quantum Computing (FMQC 2025)](https://fmqc-workshop.github.io/2025/), Aarhus, Denmark. Colocated with CONFEST 2025.
 
 2025-09-01 to 05: [19th European Conference on Logics in Artificial Intelligence (JELIA 2025)](https://viam.science.tsu.ge/jelia2025/ "JELIA 2025 focuses on logics in AI, covering knowledge representation, non-monotonic reasoning, and argumentation. Topics include applications in automated planning, multi-agent systems, and AI ethics, emphasizing logical foundations for intelligent computational systems and reasoning."), Kutaisi, Georgia.
 
@@ -40,13 +40,7 @@
 
 2025-11-10 to 14: [23rd International Conference on Software Engineering and Formal Methods (SEFM 2025)](https://sefm-conference.github.io/2025/), Toledo, Spain.
 
-2025-11-10 to 14: [23rd International Conference on Software Engineering and Formal Methods (SEFM 2025)](https://sefm-conference.github.io/2025/), Toledo, Spain.
-
 2025-11-17 to 19: [7th International Workshop on Formal Methods for Autonomous Systems (FMAS 2025)](https://fmasworkshop.github.io/FMAS2025/), Paris, France.
-
-2025-11-17 to 19: [7th International Workshop on Formal Methods for Autonomous Systems (FMAS 2025)](https://fmasworkshop.github.io/FMAS2025/), Paris, France.
-
-2025-11-17 to 21: [20th International Conference on Integrated Formal Methods (iFM 2025)](https://ifm2025.ens.psl.eu/), Paris, France.
 
 2025-11-17 to 21: [20th International Conference on Integrated Formal Methods (iFM 2025)](https://ifm2025.ens.psl.eu/), Paris, France.
 

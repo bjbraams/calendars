@@ -4,21 +4,11 @@
 
 2025-06-10 to 13: [Waves and Imaging in Complex Media (Wicom 2025)](https://wicom.sciencesconf.org/), Paris, France.
 
-2025-06-10 to 13: [Waves and Imaging in Complex Media (Wicom 2025)](https://wicom.sciencesconf.org/), Paris, France.
-
-2025-06-23 to 27: [Summer School EUR MINT on Control, Inverse Problems and Spectral Theory (2025)](https://indico.math.cnrs.fr/event/12766/), Toulouse, France.
-
 2025-06-23 to 27: [Summer School EUR MINT on Control, Inverse Problems and Spectral Theory (2025)](https://indico.math.cnrs.fr/event/12766/), Toulouse, France.
 
 2025-06-23 to 27: [Summer School on Inverse Problems and Artificial Intelligence in Medicine (2025)](https://bathsymposium.ac.uk/symposium/inverse-problems-and-artificial-intelligence-in-medicine/), Bath, UK.
 
-2025-06-23 to 27: [Summer School on Inverse Problems and Artificial Intelligence in Medicine (2025)](https://bathsymposium.ac.uk/symposium/inverse-problems-and-artificial-intelligence-in-medicine/), Bath, UK.
-
 2025-06-30 to 07-04: [ANR Project TRECOS Conference on Control of PDEs and Related Topics (2025)](https://indico.math.cnrs.fr/event/12315/), Toulouse, France.
-
-2025-06-30 to 07-04: [ANR Project TRECOS Conference on Control of PDEs and Related Topics (2025)](https://indico.math.cnrs.fr/event/12315/), Toulouse, France.
-
-2025-06-30 to 07-04: [Conference on Inverse Problems and Artificial Intelligence in Medicine (2025)](https://bathsymposium.ac.uk/symposium/inverse-problems-and-artificial-intelligence-in-medicine/), Bath, UK.
 
 2025-06-30 to 07-04: [Conference on Inverse Problems and Artificial Intelligence in Medicine (2025)](https://bathsymposium.ac.uk/symposium/inverse-problems-and-artificial-intelligence-in-medicine/), Bath, UK.
 
@@ -32,8 +22,6 @@
 
 2025-09-23 to 27: [28th International Conference on Medical Image Computing and Computer Assisted Intervention (MICCAI 2025)](https://conferences.miccai.org/2025/en/), Daejeon, Korea.
 
-2025-09-23 to 27: [28th International Conference on Medical Image Computing and Computer Assisted Intervention (MICCAI 2025)](https://conferences.miccai.org/2025/en/), Daejeon, Korea.
-
 2025-09-25 to 27: [23rd International Workshop on Combinatorial Image Analysis (IWCIA 2025)](https://iwcia2025.inf.u-szeged.hu "IWCIA 2025 focuses on combinatorial image analysis, covering image segmentation, pattern recognition, and discrete geometry. Topics include applications in medical imaging, computer vision, and remote sensing, emphasizing combinatorial algorithms and computational methods for processing and analyzing digital images."), Szeged, Hungary.
 
 2025-10-02 to 03: [4th Alps-Adriatic Inverse Problems Workshop (AAIP 2025)](https://conference3.aau.at/event/92 "AAIP 2025 focuses on inverse problems, covering regularization techniques, Bayesian inversion, and imaging. Topics include applications in medical imaging, geophysics, and signal processing, emphasizing computational and mathematical methods for solving ill-posed problems and reconstructing data."), Klagenfurt, Austria.
@@ -42,15 +30,9 @@
 
 2025-10-06 to 10: [International Conference on Quasilinear Equations, Inverse Problems and Their Applications (QIPA 2025)](https://qipa2025.mipt.ru/), Sirius Federal Territory, Russia.
 
-2025-10-06 to 10: [International Conference on Quasilinear Equations, Inverse Problems and Their Applications (QIPA 2025)](https://qipa2025.mipt.ru/), Sirius Federal Territory, Russia.
-
-2025-10-08 to 10: [6rd Annual Meeting of the German-Speaking Inverse Problems Society (GIP 2025)](https://inverseprobleme.de/?page_id=424), Saarbrücken, Germany.
-
 2025-10-08 to 10: [6rd Annual Meeting of the German-Speaking Inverse Problems Society (GIP 2025)](https://inverseprobleme.de/?page_id=424), Saarbrücken, Germany.
 
 2025-11-09 to 13: [35th Annual Astronomical Data Analysis Software and Systems Conference (ADASS 2025)](https://adass.org "ADASS 2025 focuses on astronomical data analysis, covering data processing, visualization, and machine learning. Topics include applications in astrophysics, cosmology, and telescope data management, emphasizing computational tools and algorithms for analyzing large-scale astronomical datasets."), Goerlitz, Germany.
-
-2026-04-08 to 11: [IEEE International Symposium on Biomedical Imaging (ISBI 2026)](https://biomedicalimaging.org/2026/), London, UK.
 
 2026-04-08 to 11: [IEEE International Symposium on Biomedical Imaging (ISBI 2026)](https://biomedicalimaging.org/2026/), London, UK.
 

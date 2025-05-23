@@ -22,8 +22,6 @@
 
 2025-04-09 to 11: [Conference on Branching and Persistence (2025)](https://site-branpers2025.apps.math.cnrs.fr/), Angers, France.
 
-2025-04-09 to 11: [Conference on Branching and Persistence (2025)](https://site-branpers2025.apps.math.cnrs.fr/), Angers, France.
-
 2025-04-10 to 12: [NYU Shanghai - Peking - Westlake Probability Conference (2025)](https://www.probabilityconference2025.com/ "This conference explores probability theory, covering stochastic processes, random matrices, and probabilistic combinatorics. Topics include Gaussian processes, random graphs, and applications in statistical physics and machine learning, emphasizing theoretical advancements and interdisciplinary connections."), Shanghai, China.
 
 2025-04-22 to 25: [Conference on Analysis and Probability in Infinite Dimensions (2025)](https://anaprob2025.com "This conference explores infinite-dimensional analysis and probability, covering stochastic PDEs, Gaussian measures, and functional integration. Topics include stochastic control, applications in quantum field theory and finance, emphasizing mathematical frameworks for infinite-dimensional probabilistic systems."), Bad Herrenalb, Germany.
@@ -33,4 +31,8 @@
 2025-05-12 to 16: [Workshop on Geometry, Probability, and Algorithms (2025)](https://www.icts.res.in/discussion-meeting/gpa25 "This workshop explores intersections of geometry, probability, and algorithms, covering random geometric structures, probabilistic algorithms, and discrete geometry. Topics include random graphs, convex optimization, and applications in data science and network analysis, emphasizing interdisciplinary mathematical approaches."), ICTS, Bengaluru, India.
 
 2025-05-19 to 23: [Probability and Mathematical Physics. Walks, Spins, Loops, Fields (2025)](https://bernoulli.epfl.ch/programs/probability-and-mathematical-physics-walks-spins-loops-fields/ "This conference focuses on probability and mathematical physics, covering random walks, spin systems, and random fields. Topics include percolation, Ising models, and applications in statistical mechanics and quantum field theory, emphasizing probabilistic structures in physical systems."), Lausanne, Switzerland.
+
+2025-05-20 to 22: [Rossfest70 Celebrating 70 Years of Ross Pinsky Adventures in Probability, PDEs and Combinatorics (2025)](https://sites.google.com/slu.edu/rossfest/ "Rossfest70 celebrates Ross Pinsky’s contributions to probability, partial differential equations, and combinatorics. Topics include random walks, stochastic processes, and combinatorial optimization, with applications in statistical physics and network science, emphasizing interdisciplinary mathematical advancements."), St. Louis, MO, USA.
+
+2025-05-20 to 23: [Eurandom Workshop Product-Form Probability Distributions (2025)](https://www.eurandom.tue.nl/event/product-form-probability-distributions/ "This workshop explores product-form probability distributions, focusing on queueing theory, Markov chains, and statistical mechanics. Topics include equilibrium distributions, network models, and applications in performance analysis and complex systems, emphasizing analytical probabilistic techniques."), Eindhoven, Netherlands.
 

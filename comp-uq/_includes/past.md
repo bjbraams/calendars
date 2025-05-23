@@ -10,7 +10,5 @@
 
 2025-04-23 to 25: [11th International Conference on Sensitivity Analysis of Model Output (SAMO 2025)](https://samo2025.sciencesconf.org/?lang=en), Grenoble, France.
 
-2025-04-23 to 25: [11th International Conference on Sensitivity Analysis of Model Output (SAMO 2025)](https://samo2025.sciencesconf.org/?lang=en), Grenoble, France.
-
 2025-05-19 to 23: [IMSI Workshop Uncertainty Quantification and Machine Learning for Complex Physical Systems (2025)](https://imsi.institute/activities/uncertainty-quantification-and-ai-for-complex-systems/uncertainty-quantification-and-machine-learning-for-complex-physical-systems/ "This workshop explores uncertainty quantification and machine learning for physical systems, covering Bayesian methods and surrogate models. Topics include uncertainty propagation, physics-informed neural networks, and applications in fluid dynamics and materials, emphasizing robust computational frameworks."), Chicago, IL, USA.
 

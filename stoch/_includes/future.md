@@ -56,8 +56,6 @@
 
 2025-08-25 to 29: [International Symposium on Stochastic Processes and Complex Systems (2025)](https://www.tfc.tohoku.ac.jp/event/4308.html), Tokyo, Japan.
 
-2025-08-25 to 29: [International Symposium on Stochastic Processes and Complex Systems (2025)](https://www.tfc.tohoku.ac.jp/event/4308.html), Tokyo, Japan.
-
 2025-08-25 to 29: [SLMath Introductory Workshop Kinetic Theory & Stochastic Partial Differential Equations (2025)](https://legacy.slmath.org/workshops/1117 "This workshop explores kinetic theory and stochastic PDEs, covering transport equations, stochastic processes, and numerical methods. Topics include applications in plasma physics, fluid dynamics, and biological modeling, emphasizing probabilistic and computational approaches to stochastic systems."), Berkeley, CA, USA.
 
 2025-08-31 to 09-05: [Oberwolfach Workshop on Large Scale Stochastic Dynamics (2025)](https://mfo.de/occasion/2536/www_view "This workshop explores large-scale stochastic dynamics, covering random processes, stochastic PDEs, and scaling limits. Topics include applications in statistical physics, biology, and finance, emphasizing probabilistic and analytical methods for modeling complex stochastic systems."), Oberwolfach, Germany.
