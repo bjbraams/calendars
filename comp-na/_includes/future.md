@@ -54,5 +54,5 @@
 
 2026-07-08 to 18: [Foundations of Computational Mathematics (FoCM 2026)](https://focm2026.univie.ac.at "FoCM 2026 explores computational mathematics, covering numerical analysis, optimization, and computational geometry. Topics include applications in scientific computing, machine learning, and data science, emphasizing theoretical and computational methods for solving mathematical problems."), Vienna, Austria.
 
-2026-08-17 to 21: Orthogonal Polynomials, Special Functions and Applications (OPSFA 2026), Kyoto, Japan.
+2026-08-17 to 21: [Orthogonal Polynomials, Special Functions and Applications (OPSFA 2026)]("OPSFA 2026 explores orthogonal polynomials and special functions, covering approximation theory, numerical analysis, and applications. Topics include applications in signal processing, quantum mechanics, and combinatorics, emphasizing computational and analytical methods for special function problems."), Kyoto, Japan.
 

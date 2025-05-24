@@ -46,21 +46,21 @@
 
 2025-12-17 to 20: [Joint Meeting of Taipei International Statistical Symposium (TISS) and 13th ICSA International Conference (JOINT 2025)](https://www3.stat.sinica.edu.tw/joint2025/ "JOINT 2025 explores statistics, covering probability theory, statistical modeling, and data analysis. Topics include applications in biostatistics, economics, and environmental science, emphasizing theoretical and applied statistical methods for addressing complex, real-world data challenges."), Taipei, Taiwan.
 
-2026 tbd: [9th International Conference on Belief Functions (BELIEF 2026)](https://www.bfasociety.org/ "BELIEF 2026 explores belief functions, covering Dempster-Shafer theory, uncertainty modeling, and decision-making. Topics include applications in data fusion, AI, and risk analysis, emphasizing statistical frameworks for handling uncertainty in complex systems and data."), tbd.
-
 2026-01-12 to 16: [Nonparametric Bayesian Inference - Computational Issues (2026)](https://icerm.brown.edu/program/topical_workshop/tw-26-bnp "This workshop explores nonparametric Bayesian inference, covering Dirichlet processes, Gaussian processes, and computational challenges. Topics include applications in machine learning, bioinformatics, and time-series analysis, emphasizing statistical and computational methods for flexible Bayesian modeling."), Providence, RI, USA.
 
 2026-03-02 to 06: [Workshop on Bayesian Inverse Problems and UQ (2026)](https://icerm.brown.edu/program/semester_program_workshop/sp-s26-w2 "This workshop explores Bayesian inverse problems and uncertainty quantification, covering Markov chain Monte Carlo and Gaussian processes. Topics include applications in imaging, geophysics, and engineering, emphasizing statistical and computational methods for solving inverse problems with uncertainty."), Providence, RI, USA.
 
 2026-06-03 to 05: [5th ISI Regional Statistics Conference (RSC 2026)](https://www.isi-next.org/conferences/isi-rsc-malta-2026/ "RSC 2026 explores statistical theory and applications, covering Bayesian methods, time-series analysis, and data science. Topics include applications in economics, health, and environmental statistics, emphasizing theoretical and practical advancements in statistical modeling and analysis."), Valletta, Malta.
 
-2026-08-01 to 06: ASA, IMS and Other Joint Statistical Meetings (JSM 2026), Boston, MA, USA.
+2026-08-01 to 06: [ASA, IMS and Other Joint Statistical Meetings (JSM 2026)]("JSM 2026 explores statistics, covering probability theory, statistical modeling, and data science. Topics include applications in biostatistics, economics, and environmental science, emphasizing theoretical and applied statistical methods for analyzing complex, real-world data challenges."), Boston, MA, USA.
 
 2026-08-24 to 28: [Bernoulli Society European Meeting of Statisticians (EMS 2026)](https://bernoullisociety.org/organization/erc/ems "EMS 2026 focuses on statistics, covering probability theory, statistical inference, and stochastic processes. Topics include applications in finance, biology, and social sciences, emphasizing theoretical and applied statistical methods for addressing complex data and uncertainty."), Lugano, Switzerland.
 
+2026 tbd: [9th International Conference on Belief Functions (BELIEF 2026)](https://www.bfasociety.org/ "BELIEF 2026 explores belief functions, covering Dempster-Shafer theory, uncertainty modeling, and decision-making. Topics include applications in data fusion, AI, and risk analysis, emphasizing statistical frameworks for handling uncertainty in complex systems and data."), tbd.
+
 **2027-07-11 to 15: [66th ISI World Statistics Congress (WSC 2027)](https://isi-next.org/conferences/isi-wsc2027 "WSC 2027 explores statistics, covering statistical theory, data science, and applied methodologies. Topics include Bayesian inference, big data analytics, and applications in health, economics, and environment, emphasizing theoretical and practical statistical advancements."), Busan, South Korea**.
 
-2027-08-07 to 12: ASA, IMS and Other Joint Statistical Meetings (JSM 2027), Chicago, IL, USA.
+2027-08-07 to 12: [ASA, IMS and Other Joint Statistical Meetings (JSM 2027)]("JSM 2027 explores statistics, covering probability, statistical inference, and data analysis. Topics include applications in biostatistics, finance, and social sciences, emphasizing theoretical and applied statistical methods for addressing complex data-driven problems and uncertainties."), Chicago, IL, USA.
 
-2028-08-05 to 10: ASA, IMS and Other Joint Statistical Meetings (JSM 2028), Philadelphia, PA, USA.
+2028-08-05 to 10: [ASA, IMS and Other Joint Statistical Meetings (JSM 2028)]("JSM 2028 explores statistics, covering statistical modeling, probability theory, and data science. Topics include applications in biostatistics, environmental science, and economics, emphasizing theoretical and applied statistical methods for analyzing complex datasets and uncertainties."), Philadelphia, PA, USA.
 

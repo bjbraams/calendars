@@ -22,7 +22,7 @@
 
 2025-08-31 to 09-03: [35th IEEE International Workshop on Machine Learning for Signal Processing (MLSP 2025)](https://2025.ieeemlsp.org/en/ "MLSP 2025 focuses on machine learning for signal processing, covering neural networks, sparse modeling, and time-series analysis. Topics include applications in audio processing, medical imaging, and telecommunications, emphasizing computational methods for signal and data analysis."), Istanbul, Turkey.
 
-2025-09-09 to 11: [4th Italian Conference on Big Data and Data Science (ITADATA 2025)](https://www.itadata.it/), Turin, Italy.
+2025-09-09 to 11: [4th Italian Conference on Big Data and Data Science (ITADATA 2025)](https://www.itadata.it/ "Covers big data analytics and data science advancements. Topics include machine learning algorithms, statistical modeling, data mining, and applications in industry, healthcare, and social sciences, emphasizing scalable computational techniques and data-driven decision-making."), Turin, Italy.
 
 2025-10-27 to 31: [Autumn School on Scientific Machine Learning and Numerical Methods (2025)](https://www.cwi.nl/en/education/semester-programmes/cwi-research-semester-programs/synergies-in-numerical-linear-algebra-and-machine-learning/ "Explores synergies between numerical linear algebra and machine learning. Topics include matrix computations, deep learning optimization, and applications in scientific computing and data analysis."), Amsterdam, Netherlands.
 

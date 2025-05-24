@@ -30,7 +30,7 @@
 
 2025-08-15 to 19: [Nuclear Target Development Summer School (NTDSS 2025)](https://cyclotron.tamu.edu/ntdss2025/ "NTDSS 2025 focuses on nuclear target development, covering target fabrication, thin-film techniques, and isotopic enrichment. Topics include applications in nuclear physics experiments, accelerator-based research, and astrophysics, emphasizing hands-on training in target preparation for high-precision nuclear measurements."), College Station, TX, USA.
 
-2025-08-18 to 22: Workshop on Nuclear Masses in Astrophysics for the Next 25 Years (2025), Darmstadt, Germany.
+2025-08-18 to 22: [Workshop on Nuclear Masses in Astrophysics for the Next 25 Years (2025)]("This workshop explores nuclear masses in astrophysics, covering mass measurements, nuclear reactions, and nucleosynthesis. Topics include stellar evolution, neutron star physics, and applications in cosmology, emphasizing high-precision nuclear data for astrophysical modeling and simulations."), Darmstadt, Germany.
 
 2025-09-22 to 26: [6th European Nuclear Physics Conference (EuNPC 2025)](https://indico.in2p3.fr/event/30430/ "EuNPC 2025 focuses on nuclear physics, covering nuclear structure, reactions, and astrophysics. Topics include exotic nuclei, nuclear fusion, and applications in energy and cosmology, emphasizing experimental and theoretical advances in nuclear science and technology."), Caen, France.
 
@@ -39,8 +39,6 @@
 2025-11-03 to 07: [ECTstar Workshop on Neutron-Capture Reactions for Astrophysical Processes (2025)](https://indico.ectstar.eu/event/246/ "This workshop explores neutron-capture reactions, covering nucleosynthesis, nuclear reaction rates, and astrophysical modeling. Topics include applications in stellar evolution, supernovae, and cosmology, emphasizing experimental and computational studies of nuclear processes in astrophysical environments."), Trento, Italy.
 
 2025-11-17 to 21: [11th ECTstar Workshop on Information and Statistics in Nuclear Experiment and Theory (ESNET 2025)](https://indico.ectstar.eu/event/247/ "ESNET 2025 explores statistical methods in nuclear physics, covering Bayesian analysis, uncertainty quantification, and experimental design. Topics include applications in nuclear reactions, astrophysics, and nuclear structure, emphasizing computational and statistical tools for nuclear experiment analysis."), Trento, Italy.
-
-2026 tbd: [12th Conference on Nuclear Physics in Astrophysics (NPA 2026)](https://members.eps.org/blogpost/739426/News "NPA-XII 2026 focuses on nuclear astrophysics, covering nucleosynthesis, stellar evolution, and nuclear reactions. Topics include applications in supernovae, neutron stars, and cosmology, emphasizing experimental and theoretical studies of nuclear processes in astrophysical environments."), tbd.
 
 2026-05-18 to 22: [10th Oslo Workshop on Level Density and Gamma Strength (2026)](https://www.mn.uio.no/fysikk/english/research/news-and-events/events/conferences/gamma10/ "This workshop focuses on nuclear level density and gamma strength, covering nuclear reactions, statistical models, and spectroscopy. Topics include applications in nuclear astrophysics and reactor physics, emphasizing experimental and theoretical methods for nuclear structure analysis."), Oslo, Norway.
 
@@ -53,6 +51,8 @@
 2026-08-17 to 21: [26th European Conference on Few-Body Problems in Physics (2026)](https://indico.cern.ch/event/1441702/ "This conference explores few-body problems, covering nuclear interactions, scattering theory, and quantum mechanics. Topics include applications in nuclear physics, astrophysics, and particle physics, emphasizing theoretical and computational methods for few-body system dynamics."), Prague, Czech Republic.
 
 2026-08-30 to 09-06: [59th Zakopane Conference on Nuclear Physics (Zakopane 2026)](https://zakopane2026.ifj.edu.pl "Zakopane 2026 focuses on nuclear physics, covering nuclear structure, reactions, and astrophysics. Topics include quark-gluon plasma, nuclear spectroscopy, and neutrino physics, emphasizing experimental and theoretical advances in understanding nuclear phenomena and applications."), Kraków, Poland.
+
+2026 tbd: [12th Conference on Nuclear Physics in Astrophysics (NPA 2026)](https://members.eps.org/blogpost/739426/News "NPA-XII 2026 focuses on nuclear astrophysics, covering nucleosynthesis, stellar evolution, and nuclear reactions. Topics include applications in supernovae, neutron stars, and cosmology, emphasizing experimental and theoretical studies of nuclear processes in astrophysical environments."), tbd.
 
 2027 tbd: [EPS Nuclear Physics Division European Nuclear Physics Conference (EuNPC 2027)](https://members.eps.org/blogpost/739426/509153/Call-for-bids-European-Nuclear-Physics-Conference-2027-EuNPC-2027 "Explores advancements in nuclear physics. Topics include nuclear structure, reactions, and computational modeling, with applications in particle physics and astrophysics."), tbd. Provisional Link.
 

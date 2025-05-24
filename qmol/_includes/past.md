@@ -6,3 +6,5 @@
 
 2025-05-20 to 23: [4th Cold Atom Molecule Interactions Conference (CATMIN 2025)](https://eventos.ugr.es/catmin/ "CATMIN 2025 focuses on cold atom-molecule interactions, covering quantum scattering, ultracold chemistry, and quantum simulation. Topics include Feshbach resonances, molecular quantum gases, and applications in quantum information, emphasizing experimental and theoretical studies of cold quantum systems."), Granada, Spain.
 
+2025-05-23 to 28: [11th Triennial Molecular Quantum Mechanics Conference (MQM 2025)](http://mqm2025.net "MQM 2025 explores molecular quantum mechanics, focusing on electronic structure, quantum dynamics, and spectroscopy. Topics include ab initio methods, quantum Monte Carlo, and applications in photochemistry and molecular design, emphasizing computational advancements in quantum molecular modeling."), Kyoto, Japan.
+

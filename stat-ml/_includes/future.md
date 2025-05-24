@@ -40,7 +40,7 @@
 
 2025-09-08 to 12: [Summer School on Mathematical Methods for High-Dimensional Data (2025)](https://sites.google.com/view/math-high-dimensional-data/ "This summer school explores mathematical methods for high-dimensional data, covering sparse modeling, tensor decomposition, and statistical inference. Topics include applications in genomics, imaging, and machine learning, emphasizing computational and statistical techniques for high-dimensional data analysis."), Rome, Italy.
 
-2025-09-09 to 11: [4th Italian Conference on Big Data and Data Science (ITADATA 2025)](https://www.itadata.it/), Turin, Italy.
+2025-09-09 to 11: [4th Italian Conference on Big Data and Data Science (ITADATA 2025)](https://www.itadata.it/ "Covers big data analytics and data science advancements. Topics include machine learning algorithms, statistical modeling, data mining, and applications in industry, healthcare, and social sciences, emphasizing scalable computational techniques and data-driven decision-making."), Turin, Italy.
 
 2025-09-09 to 12: [34th International Conference on Artificial Neural Networks (ICANN 2025)](https://e-nns.org/icann2025/ "ICANN 2025 explores artificial neural networks, covering deep learning, convolutional networks, and reinforcement learning. Topics include applications in computer vision, natural language processing, and robotics, emphasizing computational and statistical advancements in neural network methodologies."), Kaunas, Lithuania.
 
@@ -62,5 +62,5 @@
 
 2025-12-15 to 18: [4th IMS International Conference on Statistics and Data Science (ICSDS 2025)](https://sites.google.com/view/ims-icsds2025/ "ICSDS 2025 focuses on statistics and data science, covering statistical learning, big data analytics, and causal inference. Topics include applications in healthcare, finance, and social sciences, emphasizing computational and statistical methods for modern data-driven research and analysis."), Sevilla, Spain.
 
-2026-07-14 to 16: 19th Conference of the International Federation of Classification Societies (IFCS 2026), Milan, Italy.
+2026-07-14 to 16: [19th Conference of the International Federation of Classification Societies (IFCS 2026)]("IFCS 2026 explores classification, covering clustering, supervised learning, and pattern recognition. Topics include applications in bioinformatics, social sciences, and image analysis, emphasizing statistical and machine learning methods for data classification and knowledge discovery."), Milan, Italy.
 

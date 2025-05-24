@@ -14,9 +14,9 @@
 
 2025-07-21 to 25: [37th International Conference on Computer Aided Verification (CAV 2025)](https://conferences.i-cav.org/2025/ "CAV 2025 focuses on computer-aided verification, covering model checking, formal methods, and program analysis. Topics include software verification, hardware validation, and applications in AI safety, emphasizing rigorous computational methods for system correctness."), Zagreb, Croatia.
 
-2025-07-22 to 24: [26th International Conference on Descriptional Complexity of Formal Systems (DCFS 2025)](https://www.lboro.ac.uk/departments/compsci/events/dcfs-2025/ "DCFS 2025 focuses on descriptional complexity, covering automata, grammars, and formal languages. Topics include state complexity, succinct representations, and applications in verification and cryptography, emphasizing theoretical measures of complexity in formal computational systems."), Loughborough, UK.
-
 2025-07-22: [12th Workshop on Horn Clauses for Verification and Synthesis (HCVS 2025)](https://www.sci.unich.it/hcvs25/ "Focuses on Horn clauses for formal verification and synthesis. Topics include automated reasoning, program verification, and applications in software and hardware validation."), Zagreb, Croatia. Colocated with CAV 2025.
+
+2025-07-22 to 24: [26th International Conference on Descriptional Complexity of Formal Systems (DCFS 2025)](https://www.lboro.ac.uk/departments/compsci/events/dcfs-2025/ "DCFS 2025 focuses on descriptional complexity, covering automata, grammars, and formal languages. Topics include state complexity, succinct representations, and applications in verification and cryptography, emphasizing theoretical measures of complexity in formal computational systems."), Loughborough, UK.
 
 2025-07-28 to 31: [30th International Conference on Automated Deduction (CADE 2025)](https://www.dhbw-stuttgart.de/cade-30/ "CADE 2025 focuses on automated deduction, covering theorem proving, satisfiability checking, and formal reasoning. Topics include applications in program verification, AI, and cryptography, emphasizing computational tools for automated logical deduction and formal methods."), Stuttgart, Germany.
 
@@ -30,7 +30,7 @@
 
 2025-09-01 to 05: [19th European Conference on Logics in Artificial Intelligence (JELIA 2025)](https://viam.science.tsu.ge/jelia2025/ "JELIA 2025 focuses on logics in AI, covering knowledge representation, non-monotonic reasoning, and argumentation. Topics include applications in automated planning, multi-agent systems, and AI ethics, emphasizing logical foundations for intelligent computational systems and reasoning."), Kutaisi, Georgia.
 
-2025-09-08 to 19: [European Research Network on Formal Proofs COST Action CA20111 Final EuroProofNet Symposium (2025)](https://europroofnet.github.io/Symposium/), Orsay, France.
+2025-09-08 to 19: [European Research Network on Formal Proofs COST Action CA20111 Final EuroProofNet Symposium (2025)](https://europroofnet.github.io/Symposium/ "Explores formal proofs and verification techniques in computer science. Topics include automated theorem proving, proof assistants, and formal methods for software and hardware verification, with applications in ensuring system correctness and reliability."), Orsay, France.
 
 2025-09-12 to 13: [9th Workshop on Advances in Argumentation in Artificial Intelligence (AI3 2025)](https://sites.google.com/unical.it/ai3-2025 "AI3 2025 explores argumentation in AI, covering argument mining, dialogue systems, and non-monotonic reasoning. Topics include applications in legal reasoning, decision support, and AI ethics, emphasizing logical and computational frameworks for argumentative reasoning in intelligent systems."), Rende, Italy.
 

@@ -42,7 +42,7 @@
 
 2025-12-08 to 10: [EuroMech Colloquium 657 on Recent Advances in Non-Smooth Dynamics (2025)](https://657.euromech.org/ "Focuses on non-smooth dynamics in mechanical systems. Topics include computational methods, impact dynamics, and applications in robotics and engineering."), Exeter, UK.
 
-2026 tbd: 6th International Seminar on Non Ideal Compressible Fluid Dynamics (NICFD 2026), tbd.
-
 2026-07-06 to 10: [13th International Conference on Computational Fluid Dynamics (ICCFD 2026)](https://www.linkedin.com/posts/alberto-guardone-269a416b_yesterday-we-successfully-wrapped-up-the-activity-7220407354540883968-jRwn "ICCFD 2026 explores computational fluid dynamics, covering turbulence modeling, high-order methods, and multiphase flows. Topics include applications in aerospace, energy, and environmental engineering, emphasizing computational techniques for simulating complex fluid dynamics phenomena."), Milan, Italy.
+
+2026 tbd: [6th International Seminar on Non Ideal Compressible Fluid Dynamics (NICFD 2026)]("NICFD 2026 focuses on non-ideal compressible fluid dynamics, covering dense gases, supercritical fluids, and multiphase flows. Topics include applications in energy systems, aerospace, and chemical engineering, emphasizing computational methods for non-ideal fluid simulations."), tbd.
 

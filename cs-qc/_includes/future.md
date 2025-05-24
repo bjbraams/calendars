@@ -2,7 +2,7 @@
 
 2025-07-02 to 05: [2nd Workshop on Quantum-Secure Networks and Systems (QSNS 2025)](https://qubip.eu/qsns2025/ "QSNS 2025 focuses on quantum-secure networks, covering quantum key distribution, post-quantum cryptography, and secure quantum protocols. Topics include network security, quantum internet, and applications in telecommunications, emphasizing quantum-safe communication systems and architectures."), Bologna, Italy.
 
-2025-07-20 to 23: [34th ACM International Symposium on High-Performance Parallel and Distributed Computing (HPDC 2025)](https://hpdc.sci.utah.edu/2025/ "HPDC 2025 focuses on high-performance parallel and distributed computing, covering cluster computing, accelerators, and cloud systems. Topics include parallel algorithms, big data processing, and applications in AI and scientific computing, emphasizing scalable high-performance computational architectures."), Notre Dame, IN, USA.
-
 2025-07-20: [2nd Workshop on Quantum Algorithms, Software and Applied Research (QUASAR 2025)](https://sites.google.com/view/quasar25 "QUASAR 2025 focuses on quantum algorithms and software, covering variational algorithms, quantum simulation, and software frameworks. Topics include quantum machine learning, error mitigation, and applications in chemistry and optimization, emphasizing practical quantum computing research and development."), Notre Dame, IN, USA.
+
+2025-07-20 to 23: [34th ACM International Symposium on High-Performance Parallel and Distributed Computing (HPDC 2025)](https://hpdc.sci.utah.edu/2025/ "HPDC 2025 focuses on high-performance parallel and distributed computing, covering cluster computing, accelerators, and cloud systems. Topics include parallel algorithms, big data processing, and applications in AI and scientific computing, emphasizing scalable high-performance computational architectures."), Notre Dame, IN, USA.
 

@@ -2,8 +2,7 @@ import yaml
 from titlecase import titlecase
 
 MANDATORY_KEYS = ['dd','name']
-RECOGNIZED_KEYS = MANDATORY_KEYS.extend(
-    ['link','loc','more','kw','excerpt'])
+RECOGNIZED_KEYS = MANDATORY_KEYS+['link','loc','more','kw','excerpt']
     # Lists sorted as we like it
 SetMK = set(MANDATORY_KEYS)
 SetRK = set(RECOGNIZED_KEYS)

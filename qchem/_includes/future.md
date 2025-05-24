@@ -1,5 +1,3 @@
-2025 Summer tbd: [Workshop on Recent Developments in Electronic Structure Methods (ES 2025)](https://mcc.illinois.edu/workshops/electronicstructure/ "ES 2025 focuses on electronic structure methods, covering density functional theory, coupled-cluster methods, and quantum Monte Carlo. Topics include applications in materials science, chemical physics, and nanotechnology, emphasizing computational advances in electronic structure calculations."), El Paso, TX, USA.
-
 2025-05-26 to 30: [CECAM Conference YRM 2025 - 21st ETSF Young Researchers\' Meeting (2025)](https://cecam.org/workshop-details/yrm-2025-21st-etsf-young-researchers-meeting-1430 "YRM 2025 focuses on computational quantum chemistry, covering electronic structure methods and excited-state dynamics. Topics include density functional theory, time-dependent simulations, and applications in materials and photochemistry, emphasizing young researchers’ contributions to quantum chemical modeling."), Trieste, Italy.
 
 2025-06-04 to 06: [40th Symposium on Chemical Kinetics and Dynamics (SCKD 2025)](http://sckd.jp/40Kobe/index_e.php "SCKD 2025 explores chemical kinetics and dynamics, focusing on reaction mechanisms, quantum chemistry, and molecular dynamics. Topics include transition state theory, photochemical reactions, and applications in catalysis, emphasizing computational and experimental kinetic studies."), Kobe, Japan.
@@ -62,9 +60,11 @@
 
 2025-12-15 to 20: [International Chemical Congress of Pacific Basin Societies (Pacifichem 2025)](https://pacifichem.org "Pacifichem 2025 explores chemistry, covering quantum chemistry, spectroscopy, and materials chemistry. Topics include applications in catalysis, energy storage, and biophysics, emphasizing experimental and computational advances in chemical sciences across the Pacific Basin region."), Honolulu, HI, USA.
 
-2026 tbd: 12th Workshop on Novel Methods for Electronic Structure Calculations (2026), Argentina.
+2025 Summer tbd: [Workshop on Recent Developments in Electronic Structure Methods (ES 2025)](https://mcc.illinois.edu/workshops/electronicstructure/ "ES 2025 focuses on electronic structure methods, covering density functional theory, coupled-cluster methods, and quantum Monte Carlo. Topics include applications in materials science, chemical physics, and nanotechnology, emphasizing computational advances in electronic structure calculations."), El Paso, TX, USA.
 
-2026 tbd: 31st Canadian Symposium on Theoretical and Computational Chemistry (CSTCC 2026), Ottawa, Canada.
+2026 tbd: [12th Workshop on Novel Methods for Electronic Structure Calculations (2026)]("This workshop explores electronic structure calculations, covering density functional theory, quantum Monte Carlo, and coupled-cluster methods. Topics include applications in materials science, chemical physics, and nanotechnology, emphasizing computational advances in electronic structure modeling."), Argentina.
 
-2027 tbd: 12th Triennial Congress of the International Society of Theoretical Chemical Physics (ISTCP 2027), tbd.
+2026 tbd: [31st Canadian Symposium on Theoretical and Computational Chemistry (CSTCC 2026)]("CSTCC 2026 explores theoretical and computational chemistry, covering quantum chemistry, molecular dynamics, and spectroscopy. Topics include applications in catalysis, biophysics, and materials science, emphasizing computational methods for modeling chemical systems and interactions."), Ottawa, Canada.
+
+2027 tbd: [12th Triennial Congress of the International Society of Theoretical Chemical Physics (ISTCP 2027)]("ISTCP 2027 explores theoretical chemical physics, covering quantum chemistry, molecular dynamics, and statistical mechanics. Topics include applications in catalysis, biophysics, and materials science, emphasizing computational and theoretical methods for chemical and physical phenomena."), tbd.
 

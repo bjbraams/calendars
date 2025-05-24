@@ -30,6 +30,8 @@
 
 2025-08-04 to 08: [Quantum Simulation Conference (QSim 2025)](https://qsimconference.org "QSim 2025 focuses on quantum simulation, covering analog and digital quantum simulators, quantum many-body systems, and quantum chemistry. Topics include applications in materials and condensed matter physics, emphasizing experimental and theoretical quantum simulation advancements."), New York City, NY, USA.
 
+2025-08-04 to 08: [SUNCAT Summer Institute 2025](https://suncat.stanford.edu/events/suncat-summer-institute-2025), Palo Alto, CA, USA.
+
 2025-08-11 to 15: [New Frontiers in Out-of-Equilibrium Quantum Many-Body Dynamics (2025)](https://pks.mpg.de/qudyn25 "This conference explores out-of-equilibrium quantum many-body dynamics, covering quantum thermalization, driven systems, and entanglement dynamics. Topics include applications in condensed matter and quantum simulation, emphasizing theoretical and experimental studies of non-equilibrium quantum systems."), Dresden, Germany.
 
 2025-08-25 to 28: [7th General Psi-K Conference (PsiK 2025)](https://psik2025.net "PsiK 2025 focuses on computational materials science, covering density functional theory, electronic structure, and quantum simulations. Topics include topological materials, magnetism, and applications in energy and nanotechnology, emphasizing advanced computational methods for material properties."), Lausanne, Switzerland.
@@ -40,7 +42,7 @@
 
 2025-09-01 to 03: [4th CNR-Nano Workshop on Two-Dimensional Excitonic Insulators (2025)](https://excitonic-insulator.nano.cnr.it/workshop-2d-excitonic-insulator/ "Focuses on two-dimensional excitonic insulators in quantum materials. Topics include electronic properties, quantum simulations, and applications in condensed matter physics and nanotechnology."), Modena, Italy.
 
-2025-09-01 to 05: [CECAM Flagship School CECAM/ALC/CCP9 Spectroscopy Masterclass (2025)](https://www.cecam.org/workshop-details/cecamalcccp9-spectroscopy-masterclass-1439), Daresbury, UK.
+2025-09-01 to 05: [CECAM Flagship School CECAM/ALC/CCP9 Spectroscopy Masterclass (2025)](https://www.cecam.org/workshop-details/cecamalcccp9-spectroscopy-masterclass-1439 "Focuses on computational spectroscopy for quantum materials. Topics include advanced simulation techniques, electronic structure calculations, and spectroscopic methods like X-ray and optical spectroscopy. The masterclass covers software tools, density functional theory, and applications in condensed matter physics and materials science."), Daresbury, UK.
 
 2025-09-06 to 12: [BEC Conference on Quantum Gases and Related Fields (BEC 2025)](https://indico.phys.ethz.ch/event/143/ "BEC 2025 explores Bose-Einstein condensates and quantum gases, covering ultracold atoms, superfluidity, and quantum simulations. Topics include applications in quantum computing, topological phases, and many-body physics, emphasizing experimental and theoretical quantum gas research."), Sant Feliu de Guíxols, Spain.
 
@@ -60,11 +62,11 @@
 
 2025-12-08 to 11: [CECAM Flagship Workshop on Recent Advances in First-Principles Modeling of Electron-Phonon Interactions (2025)](https://cecam.org/workshop-details/recent-advances-in-first-principles-modeling-of-electron-phonon-interactions-1383 "This workshop explores electron-phonon interactions, covering first-principles modeling, phonon scattering, and transport properties. Topics include applications in superconductors, thermoelectrics, and nanotechnology, emphasizing computational methods for understanding electron-phonon coupling in quantum materials."), Lausanne, Switzerland.
 
-2026 tbd: [Frontiers of Quantum and Mesoscopic Thermodynamics (FQMT 2026)](https://fqmt.fzu.cz/ "FQMT 2026 explores quantum and mesoscopic thermodynamics, covering quantum heat engines, non-equilibrium systems, and quantum transport. Topics include applications in nanotechnology and quantum computing, emphasizing theoretical and experimental studies of thermodynamic phenomena."), Prague, Czech Republic.
-
 2026-01-12 to 16: [IPAM Workshop New Frontiers in Quantum Algorithms for Open Quantum Systems (2026)](https://ipam.ucla.edu/programs/workshops/new-frontiers-in-quantum-algorithms-for-open-quantum-systems/ "This workshop explores quantum algorithms for open quantum systems, covering dissipative dynamics, quantum master equations, and quantum simulation. Topics include applications in condensed matter, quantum chemistry, and quantum computing, emphasizing computational methods for modeling open quantum systems."), Los Angeles, CA, USA.
 
 2026-06-08 to 12: [IMSI Workshop Mathematical Aspects of 2D Quantum Materials and Meta-Materials (2026)](https://imsi.institute/activities/mathematical-aspects-of-2d-quantum-materials-and-meta-materials/ "This workshop explores 2D quantum materials and metamaterials, covering topological phases, electronic properties, and photonics. Topics include graphene, transition metal dichalcogenides, and metamaterial design, emphasizing mathematical and computational methods for quantum material properties and applications."), Chicago, IL, USA.
 
 2026-07-26 to 08-01: [International Symposium on Quantum Fluids and Solids (QFS 2026)](https://people.umass.edu/qfs98/info1.htm "QFS 2026 explores quantum fluids and solids, covering superfluidity, Bose-Einstein condensates, and quantum phase transitions. Topics include applications in condensed matter and quantum technologies, emphasizing experimental and theoretical studies of quantum material behaviors."), South Bend, IN, USA.
+
+2026 tbd: [Frontiers of Quantum and Mesoscopic Thermodynamics (FQMT 2026)](https://fqmt.fzu.cz/ "FQMT 2026 explores quantum and mesoscopic thermodynamics, covering quantum heat engines, non-equilibrium systems, and quantum transport. Topics include applications in nanotechnology and quantum computing, emphasizing theoretical and experimental studies of thermodynamic phenomena."), Prague, Czech Republic.
 
