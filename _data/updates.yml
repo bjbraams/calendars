@@ -1,1 +1,7 @@
 # <id>:{dd,name,link,loc,more,kw}
+CECAM-FSSpectMC2025:
+  excerpt: Focuses on computational spectroscopy for quantum materials. Topics include advanced simulation techniques, electronic structure calculations, and spectroscopic methods like X-ray and optical spectroscopy. The masterclass covers software tools, density functional theory, and applications in condensed matter physics and materials science.
+ERN-CA20111Symp2025:
+  excerpt: Explores formal proofs and verification techniques in computer science. Topics include automated theorem proving, proof assistants, and formal methods for software and hardware verification, with applications in ensuring system correctness and reliability.
+4ITADATA2025:
+  excerpt: Covers big data analytics and data science advancements. Topics include machine learning algorithms, statistical modeling, data mining, and applications in industry, healthcare, and social sciences, emphasizing scalable computational techniques and data-driven decision-making.
