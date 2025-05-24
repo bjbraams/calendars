@@ -54,7 +54,7 @@ elif not os.path.isfile('_data/main.yml'):
 
 # Further tests
 print('Checking _data/main.yml...')
-data = myyaml.read_test_dict('_data/main.yml')
+data = myyaml.read_yml_dict('_data/main.yml')
 for key, event in data.items():
     errors = myyaml.check_event(key,event)
     if errors:
@@ -62,11 +62,13 @@ for key, event in data.items():
     for error in errors:
         print(error)
 
+# Compute page contents
+pages = myyaml.base_to_pages(data)
+
 # Check to proceed
 input(f'Return to proceed with */_data/*.yml, Ctrl-c to cancel')
 
-# Process and write the results
-pages = myyaml.base_to_pages(data)
+# Write the results
 for y, p in pages.items():
     dest = new_dest_yml(y)
     if dest:

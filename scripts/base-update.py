@@ -2,8 +2,8 @@
 #
 # Part of: https://github.com/bjbraams/calendars.
 #
-# Description: Process a YAML calendar file and its intended update
-# files. Report errors; optionally proceed to apply the updates.
+# Description: Process a YAML calendar file and its update files.
+# Report errors; optionally proceed to apply the updates.
 #
 # Common issues:
 # - A 'dd' entry is seen as a date and not as a string. In the YAML
@@ -34,7 +34,7 @@ elif not os.path.isfile('_data/main.yml'):
 
 # Further tests
 print('Checking _data/main.yml...')
-main = myyaml.read_test_dict('_data/main.yml')
+main = myyaml.read_yml_dict('_data/main.yml')
 for key, event in main.items():
     errors = myyaml.check_event(key,event)
     if errors:
@@ -43,22 +43,28 @@ for key, event in main.items():
         print(error)
 
 print('Checking _data/latest.yml...')
-latest = myyaml.read_test_dict('_data/latest.yml')
+latest = myyaml.read_yml_dict('_data/latest.yml')
 for key, event in latest.items():
-    for error in myyaml.check_event(key,event):
+    errors = myyaml.check_event(key,event)
+    if errors:
+        print(f'Errors in item {key}:\n')
+    for error in errors:
         print(error)
 
 print('Checking _data/deletes.yml...')
-deletes = myyaml.read_test_dict('_data/deletes.yml')
+deletes = myyaml.read_yml_dict('_data/deletes.yml')
 for key in deletes.keys():
     if key not in main.keys:
         print(f'key {key} is not found')
         del deletes[key]
 
 print('Checking _data/updates.yml...')
-updates = myyaml.read_test_dict('_data/updates.yml')
+updates = myyaml.read_yml_dict('_data/updates.yml')
 for key, update in updates.items():
-    for error in myyaml.check_update(key,update):
+    errors = myyaml.check_update(key,update)
+    if errors:
+        print(f'Errors in item {key}:\n')
+    for error in errors:
         print(error)
 
 if not main:
@@ -84,15 +90,15 @@ for key, event in latest.items():
 input(f'Return to proceed, Ctrl-c to cancel')
 
 os.rename('_data/main.yml', '_data/main-'+TODAY+'.yml')
-with open('_data/main.yml', 'w') as file:
-    myyaml.dump(main,file)
-with open('_data/new-'+TODAY+'.yml', 'a') as file:
-    myyaml.dump(latest,file)
-with open('_data/latest.yml', 'w') as file:
-    file.write('# <id>:{dd,name,link,loc,more,kw}\n')
-with open('_data/deletes.yml', 'w') as file:
-    file.write('# <id>:\n')
-with open('_data/updates.yml', 'w') as file:
-    file.write('# <id>:{dd,name,link,loc,more,kw}\n')
+with open('_data/main.yml', 'w') as f0:
+    myyaml.dump(main,f0)
+with open('_data/new-'+TODAY+'.yml', 'a') as f0:
+    myyaml.dump(latest,f0)
+with open('_data/latest.yml', 'w') as f0:
+    f0.write('# <id>:{dd,name,link,loc,more,kw}\n')
+with open('_data/deletes.yml', 'w') as f0:
+    f0.write('# <id>:\n')
+with open('_data/updates.yml', 'w') as f0:
+    f0.write('# <id>:{dd,name,link,loc,more,kw}\n')
 
 print('Now do YAML to MD and git update')

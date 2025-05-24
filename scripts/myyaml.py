@@ -1,10 +1,12 @@
 import yaml
 from titlecase import titlecase
 
-MANDATORY_KEYS = {'dd','name','loc','kw'}
-OPTIONAL_KEYS = {'link','more','excerpt'}
-RECOGNIZED_KEYS = {'dd','name','link','loc','more','kw','excerpt'}
-    # = MANDATORY_KEYS|OPTIONAL_KEYS, sorted as we like it
+MANDATORY_KEYS = ['dd','name']
+RECOGNIZED_KEYS = MANDATORY_KEYS.extend(
+    ['link','loc','more','kw','excerpt'])
+    # Lists sorted as we like it
+SetMK = set(MANDATORY_KEYS)
+SetRK = set(RECOGNIZED_KEYS)
 
 def capitalize(event):
     if 'name' in event.keys():
@@ -15,19 +17,23 @@ def sort_event_keys(event):
     for k in RECOGNIZED_KEYS:
         if k in event.keys():
             t[k] = event[k]
+    for k in event.keys():
+        if k not in SetRK:
+            t[k] = event[k]
     event = t
 
 def sort_key(event):
     # Sort on dd, ties resolved by event name.
     # Replace spaces with a high-value Unicode character for sorting.
     # ('YYYY tbd' will come after any specific date in year YYYY.)
-    return str(event['dd'])+str(event['name']).replace(' ','\uffff')
+    t0 = str(event.get('dd',''))+' '+str(event.get('name',''))
+    return t0.replace(' ','\uffff')
 
 def check_pair(key,value,id):
     # Return a list of errors
     errors = []
-    if key not in RECOGNIZED_KEYS:
-        errors.append(f'Event {id} contains invalid key: {key}')
+    if key not in SetRK:
+        errors.append(f'Event {id} contains unrecognized key: {key}')
     if not isinstance(value,str):
         errors.append(f'Event {id} contains invalid value: {value}')
     return errors
@@ -36,7 +42,7 @@ def check_event(id,event):
     # Return a list of errors
     if not isinstance(event,dict):
         return [f'Event {id} is not a dictionary']
-    if not MANDATORY_KEYS <= event.keys():
+    if not SetMK <= event.keys():
         return [f'Event {id} is missing a mandatory key']
     errors = []
     for key, value in event.items():
@@ -61,7 +67,7 @@ def check_calendar(calendar):
         errors.extend(check_event(id,event))
     return errors
 
-def read_test_dict (fn):
+def read_yml_dict (fn):
     try:
         with open(fn) as f:
             dic = yaml.safe_load(f)
@@ -85,18 +91,23 @@ def dump(data,fn):
     yaml.safe_dump(data, fn, allow_unicode=True,
                    width=999, sort_keys=False)
 
-def event_yaml_to_md(x,hl):
-    # Generate a Markdown entry for calendar item x, highlight if hl.
-    if 'link' in x.keys() and x['link']:
-        if 'excerpt' in x.keys():
-            link = x['link']+' "'+x['excerpt']+'"'
-        else:
-            link = x['link']
-        a = x['dd']+': ['+x['name']+']('+link+'), '+x['loc']
+def event_yaml_to_md(event,hl):
+    # Generate a Markdown entry for calendar item event, highlight if hl.
+    dd = event.get('dd','No dates')
+    name = event.get('name','??')
+    exc = event.get('excerpt','')
+    if (link := event.get('link','')):
+        if exc:
+            link = link+' "'+exc+'"'
     else:
-        a = x['dd']+': '+x['name']+', '+x['loc']
-    if 'more' in x.keys() and x['more']:
-        b = '. '+x['more'].rstrip('.')+'.'
+        if exc:
+            link = '"'+exc+'"'
+    if (loc := event.get('loc','')):
+        a = dd+': ['+name+']('+link+'), '+loc
+    else:
+        a = dd+': ['+name+']('+link+')'
+    if (more := event.get('more','')):
+        b = '. '+more.rstrip('.')+'.'
     else:
         b = '.' 
     if hl:
@@ -152,7 +163,7 @@ def base_to_pages(data):
     # Assume that data has been checked for errors
     pages = {}
     for key, event in data.items():
-        if 'kw' in event.keys():
-            for y1 in event['kw'].split(','):
+        if (kw := event.get('kw','')):
+            for y1 in kw.split(','):
                 pages_extend(key,y1,pages)
     return pages
