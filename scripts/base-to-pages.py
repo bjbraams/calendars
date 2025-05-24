@@ -54,7 +54,8 @@ elif not os.path.isfile('_data/main.yml'):
 
 # Further tests
 print('Checking _data/main.yml...')
-data = myyaml.read_yml_dict('_data/main.yml')
+with open('_data/main.yml') as f:
+    data = myyaml.read_yml_dict(f)
 for key, event in data.items():
     errors = myyaml.check_event(key,event)
     if errors:

@@ -66,28 +66,24 @@ def check_calendar(calendar):
         errors.extend(check_event(id,event))
     return errors
 
-def read_yml_dict (fn):
+def read_yml_dict (f):
     try:
-        with open(fn) as f:
-            dic = yaml.safe_load(f)
+        dic = yaml.safe_load(f)
     except yaml.YAMLError as e:
         print(f'YAML parsing error: {str(e)}')
         return {}
-    except FileNotFoundError:
-        print(f'Warning: file {fn} not found')
-        return {}
     if not dic:
-        print(f'Warning: file {fn} content is Null')
+        print(f'Warning: Input file content is Null')
         return {}
     elif not isinstance(dic,dict):
-        print(f'Warning: file {fn} is not a dict')
+        print(f'Warning: Input file is not a dict')
         return {}
     else:
         return dic
 
-def dump(data,fn):
+def dump(data,f):
     # My specialized version of yaml.safe_dump
-    yaml.safe_dump(data, fn, allow_unicode=True,
+    yaml.safe_dump(data, f, allow_unicode=True,
                    width=999, sort_keys=False)
 
 def event_yaml_to_md(event,hl):

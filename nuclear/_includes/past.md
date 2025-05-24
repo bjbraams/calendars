@@ -8,6 +8,8 @@
 
 2025-02-24 to 28: [NUSTAR Annual Meeting 2025](https://indico.gsi.de/event/20773/ "The NUSTAR Annual Meeting focuses on nuclear structure and astrophysics, covering exotic nuclei, nuclear reactions, and superheavy elements. Topics include gamma-ray spectroscopy, nuclear fission, and nucleosynthesis, with applications in understanding stellar processes and fundamental interactions, emphasizing experimental advancements."), Darmstadt, Germany.
 
+2025-02-25 to 28: [TRIUMPH Workshop on Progress in Ab Initio Nuclear Theory (PAINT 2025)](https://indico.triumf.ca/event/608/), Vancouver, BC, USA.
+
 2025-03-03 to 14: [CeNAM Nucleosynthesis Uncertainties Workshop](https://sites.google.com/view/nucleosynthesis-uncertainties "This workshop focuses on uncertainties in nucleosynthesis, covering nuclear reaction rates, cross-section measurements, and statistical modeling. Topics include stellar burning, neutron capture processes, and their impact on cosmic abundance, bridging nuclear physics and astrophysics for precise nucleosynthesis predictions."), Seattle, WA, USA.
 
 2025-03-12 to 13: [Nuclear Physics in Plasma Environments (2025)](https://iop.eventsair.com/nppe2025/ "This workshop focuses on nuclear physics in plasma environments, covering nuclear reactions in stellar and fusion plasmas. Topics include thermonuclear reaction rates, plasma screening effects, and nucleosynthesis, with applications in astrophysics and fusion energy research, bridging nuclear and plasma physics."), London, UK.
@@ -15,6 +17,8 @@
 2025-03-16 to 22: [20th Russbach School on Nuclear Astrophysics (2025)](https://events.hifis.net/event/1817/ "This school explores nuclear astrophysics, focusing on stellar nucleosynthesis, nuclear reaction networks, and neutron star physics. Topics include explosive burning, weak interaction processes, and their role in cosmic evolution, bridging experimental nuclear physics and astrophysical modeling."), Russbach, Austria.
 
 2025-04-08 to 11: [3rd Joint ECFA-NuPECC-ApPEC Symposium (JENAS 2025)](https://indico.global/event/5574/ "JENAS 2025 explores nuclear physics, particle physics, and astrophysics, focusing on neutrino physics, dark matter, and nuclear reactions. Topics include accelerator-based experiments, cosmic ray detection, and nucleosynthesis, emphasizing interdisciplinary approaches to fundamental physics questions."), Didcot, Oxfordshire, UK.
+
+2025-04-23 to 25: [IOP Nuclear Physics Conference 2025](https://www.iop.org/events/nuclear-physics-conference-2025), Manchester, UK.
 
 2025-05-13 to 15: [7th Conference on Nuclei and Mesoscopic Physics (NMP 2025)](https://indico.frib.msu.edu/event/78/ "This conference explores nuclear and mesoscopic physics, focusing on nuclear structure, reactions, and quantum many-body systems. Topics include exotic nuclei, superheavy elements, and nanoscale quantum phenomena, with applications in nuclear astrophysics and quantum technologies, emphasizing experimental and theoretical advancements."), East Lansing, MI, USA.
 

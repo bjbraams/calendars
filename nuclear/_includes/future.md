@@ -6,17 +6,31 @@
 
 2025-06-08 to 13: [Conference on S, I & R Element Nucleosynthesis (sirEN 2025)](https://indico.ict.inaf.it/event/2876/ "sirEN 2025 focuses on nucleosynthesis of sulfur, iron, and r-process elements, covering nuclear reactions and stellar evolution. Topics include neutron capture, supernova models, and computational astrophysics, emphasizing nuclear processes in cosmic element formation."), Giulianova, TE, Italy.
 
+2025-06-09 to 13: [15th Conference on the Intersections of Particle and Nuclear Physics (CIPANP 2025)](https://agenda.hep.wisc.edu/event/2257/), Madison, WI, USA.
+
+2025-06-14 to 15: [Gordon Research Seminar Nuclear Chemistry, Modern Methods for Nuclear Science in the Discovery Era (2025)](https://www.grc.org/nuclear-chemistry-grs-conference/2025/), New London, NH, USA.
+
 2025-06-15 to 20: [18th International Symposium on Nuclei in the Cosmos (NIC 2025)](https://indico.icc.ub.edu/event/341/ "NIC 2025 explores nuclear astrophysics, focusing on nucleosynthesis, stellar evolution, and nuclear reactions. Topics include cosmic abundances, neutron star mergers, and computational astrophysics, with applications in understanding cosmic origins, emphasizing experimental and theoretical nuclear studies."), Girona, Catalonia, Spain.
 
 2025-06-15 to 20: [Gordon Research Conference Nuclear Chemistry: Diving Into the Era of Discoveries With Exotic Beams (2025)](https://grc.org/nuclear-chemistry-conference/2025/ "This conference focuses on nuclear chemistry with exotic beams, covering nuclear structure, reactions, and rare isotopes. Topics include superheavy elements, nuclear fission, and applications in astrophysics, emphasizing experimental advancements with next-generation beam facilities."), New London, NH, USA.
 
+2025-06-16 to 07-04: [ECTstar DTP-TALENT 2025 Quantum Computing for Nuclear Physics](https://indico.ectstar.eu/event/250/), Trento, Italy.
+
 **2025-06-17 to 20: [Meeting of the International Network of Nuclear Reaction Data Centres (NRDC 2025)](https://www-nds.iaea.org/nrdc/nrdc_2025/ "NRDC 2025 focuses on nuclear reaction data, covering cross-section measurements, data compilation, and evaluation. Topics include nuclear databases, reaction modeling, and applications in nuclear energy and astrophysics, emphasizing standardized data for global nuclear research."), Madrid, Spain**.
+
+2025-06-22 to 07-03: [Carpathian Summer School of Physics 2025 Exotic Nuclei and Nuclear/Particle Astrophysics (X). Physics With Small Accelerators](https://cssp25.nipne.ro/), Sinaia, Romania.
 
 2025-06-22 to 27: [16th International Conference on Heavy Ion Accelerator Technology (HIAT 2025)](https://indico.jacow.org/event/82/ "HIAT 2025 focuses on heavy ion accelerator technology, covering beam dynamics, ion sources, and accelerator design. Topics include applications in nuclear physics, medical therapy, and materials science, emphasizing advancements in heavy ion accelerator performance and applications."), East Lansing, MI, USA.
 
 **2025-06-22 to 27: [16th Nuclear Data for Science and Technology Conference (ND 2025)](https://nd2025madrid.com "ND 2025 focuses on nuclear data, covering cross-section measurements, nuclear reaction modeling, and data evaluation. Topics include applications in nuclear energy, astrophysics, and medical isotopes, emphasizing accurate nuclear data for scientific and technological advancements."), Madrid, Spain**.
 
+2025-06-25 to 27: [17th International Conference on Nuclear Structure Properties (NSP 2025)](https://nsp2025.cumhuriyet.edu.tr/), Sivas, Turkey.
+
+2025-06-29 to 07-05: [42nd International Workshop on Nuclear Theory (IWNT 2025)](http://ntl.inrne.bas.bg/workshop/2025/), Borovetz Resort, Bulgaria.
+
 **2025-07-01 to 06: [75th International Conference Nucleus-2025 - Nuclear Physics, Elementary Particle Physics, and Nuclear Technologies (2025)](https://indico.spbu.ru/event/1/ "Nucleus-2025 focuses on nuclear and particle physics, covering nuclear reactions, quark-gluon plasma, and accelerator technologies. Topics include nuclear structure, particle detection, and applications in energy and medicine, emphasizing experimental and theoretical advancements."), Saint Petersburg, Russia**.
+
+2025-07-07 to 09: [Theory Service for the Low Energy Nuclear Physics Community Hands-on Workshop (Theo4Exp 2025)](https://indico.ectstar.eu/event/237/), Trento, Italy.
 
 2025-07-14 to 18: [2nd IReNA-UKAKUREN Joint Workshop Advancing Nuclear Astrophysics and Beyond (IReNA-UKAKUREN 2025)](https://www.jinaweb.org/events/2nd-irena-ukakuren-joint-workshop-advancing-nuclear-astrophysics-and-beyond "This workshop focuses on nuclear astrophysics, covering nucleosynthesis, stellar explosions, and nuclear reactions. Topics include neutron star mergers, cosmic ray production, and applications in cosmology, emphasizing experimental and theoretical advancements in nuclear astrophysical research."), Kyoto, Japan.
 
@@ -40,9 +54,15 @@
 
 2025-11-17 to 21: [11th ECTstar Workshop on Information and Statistics in Nuclear Experiment and Theory (ESNET 2025)](https://indico.ectstar.eu/event/247/ "ESNET 2025 explores statistical methods in nuclear physics, covering Bayesian analysis, uncertainty quantification, and experimental design. Topics include applications in nuclear reactions, astrophysics, and nuclear structure, emphasizing computational and statistical tools for nuclear experiment analysis."), Trento, Italy.
 
+2026-01-19 to 23: [62nd International Winter Meeting on Nuclear Physics (Bormio 2026)](https://bormiomeeting.com/), Bormio, Italy.
+
+2026-04-19 to 23: [International Conference on the Physics of Reactors (PHYSOR 2026)](https://www.physor2026.org/), Turin, Italy.
+
 2026-05-18 to 22: [10th Oslo Workshop on Level Density and Gamma Strength (2026)](https://www.mn.uio.no/fysikk/english/research/news-and-events/events/conferences/gamma10/ "This workshop focuses on nuclear level density and gamma strength, covering nuclear reactions, statistical models, and spectroscopy. Topics include applications in nuclear astrophysics and reactor physics, emphasizing experimental and theoretical methods for nuclear structure analysis."), Oslo, Norway.
 
 2026-05-23 to 29: [28th Conference on Computing in High Energy and Nuclear Physics (CHEP 2026)](https://chep2026.phys.sc.chula.ac.th "CHEP 2026 focuses on computing in high-energy and nuclear physics, covering data analysis, simulation, and machine learning. Topics include particle detector simulations, big data processing, and AI applications, emphasizing computational tools for advancing nuclear and particle physics research."), Bangkok, Thailand.
+
+2026-06-01 to 07: [5th International Conference on Advances in Radioactive Isotope Science 2026 (ARIS 2026)](https://indico.rcnp.osaka-u.ac.jp/event/2571/), Fukushima, Japan.
 
 2026-06-14 to 19: [18th International Symposium on Capture Gamma-Ray Spectroscopy and Related Topics (CGS 2026)](https://mpi-hd.mpg.de/mpi/de/forschung/abteilungen-und-gruppen/gespeicherte-und-gekuehlte-ionen/veranstaltungen/konferenzen "CGS 2026 focuses on capture gamma-ray spectroscopy, covering nuclear reactions, gamma decay, and nuclear structure. Topics include applications in astrophysics, nuclear energy, and medical physics, emphasizing experimental and theoretical studies of gamma-ray interactions."), Monterey, CA, USA.
 

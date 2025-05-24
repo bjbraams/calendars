@@ -34,7 +34,8 @@ elif not os.path.isfile('_data/main.yml'):
 
 # Further tests
 print('Checking _data/main.yml...')
-main = myyaml.read_yml_dict('_data/main.yml')
+with open('_data/main.yml') as f:
+    main = myyaml.read_yml_dict(f)
 for key, event in main.items():
     errors = myyaml.check_event(key,event)
     if errors:
@@ -43,7 +44,8 @@ for key, event in main.items():
         print(error)
 
 print('Checking _data/latest.yml...')
-latest = myyaml.read_yml_dict('_data/latest.yml')
+with open('_data/latest.yml') as f:
+    latest = myyaml.read_yml_dict(f)
 for key, event in latest.items():
     errors = myyaml.check_event(key,event)
     if errors:
@@ -52,14 +54,16 @@ for key, event in latest.items():
         print(error)
 
 print('Checking _data/deletes.yml...')
-deletes = myyaml.read_yml_dict('_data/deletes.yml')
+with open('_data/deletes.yml') as f:
+    deletes = myyaml.read_yml_dict(f)
 for key in deletes.keys():
     if key not in main.keys:
         print(f'key {key} is not found')
         del deletes[key]
 
 print('Checking _data/updates.yml...')
-updates = myyaml.read_yml_dict('_data/updates.yml')
+with open('_data/updates.yml') as f:
+    updates = myyaml.read_yml_dict(f)
 for key, update in updates.items():
     errors = myyaml.check_update(key,update)
     if errors:

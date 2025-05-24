@@ -3,7 +3,8 @@
 import sys
 import myyaml
 
-main = myyaml.read_yml_dict('_data/main.yml')
+with open('_data/main.yml') as f:
+    main = myyaml.read_yml_dict(f)
 for key, event in main.items():
     if not event.get('excerpt',''):
         myyaml.dump({key:event},sys.stdout)
