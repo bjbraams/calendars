@@ -108,30 +108,31 @@ LorentzWMMR2025:
   link: https://www.lorentzcenter.nl/mechanization-and-mathematical-research.html
   loc: Leiden, Netherlands
   kw: cs-lo
-id:
-  dd: 
-  name: 
-  link: 
-  loc: 
-  kw: 
-id:
-  dd: 
-  name: 
-  link: 
-  loc: 
-  kw: 
-id:
-  dd: 
-  name: 
-  link: 
-  loc: 
-  kw: 
-id:
-  dd: 
-  name: 
-  link: 
-  loc: 
-  kw: 
+7IBioStat2025:
+  dd: 2025-09-15 to 19
+  name: 7th I-BioStat Summer school on Advanced Bayesian Methods (2025)
+  link: https://ibiostat.be/summer-school-on-advanced-bayesian-methods-15-19-september-2025/
+  loc: Leuven, Belgium
+  kw: stat-me
+UtrechtSSBayes2025:
+  dd: 2025-07-21 to 25
+  name: Utrecht Summer School Course on A gentle introduction to Bayesian Estimation (2025)
+  link: https://utrechtsummerschool.nl/courses/data-science/a-gentle-introduction-to-bayesian-estimation
+  loc: Utrecht, Netherlands
+  kw: stat-me
+SSRSTC:
+  dd: 2025-05-15 to 17
+  name: Summer School on Robust Statistics Theory and Computation (2025)
+  link: https://datascience.maths.unitn.it/icors2025/school.html
+  loc: Ispra, Italy
+  more: Just before ICORS 2025
+  kw: stat-me
+ASAIMSSRC2025:
+  dd: 2025-06-03 to 05
+  name: ASA/IMS Spring Research Conference (SRC 2025)
+  link: https://sites.google.com/view/src-2025
+  loc: New York City, NY, USA
+  kw: stat-me
 id:
   dd: 
   name: 
