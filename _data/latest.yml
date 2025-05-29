@@ -66,36 +66,36 @@ BS45SPA2026:
   loc: Ithaca, NY, USA
   more: Provisional link
   kw: stoch
-id:
-  dd: 
-  name: 
-  link: 
-  loc: 
-  kw: 
-id:
-  dd: 
-  name: 
-  link: 
-  loc: 
-  kw: 
-id:
-  dd: 
-  name: 
-  link: 
-  loc: 
-  kw: 
-id:
-  dd: 
-  name: 
-  link: 
-  loc: 
-  kw: 
-id:
-  dd: 
-  name: 
-  link: 
-  loc: 
-  kw: 
+CECAMFWBio1427Y2025:
+  dd: 2025-07-07 to 10
+  name: CECAM Flagship Workshop Frontiers in the Simulation of Photoresponsive Biological Systems
+  link: https://www.cecam.org/workshop-details/frontiers-in-simulation-of-photoresponsive-biological-systems-1427
+  loc: Siena, Italy
+  kw: qmol
+SAMBA2025:
+  dd: 2025-09-01 to 05
+  name: Summer Academy For Modeling Batteries (SAMBA 2025)
+  link: https://www.conferencemanager.dk/sambasummerschool2025
+  loc: Lyngy, Denmark
+  kw: qchem
+6IWDaLi2025:
+  dd: 2025-10-20 to 21
+  name: 6th Workshop on Dynamic Logic - New trends and applications (DaLí 2025)
+  link: http://www.dali2025.cn/
+  loc: Xi'an, China
+  kw: cs-lo
+IWQRS2026:
+  dd: 2026-06-22 to 26
+  name: Quantum Reactive Scattering Workshop (QRS 2026)
+  loc: Gdańsk, Poland
+  more: Announced on MDNews list
+  kw: qchem
+45SGAI2025:
+  dd: 2025-12-16 to 18
+  name: 45th SGAI International Conference on Artificial Intelligence (AI 2025)
+  link: https://www.bcs-sgai.org/ai2025/
+  loc: Cambridge, UK
+  kw: cs-oh
 id:
   dd: 
   name: 
