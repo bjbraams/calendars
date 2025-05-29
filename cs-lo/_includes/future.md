@@ -1,5 +1,3 @@
-<!---
-
 2025-06-09 to 13: [31st International Conference on Types for Proofs and Programs (TYPES 2025)](https://msp.cis.strath.ac.uk/types2025/ "TYPES 2025 focuses on type theory for proofs and programs, covering dependent types, formal verification, and programming languages. Topics include type-based program synthesis, logical frameworks, and applications in software correctness, emphasizing theoretical programming foundations."), Glasgow, UK.
 
 2025-06-16 to 20: [11th Conference on Algebra and Coalgebra in Computer Science (CALCO 2025) and 41st Conference on the Mathematical Foundations of Programming Semantics (MFPS 2025)](https://coalg.org/calco-mfps-2025/ "This joint conference explores algebra, coalgebra, and programming semantics, focusing on categorical methods, type theory, and formal verification. Topics include program correctness, coalgebraic modeling, and applications in software development, emphasizing mathematical foundations of computer science."), Glasgow, UK.
@@ -54,4 +52,3 @@
 
 2026-03-23 to 26: [14th International Symposium on Foundations of Information and Knowledge Systems (FoIKS 2026)](https://foiks2026.github.io/ "FoIKS 2026 explores foundations of information and knowledge systems, covering databases, knowledge representation, and reasoning. Topics include applications in AI, data integration, and semantic web, emphasizing theoretical and computational frameworks for managing information and knowledge."), Hanover, Germany.
 
--->

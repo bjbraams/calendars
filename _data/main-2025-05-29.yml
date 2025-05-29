@@ -245,8 +245,8 @@ ITAMP Winter School on Quantum Revolution in AMO Sciences (2025):
   loc: Biosphere 2, Oracle, AZ, USA
   kw: qchem
   excerpt: This winter school explores quantum advancements in atomic, molecular, and optical (AMO) sciences. Topics include quantum control, ultracold molecules, and quantum sensing. It covers applications in quantum chemistry, precision measurement, and quantum information, emphasizing experimental and theoretical breakthroughs in AMO physics.
-? 3rd IACM Digital Twins in Engineering Conference (DTE 2025) and 1st ECCOMAS Artificial Intelligence and Computational Methods in Applied Science (AICOMAS 2025)
-: dd: 2025-02-17 to 21
+3rd IACM Digital Twins in Engineering Conference (DTE 2025) and 1st ECCOMAS Artificial Intelligence and Computational Methods in Applied Science (AICOMAS 2025):
+  dd: 2025-02-17 to 21
   link: https://dte_aicomas_2025.iacm.info
   loc: Paris, France
   kw: comp-ml
@@ -446,8 +446,8 @@ International Conference on Optimization (SIGOPT 2025):
   loc: Jena, Germany
   kw: cs-al
   excerpt: STACS 2025 focuses on theoretical computer science, covering algorithms, complexity, and automata theory. Topics include parameterized algorithms, computational geometry, and quantum computing theory, with applications in cryptography, bioinformatics, and network analysis, emphasizing rigorous mathematical foundations.
-? 45th International Joint Workshop on Infinite Dimensional Analysis, Quantum Probability and Related Topics (QP 2025) and Quantum Bio-Informatics (QBIC 2025)
-: dd: 2025-03-04 to 08
+45th International Joint Workshop on Infinite Dimensional Analysis, Quantum Probability and Related Topics (QP 2025) and Quantum Bio-Informatics (QBIC 2025):
+  dd: 2025-03-04 to 08
   link: https://sites.google.com/view/qp45-qbic2025
   loc: Tokyo, Japan
   kw: prob
@@ -554,8 +554,8 @@ Oberwolfach Workshop on Frontiers of Statistics and Machine Learning (2025):
   loc: Milan, Italy
   kw: comp-ml
   excerpt: This meeting focuses on scientific machine learning, covering physics-informed neural networks, data-driven modeling, and AI for scientific discovery. Topics include computational mechanics, climate modeling, and materials science, emphasizing hybrid approaches blending machine learning with traditional numerical methods.
-? International Research Project PICASSO Conference on Hyperbolic Models, Numerical Analysis and Scientific Computation (2025)
-: dd: 2025-03-24 to 26
+International Research Project PICASSO Conference on Hyperbolic Models, Numerical Analysis and Scientific Computation (2025):
+  dd: 2025-03-24 to 26
   link: https://indico.math.cnrs.fr/event/13192/
   loc: Málaga, Spain
   kw: comp-na
@@ -626,8 +626,8 @@ International Conference on Quantum Communications, Networking, and Computing (Q
   loc: Nara, Japan
   kw: comp-qc
   excerpt: QCNC 2025 focuses on quantum communications and computing, covering quantum networks, quantum cryptography, and distributed quantum computing. Topics include quantum key distribution, entanglement-based protocols, and quantum internet architectures, emphasizing scalable quantum communication technologies.
-? 'CECAM Flagship Workshop Fulfilling the Multiscale Promise in Materials: Getting Information Out of the Atomistic Scale (2025)'
-: dd: 2025-03-31 to 04-03
+'CECAM Flagship Workshop Fulfilling the Multiscale Promise in Materials: Getting Information Out of the Atomistic Scale (2025)':
+  dd: 2025-03-31 to 04-03
   link: https://cecam.org/workshop-details/fulfilling-the-multiscale-promise-in-materials-getting-information-out-of-the-atomistic-scale-1283
   loc: Lausanne, Switzerland & online
   kw: qmat
@@ -812,8 +812,8 @@ Seismological Society of America Annual Meeting (SSA 2025):
   loc: Santa Fe, NM, USA
   kw: +plas-am
   excerpt: WDM 2025 explores warm dense matter, focusing on high-pressure plasmas and equation-of-state modeling. Topics include laser-driven experiments, plasma thermodynamics, and computational simulations, with applications in planetary science, inertial fusion, and astrophysics, emphasizing extreme matter states.
-? Workshop Everything You Always Wanted to Know About Discretization, Approximation, and Numerical Analysis for the JKO Scheme (2025)
-: dd: 2025-04-16 to 17
+Workshop Everything You Always Wanted to Know About Discretization, Approximation, and Numerical Analysis for the JKO Scheme (2025):
+  dd: 2025-04-16 to 17
   link: https://indico.math.cnrs.fr/event/13361/
   loc: Villeurbanne, France
   kw: comp-na
@@ -996,8 +996,8 @@ SIAM International Conference on Data Mining (SDM 2025):
   loc: Alexandria, VA, USA
   kw: stat-ml
   excerpt: SDM 2025 focuses on data mining, covering clustering, classification, and graph mining. Topics include deep learning for unstructured data, anomaly detection, and applications in social networks and bioinformatics, emphasizing scalable algorithms for large-scale data analysis.
-? Penn Conference on Theoretical Chemistry (PCTC 2025) (Ferroelectrics, Nanomaterials, Light-Matter Interactions, Next-Gen Computing & Renewable Energy)
-: dd: 2025-05-03 to 04
+Penn Conference on Theoretical Chemistry (PCTC 2025) (Ferroelectrics, Nanomaterials, Light-Matter Interactions, Next-Gen Computing & Renewable Energy):
+  dd: 2025-05-03 to 04
   link: https://pctc2025.regfox.com/pctc25
   loc: Philadelphia, PA, USA
   kw: qmat
@@ -1069,14 +1069,14 @@ Moroccan-Swedish Conference on Stochastic Analysis (MOSCSA 2025):
   loc: Dubrovnik, Croatia
   kw: plas-ig
   excerpt: FPPT 2025 focuses on plasma physics and technology, covering low-temperature plasmas, plasma-surface interactions, and plasma processing. Topics include plasma diagnostics, thin-film deposition, and applications in nanotechnology and biomedicine, emphasizing practical plasma technologies.
-? '26th Symposium on the Jahn-Teller Effect: Vibronic Coupling and Jahn-Teller Effects in Molecules, Solids, and Nanoscale Materials (2025)'
-: dd: 2025-05-05 to 09
+'26th Symposium on the Jahn-Teller Effect: Vibronic Coupling and Jahn-Teller Effects in Molecules, Solids, and Nanoscale Materials (2025)':
+  dd: 2025-05-05 to 09
   link: https://sites.google.com/view/jt26th-2025/
   loc: Online
   kw: qchem
   excerpt: This symposium explores the Jahn-Teller effect, focusing on vibronic coupling in molecules and solids. Topics include electronic instabilities, symmetry breaking, and applications in superconductors, nanomaterials, and quantum chemistry, emphasizing theoretical and computational insights.
-? 36th International Conference on Probabilistic, Combinatorial and Asymptotic Methods for the Analysis of Algorithms (AofA 2025)
-: dd: 2025-05-05 to 09
+36th International Conference on Probabilistic, Combinatorial and Asymptotic Methods for the Analysis of Algorithms (AofA 2025):
+  dd: 2025-05-05 to 09
   link: http://www.fields.utoronto.ca/activities/24-25/AofA-2025
   loc: Toronto, ON, Canada
   kw: cs-al
@@ -1105,8 +1105,8 @@ Mallorca Topological Quantum Matter (MTQM 2025):
   loc: Palma de Mallorca, Spain
   kw: tbd
   excerpt: MTQM 2025 explores topological quantum matter, focusing on topological insulators, superconductors, and quantum spin liquids. Topics include topological phase transitions, Majorana fermions, and applications in quantum computing, emphasizing theoretical and experimental advancements in quantum materials.
-? 'Global Science Research Center for Systems Chemistry 1st International Symposium: Chemical Dynamics in Materials and Living Systems (GSRC 2025)'
-: dd: 2025-05-06 to 10
+'Global Science Research Center for Systems Chemistry 1st International Symposium: Chemical Dynamics in Materials and Living Systems (GSRC 2025)':
+  dd: 2025-05-06 to 10
   link: https://cdml.cau.ac.kr
   loc: Seoul, Korea
   kw: qchem
@@ -1141,8 +1141,8 @@ Karlsruhe International Summer School on Fusion Technologies 2025:
   loc: Marrakech, Morocco
   kw: cs-op
   excerpt: ECCO 2025 explores combinatorial optimization, covering graph theory, integer programming, and approximation algorithms. Topics include scheduling, network design, and vehicle routing, with applications in logistics and telecommunications, emphasizing efficient computational strategies for discrete optimization problems.
-? Conference the Past, Present and Future of Statistics in the Era of AI - Marking 90 Years of the GWU Department of Statistics (2025)
-: dd: 2025-05-08 to 10
+Conference the Past, Present and Future of Statistics in the Era of AI - Marking 90 Years of the GWU Department of Statistics (2025):
+  dd: 2025-05-08 to 10
   link: https://statistics.columbian.gwu.edu/gw-stat-90
   loc: Washington, DC, USA
   kw: stat-th
@@ -1399,8 +1399,8 @@ Workshop on Recent Progress, Development, and Applications of Two-Dimensional Ma
   loc: Belgrade, Serbia
   kw: spintronics
   excerpt: This workshop explores two-dimensional magnets in spintronics, focusing on magnetic van der Waals materials and spin transport. Topics include spin-orbit coupling, magnetic tunneling junctions, and applications in memory devices, emphasizing experimental and theoretical progress in spintronic technologies.
-? '90th Workshop of the International School of Solid State Physics: Dynamics of Electrons in Atomic and Molecular Nanoclusters (DEAMN 2025)'
-: dd: 2025-05-21 to 27
+'90th Workshop of the International School of Solid State Physics: Dynamics of Electrons in Atomic and Molecular Nanoclusters (DEAMN 2025)':
+  dd: 2025-05-21 to 27
   link: https://dornsife.usc.edu/deamn25/
   loc: Erici, Sicily, Italy
   kw: qmat
@@ -1519,8 +1519,8 @@ Maryland Quantum-Thermodynamics Symposium (QTD 2025):
   loc: UMBC, Baltimore, MD, USA
   kw: prob
   excerpt: QTD 2025 focuses on quantum thermodynamics, covering quantum heat engines, entanglement, and stochastic processes. Topics include quantum fluctuation theorems, thermodynamic uncertainty relations, and applications in quantum information, emphasizing probabilistic models for quantum thermodynamic systems.
-? 18th International Meeting on Fully Three-Dimensional Image Reconstruction in Radiology and Nuclear Medicine (Fully3D 2025)
-: dd: 2025-05-27 to 30
+18th International Meeting on Fully Three-Dimensional Image Reconstruction in Radiology and Nuclear Medicine (Fully3D 2025):
+  dd: 2025-05-27 to 30
   link: https://hqlab.sjtu.edu.cn/fully3d-2025/home
   loc: Shanghai, China
   kw: comp-in
@@ -1687,8 +1687,8 @@ SLMath Graduate School on Local Limits of Random Graphs (2025):
   loc: Paris, France
   kw: prob
   excerpt: This graduate school focuses on local limits of random graphs, covering graphons, branching processes, and combinatorial probability. Topics include network convergence, random graph models, and applications in social networks, emphasizing probabilistic tools for graph analysis.
-? YITP International Molecule-Type Workshop on Hydrodynamics of Low-Dimensional Interacting Systems Advances, Challenges, and Future Directions (2025)
-: dd: 2025-06-02 to 13
+YITP International Molecule-Type Workshop on Hydrodynamics of Low-Dimensional Interacting Systems Advances, Challenges, and Future Directions (2025):
+  dd: 2025-06-02 to 13
   link: https://www.yukawa.kyoto-u.ac.jp/seminar/s53402?lang=en-GB
   loc: Kyoto, Japan
   kw: comp-fd
@@ -1723,8 +1723,8 @@ Quantum Fringe Summer Festival of Quantum Events 2025:
   loc: Zurich, Switzerland
   kw: cs-al
   excerpt: HALG 2025 focuses on algorithmic advancements, covering graph algorithms, approximation algorithms, and computational complexity. Topics include online algorithms, distributed computing, and applications in optimization and data science, emphasizing cutting-edge theoretical algorithmic research.
-? 2nd Conference Math 2 Product, Emerging Technologies in Computational Science for Industry, Sustainability and Innovation (M2P 2025)
-: dd: 2025-06-04 to 06
+2nd Conference Math 2 Product, Emerging Technologies in Computational Science for Industry, Sustainability and Innovation (M2P 2025):
+  dd: 2025-06-04 to 06
   link: https://www.m2p2025.com/M2P2025/
   loc: Valencia, Spain
   kw: comp-ot
@@ -1987,8 +1987,8 @@ HCM Workshop Functional Data Analysis - In Honor of Alois Kneip (2025):
   loc: Bonn, Germany
   kw: stat-th
   excerpt: This workshop focuses on functional data analysis, covering functional regression, time-series modeling, and high-dimensional statistics. Topics include applications in biostatistics and economics, honoring Alois Kneip’s contributions, emphasizing advanced statistical methods for functional data.
-? TRR 391 Summer School on Generalized Additive Modelling and Statistical Methods for High-Dimensional Spatio-Temporal Data (2025)
-: dd: 2025-06-12 to 14
+TRR 391 Summer School on Generalized Additive Modelling and Statistical Methods for High-Dimensional Spatio-Temporal Data (2025):
+  dd: 2025-06-12 to 14
   link: https://trr391.tu-dortmund.de/events/summer-schools/
   loc: Dortmund, Germany
   kw: stat-me
@@ -2107,8 +2107,8 @@ UKAEA Fusion Industry School York Course 2025:
   loc: Heslington, York, UK
   kw: plas-ph
   excerpt: This course focuses on fusion energy, covering plasma physics, magnetic confinement, and fusion reactor technologies. Topics include tokamak operations, plasma diagnostics, and materials for fusion, emphasizing practical training for industry applications in sustainable energy.
-? 11th Conference on Algebra and Coalgebra in Computer Science (CALCO 2025) and 41st Conference on the Mathematical Foundations of Programming Semantics (MFPS 2025)
-: dd: 2025-06-16 to 20
+11th Conference on Algebra and Coalgebra in Computer Science (CALCO 2025) and 41st Conference on the Mathematical Foundations of Programming Semantics (MFPS 2025):
+  dd: 2025-06-16 to 20
   link: https://coalg.org/calco-mfps-2025/
   loc: Glasgow, UK
   kw: cs-lo
@@ -2173,8 +2173,8 @@ Linnaeus Workshop on Stochastic Analysis and Applications (LSAA 2025):
   loc: Växjö, Sweden
   kw: stoch
   excerpt: LSAA 2025 focuses on stochastic analysis, covering stochastic differential equations, random processes, and applications. Topics include stochastic control, financial modeling, and biological systems, emphasizing theoretical and applied probabilistic methods for stochastic phenomena.
-? Perfectly Matched Perspectives on Statistical Mechanics, Combinatorics and Geometry Conference in Honor of Richard Kenyon (2025)
-: dd: 2025-06-16 to 20
+Perfectly Matched Perspectives on Statistical Mechanics, Combinatorics and Geometry Conference in Honor of Richard Kenyon (2025):
+  dd: 2025-06-16 to 20
   link: https://dimers.science/events/rick61/
   loc: Luminy, France
   kw: prob
@@ -2263,8 +2263,8 @@ Numerical Methods in Quantum Chemistry Workshop (2025):
   loc: Berlin, Germany
   kw: qchem
   excerpt: This workshop focuses on numerical methods in quantum chemistry, covering wavefunction methods, density functional theory, and high-performance computing. Topics include molecular dynamics, excited-state calculations, and applications in catalysis, emphasizing computational efficiency and accuracy.
-? ASCAI Group Meeting 2025 on the Interface Between Statistical Physics and Learning and on Computational Barriers in Statistical Learning (2025)
-: dd: 2025-06-19 to 20
+ASCAI Group Meeting 2025 on the Interface Between Statistical Physics and Learning and on Computational Barriers in Statistical Learning (2025):
+  dd: 2025-06-19 to 20
   link: https://www.imo.universite-paris-saclay.fr/fr/conf/ascai-meeting/
   loc: Orsay, France
   kw: stat-ml
@@ -2287,8 +2287,8 @@ IEEE Magnetics Italy International PhD School on Computational Electromagnetism 
   loc: Leeds, UK
   kw: comp-op
   excerpt: EURO 2025 explores operational research, covering optimization, decision theory, and data analytics. Topics include supply chain management, scheduling, and machine learning integration, with applications in logistics and healthcare, emphasizing practical and theoretical optimization strategies.
-? AVS 25th International Conference on Atomic Layer Deposition (ALD 2025) Featuring the 12th International Atomic Layer Etching Workshop (ALE 2025)
-: dd: 2025-06-22 to 25
+AVS 25th International Conference on Atomic Layer Deposition (ALD 2025) Featuring the 12th International Atomic Layer Etching Workshop (ALE 2025):
+  dd: 2025-06-22 to 25
   link: https://ald2025.avs.org/
   loc: Jeju Island, Korea
   kw: plas-pm
@@ -2527,8 +2527,8 @@ Workshop on Ultracold Molecules (2025):
   loc: Split, Croatia
   kw: comp-el
   excerpt: MSF 2025 focuses on multiscale computational methods, covering finite element methods, homogenization, and coupled simulations. Topics include material failure, fluid-structure interactions, and applications in engineering and biomechanics, emphasizing computational multiscale modeling techniques.
-? High-Dimensional Statistics, Applications, and Distributional Shifts. A Workshop in Celebration of Peter Bühlmann\'s 60th Birthday (2025)
-: dd: 2025-06-25 to 27
+High-Dimensional Statistics, Applications, and Distributional Shifts. A Workshop in Celebration of Peter Bühlmann\'s 60th Birthday (2025):
+  dd: 2025-06-25 to 27
   link: https://math.ethz.ch/fim/activities/conferences/High-dimensional-statistics-applications-and-distributional-shifts.html
   loc: Zurich, Switzerland
   kw: prob
@@ -2563,8 +2563,8 @@ CECAM Conference Reusable Libraries for Quantum Chemistry (ReLibQC 2025):
   loc: Majvik, Finland
   kw: qchem
   excerpt: ReLibQC 2025 focuses on reusable quantum chemistry libraries, covering software frameworks, electronic structure calculations, and high-performance computing. Topics include modular code design, applications in molecular modeling, emphasizing open-source tools for quantum chemical simulations.
-? 'BIRS Workshop Game-Theoretic Statistical Inference: Optional Sampling, Universal Inference, and Multiple Testing Based on E-Values (2025)'
-: dd: 2025-06-29 to 07-04
+'BIRS Workshop Game-Theoretic Statistical Inference: Optional Sampling, Universal Inference, and Multiple Testing Based on E-Values (2025)':
+  dd: 2025-06-29 to 07-04
   link: https://birs.ca/events/2025/5-day-workshops/25w5482
   loc: Chennai, India
   kw: stat-th
@@ -2647,8 +2647,8 @@ LANL - University of Michigan Joint Workshop on Quantum Materials (2025):
   loc: Oslo, Norway
   kw: stat-ml
   excerpt: PrefStat 2025 focuses on preference learning, covering ranking algorithms, ordinal data analysis, and statistical modeling. Topics include learning-to-rank, preference elicitation, and applications in recommender systems, emphasizing statistical methods for preference-based data.
-? 31st International Workshop on Cellular Automata and Discrete Complex Systems Joint With Workshop on Automata Networks (AUTOMATA+WAN 2025)
-: dd: 2025-06-30 to 07-04
+31st International Workshop on Cellular Automata and Discrete Complex Systems Joint With Workshop on Automata Networks (AUTOMATA+WAN 2025):
+  dd: 2025-06-30 to 07-04
   link: https://automata-wan-2025.univ-lille.fr/
   loc: Lille, France
   kw: cs-oh
@@ -2737,14 +2737,14 @@ Mixed Integer Programming European Workshop (EUROMIP 2025):
   loc: Clermont-Ferrand, France
   kw: cs-op
   excerpt: EUROMIP 2025 focuses on mixed integer programming, covering branch-and-bound, cutting planes, and heuristic methods. Topics include combinatorial optimization, scheduling, and applications in logistics and energy, emphasizing computational techniques for integer optimization problems.
-? 4th International Conference on Computational Engineering and Science for Safety and Environmental Problems (COMPSAFE 2025)
-: dd: 2025-07-01 to 04
+4th International Conference on Computational Engineering and Science for Safety and Environmental Problems (COMPSAFE 2025):
+  dd: 2025-07-01 to 04
   link: https://www.compsafe2025.org/
   loc: Kobe, Japan
   kw: comp-el
   excerpt: COMPSAFE 2025 focuses on computational engineering for safety and environmental problems, covering finite element methods, risk analysis, and environmental modeling. Topics include structural safety, disaster simulation, and pollution control, emphasizing computational solutions for safety challenges.
-? 5th International Conference on Computational Methods for Multi-Scale, Multi-Uncertainty and Multi-Physics Problems (CM3P 2025)
-: dd: 2025-07-01 to 04
+5th International Conference on Computational Methods for Multi-Scale, Multi-Uncertainty and Multi-Physics Problems (CM3P 2025):
+  dd: 2025-07-01 to 04
   link: https://cm3p.org/
   loc: Porto, Portugal
   kw: comp-fd
@@ -3073,14 +3073,14 @@ CEMRACS International Summer School on Quantum Computing (2025):
   loc: Noordwijk, The Netherlands
   kw: stoch
   excerpt: This conference explores spatial statistics and AI, covering spatial processes, geostatistics, and machine learning for spatial data. Topics include environmental modeling, disease mapping, and applications in urban planning, emphasizing stochastic and AI-driven spatial analysis techniques.
-? CECAM Flagship Workshop Advancing Simulation, Analysis and Prediction of Complex Chemical Systems Using Modern Chemical Graph Theory and Computational Topology (2025)
-: dd: 2025-07-16 to 18
+CECAM Flagship Workshop Advancing Simulation, Analysis and Prediction of Complex Chemical Systems Using Modern Chemical Graph Theory and Computational Topology (2025):
+  dd: 2025-07-16 to 18
   link: https://cecam.org/workshop-details/advancing-simulation-analysis-and-prediction-of-complex-chemical-systems-using-modern-chemical-graph-theory-and-computational-topology-1389
   loc: Lausanne, Switzerland
   kw: qchem
   excerpt: This workshop focuses on chemical graph theory and computational topology, covering molecular graphs, topological descriptors, and complex system simulations. Topics include reaction networks, materials design, and applications in drug discovery, emphasizing advanced computational chemistry methods.
-? 'EuroMech Colloquium 652 on Non-Spherical Particles in Turbulence: Recent Advances in Theory, Simulation and Experiments (2025)'
-: dd: 2025-07-16 to 18
+'EuroMech Colloquium 652 on Non-Spherical Particles in Turbulence: Recent Advances in Theory, Simulation and Experiments (2025)':
+  dd: 2025-07-16 to 18
   link: https://652.euromech.org/
   loc: Udine, Italy
   kw: comp-fd
@@ -3386,14 +3386,14 @@ ACM SIGKDD International Conference on Knowledge Discovery and Data Mining (KDD 
   loc: Snowbird, UT, USA
   kw: qmol
   excerpt: FRS 2025 focuses on free radical chemistry, covering radical reactions, spectroscopy, and kinetics. Topics include atmospheric chemistry, combustion, and applications in biology and materials, emphasizing experimental and computational studies of free radical dynamics.
-? 'Gordon Research Conference Atmospheric Chemistry: Understanding the Atmosphere via Molecular Processes and Global Impacts (2025)'
-: dd: 2025-08-03 to 08
+'Gordon Research Conference Atmospheric Chemistry: Understanding the Atmosphere via Molecular Processes and Global Impacts (2025)':
+  dd: 2025-08-03 to 08
   link: https://grc.org/atmospheric-chemistry-conference/2025/
   loc: Newry, ME, USA
   kw: qchem
   excerpt: This conference focuses on atmospheric chemistry, covering molecular reactions, aerosol dynamics, and climate impacts. Topics include photochemical processes, air quality modeling, and applications in environmental science, emphasizing experimental and computational atmospheric chemical research.
-? 'Gordon Research Conference Chemistry and Physics of Liquids: Structural, Dynamic and Reactive Properties in the Liquid Phase (2025)'
-: dd: 2025-08-03 to 08
+'Gordon Research Conference Chemistry and Physics of Liquids: Structural, Dynamic and Reactive Properties in the Liquid Phase (2025)':
+  dd: 2025-08-03 to 08
   link: https://grc.org/chemistry-and-physics-of-liquids-conference/2025/
   loc: Holderness, NH, USA
   kw: qmat
@@ -3494,8 +3494,8 @@ Workshop on AI-based Optimisation (AI-OPT 2025):
   loc: Glasgow, UK
   kw: comp-op
   excerpt: This conference focuses on constraint programming, covering constraint satisfaction, optimization, and search algorithms. Topics include applications in scheduling, resource allocation, and AI planning, emphasizing computational methods for solving combinatorial and constrained optimization problems.
-? International Conference on Approximation Algorithms for Combinatorial Optimization Problems (APPROX 2025) and International Conference on Randomization and Computation (RANDOM 2025)
-: dd: 2025-08-11 to 13
+International Conference on Approximation Algorithms for Combinatorial Optimization Problems (APPROX 2025) and International Conference on Randomization and Computation (RANDOM 2025):
+  dd: 2025-08-11 to 13
   link: https://approxconference.com
   loc: Berkeley, CA, USA
   kw: cs-op
@@ -3560,8 +3560,8 @@ Nuclear Target Development Summer School (NTDSS 2025):
   loc: Montreal, QC, Canada
   kw: cs-oh
   excerpt: IJCAI 2025 explores artificial intelligence, covering machine learning, knowledge representation, and robotics. Topics include deep learning, natural language processing, and AI ethics, with applications in healthcare, finance, and autonomous systems, emphasizing theoretical and applied AI advancements.
-? 'WE-Hereaus Seminar Manipulating Molecular Electronic Properties by Vibrational Excitations: Novel Spectroscopies and Microscopies (2025)'
-: dd: 2025-08-17 to 21
+'WE-Hereaus Seminar Manipulating Molecular Electronic Properties by Vibrational Excitations: Novel Spectroscopies and Microscopies (2025)':
+  dd: 2025-08-17 to 21
   link: https://we-heraeus-stiftung.de/veranstaltungen/manipulating-molecular-electronic-properties-by-vibrational-excitations-novel-spectroscopies-and-microscopies/main/
   loc: Bad Honnef, Germany
   kw: qmol
@@ -3674,8 +3674,8 @@ Workshop on Formal Methods in Quantum Computing (FMQC 2025):
   more: Colocated with CONFEST 2025
   kw: cs-lo
   excerpt: Focuses on formal methods for quantum computing. Topics include quantum program verification, logic-based approaches, and applications in quantum algorithm design and validation.
-? '5th ZiF Summer School Randomness in Physics and Mathematics: From Thermalisation in Quantum Systems to Random Matrices (2025)'
-: dd: 2025-08-25 to 09-06
+'5th ZiF Summer School Randomness in Physics and Mathematics: From Thermalisation in Quantum Systems to Random Matrices (2025)':
+  dd: 2025-08-25 to 09-06
   link: https://indico.physik.uni-bielefeld.de/event/220/
   loc: Bielefeld, Germany
   kw: prob
@@ -3788,8 +3788,8 @@ Superconducting Qubits and Algorithms (SQA 2025):
   loc: Delft, The Netherlands
   kw: comp-qc
   excerpt: SQA 2025 focuses on superconducting qubits, covering quantum gate design, error correction, and quantum algorithms. Topics include quantum simulation, hybrid quantum-classical systems, and applications in quantum computing, emphasizing experimental and theoretical advancements in qubit technology.
-? 36th International Conference on Concurrency Theory (CONCUR), 30th IC on Formal Methods for Industrial Critical Systems (FMICS) and Joint IC on Quantitative Evaluation of SysTems and on Formal Modeling and Analysis of Timed Systems (QEST+FORMATS) (CONFEST 2025)
-: dd: 2025-08-25 to 30
+36th International Conference on Concurrency Theory (CONCUR), 30th IC on Formal Methods for Industrial Critical Systems (FMICS) and Joint IC on Quantitative Evaluation of SysTems and on Formal Modeling and Analysis of Timed Systems (QEST+FORMATS) (CONFEST 2025):
+  dd: 2025-08-25 to 30
   link: https://conferences.au.dk/confest2025
   loc: Aarhus, Denmark
   kw: cs-oh
@@ -3956,8 +3956,8 @@ Conference on Quantum, Atomic and Molecular Physics (QuAMP 2025):
   loc: Newcastle, UK
   kw: qmol
   excerpt: QuAMP 2025 explores quantum, atomic, and molecular physics, covering quantum dynamics, spectroscopy, and cold atoms. Topics include applications in quantum technologies, chemical physics, and astrophysics, emphasizing experimental and theoretical advances in atomic and molecular systems.
-? (ECCOMAS-IACM Associated) 18th International Conference on Computational Plasticity Fundamentals and Applications (COMPLAS 2025)
-: dd: 2025-09-02 to 05
+(ECCOMAS-IACM Associated) 18th International Conference on Computational Plasticity Fundamentals and Applications (COMPLAS 2025):
+  dd: 2025-09-02 to 05
   link: https://complas2025.cimne.com/complas_2025
   loc: Barcelona, Spain
   kw: comp-el
@@ -3974,8 +3974,8 @@ Conference on Quantum, Atomic and Molecular Physics (QuAMP 2025):
   loc: Bath, UK
   kw: cs-al
   excerpt: SAGT 2025 focuses on algorithmic game theory, covering mechanism design, equilibrium computation, and market algorithms. Topics include applications in economics, network design, and AI, emphasizing theoretical and computational approaches to strategic interactions and game-theoretic modeling.
-? 'CECAM Flagship Workshop on Future Directions in Non-Adiabatic Dynamics: Towards Complex Systems and Long Time Scales (2025)'
-: dd: 2025-09-02 to 05
+'CECAM Flagship Workshop on Future Directions in Non-Adiabatic Dynamics: Towards Complex Systems and Long Time Scales (2025)':
+  dd: 2025-09-02 to 05
   link: https://cecam.org/workshop-details/future-directions-in-non-adiabatic-dynamics-towards-complex-systems-and-long-time-scales-1413
   loc: Zaragoza, Spain
   kw: qchem
@@ -4280,8 +4280,8 @@ International Workshop on First-Principles and Artificial-Intelligence Methods f
   loc: Juist Island (North Sea), Germany
   kw: qmat
   excerpt: This workshop explores first-principles and AI methods for materials, covering density functional theory, machine learning potentials, and high-throughput screening. Topics include applications in energy materials and nanotechnology, emphasizing computational and AI-driven material discovery.
-? (ECCOMAS Associated) 16th Conference on Evolutionary and Deterministic Methods for Design, Optimization, and Control With Applications (EUROGEN 2025)
-: dd: 2025-09-16 to 18
+(ECCOMAS Associated) 16th Conference on Evolutionary and Deterministic Methods for Design, Optimization, and Control With Applications (EUROGEN 2025):
+  dd: 2025-09-16 to 18
   link: https://www.lut.fi/en/eurogen-2025
   loc: Lahti, Finland
   kw: comp-op
@@ -4568,8 +4568,8 @@ Kaiserslautern Applied and Industrial Mathematics Days (KLAIM 2025):
   loc: Kaiserslautern, Germany
   kw: comp-ot
   excerpt: Explores applied and industrial mathematics. Topics include optimization, numerical methods, and applications in engineering, finance, and data science.
-? '25th International Conference on Formal Methods in Computer-Aided Design (FMCAD 2025) and 17th International Conference on Verified Software: Theories, Tools, and Experiments (VSTTE 2025)'
-: dd: 2025-10-06 to 10
+'25th International Conference on Formal Methods in Computer-Aided Design (FMCAD 2025) and 17th International Conference on Verified Software: Theories, Tools, and Experiments (VSTTE 2025)':
+  dd: 2025-10-06 to 10
   link: https://fmcad.org/FMCAD25/
   loc: colocated at Menlo Park, CA, USA
   kw: cs-oh
@@ -4783,8 +4783,8 @@ Workshop Random Matrix Theory for Ecology, Economics, Finance and Statistical Ph
   loc: Athens, Greece
   kw: cs-oh
   excerpt: Covers AI tools and techniques. Topics include machine learning, knowledge-based systems, and applications in computer vision, robotics, and decision support systems.
-? 14th Asian-European International Conference on Plasma Surface Engineering (AEPSE 2025) in Parallel With International Conference on Surface Engineering (ICSE 2025)
-: dd: 2025-11-03 to 06
+14th Asian-European International Conference on Plasma Surface Engineering (AEPSE 2025) in Parallel With International Conference on Surface Engineering (ICSE 2025):
+  dd: 2025-11-03 to 06
   link: http://aepse.org/2025/
   loc: Phuket, Thailand
   kw: plas-pm
@@ -4915,8 +4915,8 @@ IUTAM Symposium on Frontiers of Physical Mechanics (2025):
   loc: Nanjing, China
   kw: comp-el
   excerpt: Focuses on advancements in physical mechanics. Topics include computational mechanics, material modeling, and applications in structural engineering and material science.
-? 'CECAM Flagship Workshop on Uncertainty Quantification in Atomistic Modeling: From Uncertainty-Aware Density Functional Theory to Machine Learning (2025)'
-: dd: 2025-11-25 to 28
+'CECAM Flagship Workshop on Uncertainty Quantification in Atomistic Modeling: From Uncertainty-Aware Density Functional Theory to Machine Learning (2025)':
+  dd: 2025-11-25 to 28
   link: https://cecam.org/workshop-details/uncertainty-quantification-in-atomistic-modeling-from-uncertainty-aware-density-functional-theory-to-machine-learning-1380
   loc: Lausanne, Switzerland
   kw: comp-ml
@@ -4933,8 +4933,8 @@ IUTAM Symposium on Frontiers of Physical Mechanics (2025):
   loc: Adelaide, SA, Australia
   kw: tbd
   excerpt: MODSIM 2025 explores modeling and simulation, covering agent-based models, numerical simulations, and data-driven approaches. Topics include applications in environmental science, engineering, and social systems, emphasizing computational and interdisciplinary methods for simulating complex real-world phenomena.
-? 13th International Conference on Advanced Vibrational Spectroscopy (ICAVS 2025) and 5th International Conference on Enhanced Spectroscopy (ICES 2025)
-: dd: 2025-11-30 to 12-05
+13th International Conference on Advanced Vibrational Spectroscopy (ICAVS 2025) and 5th International Conference on Enhanced Spectroscopy (ICES 2025):
+  dd: 2025-11-30 to 12-05
   link: https://icavs.xmu.edu.cn
   loc: Xiamen, China
   kw: qmol
@@ -5029,8 +5029,8 @@ EURANDOM Workshop on McMc Methodology and Theory (2025):
   loc: Eindhoven, The Netherlands
   kw: stat-th
   excerpt: This workshop explores Markov chain Monte Carlo (MCMC) methods, covering convergence analysis, sampling techniques, and Bayesian inference. Topics include applications in statistics, machine learning, and physics, emphasizing theoretical and computational advancements in MCMC methodologies.
-? 19th International Joint Conference on Computational and Financial Econometrics (CFE) and Computational and Methodological Statistics (CMStatistics) (CFE-CMStatistics 2025)
-: dd: 2025-12-13 to 15
+19th International Joint Conference on Computational and Financial Econometrics (CFE) and Computational and Methodological Statistics (CMStatistics) (CFE-CMStatistics 2025):
+  dd: 2025-12-13 to 15
   link: https://www.cmstatistics.org/CFECMStatistics2025/
   loc: London, UK
   kw: stat-me
@@ -5083,8 +5083,8 @@ International Symposium on Quantum Physics and Quantum Information Sciences (QPQ
   loc: Beijing, China
   kw: comp-qc
   excerpt: QPQIS 2025 explores quantum physics and information, covering quantum computing, entanglement, and quantum cryptography. Topics include applications in quantum communication, simulation, and sensing, emphasizing theoretical and experimental advancements in quantum information science and technologies.
-? Workshop on a Class of Distributions Which Includes the Normal One, Foundational Contributions and Recent Advancements on Skewed Distributions (SKEW 2026)
-: dd: 2026-01-07 to 09
+Workshop on a Class of Distributions Which Includes the Normal One, Foundational Contributions and Recent Advancements on Skewed Distributions (SKEW 2026):
+  dd: 2026-01-07 to 09
   link: https://skew2026.stat.unipd.it/
   loc: Padova, Italy
   kw: prob
@@ -5472,8 +5472,8 @@ Foundations of Computational Mathematics (FoCM 2026):
   loc: Milan, Italy
   kw: stat-ml
   excerpt: IFCS 2026 explores classification, covering clustering, supervised learning, and pattern recognition. Topics include applications in bioinformatics, social sciences, and image analysis, emphasizing statistical and machine learning methods for data classification and knowledge discovery.
-? 17th World Congress on Computational Mechanics and 10th European Congress on Computational Methods in Applied Sciences and Engineering (WCCM-ECCOMAS 2026)
-: dd: 2026-07-19 to 24
+17th World Congress on Computational Mechanics and 10th European Congress on Computational Methods in Applied Sciences and Engineering (WCCM-ECCOMAS 2026):
+  dd: 2026-07-19 to 24
   link: https://wccm-eccomas2026.org/
   loc: Munich, Germany
   kw: comp-el
@@ -5729,8 +5729,8 @@ ECTstar DTP-TALENT 2025 Quantum Computing for Nuclear Physics:
   link: https://indico.ectstar.eu/event/250/
   loc: Trento, Italy
   kw: nuclear
-? Carpathian Summer School of Physics 2025 Exotic Nuclei and Nuclear/Particle Astrophysics (X). Physics With Small Accelerators
-: dd: 2025-06-22 to 07-03
+Carpathian Summer School of Physics 2025 Exotic Nuclei and Nuclear/Particle Astrophysics (X). Physics With Small Accelerators:
+  dd: 2025-06-22 to 07-03
   link: https://cssp25.nipne.ro/
   loc: Sinaia, Romania
   kw: nuclear
