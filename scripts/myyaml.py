@@ -81,10 +81,9 @@ def dump(data,f):
     yaml.safe_dump(data, f, allow_unicode=True,
                    width=999, sort_keys=False)
 
-def event_yaml_to_md(event,hl):
+def event_yaml_to_md(name,event,hl):
     # Generate a Markdown entry for calendar item event, highlight if hl.
     dd = event.get('dd','No dates')
-    name = event.get('name','??')
     exc = event.get('excerpt','')
     if (link := event.get('link','')):
         if exc:
@@ -120,17 +119,17 @@ def page_yaml_to_md(main,highlights,TODAY):
     future_md = []
     highlights_md = []
     # new_md = []
-    for x, event in main.items():
-        hl = x in highlights
-        xmd = event_yaml_to_md(event,hl)
+    for name, event in main.items():
+        hl = name in highlights
+        xmd = event_yaml_to_md(name,event,hl)
         if str(event['dd']).replace(' ','\uffff') < TODAY:
             past_md.append(xmd)
         else:
             future_md.append(xmd)
             if hl:
                 highlights_md.append(xmd)
-#   for x in new:
-#       if x in main.keys():
+#   for name in new:
+#       if name in main.keys():
 #           event = main[x]
 #           hl = x in highlights
 #           xmd = event_yaml_to_md(event,hl)
