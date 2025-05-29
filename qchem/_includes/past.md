@@ -14,3 +14,5 @@
 
 2025-05-07 to 09: [CECAM Flagship Workshop on Accurate Methods for Thermal and Excited Electrons (2025)](https://cecam.org/workshop-details/accurate-methods-for-thermal-and-excited-electrons-1371 "This workshop focuses on computational methods for thermal and excited electrons, covering time-dependent density functional theory, Green’s function methods, and many-body perturbation theory. Topics include electron-phonon interactions, excited-state dynamics, and applications in photovoltaics and nanoelectronics, emphasizing accurate quantum chemical simulations."), Lausanne, Switzerland.
 
+2025-05-26 to 30: [CECAM Conference YRM 2025 - 21st ETSF Young Researchers\' Meeting (2025)](https://cecam.org/workshop-details/yrm-2025-21st-etsf-young-researchers-meeting-1430 "YRM 2025 focuses on computational quantum chemistry, covering electronic structure methods and excited-state dynamics. Topics include density functional theory, time-dependent simulations, and applications in materials and photochemistry, emphasizing young researchers’ contributions to quantum chemical modeling."), Trieste, Italy.
+

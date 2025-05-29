@@ -6,3 +6,5 @@
 
 2025-07-20 to 23: [34th ACM International Symposium on High-Performance Parallel and Distributed Computing (HPDC 2025)](https://hpdc.sci.utah.edu/2025/ "HPDC 2025 focuses on high-performance parallel and distributed computing, covering cluster computing, accelerators, and cloud systems. Topics include parallel algorithms, big data processing, and applications in AI and scientific computing, emphasizing scalable high-performance computational architectures."), Notre Dame, IN, USA.
 
+2025-08-18 to 22: [QMATH Masterclass on Representation Theory in Quantum Information Science (2025)](https://qmath.ku.dk/events/conferences/representation-theory-in-quantum-information-science/), Copenhagen, Denmark.
+

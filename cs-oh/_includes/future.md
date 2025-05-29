@@ -48,5 +48,7 @@
 
 2025-12-01 to 03: [Symposium on Dependable Software Engineering - Theories, Tools and Applications (SETTA 2025)](https://www.setta2025.uk/ "SETTA 2025 explores dependable software engineering, covering formal verification, testing, and fault tolerance. Topics include applications in safety-critical systems, AI, and cybersecurity, emphasizing computational tools and theoretical methods for ensuring software reliability and correctness."), Oxford, UK.
 
+2025-12-16 to 18: [45th SGAI International Conference on Artificial Intelligence (AI 2025)](https://www.bcs-sgai.org/ai2025/), Cambridge, UK.
+
 2026-08-16 to 20: [28th International Conference on Pattern Recognition (ICPR 2026)](https://iapr.org/conferences/conference-schedule/ "ICPR 2026 focuses on pattern recognition, covering computer vision, machine learning, and image processing. Topics include applications in biometrics, autonomous systems, and medical imaging, emphasizing computational methods for recognizing and analyzing complex patterns in data."), Lyon, France.
 

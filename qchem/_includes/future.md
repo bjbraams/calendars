@@ -1,5 +1,3 @@
-2025-05-26 to 30: [CECAM Conference YRM 2025 - 21st ETSF Young Researchers\' Meeting (2025)](https://cecam.org/workshop-details/yrm-2025-21st-etsf-young-researchers-meeting-1430 "YRM 2025 focuses on computational quantum chemistry, covering electronic structure methods and excited-state dynamics. Topics include density functional theory, time-dependent simulations, and applications in materials and photochemistry, emphasizing young researchers’ contributions to quantum chemical modeling."), Trieste, Italy.
-
 2025-06-04 to 06: [40th Symposium on Chemical Kinetics and Dynamics (SCKD 2025)](http://sckd.jp/40Kobe/index_e.php "SCKD 2025 explores chemical kinetics and dynamics, focusing on reaction mechanisms, quantum chemistry, and molecular dynamics. Topics include transition state theory, photochemical reactions, and applications in catalysis, emphasizing computational and experimental kinetic studies."), Kobe, Japan.
 
 2025-06-08 to 11: [Electronic Structure Workshop (ESW 2025)](https://www.utep.edu/science/electronic-structure-workshop/ "ESW 2025 focuses on electronic structure, covering density functional theory, many-body methods, and quantum Monte Carlo. Topics include electronic correlations, excited states, and applications in materials and nanotechnology, emphasizing computational quantum chemistry advancements."), El Paso, TX, USA.
@@ -36,6 +34,8 @@
 
 2025-09-01 to 05: [Lennard-Jones Centre-Cecam Meeting: From Electrons to Atoms to Molecules and Materials (2025)](https://ljc.group.cam.ac.uk/dft-2025 "This meeting explores computational chemistry, covering density functional theory, molecular dynamics, and electronic structure. Topics include applications in catalysis, materials design, and biophysics, emphasizing computational methods for modeling chemical systems from electrons to macroscopic materials."), Cambridge, UK.
 
+2025-09-01 to 05: [Summer Academy for Modeling Batteries (SAMBA 2025)](https://www.conferencemanager.dk/sambasummerschool2025), Lyngy, Denmark.
+
 2025-09-02 to 05: [CECAM Flagship Workshop on Future Directions in Non-Adiabatic Dynamics: Towards Complex Systems and Long Time Scales (2025)](https://cecam.org/workshop-details/future-directions-in-non-adiabatic-dynamics-towards-complex-systems-and-long-time-scales-1413 "This workshop explores non-adiabatic dynamics, covering excited-state dynamics, electron-nuclear coupling, and time-dependent quantum methods. Topics include applications in photochemistry, materials science, and biophysics, emphasizing computational advances for long-timescale and complex chemical systems."), Zaragoza, Spain.
 
 2025-09-08 to 11: [20th Central European Symposium on Theoretical Chemistry (CESTC 2025)](https://cestc2025.fchpt.stuba.sk "CESTC 2025 focuses on theoretical chemistry, covering quantum chemistry, molecular dynamics, and computational spectroscopy. Topics include applications in catalysis, drug design, and materials science, emphasizing computational methods for understanding chemical systems and reactions."), High Tatras, Slovakia.
@@ -61,6 +61,8 @@
 2025-12-15 to 20: [International Chemical Congress of Pacific Basin Societies (Pacifichem 2025)](https://pacifichem.org "Pacifichem 2025 explores chemistry, covering quantum chemistry, spectroscopy, and materials chemistry. Topics include applications in catalysis, energy storage, and biophysics, emphasizing experimental and computational advances in chemical sciences across the Pacific Basin region."), Honolulu, HI, USA.
 
 2025 Summer tbd: [Workshop on Recent Developments in Electronic Structure Methods (ES 2025)](https://mcc.illinois.edu/workshops/electronicstructure/ "ES 2025 focuses on electronic structure methods, covering density functional theory, coupled-cluster methods, and quantum Monte Carlo. Topics include applications in materials science, chemical physics, and nanotechnology, emphasizing computational advances in electronic structure calculations."), El Paso, TX, USA.
+
+2026-06-22 to 26: [Quantum Reactive Scattering Workshop (QRS 2026)](), Gdańsk, Poland. Announced on MDNews list.
 
 2026 tbd: [12th Workshop on Novel Methods for Electronic Structure Calculations (2026)]("This workshop explores electronic structure calculations, covering density functional theory, quantum Monte Carlo, and coupled-cluster methods. Topics include applications in materials science, chemical physics, and nanotechnology, emphasizing computational advances in electronic structure modeling."), Argentina.
 

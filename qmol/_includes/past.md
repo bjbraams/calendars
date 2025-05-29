@@ -8,3 +8,7 @@
 
 2025-05-23 to 28: [11th Triennial Molecular Quantum Mechanics Conference (MQM 2025)](http://mqm2025.net "MQM 2025 explores molecular quantum mechanics, focusing on electronic structure, quantum dynamics, and spectroscopy. Topics include ab initio methods, quantum Monte Carlo, and applications in photochemistry and molecular design, emphasizing computational advancements in quantum molecular modeling."), Kyoto, Japan.
 
+2025-05-25 to 30: [22nd International Conference on Time-Resolved Vibrational Spectroscopy (TRVS 2025)](https://trvs2025.jp/ "TRVS 2025 explores time-resolved vibrational spectroscopy, focusing on ultrafast molecular dynamics and chemical kinetics. Topics include Raman scattering, infrared spectroscopy, and applications in photochemistry and biophysics, emphasizing experimental techniques for probing molecular vibrations."), Moriyama, Shiga, Japan.
+
+2025-05-26 to 30: [10th International Conference on Precision Physics and Fundamental Physical Constants (FFK 2025)](https://ffk2025.candela.org.pl "FFK 2025 focuses on precision physics, covering atomic and molecular spectroscopy, and fundamental constants. Topics include quantum electrodynamics, precision measurements, and applications in metrology and quantum technologies, emphasizing experimental and theoretical advancements in precision science."), Warsaw, Poland.
+

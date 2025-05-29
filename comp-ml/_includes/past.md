@@ -18,3 +18,5 @@
 
 2025-05-19 to 23: [7th Inter-Experiment Machine Learning Workshop (2025)](https://indico.cern.ch/event/1502120/ "This workshop focuses on machine learning for high-energy physics, covering neural networks for particle identification and event reconstruction. Topics include deep learning, uncertainty quantification, and applications in collider experiments, emphasizing collaborative ML advancements across experiments."), CERN, Geneva, Switzerland.
 
+2025-05-26 to 31: [CECAM Flagship School on Machine Learning in Physical Sciences: Theory and Applications (2025)](https://cecam.org/workshop-details/machine-learning-in-physical-sciences-theory-and-applications-1449 "This school explores machine learning in physical sciences, covering neural networks, generative models, and physics-informed learning. Topics include molecular dynamics, materials discovery, and applications in cosmology and biophysics, emphasizing theoretical foundations and practical ML implementations."), Lyon, France.
+

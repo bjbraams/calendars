@@ -1,4 +1,2 @@
-2025-05-25 to 30: [3rd International Workshop on Spintronics (2025)](https://usfq.edu.ec/en/events/international-workshop-spintronics "This workshop explores spintronics, focusing on spin transport, magnetic nanostructures, and spin-based devices. Topics include spin-orbitronics, magnonics, and applications in quantum computing and data storage, emphasizing experimental and theoretical developments in spintronic technologies."), Galapagos Islands, Equador.
-
 2025-06-02 to 04: [4th European Conference on Molecular Spintronics (ECMolS 2025)](https://tcd.ie/physics/conferences/ecmols-2025/ "ECMolS 2025 focuses on molecular spintronics, covering spin transport in organic molecules, molecular magnets, and hybrid interfaces. Topics include spin-polarized currents, quantum coherence, and applications in spintronic devices, emphasizing molecular-scale spin manipulation and design."), Dublin, Ireland.
 

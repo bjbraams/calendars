@@ -38,7 +38,11 @@
 
 2025-09-15 to 17: [25th International Symposium on Fundamentals of Computation Theory (FCT 2025)](https://fct2025.cs.uni.wroc.pl "FCT 2025 focuses on computation theory, covering automata, complexity, and formal languages. Topics include applications in verification, algorithm design, and theoretical AI, emphasizing foundational mathematical and logical frameworks for computational theory and practice."), Wrocław, Poland.
 
+2025-09-15 to 19: [Lorentz Center Workshop on Mechanization and Mathematical Research (2025)](https://www.lorentzcenter.nl/mechanization-and-mathematical-research.html), Leiden, Netherlands.
+
 2025-09-22 to 25: [29th International Conference on Implementation and Application of Automata (CIAA 2025)](https://ciaa2025.unipa.it/ "CIAA 2025 focuses on automata theory, covering finite automata, regular expressions, and parsing algorithms. Topics include applications in compiler design, natural language processing, and verification, emphasizing computational and theoretical advances in automata implementation."), Palermo, Italy.
+
+2025-10-20 to 21: [6th Workshop on Dynamic Logic - New Trends and Applications (DaLí 2025)](http://www.dali2025.cn/), Xi'an, China.
 
 2025-11-10 to 14: [23rd International Conference on Software Engineering and Formal Methods (SEFM 2025)](https://sefm-conference.github.io/2025/ "Focuses on formal methods in software engineering. Topics include program verification, model checking, and applications in software development and system reliability."), Toledo, Spain.
 

@@ -1,0 +1,2 @@
+2025-05-26 to 30: [CECAM Flagship School on New Computational Methods for Attosecond Molecular Processes (2025)](https://cecam.org/workshop-details/costzcam-school-on-new-computational-methods-for-attosecond-molecular-processes-1411 "This school explores computational methods for attosecond molecular processes, focusing on ultrafast electron dynamics and time-resolved spectroscopy. Topics include time-dependent quantum simulations, attosecond pulse interactions, and applications in photochemistry, emphasizing cutting-edge computational techniques."), Zaragoza, Spain.
+

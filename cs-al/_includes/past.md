@@ -28,3 +28,5 @@
 
 2025-05-20 to 23: [Canadian Discrete and Algorithmic Mathematics Conference (CanaDAM 2025)](https://canadam.ca/2025 "CanaDAM 2025 focuses on discrete and algorithmic mathematics, covering graph theory, combinatorial optimization, and coding theory. Topics include network algorithms, discrete structures, and applications in cryptography and data science, emphasizing theoretical and computational advancements."), Ottawa, ON, Canada.
 
+2025-05-26 to 29: [International Federation for Information Processing (IFIP) Networking 2025 Conference (NETWORKING 2025)](https://networking.ifip.org/2025/ "NETWORKING 2025 explores network science, focusing on algorithmic design, network optimization, and performance analysis. Topics include routing protocols, network security, and graph-based models, with applications in 5G and IoT, emphasizing computational approaches to network efficiency."), Limassol, Cyprus.
+

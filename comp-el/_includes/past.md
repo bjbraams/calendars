@@ -16,3 +16,5 @@
 
 2025-05-21 to 23: [EuroMech Colloquium 656 on Data-Driven Mechanics and Physics of Solids (2025)](https://656.euromech.org/ "Focuses on data-driven approaches in solid mechanics, integrating machine learning and computational modeling. Topics include material characterization, structural analysis, and applications in engineering design."), Gothenburg, Sweden.
 
+2025-05-28 to 31: [EuroMech Colloquium 640 on Gradient Mechanics Across Materials, Processes and Scales (2025)](https://640.euromech.org/ "Explores gradient mechanics in materials and processes. Topics include multiscale modeling, material gradients, and computational methods for analyzing mechanical behavior across scales."), Rethymnon, Crete, Greece.
+

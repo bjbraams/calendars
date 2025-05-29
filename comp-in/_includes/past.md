@@ -12,3 +12,5 @@
 
 2025-05-14 to 16: [7th Conference of the ALAMA Network of Linear Algebra, Matrix Analysis and Applications (ALAMA 2025)](https://congresosalcala.fgua.es/jornadasalama/?idioma=en "Explores linear algebra and matrix analysis, focusing on computational methods and applications. Topics include eigenvalue problems, matrix factorizations, and applications in data science and engineering."), Castro Urdiales, Cantabria, Spain.
 
+2025-05-27 to 30: [18th International Meeting on Fully Three-Dimensional Image Reconstruction in Radiology and Nuclear Medicine (Fully3D 2025)](https://hqlab.sjtu.edu.cn/fully3d-2025/home "Fully3D focuses on 3D image reconstruction, covering tomographic algorithms, deep learning, and iterative methods. Topics include CT, PET, and nuclear medicine imaging, with applications in diagnostics and therapy planning, emphasizing computational advancements for high-resolution imaging."), Shanghai, China.
+

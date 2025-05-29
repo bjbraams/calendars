@@ -22,3 +22,7 @@
 
 2025-05-22 to 23: [2nd International Workshop on Advance in Nonlinear Dynamical Systems, Complex Networks and Applications (DySyX 2025)](https://dysyx2025.sciencesconf.org/ "Explores nonlinear dynamical systems and complex networks. Topics include chaos theory, network dynamics, and applications in physics, biology, and engineering."), Kenitra, Morocco.
 
+2025-05-25 to 28: [11th International Conference on Coupled Problems in Science and Engineering (COUPLED 2025)](https://coupled2025.cimne.com/ "COUPLED 2025 focuses on coupled problems in science and engineering, covering fluid-structure interactions, multiphysics simulations, and numerical methods. Topics include computational fluid dynamics, thermal coupling, and applications in aerospace and biomechanics, emphasizing advanced simulation techniques."), Villasimius, Sardinia, Italy.
+
+2025-05-26 to 30: [IUTAM Summer School on Gravity Currents in the Environment (2025)](https://iutam.org/events/iutam-summer-school-on-gravity-currents-in-the-environment "Focuses on gravity currents in environmental fluid mechanics. Topics include density-driven flows, numerical modeling, and applications in oceanography, meteorology, and environmental engineering."), Udine, Italy.
+
