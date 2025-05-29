@@ -97,7 +97,8 @@ os.rename('_data/main.yml', '_data/main-'+TODAY+'.yml')
 with open('_data/main.yml', 'w') as f0:
     myyaml.dump(main,f0)
 with open('_data/new-'+TODAY+'.yml', 'a') as f0:
-    myyaml.dump(latest,f0)
+    if latest:
+        myyaml.dump(latest,f0)
 with open('_data/latest.yml', 'w') as f0:
     f0.write('# <name>:{dd,link,loc,more,kw}\n')
 with open('_data/deletes.yml', 'w') as f0:
