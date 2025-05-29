@@ -1,15 +1,10 @@
 import yaml
-from titlecase import titlecase
 
-MANDATORY_KEYS = ['dd','name']
+MANDATORY_KEYS = ['dd']
 RECOGNIZED_KEYS = MANDATORY_KEYS+['link','loc','more','kw','excerpt']
     # Lists sorted as we like it
 SetMK = set(MANDATORY_KEYS)
 SetRK = set(RECOGNIZED_KEYS)
-
-def capitalize(event):
-    if 'name' in event.keys():
-        event['name'] = titlecase(event['name'])
 
 def sort_event_keys(event):
     t = {}
@@ -21,11 +16,11 @@ def sort_event_keys(event):
             t[k] = event[k]
     event = t
 
-def sort_key(event):
-    # Sort on dd, ties resolved by event name.
+def sort_key(item):
+    # item is [name,event]. Sort on event['dd'], ties resolved by name.
     # Replace spaces with a high-value Unicode character for sorting.
     # ('YYYY tbd' will come after any specific date in year YYYY.)
-    t0 = str(event.get('dd',''))+' '+str(event.get('name',''))
+    t0 = str(item[1].get('dd',''))+' '+str(item[0])
     return t0.replace(' ','\uffff')
 
 def check_pair(key,value,id):
@@ -116,7 +111,7 @@ def event_yaml_to_md(event,hl):
 #     for x in main.keys():
 #         if x in source.keys():
 #             main[x] = source[x]
-#     return sorted(main.items(), key = lambda item: sort_key(item[1]))
+#     return sorted(main.items(), key = lambda item: sort_key(item))
 
 def page_yaml_to_md(main,highlights,TODAY):
     # Generate Markdown entries for a page.

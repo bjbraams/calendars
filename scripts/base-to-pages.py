@@ -95,7 +95,7 @@ for y, p in pages.items():
         for x in p['main']:
             page0[x] = data[x]
         page1 = sorted(page0.items(),
-                       key=lambda item: myyaml.sort_key(item[1]))
+                       key=lambda item: myyaml.sort_key(item))
         page = {}
         for x, event in page1:
             page[x] = event

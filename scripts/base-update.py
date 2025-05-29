@@ -19,6 +19,7 @@
 import sys
 import os
 import datetime
+from titlecase import titlecase
 import yaml
 import myyaml
 
@@ -87,8 +88,7 @@ for key, event in updates.items():
 
 for key, event in latest.items():
     myyaml.sort_event_keys(event)
-    myyaml.capitalize(event)
-    main[key] = event
+    main[titlecase(key)] = event
 
 # Check to proceed
 input(f'Return to proceed, Ctrl-c to cancel')
@@ -99,10 +99,10 @@ with open('_data/main.yml', 'w') as f0:
 with open('_data/new-'+TODAY+'.yml', 'a') as f0:
     myyaml.dump(latest,f0)
 with open('_data/latest.yml', 'w') as f0:
-    f0.write('# <id>:{dd,name,link,loc,more,kw}\n')
+    f0.write('# <name>:{dd,link,loc,more,kw}\n')
 with open('_data/deletes.yml', 'w') as f0:
-    f0.write('# <id>:\n')
+    f0.write('# <name>:\n')
 with open('_data/updates.yml', 'w') as f0:
-    f0.write('# <id>:{dd,name,link,loc,more,kw}\n')
+    f0.write('# <name>:{dd,link,loc,more,kw}\n')
 
 print('Now do YAML to MD and git update')
