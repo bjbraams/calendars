@@ -1,134 +1,112 @@
-16ITERFNM2025:
+16th Fusion Neutronics Meeting ITER and Beyond (FNM 2025):
   dd: 2025-04-07 to 10
-  name: 16th Fusion Neutronics Meeting ITER and Beyond (FNM 2025)
   link: http://tecfir.uned.es/NeutronicsMeeting.html
   loc: Madrid, Spain
   kw: plas-ft
-DonesXcitech2025:
+IFMIF-DONES Xcitech School 2025:
   dd: 2025-04-06 to 11
-  name: IFMIF-DONES Xcitech School 2025
   link: https://www.xcitech-school.org/
   loc: Dubrovnik, Croatia
   kw: plas-ft
-14ISSNP2025:
+'14th International Spring Seminar on Nuclear Physics: Cutting-Edge Developments in Nuclear Structure Physics (2025)':
   dd: 2025-05-19 to 23
-  name: '14th International Spring Seminar on Nuclear Physics: Cutting-Edge Developments in Nuclear Structure Physics (2025)'
   link: https://agenda.infn.it/event/42803/
   loc: Ischia, Italy
   kw: nuclear
-29ICMT2025:
+29th International Conference on Magnet Technology (MT 2025):
   dd: 2025-07-01 to 06
-  name: 29th International Conference on Magnet Technology (MT 2025)
   link: https://mt29-conf.org/
   loc: Boston, MA, USA
   kw: plas-ft
-IUPAPC5ICLT2025:
+IUPAP-C5 30th International Conference on Low Temperature Physics (LT 2025):
   dd: 2025-08-07 to 13
-  name: IUPAP-C5 30th International Conference on Low Temperature Physics (LT 2025)
   link: https://www.lt30.es/
   loc: Bilbao, Spain
   kw: tbd
-IWPCTFCP2025:
+International Workshop on Plasma, Catalysis and Thin Films for Conversion Processes (2025):
   dd: 2025-04-29 to 30
-  name: International Workshop on Plasma, Catalysis and Thin Films for Conversion Processes (2025)
   link: https://efds.org/en/event/ws-plasma-catalysis-2025/
   loc: Marl, Germany
   kw: plas-ig
-IWCBBI2025:
+22nd International Workshop on the Ceramic Breeder Blanket Interactions (CBBI 2025):
   dd: 2025-10-06 to 08
-  name: 22nd International Workshop on the Ceramic Breeder Blanket Interactions (CBBI 2025)
   link: https://indico.nifs.ac.jp/event/17/
   loc: Kyoto, Japan
   kw: plas-ft
-GRCSERDGI2026:
+Gordon Research Conference on Structures, Energetics and Reaction Dynamics of Gaseous Ions (2026):
   dd: 2026-02-22 to 27
-  name: Gordon Research Conference on Structures, Energetics and Reaction Dynamics of Gaseous Ions (2026)
   link: https://www.grc.org/structures-energetics-and-reaction-dynamics-of-gaseous-ions-conference/2026/
   loc: Galveston, TX, USA
   kw: plas-ig
-14ICION2025:
+14th International Conference on Ion Implantation and Other Applications of Ions and Electrons (ION 2025):
   dd: 2025-06-24 to 26
-  name: 14th International Conference on Ion Implantation and Other Applications of Ions and Electrons (ION 2025)
   link: https://ion.umcs.pl/
   loc: Kazimierz Dolny, Poland
   kw: plas-pm
-CMM7SSPSP2025:
+Center for Mathemtical Modeling (CMM) 7th Summer School in Probabilities and Stochastic Processes (2025):
   dd: 2025-01-06 to 10
-  name: Center for Mathemtical Modeling (CMM) 7th Summer School in Probabilities and Stochastic Processes (2025)
   link: https://eventos.cmm.uchile.cl/escuelappe2025/
   loc: Santiago, Chile
   kw: prob,stoch
-BS45SPA2026:
+45th Bernoulli Society Conference on Stochastic Processes and Their Applications (SPA 2026):
   dd: 2026-06-15 to 19
-  name: 45th Bernoulli Society Conference on Stochastic Processes and Their Applications (SPA 2026)
   link: https://www.bernoullisociety.org/meetings
   loc: Ithaca, NY, USA
   more: Provisional link
   kw: stoch
-CECAMFWBio1427Y2025:
+CECAM Flagship Workshop Frontiers in the Simulation of Photoresponsive Biological Systems:
   dd: 2025-07-07 to 10
-  name: CECAM Flagship Workshop Frontiers in the Simulation of Photoresponsive Biological Systems
   link: https://www.cecam.org/workshop-details/frontiers-in-simulation-of-photoresponsive-biological-systems-1427
   loc: Siena, Italy
   kw: qmol
-SAMBA2025:
+Summer Academy for Modeling Batteries (SAMBA 2025):
   dd: 2025-09-01 to 05
-  name: Summer Academy for Modeling Batteries (SAMBA 2025)
   link: https://www.conferencemanager.dk/sambasummerschool2025
   loc: Lyngy, Denmark
   kw: qchem
-6IWDaLi2025:
+6th Workshop on Dynamic Logic - New Trends and Applications (DaLí 2025):
   dd: 2025-10-20 to 21
-  name: 6th Workshop on Dynamic Logic - New Trends and Applications (DaLí 2025)
   link: http://www.dali2025.cn/
   loc: Xi'an, China
   kw: cs-lo
-IWQRS2026:
+Quantum Reactive Scattering Workshop (QRS 2026):
   dd: 2026-06-22 to 26
-  name: Quantum Reactive Scattering Workshop (QRS 2026)
   loc: Gdańsk, Poland
   more: Announced on MDNews list
   kw: qchem
-45SGAI2025:
+45th SGAI International Conference on Artificial Intelligence (AI 2025):
   dd: 2025-12-16 to 18
-  name: 45th SGAI International Conference on Artificial Intelligence (AI 2025)
   link: https://www.bcs-sgai.org/ai2025/
   loc: Cambridge, UK
   kw: cs-oh
-QMATHMCRT2025:
+QMATH Masterclass on Representation Theory in Quantum Information Science (2025):
   dd: 2025-08-18 to 22
-  name: QMATH Masterclass on Representation Theory in Quantum Information Science (2025)
   link: https://qmath.ku.dk/events/conferences/representation-theory-in-quantum-information-science/
   loc: Copenhagen, Denmark
   kw: cs-qc
-LorentzWMMR2025:
+Lorentz Center Workshop on Mechanization and Mathematical Research (2025):
   dd: 2025-09-15 to 19
-  name: Lorentz Center Workshop on Mechanization and Mathematical Research (2025)
   link: https://www.lorentzcenter.nl/mechanization-and-mathematical-research.html
   loc: Leiden, Netherlands
   kw: cs-lo
-7IBioStat2025:
+7th I-BioStat Summer School on Advanced Bayesian Methods (2025):
   dd: 2025-09-15 to 19
-  name: 7th I-BioStat Summer School on Advanced Bayesian Methods (2025)
   link: https://ibiostat.be/summer-school-on-advanced-bayesian-methods-15-19-september-2025/
   loc: Leuven, Belgium
   kw: stat-me
-UtrechtSSBayes2025:
+Utrecht Summer School Course on a Gentle Introduction to Bayesian Estimation (2025):
   dd: 2025-07-21 to 25
-  name: Utrecht Summer School Course on a Gentle Introduction to Bayesian Estimation (2025)
   link: https://utrechtsummerschool.nl/courses/data-science/a-gentle-introduction-to-bayesian-estimation
   loc: Utrecht, Netherlands
   kw: stat-me
-SSRSTC:
+Summer School on Robust Statistics Theory and Computation (2025):
   dd: 2025-05-15 to 17
-  name: Summer School on Robust Statistics Theory and Computation (2025)
   link: https://datascience.maths.unitn.it/icors2025/school.html
   loc: Ispra, Italy
   more: Just before ICORS 2025
   kw: stat-me
-ASAIMSSRC2025:
+ASA/IMS Spring Research Conference (SRC 2025):
   dd: 2025-06-03 to 05
-  name: ASA/IMS Spring Research Conference (SRC 2025)
   link: https://sites.google.com/view/src-2025
   loc: New York City, NY, USA
   kw: stat-me
