@@ -58,6 +58,9 @@ plasma:
 plas-ph:
   title: Plasma Physics and Fusion Energy Science
   excerpt: Focused on high-temperature plasma, fusion energy and astrophysical plasma.
+plas-ft:
+  title: Fusion Energy Technology
+  excerpt: Nuclear and magnet technology for nuclear fusion.
 plas-ig:
   title: Ionized Gases and Plasma Chemistry
   excerpt: Ionized gases, low-temperature plasma and plasma chemistry.
