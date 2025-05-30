@@ -32,7 +32,7 @@
 
 2025-06-25 to 27: [High-Dimensional Statistics, Applications, and Distributional Shifts. A Workshop in Celebration of Peter Bühlmann\'s 60th Birthday (2025)](https://math.ethz.ch/fim/activities/conferences/High-dimensional-statistics-applications-and-distributional-shifts.html "This workshop celebrates Peter Bühlmann, focusing on high-dimensional statistics, distributional shifts, and applications. Topics include sparse modeling, causal inference, and robust statistics, with applications in bioinformatics and finance, emphasizing probabilistic methods for complex data."), Zurich, Switzerland.
 
-2025-06-25 to 29: [INFORMS Applied Probability Society Summer School 2025](https://informs-aps.isye.gatech.edu/summer-school), Atlanta, GA. Just before INFORMS Conference.
+2025-06-25 to 29: [INFORMS Applied Probability Society Summer School 2025](https://informs-aps.isye.gatech.edu/summer-school "Focuses on applied probability. Topics include stochastic modeling, queueing theory, and applications in operations research, finance, and systems engineering."), Atlanta, GA. Just before INFORMS Conference.
 
 2025-06-29 to 07-12: [Probability and Analysis CIMPA Summer School Türkiye (2025)](https://sites.google.com/view/probability-appliedanalysis/home/ "This summer school explores probability and analysis, covering stochastic processes, functional analysis, and random structures. Topics include random walks, harmonic analysis, and applications in statistical physics, emphasizing theoretical foundations for probabilistic and analytical methods."), Istanbul, Turkey.
 
@@ -52,13 +52,13 @@
 
 2025-07-22 to 25: [Conference on Progress in Discrete and Continuous Probability 2025](https://www.math.union.edu/~marianop/ProbabilityConference2025/ProgressDiscContProb2025.html "This conference explores discrete and continuous probability, covering random graphs, stochastic processes, and limit theorems. Topics include applications in network science, statistical physics, and machine learning, emphasizing theoretical advancements in probabilistic modeling and analysis."), Schenectady, NY, USA.
 
-2025-08-04 to 08: [22nd International Conference on Random Structures and Algorithms (RSA 2025)](https://www.dmg.tuwien.ac.at/rsa2025/), Vienna, Austria.
+2025-08-04 to 08: [22nd International Conference on Random Structures and Algorithms (RSA 2025)](https://www.dmg.tuwien.ac.at/rsa2025/ "Focuses on random structures and algorithms. Topics include probabilistic combinatorics, random graphs, and applications in computer science and network analysis."), Vienna, Austria.
 
 2025-08-04 to 08: [28th Brazilian School of Probability (2025)](https://sites.google.com/view/ebp2025 "This school explores probability, covering random processes, stochastic calculus, and random graphs. Topics include branching processes, applications in statistical physics and finance, emphasizing foundational probabilistic theory and practical applications for advanced research."), Belo Horizonte, MG, Brazil.
 
 2025-08-04 to 08: [Log-Gases in Caeli Australi (2025)](https://lica2025.github.io/ "This conference focuses on log-gases, covering random matrix theory, Coulomb gases, and statistical mechanics. Topics include eigenvalue distributions, applications in physics and number theory, emphasizing probabilistic and analytical methods for log-gas systems and their properties."), Creswick, Australia.
 
-2025-08-25 to 09-06: [5th ZiF Summer School Randomness in Physics and Mathematics, From Thermalisation in Quantum Systems to Random Matrices (2025)](https://indico.physik.uni-bielefeld.de/event/220/), Bielefeld, Germany.
+2025-08-25 to 09-06: [5th ZiF Summer School Randomness in Physics and Mathematics, From Thermalisation in Quantum Systems to Random Matrices (2025)](https://indico.physik.uni-bielefeld.de/event/220/ "Examines randomness in physics and mathematics. Topics include thermalization in quantum systems, random matrix theory, and applications in statistical mechanics and quantum physics."), Bielefeld, Germany.
 
 2025-08-25 to 09-06: [5th ZiF Summer School Randomness in Physics and Mathematics: From Thermalisation in Quantum Systems to Random Matrices (2025)](https://indico.physik.uni-bielefeld.de/event/220/ "This summer school explores randomness, covering quantum thermalization, random matrices, and stochastic processes. Topics include applications in statistical physics, quantum information, and number theory, emphasizing probabilistic methods for understanding random phenomena in physics and mathematics."), Bielefeld, Germany.
 
@@ -84,7 +84,7 @@
 
 2026-01-07 to 09: [Workshop on a Class of Distributions Which Includes the Normal One, Foundational Contributions and Recent Advancements on Skewed Distributions (SKEW 2026)](https://skew2026.stat.unipd.it/ "SKEW 2026 explores skewed distributions, covering theoretical foundations, statistical modeling, and applications. Topics include skew-normal distributions, financial modeling, and risk analysis, emphasizing probabilistic and statistical methods for analyzing non-normal data distributions and their properties."), Padova, Italy.
 
-2026-01-19 to 23: [CIRM Research School Random Walks, Applications and Interactions (2026)](https://conferences.cirm-math.fr/3451.html), Marseille, France.
+2026-01-19 to 23: [CIRM Research School Random Walks, Applications and Interactions (2026)](https://conferences.cirm-math.fr/3451.html "Covers random walks and their applications. Topics include stochastic processes, Markov chains, and interactions with physics, biology, and network science."), Marseille, France.
 
 2026-03-02 to 06: [17th Latin American Congress of Probability and Mathematical Statistics (CLAPEM 2026)](https://clapem17.cmat.edu.uy "CLAPEM 2026 focuses on probability and mathematical statistics, covering stochastic processes, statistical inference, and extreme value theory. Topics include applications in finance, epidemiology, and environmental science, emphasizing theoretical and applied probabilistic and statistical methodologies."), Montevideo, Uruguay.
 

@@ -20,11 +20,11 @@
 
 2025-07-06 to 11: [29th Dynamics of Molecular Collisions Conference (DMC 2025)](https://blog.umd.edu/29th-dmc/ "DMC 2025 explores molecular collisions, covering reaction dynamics, scattering processes, and quantum chemistry. Topics include cold molecule interactions, photochemical reactions, and applications in atmospheric and astrophysical chemistry, emphasizing experimental and computational studies of molecular dynamics."), Snowbird, UT, USA.
 
-2025-07-07 to 10: [CECAM Flagship Workshop Frontiers in the Simulation of Photoresponsive Biological Systems](https://www.cecam.org/workshop-details/frontiers-in-simulation-of-photoresponsive-biological-systems-1427), Siena, Italy.
+2025-07-07 to 10: [CECAM Flagship Workshop Frontiers in the Simulation of Photoresponsive Biological Systems](https://www.cecam.org/workshop-details/frontiers-in-simulation-of-photoresponsive-biological-systems-1427 "Covers computational simulation of photoresponsive biological systems. Topics include molecular dynamics, quantum chemistry, and photochemical reaction modeling for biological and biomolecular applications."), Siena, Italy.
 
 2025-07-13 to 08-03: [Aspen Summer Workshop on Cold and Ultracold Molecules for Fundamental Physics and Many-Body Quantum Science (2025)](https://aspenphys.org/summer-workshops/#event5562 "This workshop explores cold and ultracold molecules, covering quantum chemistry, molecular cooling, and many-body quantum systems. Topics include precision measurements, quantum simulation, and applications in fundamental physics, emphasizing experimental and theoretical ultracold molecular research."), Aspen, CO, USA.
 
-2025-07-16 to 18: [ASI Symposium 004 on Genesis and Evolution of Organics in Space (2nd Symposium of Organics in Space Consortium)](https://organicsinspace.in/), Bengaluru, India.
+2025-07-16 to 18: [ASI Symposium 004 on Genesis and Evolution of Organics in Space (2nd Symposium of Organics in Space Consortium)](https://organicsinspace.in/ "Focuses on organic molecules in astrophysical environments. Topics include computational astrochemistry, molecular formation, and applications in understanding cosmic evolution and planetary science."), Bengaluru, India.
 
 2025-08-03 to 08: [37th International Symposium on Free Radicals (FRS 2025)](https://thefrs.org "FRS 2025 focuses on free radical chemistry, covering radical reactions, spectroscopy, and kinetics. Topics include atmospheric chemistry, combustion, and applications in biology and materials, emphasizing experimental and computational studies of free radical dynamics."), Snowbird, UT, USA.
 

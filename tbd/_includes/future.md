@@ -4,7 +4,7 @@
 
 2025-06-16 to 20: [Conference on Differential Geometry, Analysis and Epistemology in Honor of Marco Rigoli\'s 70th Birthday (2025)](https://sites.google.com/view/dgaemi25 "Explores differential geometry, analysis, and epistemology. Topics include geometric analysis, PDEs on manifolds, and mathematical philosophy, with applications in physics and geometry."), Milan, Italy.
 
-2025-08-07 to 13: [IUPAP-C5 30th International Conference on Low Temperature Physics (LT 2025)](https://www.lt30.es/), Bilbao, Spain.
+2025-08-07 to 13: [IUPAP-C5 30th International Conference on Low Temperature Physics (LT 2025)](https://www.lt30.es/ "Explores low-temperature physics. Topics include superconductivity, quantum fluids, and cryogenic techniques, with applications in quantum computing and condensed matter physics."), Bilbao, Spain.
 
 2025-09-14 to 17: [20th Conference on Computer Science and Intelligence Systems (FedCSIS 2025)](https://2025.fedcsis.org/ "FedCSIS 2025 explores computer science and intelligent systems, covering algorithms, AI, and data science. Topics include machine learning, cybersecurity, and software engineering, emphasizing interdisciplinary computational methods and applications in intelligent system design and analysis."), Kraków, Poland.
 

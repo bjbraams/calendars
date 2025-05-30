@@ -1,6 +1,6 @@
 2025-04-24 to 25: [Symposium in Memory of Fritz Leisch (2025)](https://boku.ac.at/nwnr/stat/tagungen-und-veranstaltungen/symposium-in-memory-of-fritz-leisch "This symposium honors Fritz Leisch’s contributions to statistics, focusing on computational statistics and statistical software. Topics include R programming, cluster analysis, and reproducible research, with applications in biostatistics and environmental modeling, emphasizing practical statistical tools."), Vienna, Austria.
 
-2025-05-15 to 17: [Summer School on Robust Statistics Theory and Computation (2025)](https://datascience.maths.unitn.it/icors2025/school.html), Ispra, Italy. Just before ICORS 2025.
+2025-05-15 to 17: [Summer School on Robust Statistics Theory and Computation (2025)](https://datascience.maths.unitn.it/icors2025/school.html "Focuses on robust statistics and computational methods. Topics include outlier detection, robust estimation, and applications in data analysis for reliable statistical modeling."), Ispra, Italy. Just before ICORS 2025.
 
 2025-05-19 to 21: [ASA Statistical Methods in Imaging Conference (SMI 2025)](https://statistics.rice.edu/events/2025-statistical-methods-imaging-conference "SMI 2025 explores statistical methods in imaging, focusing on image analysis, segmentation, and reconstruction. Topics include Bayesian approaches, machine learning for medical imaging, and spatial statistics, with applications in MRI, CT, and neuroscience, emphasizing robust statistical tools for imaging data."), Houston, TX, USA.
 

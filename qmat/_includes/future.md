@@ -30,7 +30,7 @@
 
 2025-08-04 to 08: [Quantum Simulation Conference (QSim 2025)](https://qsimconference.org "QSim 2025 focuses on quantum simulation, covering analog and digital quantum simulators, quantum many-body systems, and quantum chemistry. Topics include applications in materials and condensed matter physics, emphasizing experimental and theoretical quantum simulation advancements."), New York City, NY, USA.
 
-2025-08-04 to 08: [SUNCAT Summer Institute 2025](https://suncat.stanford.edu/events/suncat-summer-institute-2025), Palo Alto, CA, USA.
+2025-08-04 to 08: [SUNCAT Summer Institute 2025](https://suncat.stanford.edu/events/suncat-summer-institute-2025 "Focuses on catalysis and quantum materials for sustainable energy. Topics include computational modeling of catalytic processes, surface chemistry, and electronic structure calculations, with applications in renewable energy and chemical conversion."), Palo Alto, CA, USA.
 
 2025-08-11 to 15: [New Frontiers in Out-of-Equilibrium Quantum Many-Body Dynamics (2025)](https://pks.mpg.de/qudyn25 "This conference explores out-of-equilibrium quantum many-body dynamics, covering quantum thermalization, driven systems, and entanglement dynamics. Topics include applications in condensed matter and quantum simulation, emphasizing theoretical and experimental studies of non-equilibrium quantum systems."), Dresden, Germany.
 

@@ -8,7 +8,7 @@
 
 2025-02-24 to 28: [NUSTAR Annual Meeting 2025](https://indico.gsi.de/event/20773/ "The NUSTAR Annual Meeting focuses on nuclear structure and astrophysics, covering exotic nuclei, nuclear reactions, and superheavy elements. Topics include gamma-ray spectroscopy, nuclear fission, and nucleosynthesis, with applications in understanding stellar processes and fundamental interactions, emphasizing experimental advancements."), Darmstadt, Germany.
 
-2025-02-25 to 28: [TRIUMPH Workshop on Progress in Ab Initio Nuclear Theory (PAINT 2025)](https://indico.triumf.ca/event/608/), Vancouver, BC, USA.
+2025-02-25 to 28: [TRIUMPH Workshop on Progress in Ab Initio Nuclear Theory (PAINT 2025)](https://indico.triumf.ca/event/608/ "Focuses on ab initio nuclear theory. Topics include quantum many-body methods, computational nuclear structure, and applications in understanding fundamental nuclear interactions and properties."), Vancouver, BC, USA.
 
 2025-03-03 to 14: [CeNAM Nucleosynthesis Uncertainties Workshop](https://sites.google.com/view/nucleosynthesis-uncertainties "This workshop focuses on uncertainties in nucleosynthesis, covering nuclear reaction rates, cross-section measurements, and statistical modeling. Topics include stellar burning, neutron capture processes, and their impact on cosmic abundance, bridging nuclear physics and astrophysics for precise nucleosynthesis predictions."), Seattle, WA, USA.
 
@@ -18,11 +18,11 @@
 
 2025-04-08 to 11: [3rd Joint ECFA-NuPECC-ApPEC Symposium (JENAS 2025)](https://indico.global/event/5574/ "JENAS 2025 explores nuclear physics, particle physics, and astrophysics, focusing on neutrino physics, dark matter, and nuclear reactions. Topics include accelerator-based experiments, cosmic ray detection, and nucleosynthesis, emphasizing interdisciplinary approaches to fundamental physics questions."), Didcot, Oxfordshire, UK.
 
-2025-04-23 to 25: [IOP Nuclear Physics Conference 2025](https://www.iop.org/events/nuclear-physics-conference-2025), Manchester, UK.
+2025-04-23 to 25: [IOP Nuclear Physics Conference 2025](https://www.iop.org/events/nuclear-physics-conference-2025 "Covers nuclear physics advancements. Topics include nuclear reactions, structure, and spectroscopy, with applications in energy, astrophysics, and fundamental physics research."), Manchester, UK.
 
 2025-05-13 to 15: [7th Conference on Nuclei and Mesoscopic Physics (NMP 2025)](https://indico.frib.msu.edu/event/78/ "This conference explores nuclear and mesoscopic physics, focusing on nuclear structure, reactions, and quantum many-body systems. Topics include exotic nuclei, superheavy elements, and nanoscale quantum phenomena, with applications in nuclear astrophysics and quantum technologies, emphasizing experimental and theoretical advancements."), East Lansing, MI, USA.
 
-2025-05-19 to 23: [14th International Spring Seminar on Nuclear Physics: Cutting-Edge Developments in Nuclear Structure Physics (2025)](https://agenda.infn.it/event/42803/), Ischia, Italy.
+2025-05-19 to 23: [14th International Spring Seminar on Nuclear Physics: Cutting-Edge Developments in Nuclear Structure Physics (2025)](https://agenda.infn.it/event/42803/ "Focuses on cutting-edge nuclear structure physics. Topics include exotic nuclei, nuclear models, and computational techniques for understanding nuclear interactions and properties."), Ischia, Italy.
 
 2025-05-19 to 23: [24th International Conference on Radionuclide Metrology and Applications (ICRM 2025)](https://icrm2025.org "ICRM 2025 focuses on radionuclide metrology, covering measurement techniques, decay data, and standardization. Topics include low-level radioactivity, nuclear forensics, and applications in environmental monitoring and medical isotopes, emphasizing precision in nuclear measurement methodologies."), Paris, France.
 

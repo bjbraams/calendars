@@ -6,7 +6,7 @@
 
 2025-06-15 to 19: [19th Learning and Intelligent OptimizatioN Conference (LION 2025)](https://lion19.org "LION 2025 focuses on intelligent optimization, covering metaheuristics, machine learning-based optimization, and evolutionary algorithms. Topics include combinatorial optimization, constraint programming, and applications in logistics and scheduling, emphasizing hybrid approaches for solving complex optimization problems."), Prague, Czech Republic.
 
-2025-06-16 to 21: [5th (India) Large Scale Optimization Summer School 2025](https://www.ieor.iitb.ac.in/lso2025/), Bombay, India.
+2025-06-16 to 21: [5th (India) Large Scale Optimization Summer School 2025](https://www.ieor.iitb.ac.in/lso2025/ "Covers large-scale optimization techniques. Topics include algorithmic optimization, computational methods, and applications in operations research, logistics, and data science."), Bombay, India.
 
 2025-06-17 to 20: [Modeling and Optimization: Theory and Applications (MOPTA 2025)](https://coral.ise.lehigh.edu/mopta2025/ "MOPTA 2025 explores modeling and optimization, covering linear programming, stochastic optimization, and machine learning. Topics include supply chain optimization, energy systems, and applications in operations research, emphasizing theoretical and applied optimization techniques."), Ponta Delgada, Azores, Portugal.
 
@@ -30,7 +30,7 @@
 
 2025-08-25 to 27: [Optimization Unplugged - Non-Convex Landscapes, Dynamics and Learning (2025)](https://optimization-unplugged.github.io/ "This conference explores non-convex optimization, covering gradient-based methods, stochastic optimization, and learning dynamics. Topics include applications in machine learning, neural network training, and control systems, emphasizing computational approaches to navigating complex optimization landscapes."), Lausanne, Switzerland.
 
-2025-08: [TU Braunschweig Summer School on Nonlinear Optimization and Combinatorics (2025)](http://www.iaa.tu-bs.de/AppliedAlgebra/SummerSchool2025/), Braunschweig, Germany.
+2025-08: [TU Braunschweig Summer School on Nonlinear Optimization and Combinatorics (2025)](http://www.iaa.tu-bs.de/AppliedAlgebra/SummerSchool2025/ "Explores nonlinear optimization and combinatorics. Topics include optimization algorithms, combinatorial structures, and applications in operations research and computer science."), Braunschweig, Germany.
 
 2025-09-01 to 04: [International Conference on Optimization and Decision Science (ODS 2025)](https://airoconference.it/ods2025 "ODS 2025 focuses on optimization and decision science, covering linear programming, heuristic methods, and game theory. Topics include applications in logistics, finance, and energy systems, emphasizing computational and mathematical approaches to optimal decision-making in complex systems."), Milan, Italy.
 

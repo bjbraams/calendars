@@ -1,8 +1,10 @@
+2025-01-06 to 10: [Center for Mathematical Modeling (CMM) 7th Summer School in Probabilities and Stochastic Processes (2025)](https://eventos.cmm.uchile.cl/escuelappe2025/ "Focuses on probabilities and stochastic processes. Topics include Markov chains, random walks, and stochastic modeling, with applications in physics, finance, and biology."), Santiago, Chile.
+
 2025-01-06 to 10: [Center for Mathemtical Modeling (CMM) 7th Summer School in Probabilities and Stochastic Processes (2025)](https://eventos.cmm.uchile.cl/escuelappe2025/), Santiago, Chile.
 
 2025-01-09 to 10: [Workshop Advances in Combinatorial and Algebraic Probability](https://sites.google.com/view/comb-alg-prob-workshop "This workshop examines combinatorial and algebraic methods in probability theory. Key areas include random graphs, Markov chains, and probabilistic combinatorics, alongside algebraic structures like random matrices and polynomial chaos. It aims to bridge discrete and continuous probabilistic models, with applications in statistical physics and network science."), Lancaster, UK.
 
-2025-01-13 to 19: [ICMU Winter School on Random Matrices, Random Analytic Functions, and Non-Linear PDEs (2025)](https://mathcentre.in.ua/en/events/random-matrices-random-analytic-functions-and-non-linear-pdes), Zakarpattia, Ukraine.
+2025-01-13 to 19: [ICMU Winter School on Random Matrices, Random Analytic Functions, and Non-Linear PDEs (2025)](https://mathcentre.in.ua/en/events/random-matrices-random-analytic-functions-and-non-linear-pdes "Explores random matrices and nonlinear PDEs. Topics include random analytic functions, eigenvalue distributions, and applications in statistical physics and mathematical modeling."), Zakarpattia, Ukraine.
 
 2025-01-23 to 24: [SLMath Connections Workshop Probability and Statistics of Discrete Structures](https://www.slmath.org/workshops/1085 "This workshop focuses on probability and statistics of discrete structures. Topics include random graphs, combinatorial optimization, and stochastic processes on lattices. It explores applications in network analysis, statistical physics, and computer science, emphasizing probabilistic methods for modeling and analyzing discrete systems like social networks and polymers."), Berkeley, CA, USA.
 

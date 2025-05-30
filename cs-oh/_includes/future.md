@@ -14,7 +14,7 @@
 
 2025-06-30 to 07-05: [International Joint Conference on Neural Networks (IJCNN 2025)](https://2025.ijcnn.org "IJCNN 2025 explores neural networks, covering deep learning, recurrent networks, and neuromorphic computing. Topics include image recognition, time-series prediction, and applications in robotics and healthcare, emphasizing advancements in neural network algorithms and applications."), Rome, Italy.
 
-2025-07-06 to 22: [IAS/PCMI Graduate Summer School 2025 Extremal and Probabilistic Combinatorics](https://www.ias.edu/pcmi/pcmi-2025-graduate-summer-school), Park City, UT, USA.
+2025-07-06 to 22: [IAS/PCMI Graduate Summer School 2025 Extremal and Probabilistic Combinatorics](https://www.ias.edu/pcmi/pcmi-2025-graduate-summer-school "Explores extremal and probabilistic combinatorics. Topics include graph theory, random structures, and applications in theoretical computer science and discrete mathematics."), Park City, UT, USA.
 
 2025-07-08 to 11: [24th IEEE International Symposium on Parallel and Distributed Computing (ISPDC 2025)](https://ispdc2025.inria.fr "ISPDC 2025 focuses on parallel and distributed computing, covering high-performance computing, cloud computing, and parallel algorithms. Topics include distributed machine learning, big data processing, and applications in scientific simulations, emphasizing scalable computational architectures."), Rennes, France.
 
@@ -22,9 +22,9 @@
 
 2025-07-27 to 08-01: [Association for Computational Linguistics 63rd Annual Meeting (ACL 2025)](https://2025.aclweb.org/ "Explores computational linguistics and natural language processing. Topics include machine learning for language models, text analysis, and applications in AI and human-computer interaction."), Vienna, Austria.
 
-2025-08-04 to 08: [CISPA-ELLIS Summer School 2025 on Trustworthy AI](https://cispa.de/summer-school-2025), Jena, Germany.
+2025-08-04 to 08: [CISPA-ELLIS Summer School 2025 on Trustworthy AI](https://cispa.de/summer-school-2025 "Focuses on trustworthy AI systems. Topics include fairness, transparency, and robustness in machine learning, with applications in secure and ethical AI development."), Jena, Germany.
 
-2025-08-11 to 15: [Simons Institute Workshop Graph Learning Meets Theoretical Computer Science (2025)](https://simons.berkeley.edu/workshops/graph-learning-meets-theoretical-computer-science), Berkely, CA, USA.
+2025-08-11 to 15: [Simons Institute Workshop Graph Learning Meets Theoretical Computer Science (2025)](https://simons.berkeley.edu/workshops/graph-learning-meets-theoretical-computer-science "Explores graph learning and theoretical computer science. Topics include graph neural networks, algorithmic graph theory, and applications in data analysis and network science."), Berkely, CA, USA.
 
 2025-08-16 to 22: [34th International Joint Conference on Artificial Intelligence (IJCAI 2025)](https://2025.ijcai.org "IJCAI 2025 explores artificial intelligence, covering machine learning, knowledge representation, and robotics. Topics include deep learning, natural language processing, and AI ethics, with applications in healthcare, finance, and autonomous systems, emphasizing theoretical and applied AI advancements."), Montreal, QC, Canada.
 
@@ -54,7 +54,7 @@
 
 2025-12-01 to 03: [Symposium on Dependable Software Engineering - Theories, Tools and Applications (SETTA 2025)](https://www.setta2025.uk/ "SETTA 2025 explores dependable software engineering, covering formal verification, testing, and fault tolerance. Topics include applications in safety-critical systems, AI, and cybersecurity, emphasizing computational tools and theoretical methods for ensuring software reliability and correctness."), Oxford, UK.
 
-2025-12-16 to 18: [45th SGAI International Conference on Artificial Intelligence (AI 2025)](https://www.bcs-sgai.org/ai2025/), Cambridge, UK.
+2025-12-16 to 18: [45th SGAI International Conference on Artificial Intelligence (AI 2025)](https://www.bcs-sgai.org/ai2025/ "Explores advancements in artificial intelligence. Topics include machine learning, knowledge representation, and applications in robotics, natural language processing, and decision systems."), Cambridge, UK.
 
 2026-08-16 to 20: [28th International Conference on Pattern Recognition (ICPR 2026)](https://iapr.org/conferences/conference-schedule/ "ICPR 2026 focuses on pattern recognition, covering computer vision, machine learning, and image processing. Topics include applications in biometrics, autonomous systems, and medical imaging, emphasizing computational methods for recognizing and analyzing complex patterns in data."), Lyon, France.
 

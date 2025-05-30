@@ -24,6 +24,8 @@
 
 2025-07-29 to 08-02: [YITP 70th Condensed Matter Physics Summer School (CMPSS 2025)](https://www.yukawa.kyoto-u.ac.jp/seminar/s53460?lang=en-GB "CMPSS 2025 focuses on condensed matter physics, covering computational methods, quantum materials, and many-body systems. Topics include topological phases, computational simulations, and applications in electronics, emphasizing theoretical and computational training in condensed matter research."), Shirahamaso, Japan.
 
+2025-08-04 to 15: [Gene Golub SIAM Summer School 2025 Frontiers in Multidimensional Pattern Formation](https://www.siam.org/programs-initiatives/programs/gene-golub-siam-summer-school/), Montreal, QC, Canada.
+
 2025-08-25 to 29: [EuroMech Colloquium 651 on Films, Bubbles, Droplets and Phase Change (2025)](http://651.euromech.org/ "Focuses on fluid mechanics of films, bubbles, and droplets. Topics include phase change, interfacial dynamics, and computational modeling for applications in materials and environmental science."), Metz, France.
 
 2025-08-26 to 28: [EuroMech Colloquium 653 on Mechanics of Interfaces (2025)](http://653.euromech.org/ "Focuses on mechanics at material interfaces. Topics include interfacial dynamics, computational modeling, and applications in solid mechanics and fluid-structure interactions."), Metz, France.

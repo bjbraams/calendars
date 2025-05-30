@@ -34,7 +34,7 @@
 
 2025-09-01 to 05: [Lennard-Jones Centre-Cecam Meeting: From Electrons to Atoms to Molecules and Materials (2025)](https://ljc.group.cam.ac.uk/dft-2025 "This meeting explores computational chemistry, covering density functional theory, molecular dynamics, and electronic structure. Topics include applications in catalysis, materials design, and biophysics, emphasizing computational methods for modeling chemical systems from electrons to macroscopic materials."), Cambridge, UK.
 
-2025-09-01 to 05: [Summer Academy for Modeling Batteries (SAMBA 2025)](https://www.conferencemanager.dk/sambasummerschool2025), Lyngy, Denmark.
+2025-09-01 to 05: [Summer Academy for Modeling Batteries (SAMBA 2025)](https://www.conferencemanager.dk/sambasummerschool2025 "Focuses on computational modeling of batteries. Topics include electrochemical simulations, quantum chemistry for battery materials, and multiscale modeling for energy storage optimization."), Lyngy, Denmark.
 
 2025-09-02 to 05: [CECAM Flagship Workshop on Future Directions in Non-Adiabatic Dynamics: Towards Complex Systems and Long Time Scales (2025)](https://cecam.org/workshop-details/future-directions-in-non-adiabatic-dynamics-towards-complex-systems-and-long-time-scales-1413 "This workshop explores non-adiabatic dynamics, covering excited-state dynamics, electron-nuclear coupling, and time-dependent quantum methods. Topics include applications in photochemistry, materials science, and biophysics, emphasizing computational advances for long-timescale and complex chemical systems."), Zaragoza, Spain.
 
@@ -62,7 +62,7 @@
 
 2025 Summer tbd: [Workshop on Recent Developments in Electronic Structure Methods (ES 2025)](https://mcc.illinois.edu/workshops/electronicstructure/ "ES 2025 focuses on electronic structure methods, covering density functional theory, coupled-cluster methods, and quantum Monte Carlo. Topics include applications in materials science, chemical physics, and nanotechnology, emphasizing computational advances in electronic structure calculations."), El Paso, TX, USA.
 
-2026-06-22 to 26: [Quantum Reactive Scattering Workshop (QRS 2026)](), Gdańsk, Poland. Announced on MDNews list.
+2026-06-22 to 26: [Quantum Reactive Scattering Workshop (QRS 2026)]("Covers quantum reactive scattering in chemical systems. Topics include quantum dynamics, scattering theory, and computational methods for molecular reactions and chemical kinetics."), Gdańsk, Poland. Announced on MDNews list.
 
 2026 tbd: [12th Workshop on Novel Methods for Electronic Structure Calculations (2026)]("This workshop explores electronic structure calculations, covering density functional theory, quantum Monte Carlo, and coupled-cluster methods. Topics include applications in materials science, chemical physics, and nanotechnology, emphasizing computational advances in electronic structure modeling."), Argentina.
 

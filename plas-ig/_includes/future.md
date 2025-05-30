@@ -28,7 +28,7 @@
 
 **2025-10-13 to 17: [78th Gaseous Electronics Conference (GEC 2025)](https://apsgec.org/gec2025/ "GEC 2025 focuses on gaseous electronics, covering plasma discharges, electron collisions, and plasma chemistry. Topics include applications in semiconductor processing, lighting, and biomedical plasmas, emphasizing experimental and computational studies of low-temperature plasma phenomena and technologies."), Seoul, Korea**.
 
-2026-02-22 to 27: [Gordon Research Conference on Structures, Energetics and Reaction Dynamics of Gaseous Ions (2026)](https://www.grc.org/structures-energetics-and-reaction-dynamics-of-gaseous-ions-conference/2026/), Galveston, TX, USA.
+2026-02-22 to 27: [Gordon Research Conference on Structures, Energetics and Reaction Dynamics of Gaseous Ions (2026)](https://www.grc.org/structures-energetics-and-reaction-dynamics-of-gaseous-ions-conference/2026/ "Explores gaseous ion chemistry and dynamics. Topics include ion structures, reaction mechanisms, and computational modeling of energetics in plasma and gas-phase systems."), Galveston, TX, USA.
 
 2026-06-15 to 18: [31st Symposium on Plasma Physics and Technology (2026)](https://www.plasmaconference.cz/ "This symposium explores plasma physics, covering magnetic confinement, plasma diagnostics, and low-temperature plasmas. Topics include fusion energy, plasma processing, and biomedical applications, emphasizing experimental and computational advancements in plasma science and technology."), Prague, Czech Republic.
 

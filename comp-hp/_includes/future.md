@@ -4,7 +4,7 @@
 
 2025-07-21 to 23: [45th IEEE International Conference on Distributed Computing Systems (ICDCS 2025)](https://icdcs2025.icdcs.org/ "ICDCS 2025 focuses on distributed computing systems, covering cloud computing, edge computing, and blockchain. Topics include distributed AI, fault tolerance, and applications in IoT and smart cities, emphasizing scalable and reliable distributed system architectures."), Glasgow, UK.
 
-2025-07-27 to 08-08: [13th Argonne Training Program on Extreme-Scale Computing (ATPESC 2025)](https://extremecomputingtraining.anl.gov/), Chicago area. IL, USA.
+2025-07-27 to 08-08: [13th Argonne Training Program on Extreme-Scale Computing (ATPESC 2025)](https://extremecomputingtraining.anl.gov/ "Focuses on extreme-scale computing. Topics include high-performance computing, parallel algorithms, and computational techniques for large-scale scientific simulations."), Chicago area. IL, USA.
 
 2025-08-13 to 15: [27th IEEE International Conference on High Performance Computing and Communications (HPCC 2025)](https://hpcn.exeter.ac.uk/hpcc2025/ "HPCC 2025 focuses on high-performance computing and communications, covering parallel architectures, cloud computing, and network optimization. Topics include AI accelerators, big data processing, and applications in scientific computing, emphasizing scalable and efficient computational systems."), Exeter, UK.
 

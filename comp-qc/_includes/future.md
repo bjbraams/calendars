@@ -2,7 +2,9 @@
 
 2025-06-02 to 06: [FoQaCiA WORKSHOP Pioneering the Foundations of Quantum Computing (2025)](https://foqacia.org/foqacia-workshop-2025 "FoQaCiA 2025 focuses on quantum computing foundations, covering quantum algorithms, entanglement, and quantum complexity. Topics include variational quantum circuits, quantum error mitigation, and applications in simulation and optimization, emphasizing theoretical and experimental quantum advancements."), Braga, Portugal.
 
-2025-06-02 to 08-08: [Los Alamos Quantum Computing Summer School Fellowship (2025)](https://www.lanl.gov/engage/collaboration/internships/summer-schools/quantumschool), Los Alamos, NM, USA.
+2025-06-02 to 08-08: [Los Alamos Quantum Computing Summer School Fellowship (2025)](https://www.lanl.gov/engage/collaboration/internships/summer-schools/quantumschool "Covers quantum computing advancements. Topics include quantum algorithms, quantum simulation, and computational methods for quantum information science and applications."), Los Alamos, NM, USA.
+
+2025-06-03 to 06: [QMP Intensive Period 2025 Workshop Recent Advances in Operator Theory and Its Applications](https://sites.google.com/view/qmp25-intensiveperiod/workshops/workshop-3-6-june), Milan, Italy.
 
 2025-06-03 to 07-23: [Quantum Fringe Summer Festival of Quantum Events 2025](https://www.quantumsoftwarelab.com/quantum-fringe-scotland "This festival explores quantum technologies, focusing on quantum computing, algorithms, and cryptography. Topics include quantum circuit design, quantum machine learning, and applications in optimization, emphasizing interdisciplinary advancements in quantum software and hardware development."), Various Scotland, UK.
 

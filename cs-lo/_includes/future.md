@@ -22,7 +22,7 @@
 
 2025-08-02: [10th International Workshop on Satisfiability Checking and Symbolic Computation (SC2 2025)](https://www.sc-square.org/CSA/workshop10.html "SC2 2025 focuses on satisfiability checking and symbolic computation, covering SAT solvers, algebraic methods, and constraint solving. Topics include applications in verification, cryptography, and AI, emphasizing computational techniques for symbolic and logical problem-solving."), Stuttgart, Germany.
 
-2025-08-06 to 08: [Satisfiability, Satisfiability Modulo Theories, and Automated Reasoning Summer School (SAT/SMT/AR 2025)](https://sat-smt-ar-school.gitlab.io/www/2025/), St Andrews, UK.
+2025-08-06 to 08: [Satisfiability, Satisfiability Modulo Theories, and Automated Reasoning Summer School (SAT/SMT/AR 2025)](https://sat-smt-ar-school.gitlab.io/www/2025/ "Covers satisfiability and automated reasoning. Topics include SAT/SMT solvers, formal verification, and applications in software and hardware system validation."), St Andrews, UK.
 
 2025-08-10 to 11: [23rd International Workshop on Satisfiability Modulo Theories (SMT 2025)](https://smt-workshop.cs.uiowa.edu/2025/ "SMT 2025 focuses on satisfiability modulo theories, covering constraint solving, SMT solvers, and automated reasoning. Topics include applications in program verification, scheduling, and AI planning, emphasizing computational techniques for logical and constraint-based problem-solving."), Glasgow, UK.
 
@@ -40,11 +40,11 @@
 
 2025-09-15 to 17: [25th International Symposium on Fundamentals of Computation Theory (FCT 2025)](https://fct2025.cs.uni.wroc.pl "FCT 2025 focuses on computation theory, covering automata, complexity, and formal languages. Topics include applications in verification, algorithm design, and theoretical AI, emphasizing foundational mathematical and logical frameworks for computational theory and practice."), Wrocław, Poland.
 
-2025-09-15 to 19: [Lorentz Center Workshop on Mechanization and Mathematical Research (2025)](https://www.lorentzcenter.nl/mechanization-and-mathematical-research.html), Leiden, Netherlands.
+2025-09-15 to 19: [Lorentz Center Workshop on Mechanization and Mathematical Research (2025)](https://www.lorentzcenter.nl/mechanization-and-mathematical-research.html "Examines mechanized methods in mathematical research. Topics include automated theorem proving, computational algebra, and formal verification for advancing mathematical proofs."), Leiden, Netherlands.
 
 2025-09-22 to 25: [29th International Conference on Implementation and Application of Automata (CIAA 2025)](https://ciaa2025.unipa.it/ "CIAA 2025 focuses on automata theory, covering finite automata, regular expressions, and parsing algorithms. Topics include applications in compiler design, natural language processing, and verification, emphasizing computational and theoretical advances in automata implementation."), Palermo, Italy.
 
-2025-10-20 to 21: [6th Workshop on Dynamic Logic - New Trends and Applications (DaLí 2025)](http://www.dali2025.cn/), Xi'an, China.
+2025-10-20 to 21: [6th Workshop on Dynamic Logic - New Trends and Applications (DaLí 2025)](http://www.dali2025.cn/ "Explores dynamic logic and its applications. Topics include formal verification, program semantics, and computational logic for software and system analysis."), Xi'an, China.
 
 2025-11-10 to 14: [23rd International Conference on Software Engineering and Formal Methods (SEFM 2025)](https://sefm-conference.github.io/2025/ "Focuses on formal methods in software engineering. Topics include program verification, model checking, and applications in software development and system reliability."), Toledo, Spain.
 

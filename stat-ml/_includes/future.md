@@ -16,31 +16,31 @@
 
 2025-06-23 to 25: [International Conference on Statistics and Data Science (2025)](https://icsds.github.io/2025/ "This conference explores statistics and data science, covering machine learning, Bayesian methods, and high-dimensional inference. Topics include causal inference, time-series analysis, and applications in social sciences and health, emphasizing statistical and computational data analysis."), Vancouver, BC, Canada.
 
-2025-06-23 to 27: [7th International Summer School on Artificial Intelligence and Games (2025)](https://school.gameaibook.org/), Malmö, Sweden.
+2025-06-23 to 27: [7th International Summer School on Artificial Intelligence and Games (2025)](https://school.gameaibook.org/ "Explores AI applications in game development. Topics include machine learning for game design, procedural content generation, and computational intelligence for interactive systems."), Malmö, Sweden.
 
 2025-06-23 to 27: [Isaac Newton Institute Workshop Accelerating Statistical Inference and Experimental Design With Machine Learning (2025)](https://newton.ac.uk/event/rclw03/ "This workshop explores machine learning for statistical inference and experimental design, covering Bayesian optimization, active learning, and uncertainty quantification. Topics include applications in physics and biology, emphasizing AI-driven approaches to enhance statistical and experimental efficiency."), Cambridge, UK.
 
-2025-06-23 to 27: [PhD Course Theoretical Foundations of Machine Learning (TFML 2025)](https://malga.unige.it/education/schools/tfml/), Genoa, Italy.
+2025-06-23 to 27: [PhD Course Theoretical Foundations of Machine Learning (TFML 2025)](https://malga.unige.it/education/schools/tfml/ "Covers theoretical foundations of machine learning. Topics include statistical learning theory, optimization algorithms, and mathematical frameworks for deep learning and AI."), Genoa, Italy.
 
 2025-06-30 to 07-04: [2nd International Summer School on Preference Learning for Ranking and Ordinal Data (PrefStat 2025)](http://www.prefstat.org/ "PrefStat 2025 focuses on preference learning, covering ranking algorithms, ordinal data analysis, and statistical modeling. Topics include learning-to-rank, preference elicitation, and applications in recommender systems, emphasizing statistical methods for preference-based data."), Oslo, Norway.
 
 **2025-06-30 to 07-04: [38th Annual Conference on Learning Theory (COLT 2025)](http://learningtheory.org/colt2025/ "COLT 2025 explores learning theory, covering statistical learning, online learning, and generalization bounds. Topics include deep learning theory, adversarial robustness, and applications in AI, emphasizing theoretical foundations of machine learning and data science."), Lyon, France**.
 
-2025-07-07 to 11: [London Geometry and Machine Learning Summer School (LGML 2025)](https://www.logml.ai/), London, UK.
+2025-07-07 to 11: [London Geometry and Machine Learning Summer School (LGML 2025)](https://www.logml.ai/ "Explores intersections of geometry and machine learning. Topics include geometric deep learning, manifold learning, and applications in computer vision and data analysis."), London, UK.
 
 2025-07-07 to 18: [SLMath Summer School Principled Scientific Discovery With Formal Methods (2025)](https://www.slmath.org/summer-schools/1110 "This summer school explores formal methods for scientific discovery, covering machine learning, formal verification, and data-driven modeling. Topics include automated hypothesis generation, uncertainty quantification, and applications in physics and biology, emphasizing principled AI for scientific research."), Yorktown Heights, NY, USA.
 
-2025-07-08 to 11: [European Association for Data Science (EuADS) Summer School 2025](https://www.euads.org/fjkdlasjdiglsmdgkcxjhvckh/euads-summer-school-2025/), Belair, Luxembourg.
+2025-07-08 to 11: [European Association for Data Science (EuADS) Summer School 2025](https://www.euads.org/fjkdlasjdiglsmdgkcxjhvckh/euads-summer-school-2025/ "Focuses on data science advancements. Topics include statistical modeling, machine learning algorithms, and applications in big data analytics and decision-making."), Belair, Luxembourg.
 
 **2025-07-13 to 19: [42nd International Conference on Machine Learning (ICML 2025)](https://icml.cc "ICML 2025 explores machine learning, covering deep learning, reinforcement learning, and probabilistic models. Topics include generative AI, neural network optimization, and applications in vision and natural language processing, emphasizing theoretical and practical machine learning advancements."), Vancouver, BC, Canada**.
 
-2025-07-14 to 18: [Cambridge Ellis Unit Summer School on Probabilistic Machine Learning 2025](https://www.ellis.eng.cam.ac.uk/cambridge-ellis-unit-summer-school-on-probabilistic-machine-learning-2025/), Cambridge, UK.
+2025-07-14 to 18: [Cambridge Ellis Unit Summer School on Probabilistic Machine Learning 2025](https://www.ellis.eng.cam.ac.uk/cambridge-ellis-unit-summer-school-on-probabilistic-machine-learning-2025/ "Focuses on probabilistic machine learning. Topics include Bayesian methods, probabilistic graphical models, and applications in data science and artificial intelligence."), Cambridge, UK.
 
-2025-07-19 to 25: [15th Lisbon Machine Learning Summer School (LxMLS 2025)](https://cmuportugal.org/events/lxmls-2025-15th-lisbon-machine-learning-summer-school/), Lisbon, Portugal.
+2025-07-19 to 25: [15th Lisbon Machine Learning Summer School (LxMLS 2025)](https://cmuportugal.org/events/lxmls-2025-15th-lisbon-machine-learning-summer-school/ "Covers machine learning techniques and applications. Topics include deep learning, reinforcement learning, and statistical methods for data analysis and AI systems."), Lisbon, Portugal.
 
 2025-08-02: [Institute of Mathematical Statistics First Annual Frontiers in Statistical Machine Learning Workshop (FSML 2025)](https://fsmlims.wixsite.com/fsml25 "FSML 2025 focuses on statistical machine learning, covering deep learning theory, causal inference, and robust statistics. Topics include generative models, applications in healthcare and social sciences, emphasizing theoretical advancements in statistical approaches to machine learning."), Nashville, TN, USA.
 
-2025-08-02 to 13: [Peru Machine Learning Summer School (MLSS 2025)](https://eventosdiee.ucsp.edu.pe/mlss/), Arequipa, Peru.
+2025-08-02 to 13: [Peru Machine Learning Summer School (MLSS 2025)](https://eventosdiee.ucsp.edu.pe/mlss/ "Explores machine learning fundamentals and applications. Topics include supervised learning, deep neural networks, and computational methods for data-driven modeling."), Arequipa, Peru.
 
 2025-08-03 to 07: [ACM SIGKDD International Conference on Knowledge Discovery and Data Mining (KDD 2025)](https://kdd2025.kdd.org "KDD 2025 focuses on knowledge discovery and data mining, covering machine learning, pattern mining, and big data analytics. Topics include recommender systems, graph mining, and applications in healthcare and finance, emphasizing computational data science techniques."), Toronto, ON, Canada.
 
@@ -50,7 +50,7 @@
 
 2025-09-08 to 10: [Workshop Mathematics in the Age of Data (2025)](https://www.mathematik.tu-clausthal.de/workshop-mathdata "This workshop explores mathematics in data science, covering statistical learning, optimization, and graph theory. Topics include applications in machine learning, network analysis, and big data, emphasizing mathematical frameworks for analyzing and modeling complex datasets."), Clausthal, Germany.
 
-2025-09-08 to 12: [Mediterranean Machine Learning (M2L) Summer School 2025](https://www.m2lschool.org/), Split, Croatia.
+2025-09-08 to 12: [Mediterranean Machine Learning (M2L) Summer School 2025](https://www.m2lschool.org/ "Covers machine learning methodologies. Topics include deep learning, reinforcement learning, and computational techniques for data science and AI applications."), Split, Croatia.
 
 2025-09-08 to 12: [Summer School on Mathematical Methods for High-Dimensional Data (2025)](https://sites.google.com/view/math-high-dimensional-data/ "This summer school explores mathematical methods for high-dimensional data, covering sparse modeling, tensor decomposition, and statistical inference. Topics include applications in genomics, imaging, and machine learning, emphasizing computational and statistical techniques for high-dimensional data analysis."), Rome, Italy.
 

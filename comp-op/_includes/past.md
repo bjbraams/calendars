@@ -4,7 +4,7 @@
 
 2025-03-04 to 06: [International Conference on Optimization (SIGOPT 2025)](https://sigopt2025.uni-siegen.de "SIGOPT 2025 explores optimization, focusing on linear and nonlinear programming, combinatorial optimization, and stochastic optimization. Topics include interior-point methods, heuristic algorithms, and applications in logistics, energy, and machine learning, emphasizing efficient computational strategies for complex problems."), Siegen, Germany.
 
-2025-03-10 to 15: [VIASM Spring School and Workshop on Variational Analysis and Optimization 2025](https://viasm.edu.vn/hdkh/ICOVAO-2025), Hanoi, Vietnam.
+2025-03-10 to 15: [VIASM Spring School and Workshop on Variational Analysis and Optimization 2025](https://viasm.edu.vn/hdkh/ICOVAO-2025 "Explores variational analysis and optimization. Topics include convex optimization, variational inequalities, and computational methods for mathematical modeling and applications."), Hanoi, Vietnam.
 
 2025-04-22 to 24: [3rd ECCOMAS Thematic Conference on Multidisciplinary Design Optimization of Aerospace Systems (AeroBest 2025)](https://aerobest.idmec.tecnico.ulisboa.pt/ "AeroBest 2025 focuses on multidisciplinary design optimization in aerospace, covering shape optimization, topology optimization, and multi-fidelity modeling. Topics include aerodynamics, structural design, and applications in aircraft and spacecraft, emphasizing computational optimization for performance and efficiency."), Lisbon, Portugal.
 

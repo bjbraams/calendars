@@ -4,7 +4,7 @@
 
 2025-02-24 to 03-07: [Workshop Modeling Complex (Astro)Chemical Systems - Astrochemistry Meets Data Science (2025)](https://munich-iapbp.de/activities/activities-2025/astrochemical-systems "This workshop bridges astrochemistry and data science, focusing on modeling complex chemical systems in space. Topics include reaction networks, machine learning for spectral analysis, and computational astrochemistry. It explores chemical evolution in interstellar media, planetary atmospheres, and star-forming regions, emphasizing data-driven insights."), Garching/Munich, Germany.
 
-2025-04-29 to 30: [International Workshop on Plasma, Catalysis and Thin Films for Conversion Processes (2025)](https://efds.org/en/event/ws-plasma-catalysis-2025/), Marl, Germany.
+2025-04-29 to 30: [International Workshop on Plasma, Catalysis and Thin Films for Conversion Processes (2025)](https://efds.org/en/event/ws-plasma-catalysis-2025/ "Focuses on plasma technologies for material conversion. Topics include plasma-catalysis interactions, thin film deposition, and computational modeling for energy and chemical processing applications."), Marl, Germany.
 
 2025-05-05 to 09: [11th International Conference on Frontiers of Plasma Physics and Technology (FPPT 2025)](http://cro-vacuum.hr/2025/01/30/https-www-fpptseries-org/ "FPPT 2025 focuses on plasma physics and technology, covering low-temperature plasmas, plasma-surface interactions, and plasma processing. Topics include plasma diagnostics, thin-film deposition, and applications in nanotechnology and biomedicine, emphasizing practical plasma technologies."), Dubrovnik, Croatia.
 

@@ -1,4 +1,4 @@
-2025-06-03 to 05: [ASA/IMS Spring Research Conference (SRC 2025)](https://sites.google.com/view/src-2025), New York City, NY, USA.
+2025-06-03 to 05: [ASA/IMS Spring Research Conference (SRC 2025)](https://sites.google.com/view/src-2025 "Explores statistical methodologies and applications. Topics include statistical modeling, data analysis, and computational techniques for advancing research in statistics and data science."), New York City, NY, USA.
 
 2025-06-05 to 06: [Adaptive and Bayesian Designs in Real Trials - Clinicians\', Patients\' and Statisticians\' Perspective (2025)](https://onlinesales.admin.cam.ac.uk/conferences-and-events/mrc-biostatistics-unit/adaptive-and-bayesian-designs-in-real-trials/adaptive-and-bayesian-designs-in-real-trials-05-06-june-2025 "This workshop explores adaptive and Bayesian designs in clinical trials, focusing on flexible trial methodologies and Bayesian inference. Topics include adaptive randomization, interim analyses, and applications in personalized medicine, emphasizing statistical and practical perspectives."), Cambridge, UK.
 
@@ -10,7 +10,7 @@
 
 2025-07-07 to 09: [International Association of Statistical Computing Conference Data Science, Statistics & Visualisation (DSSV 2025)](https://iasc-isi.org/dssv2025/ "DSSV 2025 focuses on data science and statistical visualization, covering multivariate analysis, data mining, and interactive graphics. Topics include big data analytics, visualization techniques, and applications in social sciences and health, emphasizing statistical methods for data exploration."), Kruger Park, South Africa.
 
-2025-07-21 to 25: [Utrecht Summer School Course on a Gentle Introduction to Bayesian Estimation (2025)](https://utrechtsummerschool.nl/courses/data-science/a-gentle-introduction-to-bayesian-estimation), Utrecht, Netherlands.
+2025-07-21 to 25: [Utrecht Summer School Course on a Gentle Introduction to Bayesian Estimation (2025)](https://utrechtsummerschool.nl/courses/data-science/a-gentle-introduction-to-bayesian-estimation "Introduces Bayesian estimation techniques. Topics include probabilistic modeling, Bayesian inference, and computational methods for parameter estimation in data science and statistics."), Utrecht, Netherlands.
 
 **2025-08-02 to 07: [ASA, IMS and Other Joint Statistical Meetings (JSM 2025)](https://ww2.amstat.org/meetings/jsm/2025/ "JSM 2025 focuses on statistics and data science, covering Bayesian methods, time-series analysis, and statistical computing. Topics include applications in biostatistics, economics, and machine learning, emphasizing theoretical and applied statistical advancements for diverse fields."), Nashville, TN, USA**.
 
@@ -18,7 +18,7 @@
 
 2025-09-01 to 05: [Conference StatMathAppli 2025](https://statmathappli.mathnum.inrae.fr "StatMathAppli 2025 focuses on applied statistics and mathematics, covering statistical modeling, optimization, and data analysis. Topics include applications in agriculture, biology, and environmental science, emphasizing practical statistical methods for real-world problem-solving and decision-making."), Fréjus, France.
 
-2025-09-15 to 19: [7th I-BioStat Summer School on Advanced Bayesian Methods (2025)](https://ibiostat.be/summer-school-on-advanced-bayesian-methods-15-19-september-2025/), Leuven, Belgium.
+2025-09-15 to 19: [7th I-BioStat Summer School on Advanced Bayesian Methods (2025)](https://ibiostat.be/summer-school-on-advanced-bayesian-methods-15-19-september-2025/ "Covers advanced Bayesian statistical methods. Topics include Bayesian inference, hierarchical models, and computational techniques for data analysis in biology and social sciences."), Leuven, Belgium.
 
 2025-09-22 to 25: [Workshop on Detecting Anomalous Structures in Stream Settings (DASS 2025)](https://www.anomaly-programme.org/event-details/workshop-on-detecting-anomalous-structures-in-stream-settings-dass-workshop-2025 "DASS 2025 focuses on anomaly detection in data streams, covering statistical modeling, machine learning, and real-time analysis. Topics include applications in cybersecurity, finance, and IoT, emphasizing computational and statistical methods for identifying anomalous patterns in streaming data."), Lancaster, UK.
 

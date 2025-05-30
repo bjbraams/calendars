@@ -20,7 +20,7 @@
 
 2025-08-31 to 09-03: [35th IEEE International Workshop on Machine Learning for Signal Processing (MLSP 2025)](https://2025.ieeemlsp.org/en/ "MLSP 2025 focuses on machine learning for signal processing, covering neural networks, sparse modeling, and time-series analysis. Topics include applications in audio processing, medical imaging, and telecommunications, emphasizing computational methods for signal and data analysis."), Istanbul, Turkey.
 
-2025-09-01 to 05: [ELLIS Summer School 2025 AI for Earth and Climate Science](https://www.ellis-jena.eu/summer-school-2025/), Jena, Germany.
+2025-09-01 to 05: [ELLIS Summer School 2025 AI for Earth and Climate Science](https://www.ellis-jena.eu/summer-school-2025/ "Focuses on AI applications in earth and climate science. Topics include machine learning for climate modeling, environmental data analysis, and predictive modeling for sustainability."), Jena, Germany.
 
 2025-09-09 to 11: [4th Italian Conference on Big Data and Data Science (ITADATA 2025)](https://www.itadata.it/ "Covers big data analytics and data science advancements. Topics include machine learning algorithms, statistical modeling, data mining, and applications in industry, healthcare, and social sciences, emphasizing scalable computational techniques and data-driven decision-making."), Turin, Italy.
 

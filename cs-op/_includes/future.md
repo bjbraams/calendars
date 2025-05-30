@@ -1,14 +1,14 @@
 2025-06-03 to 06: [22nd Mixed Integer Programming Workshop (MIP 2025)](https://mixedinteger.org/2025/ "MIP 2025 focuses on mixed integer programming, covering optimization algorithms, branch-and-cut methods, and integer constraints. Topics include scheduling, logistics, and machine learning applications, emphasizing computational techniques for solving complex combinatorial optimization problems."), Minneapolis, MN, USA.
 
-2025-06-09 to 10: [Integer Programming and Combinatorial Optimization (IPCO) Summer School 2025](https://ipco25.cs.jhu.edu/summerschool/), Baltimore, MD. Before IPCO conference.
+2025-06-09 to 10: [Integer Programming and Combinatorial Optimization (IPCO) Summer School 2025](https://ipco25.cs.jhu.edu/summerschool/ "Focuses on integer programming and combinatorial optimization. Topics include linear programming, graph algorithms, and applications in operations research and computer science."), Baltimore, MD. Before IPCO conference.
 
 **2025-06-11 to 13: [26th Conference on Integer Programming and Combinatorial Optimization (IPCO 2025)](https://ipco25.cs.jhu.edu "IPCO 2025 focuses on integer programming and combinatorial optimization, covering polyhedral combinatorics, cutting planes, and approximation algorithms. Topics include network optimization, scheduling, and applications in logistics, emphasizing rigorous optimization techniques."), Baltimore, MD, USA**.
 
-2025-06-13 to 16: [Summer School of EURO Working Group on Vehicle Routing and Logistics Optimization (VeRoLog 2025)](https://verolog2025.unitn.it/), Trento, Italy.
+2025-06-13 to 16: [Summer School of EURO Working Group on Vehicle Routing and Logistics Optimization (VeRoLog 2025)](https://verolog2025.unitn.it/ "Focuses on vehicle routing and logistics optimization. Topics include algorithmic techniques, combinatorial optimization, and practical applications in transportation and supply chain management."), Trento, Italy.
 
-2025-06-16 to 19: [Conference of EURO Working Group on Vehicle Routing and Logistics Optimization (VeRoLog 2025)](https://verolog2025.unitn.it/), Trento, Italy.
+2025-06-16 to 19: [Conference of EURO Working Group on Vehicle Routing and Logistics Optimization (VeRoLog 2025)](https://verolog2025.unitn.it/ "Covers vehicle routing and logistics optimization. Topics include routing algorithms, scheduling, and computational methods for logistics and transportation systems."), Trento, Italy.
 
-2025-06-16 to 21: [5th (India) Large Scale Optimization Summer School 2025](https://www.ieor.iitb.ac.in/lso2025/), Bombay, India.
+2025-06-16 to 21: [5th (India) Large Scale Optimization Summer School 2025](https://www.ieor.iitb.ac.in/lso2025/ "Covers large-scale optimization techniques. Topics include algorithmic optimization, computational methods, and applications in operations research, logistics, and data science."), Bombay, India.
 
 2025-07-01 to 03: [Mixed Integer Programming European Workshop (EUROMIP 2025)](https://mixedinteger.org/EUROMIP/2025/ "EUROMIP 2025 focuses on mixed integer programming, covering branch-and-bound, cutting planes, and heuristic methods. Topics include combinatorial optimization, scheduling, and applications in logistics and energy, emphasizing computational techniques for integer optimization problems."), Clermont-Ferrand, France.
 
@@ -18,9 +18,9 @@
 
 2025-08-11 to 13: [International Conference on Approximation Algorithms for Combinatorial Optimization Problems (APPROX 2025) and International Conference on Randomization and Computation (RANDOM 2025)](https://approxconference.com "APPROX/RANDOM 2025 focuses on approximation algorithms and randomized computation, covering combinatorial optimization, probabilistic algorithms, and complexity. Topics include graph algorithms, machine learning, and applications in networks, emphasizing theoretical and practical algorithmic advancements."), Berkeley, CA, USA.
 
-2025-08-25 to 29: [2nd EURO PhD School Data Science Meets Combinatorial Optimisation (2025)](https://sites.google.com/view/phd-school-dso-2025/), Eindhoven, Netherlands.
+2025-08-25 to 29: [2nd EURO PhD School Data Science Meets Combinatorial Optimisation (2025)](https://sites.google.com/view/phd-school-dso-2025/ "Combines data science and combinatorial optimization. Topics include machine learning for optimization, algorithmic techniques, and applications in logistics and operations research."), Eindhoven, Netherlands.
 
-2025-08: [TU Braunschweig Summer School on Nonlinear Optimization and Combinatorics (2025)](http://www.iaa.tu-bs.de/AppliedAlgebra/SummerSchool2025/), Braunschweig, Germany.
+2025-08: [TU Braunschweig Summer School on Nonlinear Optimization and Combinatorics (2025)](http://www.iaa.tu-bs.de/AppliedAlgebra/SummerSchool2025/ "Explores nonlinear optimization and combinatorics. Topics include optimization algorithms, combinatorial structures, and applications in operations research and computer science."), Braunschweig, Germany.
 
 2025-09-07 to 12: [Dagstuhl Seminar Interactions in Constraint Optimization (2025)](https://www.dagstuhl.de/25371 "This seminar explores constraint optimization, covering constraint satisfaction, integer programming, and hybrid methods. Topics include applications in scheduling, planning, and AI, emphasizing computational techniques for solving complex combinatorial optimization problems with interacting constraints."), Schloss Dagstuhl, Wadern, Germany.
 

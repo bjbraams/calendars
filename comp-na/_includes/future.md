@@ -26,7 +26,7 @@
 
 2025-08-18 to 22: [36th IUPAP Conference on Computational Physics (CCP 2025)](https://ccp2025.ornl.gov "CCP 2025 explores computational physics, covering numerical simulations, molecular dynamics, and quantum Monte Carlo. Topics include applications in condensed matter, astrophysics, and biophysics, emphasizing advanced computational methods for solving complex physical systems and phenomena."), Knoxville, TN, USA.
 
-2025-08-19 to 21: [Jena Summer School on Numerical Analysis (2025)](https://indico.rz.uni-jena.de/event/187/), Jena, Germany.
+2025-08-19 to 21: [Jena Summer School on Numerical Analysis (2025)](https://indico.rz.uni-jena.de/event/187/ "Covers numerical analysis techniques. Topics include numerical methods for PDEs, optimization, and computational algorithms for scientific and engineering applications."), Jena, Germany.
 
 2025-08-22 to 23: [NCTS Workshop on Computational Mathematics and Scientific Computing for Young Researchers (2025)](https://ncts.ntu.edu.tw/events_2_detail.php?nid=505 "This workshop explores computational mathematics, covering numerical analysis, optimization, and scientific computing. Topics include applications in physics, engineering, and data science, emphasizing computational techniques and algorithms for young researchers in applied and computational mathematics."), Taipei, Taiwan.
 

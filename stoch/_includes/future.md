@@ -70,7 +70,7 @@
 
 2025-09-22 to 26: [CIRM Conference Interacting Particle Systems and Related Fields (2025)](https://conferences.cirm-math.fr/3335.html "This conference explores interacting particle systems, covering stochastic processes, random walks, and statistical mechanics. Topics include applications in biology, physics, and social dynamics, emphasizing probabilistic and computational methods for modeling interacting stochastic systems."), Marseille, France.
 
-2025-09-22 to 26: [Nordic PhD Course in Stochastic Programming 2025](https://www.nors-online.no/2025/03/26/nordic-phd-course-in-stochastic-programming-2025/), Bergen, Norway.
+2025-09-22 to 26: [Nordic PhD Course in Stochastic Programming 2025](https://www.nors-online.no/2025/03/26/nordic-phd-course-in-stochastic-programming-2025/ "Covers stochastic programming techniques. Topics include stochastic optimization, uncertainty modeling, and applications in operations research and decision-making systems."), Bergen, Norway.
 
 2025-09-23 to 26: [Young Researchers in Stochastic Analysis and Stochastic Geometric Analysis (2025)](https://www.epfl.ch/labs/stoan/events/future-events/young-researchers-workshop/ "This workshop explores stochastic and geometric analysis, covering stochastic PDEs, random manifolds, and geometric probability. Topics include applications in physics, biology, and data science, emphasizing probabilistic and geometric methods for young researchers in stochastic analysis."), Lausanne, Switzerland.
 
@@ -92,11 +92,11 @@
 
 2026-05-04 to 22: [Research Programme Statistical Mechanics and Singular SPDEs (2026)](https://ims.nus.edu.sg/events/statistics_singularspdes/ "This programme explores statistical mechanics and singular SPDEs, covering stochastic processes, phase transitions, and random fields. Topics include applications in condensed matter, fluid dynamics, and disordered systems, emphasizing probabilistic and computational methods for singular stochastic systems."), Singapore.
 
-2026-05-11 to 15: [NUS-IMS Workshop on Statistical Mechanics and Singular SPDEs (2026)](https://ims.nus.edu.sg/events/statistics_singularspdes/), Singapore.
+2026-05-11 to 15: [NUS-IMS Workshop on Statistical Mechanics and Singular SPDEs (2026)](https://ims.nus.edu.sg/events/statistics_singularspdes/ "Covers statistical mechanics and singular stochastic PDEs. Topics include stochastic processes, singular equations, and applications in physics and complex systems modeling."), Singapore.
 
-2026-05-18 to 29: [NUS-IMS Workshop on Conformal Field Theories on Randomness and Geometry (2026)](https://ims.nus.edu.sg/events/conformalfieldtheories_rangeo/), Singapore.
+2026-05-18 to 29: [NUS-IMS Workshop on Conformal Field Theories on Randomness and Geometry (2026)](https://ims.nus.edu.sg/events/conformalfieldtheories_rangeo/ "Explores conformal field theories and randomness. Topics include stochastic geometry, conformal invariance, and applications in statistical physics and quantum field theory."), Singapore.
 
-2026-06-15 to 19: [45th Bernoulli Society Conference on Stochastic Processes and Their Applications (SPA 2026)](https://www.bernoullisociety.org/meetings), Ithaca, NY, USA. Provisional link.
+2026-06-15 to 19: [45th Bernoulli Society Conference on Stochastic Processes and Their Applications (SPA 2026)](https://www.bernoullisociety.org/meetings "Explores stochastic processes and applications. Topics include Markov processes, stochastic differential equations, and applications in data science, physics, and epidemiology."), Ithaca, NY, USA. Provisional link.
 
 2026-06-15 to 19: [Stochastic Networks Conference 2026](https://www.chicagobooth.edu/events/stochastic-networks-conference "This conference explores stochastic networks, covering queueing theory, random graphs, and network dynamics. Topics include applications in telecommunications, transportation, and social networks, emphasizing probabilistic and computational methods for modeling and analyzing stochastic network systems."), Chicago, IL, USA.
 

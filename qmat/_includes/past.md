@@ -24,3 +24,5 @@
 
 2025-05-21 to 27: [90th Workshop of the International School of Solid State Physics: Dynamics of Electrons in Atomic and Molecular Nanoclusters (DEAMN 2025)](https://dornsife.usc.edu/deamn25/ "DEAMN 2025 focuses on electron dynamics in nanoclusters, covering quantum confinement, charge transfer, and plasmonics. Topics include computational modeling, spectroscopic techniques, and applications in nanotechnology and catalysis, emphasizing electron behavior in atomic and molecular systems."), Erici, Sicily, Italy.
 
+2025-05-26 to 30: [QMP Intensive Period 2025 Workshop Mathematics of Condensed Matter Systems](https://sites.google.com/view/qmp25-intensiveperiod/workshops/workshop-26-30-may), Milan, Italy.
+
