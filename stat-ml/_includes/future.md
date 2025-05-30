@@ -1,5 +1,3 @@
-2025-05-29 to 31: [First Maryland Summer School in Statistics and Machine Learning (2025)](https://stat.umd.edu/summer-courses "This summer school explores statistics and machine learning, covering regression, classification, and deep learning. Topics include Bayesian methods, high-dimensional data analysis, and applications in social sciences and biology, emphasizing foundational and applied data science techniques."), College Park, MD, USA.
-
 2025-06-02 to 06: [INI Workshop Calibrating Prediction Uncertainty - Statistics and Machine Learning Perspectives (2025)](https://www.newton.ac.uk/event/rclw02/ "This workshop explores prediction uncertainty, blending statistics and machine learning. Topics include Bayesian uncertainty quantification, conformal prediction, and model calibration, with applications in AI and scientific modeling, emphasizing robust methods for reliable predictions."), Cambridge, UK.
 
 2025-06-09 to 13: [IMSI Workshop Statistical and Computational Challenges in Probabilistic Scientific Machine Learning (SciML 2025)](https://imsi.institute/activities/statistical-and-computational-challenges-in-probabilistic-scientific-machine-learning-sciml/ "This workshop explores probabilistic scientific machine learning, covering Bayesian neural networks, uncertainty quantification, and physics-informed models. Topics include computational challenges, applications in climate and materials science, emphasizing statistical robustness in scientific ML."), Chicago, IL, USA.
@@ -18,7 +16,11 @@
 
 2025-06-23 to 25: [International Conference on Statistics and Data Science (2025)](https://icsds.github.io/2025/ "This conference explores statistics and data science, covering machine learning, Bayesian methods, and high-dimensional inference. Topics include causal inference, time-series analysis, and applications in social sciences and health, emphasizing statistical and computational data analysis."), Vancouver, BC, Canada.
 
+2025-06-23 to 27: [7th International Summer School on Artificial Intelligence and Games (2025)](https://school.gameaibook.org/), Malmö, Sweden.
+
 2025-06-23 to 27: [Isaac Newton Institute Workshop Accelerating Statistical Inference and Experimental Design With Machine Learning (2025)](https://newton.ac.uk/event/rclw03/ "This workshop explores machine learning for statistical inference and experimental design, covering Bayesian optimization, active learning, and uncertainty quantification. Topics include applications in physics and biology, emphasizing AI-driven approaches to enhance statistical and experimental efficiency."), Cambridge, UK.
+
+2025-06-23 to 27: [PhD Course Theoretical Foundations of Machine Learning (TFML 2025)](https://malga.unige.it/education/schools/tfml/), Genoa, Italy.
 
 2025-06-30 to 07-04: [2nd International Summer School on Preference Learning for Ranking and Ordinal Data (PrefStat 2025)](http://www.prefstat.org/ "PrefStat 2025 focuses on preference learning, covering ranking algorithms, ordinal data analysis, and statistical modeling. Topics include learning-to-rank, preference elicitation, and applications in recommender systems, emphasizing statistical methods for preference-based data."), Oslo, Norway.
 

@@ -4,3 +4,7 @@
 
 2025-05-08 to 10: [38th Conference of the European Chapter on Combinatorial Optimization (ECCO 2025)](https://ecco2025.sciencesconf.org "ECCO 2025 explores combinatorial optimization, covering graph theory, integer programming, and approximation algorithms. Topics include scheduling, network design, and vehicle routing, with applications in logistics and telecommunications, emphasizing efficient computational strategies for discrete optimization problems."), Marrakech, Morocco.
 
+2025-05-12 to 16: [9th Lake Como School Complex Networks Theory, Methods, and Applications](https://ntmi.lakecomoschool.org/), Como, Italy.
+
+2025-05-19 to 23: [School on Column Generation (2025)](https://www.gerad.ca/colloques/ColumnGeneration2025/), Paris, France.
+

@@ -44,5 +44,7 @@
 
 2026-09-14 to 17: [European Materials Research Society (E-MRS) Fall Meeting 2026](https://www.european-mrs.com/meetings/2026-fall-meeting "E-MRS 2026 focuses on materials science, covering plasma processing, nanomaterials, and functional coatings. Topics include applications in energy storage, electronics, and biomedicine, emphasizing computational and experimental methods for advanced material synthesis and characterization."), Warsaw, Poland.
 
+2026 tbd: [12th International Conference on Multiscale Materials Modeling (MMM 2026)](), tbd.
+
 2026 tbd: [European X-Ray Spectrometry Conference (EXRS)]("EXRS 2026 explores X-ray spectrometry, covering X-ray fluorescence, diffraction, and imaging. Topics include applications in materials science, environmental analysis, and cultural heritage, emphasizing experimental and computational techniques for high-resolution X-ray analysis."), Catania, Italy?.
 

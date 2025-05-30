@@ -32,3 +32,5 @@
 
 2025-05-19 to 23: [41st IEEE International Conference on Data Engineering (ICDE 2025)](https://ieee-icde.org/2025/ "ICDE 2025 explores data engineering, focusing on big data management, machine learning integration, and data analytics. Topics include graph databases, data privacy, and real-time processing, with applications in AI and IoT, emphasizing scalable data systems and algorithms."), Hong Kong, China.
 
+2025-05-29 to 31: [First Maryland Summer School in Statistics and Machine Learning (2025)](https://stat.umd.edu/summer-courses "This summer school explores statistics and machine learning, covering regression, classification, and deep learning. Topics include Bayesian methods, high-dimensional data analysis, and applications in social sciences and biology, emphasizing foundational and applied data science techniques."), College Park, MD, USA.
+

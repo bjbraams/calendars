@@ -20,6 +20,8 @@
 
 2025-07-27 to 08-01: [Association for Computational Linguistics 63rd Annual Meeting (ACL 2025)](https://2025.aclweb.org/ "Explores computational linguistics and natural language processing. Topics include machine learning for language models, text analysis, and applications in AI and human-computer interaction."), Vienna, Austria.
 
+2025-08-04 to 08: [CISPA-ELLIS Summer School 2025 on Trustworthy AI](https://cispa.de/summer-school-2025), Jena, Germany.
+
 2025-08-16 to 22: [34th International Joint Conference on Artificial Intelligence (IJCAI 2025)](https://2025.ijcai.org "IJCAI 2025 explores artificial intelligence, covering machine learning, knowledge representation, and robotics. Topics include deep learning, natural language processing, and AI ethics, with applications in healthcare, finance, and autonomous systems, emphasizing theoretical and applied AI advancements."), Montreal, QC, Canada.
 
 2025-08-25 to 30: [36th International Conference on Concurrency Theory (CONCUR), 30th IC on Formal Methods for Industrial Critical Systems (FMICS) and Joint IC on Quantitative Evaluation of SysTems and on Formal Modeling and Analysis of Timed Systems (QEST+FORMATS) (CONFEST 2025)](https://conferences.au.dk/confest2025 "CONFEST 2025 explores concurrency, formal methods, and system evaluation, covering timed systems, model checking, and performance analysis. Topics include applications in critical systems, real-time software, and AI, emphasizing formal and quantitative computational methodologies."), Aarhus, Denmark.

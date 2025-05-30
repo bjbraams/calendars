@@ -90,6 +90,10 @@
 
 2026-05-04 to 22: [Research Programme Statistical Mechanics and Singular SPDEs (2026)](https://ims.nus.edu.sg/events/statistics_singularspdes/ "This programme explores statistical mechanics and singular SPDEs, covering stochastic processes, phase transitions, and random fields. Topics include applications in condensed matter, fluid dynamics, and disordered systems, emphasizing probabilistic and computational methods for singular stochastic systems."), Singapore.
 
+2026-05-11 to 15: [NUS-IMS Workshop on Statistical Mechanics and Singular SPDEs (2026)](https://ims.nus.edu.sg/events/statistics_singularspdes/), Singapore.
+
+2026-05-18 to 29: [NUS-IMS Workshop on Conformal Field Theories on Randomness and Geometry (2026)](https://ims.nus.edu.sg/events/conformalfieldtheories_rangeo/), Singapore.
+
 2026-06-15 to 19: [45th Bernoulli Society Conference on Stochastic Processes and Their Applications (SPA 2026)](https://www.bernoullisociety.org/meetings), Ithaca, NY, USA. Provisional link.
 
 2026-06-15 to 19: [Stochastic Networks Conference 2026](https://www.chicagobooth.edu/events/stochastic-networks-conference "This conference explores stochastic networks, covering queueing theory, random graphs, and network dynamics. Topics include applications in telecommunications, transportation, and social networks, emphasizing probabilistic and computational methods for modeling and analyzing stochastic network systems."), Chicago, IL, USA.
