@@ -26,11 +26,21 @@
 
 **2025-06-30 to 07-04: [38th Annual Conference on Learning Theory (COLT 2025)](http://learningtheory.org/colt2025/ "COLT 2025 explores learning theory, covering statistical learning, online learning, and generalization bounds. Topics include deep learning theory, adversarial robustness, and applications in AI, emphasizing theoretical foundations of machine learning and data science."), Lyon, France**.
 
+2025-07-07 to 11: [London Geometry and Machine Learning Summer School (LGML 2025)](https://www.logml.ai/), London, UK.
+
 2025-07-07 to 18: [SLMath Summer School Principled Scientific Discovery With Formal Methods (2025)](https://www.slmath.org/summer-schools/1110 "This summer school explores formal methods for scientific discovery, covering machine learning, formal verification, and data-driven modeling. Topics include automated hypothesis generation, uncertainty quantification, and applications in physics and biology, emphasizing principled AI for scientific research."), Yorktown Heights, NY, USA.
+
+2025-07-08 to 11: [European Association for Data Science (EuADS) Summer School 2025](https://www.euads.org/fjkdlasjdiglsmdgkcxjhvckh/euads-summer-school-2025/), Belair, Luxembourg.
 
 **2025-07-13 to 19: [42nd International Conference on Machine Learning (ICML 2025)](https://icml.cc "ICML 2025 explores machine learning, covering deep learning, reinforcement learning, and probabilistic models. Topics include generative AI, neural network optimization, and applications in vision and natural language processing, emphasizing theoretical and practical machine learning advancements."), Vancouver, BC, Canada**.
 
+2025-07-14 to 18: [Cambridge Ellis Unit Summer School on Probabilistic Machine Learning 2025](https://www.ellis.eng.cam.ac.uk/cambridge-ellis-unit-summer-school-on-probabilistic-machine-learning-2025/), Cambridge, UK.
+
+2025-07-19 to 25: [15th Lisbon Machine Learning Summer School (LxMLS 2025)](https://cmuportugal.org/events/lxmls-2025-15th-lisbon-machine-learning-summer-school/), Lisbon, Portugal.
+
 2025-08-02: [Institute of Mathematical Statistics First Annual Frontiers in Statistical Machine Learning Workshop (FSML 2025)](https://fsmlims.wixsite.com/fsml25 "FSML 2025 focuses on statistical machine learning, covering deep learning theory, causal inference, and robust statistics. Topics include generative models, applications in healthcare and social sciences, emphasizing theoretical advancements in statistical approaches to machine learning."), Nashville, TN, USA.
+
+2025-08-02 to 13: [Peru Machine Learning Summer School (MLSS 2025)](https://eventosdiee.ucsp.edu.pe/mlss/), Arequipa, Peru.
 
 2025-08-03 to 07: [ACM SIGKDD International Conference on Knowledge Discovery and Data Mining (KDD 2025)](https://kdd2025.kdd.org "KDD 2025 focuses on knowledge discovery and data mining, covering machine learning, pattern mining, and big data analytics. Topics include recommender systems, graph mining, and applications in healthcare and finance, emphasizing computational data science techniques."), Toronto, ON, Canada.
 
@@ -39,6 +49,8 @@
 2025-08-24 to 29: [Oberwolfach Workshop on Stein’s Method in Stochastic Geometry, Statistical Learning, and Optimisation (2025)](https://mfo.de/occasion/2535b/www_view "This workshop explores Stein’s method, covering stochastic geometry, statistical learning, and optimization. Topics include discrepancy measures, high-dimensional statistics, and applications in machine learning and random graphs, emphasizing probabilistic techniques for statistical and geometric analysis."), Oberwolfach, Germany.
 
 2025-09-08 to 10: [Workshop Mathematics in the Age of Data (2025)](https://www.mathematik.tu-clausthal.de/workshop-mathdata "This workshop explores mathematics in data science, covering statistical learning, optimization, and graph theory. Topics include applications in machine learning, network analysis, and big data, emphasizing mathematical frameworks for analyzing and modeling complex datasets."), Clausthal, Germany.
+
+2025-09-08 to 12: [Mediterranean Machine Learning (M2L) Summer School 2025](https://www.m2lschool.org/), Split, Croatia.
 
 2025-09-08 to 12: [Summer School on Mathematical Methods for High-Dimensional Data (2025)](https://sites.google.com/view/math-high-dimensional-data/ "This summer school explores mathematical methods for high-dimensional data, covering sparse modeling, tensor decomposition, and statistical inference. Topics include applications in genomics, imaging, and machine learning, emphasizing computational and statistical techniques for high-dimensional data analysis."), Rome, Italy.
 

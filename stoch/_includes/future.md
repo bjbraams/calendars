@@ -70,6 +70,8 @@
 
 2025-09-22 to 26: [CIRM Conference Interacting Particle Systems and Related Fields (2025)](https://conferences.cirm-math.fr/3335.html "This conference explores interacting particle systems, covering stochastic processes, random walks, and statistical mechanics. Topics include applications in biology, physics, and social dynamics, emphasizing probabilistic and computational methods for modeling interacting stochastic systems."), Marseille, France.
 
+2025-09-22 to 26: [Nordic PhD Course in Stochastic Programming 2025](https://www.nors-online.no/2025/03/26/nordic-phd-course-in-stochastic-programming-2025/), Bergen, Norway.
+
 2025-09-23 to 26: [Young Researchers in Stochastic Analysis and Stochastic Geometric Analysis (2025)](https://www.epfl.ch/labs/stoan/events/future-events/young-researchers-workshop/ "This workshop explores stochastic and geometric analysis, covering stochastic PDEs, random manifolds, and geometric probability. Topics include applications in physics, biology, and data science, emphasizing probabilistic and geometric methods for young researchers in stochastic analysis."), Lausanne, Switzerland.
 
 2025-10-06 to 10: [Conference on Stochastic and Integral Geometry and Related Fields (2025)](https://sig25.org/ "This conference explores stochastic and integral geometry, covering random sets, geometric probability, and stochastic processes. Topics include applications in image analysis, materials science, and spatial statistics, emphasizing probabilistic and geometric methods for modeling random structures."), Yerevan, Armenia.

@@ -18,6 +18,8 @@
 
 2025-08-11 to 13: [International Conference on Approximation Algorithms for Combinatorial Optimization Problems (APPROX 2025) and International Conference on Randomization and Computation (RANDOM 2025)](https://approxconference.com "APPROX/RANDOM 2025 focuses on approximation algorithms and randomized computation, covering combinatorial optimization, probabilistic algorithms, and complexity. Topics include graph algorithms, machine learning, and applications in networks, emphasizing theoretical and practical algorithmic advancements."), Berkeley, CA, USA.
 
+2025-08-25 to 29: [2nd EURO PhD School Data Science Meets Combinatorial Optimisation (2025)](https://sites.google.com/view/phd-school-dso-2025/), Eindhoven, Netherlands.
+
 2025-08: [TU Braunschweig Summer School on Nonlinear Optimization and Combinatorics (2025)](http://www.iaa.tu-bs.de/AppliedAlgebra/SummerSchool2025/), Braunschweig, Germany.
 
 2025-09-07 to 12: [Dagstuhl Seminar Interactions in Constraint Optimization (2025)](https://www.dagstuhl.de/25371 "This seminar explores constraint optimization, covering constraint satisfaction, integer programming, and hybrid methods. Topics include applications in scheduling, planning, and AI, emphasizing computational techniques for solving complex combinatorial optimization problems with interacting constraints."), Schloss Dagstuhl, Wadern, Germany.

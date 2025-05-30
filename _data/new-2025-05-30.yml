@@ -109,3 +109,68 @@ INFORMS Applied Probability Society Summer School 2025:
   loc: Atlanta, GA
   more: Just before INFORMS Conference
   kw: prob
+Satisfiability, Satisfiability Modulo Theories, and Automated Reasoning Summer School (SAT/SMT/AR 2025):
+  dd: 2025-08-06 to 08
+  link: https://sat-smt-ar-school.gitlab.io/www/2025/
+  loc: St Andrews, UK
+  kw: cs-lo
+Simons Institute Workshop Graph Learning Meets Theoretical Computer Science (2025):
+  dd: 2025-08-11 to 15
+  link: https://simons.berkeley.edu/workshops/graph-learning-meets-theoretical-computer-science
+  loc: Berkely, CA, USA
+  kw: cs-oh
+Cambridge Ellis Unit Summer School on Probabilistic Machine Learning 2025:
+  dd: 2025-07-14 to 18
+  link: https://www.ellis.eng.cam.ac.uk/cambridge-ellis-unit-summer-school-on-probabilistic-machine-learning-2025/
+  loc: Cambridge, UK
+  kw: stat-ml
+15th Lisbon Machine Learning Summer School (LxMLS 2025):
+  dd: 2025-07-19 to 25
+  link: https://cmuportugal.org/events/lxmls-2025-15th-lisbon-machine-learning-summer-school/
+  loc: Lisbon, Portugal
+  kw: stat-ml
+13th Argonne Training Program on Extreme-Scale Computing (ATPESC 2025):
+  dd: 2025-07-27 to 08-08
+  link: https://extremecomputingtraining.anl.gov/
+  loc: Chicago area. IL, USA
+  kw: comp-hp
+Peru Machine Learning Summer School (MLSS 2025):
+  dd: 2025-08-02 to 13
+  link: https://eventosdiee.ucsp.edu.pe/mlss/
+  loc: Arequipa, Peru
+  kw: stat-ml
+2nd EURO PhD School Data Science Meets Combinatorial Optimisation (2025):
+  dd: 2025-08-25 to 29
+  link: https://sites.google.com/view/phd-school-dso-2025/
+  loc: Eindhoven, Netherlands
+  kw: cs-op
+Nordic PhD course in stochastic programming 2025:
+  dd: 2025-09-22 to 26
+  link: https://www.nors-online.no/2025/03/26/nordic-phd-course-in-stochastic-programming-2025/
+  loc: Bergen, Norway
+  kw: stoch
+London Geometry and Machine Learning Summer School (LGML 2025):
+  dd: 2025-07-07 to 11
+  link: https://www.logml.ai/
+  loc: London, UK
+  kw: stat-ml
+European Association for Data Science (EuADS) Summer School 2025:
+  dd: 2025-07-08 to 11
+  link: https://www.euads.org/fjkdlasjdiglsmdgkcxjhvckh/euads-summer-school-2025/
+  loc: Belair, Luxembourg
+  kw: stat-ml
+Mediterranean Machine Learning (M2L) Summer School 2025:
+  dd: 2025-09-08 to 12
+  link: https://www.m2lschool.org/
+  loc: Split, Croatia
+  kw: stat-ml
+IAS/PCMI Graduate Summer School 2025 Extremal and Probabilistic Combinatorics:
+  dd: 2025-07-06 to 22
+  link: https://www.ias.edu/pcmi/pcmi-2025-graduate-summer-school
+  loc: Park City, UT, USA
+  kw: cs-oh
+ASI Symposium 004 on Genesis and Evolution of Organics in Space (2nd Symposium of Organics in Space consortium):
+  dd: 2025-07-16 to 18
+  link: https://organicsinspace.in/
+  loc: Bengaluru, India
+  kw: qmol

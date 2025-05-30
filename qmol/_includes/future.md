@@ -24,6 +24,8 @@
 
 2025-07-13 to 08-03: [Aspen Summer Workshop on Cold and Ultracold Molecules for Fundamental Physics and Many-Body Quantum Science (2025)](https://aspenphys.org/summer-workshops/#event5562 "This workshop explores cold and ultracold molecules, covering quantum chemistry, molecular cooling, and many-body quantum systems. Topics include precision measurements, quantum simulation, and applications in fundamental physics, emphasizing experimental and theoretical ultracold molecular research."), Aspen, CO, USA.
 
+2025-07-16 to 18: [ASI Symposium 004 on Genesis and Evolution of Organics in Space (2nd Symposium of Organics in Space Consortium)](https://organicsinspace.in/), Bengaluru, India.
+
 2025-08-03 to 08: [37th International Symposium on Free Radicals (FRS 2025)](https://thefrs.org "FRS 2025 focuses on free radical chemistry, covering radical reactions, spectroscopy, and kinetics. Topics include atmospheric chemistry, combustion, and applications in biology and materials, emphasizing experimental and computational studies of free radical dynamics."), Snowbird, UT, USA.
 
 2025-08-05 to 08: [COST NanoSpace AI in Astrochemistry Training School 2025](https://ocamm.fi/event/cost-nanospace-ai-in-astrochemistry-training-school-2025 "This training school focuses on AI in astrochemistry, covering machine learning for molecular spectroscopy, reaction networks, and interstellar chemistry. Topics include applications in exoplanet atmospheres and star formation, emphasizing AI-driven computational astrochemistry research."), Espoo, Finland.

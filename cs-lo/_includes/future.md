@@ -22,6 +22,8 @@
 
 2025-08-02: [10th International Workshop on Satisfiability Checking and Symbolic Computation (SC2 2025)](https://www.sc-square.org/CSA/workshop10.html "SC2 2025 focuses on satisfiability checking and symbolic computation, covering SAT solvers, algebraic methods, and constraint solving. Topics include applications in verification, cryptography, and AI, emphasizing computational techniques for symbolic and logical problem-solving."), Stuttgart, Germany.
 
+2025-08-06 to 08: [Satisfiability, Satisfiability Modulo Theories, and Automated Reasoning Summer School (SAT/SMT/AR 2025)](https://sat-smt-ar-school.gitlab.io/www/2025/), St Andrews, UK.
+
 2025-08-10 to 11: [23rd International Workshop on Satisfiability Modulo Theories (SMT 2025)](https://smt-workshop.cs.uiowa.edu/2025/ "SMT 2025 focuses on satisfiability modulo theories, covering constraint solving, SMT solvers, and automated reasoning. Topics include applications in program verification, scheduling, and AI planning, emphasizing computational techniques for logical and constraint-based problem-solving."), Glasgow, UK.
 
 2025-08-19 to 22: [29th International Conference on Developments in Language Theory (DLT 2025)](https://cida.uos.ac.kr/dlt2025/ "DLT 2025 focuses on language theory, covering automata, formal languages, and combinatorics on words. Topics include parsing algorithms, language complexity, and applications in verification and natural language processing, emphasizing theoretical advances in computational linguistics."), Seoul, Korea.
