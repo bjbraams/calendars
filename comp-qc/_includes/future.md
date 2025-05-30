@@ -4,6 +4,8 @@
 
 2025-06-02 to 08-08: [Los Alamos Quantum Computing Summer School Fellowship (2025)](https://www.lanl.gov/engage/collaboration/internships/summer-schools/quantumschool "Covers quantum computing advancements. Topics include quantum algorithms, quantum simulation, and computational methods for quantum information science and applications."), Los Alamos, NM, USA.
 
+2025-06-03 to 06: [2nd International Conference on Quantum Energy (ICQE 2025)](https://icqe.com.au/), Padua, Italy.
+
 2025-06-03 to 06: [QMP Intensive Period 2025 Workshop Recent Advances in Operator Theory and Its Applications](https://sites.google.com/view/qmp25-intensiveperiod/workshops/workshop-3-6-june), Milan, Italy.
 
 2025-06-03 to 07-23: [Quantum Fringe Summer Festival of Quantum Events 2025](https://www.quantumsoftwarelab.com/quantum-fringe-scotland "This festival explores quantum technologies, focusing on quantum computing, algorithms, and cryptography. Topics include quantum circuit design, quantum machine learning, and applications in optimization, emphasizing interdisciplinary advancements in quantum software and hardware development."), Various Scotland, UK.
@@ -17,6 +19,10 @@
 2025-06-16 to 20: [2nd Workshop on Quantum Software 2025](https://pldi25.sigplan.org/home/wqs-2025 "This workshop focuses on quantum software, covering quantum programming languages, compilers, and verification. Topics include quantum circuit optimization, hybrid quantum-classical frameworks, and applications in quantum simulation, emphasizing software tools for quantum computing development."), Seoul, Korea.
 
 2025-06-16 to 20: [Quantum Algorithms in Pre-Fault Tolerant Hardware (2025)](https://basq-ibm-2025.dipc.org "This workshop focuses on quantum algorithms for pre-fault-tolerant hardware, covering noisy intermediate-scale quantum (NISQ) devices, variational algorithms, and quantum optimization. Topics include quantum simulation, error mitigation, and applications in chemistry, emphasizing practical quantum computing."), Donostia / San Sebastian, Spain.
+
+2025-06-17 to 18: [Cryst3 Workshop Quantum in Photonic Microstructures (2025)](https://www.cryst3.com/quantum-in-photonic-microstructures-workshop), Limoges, France.
+
+2025-06-18 to 20: [Quantum Computing Applications in Chemical and Biochemical Engineering (QChemE 2025)](https://www.aiche.org/conferences/quantum-computing-and-artificial-intelligence-applications-workshop/2025), Lyngby, Denmark.
 
 2025-06-30 to 07-03: [20th Central European Quantum Information Processing Workshop (CEQIP 2025)](http://ceqip.eu/2025/ "CEQIP 2025 focuses on quantum information processing, covering quantum algorithms, entanglement, and quantum cryptography. Topics include quantum error correction, quantum networks, and applications in quantum computing, emphasizing theoretical and experimental quantum information advancements."), Smolenice Castle, Slovakia.
 

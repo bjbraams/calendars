@@ -18,6 +18,8 @@
 
 2025-07-13 to 18: [12th ECCOMAS Thematic Conference on Multibody Dynamics (MULTIBODY 2025)](https://www.uibk.ac.at/en/congress/multibody2025/ "MULTIBODY 2025 focuses on multibody dynamics, covering computational methods, rigid and flexible body systems, and dynamics simulations. Topics include vehicle dynamics, robotics, and biomechanics, emphasizing numerical techniques for modeling complex multibody mechanical systems."), Innsbruck, Austria.
 
+2025-07-20 to 24: [18th U.S. National Congress on Computational Mechanics (USNCCM 2025)](https://usnccm18.usacm.org/), Chicago, IL, USA.
+
 2025-08-20 to 22: [ECCOMAS Thematic Conference on Modern Finite Element Technologies (MFET 2025)](https://mfet2025.de/ "MFET 2025 focuses on finite element technologies, covering adaptive meshing, high-order methods, and multiphysics simulations. Topics include applications in structural mechanics, fluid dynamics, and electromagnetics, emphasizing advanced numerical methods for engineering and scientific computations."), Aachen, Germany.
 
 2025-08-25 to 27: [EuroMech Colloquium 655 on Cutting Mechanics of Soft Tissues: Nonlinear Fracture and Contact Mechanics (2025)](https://655.euromech.org/ "Examines nonlinear fracture and contact mechanics in soft tissues. Topics include computational modeling, biomechanical analysis, and applications in medical engineering and tissue mechanics."), Graz, Austria.
@@ -36,7 +38,11 @@
 
 2025-09-22 to 26: [(ECCOMAS-IACM Associated) 2nd International Conference on Highly Flexible Slender Structures (HFSS 2025)](https://hfss.uniri.hr/ "HFSS 2025 focuses on highly flexible slender structures, covering computational mechanics, nonlinear dynamics, and structural analysis. Topics include applications in aerospace, marine engineering, and robotics, emphasizing numerical methods for modeling flexible structural behavior."), Kaiserslautern, Germany.
 
+2025-10-12 to 15: [Society of Engineering Science Annual Technical Meeting (SES 2025)](https://sites.gatech.edu/2025ses/), Atlanta, GA, USA.
+
 2025-11-22 to 24: [IUTAM Symposium on Frontiers of Physical Mechanics (2025)](https://iutam.org/events/iutam-symposium-on-frontiers-of-physical-mechanics "Focuses on advancements in physical mechanics. Topics include computational mechanics, material modeling, and applications in structural engineering and material science."), Nanjing, China.
+
+2025-12-17 to 19: [IndACM 10th International Congress on Computational Mechanics and Simulation (ICCMS 2025)](https://www.iccms2025.in/), Bhubaneswar, India.
 
 2026-04-14 to 18: [Seismological Society of America Annual Meeting (SSA 2026)](https://meetings.seismosoc.org/ "SSA 2026 focuses on seismology, covering seismic wave modeling, earthquake dynamics, and geophysical imaging. Topics include applications in hazard assessment, tectonic studies, and resource exploration, emphasizing computational and experimental methods for understanding seismic phenomena."), Pasadena, CA, USA.
 

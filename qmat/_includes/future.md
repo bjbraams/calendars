@@ -46,6 +46,8 @@
 
 2025-09-06 to 12: [BEC Conference on Quantum Gases and Related Fields (BEC 2025)](https://indico.phys.ethz.ch/event/143/ "BEC 2025 explores Bose-Einstein condensates and quantum gases, covering ultracold atoms, superfluidity, and quantum simulations. Topics include applications in quantum computing, topological phases, and many-body physics, emphasizing experimental and theoretical quantum gas research."), Sant Feliu de Guíxols, Spain.
 
+2025-09-07 to 12: [44th International Conference on Strongly Correlated Systems (CCDS 2025)](https://ccds.pwr.edu.pl/event/1/), Ustroń, Poland.
+
 2025-09-08 to 12: [ICTP Conference on Frontiers in Atomistic Simulations: From Physics to Chemistry and Biology (2025)](https://indico.ictp.it/event/10863 "This conference explores atomistic simulations, covering molecular dynamics, quantum mechanics, and multiscale modeling. Topics include applications in condensed matter, chemical reactions, and biological systems, emphasizing computational methods for atomistic-level physical and chemical processes."), Trieste, Italy.
 
 2025-09-14 to 18: [18th European Congress and Exhibition on Advanced Materials and Processes (2025)](https://euromat2025.com "This congress focuses on advanced materials, covering nanomaterials, composites, and functional materials. Topics include applications in energy, electronics, and biomedical engineering, emphasizing experimental and computational advances in material design, processing, and performance optimization."), Granada, Spain.
@@ -60,6 +62,8 @@
 
 2025-11-05 to 08: [Hands-on Workshop on Electronic-Structure Theory and Artificial Intelligence for Materials Science (2025)](https://indico.ms1p.org/event/12/ "This workshop explores electronic-structure theory and AI, covering density functional theory, machine learning potentials, and high-throughput screening. Topics include applications in materials discovery, energy storage, and nanotechnology, emphasizing hands-on computational methods for material design and analysis."), Shanghai, China.
 
+2025-11-24 to 28: [ESI Workshop on Quantum Many-Body Systems and Bose-Einstein Condensation, a Mathematical Physics Perspective (2025)](https://www.esi.ac.at/events/e575/), Vienna, Austria.
+
 2025-12-08 to 11: [CECAM Flagship Workshop on Recent Advances in First-Principles Modeling of Electron-Phonon Interactions (2025)](https://cecam.org/workshop-details/recent-advances-in-first-principles-modeling-of-electron-phonon-interactions-1383 "This workshop explores electron-phonon interactions, covering first-principles modeling, phonon scattering, and transport properties. Topics include applications in superconductors, thermoelectrics, and nanotechnology, emphasizing computational methods for understanding electron-phonon coupling in quantum materials."), Lausanne, Switzerland.
 
 2026-01-12 to 16: [IPAM Workshop New Frontiers in Quantum Algorithms for Open Quantum Systems (2026)](https://ipam.ucla.edu/programs/workshops/new-frontiers-in-quantum-algorithms-for-open-quantum-systems/ "This workshop explores quantum algorithms for open quantum systems, covering dissipative dynamics, quantum master equations, and quantum simulation. Topics include applications in condensed matter, quantum chemistry, and quantum computing, emphasizing computational methods for modeling open quantum systems."), Los Angeles, CA, USA.
@@ -67,6 +71,8 @@
 2026-06-08 to 12: [IMSI Workshop Mathematical Aspects of 2D Quantum Materials and Meta-Materials (2026)](https://imsi.institute/activities/mathematical-aspects-of-2d-quantum-materials-and-meta-materials/ "This workshop explores 2D quantum materials and metamaterials, covering topological phases, electronic properties, and photonics. Topics include graphene, transition metal dichalcogenides, and metamaterial design, emphasizing mathematical and computational methods for quantum material properties and applications."), Chicago, IL, USA.
 
 2026-07-26 to 08-01: [International Symposium on Quantum Fluids and Solids (QFS 2026)](https://people.umass.edu/qfs98/info1.htm "QFS 2026 explores quantum fluids and solids, covering superfluidity, Bose-Einstein condensates, and quantum phase transitions. Topics include applications in condensed matter and quantum technologies, emphasizing experimental and theoretical studies of quantum material behaviors."), South Bend, IN, USA.
+
+2026-08-11 to 18: [27th Congress and General Assembly of the International Union of Crystallography (IUCr 2026)](https://www.iucr.org/iucr/cong/2026-iucr-xxvii), Calgery, AB, Canada.
 
 2026 tbd: [Frontiers of Quantum and Mesoscopic Thermodynamics (FQMT 2026)](https://fqmt.fzu.cz/ "FQMT 2026 explores quantum and mesoscopic thermodynamics, covering quantum heat engines, non-equilibrium systems, and quantum transport. Topics include applications in nanotechnology and quantum computing, emphasizing theoretical and experimental studies of thermodynamic phenomena."), Prague, Czech Republic.
 
