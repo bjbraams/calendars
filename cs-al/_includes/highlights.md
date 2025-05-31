@@ -1,0 +1,16 @@
+**2025-06-23 to 27: [57th Annual ACM Symposium on Theory of Computing (STOC 2025)](https://acm-stoc.org/stoc2025/ "STOC 2025 focuses on theoretical computer science, covering algorithms, complexity, and cryptography. Topics include randomized algorithms, quantum computing, and computational learning theory, emphasizing foundational theoretical advancements with applications in computing and AI."), Prague, Czech Republic**.
+
+**2025-07-07 to 11: [International Conference on Permutation Patterns 2025](https://sites.cs.st-andrews.ac.uk/pp25/ "This conference explores permutation patterns, covering combinatorial algorithms, pattern avoidance, and permutation statistics. Topics include applications in computational biology, coding theory, and discrete mathematics, emphasizing theoretical and algorithmic advances in permutation-based combinatorics."), St Andrews, UK**.
+
+**2025-07-28 to 08-01: [37th ACM Symposium on Parallelism in Algorithms and Architectures (SPAA 2025)](https://spaa.acm.org "SPAA 2025 focuses on parallel algorithms and architectures, covering parallel graph algorithms, scheduling, and distributed computing. Topics include GPU computing, big data analytics, and applications in machine learning, emphasizing scalable parallel computational frameworks."), Portland, OR, USA**.
+
+**2025-07-30 to 08-01: [SIAM Conference on Applied and Computational Discrete Algorithms (ACDA 2025)](https://www.siam.org/conferences-events/siam-conferences/acda25/ "ACDA 2025 focuses on applied and computational discrete algorithms, covering graph algorithms, combinatorial optimization, and cryptography. Topics include network analysis, bioinformatics, and applications in data science, emphasizing practical and theoretical discrete algorithmic advancements."), Montreal QC, Canada**.
+
+**2025-12-14 to 17: [66th IEEE Symposium on Foundations of Computer Science (FOCS 2025)](https://focs.computer.org/2025/ "FOCS 2025 focuses on computer science foundations, covering algorithms, complexity theory, and cryptography. Topics include applications in graph theory, machine learning, and network security, emphasizing theoretical advancements in computational theory and algorithmic design."), Sydney, Australia**.
+
+**2026-01-11 to 12: [SIAM Symposium on Algorithm Engineering and Experiments (ALENEX 2026)](https://www.siam.org/conferences-events/siam-conferences/alenex26/ "Focuses on algorithm engineering, combining theoretical design with practical implementation. Topics include data structures, graph algorithms, and experimental evaluation for real-world applications."), Vancouver, BC, Canada**.
+
+**2026-01-11 to 14: [ACM-SIAM Symposium on Discrete Algorithms (SODA 2026)](https://www.siam.org/conferences-events/siam-conferences/soda26/ "Explores discrete algorithms and their applications. Topics include combinatorial optimization, graph theory, and computational complexity, with emphasis on theoretical advancements."), Vancouver, BC, Canada**.
+
+**2026-01-12 to 13: [SIAM Symposium on Simplicity in Algorithms (SOSA 2026)](https://www.siam.org/conferences-events/siam-conferences/sosa26/ "Focuses on simple and efficient algorithms for complex problems. Topics include approximation algorithms, randomized methods, and applications in data structures and optimization."), Vancouver, BC, Canada**.
+

@@ -1,0 +1,12 @@
+**2025-06-01 to 05: [IUTAM Symposium on Failure Dynamics and Resilience Under Extreme Events (2025)](https://iutam.org/events/iutam-symposium-on-failure-dynamics-and-resilience-under-extreme-events "Focuses on failure dynamics and resilience in materials under extreme conditions. Topics include fracture mechanics, computational modeling, and applications in structural engineering and disaster mitigation."), Granada, Spain**.
+
+**2025-06-22 to 26: [25th International Conference on the Computation of Electromagnetic Fields (COMPUMAG 2025)](https://www.compumag2025.com/ "COMPUMAG 2025 focuses on computational electromagnetics, covering numerical methods, electromagnetic wave propagation, and field simulations. Topics include magnetostatics, electromagnetic devices, and applications in energy and telecommunications, emphasizing advanced computational techniques for electromagnetic modeling."), Naples, Italy**.
+
+**2025-07-20 to 24: [18th U.S. National Congress on Computational Mechanics (USNCCM 2025)](https://usnccm18.usacm.org/), Chicago, IL, USA**.
+
+**2025-11-22 to 24: [IUTAM Symposium on Frontiers of Physical Mechanics (2025)](https://iutam.org/events/iutam-symposium-on-frontiers-of-physical-mechanics "Focuses on advancements in physical mechanics. Topics include computational mechanics, material modeling, and applications in structural engineering and material science."), Nanjing, China**.
+
+**2026-05-03 to 08: [European Geophysical Union General Assembly (EGU 2026)](https://www.egu.eu/meetings/calendar/egu/ "EGU 2026 focuses on geophysics, covering seismology, atmospheric science, and Earth system modeling. Topics include climate dynamics, geophysical imaging, and natural hazards, emphasizing computational and experimental methods for understanding Earth\'s physical processes and environmental challenges."), Vienna, Austria and online**.
+
+**2026-07-19 to 24: [17th World Congress on Computational Mechanics and 10th European Congress on Computational Methods in Applied Sciences and Engineering (WCCM-ECCOMAS 2026)](https://wccm-eccomas2026.org/ "WCCM-ECCOMAS 2026 explores computational mechanics, covering finite element methods, multiscale modeling, and structural dynamics. Topics include applications in aerospace, civil engineering, and biomechanics, emphasizing computational techniques for simulating complex mechanical systems."), Munich, Germany**.
+

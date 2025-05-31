@@ -36,7 +36,7 @@
 
 2025-06-29 to 07-12: [Probability and Analysis CIMPA Summer School Türkiye (2025)](https://sites.google.com/view/probability-appliedanalysis/home/ "This summer school explores probability and analysis, covering stochastic processes, functional analysis, and random structures. Topics include random walks, harmonic analysis, and applications in statistical physics, emphasizing theoretical foundations for probabilistic and analytical methods."), Istanbul, Turkey.
 
-2025-06-30 to 07-03: [22nd INFORMS Applied Probability Society Conference (INFORMS APS 2025)](https://informs-aps.isye.gatech.edu "INFORMS APS 2025 explores applied probability, covering stochastic processes, queueing theory, and risk analysis. Topics include stochastic optimization, applications in healthcare and logistics, emphasizing practical probabilistic models for real-world decision-making."), Atlanta, GA, USA.
+**2025-06-30 to 07-03: [22nd INFORMS Applied Probability Society Conference (INFORMS APS 2025)](https://informs-aps.isye.gatech.edu "INFORMS APS 2025 explores applied probability, covering stochastic processes, queueing theory, and risk analysis. Topics include stochastic optimization, applications in healthcare and logistics, emphasizing practical probabilistic models for real-world decision-making."), Atlanta, GA, USA**.
 
 2025-06-30 to 07-04: [Journées De Probabilités 2025](https://www.i2m.univ-amu.fr/en/journee-de-proba-2025/ "This conference explores probability, covering stochastic processes, random graphs, and martingales. Topics include applications in statistical physics, finance, and biology, emphasizing theoretical advancements and practical applications in probabilistic modeling and analysis."), Marseille, France.
 

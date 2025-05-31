@@ -1,0 +1,2 @@
+**2025-06-30 to 07-03: [22nd INFORMS Applied Probability Society Conference (INFORMS APS 2025)](https://informs-aps.isye.gatech.edu "INFORMS APS 2025 explores applied probability, covering stochastic processes, queueing theory, and risk analysis. Topics include stochastic optimization, applications in healthcare and logistics, emphasizing practical probabilistic models for real-world decision-making."), Atlanta, GA, USA**.
+

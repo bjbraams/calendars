@@ -1,0 +1,2 @@
+**2025-08-16 to 22: [34th International Joint Conference on Artificial Intelligence (IJCAI 2025)](https://2025.ijcai.org "IJCAI 2025 explores artificial intelligence, covering machine learning, knowledge representation, and robotics. Topics include deep learning, natural language processing, and AI ethics, with applications in healthcare, finance, and autonomous systems, emphasizing theoretical and applied AI advancements."), Montreal, QC, Canada**.
+

@@ -1,4 +1,4 @@
-2025-06-01 to 05: [IUTAM Symposium on Failure Dynamics and Resilience Under Extreme Events (2025)](https://iutam.org/events/iutam-symposium-on-failure-dynamics-and-resilience-under-extreme-events "Focuses on failure dynamics and resilience in materials under extreme conditions. Topics include fracture mechanics, computational modeling, and applications in structural engineering and disaster mitigation."), Granada, Spain.
+**2025-06-01 to 05: [IUTAM Symposium on Failure Dynamics and Resilience Under Extreme Events (2025)](https://iutam.org/events/iutam-symposium-on-failure-dynamics-and-resilience-under-extreme-events "Focuses on failure dynamics and resilience in materials under extreme conditions. Topics include fracture mechanics, computational modeling, and applications in structural engineering and disaster mitigation."), Granada, Spain**.
 
 2025-06-04 to 06: [8th International Conference on Computational Modeling of Fracture and Failure of Materials and Structures (CFRAC 2025)](https://www.cfrac2025.pt/ "CFRAC 2025 focuses on computational modeling of material fracture and failure, covering finite element methods and damage mechanics. Topics include crack propagation, composite failure, and applications in aerospace and civil engineering, emphasizing numerical simulation techniques."), Porto, Portugal.
 
@@ -6,7 +6,7 @@
 
 2025-06-22: [IEEE Magnetics Italy International PhD School on Computational Electromagnetism (ComEl 2025)](https://www.comel2025phdschool.com/ "ComEl 2025 focuses on computational electromagnetism, covering finite element methods, boundary element techniques, and electromagnetic modeling. Topics include antenna design, electromagnetic compatibility, and applications in electrical engineering, emphasizing computational tools for electromagnetic simulations."), Naples, Italy.
 
-2025-06-22 to 26: [25th International Conference on the Computation of Electromagnetic Fields (COMPUMAG 2025)](https://www.compumag2025.com/ "COMPUMAG 2025 focuses on computational electromagnetics, covering numerical methods, electromagnetic wave propagation, and field simulations. Topics include magnetostatics, electromagnetic devices, and applications in energy and telecommunications, emphasizing advanced computational techniques for electromagnetic modeling."), Naples, Italy.
+**2025-06-22 to 26: [25th International Conference on the Computation of Electromagnetic Fields (COMPUMAG 2025)](https://www.compumag2025.com/ "COMPUMAG 2025 focuses on computational electromagnetics, covering numerical methods, electromagnetic wave propagation, and field simulations. Topics include magnetostatics, electromagnetic devices, and applications in energy and telecommunications, emphasizing advanced computational techniques for electromagnetic modeling."), Naples, Italy**.
 
 2025-06-25 to 27: [7th International Conference ECCOMAS MSF on Multiscale Computational Methods for Solids and Fluids (MSF 2025)](https://ceacm.net/msf-2025/ "MSF 2025 focuses on multiscale computational methods, covering finite element methods, homogenization, and coupled simulations. Topics include material failure, fluid-structure interactions, and applications in engineering and biomechanics, emphasizing computational multiscale modeling techniques."), Split, Croatia.
 
@@ -18,7 +18,7 @@
 
 2025-07-13 to 18: [12th ECCOMAS Thematic Conference on Multibody Dynamics (MULTIBODY 2025)](https://www.uibk.ac.at/en/congress/multibody2025/ "MULTIBODY 2025 focuses on multibody dynamics, covering computational methods, rigid and flexible body systems, and dynamics simulations. Topics include vehicle dynamics, robotics, and biomechanics, emphasizing numerical techniques for modeling complex multibody mechanical systems."), Innsbruck, Austria.
 
-2025-07-20 to 24: [18th U.S. National Congress on Computational Mechanics (USNCCM 2025)](https://usnccm18.usacm.org/), Chicago, IL, USA.
+**2025-07-20 to 24: [18th U.S. National Congress on Computational Mechanics (USNCCM 2025)](https://usnccm18.usacm.org/), Chicago, IL, USA**.
 
 2025-08-20 to 22: [ECCOMAS Thematic Conference on Modern Finite Element Technologies (MFET 2025)](https://mfet2025.de/ "MFET 2025 focuses on finite element technologies, covering adaptive meshing, high-order methods, and multiphysics simulations. Topics include applications in structural mechanics, fluid dynamics, and electromagnetics, emphasizing advanced numerical methods for engineering and scientific computations."), Aachen, Germany.
 
@@ -40,17 +40,17 @@
 
 2025-10-12 to 15: [Society of Engineering Science Annual Technical Meeting (SES 2025)](https://sites.gatech.edu/2025ses/), Atlanta, GA, USA.
 
-2025-11-22 to 24: [IUTAM Symposium on Frontiers of Physical Mechanics (2025)](https://iutam.org/events/iutam-symposium-on-frontiers-of-physical-mechanics "Focuses on advancements in physical mechanics. Topics include computational mechanics, material modeling, and applications in structural engineering and material science."), Nanjing, China.
+**2025-11-22 to 24: [IUTAM Symposium on Frontiers of Physical Mechanics (2025)](https://iutam.org/events/iutam-symposium-on-frontiers-of-physical-mechanics "Focuses on advancements in physical mechanics. Topics include computational mechanics, material modeling, and applications in structural engineering and material science."), Nanjing, China**.
 
 2025-12-17 to 19: [IndACM 10th International Congress on Computational Mechanics and Simulation (ICCMS 2025)](https://www.iccms2025.in/), Bhubaneswar, India.
 
 2026-04-14 to 18: [Seismological Society of America Annual Meeting (SSA 2026)](https://meetings.seismosoc.org/ "SSA 2026 focuses on seismology, covering seismic wave modeling, earthquake dynamics, and geophysical imaging. Topics include applications in hazard assessment, tectonic studies, and resource exploration, emphasizing computational and experimental methods for understanding seismic phenomena."), Pasadena, CA, USA.
 
-2026-05-03 to 08: [European Geophysical Union General Assembly (EGU 2026)](https://www.egu.eu/meetings/calendar/egu/ "EGU 2026 focuses on geophysics, covering seismology, atmospheric science, and Earth system modeling. Topics include climate dynamics, geophysical imaging, and natural hazards, emphasizing computational and experimental methods for understanding Earth\'s physical processes and environmental challenges."), Vienna, Austria and online.
+**2026-05-03 to 08: [European Geophysical Union General Assembly (EGU 2026)](https://www.egu.eu/meetings/calendar/egu/ "EGU 2026 focuses on geophysics, covering seismology, atmospheric science, and Earth system modeling. Topics include climate dynamics, geophysical imaging, and natural hazards, emphasizing computational and experimental methods for understanding Earth\'s physical processes and environmental challenges."), Vienna, Austria and online**.
 
 2026-06-22 to 26: [18th European Conference Physics of Magnetism (PM 2026)](https://www.ifmpan.poznan.pl/pm26/ "PM 2026 explores magnetism, covering spintronics, magnetic materials, and nanomagnetism. Topics include applications in data storage, sensors, and quantum technologies, emphasizing computational and experimental methods for studying magnetic properties and phenomena."), Poznań, Poland.
 
-2026-07-19 to 24: [17th World Congress on Computational Mechanics and 10th European Congress on Computational Methods in Applied Sciences and Engineering (WCCM-ECCOMAS 2026)](https://wccm-eccomas2026.org/ "WCCM-ECCOMAS 2026 explores computational mechanics, covering finite element methods, multiscale modeling, and structural dynamics. Topics include applications in aerospace, civil engineering, and biomechanics, emphasizing computational techniques for simulating complex mechanical systems."), Munich, Germany.
+**2026-07-19 to 24: [17th World Congress on Computational Mechanics and 10th European Congress on Computational Methods in Applied Sciences and Engineering (WCCM-ECCOMAS 2026)](https://wccm-eccomas2026.org/ "WCCM-ECCOMAS 2026 explores computational mechanics, covering finite element methods, multiscale modeling, and structural dynamics. Topics include applications in aerospace, civil engineering, and biomechanics, emphasizing computational techniques for simulating complex mechanical systems."), Munich, Germany**.
 
 2027-04-04 to 09: [European Geophysical Union General Assembly (EGU 2027)](https://www.egu.eu/meetings/calendar/egu/ "EGU 2027 focuses on geophysics, covering seismology, climate dynamics, and planetary science. Topics include geophysical modeling, natural hazard assessment, and Earth observation, emphasizing computational and experimental methods for studying Earth\'s systems and processes."), Vienna, Austria and online.
 

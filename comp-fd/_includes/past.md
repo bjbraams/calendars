@@ -18,7 +18,7 @@
 
 2025-05-11 to 16: [Oberwolfach Workshop on Mathematical Advances in Geophysical Fluid Dynamics (2025)](https://www.mfo.de/occasion/2520/www_view "This workshop explores geophysical fluid dynamics, focusing on mathematical models for oceanic and atmospheric flows. Topics include turbulence, wave dynamics, and numerical methods for fluid simulations, with applications in climate prediction and weather forecasting, emphasizing computational advancements."), Oberwolfach, Germany.
 
-2025-05-15 to 17: [IUTAM Symposium on Machine Learning in Diverse Fluid Mechanics (2025)](https://iutam.org/events/iutam-symposium-on-machine-learning-in-diverse-fluid-mechanics "Integrates machine learning with fluid mechanics, focusing on data-driven modeling. Topics include turbulence prediction, flow optimization, and applications in aerodynamics and environmental flows."), Okinawa, Japan.
+**2025-05-15 to 17: [IUTAM Symposium on Machine Learning in Diverse Fluid Mechanics (2025)](https://iutam.org/events/iutam-symposium-on-machine-learning-in-diverse-fluid-mechanics "Integrates machine learning with fluid mechanics, focusing on data-driven modeling. Topics include turbulence prediction, flow optimization, and applications in aerodynamics and environmental flows."), Okinawa, Japan**.
 
 2025-05-22 to 23: [2nd International Workshop on Advance in Nonlinear Dynamical Systems, Complex Networks and Applications (DySyX 2025)](https://dysyx2025.sciencesconf.org/ "Explores nonlinear dynamical systems and complex networks. Topics include chaos theory, network dynamics, and applications in physics, biology, and engineering."), Kenitra, Morocco.
 
