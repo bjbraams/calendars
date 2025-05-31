@@ -8,6 +8,8 @@
 
 2025-04-14 to 17: [IEEE International Symposium on Biomedical Imaging (ISBI 2025)](https://biomedicalimaging.org/2025/ "ISBI 2025 explores biomedical imaging, focusing on computational techniques for image analysis and reconstruction. Topics include deep learning, image segmentation, and multimodal imaging, with applications in MRI, CT, and microscopy, emphasizing advancements in medical diagnostics and research."), Houston, TX, USA.
 
+2025-04-19 to 21: [13th International Conference on Computational Visual Media (CVM 2025)](http://iccvm.org/2025/), Hong Kong, China.
+
 2025-05-05 to 07: [Control Theory & Inverse Problems (CTIP 2025)](https://ctip25.sciencesconf.org/?lang=en "Focuses on control theory and inverse problems, exploring mathematical modeling and computational techniques. Topics include optimal control, parameter estimation, and applications in imaging and engineering."), Monastir, Tunesia.
 
 2025-05-14 to 16: [7th Conference of the ALAMA Network of Linear Algebra, Matrix Analysis and Applications (ALAMA 2025)](https://congresosalcala.fgua.es/jornadasalama/?idioma=en "Explores linear algebra and matrix analysis, focusing on computational methods and applications. Topics include eigenvalue problems, matrix factorizations, and applications in data science and engineering."), Castro Urdiales, Cantabria, Spain.

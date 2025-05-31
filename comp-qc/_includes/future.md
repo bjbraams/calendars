@@ -56,6 +56,8 @@
 
 2025-09-01 to 05: [Workshop on Quantum Computing and Quantum Information (2025)](https://users.utu.fi/mikhirve/workshop2025/ "This workshop explores quantum computing and information, covering quantum algorithms, quantum error correction, and entanglement theory. Topics include applications in cryptography, simulation, and optimization, emphasizing theoretical and practical advancements in quantum information processing and computation."), Nice, France.
 
+2025-09-08 to 11: [KITP Conference Quantum Many-Body Physics Through the Lens of Quantum Error Correction](https://www.kitp.ucsb.edu/activities/stablephases-c25), Santa Barbara, CA, USA.
+
 2025-09-08 to 19: [CERN Theory Institute on Quantum Simulation and Computation in High-Energy Physics (2025)](https://indico.cern.ch/event/1488240/ "This institute focuses on quantum simulation in high-energy physics, covering quantum algorithms, lattice gauge theories, and quantum hardware. Topics include applications in particle physics, cosmology, and quantum field theory, emphasizing quantum computational methods for fundamental physics."), Geneva, Switzerland.
 
 **2025-09-15 to 19: [20th Theory of Quantum Computation, Communication and Cryptography Conference (TQC 2025)](https://tqc-conference.org "TQC 2025 explores quantum computation and cryptography, covering quantum algorithms, quantum communication, and secure protocols. Topics include quantum error correction, quantum networks, and applications in cybersecurity, emphasizing theoretical advancements in quantum information science."), Bangalore, India**.
@@ -67,6 +69,8 @@
 2025-10-08 to 10: [1st Conference on Applied Quantum Methods in Computational Science and Engineering (AQMCSE 2025)](https://aqmcse.com/ "AQMCSE 2025 focuses on applied quantum methods, covering quantum algorithms, hybrid quantum-classical computing, and quantum simulations. Topics include applications in computational science, materials engineering, and optimization, emphasizing practical quantum computational techniques for engineering and scientific problems."), Aachen, Germany.
 
 2025-10-15 to 17: [Quantum Network Workshop (QuNeW 2025)](https://qutech.nl/event/qunew/ "QuNeW 2025 focuses on quantum networks, covering quantum communication, entanglement distribution, and quantum repeaters. Topics include applications in secure communication and distributed quantum computing, emphasizing experimental and theoretical advancements in quantum networking technologies."), The Hague, Netherlands.
+
+2025-10-27 to 30: [KITP Conference Frontiers of Programmable Quantum Dynamics Advances and Applications (2025)](https://www.kitp.ucsb.edu/activities/finestructure-c25), Santa Barbara, CA, USA.
 
 2025-11-10 to 12: [European Quantum Technologies Conference (EQTC 2025)](https://eqtc.eu "EQTC 2025 focuses on quantum technologies, covering quantum computing, sensing, and communication. Topics include quantum algorithms, quantum cryptography, and quantum hardware development, emphasizing experimental and theoretical advancements for practical quantum technology applications."), Copenhagen, Denmark.
 

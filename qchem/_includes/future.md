@@ -30,6 +30,8 @@
 
 2025-07-20 to 25: [16th International Conference on Electronic Spectroscopy and Structure (ICESS 2025)](https://icess-16.lbl.gov "ICESS 2025 focuses on electronic spectroscopy and structure, covering X-ray spectroscopy, photoelectron spectroscopy, and electronic properties. Topics include materials characterization, surface science, and applications in catalysis and nanotechnology, emphasizing experimental and computational spectroscopy techniques."), Berkeley, CA, USA.
 
+2025-07-27 to 08-01: [Gordon Research Conference Photochemistry 2025](https://www.grc.org/photochemistry-conference/2025/), Lewiston, ME, USA.
+
 2025-08-03 to 08: [Gordon Research Conference Atmospheric Chemistry: Understanding the Atmosphere via Molecular Processes and Global Impacts (2025)](https://grc.org/atmospheric-chemistry-conference/2025/ "This conference focuses on atmospheric chemistry, covering molecular reactions, aerosol dynamics, and climate impacts. Topics include photochemical processes, air quality modeling, and applications in environmental science, emphasizing experimental and computational atmospheric chemical research."), Newry, ME, USA.
 
 2025-09-01 to 05: [Lennard-Jones Centre-Cecam Meeting: From Electrons to Atoms to Molecules and Materials (2025)](https://ljc.group.cam.ac.uk/dft-2025 "This meeting explores computational chemistry, covering density functional theory, molecular dynamics, and electronic structure. Topics include applications in catalysis, materials design, and biophysics, emphasizing computational methods for modeling chemical systems from electrons to macroscopic materials."), Cambridge, UK.
@@ -63,6 +65,8 @@
 2025 Summer tbd: [Workshop on Recent Developments in Electronic Structure Methods (ES 2025)](https://mcc.illinois.edu/workshops/electronicstructure/ "ES 2025 focuses on electronic structure methods, covering density functional theory, coupled-cluster methods, and quantum Monte Carlo. Topics include applications in materials science, chemical physics, and nanotechnology, emphasizing computational advances in electronic structure calculations."), El Paso, TX, USA.
 
 2026-06-22 to 26: [Quantum Reactive Scattering Workshop (QRS 2026)]("Covers quantum reactive scattering in chemical systems. Topics include quantum dynamics, scattering theory, and computational methods for molecular reactions and chemical kinetics."), Gdańsk, Poland. Announced on MDNews list.
+
+2026-07-12 to 17: [30th IUPAC Symposium on Photochemistry (PhotoIUPAC 2026)](https://www.linkedin.com/posts/photoiupac-iupac-symposium-on-photochemistry-9643a7302_presentation-of-the-30th-photoiupac-symposium-activity-7220066280253333508-04x6/), Zagreb, Croatia. Preliminary link, announcement only.
 
 2026 tbd: [12th Workshop on Novel Methods for Electronic Structure Calculations (2026)]("This workshop explores electronic structure calculations, covering density functional theory, quantum Monte Carlo, and coupled-cluster methods. Topics include applications in materials science, chemical physics, and nanotechnology, emphasizing computational advances in electronic structure modeling."), Argentina.
 

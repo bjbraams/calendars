@@ -1,6 +1,10 @@
+2025-01-02 to 05: [Inter-American Photochemical Society Annual Meeting (I-Aps 2025)](https://i-aps.org/meeting-registration/), Miramar Beach, FL, USA.
+
 2025-02-16 to 22: [ITAMP Winter School on Quantum Revolution in AMO Sciences (2025)](https://lweb.cfa.harvard.edu/itamp-event/2025-winter-school-quantum-revolution-amo-sciences "This winter school explores quantum advancements in atomic, molecular, and optical (AMO) sciences. Topics include quantum control, ultracold molecules, and quantum sensing. It covers applications in quantum chemistry, precision measurement, and quantum information, emphasizing experimental and theoretical breakthroughs in AMO physics."), Biosphere 2, Oracle, AZ, USA.
 
 2025-02-23 to 28: [64th Sanibel Symposium on Quantum Chemical Theory (2025)](https://sanibelsymposium.qtp.ufl.edu "The Sanibel Symposium focuses on quantum chemical theory, covering electronic structure methods, molecular dynamics, and quantum Monte Carlo. Topics include density functional theory, coupled-cluster methods, and applications in molecular spectroscopy and materials design, emphasizing computational advancements in quantum chemistry."), St. Augustine Beach, FL, USA.
+
+2025-02-27 to 28: [​Texas Computational Chemistry Symposium 2025](https://texascomputationalchemistrysymposium.weebly.com/), Denton, TX, USA.
 
 2025-03-09 to 14: [Oberwolfach Workshop on Mathematical Methods in Quantum Chemistry (2025)](https://mfo.de/occasion/2511/www_view "This workshop focuses on mathematical methods in quantum chemistry, covering electronic structure theory, wavefunction methods, and quantum Monte Carlo. Topics include coupled-cluster theory, density functional approximations, and applications in molecular reactivity and spectroscopy, emphasizing rigorous computational approaches."), Oberwolfach, Germany.
 

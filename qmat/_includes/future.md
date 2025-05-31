@@ -1,5 +1,9 @@
 2025-06-02 to 05: [CECAM Flagship Workshop on Virtual Materials Design: AI, Simulation, and Workflows (2025)](https://cecam.org/workshop-details/virtual-materials-design-ai-simulation-and-workflows-1398 "This workshop focuses on virtual materials design, covering AI-driven simulations, molecular dynamics, and automated workflows. Topics include machine learning for material properties, high-throughput screening, and applications in energy materials, emphasizing integrated computational design strategies."), Eggenstein-Leopoldshafen, Germany.
 
+2025-06-11 to 18: [13th Crete International Symposium on Ultrafast Dynamics and Ultrafast Bandgap Photonics (2025)](https://udm-ubp2025.eventsadmin.com/), Hersonissos, Crete, Greece.
+
+2025-06-11 to 18: [Crete Summer School on Dynamics of Nonequilibrium (2025)](https://udm-ubp2025.eventsadmin.com/i/SUMMERSCHOOL), Hersonissos, Crete, Greece.
+
 2025-06-16 to 27: [Los Alamos Computational Condensed Matter Summer School 2025](https://laccmss.github.io/2025/ "This summer school focuses on computational condensed matter physics, covering density functional theory, Monte Carlo methods, and molecular dynamics. Topics include quantum materials, superconductivity, and applications in energy, emphasizing computational techniques for material simulations."), Los Alamos, NM, USA.
 
 2025-06-23 to 26: [15th Symposium SiO2, Advanced Dielectrics and Related Devices (SiO2 2025)](https://sio2-2025.sciencesconf.org/ "SiO2 2025 focuses on advanced dielectrics, covering silicon dioxide, high-k materials, and thin-film technologies. Topics include dielectric properties, interface engineering, and applications in microelectronics and photonics, emphasizing material advancements for next-generation devices."), Saint-Étienne, France.
@@ -32,6 +36,8 @@
 
 2025-08-04 to 08: [SUNCAT Summer Institute 2025](https://suncat.stanford.edu/events/suncat-summer-institute-2025 "Focuses on catalysis and quantum materials for sustainable energy. Topics include computational modeling of catalytic processes, surface chemistry, and electronic structure calculations, with applications in renewable energy and chemical conversion."), Palo Alto, CA, USA.
 
+2025-08-11 to 15: [MPI-PKS International Workshop on New Frontiers in Out-of-Equilibrium Quantum Many-Body Dynamics (2025)](https://www.pks.mpg.de/qudyn25), Dresden, Germany.
+
 2025-08-11 to 15: [New Frontiers in Out-of-Equilibrium Quantum Many-Body Dynamics (2025)](https://pks.mpg.de/qudyn25 "This conference explores out-of-equilibrium quantum many-body dynamics, covering quantum thermalization, driven systems, and entanglement dynamics. Topics include applications in condensed matter and quantum simulation, emphasizing theoretical and experimental studies of non-equilibrium quantum systems."), Dresden, Germany.
 
 2025-08-25 to 28: [7th General Psi-K Conference (PsiK 2025)](https://psik2025.net "PsiK 2025 focuses on computational materials science, covering density functional theory, electronic structure, and quantum simulations. Topics include topological materials, magnetism, and applications in energy and nanotechnology, emphasizing advanced computational methods for material properties."), Lausanne, Switzerland.
@@ -48,11 +54,15 @@
 
 2025-09-07 to 12: [44th International Conference on Strongly Correlated Systems (CCDS 2025)](https://ccds.pwr.edu.pl/event/1/), Ustroń, Poland.
 
+2025-09-08 to 12: [CRC1242 Summer School Non-Equilibrium Dynamics of Condensed Matter in the Time Domain (2025)](https://www.uni-due.de/sfb1242/summerschool2025.php), Burbach, Germany.
+
 2025-09-08 to 12: [ICTP Conference on Frontiers in Atomistic Simulations: From Physics to Chemistry and Biology (2025)](https://indico.ictp.it/event/10863 "This conference explores atomistic simulations, covering molecular dynamics, quantum mechanics, and multiscale modeling. Topics include applications in condensed matter, chemical reactions, and biological systems, emphasizing computational methods for atomistic-level physical and chemical processes."), Trieste, Italy.
 
 2025-09-14 to 18: [18th European Congress and Exhibition on Advanced Materials and Processes (2025)](https://euromat2025.com "This congress focuses on advanced materials, covering nanomaterials, composites, and functional materials. Topics include applications in energy, electronics, and biomedical engineering, emphasizing experimental and computational advances in material design, processing, and performance optimization."), Granada, Spain.
 
 2025-09-15 to 19: [International Workshop on First-Principles and Artificial-Intelligence Methods for Materials (2025)](https://nomad.fhi.mpg.de/nomad_international_ws_juist_2025 "This workshop explores first-principles and AI methods for materials, covering density functional theory, machine learning potentials, and high-throughput screening. Topics include applications in energy materials and nanotechnology, emphasizing computational and AI-driven material discovery."), Juist Island (North Sea), Germany.
+
+2025-09-15 to 19: [VCQ & quantA Summer School 2025 on Many Body Quantum Physics](https://vcq-quantum.at/vcq-quanta-summer-school-2025/), Vienna, Austria.
 
 2025-09-22 to 26: [Jülich Autumn School on Correlated Electrons: Understanding Correlated Materials With DMFT (2025)](https://www.cond-mat.de/events/correl25/ "This school focuses on correlated materials, covering dynamical mean-field theory, strongly correlated systems, and quantum Monte Carlo. Topics include applications in superconductivity, magnetism, and topological materials, emphasizing computational methods for understanding electron correlations."), Jülich, Germany.
 
@@ -67,6 +77,8 @@
 2025-12-08 to 11: [CECAM Flagship Workshop on Recent Advances in First-Principles Modeling of Electron-Phonon Interactions (2025)](https://cecam.org/workshop-details/recent-advances-in-first-principles-modeling-of-electron-phonon-interactions-1383 "This workshop explores electron-phonon interactions, covering first-principles modeling, phonon scattering, and transport properties. Topics include applications in superconductors, thermoelectrics, and nanotechnology, emphasizing computational methods for understanding electron-phonon coupling in quantum materials."), Lausanne, Switzerland.
 
 2026-01-12 to 16: [IPAM Workshop New Frontiers in Quantum Algorithms for Open Quantum Systems (2026)](https://ipam.ucla.edu/programs/workshops/new-frontiers-in-quantum-algorithms-for-open-quantum-systems/ "This workshop explores quantum algorithms for open quantum systems, covering dissipative dynamics, quantum master equations, and quantum simulation. Topics include applications in condensed matter, quantum chemistry, and quantum computing, emphasizing computational methods for modeling open quantum systems."), Los Angeles, CA, USA.
+
+2026-03-29 to 04-03: [Ettore Majorana Workshop and School on Fluctuations in Light-Matter Interaction, Quantum and Thermal Emerging Regimes (2026)](https://nesmcq.sciencesconf.org/), Erice, Sicily, Italy.
 
 2026-06-08 to 12: [IMSI Workshop Mathematical Aspects of 2D Quantum Materials and Meta-Materials (2026)](https://imsi.institute/activities/mathematical-aspects-of-2d-quantum-materials-and-meta-materials/ "This workshop explores 2D quantum materials and metamaterials, covering topological phases, electronic properties, and photonics. Topics include graphene, transition metal dichalcogenides, and metamaterial design, emphasizing mathematical and computational methods for quantum material properties and applications."), Chicago, IL, USA.
 
