@@ -75,21 +75,21 @@ KITP Conference Quantum Many-body Physics through the Lens of Quantum Error Corr
   link: https://www.kitp.ucsb.edu/activities/stablephases-c25
   loc: Santa Barbara, CA, USA
   kw: comp-qc
-name:
-  dd: 
-  link: 
-  loc: 
-  kw: 
-name:
-  dd: 
-  link: 
-  loc: 
-  kw: 
-name:
-  dd: 
-  link: 
-  loc: 
-  kw: 
+ASME Conference Verification, Validation, and Uncertainty Quantification (2025):
+  dd: 2025-04-09 to 10
+  link: https://event.asme.org/VandV
+  loc: College Station, TX, USA
+  kw: comp-uq
+Inter-American Photochemical Society Annual Meeting (I-APS 2025):
+  dd: 2025-01-02 to 05
+  link: https://i-aps.org/meeting-registration/
+  loc: Miramar Beach, FL, USA
+  kw: qchem
+Ettore Majorana Workshop and School on Fluctuations in Light-Matter Interaction, Quantum and Thermal Emerging Regimes (2026):
+  dd: 2026-03-29 to 04-03
+  link: https://nesmcq.sciencesconf.org/
+  loc: Erice, Sicily, Italy
+  kw: qmat
 name:
   dd: 
   link: 
