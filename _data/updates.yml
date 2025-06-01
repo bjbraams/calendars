@@ -251,9 +251,9 @@ Workshop on Stochastic Equations and Stochastic Dynamics:
   excerpt: This workshop delves into stochastic equations and dynamics, covering stochastic differential equations, Markov processes, and random dynamical systems. Topics include stochastic stability, ergodicity, and applications in statistical physics, finance, and genetics. It emphasizes mathematical rigor and interdisciplinary connections in modeling random phenomena.
   arxiv: math.PR, math.DS
 
-Workshop for Applied Nuclear Data Activities (2025):
+Workshop for Applied Nuclear Data Activities (WANDA 2025):
   dd: 2025-02-10 to 13
-  wbarchive: https://web.archive.org/web/20250306190729/https://conferences.lnb.gov/conferences/event/1234/
+  link: https://conferences.lbl.gov/event/1816/
   loc: Arlington, VA, USA
   excerpt: WANDA 2025 focuses on applied nuclear data, addressing nuclear cross-sections, decay data, and reaction models. Topics include nuclear data evaluation, uncertainty quantification, and applications in reactor design, medical isotopes, and nuclear security. It fosters collaboration between experimentalists, theorists, and data evaluators.
   arxiv: nucl-th, physics.data-an
