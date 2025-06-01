@@ -72,5 +72,7 @@
 
 2026 tbd: [31st Canadian Symposium on Theoretical and Computational Chemistry (CSTCC 2026)]("CSTCC 2026 explores theoretical and computational chemistry, covering quantum chemistry, molecular dynamics, and spectroscopy. Topics include applications in catalysis, biophysics, and materials science, emphasizing computational methods for modeling chemical systems and interactions."), Ottawa, Canada.
 
+2027-07-16 to 23: [IUPAC 51st World Chemistry Congress and 54th General Assembly (IUPAC 2027)](https://iupac.org/wp-content/uploads/2021/08/51st-Council-Agenda-Book_August-2021_CANADA2027-compressed.pdf), Montreal, QC, Canada. Preliminary link, flyer.
+
 2027 tbd: [12th Triennial Congress of the International Society of Theoretical Chemical Physics (ISTCP 2027)]("ISTCP 2027 explores theoretical chemical physics, covering quantum chemistry, molecular dynamics, and statistical mechanics. Topics include applications in catalysis, biophysics, and materials science, emphasizing computational and theoretical methods for chemical and physical phenomena."), tbd.
 

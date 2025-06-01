@@ -4,6 +4,8 @@
 
 2025-06-05 to 06: [CHIMERAS (Collisionless HIgh-beta Magnetized Experiment Researching Astrophysical Systems) Workshop 2025](https://home.physics.ucla.edu/~sethd/chimeras25wvu/ "CHIMERAS 2025 focuses on collisionless high-beta plasmas, covering magnetic reconnection, turbulence, and astrophysical plasma dynamics. Topics include experimental diagnostics, computational modeling, and applications in solar and astrophysical systems, emphasizing collisionless plasma phenomena."), Morgantown, WV, USA.
 
+2025-06-09 to 13: [4th (Korea) International Fusion and Plasma Conference (iFPC 2025)](https://i-fpc.org/2025/), Daejeon, Korea.
+
 2025-06-09 to 13: [6th Summer School of Plasma Diagnostics (PhDiaFusion 2025)](https://phdia2025.ifj.edu.pl/ "PhDiaFusion 2025 focuses on plasma diagnostics, covering spectroscopy, interferometry, and particle diagnostics. Topics include fusion plasma measurements, diagnostic calibration, and applications in magnetic confinement, emphasizing practical training in plasma diagnostic techniques."), Castle near Kraków, Poland.
 
 2025-06-16 to 19: [UKAEA Fusion Industry School York Course 2025](https://fusion-cdt.ac.uk/fusion-industry-school/ "This course focuses on fusion energy, covering plasma physics, magnetic confinement, and fusion reactor technologies. Topics include tokamak operations, plasma diagnostics, and materials for fusion, emphasizing practical training for industry applications in sustainable energy."), Heslington, York, UK.
@@ -21,8 +23,6 @@
 2025-07-13 to 19: [Summer School on Plasma Physics, Intense Lasers and Nuclear Fusion (PlasmaSurf 2025)](https://plasmasurf.tecnico.ulisboa.pt/ "PlasmaSurf 2025 focuses on plasma physics, covering laser-plasma interactions, magnetic confinement, and fusion energy. Topics include plasma diagnostics, inertial fusion, and applications in sustainable energy, emphasizing hands-on training in experimental and computational plasma science."), Lisbon, Portugal.
 
 2025-07-14 to 24: [Culham Plasma Physics Summer School 2025](https://culhamsummerschool.org.uk/ "This summer school focuses on plasma physics, covering magnetic confinement, plasma instabilities, and fusion energy. Topics include tokamak physics, plasma diagnostics, and applications in sustainable energy, emphasizing foundational training in experimental and theoretical plasma science."), Culham Campus, Oxon, UK.
-
-2025-08-04 to 08: [6th International Conference on Data-Driven Plasma Science (ICDDPS 2025)](https://web.cvent.com/event/7de9d238-e170-4fbf-8de5-20abc5c6eb49/ "ICDDPS 2025 focuses on data-driven plasma science, covering machine learning for plasma diagnostics, predictive modeling, and fusion simulations. Topics include plasma turbulence, applications in fusion energy, emphasizing AI-driven computational plasma physics advancements."), Santa Fe, NM, USA.
 
 2025-08-18 to 23: [6th Computational Physics School for Fusion Research (CPS-FR 2025)](https://sites.google.com/psfc.mit.edu/cps-fr2025 "CPS-FR 2025 focuses on computational plasma physics, covering magnetohydrodynamics, kinetic simulations, and fusion modeling. Topics include tokamak simulations, plasma turbulence, and applications in fusion energy, emphasizing computational techniques for advancing fusion research and reactor design."), Cambridge, MA, USA.
 

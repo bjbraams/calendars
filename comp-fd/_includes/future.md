@@ -30,6 +30,8 @@
 
 2025-08-26 to 28: [EuroMech Colloquium 653 on Mechanics of Interfaces (2025)](http://653.euromech.org/ "Focuses on mechanics at material interfaces. Topics include interfacial dynamics, computational modeling, and applications in solid mechanics and fluid-structure interactions."), Metz, France.
 
+2025-08-26 to 29: [EUROMECH 2nd European Fluid Dynamics Conference (EFDC 2025)](https://euromech.org/conferences/folder-efdc/EFDC2), Dublin, Ireland.
+
 2025-09-15 to 17: [EuroMech Colloquium 658 on Coherent Structures and Instabilities in Transitional and Turbulent Wall-Bounded Flows (2025)](http://658.euromech.org/ "Focuses on coherent structures in wall-bounded turbulent flows. Topics include instability analysis, computational fluid dynamics, and applications in aerodynamics and engineering."), Bari, Italy.
 
 2025-09-24 to 26: [International Workshop on Multiscale, Multiphysics, and Multidisciplinary Research on Materials and Structures (M3MS 2025)](https://m3ms.org "M3MS focuses on multiscale and multiphysics material research, covering computational mechanics, molecular dynamics, and continuum modeling. Topics include applications in aerospace, energy, and biomaterials, emphasizing computational methods for integrating multiscale and multiphysics phenomena in materials."), Singapore.

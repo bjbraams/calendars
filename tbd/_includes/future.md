@@ -16,7 +16,11 @@
 
 2025-11-30 to 12-04: [26th International Congress on Modelling and Simulation (MODSIM 2025)](https://www.mssanz.org.au/modsim2025/ "MODSIM 2025 explores modeling and simulation, covering agent-based models, numerical simulations, and data-driven approaches. Topics include applications in environmental science, engineering, and social systems, emphasizing computational and interdisciplinary methods for simulating complex real-world phenomena."), Adelaide, SA, Australia.
 
+2026-01-04 to 07: [AMS-MAA-SIAM and Other Joint Mathematics Meeting (JMM 2026)](https://jointmathematicsmeetings.org/jmm), Washington, DC, USA.
+
 2026-03-23 to 27: [INI Workshop Geometry of Eigenvalues (2026)](https://www.newton.ac.uk/event/gstw02/ "This workshop explores the geometry of eigenvalues, covering spectral geometry, random matrices, and operator theory. Topics include applications in quantum mechanics, graph theory, and statistical physics, emphasizing mathematical and computational methods for eigenvalue analysis."), Cambridge, UK.
+
+2026-07-06 to 10: [2026 SIAM Annual Meeting (AN 2026)](https://www.siam.org/conferences-events/siam-conferences/an26), Cleveland, OH, USA.
 
 2026-07-23 to 30: [International Congress of Mathematicians (ICM 2026)](https://icm2026.org "ICM 2026 covers all areas of mathematics, including algebra, geometry, probability, and applied mathematics. Topics include theoretical advances, computational methods, and interdisciplinary applications, emphasizing foundational and cutting-edge developments across mathematical disciplines."), Philadelphia, PA, USA.
 

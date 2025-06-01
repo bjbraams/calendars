@@ -42,6 +42,8 @@
 
 **2025-08-11 to 15: [7th International Conference on Quantum Error Correction (QEC 2025)](https://qec25.yalepages.org "QEC 2025 focuses on quantum error correction, covering fault-tolerant quantum computing, quantum codes, and decoherence mitigation. Topics include surface codes, quantum repeaters, and applications in quantum networks, emphasizing theoretical and experimental quantum error correction advancements."), New Haven, CT, USA**.
 
+2025-08-18 to 29: [IQuS 2nd International Workshop on Many-Body Quantum Magic (MBQM 2025)](https://iqus.uw.edu/events/iqus-workshop-2025-2/), Seattle, WA, USA.
+
 2025-08-24 to 29: [Seeking Quantum Advantage: Workshop and Conference (SEEQA 2025)](https://conference.seeqa.org "SEEQA 2025 focuses on quantum advantage, covering quantum algorithms, quantum supremacy, and hardware development. Topics include quantum simulation, cryptography, and applications in optimization, emphasizing theoretical and experimental efforts to achieve practical quantum computing advancements."), Oxford, UK.
 
 **2025-08-25 to 29: [Conference on Quantum Cryptography (QCrypt 2025)](https://qcrypt.net/2025/ "QCrypt 2025 focuses on quantum cryptography, covering quantum key distribution, post-quantum cryptography, and quantum protocols. Topics include secure communication, quantum networks, and applications in cybersecurity, emphasizing theoretical and experimental advancements in quantum cryptographic systems."), Sanya city, Hainan, China**.

@@ -76,6 +76,8 @@
 
 2025-12-08 to 11: [CECAM Flagship Workshop on Recent Advances in First-Principles Modeling of Electron-Phonon Interactions (2025)](https://cecam.org/workshop-details/recent-advances-in-first-principles-modeling-of-electron-phonon-interactions-1383 "This workshop explores electron-phonon interactions, covering first-principles modeling, phonon scattering, and transport properties. Topics include applications in superconductors, thermoelectrics, and nanotechnology, emphasizing computational methods for understanding electron-phonon coupling in quantum materials."), Lausanne, Switzerland.
 
+2025-12-08 to 12: [14th (Korea) International Conference on Advanced Materials and Devices (ICAMD 2025)](https://www.icamd.or.kr/), Busan, Korea.
+
 2026-01-12 to 16: [IPAM Workshop New Frontiers in Quantum Algorithms for Open Quantum Systems (2026)](https://ipam.ucla.edu/programs/workshops/new-frontiers-in-quantum-algorithms-for-open-quantum-systems/ "This workshop explores quantum algorithms for open quantum systems, covering dissipative dynamics, quantum master equations, and quantum simulation. Topics include applications in condensed matter, quantum chemistry, and quantum computing, emphasizing computational methods for modeling open quantum systems."), Los Angeles, CA, USA.
 
 2026-03-29 to 04-03: [Ettore Majorana Workshop and School on Fluctuations in Light-Matter Interaction, Quantum and Thermal Emerging Regimes (2026)](https://nesmcq.sciencesconf.org/), Erice, Sicily, Italy.

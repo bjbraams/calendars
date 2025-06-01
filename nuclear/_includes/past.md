@@ -10,6 +10,8 @@
 
 2025-02-25 to 28: [TRIUMPH Workshop on Progress in Ab Initio Nuclear Theory (PAINT 2025)](https://indico.triumf.ca/event/608/ "Focuses on ab initio nuclear theory. Topics include quantum many-body methods, computational nuclear structure, and applications in understanding fundamental nuclear interactions and properties."), Vancouver, BC, USA.
 
+2025-03-01 to 07: [61st Karpacz Winter School of Theoretical Physics and ChETEC-INFRA Training School 2025 Multi-Messenger Nuclear Astrophysics in the 21st Century](https://events.ift.uni.wroc.pl/event/68/), Karpacz, Poland.
+
 2025-03-03 to 14: [CeNAM Nucleosynthesis Uncertainties Workshop](https://sites.google.com/view/nucleosynthesis-uncertainties "This workshop focuses on uncertainties in nucleosynthesis, covering nuclear reaction rates, cross-section measurements, and statistical modeling. Topics include stellar burning, neutron capture processes, and their impact on cosmic abundance, bridging nuclear physics and astrophysics for precise nucleosynthesis predictions."), Seattle, WA, USA.
 
 2025-03-12 to 13: [Nuclear Physics in Plasma Environments (2025)](https://iop.eventsair.com/nppe2025/ "This workshop focuses on nuclear physics in plasma environments, covering nuclear reactions in stellar and fusion plasmas. Topics include thermonuclear reaction rates, plasma screening effects, and nucleosynthesis, with applications in astrophysics and fusion energy research, bridging nuclear and plasma physics."), London, UK.

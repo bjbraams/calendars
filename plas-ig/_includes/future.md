@@ -6,11 +6,15 @@
 
 2025-06-23 to 27: [Workshop Atmospheric Discharges in Dynamic Environments (2025)](https://ctrwiae.org/events "This workshop focuses on atmospheric discharges, covering plasma dynamics, lightning physics, and electromagnetic effects. Topics include plasma modeling, discharge diagnostics, and applications in meteorology and aerospace, emphasizing experimental and computational studies of atmospheric plasmas."), Bath, UK.
 
+2025-06-25 to 28: [International Plasma Technology Joint Conference (IPTJC 2025)](https://iptjc2025.conf.tw/), New Taipei, Taiwan.
+
 **2025-06-30 to 07-04: [15th European Conference on Atoms, Molecules and Photons (ECAMP 2025)](https://ecamp15.org "ECAMP 2025 focuses on atomic, molecular, and photonic physics, covering quantum optics, plasma interactions, and molecular dynamics. Topics include photon-matter interactions, cold atoms, and applications in quantum technologies, emphasizing experimental and theoretical advancements."), Innsbruck, Austria**.
 
 **2025-07-20 to 25: [36th International Conference on Phenomena in Ionized Gases (ICPIG 2025)](https://icpig2025.sciencesconf.org "ICPIG 2025 focuses on ionized gas phenomena, covering plasma diagnostics, discharge physics, and plasma-surface interactions. Topics include plasma processing, astrophysical plasmas, and applications in energy and medicine, emphasizing experimental and theoretical plasma science advancements."), Aix-en-Provence, France**.
 
 2025-07-21 to 24: [18th Iberian Joint Meeting on Atomic and Molecular Physics (IBER 2025)](https://iber2025.webs5.uvigo.es "IBER 2025 focuses on atomic and molecular physics, covering plasma interactions, spectroscopy, and collision dynamics. Topics include plasma chemistry, astrophysical molecules, and applications in materials science, emphasizing experimental and theoretical atomic and molecular studies."), Vigo, Spain.
+
+2025-08-04 to 08: [6th International Conference on Data-Driven Plasma Science (ICDDPS 2025)](https://web.cvent.com/event/7de9d238-e170-4fbf-8de5-20abc5c6eb49/), Santa Fe, NM, USA.
 
 2025-09-01 to 05: [10th Central European Symposium on Plasma Chemistry (CESPC 2025)](https://cespc.inflpr.ro "CESPC 2025 focuses on plasma chemistry, covering plasma synthesis, reactive plasmas, and plasma-surface interactions. Topics include applications in materials processing, environmental remediation, and nanotechnology, emphasizing experimental and computational advances in plasma chemical processes."), Bucharest, Romania.
 
@@ -27,6 +31,8 @@
 2025-10-04 to 09: [28th International School on Low Temperature Plasma Physics: Basics and Applications (2025)](https://www.plasma-school.org/ "This school explores low-temperature plasma physics, covering plasma generation, diagnostics, and applications. Topics include plasma chemistry, surface processing, and biomedical plasmas, emphasizing fundamental principles and computational modeling for practical applications in industry and medicine."), Bad Honnef, Germany.
 
 **2025-10-13 to 17: [78th Gaseous Electronics Conference (GEC 2025)](https://apsgec.org/gec2025/ "GEC 2025 focuses on gaseous electronics, covering plasma discharges, electron collisions, and plasma chemistry. Topics include applications in semiconductor processing, lighting, and biomedical plasmas, emphasizing experimental and computational studies of low-temperature plasma phenomena and technologies."), Seoul, Korea**.
+
+2025-12-11 to 14: [14th Asia-Pacific International Symposium on the Basics and Applications of Plasma Technology (APSPT 2025)](https://apspt-14.tw/), Taipei, Taiwan.
 
 2026-02-22 to 27: [Gordon Research Conference on Structures, Energetics and Reaction Dynamics of Gaseous Ions (2026)](https://www.grc.org/structures-energetics-and-reaction-dynamics-of-gaseous-ions-conference/2026/ "Explores gaseous ion chemistry and dynamics. Topics include ion structures, reaction mechanisms, and computational modeling of energetics in plasma and gas-phase systems."), Galveston, TX, USA.
 

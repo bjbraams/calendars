@@ -44,6 +44,8 @@
 
 2025-10-08 to 10: [12th International Conference of Networks, Games, Control and Optimization (NETGCOOP 2025)](https://netgcoop2025.univ-avignon.fr "NETGCOOP 2025 explores networks and optimization, covering game theory, network control, and distributed algorithms. Topics include applications in telecommunications, energy grids, and social networks, emphasizing computational methods for optimizing and controlling complex networked systems."), Bilbao, Spain.
 
+2025-10-25 to 29: [INFORMS Annual Meeting 2025](https://www.informs.org/Meetings-Conferences/INFORMS-Conference-Calendar/2025-INFORMS-Annual-Meeting), Atlanta, GA, USA.
+
 2025-11-10 to 14: [13th Latin American Algorithms, Graphs, and Optimization Symposium (LAGOS 2025)](https://lagos.mat.br/lagos2025 "LAGOS 2025 explores algorithms and optimization, covering graph theory, combinatorial optimization, and network algorithms. Topics include applications in logistics, telecommunications, and bioinformatics, emphasizing theoretical and computational methods for solving complex optimization and graph-based problems."), Buenos Aires, Argentina.
 
 2026-02-17 to 20: [International School and Conference on Network Science (NetSciX 2026)](https://netscix2026.github.io "NetSciX 2026 explores network science, covering graph theory, network dynamics, and community detection. Topics include applications in social networks, biology, and infrastructure, emphasizing computational and optimization methods for analyzing and modeling complex network structures."), Auckland, New Zealand.
