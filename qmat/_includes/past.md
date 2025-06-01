@@ -10,7 +10,11 @@
 
 2025-03-09 to 12: [Mesilla Chemistry Workshop Machine Learning in Molecular and Multiscale Dynamics (2025)](https://chemistry.nmsu.edu/mesilla-chemistry-workshop/meeting-2025.html "This workshop explores machine learning in molecular and multiscale dynamics, focusing on neural network potentials, coarse-graining, and reaction pathway prediction. Topics include molecular dynamics simulations, quantum chemistry, and applications in materials design and drug discovery, emphasizing data-driven chemical modeling."), Mesilla, NM, USA.
 
+2025-03-16 to 21: [DPG Spring Meeting of the Condensed Matter Section (DPG SKM 2025)](https://regensburg25.dpg-tagungen.de/), Regensburg.
+
 2025-03-31 to 04-03: [CECAM Flagship Workshop Fulfilling the Multiscale Promise in Materials: Getting Information Out of the Atomistic Scale (2025)](https://cecam.org/workshop-details/fulfilling-the-multiscale-promise-in-materials-getting-information-out-of-the-atomistic-scale-1283 "This workshop focuses on multiscale materials modeling, bridging atomistic and continuum scales. Topics include molecular dynamics, coarse-graining, and machine learning for material properties. Applications span nanomaterials, polymers, and alloys, emphasizing techniques to extract macroscopic behavior from atomistic simulations."), Lausanne, Switzerland & online.
+
+2025-04-07 to 11: [Materials Research Society Spring Meeting & Exhibit (MRS Spring 2025)](https://www.mrs.org/meetings-events/annual-meetings/2025-mrs-spring-meeting), Boston, MA, USA.
 
 2025-04-07 to 18: [10th CECAM School and Workshop on Time-Dependent Density-Functional Theory: Prospects and Applications (2025)](https://cecam.org/workshop-details/10th-school-and-workshop-on-time-dependent-density-functional-theory-prospects-and-applications-1340 "This school and workshop explore time-dependent density functional theory (TDDFT), covering excited-state dynamics, electron correlation, and real-time simulations. Topics include photochemistry, nonlinear optics, and applications in materials and molecular systems, emphasizing TDDFT’s computational advancements."), Benasque, Spain.
 

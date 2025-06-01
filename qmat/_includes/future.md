@@ -74,6 +74,8 @@
 
 2025-11-24 to 28: [ESI Workshop on Quantum Many-Body Systems and Bose-Einstein Condensation, a Mathematical Physics Perspective (2025)](https://www.esi.ac.at/events/e575/), Vienna, Austria.
 
+2025-11-30 to 12-05: [Materials Research Society Fall Meeting & Exhibit (MRS Fall 2025)](https://www.mrs.org/meetings-events/annual-meetings/2025-mrs-fall-meeting), Boston, MA, USA.
+
 2025-12-08 to 11: [CECAM Flagship Workshop on Recent Advances in First-Principles Modeling of Electron-Phonon Interactions (2025)](https://cecam.org/workshop-details/recent-advances-in-first-principles-modeling-of-electron-phonon-interactions-1383 "This workshop explores electron-phonon interactions, covering first-principles modeling, phonon scattering, and transport properties. Topics include applications in superconductors, thermoelectrics, and nanotechnology, emphasizing computational methods for understanding electron-phonon coupling in quantum materials."), Lausanne, Switzerland.
 
 2025-12-08 to 12: [14th (Korea) International Conference on Advanced Materials and Devices (ICAMD 2025)](https://www.icamd.or.kr/), Busan, Korea.

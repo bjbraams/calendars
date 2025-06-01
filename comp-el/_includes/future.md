@@ -32,6 +32,8 @@
 
 2025-09-02 to 05: [(ECCOMAS-IACM Associated) 18th International Conference on Computational Plasticity Fundamentals and Applications (COMPLAS 2025)](https://complas2025.cimne.com/complas_2025 "COMPLAS 2025 focuses on computational plasticity, covering material modeling, finite element methods, and damage mechanics. Topics include applications in structural engineering, geomechanics, and manufacturing, emphasizing numerical techniques for simulating plastic deformation and material behavior."), Barcelona, Spain.
 
+2025-09-08 to 12: [26th International Conference on Electromagnetics in Advanced Applications (ICEAA 2025) and 14th IEEE-APS Topical Conference on Antennas and Propagation in Wireless Communications (IEEE-APWC 2025)](https://www.iceaa-offshore.org/), Palermo, Italy.
+
 2025-09-09 to 11: [10th ECCOMAS Thematic Conference on the Mechanical Response of Composites (COMPOSITES 2025)](https://composites2025.cimne.com/ "COMPOSITES 2025 focuses on the mechanical response of composites, covering finite element modeling, failure analysis, and multiscale simulations. Topics include applications in aerospace, automotive, and energy, emphasizing computational methods for composite material design and performance."), Vienna, Austria.
 
 2025-09-14 to 17: [(ECCOMAS-IACM Associated) 13th International Conference on Isogeometric Analysis (IGA 2025)](https://iga2025.cimne.com/ "IGA 2025 focuses on isogeometric analysis, covering spline-based methods, CAD integration, and numerical simulations. Topics include applications in structural mechanics, fluid dynamics, and biomechanics, emphasizing computational techniques for seamless design-to-analysis workflows in engineering."), Eindhoven, Netherlands.

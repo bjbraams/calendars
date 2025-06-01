@@ -2,6 +2,8 @@
 
 **2025-06-10 to 13: [ISC High Performance 2025](https://isc-hpc.com "ISC High Performance 2025 focuses on high-performance computing, covering parallel algorithms, exascale architectures, and GPU computing. Topics include scientific simulations, AI integration, and applications in physics and climate, emphasizing scalable computational performance."), Hamburg, Germany**.
 
+2025-06-16 to 18: [Platform for Advanced Scientific Computing Conference (PASC 2025)](https://pasc25.pasc-conference.org/), Brugg-Windisch, Switzerland.
+
 **2025-07-20 to 24: [Practice & Experience in Advanced Research Computing (PEARC 2025)](https://pearc.acm.org "PEARC 2025 focuses on advanced research computing, covering high-performance computing, cyberinfrastructure, and data-intensive computing. Topics include scientific workflows, cloud computing, and applications in physics and biology, emphasizing practical solutions for research computing challenges."), Columbus, OH, USA**.
 
 2025-07-21 to 23: [45th IEEE International Conference on Distributed Computing Systems (ICDCS 2025)](https://icdcs2025.icdcs.org/ "ICDCS 2025 focuses on distributed computing systems, covering cloud computing, edge computing, and blockchain. Topics include distributed AI, fault tolerance, and applications in IoT and smart cities, emphasizing scalable and reliable distributed system architectures."), Glasgow, UK.

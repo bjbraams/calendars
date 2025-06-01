@@ -60,6 +60,8 @@
 
 2025-09-08 to 11: [KITP Conference Quantum Many-Body Physics Through the Lens of Quantum Error Correction](https://www.kitp.ucsb.edu/activities/stablephases-c25), Santa Barbara, CA, USA.
 
+2025-09-08 to 12: [2nd DPG Fall Meeting: 100 Years of Quantum Physics (2025)](https://quantum25.dpg-tagungen.de/), Göttingen, Germany.
+
 2025-09-08 to 19: [CERN Theory Institute on Quantum Simulation and Computation in High-Energy Physics (2025)](https://indico.cern.ch/event/1488240/ "This institute focuses on quantum simulation in high-energy physics, covering quantum algorithms, lattice gauge theories, and quantum hardware. Topics include applications in particle physics, cosmology, and quantum field theory, emphasizing quantum computational methods for fundamental physics."), Geneva, Switzerland.
 
 **2025-09-15 to 19: [20th Theory of Quantum Computation, Communication and Cryptography Conference (TQC 2025)](https://tqc-conference.org "TQC 2025 explores quantum computation and cryptography, covering quantum algorithms, quantum communication, and secure protocols. Topics include quantum error correction, quantum networks, and applications in cybersecurity, emphasizing theoretical advancements in quantum information science."), Bangalore, India**.

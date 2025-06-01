@@ -34,6 +34,8 @@
 
 2025-08-03 to 08: [Gordon Research Conference Atmospheric Chemistry: Understanding the Atmosphere via Molecular Processes and Global Impacts (2025)](https://grc.org/atmospheric-chemistry-conference/2025/ "This conference focuses on atmospheric chemistry, covering molecular reactions, aerosol dynamics, and climate impacts. Topics include photochemical processes, air quality modeling, and applications in environmental science, emphasizing experimental and computational atmospheric chemical research."), Newry, ME, USA.
 
+2025-08-17 to 22: [American Chemical Society Fall 2025 Meeting & Expo (ACS Fall 2025)](https://www.acs.org/events/fall.html), Washington, DC, USA and Online.
+
 2025-09-01 to 05: [Lennard-Jones Centre-Cecam Meeting: From Electrons to Atoms to Molecules and Materials (2025)](https://ljc.group.cam.ac.uk/dft-2025 "This meeting explores computational chemistry, covering density functional theory, molecular dynamics, and electronic structure. Topics include applications in catalysis, materials design, and biophysics, emphasizing computational methods for modeling chemical systems from electrons to macroscopic materials."), Cambridge, UK.
 
 2025-09-01 to 05: [Summer Academy for Modeling Batteries (SAMBA 2025)](https://www.conferencemanager.dk/sambasummerschool2025 "Focuses on computational modeling of batteries. Topics include electrochemical simulations, quantum chemistry for battery materials, and multiscale modeling for energy storage optimization."), Lyngy, Denmark.

@@ -2,6 +2,8 @@
 
 2025-06-10 to 13: [Waves and Imaging in Complex Media (Wicom 2025)](https://wicom.sciencesconf.org/ "Explores wave propagation and imaging in complex media. Topics include inverse scattering, wave-based imaging, and applications in geophysics, medical imaging, and material science."), Paris, France.
 
+2025-06-23 to 26: [SPIE Optical Metrology 2025](https://spie.org/conferences-and-exhibitions/optical-metrology), Munich, Germany.
+
 2025-06-23 to 27: [Summer School EUR MINT on Control, Inverse Problems and Spectral Theory (2025)](https://indico.math.cnrs.fr/event/12766/ "Focuses on control theory, inverse problems, and spectral analysis. Topics include PDE control, spectral methods, and applications in imaging, engineering, and mathematical physics."), Toulouse, France.
 
 2025-06-23 to 27: [Summer School on Inverse Problems and Artificial Intelligence in Medicine (2025)](https://bathsymposium.ac.uk/symposium/inverse-problems-and-artificial-intelligence-in-medicine/ "Explores AI-driven inverse problems in medical applications. Topics include image reconstruction, parameter estimation, and machine learning techniques for medical imaging and diagnostics."), Bath, UK.
@@ -15,6 +17,8 @@
 2025-07-28 to 08-01: [12th Applied Inverse Problems Conference (AIP 2025)](https://eventos.fgv.br/aip2025 "AIP 2025 focuses on inverse problems, covering regularization, Bayesian inversion, and numerical methods. Topics include imaging, geophysical exploration, and applications in medical and environmental sciences, emphasizing mathematical and computational techniques for inverse modeling."), Rio de Janeiro, Brazil.
 
 2025-08-04 to 08: [Summer School on Topological Data Analysis in Stochastic Geometry and Image Processing (2025)](https://sites.google.com/view/aarhustda/ "This summer school focuses on topological data analysis, covering persistent homology, stochastic geometry, and image processing. Topics include applications in shape analysis, network science, and medical imaging, emphasizing computational topology for stochastic and image data."), Aarhus Institute of Advanced Studies, Aarhus, Denmark.
+
+2025-08-18 to 21: [Optica Imaging Congress 2025](https://www.optica.org/events/congress/imaging_and_applied_optics_congress/), Seattle, WA, USA.
 
 2025-08-25 to 29: [Stochastic Numerics and Inverse Problems in Southern Sweden (SNIPSS 2025)](https://lnu.se/en/meet-linnaeus-university/current/events/2025/konferenser/snipss-2025--stochastic-numerics-and-inverse-problems-in-southern-sweden-2025/ "SNIPSS 2025 focuses on stochastic numerics and inverse problems, covering Monte Carlo methods, Bayesian inversion, and uncertainty quantification. Topics include applications in imaging, geophysics, and engineering, emphasizing computational techniques for stochastic and inverse modeling."), Växjö, Sweden.
 

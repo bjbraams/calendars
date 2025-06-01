@@ -126,3 +126,63 @@ IACR Eurocrypt 2026:
   loc: Reykjavic, Iceland
   more: Part of FroCoS/ITP/TABLEAUX 2025
   kw: cs-lo
+Optica Imaging Congress 2025:
+  dd: 2025-08-18 to 21
+  link: https://www.optica.org/events/congress/imaging_and_applied_optics_congress/
+  loc: Seattle, WA, USA
+  kw: comp-in
+? 26th International Conference on Electromagnetics in Advanced Applications (ICEAA 2025) and 14th IEEE-APS Topical Conference on Antennas and Propagation in Wireless Communications (IEEE-APWC 2025)
+: dd: 2025-09-08 to 12
+  link: https://www.iceaa-offshore.org/
+  loc: Palermo, Italy
+  kw: comp-el
+SPIE Optical Metrology 2025:
+  dd: 2025-06-23 to 26
+  link: https://spie.org/conferences-and-exhibitions/optical-metrology
+  loc: Munich, Germany
+  kw: comp-in
+'2nd DPG Fall Meeting: 100 Years of Quantum Physics (2025)':
+  dd: 2025-09-08 to 12
+  link: https://quantum25.dpg-tagungen.de/
+  loc: Göttingen, Germany
+  kw: comp-qc
+DPG Spring Meeting of the Atomic, Molecular, Quantum Optics and Photonics Section (DPG SAMOP 2025):
+  dd: 2025-03-09 to 14
+  link: https://bonn25.dpg-tagungen.de/
+  loc: Bonn, Germany
+  kw: qmol
+DPG Spring Meeting of the Condensed Matter Section (DPG SKM 2025):
+  dd: 2025-03-16 to 21
+  link: https://regensburg25.dpg-tagungen.de/
+  loc: Regensburg
+  kw: qmat
+FFG-ESA Workshop on Quantum Satellite Networks (2025):
+  dd: 2025-03-06 to 07
+  link: https://atpi.eventsair.com/qinsq2025/
+  loc: Vienna, Austria
+  kw: cs-qc
+Platform for Advanced Scientific Computing Conference (PASC 2025):
+  dd: 2025-06-16 to 18
+  link: https://pasc25.pasc-conference.org/
+  loc: Brugg-Windisch, Switzerland
+  kw: comp-hp
+Materials Research Society Fall Meeting & Exhibit (MRS Fall 2025):
+  dd: 2025-11-30 to 12-05
+  link: https://www.mrs.org/meetings-events/annual-meetings/2025-mrs-fall-meeting
+  loc: Boston, MA, USA
+  kw: qmat
+Materials Research Society Spring Meeting & Exhibit (MRS Spring 2025):
+  dd: 2025-04-07 to 11
+  link: https://www.mrs.org/meetings-events/annual-meetings/2025-mrs-spring-meeting
+  loc: Boston, MA, USA
+  kw: qmat
+American Chemical Society Spring 2025 Meeting & Expo (ACS Spring 2025):
+  dd: 2025-03-23 to 27
+  link: https://www.acs.org/meetings/acs-meetings/spring.html
+  loc: San Diego, CA, USA and Online
+  kw: qchem
+American Chemical Society Fall 2025 Meeting & Expo (ACS Fall 2025):
+  dd: 2025-08-17 to 22
+  link: https://www.acs.org/events/fall.html
+  loc: Washington, DC, USA and Online
+  kw: qchem

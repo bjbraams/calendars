@@ -4,6 +4,8 @@
 
 2025-02-24 to 27: [16th Conference of Young Researchers in Atomic and Molecular Physics (J2IFAM 2025)](https://j2ifam2025.uva.es "J2IFAM 2025 explores atomic and molecular physics, focusing on quantum dynamics, spectroscopy, and molecular interactions. Topics include laser-induced processes, cold molecules, and quantum chemistry. It addresses applications in atmospheric science, quantum technologies, and biophysics, fostering young researchers’ contributions."), Valladolid, Spain.
 
+2025-03-09 to 14: [DPG Spring Meeting of the Atomic, Molecular, Quantum Optics and Photonics Section (DPG SAMOP 2025)](https://bonn25.dpg-tagungen.de/), Bonn, Germany.
+
 2025-03-31 to 04-02: [37th Molecular Modeling Workshop (MMWS 2025)](https://mmws2025.mgms-ds.de "MMWS 2025 focuses on molecular modeling, covering molecular dynamics, quantum chemistry, and force field development. Topics include protein-ligand interactions, molecular docking, and applications in drug design and materials science, emphasizing computational tools for molecular simulations."), Erlangen, Germany.
 
 2025-05-20 to 23: [4th Cold Atom Molecule Interactions Conference (CATMIN 2025)](https://eventos.ugr.es/catmin/ "CATMIN 2025 focuses on cold atom-molecule interactions, covering quantum scattering, ultracold chemistry, and quantum simulation. Topics include Feshbach resonances, molecular quantum gases, and applications in quantum information, emphasizing experimental and theoretical studies of cold quantum systems."), Granada, Spain.

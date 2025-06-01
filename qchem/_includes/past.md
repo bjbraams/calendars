@@ -8,6 +8,8 @@
 
 2025-03-09 to 14: [Oberwolfach Workshop on Mathematical Methods in Quantum Chemistry (2025)](https://mfo.de/occasion/2511/www_view "This workshop focuses on mathematical methods in quantum chemistry, covering electronic structure theory, wavefunction methods, and quantum Monte Carlo. Topics include coupled-cluster theory, density functional approximations, and applications in molecular reactivity and spectroscopy, emphasizing rigorous computational approaches."), Oberwolfach, Germany.
 
+2025-03-23 to 27: [American Chemical Society Spring 2025 Meeting & Expo (ACS Spring 2025)](https://www.acs.org/meetings/acs-meetings/spring.html), San Diego, CA, USA and Online.
+
 2025-03-27 to 28: [Symposium Can Ice Be Described From First Principles? (2025)](https://cas-nor.no/index.php/events/young-cas-fellow-symposium-can-ice-be-described-first-principles "This symposium explores first-principles modeling of ice, focusing on quantum mechanical simulations of ice structures and properties. Topics include density functional theory, hydrogen bonding, and phase transitions, with applications in climate science and materials chemistry, emphasizing computational challenges."), Oslo, Norway.
 
 2025-04-21 to 25: [11th Conference of the Asia-Pacific Association of Theoretical and Computational Chemists (APATCC 2025)](https://apatcc11.jp "APATCC 2025 explores theoretical and computational chemistry, covering quantum chemical methods, molecular dynamics, and reaction modeling. Topics include electronic structure, catalysis, and biomolecular simulations, with applications in materials design and drug discovery, emphasizing computational advancements."), Kobe, Japan.
