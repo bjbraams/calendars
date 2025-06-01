@@ -34,78 +34,96 @@ AMS-MAA-SIAM and Other Joint Mathematics Meeting (JMM 2026):
   link: https://jointmathematicsmeetings.org/jmm
   loc: Washington, DC, USA
   kw: tbd
-name:
-  dd: 
-  link: 
-  loc: 
-  kw: 
-name:
-  dd: 
-  link: 
-  loc: 
-  kw: 
-name:
-  dd: 
-  link: 
-  loc: 
-  kw: 
-name:
-  dd: 
-  link: 
-  loc: 
-  kw: 
-name:
-  dd: 
-  link: 
-  loc: 
-  kw: 
-name:
-  dd: 
-  link: 
-  loc: 
-  kw: 
-name:
-  dd: 
-  link: 
-  loc: 
-  kw: 
-name:
-  dd: 
-  link: 
-  loc: 
-  kw: 
-name:
-  dd: 
-  link: 
-  loc: 
-  kw: 
-name:
-  dd: 
-  link: 
-  loc: 
-  kw: 
-name:
-  dd: 
-  link: 
-  loc: 
-  kw: 
-name:
-  dd: 
-  link: 
-  loc: 
-  kw: 
-name:
-  dd: 
-  link: 
-  loc: 
-  kw: 
-name:
-  dd: 
-  link: 
-  loc: 
-  kw: 
-name:
-  dd: 
-  link: 
-  loc: 
-  kw: 
+61st Karpacz Winter School of Theoretical Physics and ChETEC-INFRA Training School 2025 Multi-messenger nuclear astrophysics in the 21st century:
+  dd: 2025-03-01 to 07
+  link: https://events.ift.uni.wroc.pl/event/68/
+  loc: Karpacz, Poland
+  kw: nuclear
+NUCLear Exotic structures And Related phenomena (NUCLEAR 2025):
+  dd: 2025-09-22 to 25
+  link: https://napp.fudan.edu.cn/event/52/
+  loc: Shanghai, China
+  kw: nuclear
+Fall Meeting of the American Physical Society Division of Nuclear Physics (DNP 2025):
+  dd: 2025-10-17 to 20
+  link: https://indico.phy.anl.gov/event/58/
+  loc: Chicago, IL, USA
+  kw: nuclear
+IQuS 2nd International Workshop on Many-Body Quantum Magic (MBQM 2025):
+  dd: 2025-08-18 to 29
+  link: https://iqus.uw.edu/events/iqus-workshop-2025-2/
+  loc: Seattle, WA, USA
+  kw: comp-qc
+INT Program Nuclear Hamiltonians for Advancing Nuclear Physics and Beyond (2026):
+  dd: 2026-04-27 to 05-29
+  link: https://www.int.washington.edu/programs-and-workshops-list
+  loc: Seattle, WA, USA
+  more: Preliminary link, announcement only
+  kw: nuclear
+14th (Korea) International Conference on Advanced Materials and Devices (ICAMD 2025):
+  dd: 2025-12-08 to 12
+  link: https://www.icamd.or.kr/
+  loc: Busan, Korea
+  kw: qmat
+4th (Korea) International Fusion and Plasma Conference (iFPC 2025):
+  dd: 2025-06-09 to 13
+  link: https://i-fpc.org/2025/
+  loc: Daejeon, Korea
+  kw: plas-ph
+International Plasma Technology Joint Conference (IPTJC 2025):
+  dd: 2025-06-25 to 28
+  link: https://iptjc2025.conf.tw/
+  loc: New Taipei, Taiwan
+  kw: plas-ig
+6th International Conference on Data-Driven Plasma Science (ICDDPS 2025):
+  dd: 2025-08-04 to 08
+  link: https://web.cvent.com/event/7de9d238-e170-4fbf-8de5-20abc5c6eb49/
+  loc: Santa Fe, NM, USA
+  kw: plas-ig
+14th Asia-Pacific International Symposium on the Basics and Applications of Plasma Technology (APSPT 2025):
+  dd: 2025-12-11 to 14
+  link: https://apspt-14.tw/
+  loc: Taipei, Taiwan
+  kw: plas-ig
+Statistical Society of Canada Annual Meeting (SSC 2025):
+  dd: 2025-05-25 to 28
+  link: https://ssc.ca/en/meetings/annual/2025-ssc-annual-meeting-saskatoon
+  loc: Saskatoon, SK, Canada
+  kw: stat-th
+16th European Turbomachinery Conference, Fluid Dynamics and Thermodynamics (ETC 2025):
+  dd: 2025-03-24 to 28
+  link: https://www.etc16.eu/
+  loc: Hannover, Germany
+  kw: comp-fd
+EUROMECH 2nd European Fluid Dynamics Conference (EFDC 2025):
+  dd: 2025-08-26 to 29
+  link: https://euromech.org/conferences/folder-efdc/EFDC2
+  loc: Dublin, Ireland
+  kw: comp-fd
+SupercomputingAsia (SCA 2025):
+  dd: 2025-03-10 to 13
+  link: https://sca25.sc-asia.org/
+  loc: Singapore
+  kw: comp-hp
+39th IEEE International Parallel and Distributed Processing Symposium (IPDPS 2025):
+  dd: 2025-06-03 to 07
+  link: https://www.ipdps.org/
+  loc: Milan, Italy
+  kw: comp-hp
+IUPAC 51st World Chemistry Congress and 54th General Assembly (IUPAC 2027):
+  dd: 2027-07-16 to 23
+  link: https://iupac.org/wp-content/uploads/2021/08/51st-Council-Agenda-Book_August-2021_CANADA2027-compressed.pdf
+  loc: Montreal, QC, Canada
+  more: Preliminary link, flyer
+  kw: qchem
+IACR Eurocrypt 2026:
+  dd: 2026-05-10 to 14
+  link: https://eurocrypt.iacr.org/2026/
+  loc: Rome, Italy
+  kw: cs-oh
+16th International Conference on Interactive Theorem Proving (ITP 2025):
+  dd: 2025-09-27 to 10-03
+  link: https://icetcs.github.io/frocos-itp-tableaux25/itp/
+  loc: Reykjavic, Iceland
+  more: Part of FroCoS/ITP/TABLEAUX 2025
+  kw: cs-lo
