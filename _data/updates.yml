@@ -600,7 +600,7 @@ Nuclear Physics in Plasma Environments (2025):
 Quantum Resources 2025:
   dd: 2025-03-17 to 21
   link: https://2025.quantumresources.science/
-  loc: Jeju Island, Korea
+  loc: Jeju Island, South Korea
   excerpt: Quantum Resources 2025 explores quantum information theory, focusing on entanglement, quantum coherence, and quantum thermodynamics. Topics include resource theories, quantum algorithms, and applications in quantum computing and cryptography, emphasizing fundamental limits and practical implementations.
   arxiv: quant-ph, cs.IT
 
@@ -920,7 +920,7 @@ IMSI Workshop Kernel Methods in Uncertainty Quantification and Experimental Desi
   loc: Santa Fe, NM, USA
   excerpt: WDM 2025 explores warm dense matter, focusing on high-pressure plasmas and equation-of-state modeling. Topics include laser-driven experiments, plasma thermodynamics, and computational simulations, with applications in planetary science, inertial fusion, and astrophysics, emphasizing extreme matter states.
   arxiv: physics.plasm-ph, astro-ph.EP
-'? Workshop Everything You Always Wanted to Know About Discretization, Approximation, and Numerical Analysis for the JKO Scheme (2025)':
+'Workshop Everything You Always Wanted to Know About Discretization, Approximation, and Numerical Analysis for the JKO Scheme (2025)':
   dd: 2025-04-16 to 17
   link: https://indico.math.cnrs.fr/event/13361/
   loc: Villeurbanne, France
@@ -1104,7 +1104,7 @@ IMSI Workshop Kernel Methods in Uncertainty Quantification and Experimental Desi
   loc: Alexandria, VA, USA
   excerpt: SDM 2025 focuses on data mining, covering clustering, classification, and graph mining. Topics include deep learning for unstructured data, anomaly detection, and applications in social networks and bioinformatics, emphasizing scalable algorithms for large-scale data analysis.
   arxiv: cs.LG, cs.DM
-'? Penn Conference on Theoretical Chemistry (PCTC 2025) (Ferroelectrics, Nanomaterials, Light-Matter Interactions, Next-Gen Computing & Renewable Energy)':
+'Penn Conference on Theoretical Chemistry (PCTC 2025) (Ferroelectrics, Nanomaterials, Light-Matter Interactions, Next-Gen Computing & Renewable Energy)':
   dd: 2025-05-03 to 04
   link: https://pctc2025.regfox.com/pctc25
   loc: Philadelphia, PA, USA
@@ -1177,14 +1177,14 @@ IMSI Workshop Kernel Methods in Uncertainty Quantification and Experimental Desi
   loc: Dubrovnik, Croatia
   excerpt: FPPT 2025 focuses on plasma physics and technology, covering low-temperature plasmas, plasma-surface interactions, and plasma processing. Topics include plasma diagnostics, thin-film methods, and applications in plasma nanotechnology and plasma applications, emphasizing plasma technology advancements.
   arxiv: physics.plasm-ph
-'? 26th Symposium on the Jahn-Teller Effect: Vibronic Coupling and Jahn-Teller Effects in Molecules, Solids, and Nanoscale Materials (2025)':
+'26th Symposium on the Jahn-Teller Effect: Vibronic Coupling and Jahn-Teller Effects in Molecules, Solids, and Nanoscale Materials (2025)':
   dd: 2025-05-05 to 09
   link: https://sites.google.com/view/jt26th-2025/
   loc: Online
   excerpt: This symposium explores the Jahn-Teller effect, focusing on vibronic coupling in quantum systems. Topics include quantum mechanical effects in solids, molecular dynamics, and applications in quantum materials, emphasizing quantum chemistry and nanotechnology.
   arxiv: cond-mat.mtrl-sci, physics.chem-ph
-'? 36th International Conference on Probabilistic, Combinatorial and Asymptotic Methods for the Analysis of Algorithms (AofA 2025)':
-  dd: 2025-06-16 to 20
+'36th International Conference on Probabilistic, Combinatorial and Asymptotic Methods for the Analysis of Algorithms (AofA 2025)':
+  dd: 2025-05-05 to 09
   link: https://www.fields.utoronto.ca/activities/24-25/AofA-2025
   loc: Toronto, ON, Canada
   excerpt: AofA 2025 explores probabilistic and combinatorial methods for algorithm analysis, covering random structures, asymptotic enumeration, and average-case complexity. Topics include random trees, hashing algorithms, and applications in combinatorics, emphasizing probabilistic algorithm analysis.
@@ -1197,13 +1197,13 @@ IMSI Workshop Kernel Methods in Uncertainty Quantification and Experimental Desi
   arxiv: physics.plasm-ph
 'ICTP Conference on Mixing Times Between Probability, Computer Science and Statistical Physics (2025)':
   dd: 2025-05-05 to 09
-  link: https://indico.ictp.it/event/10835
+  link: https://indico.ictp.it/event/10831
   loc: Trieste, Italy
   excerpt: This conference explores mixing times, bridging probability, computer science, and statistical physics. Topics include Markov chain convergence, random graphs, and spin systems, with applications in sampling algorithms and network dynamics, emphasizing interdisciplinary probabilistic approaches.
   arxiv: math.PR, cs.DM, cond-mat.stat-mech
 '16th Iberian Meeting on Computational Electromagnetics (EIEC 2025)':
   dd: 2025-05-06 to 09
-  link: https://www.eiec.pt/
+  link: https://eiec.av.it.pt/
   loc: Aveiro, Portugal
   excerpt: EIEC 2025 focuses on computational electromagnetics, covering numerical methods for Maxwell’s equations, high-frequency techniques, and electromagnetic compatibility. Topics include antenna modeling, wave propagation, and applications in wireless communications, emphasizing advanced computational tools.
   arxiv: physics.comp-ph, eess.SP
@@ -1213,7 +1213,7 @@ IMSI Workshop Kernel Methods in Uncertainty Quantification and Experimental Desi
   loc: Palma de Mallorca, Spain
   excerpt: MTQM 2025 explores topological quantum matter, focusing on topological insulators, superconductors, and quantum spin liquids. Topics include topological phase transitions, Majorana fermions, and applications in quantum computing, emphasizing theoretical and experimental advancements in quantum materials.
   arxiv: cond-mat.mes-hall, quant-ph
-'? Global Science Research Center for Systems Chemistry 1st International Symposium: Chemical Dynamics in Materials and Living Systems (GSRC 2025)':
+'Global Science Research Center for Systems Chemistry 1st International Symposium: Chemical Dynamics in Materials and Living Systems (GSRC 2025)':
   dd: 2025-05-06 to 10
   link: https://cdml.cau.ac.kr
   loc: Seoul, South Korea
@@ -1232,7 +1232,7 @@ IMSI Workshop Kernel Methods in Uncertainty Quantification and Experimental Desi
   excerpt: This workshop focuses on computational methods for thermal and excited electrons, covering time-dependent density functional theory, Green’s function methods, and many-body perturbation theory. Topics include electron-phonon interactions, excited-state dynamics, and applications in photovoltaics and nanoelectronics, emphasizing accurate quantum chemical simulations.
   arxiv: cond-mat.mtrl-sci, physics.comp-ph
 'Karlsruhe International Summer School on Fusion Technologies 2025':
-  dd: 2025-05-05 to 16
+  dd: 2025-05-07 to 15
   link: https://summerschool.fusion.kit.edu/
   loc: Karlsruhe, Germany
   excerpt: This summer school explores fusion technologies, focusing on plasma physics, magnetic confinement, and fusion reactor engineering. Topics include tokamak and stellarator design, plasma diagnostics, and fusion materials, with applications in sustainable energy, emphasizing theoretical and practical advancements in fusion research.
@@ -1246,10 +1246,10 @@ IMSI Workshop Kernel Methods in Uncertainty Quantification and Experimental Desi
 '38th Conference of the European Chapter on Combinatorial Optimization (ECCO 2025)':
   dd: 2025-05-08
   link: https://ecco2025.sciencesconf.org
-  loc: Lisbon, Portugal
+  loc: Marrakech, Morocco
   excerpt: ECCO 2025 explores combinatorial optimization, covering graph theory, integer programming, and approximation algorithms. Topics include scheduling, network design, and vehicle routing, with applications in logistics and telecommunications, emphasizing efficient computational strategies for discrete optimization problems.
   arxiv: math.CO, cs.DM
-'? Conference on the Past, Present, and Future of Statistics in the Era of AI - Marking 90 Years of the GWU Department of Statistics (2025)':
+'Conference on the Past, Present, and Future of Statistics in the Era of AI - Marking 90 Years of the GWU Department of Statistics (2025)':
   dd: 2025-05-08 to 10
   link: https://statistics.columbian.gwu.edu/gw-stat-90
   loc: Washington, DC, USA
@@ -1341,7 +1341,7 @@ IMSI Workshop Kernel Methods in Uncertainty Quantification and Experimental Desi
   arxiv: math.PR, stat.CO
 'IUTAM Symposium on Machine Learning in Diverse Fluid Mechanics (2025)':
   dd: 2025-05-15 to 17
-  link: https://iutam.org/events/iutam-symposium-on-machine-learning-in-diverse-fluid-mechanics
+  link: https://iutam-mldfm2025.org/
   loc: Okinawa, Japan
   excerpt: Integrates machine learning with fluid mechanics, focusing on data-driven modeling. Topics include turbulence prediction, flow optimization, and applications in aerodynamics and environmental flows.
   arxiv: physics.flu-dyn, cs.LG
@@ -1507,7 +1507,7 @@ IMSI Workshop Kernel Methods in Uncertainty Quantification and Experimental Desi
   loc: Belgrade, Serbia
   excerpt: This workshop explores two-dimensional magnets in spintronics, focusing on magnetic van der Waals materials and spin transport. Topics include spin-orbit coupling, magnetic tunneling junctions, and applications in memory devices, emphasizing experimental and theoretical progress in spintronic technologies.
   arxiv: cond-mat.mes-hall, physics.app-ph
-'? 90th Workshop of the International School of Solid State Physics: Dynamics of Electrons in Atomic and Molecular Nanoclusters (DEAMN 2025)':
+'90th Workshop of the International School of Solid State Physics: Dynamics of Electrons in Atomic and Molecular Nanoclusters (DEAMN 2025)':
   dd: 2025-05-21 to 27
   link: https://dornsife.usc.edu/deamn25/
   loc: Erice, Sicily, Italy
@@ -1627,7 +1627,7 @@ IMSI Workshop Kernel Methods in Uncertainty Quantification and Experimental Desi
   loc: UMBC, Baltimore, MD, USA
   excerpt: QTD 2025 focuses on quantum thermodynamics, covering quantum heat engines, entanglement, and stochastic processes. Topics include quantum fluctuation theorems, thermodynamic uncertainty relations, and applications in quantum information, emphasizing probabilistic models for quantum thermodynamic systems.
   arxiv: quant-ph, cond-mat.stat-mech
-'? 18th International Meeting on Fully Three-Dimensional Image Reconstruction in Radiology and Nuclear Medicine (Fully3D 2025)':
+'18th International Meeting on Fully Three-Dimensional Image Reconstruction in Radiology and Nuclear Medicine (Fully3D 2025)':
   dd: 2025-05-27 to 30
   link: https://hqlab.sjtu.edu.cn/fully3d-2025/home
   loc: Shanghai, China
@@ -1795,7 +1795,7 @@ IMSI Workshop Kernel Methods in Uncertainty Quantification and Experimental Desi
   loc: Paris, France
   excerpt: This graduate school focuses on local limits of random graphs, covering graphons, branching processes, and combinatorial probability. Topics include network convergence, random graph models, and applications in social networks, emphasizing probabilistic tools for graph analysis.
   arxiv: math.PR, cs.SI
-'? YITP International Molecule-Type Workshop on Hydrodynamics of Low-Dimensional Interacting Systems Advances, Challenges, and Future Directions (2025)':
+'YITP International Molecule-Type Workshop on Hydrodynamics of Low-Dimensional Interacting Systems Advances, Challenges, and Future Directions (2025)':
   dd: 2025-06-02 to 13
   link: https://www.yukawa.kyoto-u.ac.jp/seminar/s53402?lang=en-GB
   loc: Kyoto, Japan
@@ -1831,7 +1831,7 @@ IMSI Workshop Kernel Methods in Uncertainty Quantification and Experimental Desi
   loc: Zurich, Switzerland
   excerpt: HALG 2025 focuses on algorithmic advancements, covering graph algorithms, approximation algorithms, and computational complexity. Topics include online algorithms, distributed computing, and applications in optimization and data science, emphasizing cutting-edge theoretical algorithmic research.
   arxiv: cs.DS, cs.CC
-'? 2nd Conference Math 2 Product, Emerging Technologies in Computational Science for Industry, Sustainability and Innovation (M2P 2025)':
+'2nd Conference Math 2 Product, Emerging Technologies in Computational Science for Industry, Sustainability and Innovation (M2P 2025)':
   dd: 2025-06-04 to 06
   link: https://www.m2p2025.com/M2P2025/
   loc: Valencia, Spain
@@ -2078,9 +2078,10 @@ IMSI Workshop Kernel Methods in Uncertainty Quantification and Experimental Desi
   excerpt: CVPR 2025 focuses on computer vision and pattern recognition, covering deep learning, image segmentation, and object detection. Topics include generative models, 3D vision, and applications in autonomous systems, emphasizing cutting-edge vision algorithms and AI.
   arxiv: cs.CV, cs.LG
 '4th Workshop on Uncertainty Quantification for Computer Vision (UQCV 2025)':
-  dd: 2025-06-11 to 15 (tentative, confirm date)
+  dd: '2025-06-11'
   link: https://uncertainty-cv.github.io/2025/
   loc: Nashville, TN, USA
+  more: Workshop at CVPR 2025
   excerpt: UQCV 2025 focuses on uncertainty quantification in computer vision, covering Bayesian deep learning, epistemic uncertainty, and model calibration. Topics include uncertainty in image classification, object detection, and applications in autonomous driving, emphasizing robust vision systems.
   arxiv: cs.CV, stat.ML
 '4th Workshop on Mathematics and AI – Connecting the Mathematics Clusters (2025)':
