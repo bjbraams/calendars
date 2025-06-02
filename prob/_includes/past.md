@@ -1,6 +1,6 @@
 2025-01-06 to 10: [Center for Mathematical Modeling (CMM) 7th Summer School in Probabilities and Stochastic Processes (2025)](https://eventos.cmm.uchile.cl/escuelappe2025/ "Focuses on probabilities and stochastic processes. Topics include Markov chains, random walks, and stochastic modeling, with applications in physics, finance, and biology."), Santiago, Chile.
 
-2025-01-06 to 10: [Center for Mathemtical Modeling (CMM) 7th Summer School in Probabilities and Stochastic Processes (2025)](https://eventos.cmm.uchile.cl/escuelappe2025/), Santiago, Chile.
+2025-01-06 to 10: [Center for Mathemtical Modeling (CMM) 7th Summer School in Probabilities and Stochastic Processes (2025)](https://eventos.cmm.uchile.cl/escuelappe2025/ "Focuses on probabilities and stochastic processes. Topics include Markov chains, random walks, and stochastic modeling, with applications in physics, finance, and biology."), Santiago, Chile.
 
 2025-01-09 to 10: [Workshop Advances in Combinatorial and Algebraic Probability](https://sites.google.com/view/comb-alg-prob-workshop "This workshop examines combinatorial and algebraic methods in probability theory. Key areas include random graphs, Markov chains, and probabilistic combinatorics, alongside algebraic structures like random matrices and polynomial chaos. It aims to bridge discrete and continuous probabilistic models, with applications in statistical physics and network science."), Lancaster, UK.
 

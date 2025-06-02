@@ -50,7 +50,7 @@
 
 2026-08-24 to 28: [Bernoulli Society European Meeting of Statisticians (EMS 2026)](https://bernoullisociety.org/organization/erc/ems "EMS 2026 focuses on statistics, covering probability theory, statistical inference, and stochastic processes. Topics include applications in finance, biology, and social sciences, emphasizing theoretical and applied statistical methods for addressing complex data and uncertainty."), Lugano, Switzerland.
 
-2026 tbd: [9th International Conference on Belief Functions (BELIEF 2026)](https://www.bfasociety.org/ "BELIEF 2026 explores belief functions, covering Dempster-Shafer theory, uncertainty modeling, and decision-making. Topics include applications in data fusion, AI, and risk analysis, emphasizing statistical frameworks for handling uncertainty in complex systems and data."), tbd.
+2026 tbd: [9th International Conference on Belief Functions (BELIEF 2026)](https://www.bfasociety.org/ "BELIEF 2026 explores belief functions, covering Dempster-Shafer methods, uncertainty modeling, and decision-making. Topics include applications in data fusion, AI, and risk analysis, emphasizing statistical frameworks for handling uncertainty in complex systems and data."), tbd.
 
 **2027-07-11 to 15: [66th ISI World Statistics Congress (WSC 2027)](https://isi-next.org/conferences/isi-wsc2027 "WSC 2027 explores statistics, covering statistical theory, data science, and applied methodologies. Topics include Bayesian inference, big data analytics, and applications in health, economics, and environment, emphasizing theoretical and practical statistical advancements."), Busan, South Korea**.
 

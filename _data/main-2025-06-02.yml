@@ -4004,11 +4004,11 @@ Workshop on Formal Methods in Quantum Computing (FMQC 2025):
   excerpt: Focuses on formal methods for quantum computing. Topics include quantum program verification, logic-based approaches, and applications in quantum algorithm design and validation.
 5th ZiF Summer School Randomness in Physics and Mathematics (2025):
   dd: 2025-08-25 to 09-06
-  name: '5th ZiF Summer School Randomness in Physics and Mathematics: From Thermalisation in Quantum Systems to Random Matrices (2025)'
+  name: 5th ZiF Summer School Randomness in Physics and Mathematics, From Thermalisation in Quantum Systems to Random Matrices (2025)
   link: https://indico.physik.uni-bielefeld.de/event/220/
   loc: Bielefeld, Germany
   kw: prob
-  excerpt: This summer school explores randomness, covering quantum thermalization, random matrices, and stochastic processes. Topics include applications in statistical physics, quantum information, and number theory, emphasizing probabilistic methods for understanding random phenomena in physics and mathematics.
+  excerpt: Examines randomness in physics and mathematics. Topics include thermalization in quantum systems, random matrix theory, and applications in statistical mechanics and quantum physics.
 19th International Symposium on Spatial and Temporal Data (SSTD 2025):
   dd: 2025-08-25 to 27
   link: https://sstd2025.github.io/
@@ -6289,13 +6289,6 @@ ICMU Winter School on Random Matrices, Random Analytic Functions, and Non-Linear
   loc: Vienna, Austria
   kw: prob
   excerpt: Focuses on random structures and algorithms. Topics include probabilistic combinatorics, random graphs, and applications in computer science and network analysis.
-5th ZiF Summer School Randomness in Physics and Mathematics (2025):
-  dd: 2025-08-25 to 09-06
-  name: 5th ZiF Summer School Randomness in Physics and Mathematics, From Thermalisation in Quantum Systems to Random Matrices (2025)
-  link: https://indico.physik.uni-bielefeld.de/event/220/
-  loc: Bielefeld, Germany
-  kw: prob
-  excerpt: Examines randomness in physics and mathematics. Topics include thermalization in quantum systems, random matrix theory, and applications in statistical mechanics and quantum physics.
 NUS-IMS Workshop on Statistical Mechanics and Singular SPDEs (2026):
   dd: 2026-05-11 to 15
   link: https://ims.nus.edu.sg/events/statistics_singularspdes/

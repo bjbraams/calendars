@@ -1,6 +1,6 @@
 2025-01-06 to 10: [Center for Mathematical Modeling (CMM) 7th Summer School in Probabilities and Stochastic Processes (2025)](https://eventos.cmm.uchile.cl/escuelappe2025/ "Focuses on probabilities and stochastic processes. Topics include Markov chains, random walks, and stochastic modeling, with applications in physics, finance, and biology."), Santiago, Chile.
 
-2025-01-06 to 10: [Center for Mathemtical Modeling (CMM) 7th Summer School in Probabilities and Stochastic Processes (2025)](https://eventos.cmm.uchile.cl/escuelappe2025/), Santiago, Chile.
+2025-01-06 to 10: [Center for Mathemtical Modeling (CMM) 7th Summer School in Probabilities and Stochastic Processes (2025)](https://eventos.cmm.uchile.cl/escuelappe2025/ "Focuses on probabilities and stochastic processes. Topics include Markov chains, random walks, and stochastic modeling, with applications in physics, finance, and biology."), Santiago, Chile.
 
 2025-01-20 to 24: [School on Disordered Media](https://erdoscenter.renyi.hu/events/school-disordered-media "The School on Disordered Media explores stochastic processes in disordered systems. Key topics include random walks in random environments, percolation theory, and spin glasses. The event covers statistical mechanics, probability theory, and applications in condensed matter physics, emphasizing mathematical models for complex, heterogeneous media."), Budapest, Hungary.
 

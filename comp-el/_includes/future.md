@@ -44,7 +44,7 @@
 
 2026-04-14 to 18: [Seismological Society of America Annual Meeting (SSA 2026)](https://meetings.seismosoc.org/ "SSA 2026 focuses on seismology, covering seismic wave modeling, earthquake dynamics, and geophysical imaging. Topics include applications in hazard assessment, tectonic studies, and resource exploration, emphasizing computational and experimental methods for understanding seismic phenomena."), Pasadena, CA, USA.
 
-**2026-05-03 to 08: [European Geophysical Union General Assembly (EGU 2026)](https://www.egu.eu/meetings/calendar/egu/ "EGU 2026 focuses on geophysics, covering seismology, atmospheric science, and Earth system modeling. Topics include climate dynamics, geophysical imaging, and natural hazards, emphasizing computational and experimental methods for understanding Earth\'s physical processes and environmental challenges."), Vienna, Austria and online**.
+**2026-05-03 to 08: [European Geophysical Union General Assembly (EGU 2026)](https://www.egu.eu/meetings/calendar/egu/ "EGU 2026 focuses on geophysics, covering seismology, atmospheric science, and Earth system modeling. Topics include climate dynamics, geophysical imaging, and natural hazards, emphasizing computational and experimental methods for understanding Earth's physical processes and environmental challenges."), Vienna, Austria and online**.
 
 2026-06-22 to 26: [18th European Conference Physics of Magnetism (PM 2026)](https://www.ifmpan.poznan.pl/pm26/ "PM 2026 explores magnetism, covering spintronics, magnetic materials, and nanomagnetism. Topics include applications in data storage, sensors, and quantum technologies, emphasizing computational and experimental methods for studying magnetic properties and phenomena."), Poznań, Poland.
 
@@ -52,5 +52,5 @@
 
 2027-04-04 to 09: [European Geophysical Union General Assembly (EGU 2027)](https://www.egu.eu/meetings/calendar/egu/ "EGU 2027 focuses on geophysics, covering seismology, climate dynamics, and planetary science. Topics include geophysical modeling, natural hazard assessment, and Earth observation, emphasizing computational and experimental methods for studying Earth\'s systems and processes."), Vienna, Austria and online.
 
-2028-04-23 to 28: [European Geophysical Union General Assembly (EGU 2028)](https://www.egu.eu/meetings/calendar/egu/ "EGU 2028 focuses on geophysics, covering atmospheric science, seismology, and Earth system modeling. Topics include climate change, geophysical imaging, and planetary exploration, emphasizing computational and experimental methods for understanding Earth\'s physical and environmental systems."), Vienna, Austria and online.
+2028-04-23 to 28: [European Geophysical Union General Assembly (EGU 2028)](https://www.egu.eu/meetings/calendar/egu/ "EGU 2028 focuses on geophysics, covering atmospheric science, seismology, and Earth system modeling. Topics include climate change, geophysical imaging, and planetary exploration, emphasizing computational and experimental methods for understanding Earth's physical and environmental systems."), Vienna, Austria and online.
 

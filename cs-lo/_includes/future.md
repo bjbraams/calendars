@@ -6,6 +6,8 @@
 
 2025-06-23 to 26: [40th ACM/IEEE Symposium on Logic in Computer Science (LICS 2025)](https://lics.siglog.org/lics25/ "LICS 2025 explores logic in computer science, covering formal methods, type theory, and automated reasoning. Topics include program verification, logical foundations of AI, and applications in software security, emphasizing theoretical logic for computational systems."), Singapore.
 
+2025-07-07 to 11: [School on Symbolic and Statistical Methods for Reasoning and Processing Formal Expressions (2025)](https://europroofnet.github.io/Kutaisi25/), Kutaisi, Georgia.
+
 2025-07-14 to 17: [Workshop on Logic, Language, Information and Computation (WoLLIC 2025)](https://wollic2025.github.io "WoLLIC 2025 focuses on logic, language, and computation, covering formal semantics, proof theory, and computational linguistics. Topics include automated reasoning, natural language processing, and applications in AI, emphasizing theoretical foundations of logical and linguistic computation."), Porto, Portugal.
 
 2025-07-14 to 20: [10th International Conference on Formal Structures for Computation and Deduction (FSCD 2025)](https://fscd2025.github.io/ "FSCD 2025 focuses on formal structures in computation, covering type theory, rewriting systems, and proof theory. Topics include program verification, automated deduction, and applications in software correctness, emphasizing mathematical foundations of computational and deductive systems."), Birmingham, UK.

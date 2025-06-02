@@ -66,21 +66,19 @@ print('Checking _data/updates.yml...')
 with open('_data/updates.yml') as f:
     updates = myyaml.read_yml_dict(f)
 for ident, update in updates.items():
-    errors = myyaml.check_update(ident,update)
-    if errors:
-        print(f'Errors in item {ident}:\n')
-    for error in errors:
+    for error in myyaml.check_update(ident,update):
         print(error)
 
 if not main:
-    print('Watch out: Old file main.yml is empty')
+    print('Fatal error: Old file main.yml is empty')
+    sys.exit(1)
 
 # Apply the updates to the local files
 for ident in deletes.keys():
     del main[ident]
 
 for ident, event in updates.items():
-    t0 = main.get(ident,{}).update(event)
+    t0 = main.get(ident,{})|event
     main[ident] = myyaml.sort_event_keys(t0)
 
 for ident, event in latest.items():
