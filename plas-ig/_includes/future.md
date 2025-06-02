@@ -46,7 +46,7 @@
 
 2026-11-30 to 12-03: [12th International Conference on Reactive Plasmas (ICRP 2026)](https://annex.jsap.or.jp/plasma/PE_files/meetings.html "ICRP 2026 focuses on reactive plasmas, covering plasma chemistry, etching, and deposition. Topics include applications in semiconductor manufacturing, surface modification, and nanotechnology, emphasizing experimental and computational studies of reactive plasma processes and technologies."), Kanazawa, Japan.
 
-**2026 tbd: [22nd International Congress on Plasma Physics (ICPP 2026)]("ICPP 2026 explores plasma physics, covering magnetic confinement, laser-plasma interactions, and plasma astrophysics. Topics include fusion energy, plasma diagnostics, and industrial plasmas, emphasizing experimental, theoretical, and computational advancements in plasma science and applications."), tbd**.
+**2026 tbd: 22nd International Congress on Plasma Physics (ICPP 2026), tbd**.
 
 2027-10-02 to 07: [30th International School on Low Temperature Plasma Physics: Basics and Applications (2026)](https://www.plasma-school.org/ "This school explores low-temperature plasma physics, covering plasma generation, diagnostics, and applications. Topics include plasma-surface interactions, biomedical plasmas, and industrial processing, emphasizing fundamental principles and computational modeling for practical plasma applications."), Bad Honnef, Germany.
 

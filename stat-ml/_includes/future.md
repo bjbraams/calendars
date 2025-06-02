@@ -12,7 +12,7 @@
 
 2025-06-16 to 27: [17th Madrid UPM Machine Learning and Advanced Statistics Summer School (2025)](https://cig.fi.upm.es/mlas/ "This summer school explores machine learning and advanced statistics, covering deep learning, Bayesian inference, and high-dimensional statistics. Topics include neural networks, time-series analysis, and applications in finance and biology, emphasizing theoretical and practical data science."), Madrid, Spain.
 
-2025-06-19 to 20: [ASCAI Group Meeting 2025 on the Interface Between Statistical Physics and Learning and on Computational Barriers in Statistical Learning (2025)](https://www.imo.universite-paris-saclay.fr/fr/conf/ascai-meeting/ "This meeting explores statistical physics and machine learning, focusing on phase transitions, optimization landscapes, and computational barriers. Topics include high-dimensional inference, neural network dynamics, and applications in AI, emphasizing statistical physics insights into learning algorithms."), Orsay, France.
+2025-06-19 to 20: [ASCAI Group Meeting 2025 on the Interface Between Statistical Physics and Learning and on Computational Barriers in Statistical Learning](https://www.imo.universite-paris-saclay.fr/fr/conf/ascai-meeting/ "This meeting explores statistical physics and machine learning, focusing on phase transitions, optimization landscapes, and computational barriers. Topics include high-dimensional inference, neural network dynamics, and AI applications, emphasizing statistical physics insights."), Orsay, France.
 
 2025-06-23 to 25: [International Conference on Statistics and Data Science (2025)](https://icsds.github.io/2025/ "This conference explores statistics and data science, covering machine learning, Bayesian methods, and high-dimensional inference. Topics include causal inference, time-series analysis, and applications in social sciences and health, emphasizing statistical and computational data analysis."), Vancouver, BC, Canada.
 
@@ -78,5 +78,5 @@
 
 2026-01-20 to 27: [40th Annual AAAI Conference on Artificial Intelligence (AAAI 2026)](https://aaai.org/conference/aaai/aaai-26/), Singapore.
 
-2026-07-14 to 16: [19th Conference of the International Federation of Classification Societies (IFCS 2026)]("IFCS 2026 explores classification, covering clustering, supervised learning, and pattern recognition. Topics include applications in bioinformatics, social sciences, and image analysis, emphasizing statistical and machine learning methods for data classification and knowledge discovery."), Milan, Italy.
+2026-07-14 to 16: 19th Conference of the International Federation of Classification Societies (IFCS 2026), Milan, Italy.
 

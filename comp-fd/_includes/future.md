@@ -1,7 +1,5 @@
 **2025-06-02 to 05: [IUTAM Symposium on Nonlinear Dynamics of Systems and Structures for Green Energy Conversion (2025)](https://iutam.org/events/iutam-symposium-on-nonlinear-dynamics-of-systems-and-structures-for-green-energy-conversion "Focuses on nonlinear dynamics in green energy systems. Topics include vibrational energy harvesting, nonlinear structural dynamics, and computational modeling for renewable energy applications."), Senigallia, Italy**.
 
-2025-06-02 to 13: [Algorithms for Multiphysics Models in the Post-Moore\'s Law Era (2025)](https://sites.google.com/msu.edu/modeling-beyond-moore/ "This workshop focuses on algorithms for multiphysics models, covering numerical methods for coupled systems in the post-Moore’s Law era. Topics include scalable solvers, reduced-order modeling, and applications in fluid dynamics and materials, emphasizing computational efficiency."), Los Alamos, NM, USA.
-
 2025-06-02 to 13: [YITP International Molecule-Type Workshop on Hydrodynamics of Low-Dimensional Interacting Systems Advances, Challenges, and Future Directions (2025)](https://www.yukawa.kyoto-u.ac.jp/seminar/s53402?lang=en-GB "This workshop explores hydrodynamics in low-dimensional systems, focusing on fluid dynamics, quantum hydrodynamics, and computational modeling. Topics include transport properties, collective modes, and applications in condensed matter, emphasizing theoretical and numerical advancements."), Kyoto, Japan.
 
 2025-06-09 to 11: [12th International Conference on Adaptive Modeling and Simulation (ADMOS 2025)](https://admos2025.cimne.com/ "ADMOS 2025 focuses on adaptive modeling and simulation, covering mesh adaptation, error estimation, and multiscale methods. Topics include computational fluid dynamics, structural mechanics, and applications in engineering, emphasizing adaptive numerical techniques for complex simulations."), Barcelona, Spain.
@@ -44,5 +42,5 @@
 
 2026-07-06 to 10: [13th International Conference on Computational Fluid Dynamics (ICCFD 2026)](https://www.linkedin.com/posts/alberto-guardone-269a416b_yesterday-we-successfully-wrapped-up-the-activity-7220407354540883968-jRwn "ICCFD 2026 explores computational fluid dynamics, covering turbulence modeling, high-order methods, and multiphase flows. Topics include applications in aerospace, energy, and environmental engineering, emphasizing computational techniques for simulating complex fluid dynamics phenomena."), Milan, Italy.
 
-2026 tbd: [6th International Seminar on Non Ideal Compressible Fluid Dynamics (NICFD 2026)]("NICFD 2026 focuses on non-ideal compressible fluid dynamics, covering dense gases, supercritical fluids, and multiphase flows. Topics include applications in energy systems, aerospace, and chemical engineering, emphasizing computational methods for non-ideal fluid simulations."), tbd.
+2026 tbd: 6th International Seminar on Non Ideal Compressible Fluid Dynamics (NICFD 2026), tbd.
 

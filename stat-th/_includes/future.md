@@ -1,5 +1,3 @@
-2025-06-08 to 12: [Objective Bayes Methodology Conference (O\'Bayes 2025)](https://obayes25.aueb.gr "O\'Bayes 2025 explores objective Bayesian methods, covering prior elicitation, model selection, and computational Bayes. Topics include high-dimensional inference, applications in economics and biostatistics, emphasizing objective approaches to Bayesian statistical analysis."), Athens, Greece.
-
 2025-06-12 to 13: [HCM Workshop Functional Data Analysis - In Honor of Alois Kneip (2025)](https://www.mathematics.uni-bonn.de/hcm/events/workshops-conferences/workshop_functional-data-analysis-a "This workshop focuses on functional data analysis, covering functional regression, time-series modeling, and high-dimensional statistics. Topics include applications in biostatistics and economics, honoring Alois Kneip’s contributions, emphasizing advanced statistical methods for functional data."), Bonn, Germany.
 
 2025-06-12 to 15: [International India Statistical Association Conference (IISA 2025)](https://www.intindstat.org/conference2025/index "IISA 2025 explores statistical theory and applications, covering Bayesian inference, machine learning, and survival analysis. Topics include biostatistics, data science, and applications in healthcare and economics, emphasizing statistical advancements with global perspectives."), Lincoln, NE, USA.
@@ -48,7 +46,7 @@
 
 2026-06-03 to 05: [5th ISI Regional Statistics Conference (RSC 2026)](https://www.isi-next.org/conferences/isi-rsc-malta-2026/ "RSC 2026 explores statistical theory and applications, covering Bayesian methods, time-series analysis, and data science. Topics include applications in economics, health, and environmental statistics, emphasizing theoretical and practical advancements in statistical modeling and analysis."), Valletta, Malta.
 
-2026-08-01 to 06: [ASA, IMS and Other Joint Statistical Meetings (JSM 2026)]("JSM 2026 explores statistics, covering probability theory, statistical modeling, and data science. Topics include applications in biostatistics, economics, and environmental science, emphasizing theoretical and applied statistical methods for analyzing complex, real-world data challenges."), Boston, MA, USA.
+2026-08-01 to 06: ASA, IMS and Other Joint Statistical Meetings (JSM 2026), Boston, MA, USA.
 
 2026-08-24 to 28: [Bernoulli Society European Meeting of Statisticians (EMS 2026)](https://bernoullisociety.org/organization/erc/ems "EMS 2026 focuses on statistics, covering probability theory, statistical inference, and stochastic processes. Topics include applications in finance, biology, and social sciences, emphasizing theoretical and applied statistical methods for addressing complex data and uncertainty."), Lugano, Switzerland.
 
@@ -56,7 +54,7 @@
 
 **2027-07-11 to 15: [66th ISI World Statistics Congress (WSC 2027)](https://isi-next.org/conferences/isi-wsc2027 "WSC 2027 explores statistics, covering statistical theory, data science, and applied methodologies. Topics include Bayesian inference, big data analytics, and applications in health, economics, and environment, emphasizing theoretical and practical statistical advancements."), Busan, South Korea**.
 
-2027-08-07 to 12: [ASA, IMS and Other Joint Statistical Meetings (JSM 2027)]("JSM 2027 explores statistics, covering probability, statistical inference, and data analysis. Topics include applications in biostatistics, finance, and social sciences, emphasizing theoretical and applied statistical methods for addressing complex data-driven problems and uncertainties."), Chicago, IL, USA.
+2027-08-07 to 12: ASA, IMS and Other Joint Statistical Meetings (JSM 2027), Chicago, IL, USA.
 
-2028-08-05 to 10: [ASA, IMS and Other Joint Statistical Meetings (JSM 2028)]("JSM 2028 explores statistics, covering statistical modeling, probability theory, and data science. Topics include applications in biostatistics, environmental science, and economics, emphasizing theoretical and applied statistical methods for analyzing complex datasets and uncertainties."), Philadelphia, PA, USA.
+2028-08-05 to 10: ASA, IMS and Other Joint Statistical Meetings (JSM 2028), Philadelphia, PA, USA.
 

@@ -1,7 +1,9 @@
 import yaml
 
 MANDATORY_KEYS = ['dd']
-RECOGNIZED_KEYS = MANDATORY_KEYS+['link','loc','more','kw','arxiv','msc','inspec','excerpt']
+RECOGNIZED_KEYS = MANDATORY_KEYS+[
+    'name','link','loc','more',
+    'kw','arxiv','msc','inspec','excerpt']
     # Lists sorted as we like it
 SetMK = set(MANDATORY_KEYS)
 SetRK = set(RECOGNIZED_KEYS)
@@ -12,12 +14,11 @@ def sort_event_keys(event):
         if k in event.keys():
             t[k] = event[k]
     for k in event.keys():
-        if k not in SetRK:
-            t[k] = event[k]
-    event = t
+        t.setdefault(k,event[k])
+    return t
 
 def sort_key(item):
-    # item is [name,event]. Sort on event['dd'], ties resolved by name.
+    # item is [ident,event]. Sort on event['dd'], ties resolved by ident.
     # Replace spaces with a high-value Unicode character for sorting.
     # ('YYYY tbd' will come after any specific date in year YYYY.)
     t0 = str(item[1].get('dd',''))+' '+str(item[0])
@@ -83,18 +84,19 @@ def dump(data,f):
 
 def event_yaml_to_md(name,event,hl):
     # Generate a Markdown entry for calendar item event, highlight if hl.
-    dd = event.get('dd','No dates')
+    dd = event.get('dd','')
+    link = event.get('link','')
     exc = event.get('excerpt','')
-    if (link := event.get('link','')):
-        if exc:
-            link = link+' "'+exc+'"'
+    if link and exc:
+        a0 = '['+name+']('+link+' "'+exc+'")'
+    elif link:
+        a0 = '['+name+']('+link+')'
     else:
-        if exc:
-            link = '"'+exc+'"'
+        a0 = name
     if (loc := event.get('loc','')):
-        a = dd+': ['+name+']('+link+'), '+loc
+        a = dd+': '+a0+', '+loc
     else:
-        a = dd+': ['+name+']('+link+')'
+        a = dd+': '+a0
     if (more := event.get('more','')):
         b = '. '+more.rstrip('.')+'.'
     else:
@@ -119,8 +121,9 @@ def page_yaml_to_md(main,highlights,TODAY):
     future_md = []
     highlights_md = []
     # new_md = []
-    for name, event in main.items():
-        hl = name in highlights
+    for ident, event in main.items():
+        hl = ident in highlights
+        name = event.get('name',ident)
         xmd = event_yaml_to_md(name,event,hl)
         if str(event['dd']).replace(' ','\uffff') < TODAY:
             past_md.append(xmd)
@@ -128,8 +131,8 @@ def page_yaml_to_md(main,highlights,TODAY):
             future_md.append(xmd)
             if hl:
                 highlights_md.append(xmd)
-#   for name in new:
-#       if name in main.keys():
+#   for ident in new:
+#       if ident in main.keys():
 #           event = main[x]
 #           hl = x in highlights
 #           xmd = event_yaml_to_md(event,hl)

@@ -2,5 +2,5 @@
 
 2025-10-06 to 08: [Kaiserslautern Applied and Industrial Mathematics Days (KLAIM 2025)](https://www.itwm.fraunhofer.de/en/fairs_events/2025/2025_10_06_klaim_en.html "Explores applied and industrial mathematics. Topics include optimization, numerical methods, and applications in engineering, finance, and data science."), Kaiserslautern, Germany.
 
-2025-10-16 to 17: [Annual GAMM Workshop on Computational and Mathematical Methods in Data Science 2025]("Focuses on computational and mathematical methods in data science. Topics include numerical optimization, machine learning algorithms, and applications in big data analytics."), Chemnitz, Germany.
+2025-10-16 to 17: Annual GAMM Workshop on Computational and Mathematical Methods in Data Science 2025, Chemnitz, Germany.
 

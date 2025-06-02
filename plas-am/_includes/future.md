@@ -22,5 +22,5 @@
 
 **2026-09-07 to 11: [22nd International Conference on the Physics of Highly Charged Ions (HCI 2026)](https://indico.impcas.ac.cn/event/75/ "HCI 2026 explores highly charged ions, covering atomic collisions, spectroscopy, and plasma interactions. Topics include applications in astrophysics, fusion plasmas, and materials science, emphasizing experimental and theoretical studies of highly charged ion dynamics."), Huizhou, China**.
 
-**2026 tbd: [14th International Conference on Atomic and Molecular Data and Their Applications (ICAMDATA 2026)]("ICAMDATA 2026 focuses on atomic and molecular data, covering spectroscopic data, collision processes, and plasma interactions. Topics include applications in fusion, astrophysics, and atmospheric science, emphasizing computational and experimental data for atomic and molecular studies."), tbd**.
+**2026 tbd: 14th International Conference on Atomic and Molecular Data and Their Applications (ICAMDATA 2026), tbd**.
 

@@ -37,38 +37,38 @@ elif not os.path.isfile('_data/main.yml'):
 print('Checking _data/main.yml...')
 with open('_data/main.yml') as f:
     main = myyaml.read_yml_dict(f)
-for key, event in main.items():
-    errors = myyaml.check_event(key,event)
+for ident, event in main.items():
+    errors = myyaml.check_event(ident,event)
     if errors:
-        print(f'Errors in item {key}:\n')
+        print(f'Errors in item {ident}:\n')
     for error in errors:
         print(error)
 
 print('Checking _data/latest.yml...')
 with open('_data/latest.yml') as f:
     latest = myyaml.read_yml_dict(f)
-for key, event in latest.items():
-    errors = myyaml.check_event(key,event)
+for ident, event in latest.items():
+    errors = myyaml.check_event(ident,event)
     if errors:
-        print(f'Errors in item {key}:\n')
+        print(f'Errors in item {ident}:\n')
     for error in errors:
         print(error)
 
 print('Checking _data/deletes.yml...')
 with open('_data/deletes.yml') as f:
     deletes = myyaml.read_yml_dict(f)
-for key in deletes.keys():
-    if key not in main.keys():
-        print(f'key {key} is not found')
-        del deletes[key]
+for ident in deletes.keys():
+    if ident not in main.keys():
+        print(f'key {ident} is not found')
+        del deletes[ident]
 
 print('Checking _data/updates.yml...')
 with open('_data/updates.yml') as f:
     updates = myyaml.read_yml_dict(f)
-for key, update in updates.items():
-    errors = myyaml.check_update(key,update)
+for ident, update in updates.items():
+    errors = myyaml.check_update(ident,update)
     if errors:
-        print(f'Errors in item {key}:\n')
+        print(f'Errors in item {ident}:\n')
     for error in errors:
         print(error)
 
@@ -76,19 +76,15 @@ if not main:
     print('Watch out: Old file main.yml is empty')
 
 # Apply the updates to the local files
-for key in deletes.keys():
-    del main[key]
+for ident in deletes.keys():
+    del main[ident]
 
-for key, event in updates.items():
-    myyaml.sort_event_keys(event)
-    if key in main.keys():
-        main[key].update(event)
-    else:
-        main[key] = event
+for ident, event in updates.items():
+    t0 = main.get(ident,{}).update(event)
+    main[ident] = myyaml.sort_event_keys(t0)
 
-for key, event in latest.items():
-    myyaml.sort_event_keys(event)
-    main[titlecase(key)] = event
+for ident, event in latest.items():
+    main[titlecase(ident)] = myyaml.sort_event_keys(event)
 
 # Check to proceed
 input(f'Return to proceed, Ctrl-c to cancel')

@@ -40,7 +40,7 @@
 
 2025-08-15 to 19: [Nuclear Target Development Summer School (NTDSS 2025)](https://cyclotron.tamu.edu/ntdss2025/ "NTDSS 2025 focuses on nuclear target development, covering target fabrication, thin-film techniques, and isotopic enrichment. Topics include applications in nuclear physics experiments, accelerator-based research, and astrophysics, emphasizing hands-on training in target preparation for high-precision nuclear measurements."), College Station, TX, USA.
 
-2025-08-18 to 22: [Workshop on Nuclear Masses in Astrophysics for the Next 25 Years (2025)]("This workshop explores nuclear masses in astrophysics, covering mass measurements, nuclear reactions, and nucleosynthesis. Topics include stellar evolution, neutron star physics, and applications in cosmology, emphasizing high-precision nuclear data for astrophysical modeling and simulations."), Darmstadt, Germany.
+2025-08-18 to 22: Workshop on Nuclear Masses in Astrophysics for the Next 25 Years (2025), Darmstadt, Germany.
 
 2025-09-22 to 25: [NUCLear Exotic Structures and Related Phenomena (NUCLEAR 2025)](https://napp.fudan.edu.cn/event/52/), Shanghai, China.
 

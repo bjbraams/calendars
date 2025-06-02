@@ -14,8 +14,6 @@
 
 2025-04-29: [7th Symposium on Advances in Approximate Bayesian Inference (AABI 2025)](https://approximateinference.org "AABI 2025 explores approximate Bayesian inference, covering variational inference, expectation propagation, and scalable Monte Carlo methods. Topics include Bayesian deep learning, uncertainty quantification, and applications in AI and biostatistics, emphasizing efficient computational Bayesian techniques."), Singapore. (Co-located with [ICLR 2025](https://iclr.cc).).
 
-2025-05-08 to 10: [Conference the Past, Present and Future of Statistics in the Era of AI - Marking 90 Years of the GWU Department of Statistics (2025)](https://statistics.columbian.gwu.edu/gw-stat-90 "This conference explores statistics in the AI era, covering Bayesian methods, high-dimensional inference, and causal modeling. Topics include statistical learning, data privacy, and applications in social sciences and healthcare, reflecting on 90 years of statistical advancements at GWU."), Washington, DC, USA.
-
 2025-05-21 to 23: [CRiSM 2.0 Conference (2025)](https://warwick.ac.uk/fac/sci/statistics/news/crism-event2025 "CRiSM 2.0 focuses on statistical theory, covering Bayesian inference, high-dimensional statistics, and time-series analysis. Topics include computational statistics, causal inference, and applications in biostatistics and economics, emphasizing theoretical advancements in statistical modeling and analysis."), Warwick, UK.
 
 2025-05-25 to 28: [Statistical Society of Canada Annual Meeting (SSC 2025)](https://ssc.ca/en/meetings/annual/2025-ssc-annual-meeting-saskatoon), Saskatoon, SK, Canada.

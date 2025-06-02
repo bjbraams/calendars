@@ -12,8 +12,6 @@
 
 2025-04-02 to 04: [EuroMech Colloquium 629 on Data-Driven Fluid Mechanics (2025)](https://629.euromech.org/ "Explores data-driven approaches in fluid mechanics, integrating machine learning and computational modeling. Topics include turbulence modeling, flow prediction, and applications in aerodynamics and environmental flows."), London, UK.
 
-2025-04-07 to 10: [Conference on Kinetic Equations and Turbulence in Honor of Claude Bardos\'s 85th Birthday](https://bardos-85.sciencesconf.org/?lang=en "Focuses on kinetic equations and turbulence modeling. Topics include Boltzmann equations, computational fluid dynamics, and turbulence simulation, with applications in physics and engineering."), Gif-sur-Yvette, France.
-
 2025-04-27 to 05-02: [Oberwolfach Workshop on Computational Multiscale Methods (2025)](https://mfo.de/occasion/2518/www_view "This workshop explores computational multiscale methods, covering homogenization, multigrid techniques, and adaptive algorithms. Topics include multiscale fluid dynamics, materials modeling, and applications in engineering and biophysics, emphasizing efficient numerical methods for complex systems."), Oberwolfach, Germany.
 
 2025-05-05 to 07: [ANR Project ADA Conference on Theoretical and Numerical Analysis of Multi-Scale Equations (2025)](https://conf-ada.sciencesconf.org/ "Examines theoretical and numerical methods for multi-scale equations. Topics include homogenization, finite element methods, and applications in fluid dynamics and material science."), Lyon, France.
@@ -21,8 +19,6 @@
 2025-05-11 to 16: [Oberwolfach Workshop on Mathematical Advances in Geophysical Fluid Dynamics (2025)](https://www.mfo.de/occasion/2520/www_view "This workshop explores geophysical fluid dynamics, focusing on mathematical models for oceanic and atmospheric flows. Topics include turbulence, wave dynamics, and numerical methods for fluid simulations, with applications in climate prediction and weather forecasting, emphasizing computational advancements."), Oberwolfach, Germany.
 
 **2025-05-15 to 17: [IUTAM Symposium on Machine Learning in Diverse Fluid Mechanics (2025)](https://iutam-mldfm2025.org/ "Integrates machine learning with fluid mechanics, focusing on data-driven modeling. Topics include turbulence prediction, flow optimization, and applications in aerodynamics and environmental flows."), Okinawa, Japan**.
-
-2025-05-22 to 23: [2nd International Workshop on Advance in Nonlinear Dynamical Systems, Complex Networks and Applications (DySyX 2025)](https://dysyx2025.sciencesconf.org/ "Explores nonlinear dynamical systems and complex networks. Topics include chaos theory, network dynamics, and applications in physics, biology, and engineering."), Kenitra, Morocco.
 
 2025-05-25 to 28: [11th International Conference on Coupled Problems in Science and Engineering (COUPLED 2025)](https://coupled2025.cimne.com/ "COUPLED 2025 focuses on coupled problems in science and engineering, covering fluid-structure interactions, multiphysics simulations, and numerical methods. Topics include computational fluid dynamics, thermal coupling, and applications in aerospace and biomechanics, emphasizing advanced simulation techniques."), Villasimius, Sardinia, Italy.
 

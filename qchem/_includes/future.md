@@ -68,15 +68,15 @@
 
 2025-12-15 to 20: [International Chemical Congress of Pacific Basin Societies (Pacifichem 2025)](https://pacifichem.org "Pacifichem 2025 explores chemistry, covering quantum chemistry, spectroscopy, and materials chemistry. Topics include applications in catalysis, energy storage, and biophysics, emphasizing experimental and computational advances in chemical sciences across the Pacific Basin region."), Honolulu, HI, USA.
 
-2026-06-22 to 26: [Quantum Reactive Scattering Workshop (QRS 2026)]("Covers quantum reactive scattering in chemical systems. Topics include quantum dynamics, scattering theory, and computational methods for molecular reactions and chemical kinetics."), Gdańsk, Poland. Announced on MDNews list.
+2026-06-22 to 26: Quantum Reactive Scattering Workshop (QRS 2026), Gdańsk, Poland. Announced on MDNews list.
 
 2026-07-12 to 17: [30th IUPAC Symposium on Photochemistry (PhotoIUPAC 2026)](https://www.linkedin.com/posts/photoiupac-iupac-symposium-on-photochemistry-9643a7302_presentation-of-the-30th-photoiupac-symposium-activity-7220066280253333508-04x6/), Zagreb, Croatia. Preliminary link, announcement only.
 
-2026 tbd: [12th Workshop on Novel Methods for Electronic Structure Calculations (2026)]("This workshop explores electronic structure calculations, covering density functional theory, quantum Monte Carlo, and coupled-cluster methods. Topics include applications in materials science, chemical physics, and nanotechnology, emphasizing computational advances in electronic structure modeling."), Argentina.
+2026 tbd: 12th Workshop on Novel Methods for Electronic Structure Calculations (2026), Argentina.
 
-2026 tbd: [31st Canadian Symposium on Theoretical and Computational Chemistry (CSTCC 2026)]("CSTCC 2026 explores theoretical and computational chemistry, covering quantum chemistry, molecular dynamics, and spectroscopy. Topics include applications in catalysis, biophysics, and materials science, emphasizing computational methods for modeling chemical systems and interactions."), Ottawa, Canada.
+2026 tbd: 31st Canadian Symposium on Theoretical and Computational Chemistry (CSTCC 2026), Ottawa, Canada.
 
 2027-07-16 to 23: [IUPAC 51st World Chemistry Congress and 54th General Assembly (IUPAC 2027)](https://iupac.org/wp-content/uploads/2021/08/51st-Council-Agenda-Book_August-2021_CANADA2027-compressed.pdf), Montreal, QC, Canada. Preliminary link, flyer.
 
-2027 tbd: [12th Triennial Congress of the International Society of Theoretical Chemical Physics (ISTCP 2027)]("ISTCP 2027 explores theoretical chemical physics, covering quantum chemistry, molecular dynamics, and statistical mechanics. Topics include applications in catalysis, biophysics, and materials science, emphasizing computational and theoretical methods for chemical and physical phenomena."), tbd.
+2027 tbd: 12th Triennial Congress of the International Society of Theoretical Chemical Physics (ISTCP 2027), tbd.
 

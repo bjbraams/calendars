@@ -10,5 +10,5 @@
 
 **2026-07-07 to 11: [27th Europhysics Conference on Atomic and Molecular Physics of Ionized Gases (ESCAMPIG 2026)](https://escampig2024.physics.muni.cz "ESCAMPIG 2026 focuses on atomic and molecular physics of ionized gases, covering plasma kinetics, electron collisions, and plasma chemistry. Topics include applications in plasma processing, lighting, and biomedicine, emphasizing experimental and computational plasma science advancements."), Madeira, Spain**.
 
-**2026 tbd: [22nd International Congress on Plasma Physics (ICPP 2026)]("ICPP 2026 explores plasma physics, covering magnetic confinement, laser-plasma interactions, and plasma astrophysics. Topics include fusion energy, plasma diagnostics, and industrial plasmas, emphasizing experimental, theoretical, and computational advancements in plasma science and applications."), tbd**.
+**2026 tbd: 22nd International Congress on Plasma Physics (ICPP 2026), tbd**.
 
