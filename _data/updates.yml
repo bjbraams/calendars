@@ -2306,3 +2306,147 @@ IMSI Workshop Kernel Methods in Uncertainty Quantification and Experimental Desi
   loc: Münster, Germany
   excerpt: This summer school focuses on interacting random systems, covering random walks, spin systems, and stochastic networks. Topics include phase transitions, percolation, and applications in statistical mechanics, emphasizing probabilistic modeling of complex interacting systems.
   arxiv: math.PR, cond-mat.stat-mech
+'17th Madrid UPM Machine Learning and Advanced Statistics Summer School (2025)':
+  dd: 2025-06-16 to 27
+  link: https://cig.fi.upm.es/mlas/
+  loc: Madrid, Spain
+  excerpt: This summer school explores machine learning and advanced statistics, covering deep learning, Bayesian inference, and high-dimensional statistics. Topics include neural networks, time-series analysis, and applications in finance and biology, emphasizing theoretical and practical data science.
+  arxiv: stat.ML, cs.LG
+'Los Alamos Computational Condensed Matter Summer School 2025':
+  dd: 2025-06-16 to 27
+  link: https://laccmss.github.io/2025/
+  loc: Los Alamos, NM, USA
+  excerpt: This summer school focuses on computational condensed matter physics, covering density functional theory, Monte Carlo methods, and molecular dynamics. Topics include quantum materials, superconductivity, and energy applications, emphasizing computational techniques for material simulations.
+  arxiv: cond-mat.mtrl-sci, physics.comp-ph
+'Summer School on PDE and Probability (2025)':
+  dd: 2025-06-16 to 27
+  link: https://indico.math.cnrs.fr/event/13554/
+  loc: Paris, France
+  excerpt: This summer school explores partial differential equations and probability, covering stochastic PDEs, random fields, and probabilistic methods. Topics include fluid dynamics and statistical physics applications, emphasizing the interplay between deterministic and probabilistic frameworks.
+  arxiv: math.PR, math.AP
+'14th International Meeting on Atomic and Molecular Physics and Chemistry (IMAMPC 2025)':
+  dd: 2025-06-17 to 19
+  link: https://imampc2025.sciencesconf.org
+  loc: Caen, France
+  excerpt: IMAMPC 2025 focuses on atomic and molecular physics and chemistry, covering plasma interactions, molecular dynamics, and spectroscopy. Topics include reactive collisions, plasma chemistry, and applications in astrophysics and materials, emphasizing experimental and theoretical studies.
+  arxiv: physics.chem-ph, physics.atom-ph
+'36th Annual Symposium on Combinatorial Pattern Matching (CPM 2025)':
+  dd: 2025-06-17 to 19
+  link: https://cpm2025.pangenome.eu
+  loc: Milan, Italy
+  excerpt: CPM 2025 focuses on combinatorial pattern matching, covering string algorithms, sequence analysis, and computational biology. Topics include suffix trees, pattern discovery, and applications in genomics and text processing, emphasizing efficient algorithmic techniques.
+  arxiv: cs.DS, q-bio.GN
+'32nd Foundational Methods in Computer Science Workshop (FMCS 2025)':
+  dd: 2025-06-17 to 20
+  link: https://sites.google.com/view/fmcs-ottawa
+  loc: Ottawa, ON, Canada
+  excerpt: FMCS 2025 explores foundational computer science, focusing on logic, type theory, and formal semantics. Topics include automated theorem proving, program verification, and software correctness, emphasizing mathematical foundations of computational systems.
+  arxiv: cs.LO, cs.PL
+'Meeting of the International Network of Nuclear Reaction Data Centres (NRDC 2025)':
+  dd: 2025-06-17 to 20
+  link: https://www-nds.iaea.org/nrdc/nrdc_2025/
+  loc: Madrid, Spain
+  excerpt: NRDC 2025 focuses on nuclear reaction data, covering cross-section measurements, data compilation, and evaluation. Topics include nuclear databases, reaction modeling, and applications in nuclear energy and astrophysics, emphasizing standardized nuclear data.
+  arxiv: nucl-th, physics.data-an
+'Modeling and Optimization: Theory and Applications (MOPTA 2025)':
+  dd: 2025-06-17 to 20
+  link: https://coral.ise.lehigh.edu/mopta2025/
+  loc: Ponta Delgada, Azores, Portugal
+  excerpt: MOPTA 2025 explores modeling and optimization, covering linear programming, stochastic optimization, and machine learning. Topics include supply chain optimization, energy systems, and operations research applications, emphasizing theoretical and applied optimization.
+  arxiv: math.OC, cs.LG
+'Current Trends in Electronic-Structure Theory (CTEST 2025)':
+  dd: 2025-06-18 to 20
+  link: https://ctest2025.com
+  loc: Copenhagen, Denmark
+  excerpt: CTEST 2025 focuses on electronic-structure theory, covering density functional theory, many-body perturbation theory, and quantum Monte Carlo. Topics include correlated systems, excited states, and applications in materials and molecules, emphasizing computational quantum chemistry.
+  arxiv: cond-mat.mtrl-sci, physics.chem-ph
+'ELI User Meeting 2025':
+  dd: 2025-06-18 to 20
+  link: https://indico.eli-laser.eu/event/194/
+  loc: Szeged, Hungary
+  excerpt: This meeting focuses on high-intensity laser research, covering laser-plasma interactions, attosecond science, and particle acceleration. Topics include EUV generation, laser-driven fusion, and applications in physics and biology, emphasizing ELI facility experiments.
+  arxiv: physics.plasm-ph, physics.optics
+'Numerical Methods in Quantum Chemistry Workshop (2025)':
+  dd: 2025-06-18 to 20
+  link: https://mrchemsoft.no/nmqc-2025/
+  loc: Berlin, Germany
+  excerpt: This workshop focuses on numerical methods in quantum chemistry, covering wavefunction methods, density functional theory, and high-performance computing. Topics include molecular dynamics, excited-state calculations, and catalysis applications, emphasizing computational efficiency.
+  arxiv: physics.chem-ph, physics.comp-ph
+'ASCAI Group Meeting 2025 on the Interface Between Statistical Physics and Learning and on Computational Barriers in Statistical Learning':
+  dd: 2025-06-19 to 20
+  link: https://www.imo.universite-paris-saclay.fr/fr/conf/ascai-meeting/
+  loc: Orsay, France
+  excerpt: This meeting explores statistical physics and machine learning, focusing on phase transitions, optimization landscapes, and computational barriers. Topics include high-dimensional inference, neural network dynamics, and AI applications, emphasizing statistical physics insights.
+  arxiv: stat.ML, cond-mat.stat-mech
+'Extreme Ultraviolet Lithography (EUVL) and Source Workshop 2025':
+  dd: 2025-06-21 to 26
+  link: https://euvlitho.com
+  loc: Cambridge, MA, USA
+  excerpt: This workshop focuses on extreme ultraviolet lithography, covering plasma-based EUV sources, optics, and patterning. Topics include high-power plasma generation, source stability, and semiconductor manufacturing applications, emphasizing plasma-driven lithography advancements.
+  arxiv: physics.plasm-ph, physics.app-ph
+'IEEE Magnetics Italy International PhD School on Computational Electromagnetism (ComEl 2025)':
+  dd: 2025-06-22
+  link: https://www.comel2025phdschool.com/
+  loc: Naples, Italy
+  excerpt: ComEl 2025 focuses on computational electromagnetism, covering finite element methods, boundary element techniques, and electromagnetic modeling. Topics include antenna design, electromagnetic compatibility, and electrical engineering applications, emphasizing computational tools.
+  arxiv: physics.comp-ph, physics.class-ph
+'34th European Conference on Operational Research (EURO 2025)':
+  dd: 2025-06-22 to 25
+  link: https://euro2025leeds.uk
+  loc: Leeds, UK
+  excerpt: EURO 2025 explores operational research, covering optimization, decision theory, and data analytics. Topics include supply chain management, scheduling, and machine learning applications, with emphasis on practical and theoretical optimization in logistics and healthcare.
+  arxiv: math.OC, cs.DS
+'AVS 25th International Conference on Atomic Layer Deposition (ALD 2025) Featuring the 12th International Atomic Layer Etching Workshop (ALE 2025)':
+  dd: 2025-06-22 to 25
+  link: https://ald2025.avs.org/
+  loc: Jeju Island, South Korea
+  excerpt: ALD/ALE 2025 focuses on atomic layer deposition and etching, covering plasma-enhanced processes, thin-film growth, and surface engineering. Topics include semiconductor fabrication, nanomaterials, and electronics applications, emphasizing precision plasma-based material processing.
+  arxiv: cond-mat.mtrl-sci, physics.app-ph
+'25th International Conference on the Computation of Electromagnetic Fields (COMPUMAG 2025)':
+  dd: 2025-06-22 to 26
+  link: https://www.compumag2025.com/
+  loc: Naples, Italy
+  excerpt: COMPUMAG 2025 focuses on computational electromagnetics, covering numerical methods, electromagnetic wave propagation, and field simulations. Topics include magnetostatics, electromagnetic devices, and applications in energy and telecommunications, emphasizing advanced computational techniques.
+  arxiv: physics.comp-ph, physics.class-ph
+'13th Triennial Congress of the World Association of Theoretical and Computational Chemists (WATOC 2025)':
+  dd: 2025-06-22 to 27
+  link: http://watoc2025.no
+  loc: Oslo, Norway
+  excerpt: WATOC 2025 explores theoretical and computational chemistry, covering quantum chemistry, molecular dynamics, and electronic structure methods. Topics include reaction mechanisms, materials design, and applications in catalysis and biology, emphasizing computational chemical advancements.
+  arxiv: physics.chem-ph, quant-ph
+'16th Femtochemistry Conference - Dynamics of Complex Molecular Processes in Chemistry, Biology, and Physics (2025)':
+  dd: 2025-06-22 to 27
+  link: https://indico.elettra.eu/event/44/
+  loc: Trieste, Italy
+  excerpt: This conference focuses on femtochemistry, covering ultrafast molecular dynamics, time-resolved spectroscopy, and photochemical reactions. Topics include electron transfer, protein dynamics, and applications in biophysics and materials, emphasizing ultrafast chemistry studies.
+  arxiv: physics.chem-ph, physics.bio-ph
+'16th International Conference on Heavy Ion Accelerator Technology (HIAT 2025)':
+  dd: 2025-06-22 to 27
+  link: https://indico.jacow.org/event/82/
+  loc: East Lansing, MI, USA
+  excerpt: HIAT 2025 focuses on heavy ion accelerator technology, covering beam dynamics, ion sources, and accelerator design. Topics include applications in nuclear physics, medical therapy, and materials science, emphasizing heavy ion accelerator advancements.
+  arxiv: physics.acc-ph, nucl-ex
+'16th Nuclear Data for Science and Technology Conference (ND 2025)':
+  dd: 2025-06-22 to 27
+  link: https://nd2025madrid.com
+  loc: Madrid, Spain
+  excerpt: ND 2025 focuses on nuclear data, covering cross-section measurements, nuclear reaction modeling, and data evaluation. Topics include applications in nuclear energy, astrophysics, and medical isotopes, emphasizing accurate nuclear data for scientific advancements.
+  arxiv: nucl-th, physics.data-an
+'31st International Symposium on Molecular Beams (ISMB 2025)':
+  dd: 2025-06-22 to 27
+  link: https://ismb25.epfl.ch
+  loc: St. Moritz, Switzerland
+  excerpt: ISMB 2025 focuses on molecular beams, covering molecular scattering, spectroscopy, and reaction dynamics. Topics include cold molecule formation, quantum state control, and applications in chemical physics and quantum science, emphasizing experimental techniques.
+  arxiv: physics.chem-ph, quant-ph
+'BIRS Workshop on Efficient and Reliable Deep Learning Methods and Their Scientific Applications (2025)':
+  dd: 2025-06-22 to 27
+  link: https://birs.ca/events/2025/5-day-workshops/25w5382
+  loc: Banff, AB, Canada
+  excerpt: This workshop focuses on deep learning, covering efficient algorithms, uncertainty quantification, and physics-informed neural networks. Topics include reliable training methods, applications in physics and biology, emphasizing robust deep learning for scientific discovery.
+  arxiv: cs.LG, stat.ML
+'IEEE International Symposium on Information Theory (ISIT 2025)':
+  dd: 2025-06-22 to 27
+  link: https://2025.ieee-isit.org
+  loc: Ann Arbor, MI, USA
+  excerpt: ISIT 2025 explores information theory, covering coding theory, data compression, and Shannon theory. Topics include quantum information, network coding, and applications in communications and machine learning, emphasizing theoretical foundations of information processing.
+  arxiv: cs.IT, quant-ph
