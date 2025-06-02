@@ -16,7 +16,7 @@
 
 2025-04-23 to 25: [ITER Business Forum (IBF 2025)](https://iterbusinessforum.com/homepage.aspx "IBF 2025 focuses on fusion energy business opportunities, covering plasma physics, tokamak engineering, and supply chain development. Topics include plasma confinement, fusion materials, and industry partnerships, emphasizing commercial pathways for ITER and fusion energy deployment."), Marseille, France.
 
-2025-05-05 to 09: [Fusion Energy Week 2025](https://usfusionenergy.org/fusion-energy-week "Fusion Energy Week 2025 focuses on fusion energy, covering plasma confinement, fusion reactor design, and plasma diagnostics. Topics include tokamak physics, inertial fusion, and materials for fusion, emphasizing advancements toward sustainable fusion power and industry collaboration."), Many locations, USA and elsewhere.
+2025-05-05 to 09: [Fusion Energy Week 2025](https://usfusionenergy.org/fusion-energy-week "Fusion Energy Week 2025 focuses on fusion energy, covering plasma physics, fusion reactor design, and plasma diagnostics. Topics include tokamak physics, inertial fusion, and materials for fusion, emphasizing advancements toward sustainable fusion power and industry collaboration."), Various locations, USA and elsewhere.
 
 2025-05-07 to 15: [Karlsruhe International Summer School on Fusion Technologies 2025](https://summerschool.fusion.kit.edu/ "This summer school explores fusion technologies, focusing on plasma physics, magnetic confinement, and fusion reactor engineering. Topics include tokamak and stellarator design, plasma diagnostics, and fusion materials, with applications in sustainable energy, emphasizing theoretical and practical advancements in fusion research."), Karlsruhe, Germany.
 

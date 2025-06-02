@@ -4,3 +4,5 @@
 
 2025-05-26 to 30: [European Materials Research Society (E-MRS) Fall Meeting 2025](https://www.european-mrs.com/meetings/2025-fall-meeting "The E-MRS Fall Meeting focuses on materials science, covering plasma-processed materials, thin films, and nanomaterials. Topics include plasma deposition, surface engineering, and applications in energy and electronics, emphasizing experimental and computational advancements in material design."), Warsaw, Poland.
 
+2025-06-01 to 06: [20th International Conference on Positron Annihilation (ICPA 2025)](https://confit.atlas.jp/guide/event/icpa20/top "ICPA 2025 focuses on positron annihilation, covering positron spectroscopy, defect characterization, and plasma-material interactions. Topics include positron trapping, surface studies, and applications in materials science and nanotechnology, emphasizing experimental and computational techniques."), Takamatsu, Japan.
+

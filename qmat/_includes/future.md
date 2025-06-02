@@ -4,7 +4,7 @@
 
 2025-06-11 to 18: [Crete Summer School on Dynamics of Nonequilibrium (2025)](https://udm-ubp2025.eventsadmin.com/i/SUMMERSCHOOL), Hersonissos, Crete, Greece.
 
-2025-06-16 to 27: [Los Alamos Computational Condensed Matter Summer School 2025](https://laccmss.github.io/2025/ "This summer school focuses on computational condensed matter physics, covering density functional theory, Monte Carlo methods, and molecular dynamics. Topics include quantum materials, superconductivity, and applications in energy, emphasizing computational techniques for material simulations."), Los Alamos, NM, USA.
+2025-06-16 to 27: [Los Alamos Computational Condensed Matter Summer School 2025](https://laccmss.github.io/2025/ "This summer school focuses on computational condensed matter physics, covering density functional theory, Monte Carlo methods, and molecular dynamics. Topics include quantum materials, superconductivity, and energy applications, emphasizing computational techniques for material simulations."), Los Alamos, NM, USA.
 
 2025-06-23 to 26: [15th Symposium SiO2, Advanced Dielectrics and Related Devices (SiO2 2025)](https://sio2-2025.sciencesconf.org/ "SiO2 2025 focuses on advanced dielectrics, covering silicon dioxide, high-k materials, and thin-film technologies. Topics include dielectric properties, interface engineering, and applications in microelectronics and photonics, emphasizing material advancements for next-generation devices."), Saint-Étienne, France.
 

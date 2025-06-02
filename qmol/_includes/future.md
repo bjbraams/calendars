@@ -8,7 +8,7 @@
 
 2025-06-16 to 20: [56th Annual Meeting of the APS Division of Atomic, Molecular and Optical Physics (APS-DAMOP 2025)](https://aps.org/events/2025/atomic-molecular-optical-physics "APS-DAMOP 2025 focuses on atomic, molecular, and optical physics, covering quantum optics, ultracold gases, and precision spectroscopy. Topics include quantum information, molecular dynamics, and applications in quantum technologies, emphasizing experimental and theoretical advancements."), Portland, OR, USA.
 
-2025-06-22 to 27: [31st International Symposium on Molecular Beams (ISMB 2025)](https://ismb25.epfl.ch "ISMB 2025 focuses on molecular beams, covering molecular scattering, spectroscopy, and reaction dynamics. Topics include cold molecule formation, quantum state control, and applications in chemical physics and quantum science, emphasizing experimental molecular beam techniques."), St. Moritz, Switzerland.
+2025-06-22 to 27: [31st International Symposium on Molecular Beams (ISMB 2025)](https://ismb25.epfl.ch "ISMB 2025 focuses on molecular beams, covering molecular scattering, spectroscopy, and reaction dynamics. Topics include cold molecule formation, quantum state control, and applications in chemical physics and quantum science, emphasizing experimental techniques."), St. Moritz, Switzerland.
 
 2025-06-23 to 27: [78th International Symposium on Molecular Spectroscopy (ISMS 2025)](https://isms.illinois.edu "ISMS 2025 focuses on molecular spectroscopy, covering rotational, vibrational, and electronic spectroscopy. Topics include molecular structure, astrophysical molecules, and applications in chemical physics and atmospheric science, emphasizing experimental and computational spectroscopic techniques."), Urbana-Champaign, IL, USA.
 

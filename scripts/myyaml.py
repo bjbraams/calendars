@@ -1,7 +1,7 @@
 import yaml
 
 MANDATORY_KEYS = ['dd']
-RECOGNIZED_KEYS = MANDATORY_KEYS+['link','loc','more','kw','excerpt']
+RECOGNIZED_KEYS = MANDATORY_KEYS+['link','loc','more','kw','arxiv','msc','inspec','excerpt']
     # Lists sorted as we like it
 SetMK = set(MANDATORY_KEYS)
 SetRK = set(RECOGNIZED_KEYS)
@@ -23,33 +23,33 @@ def sort_key(item):
     t0 = str(item[1].get('dd',''))+' '+str(item[0])
     return t0.replace(' ','\uffff')
 
-def check_pair(key,value,id):
+def check_pair(key,value,ident):
     # Return a list of errors
     errors = []
     if key not in SetRK:
-        errors.append(f'Event {id} contains unrecognized key: {key}')
+        errors.append(f'Event {ident} contains unrecognized key: {key}')
     if not isinstance(value,str):
-        errors.append(f'Event {id} contains invalid value: {value}')
+        errors.append(f'Event {ident} contains invalid value: {value}')
     return errors
 
-def check_event(id,event):
+def check_event(ident,event):
     # Return a list of errors
     if not isinstance(event,dict):
-        return [f'Event {id} is not a dictionary']
+        return [f'Event {ident} is not a dictionary']
     if not SetMK <= event.keys():
-        return [f'Event {id} is missing a mandatory key']
+        return [f'Event {ident} is missing a mandatory key']
     errors = []
     for key, value in event.items():
-        errors.extend(check_pair(key,value,id))
+        errors.extend(check_pair(key,value,ident))
     return errors
 
-def check_update(id,update):
+def check_update(ident,update):
     # Return a list of errors
     if not isinstance(update,dict):
-        return [f'Update {id} is not a dictionary']
+        return [f'Update {ident} is not a dictionary']
     errors = []
     for key, value in update.items():
-        errors.extend(check_pair(key,value,id))
+        errors.extend(check_pair(key,value,ident))
     return errors
 
 def check_calendar(calendar):
@@ -57,11 +57,11 @@ def check_calendar(calendar):
     if not isinstance(calendar,dict):
         return ['Calendar is not a dict']
     errors = []
-    for id, event in calendar.items():
-        errors.extend(check_event(id,event))
+    for ident, event in calendar.items():
+        errors.extend(check_event(ident,event))
     return errors
 
-def read_yml_dict (f):
+def read_yml_dict(f):
     try:
         dic = yaml.safe_load(f)
     except yaml.YAMLError as e:

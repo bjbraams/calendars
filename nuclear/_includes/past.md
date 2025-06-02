@@ -30,5 +30,7 @@
 
 2025-05-19 to 23: [IReNA-CeNAM Frontiers in Nuclear Astrophysics Meeting (CeNAM 2025)](https://sites.ohio.edu/cenam-2025/ "CeNAM 2025 focuses on nuclear astrophysics, covering nucleosynthesis, stellar explosions, and nuclear reactions. Topics include reaction rates, neutron star physics, and computational astrophysics, with applications in understanding cosmic element formation, emphasizing experimental and theoretical progress."), Athens, OH, USA.
 
-**2025-05-25 to 30: [29th International Nuclear Physics Conference (INPC 2025)](https://inpc2025.org "INPC 2025 focuses on nuclear physics, covering nuclear structure, reactions, and hadron physics. Topics include quark-gluon plasma, nuclear astrophysics, and computational nuclear models, with applications in fundamental interactions and cosmology, emphasizing experimental and theoretical advancements."), Daejeon, Korea**.
+**2025-05-25 to 30: [29th International Nuclear Physics Conference (INPC 2025)](https://inpc2025.org "INPC 2025 focuses on nuclear physics, covering nuclear structure, reactions, and hadron physics. Topics include quark-gluon plasma, nuclear astrophysics, and computational nuclear models, with applications in fundamental interactions and cosmology, emphasizing experimental and theoretical advancements."), Daejeon, South Korea**.
+
+2025-06-01 to 06: [16th International Particle Accelerator Conference (IPAC 2025)](https://ipac25.org "IPAC 2025 focuses on particle accelerators, covering beam dynamics, synchrotron radiation, and accelerator technologies. Topics include linear colliders, free-electron lasers, and applications in nuclear physics and medical therapy, emphasizing advancements in accelerator design and performance."), Taipei, Taiwan.
 

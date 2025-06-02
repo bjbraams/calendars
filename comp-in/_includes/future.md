@@ -1,5 +1,3 @@
-2025-06-01 to 03: [Inverse Problems Symposium (IPS 2025)](https://canr.msu.edu/inverse-problems/ "IPS 2025 focuses on inverse problems, covering regularization, Bayesian inversion, and computational imaging. Topics include seismic tomography, medical imaging, and inverse scattering, with applications in geophysics and diagnostics, emphasizing numerical methods for solving ill-posed problems."), East Lansing, MI, USA.
-
 2025-06-10 to 13: [Waves and Imaging in Complex Media (Wicom 2025)](https://wicom.sciencesconf.org/ "Explores wave propagation and imaging in complex media. Topics include inverse scattering, wave-based imaging, and applications in geophysics, medical imaging, and material science."), Paris, France.
 
 2025-06-23 to 26: [SPIE Optical Metrology 2025](https://spie.org/conferences-and-exhibitions/optical-metrology), Munich, Germany.

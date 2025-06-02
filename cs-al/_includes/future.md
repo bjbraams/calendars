@@ -10,7 +10,7 @@
 
 2025-06-11 to 13: [51st International Workshop on Graph-Theoretic Concepts in Computer Science (WG 2025)](https://algo.uni-trier.de/wg2025/ "WG 2025 focuses on graph-theoretic concepts, covering graph algorithms, structural graph theory, and computational complexity. Topics include graph coloring, network flows, and applications in bioinformatics and networks, emphasizing theoretical graph-based computational methods."), Otzenhausen, Germany.
 
-2025-06-17 to 19: [36th Annual Symposium on Combinatorial Pattern Matching (CPM 2025)](https://cpm2025.pangenome.eu "CPM 2025 focuses on combinatorial pattern matching, covering string algorithms, sequence analysis, and computational biology. Topics include suffix trees, pattern discovery, and applications in genomics and text processing, emphasizing efficient algorithmic techniques for pattern matching."), Milan, Italy.
+2025-06-17 to 19: [36th Annual Symposium on Combinatorial Pattern Matching (CPM 2025)](https://cpm2025.pangenome.eu "CPM 2025 focuses on combinatorial pattern matching, covering string algorithms, sequence analysis, and computational biology. Topics include suffix trees, pattern discovery, and applications in genomics and text processing, emphasizing efficient algorithmic techniques."), Milan, Italy.
 
 2025-06-23 to 27: [41st International Symposium on Computational Geometry (SoCG 2025)](https://socg25.github.io/socg.html "SoCG 2025 explores computational geometry, covering algorithms for geometric structures, shape analysis, and motion planning. Topics include Voronoi diagrams, geometric optimization, and applications in robotics and graphics, emphasizing theoretical and practical geometric computing."), Kanazawa, Japan.
 

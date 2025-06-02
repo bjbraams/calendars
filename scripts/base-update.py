@@ -58,7 +58,7 @@ print('Checking _data/deletes.yml...')
 with open('_data/deletes.yml') as f:
     deletes = myyaml.read_yml_dict(f)
 for key in deletes.keys():
-    if key not in main.keys:
+    if key not in main.keys():
         print(f'key {key} is not found')
         del deletes[key]
 

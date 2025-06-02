@@ -50,3 +50,7 @@
 
 2025-05-27 to 28: [Maryland Quantum-Thermodynamics Symposium (QTD 2025)](https://qtd-hub.umd.edu/event/symposium-2025 "QTD 2025 focuses on quantum thermodynamics, covering quantum heat engines, entanglement, and stochastic processes. Topics include quantum fluctuation theorems, thermodynamic uncertainty relations, and applications in quantum information, emphasizing probabilistic models for quantum thermodynamic systems."), UMBC, Baltimore, MD, USA.
 
+2025-06-01 to 05: [Workshop on Recent Advances in Evolving and Spatial Random Graphs (2025)](https://sites.google.com/view/bas-lodewijks/workshop-evolving-and-spatial-random-graphs "This workshop focuses on evolving and spatial random graphs, covering dynamic network models, percolation, and spatial point processes. Topics include graph dynamics, random geometric graphs, and applications in epidemiology and telecommunications, emphasizing probabilistic network analysis."), Bayrischzell, Germany.
+
+2025-06-01 to 06: [BIRS Workshop on Free Probability, Random Matrices and Finite-Dimensional Approximations (2025)](https://www.birs.ca/events/2025/5-day-workshops/25w5440 "Explores free probability and random matrix theory. Topics include finite-dimensional approximations, operator algebras, and applications in statistical physics and quantum mechanics."), Oaxaca, Mexico.
+

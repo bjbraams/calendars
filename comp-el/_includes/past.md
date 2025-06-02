@@ -12,9 +12,11 @@
 
 2025-05-13 to 16: [4th International Conference on Computational Modeling of Complex Materials Across the Scales (CMCS 2025)](https://cmcs2025.sciencesconf.org/ "CMCS 2025 focuses on computational modeling of complex materials, covering multiscale methods, finite element simulations, and molecular dynamics. Topics include material deformation, electromagnetic properties, and nanoscale interactions, with applications in composites and metamaterials, emphasizing numerical techniques for cross-scale material behavior."), Champs-sur-Marne, France.
 
-**2025-05-16 to 20: [IUTAM Symposium on Multiphysics Analysis of Wave Propagation in Electronic Device Structures (2025)](https://iutam.org/events/6705 "Examines multiphysics analysis of wave propagation in electronic devices. Topics include electromagnetic waves, material modeling, and computational methods for device design and performance optimization."), Ningbo, China**.
+**2025-05-16 to 20: [IUTAM Symposium on Multiphysics Analysis of Wave Propagation in Electronic Device Structures (2025)](https://iutam.org/symposium/multiphysics-analysis-2025 "Examines multiphysics analysis of wave propagation in electronic devices. Topics include electromagnetic waves, material modeling, and computational methods for device design and performance optimization."), Ningbo, China**.
 
 2025-05-21 to 23: [EuroMech Colloquium 656 on Data-Driven Mechanics and Physics of Solids (2025)](https://656.euromech.org/ "Focuses on data-driven approaches in solid mechanics, integrating machine learning and computational modeling. Topics include material characterization, structural analysis, and applications in engineering design."), Gothenburg, Sweden.
 
 2025-05-28 to 31: [EuroMech Colloquium 640 on Gradient Mechanics Across Materials, Processes and Scales (2025)](https://640.euromech.org/ "Explores gradient mechanics in materials and processes. Topics include multiscale modeling, material gradients, and computational methods for analyzing mechanical behavior across scales."), Rethymnon, Crete, Greece.
+
+**2025-06-01 to 05: [IUTAM Symposium on Failure Dynamics and Resilience Under Extreme Events (2025)](https://iutam.org/events/iutam-symposium-on-failure-dynamics-and-resilience-under-extreme-events "Focuses on failure dynamics and resilience in materials under extreme conditions. Topics include fracture mechanics, computational modeling, and applications in structural engineering and disaster mitigation."), Granada, Spain**.
 

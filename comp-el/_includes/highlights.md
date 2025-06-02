@@ -1,6 +1,4 @@
-**2025-06-01 to 05: [IUTAM Symposium on Failure Dynamics and Resilience Under Extreme Events (2025)](https://iutam.org/events/iutam-symposium-on-failure-dynamics-and-resilience-under-extreme-events "Focuses on failure dynamics and resilience in materials under extreme conditions. Topics include fracture mechanics, computational modeling, and applications in structural engineering and disaster mitigation."), Granada, Spain**.
-
-**2025-06-22 to 26: [25th International Conference on the Computation of Electromagnetic Fields (COMPUMAG 2025)](https://www.compumag2025.com/ "COMPUMAG 2025 focuses on computational electromagnetics, covering numerical methods, electromagnetic wave propagation, and field simulations. Topics include magnetostatics, electromagnetic devices, and applications in energy and telecommunications, emphasizing advanced computational techniques for electromagnetic modeling."), Naples, Italy**.
+**2025-06-22 to 26: [25th International Conference on the Computation of Electromagnetic Fields (COMPUMAG 2025)](https://www.compumag2025.com/ "COMPUMAG 2025 focuses on computational electromagnetics, covering numerical methods, electromagnetic wave propagation, and field simulations. Topics include magnetostatics, electromagnetic devices, and applications in energy and telecommunications, emphasizing advanced computational techniques."), Naples, Italy**.
 
 **2025-07-20 to 24: [18th U.S. National Congress on Computational Mechanics (USNCCM 2025)](https://usnccm18.usacm.org/), Chicago, IL, USA**.
 

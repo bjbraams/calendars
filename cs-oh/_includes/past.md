@@ -8,3 +8,5 @@
 
 2025-05-19 to 23: [24th International Conference on Autonomous Agents and Multiagent Systems (AAMAS 2025)](https://aamas2025.org/ "AAMAS 2025 explores autonomous agents and multiagent systems, focusing on distributed AI, game theory, and agent coordination. Topics include reinforcement learning, auction mechanisms, and applications in robotics and smart grids, emphasizing scalable and robust multiagent algorithms."), Detroit, MI, USA.
 
+2025-06-01 to 05: [8th International Conference on the Dynamics of Information Systems (DIS 2025)](https://dis2025.ujep.cz "DIS 2025 explores dynamics of information systems, focusing on network modeling, data flows, and distributed computing. Topics include information diffusion, cybersecurity, and multi-agent systems, with applications in social media and IoT, emphasizing computational system dynamics."), London, UK.
+
