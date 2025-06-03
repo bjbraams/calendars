@@ -4130,6 +4130,7 @@ Hausdorff Research Institute for Mathematics Follow-Up Workshop Logic and Algori
   excerpt: This workshop focuses on logic and algorithms in group theory, covering computational group theory, algorithmic decidability, and geometric group theory. Topics include applications in cryptography and combinatorial algebra, emphasizing logical and computational approaches to group-theoretic problems.
 Workshop on Nuclear Masses in Astrophysics for the Next 25 Years (2025):
   dd: 2025-08-18 to 22
+  link: https://indico.gsi.de/event/22417/
   loc: Darmstadt, Germany
   kw: nuclear
   arxiv: astro-ph.SR,nucl-th
@@ -5322,7 +5323,7 @@ JCNS Workshop Trends and Perspectives in Neutron Scattering - Quantum Materials 
   kw: comp-qc
   arxiv: quant-ph,cs.CE
   excerpt: AQMCSE 2025 focuses on applied quantum methods, covering quantum algorithms, hybrid quantum-classical computing, and quantum simulations. Topics include applications in computational science, materials engineering, and optimization, emphasizing practical quantum computational techniques for engineering and scientific problems.
-6rd Annual Meeting of the German-Speaking Inverse Problems Society (GIP 2025):
+6th Annual Meeting of the German-Speaking Inverse Problems Society (GIP 2025):
   dd: 2025-10-08 to 10
   link: https://inverseprobleme.de/?page_id=424
   loc: Saarbrücken, Germany
@@ -6051,13 +6052,13 @@ Gordon Research Conference Molecular and Ionic Clusters (2026):
   kw: qmol
   arxiv: physics.chem-ph,physics.atm-clus
   excerpt: This conference explores molecular and ionic clusters, covering cluster dynamics, quantum chemistry, and spectroscopy. Topics include applications in atmospheric chemistry, nanotechnology, and catalysis, emphasizing experimental and computational studies of cluster structures and interactions.
-25th International Stellarator-Heliotron Workshop (ISHW 2025):
+25th International Stellarator-Heliotron Workshop (ISHW 2026):
   dd: 2026-04-20 to 24
   link: https://ipp.mpg.de/4022808/ISHW
   loc: Cordoba, Spain
   kw: plas-ph
   arxiv: physics.plasm-ph,physics.comp-ph
-  excerpt: ISHW 2025 focuses on stellarator and heliotron fusion, covering plasma confinement, magnetic field optimization, and turbulence. Topics include applications in fusion reactor design and plasma diagnostics, emphasizing computational and experimental advancements in stellarator-heliotron technologies.
+  excerpt: ISHW 2026 focuses on stellarator and heliotron fusion, covering plasma confinement, magnetic field optimization, and turbulence. Topics include applications in fusion reactor design and plasma diagnostics, emphasizing computational and experimental advancements in stellarator-heliotron technologies.
 Hausdorff Research Institute for Mathematics Follow-Up Workshop Discrete Optimization (2026):
   dd: 2026-04-20 to 24
   link: https://www.mathematics.uni-bonn.de/him/programs/follow-up-workshops/2026_04_20
@@ -6512,8 +6513,8 @@ International Conference PRIN GRAFIA on Geometry and Statistics of Random Fields
   loc: tbd
   kw: stat-th
   arxiv: stat.ME,cs.AI
-  excerpt: BELIEF 2026 explores belief functions, covering Dempster-Shafer methods, uncertainty modeling, and decision-making. Topics include applications in data fusion, AI, and risk analysis, emphasizing statistical frameworks for handling uncertainty in complex systems and data.
-European X-Ray Spectrometry Conference (EXRS):
+  excerpt: BELIEF 2026 explores belief functions, covering Dempster-Shafer theory, uncertainty modeling, and decision-making. Topics include applications in data fusion, AI, and risk analysis, emphasizing statistical frameworks for handling uncertainty in complex systems and data.
+European X-Ray Spectrometry Conference (EXRS 2026):
   dd: 2026 tbd
   loc: Catania, Italy?
   kw: plas-pm
@@ -6549,7 +6550,7 @@ ASA, IMS and Other Joint Statistical Meetings (JSM 2027):
   kw: stat-th
   arxiv: stat.ME,stat.AP
   excerpt: JSM 2027 explores statistics, covering probability, statistical inference, and data analysis. Topics include applications in biostatistics, finance, and social sciences, emphasizing theoretical and applied statistical methods for addressing complex data-driven problems and uncertainties.
-'30th International School on Low Temperature Plasma Physics: Basics and Applications (2026)':
+'30th International School on Low Temperature Plasma Physics: Basics and Applications (2027)':
   dd: 2027-10-02 to 07
   link: https://www.plasma-school.org/
   loc: Bad Honnef, Germany
@@ -6710,8 +6711,9 @@ IFMIF-DONES Xcitech School 2025:
   kw: plas-ft
   arxiv: physics.plasm-ph,physics.acc-ph
   excerpt: Explores neutron source technologies for fusion. Topics include accelerator-driven systems, material irradiation, and computational methods for IFMIF-DONES and fusion energy applications.
-'14th International Spring Seminar on Nuclear Physics: Cutting-Edge Developments in Nuclear Structure Physics (2025)':
+'14th INFN (Italy) International Spring Seminar on Nuclear Physics (2025)':
   dd: 2025-05-19 to 23
+  name: '14th INFN (Italy) International Spring Seminar on Nuclear Physics: Cutting-Edge Developments in Nuclear Structure Physics (2025)'
   link: https://agenda.infn.it/event/42803/
   loc: Ischia, Italy
   kw: nuclear
@@ -6759,7 +6761,7 @@ Gordon Research Conference on Structures, Energetics and Reaction Dynamics of Ga
   kw: plas-pm
   arxiv: cond-mat.mtrl-sci,physics.app-ph
   excerpt: Covers ion implantation and electron applications. Topics include material modification, plasma-based techniques, and computational modeling for semiconductor and surface science applications.
-Center for Mathemtical Modeling (CMM) 7th Summer School in Probabilities and Stochastic Processes (2025):
+Center for Mathematical Modeling (CMM) 7th Summer School in Probabilities and Stochastic Processes (2025):
   dd: 2025-01-06 to 10
   link: https://eventos.cmm.uchile.cl/escuelappe2025/
   loc: Santiago, Chile
@@ -7578,7 +7580,7 @@ ASCAI Group Meeting 2025 on the Interface Between Statistical Physics and ...:
   loc: Lausanne, Switzerland
   arxiv: physics.chem-ph,math.CO
   excerpt: This workshop focuses on chemical graph theory and computational topology, covering molecular graphs, topological descriptors, and complex system simulations. Topics include reaction networks, materials design, and applications in drug discovery, emphasizing advanced computational chemistry methods.
-6th International Conference on Data-Driven Plasma Science (2025):
+6th International Conference on Data-Driven Plasma Science (ICDDPS 2025):
   dd: 2025-08-04 to 08
   link: https://web.cvent.com/event/7de9d238-eccb-4fbf-8deed5-20abc5c6eb49/
   loc: Santa Fe, NM, USA
@@ -7598,7 +7600,7 @@ EuroMech Colloquium 650 on Addressing Challenges in Applied Mechanics Through Ar
   loc: Belgrade, Serbia
   arxiv: cs.LG,physics.app-ph
   excerpt: Explores AI applications in applied mechanics. Topics include machine learning for material modeling, structural analysis, and optimization in engineering design.
-Conference on Statistical Mathematics Applications (2025):
+Conference on Statistical Mathematics Applications (StatMathAppli 2025):
   dd: 2025-09-01 to 05
   link: https://statmathappli.mathnum.inrae.fr
   loc: Fréjus, France
