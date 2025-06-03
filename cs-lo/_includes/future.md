@@ -46,7 +46,7 @@
 
 2025-09-22 to 25: [29th International Conference on Implementation and Application of Automata (CIAA 2025)](https://ciaa2025.unipa.it/ "CIAA 2025 focuses on automata theory, covering finite automata, regular expressions, and parsing algorithms. Topics include applications in compiler design, natural language processing, and verification, emphasizing computational and theoretical advances in automata implementation."), Palermo, Italy.
 
-2025-09-27 to 10-03: [16th International Conference on Interactive Theorem Proving (ITP 2025)](https://icetcs.github.io/frocos-itp-tableaux25/itp/ "Explores interactive theorem proving, covering formal verification, proof assistants, and automated reasoning. Topics include software verification, mathematical proofs, and applications in computer science, emphasizing computational logic advancements."), Reykjavic, Iceland. Part of FroCoS/ITP/TABLEAUX 2025.
+2025-09-27 to 10-03: [16th International Conference on Interactive Theorem Proving (ITP 2025)](https://icetcs.github.io/frocos-itp-tableaux25/itp/ "Explores interactive theorem proving, covering formal verification, proof assistants, and automated reasoning. Topics include software verification, mathematical proofs, and applications in computer science, emphasizing computational logic advancements."), Reykjavik, Iceland. Part of FroCoS/ITP/TABLEAUX 2025.
 
 2025-10-20 to 21: [6th Workshop on Dynamic Logic - New Trends and Applications (DaLí 2025)](http://www.dali2025.cn/ "Explores dynamic logic and its applications. Topics include formal verification, program semantics, and computational logic for software and system analysis."), Xi'an, China.
 

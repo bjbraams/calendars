@@ -84,6 +84,10 @@ for ident, event in updates.items():
 for ident, event in latest.items():
     main[titlecase(ident)] = myyaml.sort_event_keys(event)
 
+main1 = sorted(main.items(),
+               key=lambda item: myyaml.sort_key(item))
+main = dict(main1)
+
 # Check to proceed
 input(f'Return to proceed, Ctrl-c to cancel')
 

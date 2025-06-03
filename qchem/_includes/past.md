@@ -4,8 +4,6 @@
 
 2025-02-23 to 28: [64th Sanibel Symposium on Quantum Chemical Theory (2025)](https://sanibelsymposium.qtp.ufl.edu "The Sanibel Symposium focuses on quantum chemical theory, covering electronic structure methods, molecular dynamics, and quantum Monte Carlo. Topics include density functional theory, coupled-cluster methods, and applications in molecular spectroscopy and materials design, emphasizing computational advancements in quantum chemistry."), St. Augustine Beach, FL, USA.
 
-2025-02-27 to 28: [​Texas Computational Chemistry Symposium 2025](https://texascomputationalchemistrysymposium.weebly.com/), Denton, TX, USA.
-
 2025-03-09 to 14: [Oberwolfach Workshop on Mathematical Methods in Quantum Chemistry (2025)](https://mfo.de/occasion/2511/www_view "This workshop focuses on mathematical methods in quantum chemistry, covering electronic structure theory, wavefunction methods, and quantum Monte Carlo. Topics include coupled-cluster theory, density functional approximations, and applications in molecular reactivity and spectroscopy, emphasizing rigorous computational approaches."), Oberwolfach, Germany.
 
 2025-03-23 to 27: [American Chemical Society Spring 2025 Meeting & Expo (ACS Spring 2025)](https://www.acs.org/meetings/acs-meetings/spring.html "Covers chemistry advancements, focusing on chemical synthesis, catalysis, and analytical chemistry. Topics include green chemistry, medicinal chemistry, and materials science, with applications in energy, health, and environmental sustainability, emphasizing interdisciplinary research."), San Diego, CA, USA and Online.
