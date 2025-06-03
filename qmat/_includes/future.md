@@ -88,3 +88,7 @@
 
 2026 tbd: [Frontiers of Quantum and Mesoscopic Thermodynamics (FQMT 2026)](https://fqmt.fzu.cz/ "FQMT 2026 explores quantum and mesoscopic thermodynamics, covering quantum heat engines, non-equilibrium systems, and quantum transport. Topics include applications in nanotechnology and quantum computing, emphasizing theoretical and experimental studies of thermodynamic phenomena."), Prague, Czech Republic.
 
+tbd: European X-Ray Spectrometry Conference (EXRS 2026), Catania, Italy.
+
+tbd: [Frontiers in Quantum Mechanics (FQMT 2026)](https://fqmt.fzu.cz/ "FQMT 2026 explores quantum and mesoscopic systems, covering quantum computing, non-equilibrium dynamics, and thermodynamics. Topics include applications in nanotechnology and quantum computing, emphasizing theoretical advancements."), Prague, Czech Republic.
+

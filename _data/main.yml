@@ -493,6 +493,7 @@ Texas Computational Chemistry Symposium 2025:
   dd: 2025-02-27 to 28
   link: https://texascomputationalchemistrysymposium.weebly.com/
   loc: Denton, TX, USA
+  kw: qchem
   arxiv: physics.chem-ph,comp-ph
   excerpt: Focuses on computational chemistry, covering quantum chemistry, molecular dynamics, and electronic structure calculations. Topics include chemical reactivity, biomolecular simulations, and materials design, emphasizing computational tools for chemical and biochemical research.
 ACM SIGPLAN Symposium on Principles and Practice of Parallel Programming (PPoPP 2025):
@@ -967,6 +968,7 @@ Conference on Kinetic Equations and Turbulence in Honor of Claude Bardos's 85th 
   dd: 2025-04-07 to 11
   link: https://bardos-85.sciencesconf.org/?lang=en
   loc: Gif-sur-Yvette, France
+  kw: comp-fd
   arxiv: math.AP, physics.flu-dyn
   excerpt: Focuses on kinetic equations and turbulence modeling. Topics include Boltzmann equations, computational fluid dynamics, and turbulence simulation, with applications in physics and engineering.
 ICMS Workshop on Numerical Modelling of Nonlinear Stochastic Systems (2025):
@@ -1513,6 +1515,7 @@ Conference on the Past, Present, and Future of Statistics in the Era of AI GWU S
   name: Conference on the Past, Present, and Future of Statistics in the Era of AI - Marking 90 Years of the GWU Department of Statistics (2025)
   link: https://statistics.columbian.gwu.edu/gw-stat-90
   loc: Washington, DC, USA
+  kw: stat-ml
   arxiv: stat.ME, stat.ML
   excerpt: This conference explores statistics in the AI era, covering Bayesian methods, high-dimensional inference, and causal modeling. Topics include statistical learning, data privacy, and applications in social sciences and healthcare, reflecting on 90 years of statistical advancements at GWU.
 SIAM Conference on Applications of Dynamical Systems (DS 2025):
@@ -1626,6 +1629,7 @@ CECAM Flagship Workshop on Stochastic Processes Inferences (2025):
   dd: 2025-05-14 to 16
   link: https://cecam.org/workshop-details/stochastic-processes-inferences-in-complex-systems-1390
   loc: Lausanne, Switzerland
+  kw: stoch
   arxiv: math.PR, stat.CO
   excerpt: This workshop explores stochastic processes for inference in complex systems, covering Bayesian methods, stochastic differential equations, and Monte Carlo techniques. Topics include inference in networks, biophysics, and climate modeling, emphasizing probabilistic tools for understanding and predicting complex system dynamics.
 IUTAM Symposium on Machine Learning in Diverse Fluid Mechanics (2025):
@@ -1956,6 +1960,7 @@ CECAM Conference YRM 2025 - 21st ETSF Young Researchers' Meeting (2025):
   dd: 2025-05-26 to 30
   link: https://cecam.org/workshop-details/yrm-2025-21st-etsf-young-researchers-meeting-1430
   loc: Trieste, Italy
+  kw: qchem
   arxiv: physics.chem-ph, cond-mat.mtrl-sci
   excerpt: YRM 2025 focuses on computational quantum chemistry, covering electronic structure methods and excited-state dynamics. Topics include density functional theory, time-dependent simulations, and applications in materials and photochemistry, emphasizing young researchers’ contributions to quantum chemical modeling.
 CECAM Flagship School on New Computational Methods for Attosecond Molecular Processes (2025):
@@ -2203,6 +2208,7 @@ Algorithms for Multiphysics Models in the Post-Moore's Law Era (2025):
   dd: 2025-06-02 to 13
   link: https://sites.google.com/msu.edu/modeling-beyond-moore/
   loc: Los Alamos, NM, USA
+  kw: comp-fd
   arxiv: physics.comp-ph, math.NA
   excerpt: This workshop focuses on algorithms for multiphysics models, covering numerical methods for coupled systems in the post-Moore’s Law era. Topics include scalable solvers, reduced-order modeling, and applications in fluid dynamics and materials, emphasizing computational efficiency.
 PPPL Introduction to Plasma and Fusion Course 2025:
@@ -2337,6 +2343,7 @@ Adaptive and Bayesian Designs in Clinical Trials (2025):
   dd: 2025-06-05 to 06
   link: https://onlinesales.admin.cam.ac.uk/conferences-and-events/mrc-biostatistics-unit/adaptive-and-bayesian-designs-in-real-trials/adaptive-and-bayesian-designs-in-real-trials-05-06-june-2025
   loc: Cambridge, UK
+  kw: stat-me
   arxiv: stat.AP, stat.ME
   excerpt: This workshop explores adaptive and Bayesian designs in clinical trials, focusing on flexible trial methodologies and Bayesian inference. Topics include adaptive randomization, interim analyses, and applications in personalized medicine, emphasizing statistical and practical perspectives.
 CHIMERAS (Collisionless HIgh-beta Magnetized Experiment Researching Astrophysical Systems) Workshop 2025:
@@ -2378,6 +2385,7 @@ Objective Bayes Methodology Conference (O'Bayes 2025):
   dd: 2025-06-08 to 12
   link: https://obayes25.aueb.gr
   loc: Athens, Greece
+  kw: stat-me
   arxiv: stat.ME, stat.CO
   excerpt: O\'Bayes 2025 explores objective Bayesian methods, covering prior elicitation, model selection, and computational Bayes. Topics include high-dimensional inference, applications in biostatistics and economics, emphasizing objective approaches to Bayesian statistical analysis.
 13th International Conference on Chemical Kinetics (ICCK 2025):
@@ -2500,10 +2508,12 @@ Adiabatic Quantum Computing Conference (AQC 2025):
   kw: plas-ph
   arxiv: physics.plasm-ph
   excerpt: PhDiaFusion 2025 focuses on plasma diagnostics, covering spectroscopy, interferometry, and particle diagnostics. Topics include fusion plasma measurements, diagnostic calibration, and applications in magnetic confinement, emphasizing practical training in plasma diagnostic techniques.
-Conference on Free Probability - On the Occasion of Roland Speicher's 65th Birthday (2025):
+Conference on Free Probability Roland Speicher Birthday (2025):
   dd: 2025-06-09 to 13
+  name: Conference on Free Probability On the Occasion of Roland Speicher's 65th Birthday (2025)
   link: https://www.uni-saarland.de/lehrstuhl/weber-moritz/research/roland65.html
   loc: Saarbrücken, Germany
+  kw: prob
   arxiv: math.PR, math.OA
   excerpt: This conference celebrates Roland Speicher’s contributions to free probability, covering operator algebras, random matrices, and non-commutative distributions. Topics include free entropy, applications in quantum information, emphasizing advancements in free probabilistic structures.
 ICMS Conference Random Walks, Percolation and Mixing Times (2025):
@@ -2595,6 +2605,7 @@ Workshop on Optimization, Dynamics and Convex Analysis (WODCA 2025):
   dd: 2025-06-11 to 14
   link: https://sites.google.com/view/wodca2025
   loc: Aveiro, Portugal
+  kw: comp-op
   arxiv: math.OC, math.DS
   excerpt: WODCA focuses on optimization, dynamics, and convex analysis, covering convex optimization, dynamical systems, and numerical methods. Topics include gradient flows, optimal control, and applications in machine learning, emphasizing mathematical tools for optimization and dynamics.
 Young Summer School on Stochastic Analysis (2025):
@@ -2854,8 +2865,9 @@ UKAEA Fusion Industry School York Course 2025:
   kw: qmol
   arxiv: physics.atom-ph, quant-ph
   excerpt: APS-DAMOP 2025 focuses on atomic, molecular, and optical physics, covering quantum optics, ultracold gases, and precision spectroscopy. Topics include quantum information, molecular dynamics, and applications in quantum technologies, emphasizing experimental and theoretical advancements.
-Conference on Differential Geometry, Analysis and Epistemology in Honor of Marco Rigoli's 70th Birthday (2025):
+Conference on Differential Geometry, Analysis and Epistemology Marco Rigoli (2025):
   dd: 2025-06-16 to 20
+  name: Conference on Differential Geometry, Analysis and Epistemology in Honor of Marco Rigoli's 70th Birthday (2025)
   link: https://sites.google.com/view/dgaemi25
   loc: Milan, Italy
   arxiv: math.DG, math.AP
@@ -4588,6 +4600,7 @@ Gordon Research Conference Quantum Control of Light and Matter (2025):
   dd: 2025-08-04 to 08
   link: https://web.cvent.com/event/7de9d238-eccb-4fbf-8deed5-20abc5c6eb49/
   loc: Santa Fe, NM, USA
+  kw: plas-ph
   arxiv: physics.plasm-ph,cs.LG
   excerpt: ICDDPS 2025 focuses on data-driven plasma science, covering machine learning for plasma diagnostics, plasma modeling, and fusion research. Topics include turbulence analysis, predictive modeling, and applications in plasma processing, emphasizing AI-driven advancements in plasma physics.
 CISPA-ELLIS Summer School 2025 on Trustworthy AI:
@@ -5249,13 +5262,6 @@ CECAM Flagship School CECAM/ALC/CCP9 Spectroscopy Masterclass (2025):
   kw: qmat
   arxiv: cond-mat.mtrl-sci,physics.comp-ph
   excerpt: Focuses on computational spectroscopy for quantum materials. Topics include advanced simulation techniques, electronic structure calculations, and spectroscopic methods like X-ray and optical spectroscopy. The masterclass covers software tools, density functional theory, and applications in condensed matter physics and materials science.
-Conference StatMathAppli 2025:
-  dd: 2025-09-01 to 05
-  link: https://statmathappli.mathnum.inrae.fr
-  loc: Fréjus, France
-  kw: stat-me
-  arxiv: stat.AP,math.ST
-  excerpt: StatMathAppli 2025 focuses on applied statistics and mathematics, covering statistical modeling, optimization, and data analysis. Topics include applications in agriculture, biology, and environmental science, emphasizing practical statistical methods for real-world problem-solving and decision-making.
 Conference on Partially Ionized Plasmas in Astrophysics (PIPA 2025):
   dd: 2025-09-01 to 05
   link: https://uib.no/en/ppc/173827/partially-ionized-plasmas-astrophysics-pipa2025
@@ -5267,6 +5273,7 @@ Conference on Statistical Mathematics Applications (StatMathAppli 2025):
   dd: 2025-09-01 to 05
   link: https://statmathappli.mathnum.inrae.fr
   loc: Fréjus, France
+  kw: stat-me
   arxiv: stat.AP,math.ST
   excerpt: StatMathAppli 2025 focuses on applied statistics and mathematics, covering statistical modeling, optimization, and data analysis. Topics include applications in agriculture, biology, and environmental science, emphasizing practical statistical methods for real-world problem-solving and decision-making.
 Diagnostics for Fusion Reactors The Burning Plasma Era (ICFRD 2025):
@@ -7741,11 +7748,13 @@ Workshop on a Class of Distributions Which Includes the Normal One (SKEW 2026):
 European X-Ray Spectrometry Conference (EXRS 2026):
   dd: tbd
   loc: Catania, Italy
+  kw: qmat
   arxiv: physics.ins-det,cond-mat.mtrl-sci
   excerpt: EXRS 2026 explores X-ray spectrometry, covering X-ray fluorescence, diffraction, and imaging. Topics include applications in materials science, environmental analysis, and cultural heritage, emphasizing experimental and computational techniques for high-resolution X-ray analysis.
 Frontiers in Quantum Mechanics (FQMT 2026):
   dd: tbd
   link: https://fqmt.fzu.cz/
   loc: Prague, Czech Republic
+  kw: qmat
   arxiv: quant-ph,cond-mat.mes-hall
   excerpt: FQMT 2026 explores quantum and mesoscopic systems, covering quantum computing, non-equilibrium dynamics, and thermodynamics. Topics include applications in nanotechnology and quantum computing, emphasizing theoretical advancements.

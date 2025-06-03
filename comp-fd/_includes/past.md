@@ -12,6 +12,8 @@
 
 2025-04-02 to 04: [EuroMech Colloquium 629 on Data-Driven Fluid Mechanics (2025)](https://629.euromech.org/ "Explores data-driven approaches in fluid mechanics, integrating machine learning and computational modeling. Topics include turbulence modeling, flow prediction, and applications in aerodynamics and environmental flows."), London, UK.
 
+2025-04-07 to 11: [Conference on Kinetic Equations and Turbulence in Honor of Claude Bardos's 85th Birthday](https://bardos-85.sciencesconf.org/?lang=en "Focuses on kinetic equations and turbulence modeling. Topics include Boltzmann equations, computational fluid dynamics, and turbulence simulation, with applications in physics and engineering."), Gif-sur-Yvette, France.
+
 2025-04-27 to 05-02: [Oberwolfach Workshop on Computational Multiscale Methods (2025)](https://mfo.de/occasion/2518/www_view "This workshop explores computational multiscale methods, covering homogenization, multigrid techniques, and adaptive algorithms. Topics include multiscale fluid dynamics, materials modeling, and applications in engineering and biophysics, emphasizing efficient numerical methods for complex systems."), Oberwolfach, Germany.
 
 2025-05-05 to 07: [ANR Project ADA Conference on Theoretical and Numerical Analysis of Multi-Scale Equations (2025)](https://conf-ada.sciencesconf.org/ "Examines theoretical and numerical methods for multi-scale equations. Topics include homogenization, finite element methods, and applications in fluid dynamics and material science."), Lyon, France.
@@ -25,6 +27,8 @@
 2025-05-26 to 30: [IUTAM Summer School on Gravity Currents in the Environment (2025)](https://iutam.org/events/iutam-summer-school-on-gravity-currents-in-the-environment "Focuses on gravity currents in environmental fluid mechanics. Topics include density-driven flows, numerical modeling, and applications in oceanography, meteorology, and environmental engineering."), Udine, Italy.
 
 **2025-06-02 to 05: [IUTAM Symposium on Nonlinear Dynamics of Systems and Structures for Green Energy Conversion (2025)](https://iutam.org/events/iutam-symposium-on-nonlinear-dynamics-of-systems-and-structures-for-green-energy-conversion "Focuses on nonlinear dynamics in green energy systems. Topics include vibrational energy harvesting, nonlinear structural dynamics, and computational modeling for renewable energy applications."), Senigallia, Italy**.
+
+2025-06-02 to 13: [Algorithms for Multiphysics Models in the Post-Moore's Law Era (2025)](https://sites.google.com/msu.edu/modeling-beyond-moore/ "This workshop focuses on algorithms for multiphysics models, covering numerical methods for coupled systems in the post-Moore’s Law era. Topics include scalable solvers, reduced-order modeling, and applications in fluid dynamics and materials, emphasizing computational efficiency."), Los Alamos, NM, USA.
 
 2025-06-02 to 13: [YITP International Molecule-Type Workshop on Hydrodynamics of Low-Dimensional Interacting Systems Advances, Challenges, and Future Directions (2025)](https://www.yukawa.kyoto-u.ac.jp/seminar/s53402?lang=en-GB "This workshop explores hydrodynamics in low-dimensional systems, focusing on fluid dynamics, quantum hydrodynamics, and computational modeling. Topics include transport properties, collective modes, and applications in condensed matter, emphasizing theoretical and numerical advancements."), Kyoto, Japan.
 
