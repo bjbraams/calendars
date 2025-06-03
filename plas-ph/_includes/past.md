@@ -26,3 +26,7 @@
 
 2025-05-19 to 22: [25th Topical Conference on Radio-Frequency Power in Plasmas (RFPPC 2025)](https://ipp.mpg.de/rfppc2025 "RFPPC 2025 focuses on radio-frequency power in plasmas, covering RF heating, current drive, and plasma diagnostics. Topics include ion cyclotron resonance, RF wave propagation, and applications in magnetic fusion devices, emphasizing advancements in plasma control for fusion energy."), Schloss Hohenkammer (near Munich), Germany.
 
+2025-06-02 to 05: [5th Annual MagNetUS Workshop (MagNetUS 2025)](https://magnetus-2025.pa.ucla.edu "MagNetUS 2025 focuses on magnetized plasmas, covering magnetic confinement, plasma turbulence, and diagnostics. Topics include tokamak physics, astrophysical plasmas, and computational modeling, with applications in fusion energy and space physics, emphasizing experimental and theoretical advancements."), Morgantown, WV, USA.
+
+2025-06-02 to 13: [PPPL Introduction to Plasma and Fusion Course 2025](https://suli.pppl.gov/2025/course/ "This course introduces plasma and fusion science, covering plasma physics, magnetic confinement, and fusion energy principles. Topics include tokamak design, plasma instabilities, and diagnostic techniques, with applications in sustainable energy, emphasizing foundational concepts for fusion research."), Online.
+

@@ -34,3 +34,5 @@
 
 2025-05-29 to 31: [First Maryland Summer School in Statistics and Machine Learning (2025)](https://stat.umd.edu/summer-courses "This summer school explores statistics and machine learning, covering regression, classification, and deep learning. Topics include Bayesian methods, high-dimensional data analysis, and applications in social sciences and biology, emphasizing foundational and applied data science techniques."), College Park, MD, USA.
 
+2025-06-02 to 06: [INI Workshop Calibrating Prediction Uncertainty - Statistics and Machine Learning Perspectives (2025)](https://www.newton.ac.uk/event/rclw02/ "This workshop explores prediction uncertainty, blending statistics and machine learning. Topics include Bayesian uncertainty quantification, conformal prediction, and model calibration, with applications in AI and scientific modeling, emphasizing robust methods for reliable predictions."), Cambridge, UK.
+

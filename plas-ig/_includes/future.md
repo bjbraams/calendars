@@ -14,8 +14,6 @@
 
 2025-07-21 to 24: [18th Iberian Joint Meeting on Atomic and Molecular Physics (IBER 2025)](https://iber2025.webs5.uvigo.es "IBER 2025 focuses on atomic and molecular physics, covering plasma interactions, spectroscopy, and collision dynamics. Topics include plasma chemistry, astrophysical molecules, and applications in materials science, emphasizing experimental and theoretical atomic and molecular studies."), Vigo, Spain.
 
-2025-08-04 to 08: [6th International Conference on Data-Driven Plasma Science (ICDDPS 2025)](https://web.cvent.com/event/7de9d238-e170-4fbf-8de5-20abc5c6eb49/), Santa Fe, NM, USA.
-
 2025-09-01 to 05: [10th Central European Symposium on Plasma Chemistry (CESPC 2025)](https://cespc.inflpr.ro "CESPC 2025 focuses on plasma chemistry, covering plasma synthesis, reactive plasmas, and plasma-surface interactions. Topics include applications in materials processing, environmental remediation, and nanotechnology, emphasizing experimental and computational advances in plasma chemical processes."), Bucharest, Romania.
 
 2025-09-01 to 05: [Conference on Partially Ionized Plasmas in Astrophysics (PIPA 2025)](https://uib.no/en/ppc/173827/partially-ionized-plasmas-astrophysics-pipa2025 "PIPA 2025 focuses on partially ionized plasmas in astrophysics, covering plasma dynamics, magnetic reconnection, and ionization processes. Topics include applications in stellar atmospheres, interstellar medium, and accretion disks, emphasizing computational and observational plasma astrophysics."), Bergen, Norway.
@@ -48,5 +46,5 @@
 
 **2026 tbd: 22nd International Congress on Plasma Physics (ICPP 2026), tbd**.
 
-2027-10-02 to 07: [30th International School on Low Temperature Plasma Physics: Basics and Applications (2026)](https://www.plasma-school.org/ "This school explores low-temperature plasma physics, covering plasma generation, diagnostics, and applications. Topics include plasma-surface interactions, biomedical plasmas, and industrial processing, emphasizing fundamental principles and computational modeling for practical plasma applications."), Bad Honnef, Germany.
+2027-10-02 to 07: [30th International School on Low Temperature Plasma Physics: Basics and Applications (2027)](https://www.plasma-school.org/ "This school explores low-temperature plasma physics, covering plasma generation, diagnostics, and applications. Topics include plasma-surface interactions, biomedical plasmas, and industrial processing, emphasizing fundamental principles and computational modeling for practical plasma applications."), Bad Honnef, Germany.
 

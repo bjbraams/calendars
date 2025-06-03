@@ -1,9 +1,3 @@
-2025-06-02 to 06: [3rd International Workshop on the Art, Science, and Engineering of Quantum Programming (QP 2025)](https://2025.programming-conference.org/details/prog25-workshops/4/The-3rd-International-Workshop-on-the-Art-Science-and-Engineering-of-Quantum-Progra "QP 2025 explores quantum programming, focusing on quantum algorithms, circuit design, and software frameworks. Topics include quantum error correction, hybrid quantum-classical programming, and applications in optimization and cryptography, emphasizing practical and theoretical quantum software development."), Prague, Czech Republic.
-
-2025-06-02 to 06: [FoQaCiA WORKSHOP Pioneering the Foundations of Quantum Computing (2025)](https://foqacia.org/foqacia-workshop-2025 "FoQaCiA 2025 focuses on quantum computing foundations, covering quantum algorithms, entanglement, and quantum complexity. Topics include variational quantum circuits, quantum error mitigation, and applications in simulation and optimization, emphasizing theoretical and experimental quantum advancements."), Braga, Portugal.
-
-2025-06-02 to 08-08: [Los Alamos Quantum Computing Summer School Fellowship (2025)](https://www.lanl.gov/engage/collaboration/internships/summer-schools/quantumschool "Covers quantum computing advancements. Topics include quantum algorithms, quantum simulation, and computational methods for quantum information science and applications."), Los Alamos, NM, USA.
-
 2025-06-03 to 06: [2nd International Conference on Quantum Energy (ICQE 2025)](https://icqe.com.au/), Padua, Italy.
 
 2025-06-03 to 06: [QMP Intensive Period 2025 Workshop Recent Advances in Operator Theory and Its Applications](https://sites.google.com/view/qmp25-intensiveperiod/workshops/workshop-3-6-june), Milan, Italy.

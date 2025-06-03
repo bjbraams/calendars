@@ -6,3 +6,5 @@
 
 2025-06-01 to 06: [20th International Conference on Positron Annihilation (ICPA 2025)](https://confit.atlas.jp/guide/event/icpa20/top "ICPA 2025 focuses on positron annihilation, covering positron spectroscopy, defect characterization, and plasma-material interactions. Topics include positron trapping, surface studies, and applications in materials science and nanotechnology, emphasizing experimental and computational techniques."), Takamatsu, Japan.
 
+2025-06-02 to 07: [26th International Conference on Laser Spectroscopy (ICOLS 2025)](https://icols2025.it "ICOLS 2025 focuses on laser spectroscopy, covering precision measurements, plasma diagnostics, and laser-material interactions. Topics include atomic clocks, laser-induced breakdown spectroscopy, and applications in fusion and astrophysics, emphasizing advanced spectroscopic techniques."), Elba Island, Italy.
+

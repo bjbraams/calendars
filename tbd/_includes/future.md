@@ -1,5 +1,3 @@
-2025-06-02 to 04: [Conference and Workshop Latest Trends in in-Situ and Correlative Electron Microscopy (ICEM 2025)](https://www.icem-brno.eu/), Brno, Czech Republic.
-
 2025-06-12 to 13: [4th Workshop on Mathematics and AI – Connecting the Mathematics Clusters (2025)](https://aimath.nl/index.php/2025/03/13/4th-aim-cluster-event-tilburg/ "This workshop explores mathematics and AI, focusing on algebraic methods, optimization, and probabilistic models. Topics include graph neural networks, mathematical foundations of deep learning, and applications in data science, emphasizing interdisciplinary mathematical AI research."), Tilburg, Netherlands.
 
 2025-06-16 to 19: [4th International Conference Nonlinear Elliptic PDE in Hauts-De-France (2025)](https://4th-nlepde-hf.sciencesconf.org/ "Explores nonlinear elliptic partial differential equations. Topics include existence and regularity of solutions, numerical methods, and applications in physics, biology, and material science."), Calais, France.

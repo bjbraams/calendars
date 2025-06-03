@@ -30,7 +30,7 @@
 
 2025-10-06 to 10: [International Conference on Quasilinear Equations, Inverse Problems and Their Applications (QIPA 2025)](https://qipa2025.mipt.ru/ "Focuses on quasilinear equations and inverse problems. Topics include nonlinear PDEs, parameter estimation, and applications in imaging, geophysics, and engineering."), Sirius Federal Territory, Russia.
 
-2025-10-08 to 10: [6rd Annual Meeting of the German-Speaking Inverse Problems Society (GIP 2025)](https://inverseprobleme.de/?page_id=424 "Explores inverse problems in mathematical modeling. Topics include regularization techniques, imaging, and applications in medical diagnostics, geophysics, and engineering."), Saarbrücken, Germany.
+2025-10-08 to 10: [6th Annual Meeting of the German-Speaking Inverse Problems Society (GIP 2025)](https://inverseprobleme.de/?page_id=424 "Explores inverse problems in mathematical modeling. Topics include regularization techniques, imaging, and applications in medical diagnostics, geophysics, and engineering."), Saarbrücken, Germany.
 
 2025-11-09 to 13: [35th Annual Astronomical Data Analysis Software and Systems Conference (ADASS 2025)](https://adass.org "ADASS 2025 focuses on astronomical data analysis, covering data processing, visualization, and machine learning. Topics include applications in astrophysics, cosmology, and telescope data management, emphasizing computational tools and algorithms for analyzing large-scale astronomical datasets."), Goerlitz, Germany.
 

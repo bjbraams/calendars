@@ -24,7 +24,7 @@
 
 2025-05-13 to 15: [7th Conference on Nuclei and Mesoscopic Physics (NMP 2025)](https://indico.frib.msu.edu/event/78/ "This conference explores nuclear and mesoscopic physics, focusing on nuclear structure, reactions, and quantum many-body systems. Topics include exotic nuclei, superheavy elements, and nanoscale quantum phenomena, with applications in nuclear astrophysics and quantum technologies, emphasizing experimental and theoretical advancements."), East Lansing, MI, USA.
 
-2025-05-19 to 23: [14th International Spring Seminar on Nuclear Physics: Cutting-Edge Developments in Nuclear Structure Physics (2025)](https://agenda.infn.it/event/42803/ "Focuses on cutting-edge nuclear structure physics. Topics include exotic nuclei, nuclear models, and computational techniques for understanding nuclear interactions and properties."), Ischia, Italy.
+2025-05-19 to 23: [14th INFN (Italy) International Spring Seminar on Nuclear Physics: Cutting-Edge Developments in Nuclear Structure Physics (2025)](https://agenda.infn.it/event/42803/ "Focuses on cutting-edge nuclear structure physics. Topics include exotic nuclei, nuclear models, and computational techniques for understanding nuclear interactions and properties."), Ischia, Italy.
 
 2025-05-19 to 23: [24th International Conference on Radionuclide Metrology and Applications (ICRM 2025)](https://icrm2025.org "ICRM 2025 focuses on radionuclide metrology, covering measurement techniques, decay data, and standardization. Topics include low-level radioactivity, nuclear forensics, and applications in environmental monitoring and medical isotopes, emphasizing precision in nuclear measurement methodologies."), Paris, France.
 

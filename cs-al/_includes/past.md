@@ -30,3 +30,7 @@
 
 2025-05-26 to 29: [International Federation for Information Processing (IFIP) Networking 2025 Conference (NETWORKING 2025)](https://networking.ifip.org/2025/ "NETWORKING 2025 explores network science, focusing on algorithmic design, network optimization, and performance analysis. Topics include routing protocols, network security, and graph-based models, with applications in 5G and IoT, emphasizing computational approaches to network efficiency."), Limassol, Cyprus.
 
+2025-06-02 to 04: [32nd International Colloquium on Structural Information and Communication Complexity (SIROCCO 2025)](https://www.torontomu.ca/sirocco-2025/ "SIROCCO 2025 explores structural information and communication complexity, focusing on distributed algorithms, network topologies, and graph theory. Topics include message-passing models, fault tolerance, and applications in distributed computing, emphasizing theoretical computational efficiency."), Delphi, Greece.
+
+2025-06-02 to 06: [Complexity, Algorithms, Automata and Logic Meet (CAALM 2025)](https://caalm-2025.sciencesconf.org "CAALM 2025 explores complexity, algorithms, automata, and logic, focusing on computational complexity, formal languages, and verification. Topics include automata theory, parameterized algorithms, and applications in software verification, emphasizing theoretical foundations of computational systems."), Villetaneuse, France.
+

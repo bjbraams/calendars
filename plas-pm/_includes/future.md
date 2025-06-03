@@ -1,5 +1,3 @@
-2025-06-02 to 07: [26th International Conference on Laser Spectroscopy (ICOLS 2025)](https://icols2025.it "ICOLS 2025 focuses on laser spectroscopy, covering precision measurements, plasma diagnostics, and laser-material interactions. Topics include atomic clocks, laser-induced breakdown spectroscopy, and applications in fusion and astrophysics, emphasizing advanced spectroscopic techniques."), Elba Island, Italy.
-
 2025-06-08 to 13: [22nd International Conference on Radiation Effects in Insulators (REI 2025)](https://rei22madrid.csic.es "REI 2025 focuses on radiation effects in insulators, covering ion implantation, defect formation, and plasma-material interactions. Topics include radiation damage, dielectric materials, and applications in nuclear reactors and space technology, emphasizing experimental and computational studies."), Madrid, Spain.
 
 2025-06-22 to 25: [AVS 25th International Conference on Atomic Layer Deposition (ALD 2025) Featuring the 12th International Atomic Layer Etching Workshop (ALE 2025)](https://ald2025.avs.org/ "ALD/ALE 2025 focuses on atomic layer deposition and etching, covering plasma-enhanced processes, thin-film growth, and surface engineering. Topics include semiconductor fabrication, nanomaterials, and electronics applications, emphasizing precision plasma-based material processing."), Jeju Island, South Korea.
@@ -43,6 +41,4 @@
 2026-09-14 to 17: [European Materials Research Society (E-MRS) Fall Meeting 2026](https://www.european-mrs.com/meetings/2026-fall-meeting "E-MRS 2026 focuses on materials science, covering plasma processing, nanomaterials, and functional coatings. Topics include applications in energy storage, electronics, and biomedicine, emphasizing computational and experimental methods for advanced material synthesis and characterization."), Warsaw, Poland.
 
 2026 tbd: 12th International Conference on Multiscale Materials Modeling (MMM 2026), tbd.
-
-2026 tbd: European X-Ray Spectrometry Conference (EXRS), Catania, Italy?.
 

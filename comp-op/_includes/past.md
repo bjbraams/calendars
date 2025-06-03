@@ -16,3 +16,5 @@
 
 2025-04-30 to 05-02: [5th IMA and OR Society Conference on Mathematics of Operational Research](https://ima.org.uk/24367/5th-ima-and-or-society-conference-on-mathematics-of-operational-research/ "This conference explores mathematics in operational research, covering linear programming, stochastic optimization, and game theory. Topics include supply chain optimization, scheduling, and decision-making under uncertainty, with applications in logistics and healthcare, emphasizing mathematical modeling."), Birmingham, UK.
 
+2025-06-02 to 06: [International School and Conference on Network Science (NetSci 2025)](https://netsci2025.github.io "NetSci 2025 focuses on network science, covering graph algorithms, network dynamics, and optimization. Topics include community detection, epidemic modeling, and network robustness, with applications in social networks and biology, emphasizing computational approaches to complex networks."), Maastricht, The Netherlands.
+

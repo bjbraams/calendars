@@ -24,3 +24,7 @@
 
 2025-05-26 to 30: [IUTAM Summer School on Gravity Currents in the Environment (2025)](https://iutam.org/events/iutam-summer-school-on-gravity-currents-in-the-environment "Focuses on gravity currents in environmental fluid mechanics. Topics include density-driven flows, numerical modeling, and applications in oceanography, meteorology, and environmental engineering."), Udine, Italy.
 
+**2025-06-02 to 05: [IUTAM Symposium on Nonlinear Dynamics of Systems and Structures for Green Energy Conversion (2025)](https://iutam.org/events/iutam-symposium-on-nonlinear-dynamics-of-systems-and-structures-for-green-energy-conversion "Focuses on nonlinear dynamics in green energy systems. Topics include vibrational energy harvesting, nonlinear structural dynamics, and computational modeling for renewable energy applications."), Senigallia, Italy**.
+
+2025-06-02 to 13: [YITP International Molecule-Type Workshop on Hydrodynamics of Low-Dimensional Interacting Systems Advances, Challenges, and Future Directions (2025)](https://www.yukawa.kyoto-u.ac.jp/seminar/s53402?lang=en-GB "This workshop explores hydrodynamics in low-dimensional systems, focusing on fluid dynamics, quantum hydrodynamics, and computational modeling. Topics include transport properties, collective modes, and applications in condensed matter, emphasizing theoretical and numerical advancements."), Kyoto, Japan.
+

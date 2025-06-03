@@ -1,5 +1,3 @@
-2025-06-02 to 05: [CECAM Flagship Workshop on Virtual Materials Design: AI, Simulation, and Workflows (2025)](https://cecam.org/workshop-details/virtual-materials-design-ai-simulation-and-workflows-1398 "This workshop focuses on virtual materials design, covering AI-driven simulations, molecular dynamics, and automated workflows. Topics include machine learning for material properties, high-throughput screening, and applications in energy materials, emphasizing integrated computational design strategies."), Eggenstein-Leopoldshafen, Germany.
-
 2025-06-11 to 18: [13th Crete International Symposium on Ultrafast Dynamics and Ultrafast Bandgap Photonics (2025)](https://udm-ubp2025.eventsadmin.com/), Hersonissos, Crete, Greece.
 
 2025-06-11 to 18: [Crete Summer School on Dynamics of Nonequilibrium (2025)](https://udm-ubp2025.eventsadmin.com/i/SUMMERSCHOOL), Hersonissos, Crete, Greece.

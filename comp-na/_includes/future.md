@@ -1,5 +1,3 @@
-2025-06-02 to 06: [9th Linear Algebra Workshop (LAW 2025)](http://www.law05.si/law25/ "Covers advances in linear algebra and numerical analysis. Topics include matrix theory, eigenvalue problems, and computational methods for large-scale systems in science and engineering."), Portorož, Slovenia.
-
 2025-06-08 to 13: [22nd Householder Symposium (2025)](https://householder-symposium.github.io "This symposium focuses on numerical linear algebra, covering matrix computations, eigenvalue problems, and iterative solvers. Topics include Krylov subspace methods, low-rank approximations, and applications in scientific computing, emphasizing computational efficiency and accuracy."), Ithaca, NY, USA.
 
 2025-06-23 to 27: [26th Conference of the International Linear Algebra Society (ILAS 2025)](https://ilas2025.tw "ILAS 2025 explores linear algebra, covering matrix theory, eigenvalue problems, and numerical methods. Topics include tensor computations, sparse matrices, and applications in data science and control theory, emphasizing theoretical and computational linear algebra advancements."), Kaohsiung, Taiwan.
