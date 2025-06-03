@@ -42,11 +42,11 @@
 
 2025-08-18 to 22: [Workshop on Nuclear Masses in Astrophysics for the Next 25 Years (2025)](https://indico.gsi.de/event/22417/ "This workshop explores nuclear masses in astrophysics, covering mass measurements, nuclear reactions, and nucleosynthesis. Topics include stellar evolution, neutron star physics, and applications in cosmology, emphasizing high-precision nuclear data for astrophysical modeling and simulations."), Darmstadt, Germany.
 
-2025-09-22 to 25: [NUCLear Exotic Structures and Related Phenomena (NUCLEAR 2025)](https://napp.fudan.edu.cn/event/52/), Shanghai, China.
+2025-09-22 to 25: [NUCLear Exotic Structures and Related Phenomena (NUCLEAR 2025)](https://napp.fudan.edu.cn/event/52/ "Investigates exotic nuclear structures, covering superheavy nuclei, nuclear clustering, and reaction mechanisms. Topics include nuclear spectroscopy, theoretical modeling, and applications in nuclear physics, emphasizing experimental and computational advancements."), Shanghai, China.
 
 2025-09-22 to 26: [6th European Nuclear Physics Conference (EuNPC 2025)](https://indico.in2p3.fr/event/30430/ "EuNPC 2025 focuses on nuclear physics, covering nuclear structure, reactions, and astrophysics. Topics include exotic nuclei, nuclear fusion, and applications in energy and cosmology, emphasizing experimental and theoretical advances in nuclear science and technology."), Caen, France.
 
-2025-10-17 to 20: [Fall Meeting of the American Physical Society Division of Nuclear Physics (DNP 2025)](https://indico.phy.anl.gov/event/58/), Chicago, IL, USA.
+2025-10-17 to 20: [Fall Meeting of the American Physical Society Division of Nuclear Physics (DNP 2025)](https://indico.phy.anl.gov/event/58/ "Explores nuclear physics advancements, covering nuclear structure, reactions, and astrophysics. Topics include quark-gluon interactions, rare isotopes, and computational modeling, emphasizing experimental and theoretical developments in fundamental physics."), Chicago, IL, USA.
 
 2025-10-27 to 11-01: [16th European Research Conference on Electromagnetic Interactions With Nucleons and Nuclei (EINN 2025)](https://2025.einnconference.org "EINN 2025 focuses on electromagnetic interactions with nucleons and nuclei, covering scattering experiments, nuclear structure, and QCD. Topics include applications in particle physics and astrophysics, emphasizing experimental and theoretical studies of electromagnetic probes in nuclear science."), Paphos, Cyprus.
 
@@ -58,7 +58,7 @@
 
 2026-04-19 to 23: [International Conference on the Physics of Reactors (PHYSOR 2026)](https://www.physor2026.org/ "Covers nuclear reactor physics and technology. Topics include reactor design, neutron transport, computational modeling, and safety analysis for advanced nuclear energy systems."), Turin, Italy.
 
-2026-04-27 to 05-29: [INT Program Nuclear Hamiltonians for Advancing Nuclear Physics and Beyond (2026)](https://www.int.washington.edu/programs-and-workshops-list), Seattle, WA, USA. Preliminary link, announcement only.
+2026-04-27 to 05-29: [INT Program Nuclear Hamiltonians for Advancing Nuclear Physics and Beyond (2026)](https://www.int.washington.edu/programs-and-workshops-list "Focuses on nuclear Hamiltonians, covering effective field theories, ab initio methods, and many-body techniques. Topics include nuclear interactions, quantum simulations, and applications in nuclear and particle physics, emphasizing theoretical advancements."), Seattle, WA, USA. Preliminary link, announcement only.
 
 2026-05-18 to 22: [10th Oslo Workshop on Level Density and Gamma Strength (2026)](https://www.mn.uio.no/fysikk/english/research/news-and-events/events/conferences/gamma10/ "This workshop focuses on nuclear level density and gamma strength, covering nuclear reactions, statistical models, and spectroscopy. Topics include applications in nuclear astrophysics and reactor physics, emphasizing experimental and theoretical methods for nuclear structure analysis."), Oslo, Norway.
 

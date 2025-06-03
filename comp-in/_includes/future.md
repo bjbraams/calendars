@@ -1,6 +1,6 @@
 2025-06-10 to 13: [Waves and Imaging in Complex Media (Wicom 2025)](https://wicom.sciencesconf.org/ "Explores wave propagation and imaging in complex media. Topics include inverse scattering, wave-based imaging, and applications in geophysics, medical imaging, and material science."), Paris, France.
 
-2025-06-23 to 26: [SPIE Optical Metrology 2025](https://spie.org/conferences-and-exhibitions/optical-metrology), Munich, Germany.
+2025-06-23 to 26: [SPIE Optical Metrology 2025](https://spie.org/conferences-and-exhibitions/optical-metrology "Focuses on optical metrology, covering precision measurement, interferometry, and optical sensing. Topics include surface characterization, dimensional metrology, and applications in manufacturing and nanotechnology, emphasizing advanced optical techniques and computational analysis."), Munich, Germany.
 
 2025-06-23 to 27: [Summer School EUR MINT on Control, Inverse Problems and Spectral Theory (2025)](https://indico.math.cnrs.fr/event/12766/ "Focuses on control theory, inverse problems, and spectral analysis. Topics include PDE control, spectral methods, and applications in imaging, engineering, and mathematical physics."), Toulouse, France.
 
@@ -16,7 +16,7 @@
 
 2025-08-04 to 08: [Summer School on Topological Data Analysis in Stochastic Geometry and Image Processing (2025)](https://sites.google.com/view/aarhustda/ "This summer school focuses on topological data analysis, covering persistent homology, stochastic geometry, and image processing. Topics include applications in shape analysis, network science, and medical imaging, emphasizing computational topology for stochastic and image data."), Aarhus Institute of Advanced Studies, Aarhus, Denmark.
 
-2025-08-18 to 21: [Optica Imaging Congress 2025](https://www.optica.org/events/congress/imaging_and_applied_optics_congress/), Seattle, WA, USA.
+2025-08-18 to 21: [Optica Imaging Congress 2025](https://www.optica.org/events/congress/imaging_and_applied_optics_congress/ "Focuses on imaging technologies, covering optical imaging, computational imaging, and microscopy. Topics include biomedical imaging, machine vision, and image processing, with applications in healthcare and industry, emphasizing optical and computational innovations."), Seattle, WA, USA.
 
 2025-08-25 to 29: [Stochastic Numerics and Inverse Problems in Southern Sweden (SNIPSS 2025)](https://lnu.se/en/meet-linnaeus-university/current/events/2025/konferenser/snipss-2025--stochastic-numerics-and-inverse-problems-in-southern-sweden-2025/ "SNIPSS 2025 focuses on stochastic numerics and inverse problems, covering Monte Carlo methods, Bayesian inversion, and uncertainty quantification. Topics include applications in imaging, geophysics, and engineering, emphasizing computational techniques for stochastic and inverse modeling."), Växjö, Sweden.
 
@@ -36,7 +36,7 @@
 
 2026-04-08 to 11: [IEEE International Symposium on Biomedical Imaging (ISBI 2026)](https://biomedicalimaging.org/2026/ "Focuses on biomedical imaging techniques. Topics include image processing, machine learning for diagnostics, and applications in medical imaging and healthcare."), London, UK.
 
-2026-04-10 to 12: [14th International Conference on Computational Visual Media (CVM 2026)](http://iccvm.org/2026/), Seoul, Korea.
+2026-04-10 to 12: [14th International Conference on Computational Visual Media (CVM 2026)](http://iccvm.org/2026/ "Explores advancements in computational visual media, covering computer vision, graphics, and image synthesis. Topics include deep learning for visual data, augmented reality, and applications in entertainment and robotics, emphasizing algorithmic innovations."), Seoul, Korea.
 
 2026-05-31 to 06-06: [12th International Conference Inverse Problems: Modeling and Simulation (IPMS 2026)](https://ipms-conference.org/ipms2026/ "IPMS 2026 explores inverse problems, covering regularization, Bayesian methods, and imaging. Topics include applications in medical imaging, geophysics, and nondestructive testing, emphasizing computational and mathematical techniques for solving ill-posed problems and data reconstruction."), Malta.
 

@@ -6,7 +6,7 @@
 
 2025-06-23 to 27: [Workshop Atmospheric Discharges in Dynamic Environments (2025)](https://ctrwiae.org/events "This workshop focuses on atmospheric discharges, covering plasma dynamics, lightning physics, and electromagnetic effects. Topics include plasma modeling, discharge diagnostics, and applications in meteorology and aerospace, emphasizing experimental and computational studies of atmospheric plasmas."), Bath, UK.
 
-2025-06-25 to 28: [International Plasma Technology Joint Conference (IPTJC 2025)](https://iptjc2025.conf.tw/), New Taipei, Taiwan.
+2025-06-25 to 28: [International Plasma Technology Joint Conference (IPTJC 2025)](https://iptjc2025.conf.tw/ "Explores plasma technology advancements, covering plasma processing, surface modification, and plasma diagnostics. Topics include applications in semiconductors, biomedical devices, and energy, emphasizing experimental and computational techniques."), New Taipei, Taiwan.
 
 **2025-06-30 to 07-04: [15th European Conference on Atoms, Molecules and Photons (ECAMP 2025)](https://ecamp15.org "ECAMP 2025 focuses on atomic, molecular, and photonic physics, covering quantum optics, plasma interactions, and molecular dynamics. Topics include photon-matter interactions, cold atoms, and applications in quantum technologies, emphasizing experimental and theoretical advancements."), Innsbruck, Austria**.
 
@@ -30,7 +30,7 @@
 
 **2025-10-13 to 17: [78th Gaseous Electronics Conference (GEC 2025)](https://apsgec.org/gec2025/ "GEC 2025 focuses on gaseous electronics, covering plasma discharges, electron collisions, and plasma chemistry. Topics include applications in semiconductor processing, lighting, and biomedical plasmas, emphasizing experimental and computational studies of low-temperature plasma phenomena and technologies."), Seoul, Korea**.
 
-2025-12-11 to 14: [14th Asia-Pacific International Symposium on the Basics and Applications of Plasma Technology (APSPT 2025)](https://apspt-14.tw/), Taipei, Taiwan.
+2025-12-11 to 14: [14th Asia-Pacific International Symposium on the Basics and Applications of Plasma Technology (APSPT 2025)](https://apspt-14.tw/ "Investigates plasma technology, focusing on fundamental plasma physics and applications. Topics include plasma etching, thin-film deposition, and biomedical plasmas, with emphasis on experimental techniques and computational modeling for industrial applications."), Taipei, Taiwan.
 
 2026-02-22 to 27: [Gordon Research Conference on Structures, Energetics and Reaction Dynamics of Gaseous Ions (2026)](https://www.grc.org/structures-energetics-and-reaction-dynamics-of-gaseous-ions-conference/2026/ "Explores gaseous ion chemistry and dynamics. Topics include ion structures, reaction mechanisms, and computational modeling of energetics in plasma and gas-phase systems."), Galveston, TX, USA.
 

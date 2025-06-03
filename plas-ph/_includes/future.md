@@ -1,6 +1,6 @@
 2025-06-05 to 06: [CHIMERAS (Collisionless HIgh-beta Magnetized Experiment Researching Astrophysical Systems) Workshop 2025](https://home.physics.ucla.edu/~sethd/chimeras25wvu/ "CHIMERAS 2025 focuses on collisionless high-beta plasmas, covering magnetic reconnection, turbulence, and astrophysical plasma dynamics. Topics include experimental diagnostics, computational modeling, and applications in solar and astrophysical systems, emphasizing collisionless plasma phenomena."), Morgantown, WV, USA.
 
-2025-06-09 to 13: [4th (Korea) International Fusion and Plasma Conference (iFPC 2025)](https://i-fpc.org/2025/), Daejeon, Korea.
+2025-06-09 to 13: [4th (Korea) International Fusion and Plasma Conference (iFPC 2025)](https://i-fpc.org/2025/ "Focuses on fusion and plasma science, covering plasma confinement, fusion energy, and plasma diagnostics. Topics include tokamak physics, inertial confinement, and computational modeling, emphasizing advancements in fusion technology."), Daejeon, Korea.
 
 2025-06-09 to 13: [6th Summer School of Plasma Diagnostics (PhDiaFusion 2025)](https://phdia2025.ifj.edu.pl/ "PhDiaFusion 2025 focuses on plasma diagnostics, covering spectroscopy, interferometry, and particle diagnostics. Topics include fusion plasma measurements, diagnostic calibration, and applications in magnetic confinement, emphasizing practical training in plasma diagnostic techniques."), Castle near Kraków, Poland.
 

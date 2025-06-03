@@ -54,7 +54,7 @@
 
 2025-12-16 to 18: [45th SGAI International Conference on Artificial Intelligence (AI 2025)](https://www.bcs-sgai.org/ai2025/ "Explores advancements in artificial intelligence. Topics include machine learning, knowledge representation, and applications in robotics, natural language processing, and decision systems."), Cambridge, UK.
 
-2026-05-10 to 14: [IACR Eurocrypt 2026](https://eurocrypt.iacr.org/2026/), Rome, Italy.
+2026-05-10 to 14: [IACR Eurocrypt 2026](https://eurocrypt.iacr.org/2026/ "Focuses on cryptography, covering encryption algorithms, secure protocols, and quantum cryptography. Topics include privacy-preserving technologies, blockchain, and cryptographic security, emphasizing theoretical and applied advancements in secure computing."), Rome, Italy.
 
 2026-08-16 to 20: [28th International Conference on Pattern Recognition (ICPR 2026)](https://iapr.org/conferences/conference-schedule/ "ICPR 2026 focuses on pattern recognition, covering computer vision, machine learning, and image processing. Topics include applications in biometrics, autonomous systems, and medical imaging, emphasizing computational methods for recognizing and analyzing complex patterns in data."), Lyon, France.
 

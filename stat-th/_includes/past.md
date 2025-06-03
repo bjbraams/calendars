@@ -16,7 +16,7 @@
 
 2025-05-21 to 23: [CRiSM 2.0 Conference (2025)](https://warwick.ac.uk/fac/sci/statistics/news/crism-event2025 "CRiSM 2.0 focuses on statistical theory, covering Bayesian inference, high-dimensional statistics, and time-series analysis. Topics include computational statistics, causal inference, and applications in biostatistics and economics, emphasizing theoretical advancements in statistical modeling and analysis."), Warwick, UK.
 
-2025-05-25 to 28: [Statistical Society of Canada Annual Meeting (SSC 2025)](https://ssc.ca/en/meetings/annual/2025-ssc-annual-meeting-saskatoon), Saskatoon, SK, Canada.
+2025-05-25 to 28: [Statistical Society of Canada Annual Meeting (SSC 2025)](https://ssc.ca/en/meetings/annual/2025-ssc-annual-meeting-saskatoon "Covers statistical theory and applications, focusing on Bayesian methods, machine learning, and data analysis. Topics include biostatistics, environmental statistics, and econometrics, emphasizing advancements in statistical modeling and inference."), Saskatoon, SK, Canada.
 
 2025-05-26 to 28: [14th Workshop on Bayesian Inference in Stochastic Processes (BISP 2025)](https://bisp14.imati.cnr.it/ "BISP 2025 focuses on Bayesian inference in stochastic processes, covering Markov chain Monte Carlo, Gaussian processes, and sequential inference. Topics include time-series modeling, applications in finance and biostatistics, emphasizing computational Bayesian methods for stochastic systems."), Milan, Italy.
 

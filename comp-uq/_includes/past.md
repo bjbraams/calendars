@@ -4,7 +4,7 @@
 
 2025-03-31 to 04-04: [IMSI Workshop Kernel Methods in Uncertainty Quantification and Experimental Design (2025)](https://imsi.institute/activities/kernel-methods-in-uncertainty-quantification-and-experimental-design/ "This workshop explores kernel methods in uncertainty quantification, covering Gaussian processes, kernel-based surrogates, and optimal experimental design. Topics include uncertainty propagation, Bayesian optimization, and applications in engineering and materials science, emphasizing kernel-based statistical modeling."), Chicago, IL, USA.
 
-2025-04-09 to 10: [ASME Conference Verification, Validation, and Uncertainty Quantification (2025)](https://event.asme.org/VandV), College Station, TX, USA.
+2025-04-09 to 10: [ASME Conference Verification, Validation, and Uncertainty Quantification (2025)](https://event.asme.org/VandV "Focuses on verification, validation, and uncertainty quantification in computational models, covering statistical methods, model calibration, and error analysis. Topics include applications in engineering, aerospace, and energy systems, emphasizing robust simulation frameworks."), College Station, TX, USA.
 
 2025-04-20 to 25: [Oberwolfach Workshop on Uncertainty Quantification (2025)](https://mfo.de/occasion/2517/www_view "This workshop focuses on uncertainty quantification, covering Monte Carlo methods, polynomial chaos, and Bayesian inference. Topics include uncertainty propagation, sensitivity analysis, and applications in engineering, climate, and materials science, emphasizing robust computational frameworks."), Oberwolfach, Germany.
 

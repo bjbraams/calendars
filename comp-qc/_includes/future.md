@@ -1,6 +1,6 @@
-2025-06-03 to 06: [2nd International Conference on Quantum Energy (ICQE 2025)](https://icqe.com.au/), Padua, Italy.
+2025-06-03 to 06: [2nd International Conference on Quantum Energy (ICQE 2025)](https://icqe.com.au/ "Examines quantum energy technologies, covering quantum thermodynamics, energy harvesting, and quantum materials. Topics include quantum batteries, thermoelectric devices, and applications in sustainable energy, emphasizing theoretical and experimental innovations in quantum energy systems."), Padua, Italy.
 
-2025-06-03 to 06: [QMP Intensive Period 2025 Workshop Recent Advances in Operator Theory and Its Applications](https://sites.google.com/view/qmp25-intensiveperiod/workshops/workshop-3-6-june), Milan, Italy.
+2025-06-03 to 06: [QMP Intensive Period 2025 Workshop Recent Advances in Operator Theory and Its Applications](https://sites.google.com/view/qmp25-intensiveperiod/workshops/workshop-3-6-june "Explores operator theory advancements, focusing on functional analysis, spectral theory, and non-commutative geometry. Topics include applications in quantum mechanics, signal processing, and mathematical physics, emphasizing theoretical developments and computational methods."), Milan, Italy.
 
 2025-06-03 to 07-23: [Quantum Fringe Summer Festival of Quantum Events 2025](https://www.quantumsoftwarelab.com/quantum-fringe-scotland "This festival explores quantum technologies, focusing on quantum computing, algorithms, and cryptography. Topics include quantum circuit design, quantum machine learning, and applications in optimization, emphasizing interdisciplinary advancements in quantum software and hardware development."), Various Scotland, UK.
 
@@ -14,9 +14,9 @@
 
 2025-06-16 to 20: [Quantum Algorithms in Pre-Fault Tolerant Hardware (2025)](https://basq-ibm-2025.dipc.org "This workshop focuses on quantum algorithms for pre-fault-tolerant hardware, covering noisy intermediate-scale quantum (NISQ) devices, variational algorithms, and quantum optimization. Topics include quantum simulation, error mitigation, and applications in chemistry, emphasizing practical quantum computing."), Donostia / San Sebastian, Spain.
 
-2025-06-17 to 18: [Cryst3 Workshop Quantum in Photonic Microstructures (2025)](https://www.cryst3.com/quantum-in-photonic-microstructures-workshop), Limoges, France.
+2025-06-17 to 18: [Cryst3 Workshop Quantum in Photonic Microstructures (2025)](https://www.cryst3.com/quantum-in-photonic-microstructures-workshop "Focuses on quantum phenomena in photonic microstructures, covering quantum optics, photonics, and nanostructured materials. Topics include quantum light sources, photonic crystals, and applications in quantum communication and sensing, emphasizing experimental and theoretical advances."), Limoges, France.
 
-2025-06-18 to 20: [Quantum Computing Applications in Chemical and Biochemical Engineering (QChemE 2025)](https://www.aiche.org/conferences/quantum-computing-and-artificial-intelligence-applications-workshop/2025), Lyngby, Denmark.
+2025-06-18 to 20: [Quantum Computing Applications in Chemical and Biochemical Engineering (QChemE 2025)](https://www.aiche.org/conferences/quantum-computing-and-artificial-intelligence-applications-workshop/2025 "Explores quantum computing applications in chemical and biochemical engineering, covering quantum algorithms, molecular simulations, and optimization. Topics include catalyst design, protein folding, and process engineering, emphasizing computational advancements for industrial applications.[](https://quantum.technology/conf/index.html)"), Lyngby, Denmark.
 
 2025-06-30 to 07-03: [20th Central European Quantum Information Processing Workshop (CEQIP 2025)](http://ceqip.eu/2025/ "CEQIP 2025 focuses on quantum information processing, covering quantum algorithms, entanglement, and quantum cryptography. Topics include quantum error correction, quantum networks, and applications in quantum computing, emphasizing theoretical and experimental quantum information advancements."), Smolenice Castle, Slovakia.
 
@@ -36,7 +36,7 @@
 
 **2025-08-11 to 15: [7th International Conference on Quantum Error Correction (QEC 2025)](https://qec25.yalepages.org "QEC 2025 focuses on quantum error correction, covering fault-tolerant quantum computing, quantum codes, and decoherence mitigation. Topics include surface codes, quantum repeaters, and applications in quantum networks, emphasizing theoretical and experimental quantum error correction advancements."), New Haven, CT, USA**.
 
-2025-08-18 to 29: [IQuS 2nd International Workshop on Many-Body Quantum Magic (MBQM 2025)](https://iqus.uw.edu/events/iqus-workshop-2025-2/), Seattle, WA, USA.
+2025-08-18 to 29: [IQuS 2nd International Workshop on Many-Body Quantum Magic (MBQM 2025)](https://iqus.uw.edu/events/iqus-workshop-2025-2/ "Examines many-body quantum systems with a focus on quantum magic, covering entanglement, quantum complexity, and non-stabilizer states. Topics include quantum computing and condensed matter applications, emphasizing theoretical and computational insights."), Seattle, WA, USA.
 
 2025-08-24 to 29: [Seeking Quantum Advantage: Workshop and Conference (SEEQA 2025)](https://conference.seeqa.org "SEEQA 2025 focuses on quantum advantage, covering quantum algorithms, quantum supremacy, and hardware development. Topics include quantum simulation, cryptography, and applications in optimization, emphasizing theoretical and experimental efforts to achieve practical quantum computing advancements."), Oxford, UK.
 
@@ -52,9 +52,9 @@
 
 2025-09-01 to 05: [Workshop on Quantum Computing and Quantum Information (2025)](https://users.utu.fi/mikhirve/workshop2025/ "This workshop explores quantum computing and information, covering quantum algorithms, quantum error correction, and entanglement theory. Topics include applications in cryptography, simulation, and optimization, emphasizing theoretical and practical advancements in quantum information processing and computation."), Nice, France.
 
-2025-09-08 to 11: [KITP Conference Quantum Many-Body Physics Through the Lens of Quantum Error Correction](https://www.kitp.ucsb.edu/activities/stablephases-c25), Santa Barbara, CA, USA.
+2025-09-08 to 11: [KITP Conference Quantum Many-Body Physics Through the Lens of Quantum Error Correction](https://www.kitp.ucsb.edu/activities/stablephases-c25 "Explores quantum many-body physics through quantum error correction, covering stabilizer codes, topological order, and fault-tolerant quantum computing. Topics include quantum phase transitions and applications in condensed matter, emphasizing theoretical advancements."), Santa Barbara, CA, USA.
 
-2025-09-08 to 12: [2nd DPG Fall Meeting: 100 Years of Quantum Physics (2025)](https://quantum25.dpg-tagungen.de/), Göttingen, Germany.
+2025-09-08 to 12: [2nd DPG Fall Meeting: 100 Years of Quantum Physics (2025)](https://quantum25.dpg-tagungen.de/ "Celebrates quantum physics advancements, covering quantum mechanics, quantum optics, and quantum information. Topics include quantum computing, entanglement, and foundational quantum theory, emphasizing theoretical, experimental, and historical perspectives in quantum science."), Göttingen, Germany.
 
 2025-09-08 to 19: [CERN Theory Institute on Quantum Simulation and Computation in High-Energy Physics (2025)](https://indico.cern.ch/event/1488240/ "This institute focuses on quantum simulation in high-energy physics, covering quantum algorithms, lattice gauge theories, and quantum hardware. Topics include applications in particle physics, cosmology, and quantum field theory, emphasizing quantum computational methods for fundamental physics."), Geneva, Switzerland.
 
@@ -68,7 +68,7 @@
 
 2025-10-15 to 17: [Quantum Network Workshop (QuNeW 2025)](https://qutech.nl/event/qunew/ "QuNeW 2025 focuses on quantum networks, covering quantum communication, entanglement distribution, and quantum repeaters. Topics include applications in secure communication and distributed quantum computing, emphasizing experimental and theoretical advancements in quantum networking technologies."), The Hague, Netherlands.
 
-2025-10-27 to 30: [KITP Conference Frontiers of Programmable Quantum Dynamics Advances and Applications (2025)](https://www.kitp.ucsb.edu/activities/finestructure-c25), Santa Barbara, CA, USA.
+2025-10-27 to 30: [KITP Conference Frontiers of Programmable Quantum Dynamics Advances and Applications (2025)](https://www.kitp.ucsb.edu/activities/finestructure-c25 "Investigates programmable quantum dynamics, covering quantum simulation, many-body systems, and quantum control. Topics include quantum algorithms, non-equilibrium dynamics, and applications in condensed matter and quantum computing, emphasizing theoretical and experimental progress."), Santa Barbara, CA, USA.
 
 2025-11-10 to 12: [European Quantum Technologies Conference (EQTC 2025)](https://eqtc.eu "EQTC 2025 focuses on quantum technologies, covering quantum computing, sensing, and communication. Topics include quantum algorithms, quantum cryptography, and quantum hardware development, emphasizing experimental and theoretical advancements for practical quantum technology applications."), Copenhagen, Denmark.
 

@@ -74,7 +74,7 @@
 
 2025-12-15 to 18: [4th IMS International Conference on Statistics and Data Science (ICSDS 2025)](https://sites.google.com/view/ims-icsds2025/ "ICSDS 2025 focuses on statistics and data science, covering statistical learning, big data analytics, and causal inference. Topics include applications in healthcare, finance, and social sciences, emphasizing computational and statistical methods for modern data-driven research and analysis."), Sevilla, Spain.
 
-2026-01-20 to 27: [40th Annual AAAI Conference on Artificial Intelligence (AAAI 2026)](https://aaai.org/conference/aaai/aaai-26/), Singapore.
+2026-01-20 to 27: [40th Annual AAAI Conference on Artificial Intelligence (AAAI 2026)](https://aaai.org/conference/aaai/aaai-26/ "Covers artificial intelligence advancements, focusing on machine learning, natural language processing, and robotics. Topics include deep learning, reinforcement learning, and ethical AI, with applications in healthcare, finance, and autonomous systems."), Singapore.
 
 2026-07-14 to 16: 19th Conference of the International Federation of Classification Societies (IFCS 2026), Milan, Italy.
 

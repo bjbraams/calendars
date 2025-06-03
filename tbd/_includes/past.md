@@ -1,4 +1,4 @@
 2025-05-06 to 09: [Mallorca Topological Quantum Matter (MTQM 2025)](https://mtqm25.com/ "MTQM 2025 explores topological quantum matter, focusing on topological insulators, superconductors, and quantum spin liquids. Topics include topological phase transitions, Majorana fermions, and applications in quantum computing, emphasizing theoretical and experimental advancements in quantum materials."), Palma de Mallorca, Spain.
 
-2025-06-02 to 04: [Conference and Workshop Latest Trends in in-Situ and Correlative Electron Microscopy (ICEM 2025)](https://www.icem-brno.eu/), Brno, Czech Republic.
+2025-06-02 to 04: [Conference and Workshop Latest Trends in in-Situ and Correlative Electron Microscopy (ICEM 2025)](https://www.icem-brno.eu/ "Explores in-situ and correlative electron microscopy, covering real-time imaging, material dynamics, and multi-modal analysis. Topics include nanostructure characterization, catalysis, and applications in materials science, emphasizing advanced microscopy techniques."), Brno, Czech Republic.
 

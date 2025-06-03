@@ -1,4 +1,4 @@
-2025-01-02 to 05: [Inter-American Photochemical Society Annual Meeting (I-Aps 2025)](https://i-aps.org/meeting-registration/), Miramar Beach, FL, USA.
+2025-01-02 to 05: [Inter-American Photochemical Society Annual Meeting (I-Aps 2025)](https://i-aps.org/meeting-registration/ "Explores photochemical processes, covering photoinduced reactions, spectroscopy, and excited-state dynamics. Topics include photovoltaics, photocatalysis, and applications in environmental and biological systems, emphasizing experimental and theoretical studies."), Miramar Beach, FL, USA.
 
 2025-02-16 to 22: [ITAMP Winter School on Quantum Revolution in AMO Sciences (2025)](https://lweb.cfa.harvard.edu/itamp-event/2025-winter-school-quantum-revolution-amo-sciences "This winter school explores quantum advancements in atomic, molecular, and optical (AMO) sciences. Topics include quantum control, ultracold molecules, and quantum sensing. It covers applications in quantum chemistry, precision measurement, and quantum information, emphasizing experimental and theoretical breakthroughs in AMO physics."), Biosphere 2, Oracle, AZ, USA.
 
@@ -8,7 +8,7 @@
 
 2025-03-09 to 14: [Oberwolfach Workshop on Mathematical Methods in Quantum Chemistry (2025)](https://mfo.de/occasion/2511/www_view "This workshop focuses on mathematical methods in quantum chemistry, covering electronic structure theory, wavefunction methods, and quantum Monte Carlo. Topics include coupled-cluster theory, density functional approximations, and applications in molecular reactivity and spectroscopy, emphasizing rigorous computational approaches."), Oberwolfach, Germany.
 
-2025-03-23 to 27: [American Chemical Society Spring 2025 Meeting & Expo (ACS Spring 2025)](https://www.acs.org/meetings/acs-meetings/spring.html), San Diego, CA, USA and Online.
+2025-03-23 to 27: [American Chemical Society Spring 2025 Meeting & Expo (ACS Spring 2025)](https://www.acs.org/meetings/acs-meetings/spring.html "Covers chemistry advancements, focusing on chemical synthesis, catalysis, and analytical chemistry. Topics include green chemistry, medicinal chemistry, and materials science, with applications in energy, health, and environmental sustainability, emphasizing interdisciplinary research."), San Diego, CA, USA and Online.
 
 2025-03-27 to 28: [Symposium Can Ice Be Described From First Principles? (2025)](https://cas-nor.no/index.php/events/young-cas-fellow-symposium-can-ice-be-described-first-principles "This symposium explores first-principles modeling of ice, focusing on quantum mechanical simulations of ice structures and properties. Topics include density functional theory, hydrogen bonding, and phase transitions, with applications in climate science and materials chemistry, emphasizing computational challenges."), Oslo, Norway.
 

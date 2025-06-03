@@ -18,13 +18,13 @@
 
 2025-07-29 to 08-02: [YITP 70th Condensed Matter Physics Summer School (CMPSS 2025)](https://www.yukawa.kyoto-u.ac.jp/seminar/s53460?lang=en-GB "CMPSS 2025 focuses on condensed matter physics, covering computational methods, quantum materials, and many-body systems. Topics include topological phases, computational simulations, and applications in electronics, emphasizing theoretical and computational training in condensed matter research."), Shirahamaso, Japan.
 
-2025-08-04 to 15: [Gene Golub SIAM Summer School 2025 Frontiers in Multidimensional Pattern Formation](https://www.siam.org/programs-initiatives/programs/gene-golub-siam-summer-school/), Montreal, QC, Canada.
+2025-08-04 to 15: [Gene Golub SIAM Summer School 2025 Frontiers in Multidimensional Pattern Formation](https://www.siam.org/programs-initiatives/programs/gene-golub-siam-summer-school/ "Explores mathematical modeling of multidimensional pattern formation, covering nonlinear dynamics, partial differential equations, and computational methods. Topics include pattern stability, bifurcations, and applications in physics, biology, and materials science, emphasizing recent advances in theoretical and numerical approaches for complex systems."), Montreal, QC, Canada.
 
 2025-08-25 to 29: [EuroMech Colloquium 651 on Films, Bubbles, Droplets and Phase Change (2025)](http://651.euromech.org/ "Focuses on fluid mechanics of films, bubbles, and droplets. Topics include phase change, interfacial dynamics, and computational modeling for applications in materials and environmental science."), Metz, France.
 
 2025-08-26 to 28: [EuroMech Colloquium 653 on Mechanics of Interfaces (2025)](http://653.euromech.org/ "Focuses on mechanics at material interfaces. Topics include interfacial dynamics, computational modeling, and applications in solid mechanics and fluid-structure interactions."), Metz, France.
 
-2025-08-26 to 29: [EUROMECH 2nd European Fluid Dynamics Conference (EFDC 2025)](https://euromech.org/conferences/folder-efdc/EFDC2), Dublin, Ireland.
+2025-08-26 to 29: [EUROMECH 2nd European Fluid Dynamics Conference (EFDC 2025)](https://euromech.org/conferences/folder-efdc/EFDC2 "Explores fluid dynamics, covering turbulence, multiphase flows, and computational fluid dynamics. Topics include aerodynamics, hydrodynamics, and applications in engineering and environmental systems, emphasizing theoretical and numerical advancements."), Dublin, Ireland.
 
 2025-09-15 to 17: [EuroMech Colloquium 658 on Coherent Structures and Instabilities in Transitional and Turbulent Wall-Bounded Flows (2025)](http://658.euromech.org/ "Focuses on coherent structures in wall-bounded turbulent flows. Topics include instability analysis, computational fluid dynamics, and applications in aerodynamics and engineering."), Bari, Italy.
 

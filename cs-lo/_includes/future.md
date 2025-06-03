@@ -6,7 +6,7 @@
 
 2025-06-23 to 26: [40th ACM/IEEE Symposium on Logic in Computer Science (LICS 2025)](https://lics.siglog.org/lics25/ "LICS 2025 explores logic in computer science, covering formal methods, type theory, and automated reasoning. Topics include program verification, logical foundations of AI, and applications in software security, emphasizing theoretical logic for computational systems."), Singapore.
 
-2025-07-07 to 11: [School on Symbolic and Statistical Methods for Reasoning and Processing Formal Expressions (2025)](https://europroofnet.github.io/Kutaisi25/), Kutaisi, Georgia.
+2025-07-07 to 11: [School on Symbolic and Statistical Methods for Reasoning and Processing Formal Expressions (2025)](https://europroofnet.github.io/Kutaisi25/ "Explores symbolic and statistical methods for formal reasoning, covering automated theorem proving, machine learning for logic, and formal verification. Topics include knowledge representation and reasoning, with applications in computer science and AI, emphasizing computational approaches."), Kutaisi, Georgia.
 
 2025-07-14 to 17: [Workshop on Logic, Language, Information and Computation (WoLLIC 2025)](https://wollic2025.github.io "WoLLIC 2025 focuses on logic, language, and computation, covering formal semantics, proof theory, and computational linguistics. Topics include automated reasoning, natural language processing, and applications in AI, emphasizing theoretical foundations of logical and linguistic computation."), Porto, Portugal.
 
@@ -46,7 +46,7 @@
 
 2025-09-22 to 25: [29th International Conference on Implementation and Application of Automata (CIAA 2025)](https://ciaa2025.unipa.it/ "CIAA 2025 focuses on automata theory, covering finite automata, regular expressions, and parsing algorithms. Topics include applications in compiler design, natural language processing, and verification, emphasizing computational and theoretical advances in automata implementation."), Palermo, Italy.
 
-2025-09-27 to 10-03: [16th International Conference on Interactive Theorem Proving (ITP 2025)](https://icetcs.github.io/frocos-itp-tableaux25/itp/), Reykjavic, Iceland. Part of FroCoS/ITP/TABLEAUX 2025.
+2025-09-27 to 10-03: [16th International Conference on Interactive Theorem Proving (ITP 2025)](https://icetcs.github.io/frocos-itp-tableaux25/itp/ "Explores interactive theorem proving, covering formal verification, proof assistants, and automated reasoning. Topics include software verification, mathematical proofs, and applications in computer science, emphasizing computational logic advancements."), Reykjavic, Iceland. Part of FroCoS/ITP/TABLEAUX 2025.
 
 2025-10-20 to 21: [6th Workshop on Dynamic Logic - New Trends and Applications (DaLí 2025)](http://www.dali2025.cn/ "Explores dynamic logic and its applications. Topics include formal verification, program semantics, and computational logic for software and system analysis."), Xi'an, China.
 

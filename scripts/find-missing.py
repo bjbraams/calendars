@@ -3,9 +3,9 @@
 import sys
 import myyaml
 
-item = sys.argv[1]
+wanted = set([t0.strip() for t0 in sys.argv[1].split(',')])
 with open('_data/main.yml') as f:
     main = myyaml.read_yml_dict(f)
-for key, event in main.items():
-    if not event.get(item,''):
-        myyaml.dump({key:event},sys.stdout)
+for ident, event in main.items():
+    if not wanted.issubset(event.keys()):
+        myyaml.dump({ident:event},sys.stdout)

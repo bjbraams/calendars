@@ -32,11 +32,11 @@
 
 2025-07-20 to 25: [16th International Conference on Electronic Spectroscopy and Structure (ICESS 2025)](https://icess-16.lbl.gov "ICESS 2025 focuses on electronic spectroscopy and structure, covering X-ray spectroscopy, photoelectron spectroscopy, and electronic properties. Topics include materials characterization, surface science, and applications in catalysis and nanotechnology, emphasizing experimental and computational spectroscopy techniques."), Berkeley, CA, USA.
 
-2025-07-27 to 08-01: [Gordon Research Conference Photochemistry 2025](https://www.grc.org/photochemistry-conference/2025/), Lewiston, ME, USA.
+2025-07-27 to 08-01: [Gordon Research Conference Photochemistry 2025](https://www.grc.org/photochemistry-conference/2025/ "Investigates photochemistry, covering light-induced reactions, energy transfer, and photophysical properties. Topics include photocatalysis, fluorescence spectroscopy, and applications in energy, environmental, and biological systems, emphasizing experimental and theoretical advancements."), Lewiston, ME, USA.
 
 2025-08-03 to 08: [Gordon Research Conference Atmospheric Chemistry: Understanding the Atmosphere via Molecular Processes and Global Impacts (2025)](https://grc.org/atmospheric-chemistry-conference/2025/ "This conference focuses on atmospheric chemistry, covering molecular reactions, aerosol dynamics, and climate impacts. Topics include photochemical processes, air quality modeling, and applications in environmental science, emphasizing experimental and computational atmospheric chemical research."), Newry, ME, USA.
 
-2025-08-17 to 22: [American Chemical Society Fall 2025 Meeting & Expo (ACS Fall 2025)](https://www.acs.org/events/fall.html), Washington, DC, USA and Online.
+2025-08-17 to 22: [American Chemical Society Fall 2025 Meeting & Expo (ACS Fall 2025)](https://www.acs.org/events/fall.html "Explores chemical science innovations, covering organic chemistry, polymer science, and computational chemistry. Topics include drug discovery, sustainable materials, and chemical sensing, with applications in healthcare, energy, and environmental science, emphasizing experimental and theoretical advancements."), Washington, DC, USA and Online.
 
 2025-09-01 to 05: [Lennard-Jones Centre-Cecam Meeting: From Electrons to Atoms to Molecules and Materials (2025)](https://ljc.group.cam.ac.uk/dft-2025 "This meeting explores computational chemistry, covering density functional theory, molecular dynamics, and electronic structure. Topics include applications in catalysis, materials design, and biophysics, emphasizing computational methods for modeling chemical systems from electrons to macroscopic materials."), Cambridge, UK.
 
@@ -62,7 +62,7 @@
 
 2025-10-20 to 24: [Workshop on Astrochemistry in the Broadband Era (2025)](https://web.cvent.com/event/680e9ab4-72cb-486c-941e-1ab343b052bf/summary "This workshop explores astrochemistry, covering molecular spectroscopy, chemical networks, and interstellar chemistry. Topics include applications in star formation, planetary atmospheres, and cosmology, emphasizing computational and observational methods for understanding chemical processes in the broadband astronomical era."), Portland, ME, USA.
 
-2025-11-07 to 09: [39th Symposium on Chemical Physics at the University of Waterloo](https://scp.uwaterloo.ca/), Waterloo, ON, Canada.
+2025-11-07 to 09: [39th Symposium on Chemical Physics at the University of Waterloo](https://scp.uwaterloo.ca/ "Focuses on chemical physics, covering molecular dynamics, spectroscopy, and quantum chemistry. Topics include photochemical reactions, intermolecular interactions, and computational modeling, with applications in materials and biological systems, emphasizing experimental and theoretical insights."), Waterloo, ON, Canada.
 
 2025-11-18 to 21: [Advanced Quantum Algorithms for Many-Body Problems (AQAM 2025)](https://indico.ijclab.in2p3.fr/event/11479/ "AQAM 2025 focuses on quantum algorithms for many-body problems, covering quantum Monte Carlo, tensor networks, and variational methods. Topics include applications in quantum chemistry, condensed matter, and materials science, emphasizing computational quantum techniques for complex many-body systems."), Montpellier, France.
 
@@ -70,13 +70,13 @@
 
 2026-06-22 to 26: Quantum Reactive Scattering Workshop (QRS 2026), Gdańsk, Poland. Announced on MDNews list.
 
-2026-07-12 to 17: [30th IUPAC Symposium on Photochemistry (PhotoIUPAC 2026)](https://www.linkedin.com/posts/photoiupac-iupac-symposium-on-photochemistry-9643a7302_presentation-of-the-30th-photoiupac-symposium-activity-7220066280253333508-04x6/), Zagreb, Croatia. Preliminary link, announcement only.
+2026-07-12 to 17: [30th IUPAC Symposium on Photochemistry (PhotoIUPAC 2026)](https://www.linkedin.com/posts/photoiupac-iupac-symposium-on-photochemistry-9643a7302_presentation-of-the-30th-photoiupac-symposium-activity-7220066280253333508-04x6/ "Explores photochemistry advancements, covering photochemical reactions, excited-state dynamics, and photophysical processes. Topics include photocatalysis, solar energy conversion, and applications in materials and biological systems, emphasizing experimental and computational studies."), Zagreb, Croatia. Preliminary link, announcement only.
 
 2026 tbd: 12th Workshop on Novel Methods for Electronic Structure Calculations (2026), Argentina.
 
 2026 tbd: 31st Canadian Symposium on Theoretical and Computational Chemistry (CSTCC 2026), Ottawa, Canada.
 
-2027-07-16 to 23: [IUPAC 51st World Chemistry Congress and 54th General Assembly (IUPAC 2027)](https://iupac.org/wp-content/uploads/2021/08/51st-Council-Agenda-Book_August-2021_CANADA2027-compressed.pdf), Montreal, QC, Canada. Preliminary link, flyer.
+2027-07-16 to 23: [IUPAC 51st World Chemistry Congress and 54th General Assembly (IUPAC 2027)](https://iupac.org/wp-content/uploads/2021/08/51st-Council-Agenda-Book_August-2021_CANADA2027-compressed.pdf "Covers chemistry advancements, focusing on chemical synthesis, materials, and biochemical processes. Topics include green chemistry, nanotechnology, and medicinal chemistry, with applications in energy, health, and sustainability, emphasizing interdisciplinary research."), Montreal, QC, Canada. Preliminary link, flyer.
 
 2027 tbd: 12th Triennial Congress of the International Society of Theoretical Chemical Physics (ISTCP 2027), tbd.
 

@@ -1,8 +1,8 @@
-2025-03-06 to 07: [FFG-ESA Workshop on Quantum Satellite Networks (2025)](https://atpi.eventsair.com/qinsq2025/), Vienna, Austria.
+2025-03-06 to 07: [FFG-ESA Workshop on Quantum Satellite Networks (2025)](https://atpi.eventsair.com/qinsq2025/ "Examines quantum satellite networks, covering quantum communication, entanglement distribution, and satellite-based quantum key distribution. Topics include quantum repeaters, network protocols, and applications in secure communication, emphasizing theoretical and experimental developments."), Vienna, Austria.
 
-2025-03-10 to 11: [Quantum Mathematics @ Polimi (2025) Kick-Off Meeting](https://sites.google.com/view/qmp25-intensiveperiod/kick-off-meeting), Milan, Italy.
+2025-03-10 to 11: [Quantum Mathematics @ Polimi (2025) Kick-Off Meeting](https://sites.google.com/view/qmp25-intensiveperiod/kick-off-meeting "Initiates discussions on quantum mathematics, covering quantum information, operator algebras, and topological methods. Topics include quantum computing, entanglement, and mathematical foundations of quantum physics, fostering interdisciplinary collaboration in theoretical and applied quantum research."), Milan, Italy.
 
 2025-04-20 to 25: [BIRS Workshop Frontiers in Quantum Cryptography: New Functionalities, Primitives, and Foundations](https://www.birs.ca/events/2025/5-day-workshops/25w5445 "This workshop explores quantum cryptography, focusing on quantum key distribution, post-quantum cryptography, and quantum secure protocols. Topics include entanglement-based schemes, cryptographic primitives, and applications in secure communication, emphasizing theoretical foundations and practical implementations."), Banff, AB, Canada.
 
-2025-05-08 to 09: [QMP Intensive Period 2025 Workshop Quantum Information, Entanglement and Causality](https://sites.google.com/view/qmp25-intensiveperiod/workshops/workshop-8-9-may), Milan, Italy.
+2025-05-08 to 09: [QMP Intensive Period 2025 Workshop Quantum Information, Entanglement and Causality](https://sites.google.com/view/qmp25-intensiveperiod/workshops/workshop-8-9-may "Focuses on quantum information theory, exploring entanglement, causality, and quantum correlations. Topics include quantum communication, non-locality, and causal structures in quantum mechanics, with applications in quantum computing and foundational physics."), Milan, Italy.
 

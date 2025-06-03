@@ -26,11 +26,11 @@
 
 2025-07-16 to 18: [ASI Symposium 004 on Genesis and Evolution of Organics in Space (2nd Symposium of Organics in Space Consortium)](https://organicsinspace.in/ "Focuses on organic molecules in astrophysical environments. Topics include computational astrochemistry, molecular formation, and applications in understanding cosmic evolution and planetary science."), Bengaluru, India.
 
-2025-08-02 to 03: [Gordon Research Seminar Electron Spin Interactions With Chiral Molecules and Materials 2025](https://www.grc.org/electron-spin-interactions-with-chiral-molecules-and-materials-grs-conference/2025/), Manchester, NH, USA.
+2025-08-02 to 03: [Gordon Research Seminar Electron Spin Interactions With Chiral Molecules and Materials 2025](https://www.grc.org/electron-spin-interactions-with-chiral-molecules-and-materials-grs-conference/2025/ "Explores electron spin interactions with chiral systems, covering spin-orbit coupling, chirality-induced spin selectivity, and quantum effects. Topics include applications in spintronics, quantum sensing, and biochemistry, emphasizing experimental and theoretical insights."), Manchester, NH, USA.
 
 2025-08-03 to 08: [37th International Symposium on Free Radicals (FRS 2025)](https://thefrs.org "FRS 2025 focuses on free radical chemistry, covering radical reactions, spectroscopy, and kinetics. Topics include atmospheric chemistry, combustion, and applications in biology and materials, emphasizing experimental and computational studies of free radical dynamics."), Snowbird, UT, USA.
 
-2025-08-03 to 08: [Gordon Research Conference Electron Spin Interactions With Chiral Molecules and Materials 2025](https://www.grc.org/electron-spin-interactions-with-chiral-molecules-and-materials-conference/2025/), Manchester, NH, USA.
+2025-08-03 to 08: [Gordon Research Conference Electron Spin Interactions With Chiral Molecules and Materials 2025](https://www.grc.org/electron-spin-interactions-with-chiral-molecules-and-materials-conference/2025/ "Focuses on electron spin dynamics in chiral molecules and materials, covering spin transport, magnetic properties, and quantum coherence. Topics include chiral spintronics, molecular magnets, and applications in quantum technologies, emphasizing interdisciplinary approaches."), Manchester, NH, USA.
 
 2025-08-05 to 08: [COST NanoSpace AI in Astrochemistry Training School 2025](https://ocamm.fi/event/cost-nanospace-ai-in-astrochemistry-training-school-2025 "This training school focuses on AI in astrochemistry, covering machine learning for molecular spectroscopy, reaction networks, and interstellar chemistry. Topics include applications in exoplanet atmospheres and star formation, emphasizing AI-driven computational astrochemistry research."), Espoo, Finland.
 

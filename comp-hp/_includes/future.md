@@ -1,8 +1,8 @@
-2025-06-03 to 07: [39th IEEE International Parallel and Distributed Processing Symposium (IPDPS 2025)](https://www.ipdps.org/), Milan, Italy.
+2025-06-03 to 07: [39th IEEE International Parallel and Distributed Processing Symposium (IPDPS 2025)](https://www.ipdps.org/ "Explores parallel and distributed processing, covering algorithms, architectures, and software systems. Topics include big data processing, machine learning, and scientific computing, emphasizing performance optimization and scalability in computational systems."), Milan, Italy.
 
 **2025-06-10 to 13: [ISC High Performance 2025](https://isc-hpc.com "ISC High Performance 2025 focuses on high-performance computing, covering parallel algorithms, exascale architectures, and GPU computing. Topics include scientific simulations, AI integration, and applications in physics and climate, emphasizing scalable computational performance."), Hamburg, Germany**.
 
-2025-06-16 to 18: [Platform for Advanced Scientific Computing Conference (PASC 2025)](https://pasc25.pasc-conference.org/), Brugg-Windisch, Switzerland.
+2025-06-16 to 18: [Platform for Advanced Scientific Computing Conference (PASC 2025)](https://pasc25.pasc-conference.org/ "Focuses on advanced scientific computing, covering high-performance computing, numerical algorithms, and data-intensive simulations. Topics include computational physics, climate modeling, and machine learning, emphasizing scalable computing solutions for scientific research."), Brugg-Windisch, Switzerland.
 
 **2025-07-20 to 24: [Practice & Experience in Advanced Research Computing (PEARC 2025)](https://pearc.acm.org "PEARC 2025 focuses on advanced research computing, covering high-performance computing, cyberinfrastructure, and data-intensive computing. Topics include scientific workflows, cloud computing, and applications in physics and biology, emphasizing practical solutions for research computing challenges."), Columbus, OH, USA**.
 
@@ -20,15 +20,15 @@
 
 2025-09-23 to 26: [2nd Workshop on Accelerated HPC in the Cloud-Edge Continuum (AHPC 2025)](http://ahpc3.di.unipi.it/ "AHPC 2025 focuses on accelerated high-performance computing in cloud-edge systems, covering GPU computing, edge AI, and distributed architectures. Topics include applications in real-time analytics and IoT, emphasizing scalable computational solutions for cloud-edge integration."), Rennes, France.
 
-2025-10-01 to 03: [21st International Workshop on OpenMP (IWOMP 2025)](https://www.iwomp.org/), Charlotte, NC, USA.
+2025-10-01 to 03: [21st International Workshop on OpenMP (IWOMP 2025)](https://www.iwomp.org/ "Explores OpenMP advancements for parallel programming, covering multi-core architectures, task-based parallelism, and GPU computing. Topics include performance optimization, scientific computing, and applications in data-intensive simulations, emphasizing practical implementations."), Charlotte, NC, USA.
 
-2025-10-01 to 03: [EuroMPI/USA Conference 2025](https://eurompi.github.io/), Charlotte, NC, USA.
+2025-10-01 to 03: [EuroMPI/USA Conference 2025](https://eurompi.github.io/ "Focuses on message-passing interface (MPI) advancements, covering parallel computing, distributed systems, and high-performance computing. Topics include scalable algorithms, fault tolerance, and applications in scientific simulations, emphasizing computational performance."), Charlotte, NC, USA.
 
 **2025-11-16 to 21: [International Conference for High Performance Computing, Networking, Storage, and Analysis (SC 2025)](https://sc25.supercomputing.org "SC 2025 explores high-performance computing, covering parallel architectures, cloud computing, and big data analytics. Topics include AI accelerators, exascale computing, and applications in scientific simulations, emphasizing scalable computational systems for advanced computing and data processing."), St. Louis, MO, USA**.
 
 2025-12-17 to 20: [32nd IEEE International Conference on High Performance Computing, Data, and Analytics (HiPC 2025)](https://hipc.org "HiPC 2025 explores high-performance computing, covering parallel processing, big data analytics, and cloud computing. Topics include AI accelerators, scientific simulations, and IoT applications, emphasizing scalable computational architectures and algorithms for advanced data processing and analysis."), Hyderabad, India.
 
-2026-03-03 to 06: [SIAM Conference on Parallel Processing for Scientific Computing (PP 2026)](https://www.siam.org/conferences-events/siam-conferences/pp26/), Berlin, Germany.
+2026-03-03 to 06: [SIAM Conference on Parallel Processing for Scientific Computing (PP 2026)](https://www.siam.org/conferences-events/siam-conferences/pp26/ "Focuses on parallel processing for scientific computing, covering high-performance computing, parallel algorithms, and distributed systems. Topics include numerical simulations, big data analytics, and applications in physics and engineering, emphasizing computational efficiency."), Berlin, Germany.
 
 **2026-11-15 to 20: [ACM-IEEE International Conference for High Performance Computing, Networking, Storage and Analysis (SC 2026)](https://conferences.ieee.org/conferences_events/conferences/conferencedetails/51908 "SC 2026 explores high-performance computing, covering parallel architectures, cloud computing, and big data analytics. Topics include AI accelerators, exascale computing, and scientific simulations, emphasizing scalable computational systems for advanced computing and data processing."), Chicago, IL, USA**.
 

@@ -14,7 +14,7 @@
 
 2025-07-13 to 18: [12th ECCOMAS Thematic Conference on Multibody Dynamics (MULTIBODY 2025)](https://www.uibk.ac.at/en/congress/multibody2025/ "MULTIBODY 2025 focuses on multibody dynamics, covering computational methods, rigid and flexible body systems, and dynamics simulations. Topics include vehicle dynamics, robotics, and biomechanics, emphasizing numerical techniques for modeling complex multibody mechanical systems."), Innsbruck, Austria.
 
-**2025-07-20 to 24: [18th U.S. National Congress on Computational Mechanics (USNCCM 2025)](https://usnccm18.usacm.org/), Chicago, IL, USA**.
+**2025-07-20 to 24: [18th U.S. National Congress on Computational Mechanics (USNCCM 2025)](https://usnccm18.usacm.org/ "Focuses on computational mechanics, covering finite element methods, multiscale modeling, and uncertainty quantification. Topics include structural dynamics, fluid-structure interactions, and applications in aerospace and civil engineering, emphasizing numerical simulation advancements."), Chicago, IL, USA**.
 
 2025-08-20 to 22: [ECCOMAS Thematic Conference on Modern Finite Element Technologies (MFET 2025)](https://mfet2025.de/ "MFET 2025 focuses on finite element technologies, covering adaptive meshing, high-order methods, and multiphysics simulations. Topics include applications in structural mechanics, fluid dynamics, and electromagnetics, emphasizing advanced numerical methods for engineering and scientific computations."), Aachen, Germany.
 
@@ -28,7 +28,7 @@
 
 2025-09-02 to 05: [(ECCOMAS-IACM Associated) 18th International Conference on Computational Plasticity Fundamentals and Applications (COMPLAS 2025)](https://complas2025.cimne.com/complas_2025 "COMPLAS 2025 focuses on computational plasticity, covering material modeling, finite element methods, and damage mechanics. Topics include applications in structural engineering, geomechanics, and manufacturing, emphasizing numerical techniques for simulating plastic deformation and material behavior."), Barcelona, Spain.
 
-2025-09-08 to 12: [26th International Conference on Electromagnetics in Advanced Applications (ICEAA 2025) and 14th IEEE-APS Topical Conference on Antennas and Propagation in Wireless Communications (IEEE-APWC 2025)](https://www.iceaa-offshore.org/), Palermo, Italy.
+2025-09-08 to 12: [26th International Conference on Electromagnetics in Advanced Applications (ICEAA 2025) and 14th IEEE-APS Topical Conference on Antennas and Propagation in Wireless Communications (IEEE-APWC 2025)](https://www.iceaa-offshore.org/ "Explores electromagnetics and antenna technologies, covering electromagnetic modeling, antenna design, and wave propagation. Topics include wireless communications, radar systems, and electromagnetic compatibility, emphasizing computational and experimental advancements for advanced applications."), Palermo, Italy.
 
 2025-09-09 to 11: [10th ECCOMAS Thematic Conference on the Mechanical Response of Composites (COMPOSITES 2025)](https://composites2025.cimne.com/ "COMPOSITES 2025 focuses on the mechanical response of composites, covering finite element modeling, failure analysis, and multiscale simulations. Topics include applications in aerospace, automotive, and energy, emphasizing computational methods for composite material design and performance."), Vienna, Austria.
 
@@ -36,11 +36,11 @@
 
 2025-09-22 to 26: [(ECCOMAS-IACM Associated) 2nd International Conference on Highly Flexible Slender Structures (HFSS 2025)](https://hfss.uniri.hr/ "HFSS 2025 focuses on highly flexible slender structures, covering computational mechanics, nonlinear dynamics, and structural analysis. Topics include applications in aerospace, marine engineering, and robotics, emphasizing numerical methods for modeling flexible structural behavior."), Kaiserslautern, Germany.
 
-2025-10-12 to 15: [Society of Engineering Science Annual Technical Meeting (SES 2025)](https://sites.gatech.edu/2025ses/), Atlanta, GA, USA.
+2025-10-12 to 15: [Society of Engineering Science Annual Technical Meeting (SES 2025)](https://sites.gatech.edu/2025ses/ "Covers engineering science advancements, focusing on mechanics, materials, and computational methods. Topics include biomechanics, fracture mechanics, and machine learning in engineering, emphasizing interdisciplinary approaches for solving complex engineering challenges."), Atlanta, GA, USA.
 
 **2025-11-22 to 24: [IUTAM Symposium on Frontiers of Physical Mechanics (2025)](https://iutam.org/events/iutam-symposium-on-frontiers-of-physical-mechanics "Focuses on advancements in physical mechanics. Topics include computational mechanics, material modeling, and applications in structural engineering and material science."), Nanjing, China**.
 
-2025-12-17 to 19: [IndACM 10th International Congress on Computational Mechanics and Simulation (ICCMS 2025)](https://www.iccms2025.in/), Bhubaneswar, India.
+2025-12-17 to 19: [IndACM 10th International Congress on Computational Mechanics and Simulation (ICCMS 2025)](https://www.iccms2025.in/ "Explores computational mechanics and simulation, covering numerical methods, structural analysis, and multiphysics problems. Topics include fluid dynamics, composite materials, and applications in automotive and energy sectors, emphasizing computational techniques for engineering design."), Bhubaneswar, India.
 
 2026-04-14 to 18: [Seismological Society of America Annual Meeting (SSA 2026)](https://meetings.seismosoc.org/ "SSA 2026 focuses on seismology, covering seismic wave modeling, earthquake dynamics, and geophysical imaging. Topics include applications in hazard assessment, tectonic studies, and resource exploration, emphasizing computational and experimental methods for understanding seismic phenomena."), Pasadena, CA, USA.
 

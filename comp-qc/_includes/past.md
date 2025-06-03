@@ -2,7 +2,7 @@
 
 2025-02-17 to 21: [6th Workshop on Algebraic Structures in Quantum Computation (2025)](https://itp.uni-hannover.de/en/asqc6 "This workshop focuses on algebraic structures in quantum computation, covering quantum error correction, topological quantum computing, and algebraic quantum algorithms. Topics include stabilizer codes, quantum groups, and tensor networks, with applications in fault-tolerant quantum systems and quantum information theory."), Hannover, Germany.
 
-2025-03-10 to 11: [Quantum Mathematics @ Polimi (2025) Kick-Off Meeting](https://sites.google.com/view/qmp25-intensiveperiod/kick-off-meeting), Milan, Italy.
+2025-03-10 to 11: [Quantum Mathematics @ Polimi (2025) Kick-Off Meeting](https://sites.google.com/view/qmp25-intensiveperiod/kick-off-meeting "Initiates discussions on quantum mathematics, covering quantum information, operator algebras, and topological methods. Topics include quantum computing, entanglement, and mathematical foundations of quantum physics, fostering interdisciplinary collaboration in theoretical and applied quantum research."), Milan, Italy.
 
 2025-03-11 to 14: [WE-Heraeus Seminar on Operator Theory and Polynomial Optimization in Quantum Information Theory (2025)](https://we-heraeus-stiftung.de/veranstaltungen/operator-theory-and-polynomial-optimization-in-quantum-information-theory/ "This seminar explores operator theory and polynomial optimization in quantum information, focusing on quantum entanglement, quantum channels, and semidefinite programming. Topics include non-local games, quantum error correction, and applications in quantum computing, emphasizing mathematical foundations."), Bad Honnef, Germany.
 
@@ -14,7 +14,7 @@
 
 2025-04-23 to 25: [4th Quantum Computing Theory in Practice Conference (QCTiP 2025)](https://qctip2025.com "QCTiP 2025 focuses on quantum computing theory and practice, covering quantum algorithms, error correction, and hardware implementations. Topics include variational quantum circuits, quantum optimization, and applications in cryptography and chemistry, emphasizing bridging theory and experiment."), Berlin, Germany.
 
-2025-05-19 to 20: [QMP Intensive Period 2025 Workshop Probabilistic Methods for Open Quantum Systems](https://sites.google.com/view/qmp25-intensiveperiod/workshops/workshop-19-20-may), Milan, Italy.
+2025-05-19 to 20: [QMP Intensive Period 2025 Workshop Probabilistic Methods for Open Quantum Systems](https://sites.google.com/view/qmp25-intensiveperiod/workshops/workshop-19-20-may "Examines probabilistic approaches to open quantum systems, covering stochastic processes, master equations, and decoherence. Topics include quantum noise, dissipation, and applications in quantum optics and condensed matter physics, emphasizing mathematical and computational techniques."), Milan, Italy.
 
 2025-06-02 to 06: [3rd International Workshop on the Art, Science, and Engineering of Quantum Programming (QP 2025)](https://2025.programming-conference.org/details/prog25-workshops/4/The-3rd-International-Workshop-on-the-Art-Science-and-Engineering-of-Quantum-Progra "QP 2025 explores quantum programming, focusing on quantum algorithms, circuit design, and software frameworks. Topics include quantum error correction, hybrid quantum-classical programming, and applications in optimization and cryptography, emphasizing practical and theoretical quantum software development."), Prague, Czech Republic.
 

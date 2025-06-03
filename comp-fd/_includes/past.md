@@ -4,7 +4,7 @@
 
 2025-03-17 to 20: [23rd IACM Computational Fluids Conference (CFC 2025)](https://cfc2025.iacm.info/ "CFC 2025 focuses on computational fluid dynamics, covering numerical methods for incompressible and compressible flows. Topics include turbulence modeling, mesh adaptation, and high-order schemes, with applications in aerodynamics, environmental flows, and biofluids, emphasizing advanced simulation techniques."), Santiago, Chile.
 
-2025-03-24 to 28: [16th European Turbomachinery Conference, Fluid Dynamics and Thermodynamics (ETC 2025)](https://www.etc16.eu/), Hannover, Germany.
+2025-03-24 to 28: [16th European Turbomachinery Conference, Fluid Dynamics and Thermodynamics (ETC 2025)](https://www.etc16.eu/ "Focuses on turbomachinery, covering fluid dynamics, thermodynamics, and computational modeling. Topics include turbine design, aerodynamics, and energy efficiency, with applications in aerospace and power generation, emphasizing numerical simulations."), Hannover, Germany.
 
 2025-03-25 to 28: [EuroMech Colloquium 659 on Metamaterials in Fluid Flows and Beyond (2025)](http://659.euromech.org/ "Explores the role of metamaterials in fluid mechanics and related fields. Topics include wave manipulation, fluid-structure interactions, and computational modeling of metamaterials in aerodynamics and acoustics."), Groningen, Netherlands.
 
