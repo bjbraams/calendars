@@ -12,8 +12,9 @@ Microwaves in Beams and Plasmas Workshop 2025:
   kw: cs-al
   arxiv: cs.CC, cs.CR, quant-ph, cs.LG
   excerpt: ITCS 2025 focuses on groundbreaking ideas in theoretical computer science. Topical areas include algorithms, complexity theory, cryptography, quantum computing, and machine learning theory. The conference emphasizes innovative approaches to computational problems, fostering interdisciplinary connections between computer science, mathematics, and physics, with a focus on novel paradigms and foundational advancements.
-'22nd International Workshop on Computational Physics and Materials Science: Total Energy and Force Methods':
+22nd International Workshop on Computational Physics and Materials Science TEFM 2025:
   dd: 2025-01-08 to 10
+  name: '22nd International Workshop on Computational Physics and Materials Science: Total Energy and Force Methods (2025)'
   link: https://indico.ictp.it/event/10815/
   loc: ICTP, Trieste, Italy
   kw: qmat
@@ -33,7 +34,7 @@ RSC Spectroscopy and Dynamics Group Annual Meeting (SDG 2025):
   kw: plas-ig
   arxiv: physics.atom-ph, physics.plasm-ph, quant-ph
   excerpt: NCAMP 2025 focuses on atomic and molecular physics, covering topics such as atomic collisions, laser-plasma interactions, and quantum optics. The conference explores spectroscopy, plasma dynamics, and molecular structure, with applications in astrophysics, fusion research, and nanotechnology. It emphasizes experimental and theoretical advancements in understanding atomic-scale phenomena.
-Workshop Advances in Combinatorial and Algebraic Probability:
+Workshop Advances in Combinatorial and Algebraic Probability (2025):
   dd: 2025-01-09 to 10
   link: https://sites.google.com/view/comb-alg-prob-workshop
   loc: Lancaster, UK
@@ -111,7 +112,7 @@ School on Disordered Media:
   kw: stoch
   arxiv: cond-mat.dis-nn, math.PR
   excerpt: The School on Disordered Media explores stochastic processes in disordered systems. Key topics include random walks in random environments, percolation theory, and spin glasses. The event covers statistical mechanics, probability theory, and applications in condensed matter physics, emphasizing mathematical models for complex, heterogeneous media.
-SLMath Connections Workshop Probability and Statistics of Discrete Structures:
+SLMath Connections Workshop Probability and Statistics of Discrete Structures (2025):
   dd: 2025-01-23 to 24
   link: https://www.slmath.org/workshops/1085
   loc: Berkeley, CA, USA
@@ -139,14 +140,14 @@ Nucleosynthesis and Evolution of Neutron Stars (2025):
   kw: nuclear
   arxiv: nucl-th, nucl-ex, astro-ph.HE
   excerpt: Bormio 2025 covers advancements in nuclear physics. Topics include nuclear structure, heavy-ion collisions, nuclear astrophysics, and quantum chromodynamics. The meeting addresses experimental results from particle accelerators and theoretical models, with applications in understanding fundamental interactions, nuclear reactions, and cosmic nucleosynthesis.
-Workshop on Disordered Media:
+Workshop on Disordered Media (2025):
   dd: 2025-01-27 to 31
   link: https://erdoscenter.renyi.hu/events/workshop-disordered-media
   loc: Budapest, Hungary
   kw: stoch
   arxiv: cond-mat.dis-nn, math.PR
   excerpt: This workshop examines disordered media through stochastic models. Topics include random media transport, localization phenomena, and disordered spin systems. It explores mathematical frameworks like percolation and random matrix theory, with applications in statistical physics, materials science, and complex systems analysis.
-Workshop on Machine Learning for Analysis of High-Energy Cosmic Particles:
+Workshop on Machine Learning for Analysis of High-Energy Cosmic Particles (2025):
   dd: 2025-01-27 to 31
   link: https://events.icecube.wisc.edu/event/243/
   loc: Newark, DE, USA
@@ -289,7 +290,7 @@ ITAMP Winter School on Quantum Revolution in AMO Sciences (2025):
   excerpt: This winter school explores quantum advancements in atomic, molecular, and optical (AMO) sciences. Topics include quantum control, ultracold molecules, and quantum sensing. It covers applications in quantum chemistry, precision measurement, and quantum information, emphasizing experimental and theoretical breakthroughs in AMO physics.
 3rd IACM Digital Twins in Engineering Conference (DTE 2025) and 1st ECCOMAS AICOMAS (2025):
   dd: 2025-02-17 to 21
-  name: 3rd IACM Digital Twins in Engineering Conference (DTE 2025) and 1st ECCOMAS Artificial Intelligence and Computational Methods in Applied Science (AICOMAS 2025)
+ 3rd IACM Digital Twins in Engineering Conference (DTE 2025) and 1st ECCOMAS Artificial Intelligence and Computational Methods in Applied Science (AICOMAS 2025)
   link: https://dte_aicomas_2025.iacm.info
   loc: Paris, France
   kw: comp-ml
@@ -524,7 +525,7 @@ International Conference on Optimization (SIGOPT 2025):
   excerpt: STACS 2025 focuses on theoretical computer science, covering algorithms, complexity, and automata theory. Topics include parameterized algorithms, computational geometry, and quantum computing theory, with applications in cryptography, bioinformatics, and network analysis, emphasizing rigorous mathematical foundations.
 45th International Joint Workshop QP 2025 and QBIC 2025:
   dd: 2025-03-04 to 08
-  name: 45th International Joint Workshop on Infinite Dimensional Analysis, Quantum Probability and Related Topics (QP 2025) and Quantum Bio-Informatics (QBIC 2025)
+ 45th International Joint Workshop on Infinite Dimensional Analysis, Quantum Probability and Related Topics (QP 2025) and Quantum Bio-Informatics (QBIC 2025)
   link: https://sites.google.com/view/qp45-qbic2025
   loc: Tokyo, Japan
   kw: prob
@@ -651,7 +652,7 @@ Oberwolfach Workshop on Frontiers of Statistics and Machine Learning (2025):
   excerpt: This meeting focuses on scientific machine learning, covering physics-informed neural networks, data-driven modeling, and AI for scientific discovery. Topics include computational mechanics, climate modeling, and materials science, emphasizing hybrid approaches blending machine learning with traditional numerical methods.
 International Research Project PICASSO Conference on Hyperbolic Models (2025):
   dd: 2025-03-24 to 26
-  name: International Research Project PICASSO Conference on Hyperbolic Models, Numerical Analysis and Scientific Computation (2025)
+ International Research Project PICASSO Conference on Hyperbolic Models, Numerical Analysis and Scientific Computation (2025)
   link: https://indico.math.cnrs.fr/event/13192/
   loc: Málaga, Spain
   kw: comp-na
@@ -736,7 +737,7 @@ International Conference on Quantum Communications, Networking, and Computing (Q
   excerpt: QCNC 2025 focuses on quantum communications and computing, covering quantum networks, quantum cryptography, and distributed quantum computing. Topics include quantum key distribution, entanglement-based protocols, and quantum internet architectures, emphasizing scalable quantum communication technologies.
 CECAM Flagship Workshop Fulfilling the Multiscale Promise in Materials (2025):
   dd: 2025-03-31 to 04-03
-  name: 'CECAM Flagship Workshop Fulfilling the Multiscale Promise in Materials: Getting Information Out of the Atomistic Scale (2025)'
+ 'CECAM Flagship Workshop Fulfilling the Multiscale Promise in Materials: Getting Information Out of the Atomistic Scale (2025)'
   link: https://cecam.org/workshop-details/fulfilling-the-multiscale-promise-in-materials-getting-information-out-of-the-atomistic-scale-1283
   loc: Lausanne, Switzerland & online
   kw: qmat
@@ -947,7 +948,7 @@ Seismological Society of America Annual Meeting (SSA 2025):
   excerpt: WDM 2025 explores warm dense matter, focusing on high-pressure plasmas and equation-of-state modeling. Topics include laser-driven experiments, plasma thermodynamics, and computational simulations, with applications in planetary science, inertial fusion, and astrophysics, emphasizing extreme matter states.
 Workshop Everything You Always Wanted to Know About Discretization ... JKO (2025):
   dd: 2025-04-16 to 17
-  name: Workshop Everything You Always Wanted to Know About Discretization, Approximation, and Numerical Analysis for the JKO Scheme (2025)
+ Workshop Everything You Always Wanted to Know About Discretization, Approximation, and Numerical Analysis for the JKO Scheme (2025)
   link: https://indico.math.cnrs.fr/event/13361/
   loc: Villeurbanne, France
   kw: comp-na
@@ -1162,7 +1163,7 @@ SIAM International Conference on Data Mining (SDM 2025):
   excerpt: SDM 2025 focuses on data mining, covering clustering, classification, and graph mining. Topics include deep learning for unstructured data, anomaly detection, and applications in social networks and bioinformatics, emphasizing scalable algorithms for large-scale data analysis.
 Penn Conference on Theoretical Chemistry (PCTC 2025):
   dd: 2025-05-03 to 04
-  name: Penn Conference on Theoretical Chemistry (PCTC 2025) (Ferroelectrics, Nanomaterials, Light-Matter Interactions, Next-Gen Computing & Renewable Energy)
+ Penn Conference on Theoretical Chemistry (PCTC 2025) (Ferroelectrics, Nanomaterials, Light-Matter Interactions, Next-Gen Computing & Renewable Energy)
   link: https://pctc2025.regfox.com/pctc25
   loc: Philadelphia, PA, USA
   kw: qmat
