@@ -1,0 +1,6 @@
+2025-03-10 to 13: [SupercomputingAsia (SCA 2025)](https://sca25.sc-asia.org/ "Focuses on high-performance computing, covering supercomputing architectures, parallel algorithms, and big data analytics. Topics include scientific simulations, AI applications, and cloud computing, emphasizing computational advancements for research and industry."), Singapore.
+
+2025-05-20 to 23: [Eurandom Workshop Product-Form Probability Distributions (2025)](https://www.eurandom.tue.nl/event/product-form-probability-distributions/ "This workshop explores product-form probability distributions, focusing on queueing theory, Markov chains, and statistical mechanics. Topics include equilibrium distributions, network models, and applications in performance analysis and complex systems, emphasizing analytical probabilistic techniques."), Eindhoven, Netherlands.
+
+2025-06-03 to 07: [39th IEEE International Parallel and Distributed Processing Symposium (IPDPS 2025)](https://www.ipdps.org/ "Explores parallel and distributed processing, covering algorithms, architectures, and software systems. Topics include big data processing, machine learning, and scientific computing, emphasizing performance optimization and scalability in computational systems."), Milan, Italy.
+

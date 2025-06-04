@@ -1,0 +1,4 @@
+2025-07-22 to 25: [Conference on Progress in Discrete and Continuous Probability 2025](https://www.math.union.edu/~marianop/ProbabilityConference2025/ProgressDiscContProb2025.html "This conference explores discrete and continuous probability, covering random graphs, stochastic processes, and limit theorems. Topics include applications in network science, statistical physics, and machine learning, emphasizing theoretical advancements in probabilistic modeling and analysis."), Schenectady, NY, USA.
+
+2025-08-04 to 08: [28th Brazilian School of Probability (2025)](https://sites.google.com/view/ebp2025 "This school explores probability, covering random processes, stochastic calculus, and random graphs. Topics include branching processes, applications in statistical physics and finance, emphasizing foundational probabilistic theory and practical applications for advanced research."), Belo Horizonte, MG, Brazil.
+

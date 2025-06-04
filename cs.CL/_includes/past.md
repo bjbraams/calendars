@@ -1,0 +1,2 @@
+2025-04-05 to 06: [IEEE 4th International Conference on Computing and Machine Intelligence (ICMI 2025)](https://icmiconf.com "ICMI 2025 focuses on computing and machine intelligence, covering deep learning, computer vision, and natural language processing. Topics include federated learning, AI ethics, and applications in healthcare and robotics, emphasizing innovative algorithms and intelligent systems design."), Mount Pleasant, MI, USA.
+

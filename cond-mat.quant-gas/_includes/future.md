@@ -1,0 +1,14 @@
+2025-08-04 to 08: [Quantum Simulation Conference (QSim 2025)](https://qsimconference.org "QSim 2025 focuses on quantum simulation, covering analog and digital quantum simulators, quantum many-body systems, and quantum chemistry. Topics include applications in materials and condensed matter physics, emphasizing experimental and theoretical quantum simulation advancements."), New York City, NY, USA.
+
+2025-08-11 to 15: [New Frontiers in Out-of-Equilibrium Quantum Many-Body Dynamics (2025)](https://pks.mpg.de/qudyn25 "This conference explores out-of-equilibrium quantum many-body dynamics, covering quantum thermalization, driven systems, and entanglement dynamics. Topics include applications in condensed matter and quantum simulation, emphasizing theoretical and experimental studies of non-equilibrium quantum systems."), Dresden, Germany.
+
+2025-09-06 to 12: [BEC Conference on Quantum Gases and Related Fields (BEC 2025)](https://indico.phys.ethz.ch/event/143/ "BEC 2025 explores Bose-Einstein condensates and quantum gases, covering ultracold atoms, superfluidity, and quantum simulations. Topics include applications in quantum computing, topological phases, and many-body physics, emphasizing experimental and theoretical quantum gas research."), Sant Feliu de Guíxols, Spain.
+
+2025-09-15 to 19: [VCQ & quantA Summer School 2025 on Many Body Quantum Physics](https://vcq-quantum.at/vcq-quanta-summer-school-2025/ "Focuses on many-body quantum physics, covering quantum entanglement, topological phases, and quantum simulations. Topics include ultracold atoms, quantum gases, and applications in quantum technologies, emphasizing theoretical and experimental approaches."), Vienna, Austria.
+
+2025-11-24 to 28: [ESI Workshop on Quantum Many-Body Systems and Bose-Einstein Condensation, a Mathematical Physics Perspective (2025)](https://www.esi.ac.at/events/e575/ "Examines quantum many-body systems and Bose-Einstein condensation through mathematical physics, covering quantum statistical mechanics and field theory. Topics include superfluidity, quantum phase transitions, and applications in ultracold atomic systems, emphasizing rigorous mathematical approaches."), Vienna, Austria.
+
+2026-07-26 to 08-01: [International Symposium on Quantum Fluids and Solids (QFS 2026)](https://people.umass.edu/qfs98/info1.htm "QFS 2026 explores quantum fluids and solids, covering superfluidity, Bose-Einstein condensates, and quantum phase transitions. Topics include applications in condensed matter and quantum technologies, emphasizing experimental and theoretical studies of quantum material behaviors."), South Bend, IN, USA.
+
+2026-08-02 to 06: [Conference on Chemistry and Physics at Low Temperatures (CPLT 2026)](https://www.mertenlab.de/cplt2026/ "Focuses on chemistry and physics at low temperatures. Topics include quantum molecular dynamics, cryogenic experiments, and computational modeling for quantum systems."), Bochum, Germany.
+

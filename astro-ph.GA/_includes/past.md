@@ -1,0 +1,2 @@
+2025-02-24 to 03-07: [Workshop Modeling Complex (Astro)Chemical Systems - Astrochemistry Meets Data Science (2025)](https://munich-iapbp.de/activities/activities-2025/astrochemical-systems "This workshop bridges astrochemistry and data science, focusing on modeling complex chemical systems in space. Topics include reaction networks, machine learning for spectral analysis, and computational astrochemistry. It explores chemical evolution in interstellar media, planetary atmospheres, and star-forming regions, emphasizing data-driven insights."), Garching/Munich, Germany.
+

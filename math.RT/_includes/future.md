@@ -1,0 +1,2 @@
+2025-08-18 to 22: [QMATH Masterclass on Representation Theory in Quantum Information Science (2025)](https://qmath.ku.dk/events/conferences/representation-theory-in-quantum-information-science/ "Focuses on representation theory in quantum information science. Topics include quantum algorithms, quantum error correction, and mathematical frameworks for quantum computing applications."), Copenhagen, Denmark.
+

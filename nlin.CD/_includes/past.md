@@ -1,0 +1,6 @@
+2025-05-11 to 15: [SIAM Conference on Applications of Dynamical Systems (DS 2025)](https://siam.org/conferences-events/siam-conferences/ds25 "DS 2025 focuses on dynamical systems, covering nonlinear dynamics, chaos, and stochastic differential equations. Topics include bifurcation analysis, synchronization, and applications in neuroscience, climate modeling, and engineering, emphasizing computational and analytical approaches to complex dynamics."), Denver, CO, USA.
+
+2025-05-22 to 23: [2nd International Workshop on Advances in Nonlinear Dynamical Systems, Complex Networks and Applications (DySyX 2025)](https://dysyx2025.sciencesconf.org/ "Explores nonlinear dynamical systems and complex networks. Topics include chaos theory, network dynamics, and applications in physics, biology, and engineering."), Kenitra, Morocco.
+
+2025-06-02 to 05: [IUTAM Symposium on Nonlinear Dynamics of Systems and Structures for Green Energy Conversion (2025)](https://iutam.org/events/iutam-symposium-on-nonlinear-dynamics-of-systems-and-structures-for-green-energy-conversion "Focuses on nonlinear dynamics in green energy systems. Topics include vibrational energy harvesting, nonlinear structural dynamics, and computational modeling for renewable energy applications."), Senigallia, Italy.
+

@@ -1,0 +1,2 @@
+2025-04-28 to 29: [IFT Workshop AI-Accelerated Superconductor Discovery: From Algorithms to Novel Materials (2025)](https://sites.google.com/ufl.edu/ai-for-sc-workshop-2025 "This workshop explores AI-driven superconductor discovery, focusing on machine learning for material prediction and electronic structure analysis. Topics include neural network potentials, high-throughput screening, and applications in quantum technologies, emphasizing data-driven approaches to novel superconductors."), Gainesville, FL, USA.
+

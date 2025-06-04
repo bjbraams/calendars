@@ -1,0 +1,28 @@
+2025-06-11: [4th Workshop on Uncertainty Quantification for Computer Vision (UQCV 2025)](https://uncertainty-cv.github.io/2025/ "UQCV 2025 focuses on uncertainty quantification in computer vision, covering Bayesian deep learning, epistemic uncertainty, and model calibration. Topics include uncertainty in image classification, object detection, and applications in autonomous driving, emphasizing robust vision systems."), Nashville, TN, USA. Workshop at CVPR 2025.
+
+2025-06-11 to 15: [IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR 2025)](https://cvpr.thecvf.com "CVPR 2025 focuses on computer vision and pattern recognition, covering deep learning, image segmentation, and object detection. Topics include generative models, 3D vision, and applications in autonomous systems, emphasizing cutting-edge vision algorithms and AI."), Nashville, TN, USA.
+
+2025-07-07 to 11: [London Geometry and Machine Learning Summer School (LGML 2025)](https://www.logml.ai/ "Explores intersections of geometry and machine learning. Topics include geometric deep learning, manifold learning, and applications in computer vision and data analysis."), London, UK.
+
+2025-08-04 to 08: [Summer School on Topological Data Analysis in Stochastic Geometry and Image Processing (2025)](https://sites.google.com/view/aarhustda/ "This summer school focuses on topological data analysis, covering persistent homology, stochastic geometry, and image processing. Topics include applications in shape analysis, network science, and medical imaging, emphasizing computational topology for stochastic and image data."), Aarhus Institute of Advanced Studies, Aarhus, Denmark.
+
+2025-08-18 to 21: [Optica Imaging Congress 2025](https://www.optica.org/events/congress/imaging_and_applied_optics_congress/ "Focuses on imaging technologies, covering optical imaging, computational imaging, and microscopy. Topics include biomedical imaging, machine vision, and image processing, with applications in healthcare and industry, emphasizing optical and computational innovations."), Seattle, WA, USA.
+
+2025-09-23 to 27: [28th International Conference on Medical Image Computing and Computer Assisted Intervention (MICCAI 2025)](https://conferences.miccai.org/2025/en/ "Explores medical image computing and computer-assisted interventions. Topics include image analysis, machine learning for diagnostics, and applications in medical imaging and surgery."), Daejeon, Korea.
+
+2025-09-25 to 27: [23rd International Workshop on Combinatorial Image Analysis (IWCIA 2025)](https://iwcia2025.inf.u-szeged.hu "IWCIA 2025 focuses on combinatorial image analysis, covering image segmentation, pattern recognition, and discrete geometry. Topics include applications in medical imaging, computer vision, and remote sensing, emphasizing combinatorial algorithms and computational methods for processing and analyzing digital images."), Szeged, Hungary.
+
+2025-11-03 to 05: [37th IEEE International Conference on Tools With Artificial Intelligence (ICTAI 2025)](https://easyconferences.eu/ictai2025/ "Covers AI tools and techniques. Topics include machine learning, knowledge-based systems, and applications in computer vision, robotics, and decision support systems."), Athens, Greece.
+
+2025-12-09 to 12: [17th Asian Conference on Machine Learning (ACML 2025)](https://www.acml-conf.org/2025/ "ACML 2025 focuses on machine learning, covering deep learning, reinforcement learning, and kernel methods. Topics include applications in computer vision, natural language processing, and healthcare, emphasizing statistical and computational advancements in machine learning algorithms and applications."), Taipei, Taiwan.
+
+2026-04-08 to 11: [IEEE International Symposium on Biomedical Imaging (ISBI 2026)](https://biomedicalimaging.org/2026/ "Focuses on biomedical imaging techniques. Topics include image processing, machine learning for diagnostics, and applications in medical imaging and healthcare."), London, UK.
+
+2026-04-10 to 12: [14th International Conference on Computational Visual Media (CVM 2026)](http://iccvm.org/2026/ "Explores advancements in computational visual media, covering computer vision, graphics, and image synthesis. Topics include deep learning for visual data, augmented reality, and applications in entertainment and robotics, emphasizing algorithmic innovations."), Seoul, Korea.
+
+2026-06-01 to 30: [9th International Conference on Image Formation in X-Ray Computed Tomography (CT 2026)](https://ct-meeting.org "CT 2026 explores X-ray computed tomography, covering image reconstruction, scatter correction, and deep learning. Topics include applications in medical imaging, industrial inspection, and materials science, emphasizing computational methods for high-resolution and low-dose CT imaging."), Salt Lake City, UT, USA.
+
+2026-07-01 to 31: [Medical Imaging With Deep Learning (MIDL 2026)](https://2026.midl.io "MIDL 2026 focuses on deep learning in medical imaging, covering image segmentation, classification, and generative models. Topics include applications in radiology, pathology, and neuroimaging, emphasizing computational and machine learning techniques for advancing medical image analysis."), Taipei, Taiwan.
+
+2026-08-16 to 20: [28th International Conference on Pattern Recognition (ICPR 2026)](https://iapr.org/conferences/conference-schedule/ "ICPR 2026 focuses on pattern recognition, covering computer vision, machine learning, and image processing. Topics include applications in biometrics, autonomous systems, and medical imaging, emphasizing computational methods for recognizing and analyzing complex patterns in data."), Lyon, France.
+

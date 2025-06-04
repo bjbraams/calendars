@@ -1,0 +1,6 @@
+2025-04-14 to 18: [Seismological Society of America Annual Meeting (SSA 2025)](https://2025.meetings.seismosoc.org/ "SSA 2025 focuses on seismology, covering computational methods for seismic wave propagation and earthquake modeling. Topics include finite difference methods, seismic imaging, and ground motion prediction, with applications in hazard assessment and geophysical exploration, emphasizing numerical simulations."), Baltimore, MD, USA.
+
+2025-04-27 to 05-02: [European Geophysical Union General Assembly (EGU 2025)](https://www.egu25.eu/ "EGU 2025 focuses on geophysics, covering computational methods for seismic, atmospheric, and oceanic modeling. Topics include numerical weather prediction, earthquake simulations, and geomagnetic modeling, with applications in climate science and hazard assessment, emphasizing interdisciplinary geophysical computations."), Vienna, Austria and online.
+
+2025-05-26 to 30: [IUTAM Summer School on Gravity Currents in the Environment (2025)](https://iutam.org/events/iutam-summer-school-on-gravity-currents-in-the-environment "Focuses on gravity currents in environmental fluid mechanics. Topics include density-driven flows, numerical modeling, and applications in oceanography, meteorology, and environmental engineering."), Udine, Italy.
+

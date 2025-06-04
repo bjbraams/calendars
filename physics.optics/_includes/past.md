@@ -1,0 +1,6 @@
+2025-01-02 to 05: [Inter-American Photochemical Society Annual Meeting (I-Aps 2025)](https://i-aps.org/meeting-registration/ "Explores photochemical processes, covering photoinduced reactions, spectroscopy, and excited-state dynamics. Topics include photovoltaics, photocatalysis, and applications in environmental and biological systems, emphasizing experimental and theoretical studies."), Miramar Beach, FL, USA.
+
+2025-05-25 to 30: [22nd International Conference on Time-Resolved Vibrational Spectroscopy (TRVS 2025)](https://trvs2025.jp/ "TRVS 2025 explores time-resolved vibrational spectroscopy, focusing on ultrafast molecular dynamics and chemical kinetics. Topics include Raman scattering, infrared spectroscopy, and applications in photochemistry and biophysics, emphasizing experimental techniques for probing molecular vibrations."), Moriyama, Shiga, Japan.
+
+2025-06-02 to 07: [26th International Conference on Laser Spectroscopy (ICOLS 2025)](https://icols2025.it "ICOLS 2025 focuses on laser spectroscopy, covering precision measurements, plasma diagnostics, and laser-material interactions. Topics include atomic clocks, laser-induced breakdown spectroscopy, and applications in fusion and astrophysics, emphasizing advanced spectroscopic techniques."), Elba Island, Italy.
+

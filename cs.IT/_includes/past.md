@@ -1,0 +1,4 @@
+2025-02-17 to 21: [6th Workshop on Algebraic Structures in Quantum Computation (2025)](https://itp.uni-hannover.de/en/asqc6 "This workshop focuses on algebraic structures in quantum computation, covering quantum error correction, topological quantum computing, and algebraic quantum algorithms. Topics include stabilizer codes, quantum groups, and tensor networks, with applications in fault-tolerant quantum systems and quantum information theory."), Hannover, Germany.
+
+2025-03-17 to 21: [Quantum Resources 2025](https://2025.quantumresources.science/ "Quantum Resources 2025 explores quantum information theory, focusing on entanglement, quantum coherence, and quantum thermodynamics. Topics include resource theories, quantum algorithms, and applications in quantum computing and cryptography, emphasizing fundamental limits and practical implementations."), Jeju Island, South Korea.
+

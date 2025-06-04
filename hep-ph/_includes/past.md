@@ -1,0 +1,4 @@
+2025-04-08 to 11: [3rd Joint ECFA-NuPECC-ApPEC Symposium (JENAS 2025)](https://indico.global/event/5574/ "JENAS 2025 explores nuclear physics, particle physics, and astrophysics, focusing on neutrino physics, dark matter, and nuclear reactions. Topics include accelerator-based experiments, cosmic ray detection, and nucleosynthesis, emphasizing interdisciplinary approaches to fundamental physics questions."), Didcot, Oxfordshire, UK.
+
+2025-05-25 to 30: [29th International Nuclear Physics Conference (INPC 2025)](https://inpc2025.org "INPC 2025 focuses on nuclear physics, covering nuclear structure, reactions, and hadron physics. Topics include quark-gluon plasma, nuclear astrophysics, and computational nuclear models, with applications in fundamental interactions and cosmology, emphasizing experimental and theoretical advancements."), Daejeon, South Korea.
+

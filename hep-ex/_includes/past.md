@@ -1,0 +1,2 @@
+2025-05-19 to 23: [7th Inter-Experiment Machine Learning Workshop (2025)](https://indico.cern.ch/event/1502120/ "This workshop focuses on machine learning for high-energy physics, covering neural networks for particle identification and event reconstruction. Topics include deep learning, uncertainty quantification, and applications in collider experiments, emphasizing collaborative ML advancements across experiments."), CERN, Geneva, Switzerland.
+

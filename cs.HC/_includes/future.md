@@ -1,0 +1,4 @@
+2025-07-07 to 09: [International Association of Statistical Computing Conference Data Science, Statistics & Visualisation (DSSV 2025)](https://iasc-isi.org/dssv2025/ "DSSV 2025 focuses on data science and statistical visualization, covering multivariate analysis, data mining, and interactive graphics. Topics include big data analytics, visualization techniques, and applications in social sciences and health, emphasizing statistical methods for data exploration."), Kruger Park, South Africa.
+
+2025-09-24 to 26: [33rd International Symposium on Graph Drawing and Network Visualization (GD 2025)](https://graphdrawing.github.io/gd2025/ "GD 2025 focuses on graph drawing and network visualization, covering graph algorithms, layout techniques, and visual analytics. Topics include applications in social networks, bioinformatics, and cybersecurity, emphasizing computational methods for effective network representation and analysis."), Norrköping, Sweden.
+

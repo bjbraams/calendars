@@ -1,0 +1,4 @@
+2025-05-05 to 08: [Moroccan-Swedish Conference on Stochastic Analysis (MOSCSA 2025)](https://moscsa2025.com/ "MOSCSA 2025 explores stochastic analysis, covering stochastic calculus, martingale theory, and stochastic control systems. Topics include stochastic processes in finance, stochastic modeling in biology, and applications in stochastic modeling, emphasizing stochastic processes."), Marrakesh, Morocco.
+
+2025-05-12 to 14: [Fields-Cfi Conference on Optimal Stopping and Its Applications in Finance and Insurance (2025)](http://www.fields.utoronto.ca/activities/24-25/optimal-stopping "This conference explores optimal stopping, focusing on stochastic control and decision-making under uncertainty. Topics include stopping times, martingale methods, and applications in option pricing, risk management, and insurance, emphasizing probabilistic models for financial optimization."), Toronto, ON, Canada.
+

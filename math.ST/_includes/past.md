@@ -1,0 +1,4 @@
+2025-04-01 to 04: [Workshop Algebraic Statistics and the Study of Multistate Models: Theory and Applications (2025)](https://www.kaiekubjas.com/algstatmsm/ "This workshop focuses on algebraic statistics for multistate models, covering Markov models, graphical models, and tensor methods. Topics include identifiability, parameter estimation, and applications in biology and social sciences, emphasizing algebraic techniques for complex statistical systems."), Aalto, Finland.
+
+2025-04-09 to 10: [ASME Conference Verification, Validation, and Uncertainty Quantification (2025)](https://event.asme.org/VandV "Focuses on verification, validation, and uncertainty quantification in computational models, covering statistical methods, model calibration, and error analysis. Topics include applications in engineering, aerospace, and energy systems, emphasizing robust simulation frameworks."), College Station, TX, USA.
+

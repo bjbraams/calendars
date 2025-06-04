@@ -1,0 +1,12 @@
+2025-06-22 to 27: [IEEE International Symposium on Information Theory (ISIT 2025)](https://2025.ieee-isit.org "ISIT 2025 explores information theory, covering coding theory, data compression, and Shannon theory. Topics include quantum information, network coding, and applications in communications and machine learning, emphasizing theoretical foundations of information processing."), Ann Arbor, MI, USA.
+
+2025-07-14 to 16: [30th Australasian Conference on Information Security and Privacy (ACISP 2025)](https://uow-ic2.github.io/acisp2025/ "Covers information security and privacy. Topics include cryptography, secure protocols, and applications in cybersecurity, data protection, and network security."), Wollongong, Australia.
+
+2025-08-11 to 15: [7th International Conference on Quantum Error Correction (QEC 2025)](https://qec25.yalepages.org "QEC 2025 focuses on quantum error correction, covering fault-tolerant quantum computing, quantum codes, and decoherence mitigation. Topics include surface codes, quantum repeaters, and applications in quantum networks, emphasizing theoretical and experimental quantum error correction advancements."), New Haven, CT, USA.
+
+2025-10-29 to 31: [7th International Conference on Geometric Science of Information (GSI 2025)](https://conference-gsi.org "GSI 2025 focuses on geometric science of information, covering information geometry, manifold learning, and statistical inference. Topics include applications in machine learning, signal processing, and neuroscience, emphasizing geometric and computational methods for information processing and analysis."), Saint Malo, France.
+
+2025-12-14 to 19: [44th International Workshop on Bayesian Inference and Maximum Entropy Methods in Science and Engineering (MaxEnt 2025)](https://maxent2025.co.nz "MaxEnt 2025 explores Bayesian inference and maximum entropy methods, covering probabilistic modeling and information theory. Topics include applications in physics, engineering, and data science, emphasizing statistical techniques for uncertainty quantification and optimal inference in complex systems."), Auckland, New Zealand.
+
+2026-03-23 to 27: [CIRM Workshop on Entropy and Random Matrices (2026)](https://conferences.cirm-math.fr/3597.html "Explores entropy and random matrix theory. Topics include information theory, statistical mechanics, and applications in quantum physics and data science."), Marseille, France.
+

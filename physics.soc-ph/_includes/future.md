@@ -1,0 +1,12 @@
+2025-08-25 to 29: [International Symposium on Stochastic Processes and Complex Systems (2025)](https://www.tfc.tohoku.ac.jp/event/4308.html "Explores stochastic processes and complex systems. Topics include Markov processes, random networks, and applications in physics, biology, and data science."), Tokyo, Japan.
+
+2025-09-22 to 26: [CIRM Conference Interacting Particle Systems and Related Fields (2025)](https://conferences.cirm-math.fr/3335.html "This conference explores interacting particle systems, covering stochastic processes, random walks, and statistical mechanics. Topics include applications in biology, physics, and social dynamics, emphasizing probabilistic and computational methods for modeling interacting stochastic systems."), Marseille, France.
+
+2025-10-15 to 17: [SPP2265 Workshop on Recent Developments in Spatial Interacting Random Systems (2025)](https://wias-berlin.de/workshops/sirs25/ "This workshop explores spatial interacting random systems, covering percolation, random walks, and stochastic geometry. Topics include applications in statistical physics, epidemiology, and network science, emphasizing probabilistic and computational methods for modeling spatially structured random processes."), Berlin, Germany.
+
+2025-10-27 to 31: [Workshop Random Matrix Theory for Ecology, Economics, Finance and Statistical Physics (2025)](https://www.uni-bielefeld.de/einrichtungen/zif/groups/ongoing/matrices/ "This workshop explores random matrix theory, covering eigenvalue statistics, spectral analysis, and applications in ecology, economics, finance, and statistical physics. Topics include network modeling, portfolio optimization, and disordered systems, emphasizing probabilistic methods for complex system analysis."), Bielefeld, Germany.
+
+2026-01-19 to 23: [CIRM Research School Random Walks, Applications and Interactions (2026)](https://conferences.cirm-math.fr/3451.html "Covers random walks and their applications. Topics include stochastic processes, Markov chains, and interactions with physics, biology, and network science."), Marseille, France.
+
+2026-02-17 to 20: [International School and Conference on Network Science (NetSciX 2026)](https://netscix2026.github.io "NetSciX 2026 explores network science, covering graph theory, network dynamics, and community detection. Topics include applications in social networks, biology, and infrastructure, emphasizing computational and optimization methods for analyzing and modeling complex network structures."), Auckland, New Zealand.
+

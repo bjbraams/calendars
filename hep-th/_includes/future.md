@@ -1,0 +1,4 @@
+2025-09-08 to 19: [CERN Theory Institute on Quantum Simulation and Computation in High-Energy Physics (2025)](https://indico.cern.ch/event/1488240/ "This institute focuses on quantum simulation in high-energy physics, covering quantum algorithms, lattice gauge theories, and quantum hardware. Topics include applications in particle physics, cosmology, and quantum field theory, emphasizing quantum computational methods for fundamental physics."), Geneva, Switzerland.
+
+2026-05-18 to 29: [NUS-IMS Workshop on Conformal Field Theories on Randomness and Geometry (2026)](https://ims.nus.edu.sg/events/conformalfieldtheories_rangeo/ "Explores conformal field theories and randomness. Topics include stochastic geometry, conformal invariance, and applications in statistical physics and quantum field theory."), Singapore.
+

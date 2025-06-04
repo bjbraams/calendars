@@ -1,120 +1,56 @@
-- name: Lorentz Center Leiden Workshops and Events
-  link: https://www.lorentzcenter.nl/
-- name: Erwin Schrödinger International Institute for Mathematics and Physics (ESI) Workshops
-  link: https://www.esi.ac.at/events/workshops
-- name: U.S. National Science Foundation Mathematical Sciences Institutes (AIM, IAS Mathematics, ICERM, IMSI, IPAM, SLMath) Upcoming Events
-  link: https://mathinstitutes.org/events
-- name: American Institute of Mathematics (AIM) Workshops
-  link: https://aimath.org/workshops/
-- name: Institute for Advanced Study (IAS) School of Mathematics Conferences & Workshops
-  link: https://www.ias.edu/math/workshops
-- name: Institute for Computational and Experimental Research in Mathematics (ICERM) Workshops and Programs
-  link: https://icerm.brown.edu/programs
-- name: Institute for Mathematical and Statistical Innovation (IMSI) Events List
-  link: https://www.imsi.institute/events/
-- name: Institute for Pure & Applied Mathematics (IPAM) Workshops, Schools and Conferences
-  link: https://www.ipam.ucla.edu/programs/
-- name: Simons Laufer Mathematical Sciences Institute (SLMath) Programs
-  link: https://www.slmath.org/programs
-- name: Simons Laufer Mathematical Sciences Institute (SLMath) Workshops
-  link: https://www.slmath.org/workshops
-- name: Mathematisches Forschungsinstitut Oberwolfach (MFO, Oberwolfach Research Institute for Mathematics) Calendar of Meeetings
-  link: https://www.mfo.de/scientific-program/meetings
-- name: Long Programs at IPAM at UCLA
-  link: https://www.ipam.ucla.edu/programs/long-programs/
-- name: Activities at the Bernoulli Centre at EPFL
-  link: https://bernoulli.epfl.ch/internal-programs/
-- name: Events at Simons Laufer Mathematical Sciences Institute (SLMath)
-  link: https://www.slmath.org/workshops
-- name: Centre International de Rencontres Mathématiques (CIRM)
-  link: https://www.cirm-math.com/calendars.html
-- name: Isaac Newton Institute for Mathematical Sciences Programmes and Workshops
-  link: https://www.newton.ac.uk/events/programmes-workshops/
-- name: Mittag-Leffler Institute Conferences
-  link: https://www.mittag-leffler.se/conferences/
-- name: Fields Institute Workshops and Conferences
-  link: http://www.fields.utoronto.ca/activities/workshops
-- name: American Institute of Mathematics Workshops
-  link: https://aimath.org/workshops/
-- name: Conferences associated with Center for Nonlinear Studies at LANL
-  link: https://cnls.lanl.gov/external/Conferences.php
-- name: Centro di Ricerca Matematica Ennio De Giorgi (CRM), Pisa, Italy
-  link: https://crmdegiorgi.sns.it/events/
-- name: Polish Academy of Sciences Banach Center Scientific Programme
-  link: https://www.impan.pl/en/bc-conferences
-- name: Centrum Wiskunde & Informatica (CWI) Research Semester Programmes
-  link: https://www.cwi.nl/en/events/cwi-research-semester-programmes/
-- name: Taiwan National Center for Theoretical Sciences (NCTS) Mathematics Division Events List
-  link: https://ncts.ntu.edu.tw/events.php
-- name: Chennai Mathematical Institute (CMI) Schools, Workshops and Conferences
-  link: https://www.cmi.ac.in//activities/conferences.php
-- name: Eurandom, Netherlands, Workshops
-  link: https://www.eurandom.tue.nl/
-- name: Institut des Hautes Études Scientifiques (IHES) Conferences
-  link: https://www.ihes.fr/en/events/#conferences
-- name: Alfréd Rényi Institute of Mathematics
-  link: https://www.renyi.hu/en/events/
-- name: Banff International Research Station for Mathematical Innovation and Discovery (BIRS) Calendar of Events
-  link: https://www.birs.ca/events/
-- name: Centre International de Rencontres Mathématiques (CIRM) Events Calendar
-  link: https://www.cirm-math.com/calendars.html
-- name: Wilhelm and Else Heraeus Foundation (WE-Heraeus-Stiftung) Forthcoming Seminars
-  link: https://www.we-heraeus-stiftung.de/veranstaltungen/kategorie/we-heraeus-seminar/
-- name: Research Institute for Mathematical Sciences at Kyoto University (RIMS) Workshops and Other Events
-  link: https://www.kurims.kyoto-u.ac.jp/kyoten/en/workshop.html)
-- name: International Centre for Theoretical Physics (ICTP) Schools, Workshops and Conferences
-  link: https://www.ictp.it/home/scientific-calendar
-- name: Perimeter Institute for Theoretical Physics (Waterloo, Canada) Conferences
-  link: https://perimeterinstitute.ca/research/conferences
-- name: Kavli Institute for Theoretical Physics (KITP, UCSB) Programs and Conferences
-  link: https://www.kitp.ucsb.edu/activities
-- name: Kavli Institute for the Physics and Mathematics of the Universe (IPMU, Tokyo) Upcoming Conferences
-  link: https://research.ipmu.jp/seminar/?mode=conference_coming
-- name: Gordon Research Conferences (GRC) and Schools (GRS)
-  link: https://www.grc.org/find-a-conference/
-- name: Bad Honnef Physics Schools
-  link: https://www.dpg-physik.de/ueber-uns/physikzentrum-bad-honnef/bad-honnef-physics-schools
-- name: Les Houches School of Physics Program of Events
-  link: https://www.houches-school-physics.com/program/
-- name: Institute for Theoretical Atomic, Molecular and Optical Physics (ITAMP) Workshops
-  link: https://lweb.cfa.harvard.edu/itamp-events
-- name: Aspen Center for Physics (ACP) Conferences in Winter
-  link: https://aspenphys.org/winter-conferences/
-- name: Aspen Center for Physics (ACP) Workshops in Summer
-  link: https://aspenphys.org/summer-workshops/
-- name: Nordic Institute for Theoretical Physics (Nordita), Stockholm, Sweden
-  link: https://nordita.org/events/conferences/
-- name: ​International Research Network for Nuclear Astrophysics (IReNA) Events List
-  link: https://www.irenaweb.org/
-- name: Yukawa Institute of Theoretical Physics (YITP), Kyoto, Japan, Workshops and Other Activities
-  link: https://www.yukawa.kyoto-u.ac.jp/en-GB/
-- name: International Institute of Physics (IIP), Natal (RN), Brazil
-  link: https://www.iip.ufrn.br/events.php
-- name: Okinawa Institute of Science and Technology (OIST) Conferences & Meetings
-  link: https://www.oist.jp/conference
-- name: Asia Pacific Center for Theoretical Physics (APCTP) Academic Activities
-  link: https://www.apctp.org/theme/d/html/activities/01.php
-- name: ICTP - East African Institute for Fundamental Research (EAIFR) Events Calendar
-  link: https://eaifr.ictp.it/events/
-- name: Simons Institute for the Theory of Computing (at UCB) Workshop & Symposia
-  link: https://simons.berkeley.edu/workshop-symposia
-- name: Center for Discrete Mathematics and Theoretical Computer Science (DIMACS) Programs
-  link: http://dimacs.rutgers.edu/programs/
-- name: Dagstuhl – Leibniz Center for Informatics Seminar Calendar
-  link: https://www.dagstuhl.de/en/seminars/seminar-calendar
-- name: Physics Today Conferences & Meetings
-  link: https://physicstoday.scitation.org/conferences
-- name: Ettore Majorana Foundation and Centre for Scientific Culture Schools, Workshops and other events
-  link: https://ettoremajoranafoundation.it/
-- name: International Centre for Mechanical Sciences (CISM) Courses and Events
-  link: https://cism.it/en/activities/courses/
-- name: Centre de Recherches Mathématiques (CRM) (Canada) Calendar of Events
-  link: https://www.crmath.ca/en/activities/
-- name: International Centre for Mathematical Sciences (ICMS), Edinburgh, UK, Workshops and Other Events
-  link: https://www.icms.org.uk/
-- name: ITER International Tokamak Physics Activity (ITPA) Meetings
-  link: https://indico.iter.org/category/3/
-- name: ITER Project Meetings
-  link: https://indico.iter.org/category/2/
-- name: University of Bielefeld Project on Taming Uncertainty (SFB 1283) List of Events
-  link: https://www.sfb1283.uni-bielefeld.de/
+Alfréd Rényi Institute of Mathematics Events List: https://www.renyi.hu/en/events/
+American Institute of Mathematics (AIM) Workshops: https://aimath.org/workshops/
+Asia Pacific Center for Theoretical Physics (APCTP) Academic Activities: https://www.apctp.org/theme/d/html/activities/01.php
+Aspen Center for Physics (ACP) Conferences in Winter: https://aspenphys.org/winter-conferences/
+Aspen Center for Physics (ACP) Workshops in Summer: https://aspenphys.org/summer-workshops/
+Bad Honnef Physics Schools: https://www.dpg-physik.de/ueber-uns/physikzentrum-bad-honnef/bad-honnef-physics-schools
+Banff International Research Station for Mathematical Innovation and Discovery (BIRS) Calendar of Events: https://www.birs.ca/events/
+Bernoulli Centre, EPFL, Activities: https://bernoulli.epfl.ch/internal-programs/
+Center for Discrete Mathematics and Theoretical Computer Science (DIMACS) Programs: http://dimacs.rutgers.edu/programs/
+Center for Nonlinear Studies at LANL Associated Conferences: https://cnls.lanl.gov/external/Conferences.php
+Centre De Recherches Mathématiques (CRM) (Canada) Calendar of Events: https://www.crmath.ca/en/activities/
+Centre International De Rencontres Mathématiques (CIRM) Events Calendar: https://www.cirm-math.com/calendars.html
+Centro Di Ricerca Matematica Ennio De Giorgi (CRM), Pisa, Italy: https://crmdegiorgi.sns.it/events/
+Centrum Wiskunde & Informatica (CWI) Research Semester Programmes: https://www.cwi.nl/en/events/cwi-research-semester-programmes/
+Chennai Mathematical Institute (CMI) Schools, Workshops and Conferences: https://www.cmi.ac.in//activities/conferences.php
+Dagstuhl – Leibniz Center for Informatics Seminar Calendar: https://www.dagstuhl.de/en/seminars/seminar-calendar
+Erwin Schrödinger International Institute for Mathematics and Physics (ESI) Workshops: https://www.esi.ac.at/events/workshops
+Ettore Majorana Foundation and Centre for Scientific Culture Schools, Workshops and Other Events: https://ettoremajoranafoundation.it/
+Eurandom, Netherlands, Workshops: https://www.eurandom.tue.nl/
+Fields Institute Workshops and Conferences: http://www.fields.utoronto.ca/activities/workshops
+Gordon Research Conferences (GRC) and Schools (GRS): https://www.grc.org/find-a-conference/
+ICTP - East African Institute for Fundamental Research (EAIFR) Events Calendar: https://eaifr.ictp.it/events/
+Institut Des Hautes Études Scientifiques (IHES) Conferences: https://www.ihes.fr/en/events/#conferences
+Institute for Advanced Study (IAS) School of Mathematics Conferences & Workshops: https://www.ias.edu/math/workshops
+Institute for Computational and Experimental Research in Mathematics (ICERM) Workshops and Programs: https://icerm.brown.edu/programs
+Institute for Mathematical and Statistical Innovation (IMSI) Events List: https://www.imsi.institute/events/
+Institute for Pure & Applied Mathematics (IPAM) Long Programs: https://www.ipam.ucla.edu/programs/long-programs/
+Institute for Pure & Applied Mathematics (IPAM) Workshops, Schools and Conferences: https://www.ipam.ucla.edu/programs/
+Institute for Theoretical Atomic, Molecular and Optical Physics (ITAMP) Workshops: https://lweb.cfa.harvard.edu/itamp-events
+International Centre for Mathematical Sciences (ICMS), Edinburgh, UK, Workshops and Other Events: https://www.icms.org.uk/
+International Centre for Mechanical Sciences (CISM) Courses and Events: https://cism.it/en/activities/courses/
+International Centre for Theoretical Physics (ICTP) Schools, Workshops and Conferences: https://www.ictp.it/home/scientific-calendar
+International Institute of Physics (IIP), Natal (RN), Brazil: https://www.iip.ufrn.br/events.php
+​International Research Network for Nuclear Astrophysics (IReNA) Events List: https://www.irenaweb.org/
+Isaac Newton Institute for Mathematical Sciences Programmes and Workshops: https://www.newton.ac.uk/events/programmes-workshops/
+ITER International Tokamak Physics Activity (ITPA) Meetings: https://indico.iter.org/category/3/
+ITER Project Meetings: https://indico.iter.org/category/2/
+Kavli Institute for Theoretical Physics (KITP, UCSB) Programs and Conferences: https://www.kitp.ucsb.edu/activities
+Kavli Institute for the Physics and Mathematics of the Universe (IPMU, Tokyo) Upcoming Conferences: https://research.ipmu.jp/seminar/?mode=conference_coming
+Les Houches School of Physics Program of Events: https://www.houches-school-physics.com/program/
+Lorentz Center Leiden Workshops and Events: https://www.lorentzcenter.nl/
+Mathematisches Forschungsinstitut Oberwolfach (MFO, Oberwolfach Research Institute for Mathematics) Calendar of Meeetings: https://www.mfo.de/scientific-program/meetings
+Mittag-Leffler Institute Conferences: https://www.mittag-leffler.se/conferences/
+Nordic Institute for Theoretical Physics (Nordita), Stockholm, Sweden: https://nordita.org/events/conferences/
+Okinawa Institute of Science and Technology (OIST) Conferences & Meetings: https://www.oist.jp/conference
+Perimeter Institute for Theoretical Physics (Waterloo, Canada) Conferences: https://perimeterinstitute.ca/research/conferences
+Polish Academy of Sciences Banach Center Scientific Programme: https://www.impan.pl/en/bc-conferences
+Research Institute for Mathematical Sciences at Kyoto University (RIMS) Workshops and Other Events: https://www.kurims.kyoto-u.ac.jp/kyoten/en/workshop.html)
+Simons Institute for the Theory of Computing (At UCB) Workshop & Symposia: https://simons.berkeley.edu/workshop-symposia
+Simons Laufer Mathematical Sciences Institute (SLMath) Programs: https://www.slmath.org/programs
+Simons Laufer Mathematical Sciences Institute (SLMath) Workshops: https://www.slmath.org/workshops
+Taiwan National Center for Theoretical Sciences (NCTS) Mathematics Division Events List: https://ncts.ntu.edu.tw/events.php
+University of Bielefeld Project on Taming Uncertainty (SFB 1283) List of Events: https://www.sfb1283.uni-bielefeld.de/
+U.S. National Science Foundation Mathematical Sciences Institutes (AIM, IAS Mathematics, ICERM, IMSI, IPAM, SLMath) Upcoming Events: https://mathinstitutes.org/events
+Wilhelm and Else Heraeus Foundation (WE-Heraeus-Stiftung) Forthcoming Seminars: https://www.we-heraeus-stiftung.de/veranstaltungen/kategorie/we-heraeus-seminar/
+Yukawa Institute of Theoretical Physics (YITP), Kyoto, Japan, Workshops and Other Activities: https://www.yukawa.kyoto-u.ac.jp/en-GB/

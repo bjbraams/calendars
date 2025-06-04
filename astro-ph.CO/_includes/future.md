@@ -1,0 +1,2 @@
+2025-07-06 to 11: [29th Dynamics of Molecular Collisions Conference (DMC 2025)](https://blog.umd.edu/29th-dmc/ "DMC 2025 explores molecular collisions, covering reaction dynamics, scattering processes, and quantum chemistry. Topics include cold molecule interactions, photochemical reactions, and applications in atmospheric and astrophysical chemistry, emphasizing experimental and computational studies of molecular dynamics."), Snowbird, UT, USA.
+

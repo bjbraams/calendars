@@ -1,0 +1,8 @@
+2025-03-01 to 05: [ACM SIGPLAN Symposium on Principles and Practice of Parallel Programming (PPoPP 2025)](https://ppopp25.sigplan.org "PPoPP 2025 focuses on parallel programming, covering concurrent algorithms, parallel architectures, and distributed systems. Topics include GPU programming, task scheduling, and performance optimization, with applications in high-performance computing, AI, and scientific simulations, emphasizing scalable parallel software design."), Las Vegas, NV, USA.
+
+2025-03-10 to 13: [SupercomputingAsia (SCA 2025)](https://sca25.sc-asia.org/ "Focuses on high-performance computing, covering supercomputing architectures, parallel algorithms, and big data analytics. Topics include scientific simulations, AI applications, and cloud computing, emphasizing computational advancements for research and industry."), Singapore.
+
+2025-06-02 to 04: [32nd International Colloquium on Structural Information and Communication Complexity (SIROCCO 2025)](https://www.torontomu.ca/sirocco-2025/ "SIROCCO 2025 explores structural information and communication complexity, focusing on distributed algorithms, network topologies, and graph theory. Topics include message-passing models, fault tolerance, and applications in distributed computing, emphasizing theoretical computational efficiency."), Delphi, Greece.
+
+2025-06-03 to 07: [39th IEEE International Parallel and Distributed Processing Symposium (IPDPS 2025)](https://www.ipdps.org/ "Explores parallel and distributed processing, covering algorithms, architectures, and software systems. Topics include big data processing, machine learning, and scientific computing, emphasizing performance optimization and scalability in computational systems."), Milan, Italy.
+

@@ -1,0 +1,4 @@
+2025-07-20 to 24: [Practice & Experience in Advanced Research Computing (PEARC 2025)](https://pearc.acm.org "PEARC 2025 focuses on advanced research computing, covering high-performance computing, cyberinfrastructure, and data-intensive computing. Topics include scientific workflows, cloud computing, and applications in physics and biology, emphasizing practical solutions for research computing challenges."), Columbus, OH, USA.
+
+2025-10-06 to 10: [28th (Jožef Stefan Institute) Information Society Multiconference (IS 2025)](https://is.ijs.si/ "IS 2025 explores information society technologies, covering AI, data mining, and cybersecurity. Topics include machine learning, human-computer interaction, and applications in smart cities and healthcare, emphasizing computational and interdisciplinary approaches to information processing and societal challenges."), Ljubljana, Slovenia.
+

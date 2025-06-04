@@ -1,0 +1,2 @@
+2025-06-23 to 07-04: [IHES Summer School Statistical Aspects of Nonlinear Physics (2025)](https://indico.math.cnrs.fr/event/12319/ "This summer school explores statistical aspects of nonlinear physics, covering stochastic processes, chaos, and random fields. Topics include turbulence, nonlinear dynamics, and applications in statistical mechanics and biophysics, emphasizing probabilistic approaches to nonlinear phenomena."), Le Bois-Marie, France.
+

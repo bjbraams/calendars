@@ -1,0 +1,2 @@
+2025-05-12 to 16: [Workshop on Geometry, Probability, and Algorithms (2025)](https://www.icts.res.in/discussion-meeting/gpa25 "This workshop explores intersections of geometry, probability, and algorithms, covering random geometric structures, probabilistic algorithms, and discrete geometry. Topics include random graphs, convex optimization, and applications in data science and network analysis, emphasizing interdisciplinary mathematical approaches."), ICTS, Bengaluru, India.
+

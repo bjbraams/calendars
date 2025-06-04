@@ -1,0 +1,4 @@
+2025-06-17 to 20: [Meeting of the International Network of Nuclear Reaction Data Centres (NRDC 2025)](https://www-nds.iaea.org/nrdc/nrdc_2025/ "NRDC 2025 focuses on nuclear reaction data, covering cross-section measurements, data compilation, and evaluation. Topics include nuclear databases, reaction modeling, and applications in nuclear energy and astrophysics, emphasizing standardized nuclear data."), Madrid, Spain.
+
+2025-06-22 to 27: [16th Nuclear Data for Science and Technology Conference (ND 2025)](https://nd2025madrid.com "ND 2025 focuses on nuclear data, covering cross-section measurements, nuclear reaction modeling, and data evaluation. Topics include applications in nuclear energy, astrophysics, and medical isotopes, emphasizing accurate nuclear data for scientific advancements."), Madrid, Spain.
+

@@ -1,0 +1,2 @@
+2025-05-19 to 21: [ICERM Workshop Applied Math in Statistics and Data Science Education (2025)](https://icerm.brown.edu/program/hot_topics_workshop/htw-25-amsdse "This workshop focuses on applied mathematics in statistics and data science education, covering curriculum development, machine learning, and statistical modeling. Topics include data-driven pedagogy, computational statistics, and applications in interdisciplinary education, emphasizing innovative teaching strategies for data science."), Providence, RI, USA.
+

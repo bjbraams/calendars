@@ -1,0 +1,4 @@
+2026-07-12 to 17: [24th Conference of the International Federation of Operational Research Societies (IFORS 2026)](https://www.ifors2026.at/home/ "IFORS 2026 focuses on operational research, covering optimization, decision analysis, and simulation. Topics include applications in logistics, healthcare, and energy systems, emphasizing computational and analytical methods for solving complex operational and management problems."), Vienna, Austria.
+
+2026-09-02 to 04: [German Operations Research Society International Conference on Operations Research (OR 2026)](https://or2026.de/ "OR 2026 focuses on operations research, covering optimization, simulation, and decision theory. Topics include applications in supply chain management, healthcare, and energy systems, emphasizing computational and analytical methods for solving complex operational challenges."), Passau, Germany.
+

@@ -1,0 +1,4 @@
+2025-05-19 to 23: [24th International Conference on Radionuclide Metrology and Applications (ICRM 2025)](https://icrm2025.org "ICRM 2025 focuses on radionuclide metrology, covering measurement techniques, decay data, and standardization. Topics include low-level radioactivity, nuclear forensics, and applications in environmental monitoring and medical isotopes, emphasizing precision in nuclear measurement methodologies."), Paris, France.
+
+2025-06-02 to 04: [Conference and Workshop Latest Trends in in-Situ and Correlative Electron Microscopy (ICEM 2025)](https://www.icem-brno.eu/ "Explores in-situ and correlative electron microscopy, covering real-time imaging, material dynamics, and multi-modal analysis. Topics include nanostructure characterization, catalysis, and applications in materials science, emphasizing advanced microscopy techniques."), Brno, Czech Republic.
+

@@ -1,0 +1,2 @@
+2025-02-27 to 28: [Texas Computational Chemistry Symposium 2025](https://texascomputationalchemistrysymposium.weebly.com/ "Focuses on computational chemistry, covering quantum chemistry, molecular dynamics, and electronic structure calculations. Topics include chemical reactivity, biomolecular simulations, and materials design, emphasizing computational tools for chemical and biochemical research."), Denton, TX, USA.
+

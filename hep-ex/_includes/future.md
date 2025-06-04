@@ -1,0 +1,2 @@
+2026-05-23 to 29: [28th Conference on Computing in High Energy and Nuclear Physics (CHEP 2026)](https://chep2026.phys.sc.chula.ac.th "CHEP 2026 focuses on computing in high-energy and nuclear physics, covering data analysis, simulation, and machine learning. Topics include particle detector simulations, big data processing, and AI applications, emphasizing computational tools for advancing nuclear and particle physics research."), Bangkok, Thailand.
+

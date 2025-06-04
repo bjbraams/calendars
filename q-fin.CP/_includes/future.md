@@ -1,0 +1,2 @@
+2025-09-02 to 05: [Stochastics and Computational Finance (SCF 2025)](https://scf2025.iseg.ulisboa.pt "SCF 2025 explores stochastics in computational finance, covering stochastic calculus, option pricing, and risk modeling. Topics include applications in derivatives, portfolio optimization, and financial econometrics, emphasizing probabilistic and computational methods for financial systems analysis."), Lisbon, Portugal.
+

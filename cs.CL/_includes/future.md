@@ -1,0 +1,8 @@
+2025-07-14 to 17: [Workshop on Logic, Language, Information and Computation (WoLLIC 2025)](https://wollic2025.github.io "WoLLIC 2025 focuses on logic, language, and computation, covering formal semantics, proof theory, and computational linguistics. Topics include automated reasoning, natural language processing, and applications in AI, emphasizing theoretical foundations of logical and linguistic computation."), Porto, Portugal.
+
+2025-07-27 to 08-01: [Association for Computational Linguistics 63rd Annual Meeting (ACL 2025)](https://2025.aclweb.org/ "Explores computational linguistics and natural language processing. Topics include machine learning for language models, text analysis, and applications in AI and human-computer interaction."), Vienna, Austria.
+
+2025-08-19 to 22: [29th International Conference on Developments in Language Theory (DLT 2025)](https://cida.uos.ac.kr/dlt2025/ "DLT 2025 focuses on language theory, covering automata, formal languages, and combinatorics on words. Topics include parsing algorithms, language complexity, and applications in verification and natural language processing, emphasizing theoretical advances in computational linguistics."), Seoul, Korea.
+
+2025-08-25 to 27: [28th Prague Stringology Conference (PSC 2025)](https://www.stringology.org/event/2025/ "PSC 2025 explores stringology, covering string algorithms, pattern matching, and text compression. Topics include applications in bioinformatics, data mining, and natural language processing, emphasizing efficient algorithmic solutions for processing and analyzing string-based data."), Prague, Czech Republic.
+

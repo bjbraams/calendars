@@ -140,22 +140,22 @@ def page_yaml_to_md(main,highlights,TODAY):
 #               new_md.append(xmd)
     return [past_md,future_md,highlights_md]
 
-def pages_extend(key,y1,dests):
-    if y1.strip().startswith('+'):
-        y, hl = [y1.lstrip(' +').rstrip(),True]
+def pages_extend(ident,dest,pages):
+    if dest.strip().startswith('+'):
+        y, hl = [dest.lstrip(' +').rstrip(),True]
     else:
-        y, hl = [y1.strip(),False]
-    if y not in dests.keys():
-        dests[y] = {'main':set(),'hl':set()}
-    dests[y]['main'].add(key)
+        y, hl = [dest.strip(),False]
+    if y not in pages.keys():
+        pages[y] = {'main':set(),'hl':set()}
+    pages[y]['main'].add(ident)
     if hl:
-        dests[y]['hl'].add(key)
+        pages[y]['hl'].add(ident)
 
 def base_to_pages(data):
     # Assume that data has been checked for errors
     pages = {}
-    for key, event in data.items():
-        if (kw := event.get('kw','')):
-            for y1 in kw.split(','):
-                pages_extend(key,y1,pages)
+    for ident, event in data.items():
+        if (dests := event.get('arxiv','')):
+            for dest in [t0.strip() for t0 in dests.split(',')]:
+                pages_extend(ident,dest,pages)
     return pages

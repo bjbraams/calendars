@@ -1,0 +1,10 @@
+2025-01-27 to 31: [61st International Winter Meeting on Nuclear Physics (Bormio 2025)](https://bormiomeeting.com "Bormio 2025 covers advancements in nuclear physics. Topics include nuclear structure, heavy-ion collisions, nuclear astrophysics, and quantum chromodynamics. The meeting addresses experimental results from particle accelerators and theoretical models, with applications in understanding fundamental interactions, nuclear reactions, and cosmic nucleosynthesis."), Bormio, Italy.
+
+2025-02-24 to 28: [NUSTAR Annual Meeting 2025](https://indico.gsi.de/event/20773/ "The NUSTAR Annual Meeting focuses on nuclear structure and astrophysics, covering exotic nuclei, nuclear reactions, and superheavy elements. Topics include gamma-ray spectroscopy, nuclear fission, and nucleosynthesis, with applications in understanding stellar processes and fundamental interactions, emphasizing experimental advancements."), Darmstadt, Germany.
+
+2025-04-23 to 25: [IOP Nuclear Physics Conference 2025](https://www.iop.org/events/nuclear-physics-conference-2025 "Covers nuclear physics advancements. Topics include nuclear reactions, structure, and spectroscopy, with applications in energy, astrophysics, and fundamental physics research."), Manchester, UK.
+
+2025-05-19 to 23: [14th INFN (Italy) International Spring Seminar on Nuclear Physics: Cutting-Edge Developments in Nuclear Structure Physics (2025)](https://agenda.infn.it/event/42803/ "Focuses on cutting-edge nuclear structure physics. Topics include exotic nuclei, nuclear models, and computational techniques for understanding nuclear interactions and properties."), Ischia, Italy.
+
+2025-05-19 to 23: [24th International Conference on Radionuclide Metrology and Applications (ICRM 2025)](https://icrm2025.org "ICRM 2025 focuses on radionuclide metrology, covering measurement techniques, decay data, and standardization. Topics include low-level radioactivity, nuclear forensics, and applications in environmental monitoring and medical isotopes, emphasizing precision in nuclear measurement methodologies."), Paris, France.
+

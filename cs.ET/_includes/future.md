@@ -1,0 +1,4 @@
+2025-08-31 to 09-05: [IEEE International Conference on Quantum Computing and Engineering (QCE 2025)](https://qce.quantum.ieee.org/2025/ "QCE 2025 explores quantum computing, covering quantum algorithms, hardware, and software development. Topics include quantum error correction, quantum networking, and applications in cryptography and optimization, emphasizing engineering and computational advancements in quantum technologies."), Albuquerque, NM, USA.
+
+2025-11-10 to 12: [European Quantum Technologies Conference (EQTC 2025)](https://eqtc.eu "EQTC 2025 focuses on quantum technologies, covering quantum computing, sensing, and communication. Topics include quantum algorithms, quantum cryptography, and quantum hardware development, emphasizing experimental and theoretical advancements for practical quantum technology applications."), Copenhagen, Denmark.
+

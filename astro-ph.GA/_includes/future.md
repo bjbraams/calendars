@@ -1,0 +1,4 @@
+2025-07-16 to 18: [ASI Symposium 004 on Genesis and Evolution of Organics in Space (2nd Symposium of Organics in Space Consortium)](https://organicsinspace.in/ "Focuses on organic molecules in astrophysical environments. Topics include computational astrochemistry, molecular formation, and applications in understanding cosmic evolution and planetary science."), Bengaluru, India.
+
+2025-10-20 to 24: [Workshop on Astrochemistry in the Broadband Era (2025)](https://web.cvent.com/event/680e9ab4-72cb-486c-941e-1ab343b052bf/summary "This workshop explores astrochemistry, covering molecular spectroscopy, chemical networks, and interstellar chemistry. Topics include applications in star formation, planetary atmospheres, and cosmology, emphasizing computational and observational methods for understanding chemical processes in the broadband astronomical era."), Portland, ME, USA.
+

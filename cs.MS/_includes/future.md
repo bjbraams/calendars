@@ -1,0 +1,6 @@
+2025-11-30 to 12-04: [26th International Congress on Modelling and Simulation (MODSIM 2025)](https://www.mssanz.org.au/modsim2025/ "MODSIM 2025 explores modeling and simulation, covering agent-based models, numerical simulations, and data-driven approaches. Topics include applications in environmental science, engineering, and social systems, emphasizing computational and interdisciplinary methods for simulating complex real-world phenomena."), Adelaide, SA, Australia.
+
+2025-12-07 to 10: [Winter Simulation Conference (WSC 2025)](https://meetings.informs.org/wordpress/wsc2025/ "WSC 2025 explores simulation, covering discrete-event simulation, agent-based modeling, and Monte Carlo methods. Topics include applications in logistics, healthcare, and manufacturing, emphasizing computational techniques for modeling and analyzing complex systems and decision-making processes."), Seattle, WA, USA.
+
+2026-07-23 to 30: [International Congress of Mathematicians (ICM 2026)](https://icm2026.org "ICM 2026 covers all areas of mathematics, including algebra, geometry, probability, and applied mathematics. Topics include theoretical advances, computational methods, and interdisciplinary applications, emphasizing foundational and cutting-edge developments across mathematical disciplines."), Philadelphia, PA, USA.
+

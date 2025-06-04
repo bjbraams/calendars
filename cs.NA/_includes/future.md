@@ -1,0 +1,18 @@
+2025-06-08 to 13: [22nd Householder Symposium (2025)](https://householder-symposium.github.io "This symposium focuses on numerical linear algebra, covering matrix computations, eigenvalue problems, and iterative solvers. Topics include Krylov subspace methods, low-rank approximations, and applications in scientific computing, emphasizing computational efficiency and accuracy."), Ithaca, NY, USA.
+
+2025-06-16 to 18: [Platform for Advanced Scientific Computing Conference (PASC 2025)](https://pasc25.pasc-conference.org/ "Focuses on advanced scientific computing, covering high-performance computing, numerical algorithms, and data-intensive simulations. Topics include computational physics, climate modeling, and machine learning, emphasizing scalable computing solutions for scientific research."), Brugg-Windisch, Switzerland.
+
+2025-06-23 to 27: [26th Conference of the International Linear Algebra Society (ILAS 2025)](https://ilas2025.tw "ILAS 2025 explores linear algebra, covering matrix theory, eigenvalue problems, and numerical methods. Topics include tensor computations, sparse matrices, and applications in data science and control theory, emphasizing theoretical and computational linear algebra advancements."), Kaohsiung, Taiwan.
+
+2025-06-23 to 27: [29th International Conference on Domain Decomposition Methods (DDM 2025)](https://dd29.polimi.it "DDM 2025 focuses on domain decomposition methods, covering parallel algorithms, preconditioners, and numerical solvers. Topics include applications in fluid dynamics, structural mechanics, and electromagnetics, emphasizing scalable computational methods for large-scale simulations."), Milan, Italy.
+
+2025-06-24 to 27: [30th Biennial Numerical Analysis Conference (2025)](https://numericalanalysisconference.org.uk/ "This conference focuses on numerical analysis, covering numerical linear algebra, PDE solvers, and optimization algorithms. Topics include adaptive methods, high-performance computing, and applications in engineering and physics, emphasizing advancements in numerical computational techniques."), Glasgow, UK.
+
+2025-07-03 to 05: [Applied Linear Algebra Conference (ALA 2025)](https://ala2025.pmf.uns.ac.rs "ALA 2025 explores applied linear algebra, covering matrix computations, eigenvalue problems, and numerical methods. Topics include tensor decompositions, machine learning applications, and large-scale linear systems, emphasizing computational techniques for data science, engineering, and scientific computing."), Novi Sad, Serbia.
+
+2025-07-13 to 18: [15th International Congress on Spectral and High Order Methods (ICOSAHOM 2025)](https://icosahom2025.org "ICOSAHOM 2025 focuses on spectral and high-order methods, covering numerical solvers, discontinuous Galerkin methods, and PDE approximations. Topics include applications in fluid dynamics, electromagnetics, and acoustics, emphasizing high-accuracy computational techniques for complex simulations."), Montreal, Canada.
+
+2025-08-19 to 21: [Jena Summer School on Numerical Analysis (2025)](https://indico.rz.uni-jena.de/event/187/ "Covers numerical analysis techniques. Topics include numerical methods for PDEs, optimization, and computational algorithms for scientific and engineering applications."), Jena, Germany.
+
+2026-07-06 to 10: [2026 SIAM Annual Meeting (AN 2026)](https://www.siam.org/conferences-events/siam-conferences/an26 "Explores applied and computational mathematics, covering numerical analysis, optimization, and dynamical systems. Topics include machine learning, computational modeling, and applications in science and engineering, emphasizing interdisciplinary mathematical advancements."), Cleveland, OH, USA.
+

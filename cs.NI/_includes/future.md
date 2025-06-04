@@ -1,0 +1,6 @@
+2025-07-21 to 23: [45th IEEE International Conference on Distributed Computing Systems (ICDCS 2025)](https://icdcs2025.icdcs.org/ "ICDCS 2025 focuses on distributed computing systems, covering cloud computing, edge computing, and blockchain. Topics include distributed AI, fault tolerance, and applications in IoT and smart cities, emphasizing scalable and reliable distributed system architectures."), Glasgow, UK.
+
+2025-10-15 to 17: [Quantum Network Workshop (QuNeW 2025)](https://qutech.nl/event/qunew/ "QuNeW 2025 focuses on quantum networks, covering quantum communication, entanglement distribution, and quantum repeaters. Topics include applications in secure communication and distributed quantum computing, emphasizing experimental and theoretical advancements in quantum networking technologies."), The Hague, Netherlands.
+
+2026-06-15 to 19: [Stochastic Networks Conference 2026](https://www.chicagobooth.edu/events/stochastic-networks-conference "This conference explores stochastic networks, covering queueing theory, random graphs, and network dynamics. Topics include applications in telecommunications, transportation, and social networks, emphasizing probabilistic and computational methods for modeling and analyzing stochastic network systems."), Chicago, IL, USA.
+

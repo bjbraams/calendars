@@ -1,0 +1,4 @@
+2025-02-24 to 28: [International Workshop on Machine Learning for Quantum Matter (2025)](https://pks.mpg.de/mlqmat25 "This workshop focuses on machine learning for quantum matter, covering neural networks for quantum state reconstruction, phase classification, and material discovery. Topics include generative models, reinforcement learning, and applications in condensed matter physics, emphasizing data-driven approaches to quantum systems."), Dresden, Germany.
+
+2025-05-12 to 16: [ECTstar Workshop Nonequilibrium Phenomena in Superfluid Systems: Atomic Nuclei, Liquid Helium, Ultracold Gases, and Neutron Stars (2025)](https://indico.ectstar.eu/event/234/ "Examines nonequilibrium phenomena in superfluid systems, covering atomic nuclei, liquid helium, ultracold gases, and neutron stars. Topics include superfluid dynamics, quantum turbulence, and applications in nuclear and astrophysics, emphasizing theoretical models."), Trento, Italy.
+

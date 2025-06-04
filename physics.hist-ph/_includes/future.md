@@ -1,0 +1,2 @@
+2025-09-08 to 12: [2nd DPG Fall Meeting: 100 Years of Quantum Physics (2025)](https://quantum25.dpg-tagungen.de/ "Celebrates quantum physics advancements, covering quantum mechanics, quantum optics, and quantum information. Topics include quantum computing, entanglement, and foundational quantum theory, emphasizing theoretical, experimental, and historical perspectives in quantum science."), Göttingen, Germany.
+

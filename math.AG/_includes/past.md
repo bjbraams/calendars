@@ -1,0 +1,2 @@
+2025-03-24 to 28: [Workshop Algebraic Statistics 2025](https://sites.google.com/view/algstat2025/ "This workshop focuses on algebraic statistics, covering polynomial models, graphical models, and tensor decompositions. Topics include maximum likelihood estimation, algebraic geometry in statistics, and applications in phylogenetics and machine learning, emphasizing algebraic tools for statistical inference."), Munich, Germany.
+

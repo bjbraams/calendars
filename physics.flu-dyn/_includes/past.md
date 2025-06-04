@@ -1,0 +1,22 @@
+2025-02-05 to 07: [EMS Topical Activity Group Mixtures Conference on Mixtures: Modeling, Analysis and Computing (2025)](https://www.karlin.mff.cuni.cz/~prusv/ncmm/conference/mixtures/ "Examines mathematical modeling and computational methods for mixture problems. Topics include multiphase flows, mixture models in fluid dynamics, and numerical simulations for complex systems in physics and engineering."), Prague, Czech Republic.
+
+2025-03-17 to 20: [23rd IACM Computational Fluids Conference (CFC 2025)](https://cfc2025.iacm.info/ "CFC 2025 focuses on computational fluid dynamics, covering numerical methods for incompressible and compressible flows. Topics include turbulence modeling, mesh adaptation, and high-order schemes, with applications in aerodynamics, environmental flows, and biofluids, emphasizing advanced simulation techniques."), Santiago, Chile.
+
+2025-03-24 to 28: [16th European Turbomachinery Conference, Fluid Dynamics and Thermodynamics (ETC 2025)](https://www.etc16.eu/ "Focuses on turbomachinery, covering fluid dynamics, thermodynamics, and computational modeling. Topics include turbine design, aerodynamics, and energy efficiency, with applications in aerospace and power generation, emphasizing numerical simulations."), Hannover, Germany.
+
+2025-03-25 to 28: [EuroMech Colloquium 659 on Metamaterials in Fluid Flows and Beyond (2025)](http://659.euromech.org/ "Explores the role of metamaterials in fluid mechanics and related fields. Topics include wave manipulation, fluid-structure interactions, and computational modeling of metamaterials in aerodynamics and acoustics."), Groningen, Netherlands.
+
+2025-04-02 to 04: [EuroMech Colloquium 629 on Data-Driven Fluid Mechanics (2025)](https://629.euromech.org/ "Explores data-driven approaches in fluid mechanics, integrating machine learning and computational modeling. Topics include turbulence modeling, flow prediction, and applications in aerodynamics and environmental flows."), London, UK.
+
+2025-04-07 to 11: [Conference on Kinetic Equations and Turbulence in Honor of Claude Bardos's 85th Birthday](https://bardos-85.sciencesconf.org/?lang=en "Focuses on kinetic equations and turbulence modeling. Topics include Boltzmann equations, computational fluid dynamics, and turbulence simulation, with applications in physics and engineering."), Gif-sur-Yvette, France.
+
+2025-04-28 to 30: [Turbulence on the Banks of the Arno (2025)](https://indico.sns.it/event/62/ "This workshop focuses on turbulence, covering stochastic models, turbulent flows, and statistical hydrodynamics. Topics include turbulence closure models, stochastic PDEs, and applications in atmospheric and oceanic flows, emphasizing mathematical and computational approaches to turbulent phenomena."), Pisa, Italy.
+
+2025-05-11 to 16: [Oberwolfach Workshop on Mathematical Advances in Geophysical Fluid Dynamics (2025)](https://www.mfo.de/occasion/2520/www_view "This workshop explores geophysical fluid dynamics, focusing on mathematical models for oceanic and atmospheric flows. Topics include turbulence, wave dynamics, and numerical methods for fluid simulations, with applications in climate prediction and weather forecasting, emphasizing computational advancements."), Oberwolfach, Germany.
+
+2025-05-15 to 17: [IUTAM Symposium on Machine Learning in Diverse Fluid Mechanics (2025)](https://iutam-mldfm2025.org/ "Integrates machine learning with fluid mechanics, focusing on data-driven modeling. Topics include turbulence prediction, flow optimization, and applications in aerodynamics and environmental flows."), Okinawa, Japan.
+
+2025-05-26 to 30: [IUTAM Summer School on Gravity Currents in the Environment (2025)](https://iutam.org/events/iutam-summer-school-on-gravity-currents-in-the-environment "Focuses on gravity currents in environmental fluid mechanics. Topics include density-driven flows, numerical modeling, and applications in oceanography, meteorology, and environmental engineering."), Udine, Italy.
+
+2025-06-02 to 13: [YITP International Molecule-Type Workshop on Hydrodynamics of Low-Dimensional Interacting Systems Advances, Challenges, and Future Directions (2025)](https://www.yukawa.kyoto-u.ac.jp/seminar/s53402?lang=en-GB "This workshop explores hydrodynamics in low-dimensional systems, focusing on fluid dynamics, quantum hydrodynamics, and computational modeling. Topics include transport properties, collective modes, and applications in condensed matter, emphasizing theoretical and numerical advancements."), Kyoto, Japan.
+

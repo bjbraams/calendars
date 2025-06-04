@@ -1,0 +1,2 @@
+2025-02-16 to 21: [Oberwolfach Mini-Workshop on New Directions in Correlated Quantum Systems](https://mfo.de/occasion/2508a/www_view "This mini-workshop explores correlated quantum systems, focusing on strongly interacting quantum materials. Topics include quantum phase transitions, topological order, and many-body entanglement. It addresses theoretical models like Hubbard systems and experimental probes, with applications in condensed matter physics and quantum simulation."), Oberwolfach, Germany.
+

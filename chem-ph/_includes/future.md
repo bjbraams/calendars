@@ -1,0 +1,6 @@
+2025-06-04 to 06: [40th Symposium on Chemical Kinetics and Dynamics (SCKD 2025)](http://sckd.jp/40Kobe/index_e.php "SCKD 2025 explores chemical kinetics and dynamics, focusing on reaction mechanisms, quantum chemistry, and molecular dynamics. Topics include transition state theory, photochemical reactions, and applications in catalysis, emphasizing computational and experimental kinetic studies."), Kobe, Japan.
+
+2025-06-08 to 13: [13th International Conference on Chemical Kinetics (ICCK 2025)](https://icck2025.lbl.gov "ICCK 2025 focuses on chemical kinetics, covering reaction mechanisms, computational kinetics, and experimental techniques. Topics include combustion, atmospheric chemistry, and catalysis, with applications in energy and environmental science, emphasizing kinetic modeling advancements."), Lake Tahoe, NV, USA.
+
+2025-08-03 to 08: [37th International Symposium on Free Radicals (FRS 2025)](https://thefrs.org "FRS 2025 focuses on free radical chemistry, covering radical reactions, spectroscopy, and kinetics. Topics include atmospheric chemistry, combustion, and applications in biology and materials, emphasizing experimental and computational studies of free radical dynamics."), Snowbird, UT, USA.
+

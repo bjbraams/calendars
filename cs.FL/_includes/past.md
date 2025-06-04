@@ -1,0 +1,4 @@
+2025-05-03 to 08: [28th International Conference on Fundamental Approaches to Software Engineering (FASE 2025)](https://etaps.org/2025/conferences/fase/ "FASE 2025 focuses on software engineering, covering model-driven development, formal methods, and software testing. Topics include requirements engineering, software synthesis, and applications in embedded systems, emphasizing practical and theoretical approaches to software design."), Hamilton, ON, Canada.
+
+2025-06-02 to 06: [Complexity, Algorithms, Automata and Logic Meet (CAALM 2025)](https://caalm-2025.sciencesconf.org "CAALM 2025 explores complexity, algorithms, automata, and logic, focusing on computational complexity, formal languages, and verification. Topics include automata theory, parameterized algorithms, and applications in software verification, emphasizing theoretical foundations of computational systems."), Villetaneuse, France.
+

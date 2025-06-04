@@ -1,0 +1,2 @@
+2025-05-19 to 22: [Shanks Conference Constructive Functions 2025](https://my.vanderbilt.edu/constructivefunctions2025/ "This conference focuses on constructive functions, covering approximation theory, orthogonal polynomials, and numerical analysis. Topics include function reconstruction, computational harmonic analysis, and applications in signal processing and scientific computing, emphasizing mathematical tools for constructive approximations."), Nashville, TN, USA.
+

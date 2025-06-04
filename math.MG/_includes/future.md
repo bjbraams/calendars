@@ -1,0 +1,2 @@
+2025-10-06 to 10: [Conference on Stochastic and Integral Geometry and Related Fields (2025)](https://sig25.org/ "This conference explores stochastic and integral geometry, covering random sets, geometric probability, and stochastic processes. Topics include applications in image analysis, materials science, and spatial statistics, emphasizing probabilistic and geometric methods for modeling random structures."), Yerevan, Armenia.
+

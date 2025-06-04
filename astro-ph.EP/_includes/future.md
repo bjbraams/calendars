@@ -1,0 +1,2 @@
+2025-06-26 to 29: [Spectroscopy of Exoplanets: Over All Wavelength (2025)](https://exomol.com/activities/conference-spectroscopy-of-exoplanets-over-all-wavelength/ "This conference focuses on exoplanet spectroscopy, covering molecular absorption, emission spectra, and atmospheric modeling. Topics include high-resolution spectroscopy, radiative transfer, and applications in exoplanet characterization, emphasizing spectroscopic techniques across all wavelengths."), Broxbourne, Hertfordshire, UK.
+

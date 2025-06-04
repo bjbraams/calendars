@@ -1,0 +1,22 @@
+2025-06-09 to 13: [15th Serbian Conference on Spectral Line Shapes in Astrophysics (SCSLSA 2025)](http://servo.aob.rs/scslsa/ "SCSLSA 2025 focuses on spectral line shapes in astrophysics, covering plasma diagnostics, radiative transfer, and line broadening. Topics include stellar atmospheres, interstellar media, and applications in astrophysical modeling, emphasizing spectroscopic analysis of plasmas."), Niš, Serbia.
+
+2025-06-22 to 07-03: [Carpathian Summer School of Physics 2025 Exotic Nuclei and Nuclear/Particle Astrophysics (X). Physics With Small Accelerators](https://cssp25.nipne.ro/ "Focuses on exotic nuclei and nuclear/particle astrophysics. Topics include nuclear reactions with small accelerators, rare isotope studies, and astrophysical processes, with emphasis on experimental techniques and theoretical modeling."), Sinaia, Romania.
+
+2025-07-21 to 25: [Helium Burning and Perspectives for Underground Labs (Helium 2025)](https://events.hifis.net/event/2207/ "Helium 2025 focuses on helium burning in nuclear astrophysics, covering stellar nucleosynthesis, reaction rates, and underground experiments. Topics include alpha-capture reactions, applications in cosmology, emphasizing low-background nuclear measurements for astrophysical research."), Dresden, Germany.
+
+2025-07-28 to 08-01: [Astrophysics With Radioactive Isotopes (2025)](https://indico.global/event/5668/ "This conference focuses on radioactive isotopes in astrophysics, covering nucleosynthesis, decay processes, and isotopic abundances. Topics include supernova remnants, cosmic rays, and applications in stellar evolution, emphasizing experimental and theoretical nuclear astrophysical research."), Traverse City, MI, USA.
+
+2025-08-18 to 22: [Workshop on Nuclear Masses in Astrophysics for the Next 25 Years (2025)](https://indico.gsi.de/event/22417/ "This workshop explores nuclear masses in astrophysics, covering mass measurements, nuclear reactions, and nucleosynthesis. Topics include stellar evolution, neutron star physics, and applications in cosmology, emphasizing high-precision nuclear data for astrophysical modeling and simulations."), Darmstadt, Germany.
+
+2025-09-22 to 26: [6th European Nuclear Physics Conference (EuNPC 2025)](https://indico.in2p3.fr/event/30430/ "EuNPC 2025 focuses on nuclear physics, covering nuclear structure, reactions, and astrophysics. Topics include exotic nuclei, nuclear fusion, and applications in energy and cosmology, emphasizing experimental and theoretical advances in nuclear science and technology."), Caen, France.
+
+2025-11-03 to 07: [ECTstar Workshop on Neutron-Capture Reactions for Astrophysical Processes (2025)](https://indico.ectstar.eu/event/246/ "This workshop explores neutron-capture reactions, covering nucleosynthesis, nuclear reaction rates, and astrophysical modeling. Topics include applications in stellar evolution, supernovae, and cosmology, emphasizing experimental and computational studies of nuclear processes in astrophysical environments."), Trento, Italy.
+
+2026-01-19 to 23: [62nd International Winter Meeting on Nuclear Physics (Bormio 2026)](https://bormiomeeting.com/ "Explores advancements in nuclear physics. Topics include nuclear structure, reactions, and astrophysical applications, with a focus on experimental and theoretical developments in nuclear science."), Bormio, Italy.
+
+2026-06-01 to 07: [5th International Conference on Advances in Radioactive Isotope Science 2026 (ARIS 2026)](https://indico.rcnp.osaka-u.ac.jp/event/2571/ "Explores radioactive isotope science. Topics include isotope production, nuclear reactions, and applications in medical physics, astrophysics, and fundamental nuclear research."), Fukushima, Japan.
+
+2026 tbd: [12th Conference on Nuclear Physics in Astrophysics (NPA 2026)](https://members.eps.org/blogpost/739426/News "NPA-XII 2026 focuses on nuclear astrophysics, covering nucleosynthesis, stellar evolution, and nuclear reactions. Topics include applications in supernovae, neutron stars, and cosmology, emphasizing experimental and theoretical studies of nuclear processes in astrophysical environments."), tbd.
+
+2027 tbd: [EPS Nuclear Physics Division European Nuclear Physics Conference (EuNPC 2027)](https://members.eps.org/blogpost/739426/509153/Call-for-bids-European-Nuclear-Physics-Conference-2027-EuNPC-2027 "Explores advancements in nuclear physics. Topics include nuclear structure, reactions, and computational modeling, with applications in particle physics and astrophysics."), tbd. Provisional Link.
+

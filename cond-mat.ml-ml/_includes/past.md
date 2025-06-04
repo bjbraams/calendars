@@ -1,0 +1,2 @@
+2025-05-05 to 08: [CECAM Flagship Workshop Machine Learning for Materials Discovery (ML4MD 2025)](https://sites.utu.fi/ml4md2025/ "ML4MD 2025 focuses on machine learning for materials discovery, covering neural networks for property prediction, generative models, and high-throughput screening. Topics include alloy design, battery materials, and applications in energy technologies Armenian engineering, emphasizing data-driven materials design."), Aalto University, Espoo, Finland.
+

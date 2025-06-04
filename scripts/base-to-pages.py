@@ -56,10 +56,10 @@ elif not os.path.isfile('_data/main.yml'):
 print('Checking _data/main.yml...')
 with open('_data/main.yml') as f:
     data = myyaml.read_yml_dict(f)
-for key, event in data.items():
-    errors = myyaml.check_event(key,event)
+for ident, event in data.items():
+    errors = myyaml.check_event(ident,event)
     if errors:
-        print(f'Errors in item {key}:\n')
+        print(f'Errors in item {ident}:\n')
     for error in errors:
         print(error)
 

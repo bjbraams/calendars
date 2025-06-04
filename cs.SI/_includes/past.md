@@ -1,0 +1,14 @@
+2025-01-14 to 17: [International School and Conference on Network Science (NetSciX 2025)](https://netscix2025.iiti.ac.in "NetSciX 2025 focuses on network science, covering complex networks, graph theory, and their applications. Key topics include social network analysis, biological networks, epidemic modeling, and network dynamics. The event bridges computational methods, statistical physics, and data science to study interconnected systems in sociology, biology, and technology."), Indore, India.
+
+2025-05-12 to 16: [9th Lake Como School Complex Networks Theory, Methods, and Applications](https://ntmi.lakecomoschool.org/ "Covers complex network theory and applications. Topics include network analysis, graph algorithms, and applications in social, biological, and technological systems."), Como, Italy.
+
+2025-05-22 to 23: [2nd International Workshop on Advances in Nonlinear Dynamical Systems, Complex Networks and Applications (DySyX 2025)](https://dysyx2025.sciencesconf.org/ "Explores nonlinear dynamical systems and complex networks. Topics include chaos theory, network dynamics, and applications in physics, biology, and engineering."), Kenitra, Morocco.
+
+2025-06-01 to 05: [8th International Conference on the Dynamics of Information Systems (DIS 2025)](https://dis2025.ujep.cz "DIS 2025 explores dynamics of information systems, focusing on network modeling, data flows, and distributed computing. Topics include information diffusion, cybersecurity, and multi-agent systems, with applications in social media and IoT, emphasizing computational system dynamics."), London, UK.
+
+2025-06-01 to 05: [Workshop on Recent Advances in Evolving and Spatial Random Graphs (2025)](https://sites.google.com/view/bas-lodewijks/workshop-evolving-and-spatial-random-graphs "This workshop focuses on evolving and spatial random graphs, covering dynamic network models, percolation, and spatial point processes. Topics include graph dynamics, random geometric graphs, and applications in epidemiology and telecommunications, emphasizing probabilistic network analysis."), Bayrischzell, Germany.
+
+2025-06-02 to 06: [International School and Conference on Network Science (NetSci 2025)](https://netsci2025.github.io "NetSci 2025 focuses on network science, covering graph algorithms, network dynamics, and optimization. Topics include community detection, epidemic modeling, and network robustness, with applications in social networks and biology, emphasizing computational approaches to complex networks."), Maastricht, The Netherlands.
+
+2025-06-02 to 13: [SLMath Graduate School on Local Limits of Random Graphs (2025)](https://www.slmath.org/summer-schools/1099 "This graduate school focuses on local limits of random graphs, covering graphons, branching processes, and combinatorial probability. Topics include network convergence, random graph models, and applications in social networks, emphasizing probabilistic tools for graph analysis."), Paris, France.
+

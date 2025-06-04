@@ -1,0 +1,2 @@
+2025-08-02: [10th International Workshop on Satisfiability Checking and Symbolic Computation (SC2 2025)](https://www.sc-square.org/CSA/workshop10.html "SC2 2025 focuses on satisfiability checking and symbolic computation, covering SAT solvers, algebraic methods, and constraint solving. Topics include applications in verification, cryptography, and AI, emphasizing computational techniques for symbolic and logical problem-solving."), Stuttgart, Germany.
+

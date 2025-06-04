@@ -1,0 +1,6 @@
+2025-03-06 to 07: [FFG-ESA Workshop on Quantum Satellite Networks (2025)](https://atpi.eventsair.com/qinsq2025/ "Examines quantum satellite networks, covering quantum communication, entanglement distribution, and satellite-based quantum key distribution. Topics include quantum repeaters, network protocols, and applications in secure communication, emphasizing theoretical and experimental developments."), Vienna, Austria.
+
+2025-03-31 to 04-02: [International Conference on Quantum Communications, Networking, and Computing (QCNC 2025)](https://ieee-qcnc.org/2025/ "QCNC 2025 focuses on quantum communications and computing, covering quantum networks, quantum cryptography, and distributed quantum computing. Topics include quantum key distribution, entanglement-based protocols, and quantum internet architectures, emphasizing scalable quantum communication technologies."), Nara, Japan.
+
+2025-05-26 to 29: [International Federation for Information Processing (IFIP) Networking 2025 Conference (NETWORKING 2025)](https://networking.ifip.org/2025/ "NETWORKING 2025 explores network science, focusing on algorithmic design, network optimization, and performance analysis. Topics include routing protocols, network security, and graph-based models, with applications in 5G and IoT, emphasizing computational approaches to network efficiency."), Limassol, Cyprus.
+

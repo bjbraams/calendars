@@ -1,0 +1,2 @@
+2025-06-02 to 06: [Scientific Machine Learning for Gravitational Wave Astronomy (2025)](https://icerm.brown.edu/program/topical_workshop/tw-25-smlgwa "This workshop focuses on machine learning for gravitational wave astronomy, covering neural networks for signal detection and parameter estimation. Topics include deep learning, Bayesian inference, and applications in LIGO data analysis, emphasizing AI-driven astrophysical discoveries."), Providence, RI, USA.
+

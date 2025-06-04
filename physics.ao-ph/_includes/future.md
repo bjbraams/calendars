@@ -1,0 +1,10 @@
+2025-08-03 to 08: [Gordon Research Conference Atmospheric Chemistry: Understanding the Atmosphere via Molecular Processes and Global Impacts (2025)](https://grc.org/atmospheric-chemistry-conference/2025/ "This conference focuses on atmospheric chemistry, covering molecular reactions, aerosol dynamics, and climate impacts. Topics include photochemical processes, air quality modeling, and applications in environmental science, emphasizing experimental and computational atmospheric chemical research."), Newry, ME, USA.
+
+2025-09-01 to 05: [ELLIS Summer School 2025 AI for Earth and Climate Science](https://www.ellis-jena.eu/summer-school-2025/ "Focuses on AI applications in earth and climate science. Topics include machine learning for climate modeling, environmental data analysis, and predictive modeling for sustainability."), Jena, Germany.
+
+2026-05-03 to 08: [European Geophysical Union General Assembly (EGU 2026)](https://www.egu.eu/meetings/calendar/egu/ "EGU 2026 focuses on geophysics, covering seismology, atmospheric science, and Earth system modeling. Topics include climate dynamics, geophysical imaging, and natural hazards, emphasizing computational and experimental methods for understanding Earth's physical processes and environmental challenges."), Vienna, Austria and online.
+
+2027-04-04 to 09: [European Geophysical Union General Assembly (EGU 2027)](https://www.egu.eu/meetings/calendar/egu/ "EGU 2027 focuses on geophysics, covering seismology, climate dynamics, and planetary science. Topics include geophysical modeling, natural hazard assessment, and Earth observation, emphasizing computational and experimental methods for studying Earth\'s systems and processes."), Vienna, Austria and online.
+
+2028-04-23 to 28: [European Geophysical Union General Assembly (EGU 2028)](https://www.egu.eu/meetings/calendar/egu/ "EGU 2028 focuses on geophysics, covering atmospheric science, seismology, and Earth system modeling. Topics include climate change, geophysical imaging, and planetary exploration, emphasizing computational and experimental methods for understanding Earth's physical and environmental systems."), Vienna, Austria and online.
+

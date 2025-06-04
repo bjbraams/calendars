@@ -1,0 +1,4 @@
+2025-04-15 to 18: [12th International Workshop on Warm Dense Matter (WDM 2025)](https://sandia.gov/wdm/ "WDM 2025 explores warm dense matter, focusing on high-pressure plasmas and equation-of-state modeling. Topics include laser-driven experiments, plasma thermodynamics, and computational simulations, with applications in planetary science, inertial fusion, and astrophysics, emphasizing extreme matter states."), Santa Fe, NM, USA.
+
+2025-05-18 to 22: [10th International Conference on the Physics of Dusty Plasmas (ICPDP 2025)](https://icpdp2025.dryfta.com "ICPDP 2025 focuses on dusty plasma physics, covering particle charging, plasma-surface interactions, and dust dynamics. Topics include dusty plasma instabilities, applications in astrophysics, and plasma processing for nanotechnology, emphasizing experimental and theoretical insights into complex plasma systems."), Eindhoven, The Netherlands.
+

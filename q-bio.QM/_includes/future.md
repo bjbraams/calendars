@@ -1,0 +1,8 @@
+2025-06-09 to 13: [Stochastic Reaction Networks Summer School (2025)](https://constrained.polito.it/stochastic-reaction-networks-summer-school/ "This summer school focuses on stochastic reaction networks, covering chemical master equations, Gillespie algorithms, and stochastic modeling. Topics include biochemical networks, epidemic modeling, and applications in systems biology, emphasizing probabilistic simulation techniques."), Torgnon, Italy.
+
+2025-06-16 to 18: [Stochastic Reaction Networks Workshop (2025)](https://constrained.polito.it/stochastic-reaction-networks-workshop/ "This workshop focuses on stochastic reaction networks, covering chemical master equations, stochastic simulations, and Markov processes. Topics include biochemical kinetics, epidemic modeling, and applications in systems biology, emphasizing probabilistic approaches to reaction dynamics."), Torino, Italy.
+
+2025-07-09 to 11: [EuroMech Colloquium 654 on Bio-Inspired Fluid-Structure Interaction (2025)](http://654.euromech.org/ "Explores bio-inspired fluid-structure interactions. Topics include computational modeling of biological systems, flow-structure coupling, and applications in biomechanics and engineering design."), Vienna, Austria.
+
+2025-10-22 to 24: [Bayesian Biostatistics Conference Bayes 2025](https://www.bayes-pharma.org/ "Bayes 2025 explores Bayesian biostatistics, covering Bayesian inference, clinical trial design, and pharmacometrics. Topics include applications in drug development, personalized medicine, and epidemiology, emphasizing statistical methods for handling uncertainty in biomedical research and decision-making."), Leiden, Netherlands.
+

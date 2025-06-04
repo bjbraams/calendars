@@ -1,0 +1,4 @@
+2026-01-04 to 07: [AMS-MAA-SIAM and Other Joint Mathematics Meeting (JMM 2026)](https://jointmathematicsmeetings.org/jmm "Covers a broad range of mathematics, including pure, applied, and computational areas. Topics include algebra, topology, numerical analysis, and mathematical modeling, with applications in science, engineering, and education, emphasizing interdisciplinary collaboration."), Washington, DC, USA.
+
+2026-07-23 to 30: [International Congress of Mathematicians (ICM 2026)](https://icm2026.org "ICM 2026 covers all areas of mathematics, including algebra, geometry, probability, and applied mathematics. Topics include theoretical advances, computational methods, and interdisciplinary applications, emphasizing foundational and cutting-edge developments across mathematical disciplines."), Philadelphia, PA, USA.
+

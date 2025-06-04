@@ -1,0 +1,4 @@
+2025-06-16 to 20: [Conference on Differential Geometry, Analysis and Epistemology in Honor of Marco Rigoli's 70th Birthday (2025)](https://sites.google.com/view/dgaemi25 "Explores differential geometry, analysis, and epistemology. Topics include geometric analysis, PDEs on manifolds, and mathematical philosophy, with applications in physics and geometry."), Milan, Italy.
+
+2025-09-23 to 26: [Young Researchers in Stochastic Analysis and Stochastic Geometric Analysis (2025)](https://www.epfl.ch/labs/stoan/events/future-events/young-researchers-workshop/ "This workshop explores stochastic and geometric analysis, covering stochastic PDEs, random manifolds, and geometric probability. Topics include applications in physics, biology, and data science, emphasizing probabilistic and geometric methods for young researchers in stochastic analysis."), Lausanne, Switzerland.
+

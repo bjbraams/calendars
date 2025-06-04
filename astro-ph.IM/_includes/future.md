@@ -1,0 +1,14 @@
+2025-06-23 to 27: [78th International Symposium on Molecular Spectroscopy (ISMS 2025)](https://isms.illinois.edu "ISMS 2025 focuses on molecular spectroscopy, covering rotational, vibrational, and electronic spectroscopy. Topics include molecular structure, astrophysical molecules, and applications in chemical physics and atmospheric science, emphasizing experimental and computational spectroscopic techniques."), Urbana-Champaign, IL, USA.
+
+2025-08-05 to 08: [COST NanoSpace AI in Astrochemistry Training School 2025](https://ocamm.fi/event/cost-nanospace-ai-in-astrochemistry-training-school-2025 "This training school focuses on AI in astrochemistry, covering machine learning for molecular spectroscopy, reaction networks, and interstellar chemistry. Topics include applications in exoplanet atmospheres and star formation, emphasizing AI-driven computational astrochemistry research."), Espoo, Finland.
+
+2025-08-25 to 29: [29th Colloquium on High-Resolution Molecular Spectroscopy (HRMS 2025)](https://hrms2025.astro.uni-koeln.de/ "HRMS 2025 focuses on high-resolution molecular spectroscopy, covering vibrational and rotational spectra, and quantum chemistry. Topics include applications in astrophysics, atmospheric chemistry, and molecular dynamics, emphasizing precise spectroscopic techniques for molecular structure analysis."), Cologne, Germany.
+
+2025-09-22 to 24: [2nd International School on Atomic and Molecular Data Evaluation and Curation (2025)](https://eventos.uva.es/129130/detail/2nd-international-school-on-atomic-and-molecular-data-evaluation-and-curation.html "This school focuses on atomic and molecular data curation, covering spectral databases, collision data, and plasma modeling. Topics include applications in astrophysics, fusion, and plasma diagnostics, emphasizing computational and experimental methods for accurate data evaluation."), Valladolid, Spain.
+
+2025-11-09 to 13: [35th Annual Astronomical Data Analysis Software and Systems Conference (ADASS 2025)](https://adass.org "ADASS 2025 focuses on astronomical data analysis, covering data processing, visualization, and machine learning. Topics include applications in astrophysics, cosmology, and telescope data management, emphasizing computational tools and algorithms for analyzing large-scale astronomical datasets."), Goerlitz, Germany.
+
+2025-12-09 to 12: [9th Asian Workshop on Molecular Spectroscopy (AWMS 2025)](https://awms-meeting.org/2025/ "AWMS 2025 explores molecular spectroscopy, covering vibrational, rotational, and electronic spectra. Topics include applications in atmospheric chemistry, astrophysics, and materials science, emphasizing experimental and computational techniques for high-resolution molecular structure and dynamics analysis."), Sydney, Australia.
+
+2026 tbd: 14th International Conference on Atomic and Molecular Data and Their Applications (ICAMDATA 2026), tbd.
+

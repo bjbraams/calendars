@@ -1,0 +1,2 @@
+2025-06-09 to 13: [Conference on Free Probability On the Occasion of Roland Speicher's 65th Birthday (2025)](https://www.uni-saarland.de/lehrstuhl/weber-moritz/research/roland65.html "This conference celebrates Roland Speicher’s contributions to free probability, covering operator algebras, random matrices, and non-commutative distributions. Topics include free entropy, applications in quantum information, emphasizing advancements in free probabilistic structures."), Saarbrücken, Germany.
+

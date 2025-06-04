@@ -1,0 +1,2 @@
+2025-03-31 to 04-04: [8th Workshop on Algebraic Complexity Theory (WACT 2025)](https://qi.rub.de/wact "WACT 2025 explores algebraic complexity theory, covering circuit complexity, polynomial identity testing, and algebraic algorithms. Topics include matrix multiplication, tensor decompositions, and applications in cryptography and optimization, emphasizing mathematical foundations of computational efficiency."), Bochum, Germany.
+

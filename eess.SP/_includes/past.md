@@ -1,0 +1,6 @@
+2025-04-08 to 11: [12th International Conference on Computation in Electromagnetics (CEM 2025)](https://cem2025.com/ "CEM 2025 focuses on computational electromagnetics, covering finite element methods, boundary element methods, and high-frequency techniques. Topics include antenna design, electromagnetic scattering, and metamaterials, with applications in telecommunications and radar, emphasizing numerical simulation advancements."), Bruges, Belgium.
+
+2025-05-06 to 09: [16th Iberian Meeting on Computational Electromagnetics (EIEC 2025)](https://eiec.av.it.pt/ "EIEC 2025 focuses on computational electromagnetics, covering numerical methods for Maxwell’s equations, high-frequency techniques, and electromagnetic compatibility. Topics include antenna modeling, wave propagation, and applications in wireless communications, emphasizing advanced computational tools."), Aveiro, Portugal.
+
+2025-05-16 to 20: [IUTAM Symposium on Multiphysics Analysis of Wave Propagation in Electronic Device Structures (2025)](https://iutam.org/symposium/multiphysics-analysis-2025 "Examines multiphysics analysis of wave propagation in electronic devices. Topics include electromagnetic waves, material modeling, and computational methods for device design and performance optimization."), Ningbo, China.
+

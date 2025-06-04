@@ -1,0 +1,4 @@
+2025-08-21 to 23: [8th International Conference on Econometrics and Statistics (EcoSta 2025)](https://www.cmstatistics.org/EcoSta2025/ "EcoSta 2025 focuses on econometrics and statistics, covering time-series analysis, causal inference, and high-dimensional models. Topics include applications in economics, finance, and social sciences, emphasizing statistical methodologies for data-driven economic modeling and analysis."), Tokyo, Japan.
+
+2025-09-19 to 20: [NBER-NSF Time Series Conference 2025](https://econweb.rutgers.edu/nswanson/Main-nbernsf.html "This conference explores time-series analysis, covering stochastic processes, forecasting, and econometrics. Topics include applications in finance, macroeconomics, and environmental modeling, emphasizing probabilistic and statistical methods for analyzing temporal data and stochastic trends."), New Brunswick, NJ, USA.
+

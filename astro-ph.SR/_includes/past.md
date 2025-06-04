@@ -1,0 +1,2 @@
+2025-03-01 to 07: [61st Karpacz Winter School of Theoretical Physics and ChETEC-INFRA Training School 2025 Multi-Messenger Nuclear Astrophysics in the 21st Century](https://events.ift.uni.wroc.pl/event/68/ "Focuses on multi-messenger nuclear astrophysics, covering nucleosynthesis, gravitational waves, and neutrino detection. Topics include nuclear reactions, stellar evolution, and computational modeling, emphasizing interdisciplinary approaches to cosmic phenomena."), Karpacz, Poland.
+

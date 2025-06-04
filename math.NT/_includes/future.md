@@ -1,0 +1,4 @@
+2025-11-09 to 14: [Workshop Arithmetic Statistics for Algebraic Objects (2025)](https://www.mfo.de/occasion/2546/www_view "This workshop explores arithmetic statistics, covering random polynomials, algebraic varieties, and number theory. Topics include applications in cryptography, coding theory, and statistical physics, emphasizing probabilistic methods for analyzing algebraic structures and their statistical properties."), Oberwolfach, Germany.
+
+2026-05-10 to 14: [IACR Eurocrypt 2026](https://eurocrypt.iacr.org/2026/ "Focuses on cryptography, covering encryption algorithms, secure protocols, and quantum cryptography. Topics include privacy-preserving technologies, blockchain, and cryptographic security, emphasizing theoretical and applied advancements in secure computing."), Rome, Italy.
+

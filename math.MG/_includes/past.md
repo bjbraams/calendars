@@ -1,0 +1,2 @@
+2025-05-25 to 30: [BIRS Workshop on Mixtures of Probability and Geometry (2025)](https://www.birs.ca/events/2025/5-day-workshops/25w5361 "This workshop explores probability and geometry, covering random graphs, geometric measure theory, and stochastic geometry. Topics include random tessellations, point processes, and applications in network science and imaging, emphasizing probabilistic models for geometric structures."), Oaxaca, Mexico.
+

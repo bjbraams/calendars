@@ -1,0 +1,8 @@
+2025-06-09 to 13: [15th Conference on the Intersections of Particle and Nuclear Physics (CIPANP 2025)](https://agenda.hep.wisc.edu/event/2257/ "Examines intersections of particle and nuclear physics. Topics include quark-gluon interactions, nuclear structure, and computational methods bridging particle physics and nuclear phenomena."), Madison, WI, USA.
+
+2025-06-16 to 20: [2nd European AI for Fundamental Physics Conference (EuCAIFCon 2025)](https://agenda.infn.it/event/43565/ "EuCAIFCon 2025 explores AI in fundamental physics, focusing on machine learning for particle physics, cosmology, and astrophysics. Topics include neural networks for event reconstruction, anomaly detection, and applications in collider experiments, emphasizing AI-driven physics discoveries."), Cagliari, Italy.
+
+2025-07-01 to 06: [75th International Conference Nucleus-2025 - Nuclear Physics, Elementary Particle Physics, and Nuclear Technologies (2025)](https://indico.spbu.ru/event/1/ "Nucleus-2025 focuses on nuclear and particle physics, covering nuclear reactions, quark-gluon plasma, and accelerator technologies. Topics include nuclear structure, particle detection, and applications in energy and medicine, emphasizing experimental and theoretical advancements."), Saint Petersburg, Russia.
+
+2025-10-27 to 11-01: [16th European Research Conference on Electromagnetic Interactions With Nucleons and Nuclei (EINN 2025)](https://2025.einnconference.org "EINN 2025 focuses on electromagnetic interactions with nucleons and nuclei, covering scattering experiments, nuclear structure, and QCD. Topics include applications in particle physics and astrophysics, emphasizing experimental and theoretical studies of electromagnetic probes in nuclear science."), Paphos, Cyprus.
+

@@ -1,0 +1,2 @@
+2025-03-31 to 04-02: [6th Manchester Multiscale Conference by CCPBioSim and CCP5 (2025)](https://ccpbiosim.ac.uk/multiscale2025 "This conference explores multiscale modeling, focusing on computational methods for biomolecular and materials systems. Topics include coarse-graining, hybrid quantum-classical simulations, and fluid dynamics, with applications in biophysics, drug discovery, and soft matter, emphasizing integrative simulation techniques."), Manchester, UK.
+

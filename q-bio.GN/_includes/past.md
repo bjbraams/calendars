@@ -1,0 +1,2 @@
+2025-02-05: [29th London Stringology Days & London Algorithmic Workshop (LSD & LAW)](https://nms.kcl.ac.uk/informatics/events/LSD&LAW25/ "LSD & LAW 2025 explores stringology and algorithmic techniques. Topics include string matching, data compression, and sequence alignment, alongside broader algorithmic challenges like graph algorithms and combinatorial optimization. The workshop emphasizes theoretical advancements with applications in bioinformatics, text processing, and data science."), London, UK.
+

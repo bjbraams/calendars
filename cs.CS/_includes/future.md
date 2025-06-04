@@ -1,0 +1,2 @@
+2026-10-03 to 08: [29th International School on Low Temperature Plasma Physics: Basics and Applications (2026)](https://www.plasma-school.org/ "This school explores low-temperature plasma physics, covering plasma generation, diagnostics, and applications. Topics include plasma chemistry, surface processing, and industrial applications, emphasizing fundamental principles and computational modeling for advanced material processing and medical applications."), Bad Honnef, Germany.
+
