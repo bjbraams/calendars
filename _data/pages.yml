@@ -237,7 +237,7 @@ math.ST:
   excerpt: Applied, computational and theoretical statistics, e.g. statistical inference, regression, time series, multivariate analysis, data analysis, Markov chain Monte Carlo, design of experiments, case studies
 astro-ph:
   title: Astrophysics
-  excerpt: Astrophysics
+  excerpt: Astrophysics General
 astro-ph.CO:
   title: Cosmology and Nongalactic Astrophysics
   excerpt: 'Phenomenology of early universe, cosmic microwave background, cosmological parameters, primordial element abundances, extragalactic distance scale, large-scale structure of the universe. Groups, superclusters, voids, intergalactic medium. Particle astrophysics: dark energy, dark matter, baryogenesis, leptogenesis, inflationary models, reheating, monopoles, WIMPs, cosmic strings, primordial black holes, cosmological gravitational radiation.'
@@ -258,7 +258,7 @@ astro-ph.SR:
   excerpt: White dwarfs, brown dwarfs, cataclysmic variables. Star formation and protostellar systems, stellar astrobiology, binary and multiple systems of stars, stellar evolution and structure, coronas. Central stars of planetary nebulae. Helioseismology, solar neutrinos, production and detection of gravitational radiation from stellar systems
 cond-mat:
   title: Condensed Matter Physics
-  excerpt: Condensed Matter Physics
+  excerpt: Condensed Matter Physics General
 cond-mat.dis-nn:
   title: Disordered Systems and Neural Networks
   excerpt: Glasses and spin glasses; properties of random, aperiodic and quasiperiodic systems; transport in disordered media; localization; phenomena mediated by defects and disorder; neural networks
