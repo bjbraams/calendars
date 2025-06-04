@@ -6,6 +6,8 @@
 
 2025-02-25 to 28: [TRIUMPH Workshop on Progress in Ab Initio Nuclear Theory (PAINT 2025)](https://indico.triumf.ca/event/608/ "Focuses on ab initio nuclear theory. Topics include quantum many-body methods, computational nuclear structure, and applications in understanding fundamental nuclear interactions and properties."), Vancouver, BC, USA.
 
+2025-02-27 to 28: [Texas Computational Chemistry Symposium 2025](https://texascomputationalchemistrysymposium.weebly.com/ "Focuses on computational chemistry, covering quantum chemistry, molecular dynamics, and electronic structure calculations. Topics include chemical reactivity, biomolecular simulations, and materials design, emphasizing computational tools for chemical and biochemical research."), Denton, TX, USA.
+
 2025-03-02 to 05: [29th Conference on Computer Methods in Materials Technology (KomPlasTech 2025)](https://komplastech.agh.edu.pl/ "KomPlasTech 2025 explores computational methods in materials technology, focusing on finite element methods, molecular dynamics, and multiscale modeling. Topics include material deformation, fracture mechanics, and electromagnetic properties, with applications in metallurgy, composites, and nanotechnology, emphasizing numerical simulations."), Krynica-Zdrój, Poland.
 
 2025-03-03 to 07: [International Conference on Scientific Computing and Machine Learning (SCML 2025)](https://scml.jp "SCML 2025 focuses on scientific computing and machine learning, covering numerical solvers, data-driven modeling, and AI for scientific discovery. Topics include physics-informed neural networks, computational fluid dynamics, and applications in climate modeling and materials science, emphasizing hybrid approaches."), Kyoto, Japan and online.

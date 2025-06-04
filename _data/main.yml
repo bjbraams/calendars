@@ -494,7 +494,7 @@ Texas Computational Chemistry Symposium 2025:
   link: https://texascomputationalchemistrysymposium.weebly.com/
   loc: Denton, TX, USA
   kw: qchem
-  arxiv: physics.chem-ph,comp-ph
+  arxiv: physics.chem-ph,physics.comp-ph
   excerpt: Focuses on computational chemistry, covering quantum chemistry, molecular dynamics, and electronic structure calculations. Topics include chemical reactivity, biomolecular simulations, and materials design, emphasizing computational tools for chemical and biochemical research.
 ACM SIGPLAN Symposium on Principles and Practice of Parallel Programming (PPoPP 2025):
   dd: 2025-03-01 to 05
@@ -2309,7 +2309,7 @@ Quantum Fringe Summer Festival of Quantum Events 2025:
   link: http://sckd.jp/40Kobe/index_e.php
   loc: Kobe, Japan
   kw: qchem
-  arxiv: physics.chem-ph, chem-ph
+  arxiv: physics.chem-ph
   excerpt: SCKD 2025 explores chemical kinetics and dynamics, focusing on reaction mechanisms, quantum chemistry, and molecular dynamics. Topics include transition state theory, photochemical reactions, and applications in catalysis, emphasizing computational and experimental kinetic studies.
 8th International Conference on Computational Modeling of Fracture and Failure of Materials and Structures (CFRAC 2025):
   dd: 2025-06-04 to 06
@@ -2393,7 +2393,7 @@ Objective Bayes Methodology Conference (O'Bayes 2025):
   link: https://icck2025.lbl.gov
   loc: Lake Tahoe, NV, USA
   kw: qchem
-  arxiv: physics.chem-ph, chem-ph
+  arxiv: physics.chem-ph
   excerpt: ICCK 2025 focuses on chemical kinetics, covering reaction mechanisms, computational kinetics, and experimental techniques. Topics include combustion, atmospheric chemistry, and catalysis, with applications in energy and environmental science, emphasizing kinetic modeling advancements.
 22nd Householder Symposium (2025):
   dd: 2025-06-08 to 13
@@ -4521,7 +4521,7 @@ ACM SIGKDD International Conference on Knowledge Discovery and Data Mining (KDD 
   link: https://thefrs.org
   loc: Snowbird, UT, USA
   kw: qmol
-  arxiv: physics.chem-ph,chem-ph
+  arxiv: physics.chem-ph
   excerpt: FRS 2025 focuses on free radical chemistry, covering radical reactions, spectroscopy, and kinetics. Topics include atmospheric chemistry, combustion, and applications in biology and materials, emphasizing experimental and computational studies of free radical dynamics.
 Gordon Research Conference Atmospheric Chemistry (2025):
   dd: 2025-08-03 to 08
