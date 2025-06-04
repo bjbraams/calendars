@@ -1,0 +1,124 @@
+compsci:
+  title: Computational Science
+  excerpt: Computational science theory and applications.
+comp-el:
+  title: Computational Electromagnetics, Elasticity, Seismology and Related
+  excerpt: Computational science in fields dominated by wave equations.
+comp-fd:
+  title: Computational Fluid Dynamics, Kinetic Equations and Multiphysics
+  excerpt: All of the above including applications.
+comp-hp:
+  title: High-Performance Computing
+  excerpt: Includes programming for GPU or TPU for scientific applications.
+comp-in:
+  title: Inverse Problems and Scientific Data Analysis
+  excerpt: Scientific computing for image and signal processing and related fields. Also data assimilation.
+comp-ml:
+  title: Machine Learning in Scientific Computing
+  excerpt: Applied machine learning, model reduction and digital twinning.
+comp-na:
+  title: Classical Numerical Analysis
+  excerpt: Interpolation, approximation, linear and tensor algebra, ordinary and partial differential equations, integral equations, special functions etc.; all except optimization.
+comp-op:
+  title: Numerical Optimization, Operational Research and Control
+  excerpt: Primarily continuous optimization.
+comp-ot:
+  title: Computational Science and Engineering, Other
+  excerpt: Any CSE that does not belong in the more focused comp-* pages.
+comp-qc:
+  title: Quantum Computing for Computational Science
+  excerpt: Quantum computing and quantum algorithms for applications.
+comp-uq:
+  title: Uncertainty Quantification in Scientific Computing
+  excerpt: Uncertainty quantification and related topics.
+cstheory:
+  title: Computer Science Theory
+  excerpt: Theoretical computer science with primary focus on algorithms and complexity, but some broader meetings too.
+cs-al:
+  title: Algorithms and Complexity
+  excerpt: Algorithms, computational complexity, data structures, computational geometry.
+cs-lo:
+  title: Logic in Computer Science
+  excerpt: Logic, formal languages and automata.
+cs-op:
+  title: Computer Science - Optimization
+  excerpt: Discrete and combinatorial optimization, (mixed) integer programming.
+cs-oh:
+  title: Computer Science - Other
+  excerpt: Temporary calendar for events not yet classified.
+cs-qc:
+  title: Computer Science - Quantum Computing
+  excerpt: Algorithms and hardware for quantum computing from the CS perspective
+nuclear:
+  title: Nuclear Structure and Reactions
+  excerpt: Calendar of meetings in the general field of nuclear structure and reactions—nuclear physics and nuclear data for energy and other applications.
+plasma:
+  title: plasma
+  excerpt: Plasma science and applications
+plas-ph:
+  title: Plasma Physics and Fusion Energy Science
+  excerpt: Focused on high-temperature plasma, fusion energy and astrophysical plasma.
+plas-ft:
+  title: Fusion Energy Technology
+  excerpt: Nuclear and magnet technology for nuclear fusion.
+plas-ig:
+  title: Ionized Gases and Plasma Chemistry
+  excerpt: Ionized gases, low-temperature plasma and plasma chemistry.
+plas-am:
+  title: Atomic Processes in Plasma, Warm and Hot Dense Matter
+  excerpt: Atomic and molecular processes in high temperature plasma, warm and hot dense matter.
+plas-pm:
+  title: Plasma-Material Interaction and Related Materials Science
+  excerpt: Plasma-material and particle-surface interactions and related fusion-relevant materials physics.
+stats:
+  title: Statistics, Probability and Stochastics
+  excerpt: Combining the calendars on statistics theory, methodology and computation, machine learning, probability, and stochastics.
+stat-me:
+  title: Statistics - Methodology and Computation
+  excerpt: Selected (major) events in the area described by arXiv codes stat.ME (Methodology) and stat.CO (Computation), including Design, Surveys, Model Selection, Multiple Testing,
+    Smoothing, Spatial Statistics, Survival Analysis, Nonparametric and Semiparametric Methods, Algorithms, Simulation, Visualization. (Maybe also Signal and Image Processing, Time Series?)
+    (I tend to assign to stat-th before stat-me.)
+stat-ml:
+  title: Statistics - Machine Learning Theory
+  excerpt: Meetings in the general area described by arXiv code stat-ml, including supervised, unsupervised, semi-supervised learning, graphical models, reinforcement learning, bandits, high dimensional inference, etc.
+stat-th:
+  title: Statistics - Theory
+  excerpt: Meetings in the general area described by arXiv code stat-th, including Foundations, Asymptotics, Testing, Estimation, Regression, Bayesian and Frequentist Inference, Decision Theory.
+stat-ot:
+  title: Statistics - Other
+  excerpt: Probability and statistics meetings focused on applications or otherwise not classified elsewhere.
+prob:
+  title: Probability Theory
+  excerpt: Foundations, probability on algebraic, combinatorial and geometric structures, distributions, asymptotics.
+    Random matrix theory, percolation theory and statistical physics of spin systems is classified under probability.
+stoch:
+  title: Stochastic Processes
+  excerpt: Key words include stochastic processes, stochastic analysis, stochastic differential equations, stochastic dynamics, spatial stochastics, stochastic geometry, martingales,
+    Markov processes, Lévy Processes, Brownian motion, queuing theory.
+qchem:
+  title: Quantum Chemistry
+  excerpt: Calendar in progress.
+qmat:
+  title: Quantum Materials
+  excerpt: Calendar in progress.
+qmol:
+  title: Quantum Molecules
+  excerpt: Calendar in progress.
+qsde:
+  title: Quantum Structure and Dynamics Electronic
+  excerpt: Calendar in progress.
+qsdm:
+  title: Quantum Structure and Dynamics Material
+  excerpt: Calendar in progress.
+light:
+  title: Plasma Light Sources
+  excerpt: Calendar in progress; to be delimited or abandoned.
+spintronics:
+  title: Spintronics
+  excerpt: Spintronics and related control.
+ultrafast:
+  title: Ultrafast Quantum Physics
+  excerpt: Electron dynamics, intense light, quantum optics.
+tbd:
+  title: To be Determined
+  excerpt: Anything not yet Classified.
