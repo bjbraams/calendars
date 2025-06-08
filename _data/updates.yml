@@ -2718,7 +2718,7 @@
 "High Precision X-ray Measurements 2025":
   dd: "2025-06-09 to 2025-06-13"
   name: "High Precision X-ray Measurements 2025"
-  link: "https://hpxm2025.br/
+  link: https://hpxm2025.br/
   loc: "Frascati, Italy"
   arxiv: "physics.ins-det, astro-ph.IM"
   excerpt: "HPXM 2025 focuses on high-precision X-ray measurements, exploring astrophysical and laboratory applications. Topics include X-ray spectroscopy, detector calibration, and synchrotron techniques. Discussions cover advancements in X-ray telescopes and particle physics experiments."
