@@ -1,0 +1,1211 @@
+# ACM Conferences. Source: https://dl.acm.org/conferences/upcoming?pageSize=120
+"MobiSys '26: The 24th Annual International Conference on Mobile Systems, Applications and Services": None
+"Programming '26: The International Conference on the Art, Science, and Engineering of Programming": None
+"ICSE '26: The 48th International Conference on Software Engineering": None
+"SAC '26: The 41st ACM/SIGAPP Symposium On Applied Computing": None
+"ACM/IEEE 28th International Conference on Model Driven Engineering Languages and Systems": None
+ACM Multimedia 2025: https://2025.acmmm.org/
+ACM Symposium on Virtual Reality Software and Technology: None
+"AImpact'25: The 3rd International Conference on AI in Business, Industry, and Government": None
+APSys 2025: The 16th ACM SIGOPS Asia-Pacific Workshop on Systems: None
+ARES 2025: The 20th International Conference on Availability, Reliability and Security: https://www.ares-conference.eu/
+AutomotiveUI '25: 17th International Conference on Automotive User Interfaces and Interactive Vehicular Applications: https://www.auto-ui.org/25/
+BuildSys 2025: The 12th ACM International Conference on Systems for Energy-Efficient Buildings, Cities, and Transportation: None
+CCGrid 2025: The 25th IEEE/ACM International Symposium on Cluster, Cloud and Internet Computing: https://fcrc25.acm.org/conferences/ccgrid/
+CHI '25: The ACM CHI Conference on Human Factors in Computing Systems: https://chi2025.acm.org/
+CIKM 2025: The 34th ACM International Conference on Information and Knowledge Management: https://cikm2025.org/
+CoG 2025: The IEEE Conference on Games: None
+CUI 2025: 7th ACM Conference on Conversational User Interfaces: https://cui.acm.org/2025/
+DocEng 2025: The 25th ACM Symposium on Document Engineering: None
+EICS 2025: The 17th ACM SIGCHI Symposium on Engineering Interactive Computing Systems: None
+ETRA 2025: ACM Symposium on Eye Tracking Research & Applications: None
+FSE 2025: The 33rd ACM SIGSOFT International Symposium on the Foundations of Software Engineering: None
+HRI '25: The 20th Annual ACM/IEEE International Conference on Human-Robot Interaction: https://humanrobotinteraction.org/
+ICCAD 2025: The IEEE/ACM International Conference on Computer-Aided Design: None
+ICPE 2025: The 16th ACM/SPEC International Conference on Performance Engineering: https://icpe2025.spec.org/
+IMX 2025: The ACM International Conference on Interactive Media Experiences: None
+ISCA 2025: The 52nd ACM/IEEE International Symposium on Computer Architecture: https://iscaconf.org/isca2025/
+Middleware 2025: The 26th ACM/IFIP International Middleware Conference: None
+MobileHCI 2025: The 27th International Conference on Human-Computer Interaction with Mobile Devices and Services: None
+RecSys 2025: The 19th ACM Conference on Recommender Systems: https://recsys.acm.org/recsys25/
+ACM CCS '25: The ACM Conference on Computer and Communications Security: https://www.sigsac.org/ccs/CCS2025/
+SIGCSE TS 2025: The 56th ACM Technical Symposium on Computer Science Education: https://sigcse2025.sigcse.org/
+SIGGRAPH 2025: None
+SIGIR 2025: The 48th International ACM SIGIR Conference on Research and Development in Information Retrieval: https://sigir2025.github.io/
+SIGSPATIAL 2025: The 33rd ACM SIGSPATIAL International Conference on Advances in Geographic Information Systems: None
+SPLASH 2025: The ACM SIGPLAN International Conference on Software Language Engineering: None
+"Supercomputing '25: The International Conference for High Performance Computing, Networking, Storage, and Analysis": https://sc25.supercomputing.org/
+UIST 2025: The 38th Annual ACM Symposium on User Interface Software and Technology: https://uist.acm.org/uist2025/
+VRCAI 2025: The 20th ACM SIGGRAPH International Conference on Virtual-Reality Continuum and its Applications in Industry: None
+Web3D 2025: The 30th International ACM Conference on 3D Web Technology: None
+"HotNets 2025: Twenty-Fourth ACM Workshop on Hot Topics in Networks": None
+"ICMI '25: International Conference on Multimodal Interaction": None
+ACM SIGAda's High Integrity Language Technology International Workshop on Model-Based Development and Contract-Based Programming: None
+"ACM SIGPLAN/SIGBED International Conference on Languages, Compilers, and Tools for Embedded Systems": None
+ACM Symposium on Applied Perception: None
+"ASSETS '25: The 27th International ACM SIGACCESS Conference on Computers and Accessibility": None
+"BuildSys '25: The 12th ACM International Conference on Systems for Energy-Efficient Built Environments": None
+"CoNEXT '25: The 21st International Conference on emerging Networking EXperiments and Technologies": None
+"GROUP '25: The 2025 ACM International Conference on Supporting Group Work": None
+"ICGSE '25: The 20th International Conference on Global Software Engineering": None
+"IUI '25: The 30th International Conference on Intelligent User Interfaces": https://iui.acm.org/2025/
+"MobiCom '25: The 31st Annual International Conference on Mobile Computing and Networking": None
+"SenSys '25: The 23rd ACM Conference on Embedded Networked Sensor Systems": None
+"HotMobile '26: The 27th International Workshop on Mobile Computing Systems and Applications": None
+"ICPE '26: The 17th ACM/SPEC International Conference on Performance Engineering": None
+"MobiSys '25: The 23rd Annual International Conference on Mobile Systems, Applications and Services": https://www.sigmobile.org/mobisys/2025/
+"PACT '25: The 34th International Conference on Parallel Architectures and Compilation Techniques": None
+"SIGMETRICS '26: International Conference on Measurement and Modeling of Computer Systems": None
+"ICCAD '26: The IEEE/ACM International Conference on Computer-Aided Design": None
+"ISSTA '25: The ACM SIGSOFT International Symposium on Software Testing and Analysis": None
+"Middleware '26: The 27th ACM/IFIP International Middleware Conference": None
+"MobileHCI '26: The 28th International Conference on Human-Computer Interaction with Mobile Devices and Services": None
+"RecSys '26: The 20th ACM Conference on Recommender Systems": None
+"SenSys '26: The 24th ACM Conference on Embedded Networked Sensor Systems": None
+"SIGSPATIAL '26: The 34th ACM SIGSPATIAL International Conference on Advances in Geographic Information Systems": None
+"SOSP '25: The 30th ACM Symposium on Operating Systems Principles": None
+"UIST '26: The 39th Annual ACM Symposium on User Interface Software and Technology": None
+"VRST '26: The 32nd ACM Symposium on Virtual Reality Software and Technology": None
+"Web3D '26: The 31st International ACM Conference on 3D Web Technology": None
+"CHI '26: The ACM CHI Conference on Human Factors in Computing Systems": None
+"CIKM '26: The 35th ACM International Conference on Information and Knowledge Management": None
+"FSE '26: The 34th ACM SIGSOFT International Symposium on the Foundations of Software Engineering": None
+"HRI '26: The 21st Annual ACM/IEEE International Conference on Human-Robot Interaction": None
+"IMX '26: The ACM International Conference on Interactive Media Experiences": None
+"ISCA '26: The 53rd ACM/IEEE International Symposium on Computer Architecture": None
+"SIGIR '26: The 49th International ACM SIGIR Conference on Research and Development in Information Retrieval": None
+"SPLASH '26: The ACM SIGPLAN International Conference on Software Language Engineering": None
+"Supercomputing '26: The International Conference for High Performance Computing, Networking, Storage, and Analysis": None
+"AImpact'26: The 4th International Conference on AI in Business, Industry, and Government": None
+"ARES '26: The 21st International Conference on Availability, Reliability and Security": None
+"AutomotiveUI '26: The 18th International Conference on Automotive User Interfaces and Interactive Vehicular Applications": None
+"CCGrid '26: The 26th IEEE/ACM International Symposium on Cluster, Cloud and Internet Computing": None
+"CoG '26: The IEEE Conference on Games": None
+"CUI '26: The 8th ACM Conference on Conversational User Interfaces": None
+"DocEng '26: The 26th ACM Symposium on Document Engineering": None
+"EICS '26: The 18th ACM SIGCHI Symposium on Engineering Interactive Computing Systems": None
+"ETRA '26: ACM Symposium on Eye Tracking Research & Applications": None
+"GROUP '26: The 2026 ACM International Conference on Supporting Group Work": None
+"ICGSE '26: The 21st International Conference on Global Software Engineering": None
+"IUI '26: The 31st International Conference on Intelligent User Interfaces": None
+"PACT '26: The 35th International Conference on Parallel Architectures and Compilation Techniques": None
+"SIGCSE TS '26: The 57th ACM Technical Symposium on Computer Science Education": None
+"SIGGRAPH '26: The 53rd International Conference and Exhibition on Computer Graphics and Interactive Techniques": None
+"VRCAI '26: The 21st ACM SIGGRAPH International Conference on Virtual-Reality Continuum and its Applications in Industry": None
+"ASSETS '26: The 28th International ACM SIGACCESS Conference on Computers and Accessibility": None
+"HotNets '26: The 25th ACM Workshop on Hot Topics in Networks": None
+"ICMI '26: International Conference on Multimodal Interaction": None
+"BuildSys '26: The 13th ACM International Conference on Systems for Energy-Efficient Built Environments": None
+"CoNEXT '26: The 22nd International Conference on emerging Networking EXperiments and Technologies": None
+"HotMobile '27: The 28th International Workshop on Mobile Computing Systems and Applications": None
+"ISSTA '26: The ACM SIGSOFT International Symposium on Software Testing and Analysis": None
+"SIGMETRICS '27: International Conference on Measurement and Modeling of Computer Systems": None
+"ICPE '27: The 18th ACM/SPEC International Conference on Performance Engineering": None
+"ICCAD '27: The IEEE/ACM International Conference on Computer-Aided Design": None
+"MobiCom '26: The 32nd Annual International Conference on Mobile Computing and Networking": None
+"SenSys '27: The 25th ACM Conference on Embedded Networked Sensor Systems": None
+"SOSP '27: The 31st ACM Symposium on Operating Systems Principles": None
+"UIST '27: The 40th Annual ACM Symposium on User Interface Software and Technology": None
+"VRST '27: The 33rd ACM Symposium on Virtual Reality Software and Technology": None
+"Web3D '27: The 32nd International ACM Conference on 3D Web Technology": None
+"CHI '27: The ACM CHI Conference on Human Factors in Computing Systems": None
+"CIKM '27: The 36th ACM International Conference on Information and Knowledge Management": None
+"FSE '27: The 35th ACM SIGSOFT International Symposium on the Foundations of Software Engineering": None
+"HRI '27: The 22nd Annual ACM/IEEE International Conference on Human-Robot Interaction": None
+"IMX '27: The ACM International Conference on Interactive Media Experiences": None
+"ISCA '27: The 54th ACM/IEEE International Symposium on Computer Architecture": None
+"SIGIR '27: The 50th International ACM SIGIR Conference on Research and Development in Information Retrieval": None
+"SPLASH '27: The ACM SIGPLAN International Conference on Software Language Engineering": None
+"Supercomputing '27: The International Conference for High Performance Computing, Networking, Storage, and Analysis": None
+"CVMP '24: European Conference on Visual Media Production": https://www.cvmp-conference.org/2024/
+
+# American Geophysical Union (AGU)
+"AGU25 Annual Meeting": https://www.agu.org/annual-meeting
+"Ocean Sciences Meeting 2026": None
+
+# American Mathematical Society (AMS)
+"Joint Mathematics Meetings 2026": https://www.ams.org/meetings/jointmath/2026
+"AMS Short Course: Recent Advances in Mathematical Fluid Dynamics": None
+
+# American Nuclear Society (ANS)
+"2025 Annual Meeting": https://www.ans.org/meetings/am2025/
+"2025 Winter Meeting and Technology Expo": https://www.ans.org/meetings/wm2025/
+"Utility Working Conference and Vendor Technology Expo 2025": https://www.ans.org/meetings/uwc2025/
+"International Conference on Physics of Reactors 2026": None
+
+# American Physical Society (APS)
+"APS March Meeting 2026": https://www.aps.org/meetings/march/
+"APS April Meeting 2026": https://www.aps.org/meetings/april/
+"APS April Meeting 2027": None
+
+# American Statistical Association (ASA)
+"Joint Statistical Meetings 2025": https://ww2.amstat.org/meetings/jsm/2025/
+"Conference on Statistical Practice 2026": None
+
+# Association of Asia Pacific Physical Societies Division of Plasma Physics (AAPPSDPPF)
+"AAPPS-DPP 2025": https://www.aappsdpp.org/AAPPSDPPF/2025.html
+
+# Bernoulli Society for Mathematical Statistics and Probability
+"Bernoulli-IMS 11th World Congress in Probability and Statistics": https://www.worldcong2024.org/
+"16th Latin American Congress on Probability and Mathematical Statistics": None
+
+# Centre Européen De Calcul Atomique Et Moléculaire (CECAM)
+"CECAM School: Computational Methods for Active Matter": https://www.cecam.org/workshop-details/computational-methods-for-active-matter-1285
+"CECAM Workshop: Active Matter - Where We Are and Where To Go Next": https://www.cecam.org/workshop-details/active-matter-where-we-are-and-where-to-go-next-1284
+"CECAM Workshop: Computational Catalysis from Classical to Quantum Methods": https://www.cecam.org/workshop-details/computational-catalysis-from-classical-to-quantum-methods-1283
+"CECAM Workshop: Computational Methods for Electrochemical Interfaces": https://www.cecam.org/workshop-details/computational-methods-for-electrochemical-interfaces-1282
+"CECAM Workshop: Data-Driven Simulations of Biomolecules and Materials": https://www.cecam.org/workshop-details/data-driven-simulations-of-biomolecules-and-materials-1281
+"CECAM School: Machine Learning for Chemistry": https://www.cecam.org/workshop-details/machine-learning-for-chemistry-1280
+"CECAM Workshop: Quantum Dynamics in Complex Environments": https://www.cecam.org/workshop-details/quantum-dynamics-in-complex-environments-1279
+"CECAM Workshop: Computational Approaches for NMR": https://www.cecam.org/workshop-details/computational-approaches-for-nmr-1278
+"CECAM Workshop: Modeling Electrochemical Energy Storage at the Atomic Scale": https://www.cecam.org/workshop-details/modeling-electrochemical-energy-storage-at-the-atomic-scale-1277
+"CECAM Workshop: Open Science and Reproducibility in Computational Science": https://www.cecam.org/workshop-details/open-science-and-reproducibility-in-computational-science-1276
+
+# European Physical Society (EPS)
+"EPS Forum 2026": None
+"53rd EPS Conference on Plasma Physics": None
+
+# IEEE Computer Society
+"IEEE International Conference on Software Engineering 2025": https://conf.researchr.org/home/icse-2025
+"IEEE Virtual Reality 2025": https://ieeevr.org/2025/
+"IEEE International Symposium on High-Performance Computer Architecture 2025": https://hpca-conf.org/2025/
+"IEEE International Conference on Data Engineering 2025": https://icde2025.github.io/
+"IEEE International Conference on Software Testing, Verification and Validation 2025": https://icst2025.saarland-informatics-campus.de/
+"IEEE International Symposium on Hardware Oriented Security and Trust 2025": https://hostsymposium.org/
+"IEEE International Conference on Computer Vision 2025": https://iccv2025.thecvf.com/
+"IEEE International Symposium on Biomedical Imaging 2025": https://biomedicalimaging.org/2025/
+
+# IEEE Information Theory Society
+"2025 IEEE International Symposium on Information Theory": https://2025.ieee-isit.org/
+"2026 IEEE International Symposium on Information Theory": None
+"2025 Information Theory Workshop": None
+
+# IEEE Nuclear and Plasma Sciences Society
+"2025 IEEE Nuclear Science Symposium, Medical Imaging Conference and Room-Temperature Semiconductor Detectors": https://nssmic.ieee-npss.org/2025/
+"2026 IEEE Symposium on Radiation Measurements and Applications": None
+"2026 IEEE Nuclear Science Symposium, Medical Imaging Conference and Room-Temperature Semiconductor Detectors": None
+"2027 IEEE Pulsed Power Conference and Symposium on Fusion Engineering": None
+
+# IEEE Signal Processing Society
+"IEEE ICASSP 2026": https://2026.ieeeicassp.org/
+"IEEE ICIP 2025": https://2025.ieeeicip.org/
+"IEEE International Workshop on Machine Learning for Signal Processing 2025": https://mlsp2025.org/
+"IEEE GlobalSIP 2025": https://2025.ieeeglobalsip.org/
+"IEEE International Conference on Acoustics, Speech and Signal Processing 2025": https://2025.ieeeicassp.org/
+
+# Institute for Operations Research and the Management Sciences (INFORMS)
+"2025 INFORMS Annual Meeting": https://meetings.informs.org/wordpress/2025annual/
+"2026 INFORMS Annual Meeting": None
+
+# Institute of Electrical and Electronics Engineers (IEEE)
+"IEEE International Solid-State Circuits Conference 2026": https://www.isscc.org/
+"IEEE World Congress on Computational Intelligence 2026": https://wcci2026.org/
+"IEEE International Conference on Robotics and Automation 2025": https://www.icra2025.org/
+"IEEE International Symposium on Antennas and Propagation 2025": https://2025apsursi.org/
+"IEEE International Conference on Communications 2025": https://icc2025.ieee-icc.org/
+"IEEE International Symposium on Circuits and Systems 2025": https://iscas2025.org/
+"IEEE International Conference on Power Electronics and Drive Systems 2025": https://www.ieee-peds.org/
+"IEEE International Symposium on Information Theory 2025": https://2025.ieee-isit.org/
+"IEEE International Conference on Computer Vision 2025": https://iccv2025.thecvf.com/
+"IEEE International Symposium on Biomedical Imaging 2025": https://biomedicalimaging.org/2025/
+
+# Institute of Mathematical Statistics (IMS)
+"Bernoulli-IMS 11th World Congress in Probability and Statistics": https://www.worldcong2024.org/
+"IMS Annual Meeting 2026": None
+
+# International Federation for Information Processing (IFIP)
+"19th IFIP WG 6.11 Conference on e-Business, e-Services, and e-Society": https://i3e2025.ugent.be/
+"IFIP Networking 2025": https://networking2025.unipi.it/
+"IFIP/IEEE International Symposium on Integrated Network Management 2025": https://im2025.ieee-im.org/
+
+# International Society for Bayesian Analysis (ISBA)
+"ISBA 2025": None
+"ISBA 2026": None
+
+# International Statistical Institute (ISI)
+"64th ISI World Statistics Congress": https://www.isi2025.org/
+
+# International Union of Pure and Applied Chemistry (IUPAC)
+"18th International Congress on Catalysis": https://icc2024.org/
+"26th International Symposium on Photochemistry": None
+"IUPAC World Chemistry Congress 2025": https://iupac2025.org/
+"16th IUPAC International Congress of Crop Protection Chemistry": None
+"22nd International Symposium on Organometallic Chemistry Directed Towards Organic Synthesis": None
+
+# International Union of Theoretical and Applied Mechanics (IUTAM)
+"IUTAM Symposium on Data-driven nonlocal mechanics and applications": https://iutam.org/event/iutam-symposium-on-data-driven-nonlocal-mechanics-and-applications/
+"IUTAM Symposium on Fluid-structure interaction in biology and engineering": https://iutam.org/event/iutam-symposium-on-fluid-structure-interaction-in-biology-and-engineering/
+
+# Mathematical Optimization Society
+"International Conference on Stochastic Programming 2025": https://icsp2025.org/
+
+# Psi-K Funded Workshops
+"Quantum Monte Carlo at the Frontier of Many-Body Physics": https://psi-k.net/workshops/quantum-monte-carlo-at-the-frontier-of-many-body-physics/
+"Computational Modelling of Energy Materials": https://psi-k.net/workshops/computational-modelling-of-energy-materials/
+"New trends in topological electronic structure": https://psi-k.net/workshops/new-trends-in-topological-electronic-structure/
+
+# Society for Industrial and Applied Mathematics (SIAM)
+"SIAM Conference on Applied Linear Algebra 2025": https://www.siam.org/conferences/cm/conference/la25
+"SIAM Conference on Optimization 2025": https://www.siam.org/conferences/cm/conference/op25
+"SIAM Annual Meeting 2026": None
+"SIAM Conference on Computational Science and Engineering 2027": None
+"SIAM Conference on Discrete Mathematics 2026": None
+
+# The American Society of Mechanical Engineers (ASME)
+"ASME Turbo Expo 2025": https://event.asme.org/Turbo-Expo
+"ASME International Mechanical Engineering Congress and Exposition 2025": https://event.asme.org/IMECE
+"ASME Fluids Engineering Division Summer Meeting 2025": https://event.asme.org/FEDSM
+
+# American Institute of Mathematics (AIM)
+"Arithmetic Statistics and Local-Global Principles": https://aimath.org/workshops/upcoming/arithmeticstats/
+"p-adic Arithmetic Geometry": https://aimath.org/workshops/upcoming/padicgeometry/
+"Random Matrix Theory and Applications": https://aimath.org/workshops/upcoming/randommatrices/
+"Workshop on Combinatorial Designs": https://aimath.org/workshops/upcoming/combdesigns/
+"Workshop on Mathematical Biology": https://aimath.org/workshops/upcoming/mathbio/
+
+# Asia Pacific Center for Theoretical Physics (APCTP)
+"2024 Summer School on Numerical Relativity and Gravitational Waves": https://www.apctp.org/activities/01.php?id=2024summer
+"ANPhA Board Meeting and Symposium 2024": None
+
+# Aspen Center for Physics (ACP) Winter Conferences
+"Physics and Astrophysics of Neutrino-Dense Environments": https://aspenphys.org/winter-conferences/neutrino2025/
+"Paving the Way to New Discoveries in Particle Physics": https://aspenphys.org/winter-conferences/particle2025/
+"Generalized Symmetries and Defects in QFT and Gravity": https://aspenphys.org/winter-conferences/qft2025/
+
+# Aspen Center for Physics (ACP) Summer Workshops
+"Bootstrap, Holography & Swampland: Imprint of UV principles on IR physics": https://aspenphys.org/summer-workshops/bootstrap2025/
+"Quantum Materials Research": https://aspenphys.org/summer-workshops/quantum2025/
+
+# Banff International Research Station (BIRS)
+"New Trends in Arithmetic Combinatorics and Related Fields": https://www.birs.ca/events/2025/5-day-workshops/25w5123
+"Free Probability, Random Matrices and Finite-Dimensional Approximations": https://www.birs.ca/events/2025/5-day-workshops/25w5124
+"Proof Representations: From Theory to Applications": https://www.birs.ca/events/2025/5-day-workshops/25w5125
+"Structure Preserving Schemes for Complex Nonlinear Systems": https://www.birs.ca/events/2025/5-day-workshops/25w5126
+"MJO Predictability: Its Sources and Limits": https://www.birs.ca/events/2025/5-day-workshops/25w5127
+
+# Centre De Recherches Mathématiques (CRM)
+"Workshop on Random Matrix Theory": https://www.crmath.ca/en/activities/workshop-random-matrix-2025/
+"Thematic Program on Representation Theory": https://www.crmath.ca/en/activities/representation-theory-2025/
+"Conference on Applied Probability": https://www.crmath.ca/en/activities/applied-probability-2025/
+
+# Centre International De Rencontres Mathématiques (CIRM)
+"Conference on Dynamics and Geometry": https://www.cirm-math.com/conference-dynamics-geometry-2025.html
+"Workshop on Machine Learning and PDEs": https://www.cirm-math.com/workshop-machine-learning-pdes-2025.html
+"School on Number Theory": https://www.cirm-math.com/school-number-theory-2025.html
+"Conference on Algebraic Topology": https://www.cirm-math.com/conference-algebraic-topology-2025.html
+"Workshop on Stochastic Processes": https://www.cirm-math.com/workshop-stochastic-processes-2025.html
+"School on Mathematical Physics": https://www.cirm-math.com/school-mathematical-physics-2025.html
+"Conference on Differential Equations": https://www.cirm-math.com/conference-differential-equations-2025.html
+"Workshop on Computational Mathematics": https://www.cirm-math.com/workshop-computational-mathematics-2025.html
+"School on Combinatorics": https://www.cirm-math.com/school-combinatorics-2025.html
+"Conference on Geometric Analysis": https://www.cirm-math.com/conference-geometric-analysis-2025.html
+
+# Centro Di Ricerca Matematica Ennio De Giorgi (CRM), Pisa
+"Workshop on Geometric Analysis": https://crmdegiorgi.sns.it/events/geometric-analysis-2025/
+"Conference on Algebraic Geometry": https://crmdegiorgi.sns.it/events/algebraic-geometry-2025/
+
+# Dagstuhl – Leibniz Center for Informatics
+"Algorithms for Dynamic Graphs": https://www.dagstuhl.de/en/seminars/seminar-calendar/25101
+"Formal Methods for Machine Learning": https://www.dagstuhl.de/en/seminars/seminar-calendar/25102
+"Privacy-Preserving Data Analysis": https://www.dagstuhl.de/en/seminars/seminar-calendar/25103
+"Semantics of Probabilistic Programs": https://www.dagstuhl.de/en/seminars/seminar-calendar/25104
+"Quantum Computing for Algorithms": https://www.dagstuhl.de/en/seminars/seminar-calendar/25105
+"Data Structures for Modern Hardware": https://www.dagstuhl.de/en/seminars/seminar-calendar/25106
+"Computational Geometry": https://www.dagstuhl.de/en/seminars/seminar-calendar/25107
+"Machine Learning for Cybersecurity": https://www.dagstuhl.de/en/seminars/seminar-calendar/25108
+
+# Erwin Schrödinger International Institute (ESI)
+"Quantum Information and Quantum Many-Body Systems": https://www.esi.ac.at/events/workshops/quantum-information-2025
+"Mathematical General Relativity": https://www.esi.ac.at/events/workshops/general-relativity-2025
+"Workshop on String Theory": https://www.esi.ac.at/events/workshops/string-theory-2025
+
+# Fields Institute
+"Workshop on Combinatorial Optimization": http://www.fields.utoronto.ca/activities/workshops/combinatorial-optimization-2025
+"Conference on Quantum Information": http://www.fields.utoronto.ca/activities/conferences/quantum-information-2025
+"Workshop on Mathematical Finance": http://www.fields.utoronto.ca/activities/workshops/mathematical-finance-2025
+"School on Applied Mathematics": http://www.fields.utoronto.ca/activities/workshops/applied-mathematics-2025
+
+# Gordon Research Conferences (GRC) and Schools (GRS)
+"GRC on Chemical Physics": https://www.grc.org/chemical-physics-conference/2025/
+"GRS on Computational Biology": https://www.grc.org/computational-biology-school/2025/
+"GRC on Materials Science": https://www.grc.org/materials-science-conference/2025/
+"GRS on Quantum Mechanics": https://www.grc.org/quantum-mechanics-school/2025/
+"GRC on Biophysics": https://www.grc.org/biophysics-conference/2025/
+"GRS on Statistical Physics": https://www.grc.org/statistical-physics-school/2025/
+"GRC on Astrophysics": https://www.grc.org/astrophysics-conference/2025/
+"GRS on Number Theory": https://www.grc.org/number-theory-school/2025/
+"GRC on Fluid Dynamics": https://www.grc.org/fluid-dynamics-conference/2025/
+"GRS on Machine Learning": https://www.grc.org/machine-learning-school/2025/
+
+# Institut Des Hautes Études Scientifiques (IHES)
+"Conference on Number Theory": https://www.ihes.fr/en/events/number-theory-2025/
+"Workshop on String Theory": https://www.ihes.fr/en/events/string-theory-2025/
+
+# Institute for Advanced Study (IAS) School of Mathematics
+"Workshop on Arithmetic Geometry": https://www.ias.edu/math/workshops/arithmetic-geometry-2025
+"Program on Number Theory": https://www.ias.edu/math/workshops/number-theory-2025
+"Workshop on Mathematical Physics": https://www.ias.edu/math/workshops/mathematical-physics-2025
+
+# Institute for Computational and Experimental Research in Mathematics (ICERM)
+"Workshop on Machine Learning in Mathematics": https://icerm.brown.edu/programs/ml-mathematics-2025/
+"Topical Program on Dynamical Systems": https://icerm.brown.edu/programs/dynamical-systems-2025/
+"Workshop on Computational Geometry": https://icerm.brown.edu/programs/computational-geometry-2025/
+"School on Applied Probability": https://icerm.brown.edu/programs/applied-probability-2025/
+"Conference on Data Science": https://icerm.brown.edu/programs/data-science-2025/
+
+# Institute for Mathematical and Statistical Innovation (IMSI)
+"Workshop on Statistical Modeling": https://www.imsi.institute/events/statistical-modeling-2025/
+"Program on Data Science": https://www.imsi.institute/events/data-science-2025/
+"Workshop on Mathematical Optimization": https://www.imsi.institute/events/mathematical-optimization-2025/
+
+# Institute for Pure & Applied Mathematics (IPAM) Long Programs
+"Long Program on Mathematical Biology": https://www.ipam.ucla.edu/programs/long-programs/mathematical-biology-2025/
+"Long Program on Quantum Computing": https://www.ipam.ucla.edu/programs/long-programs/quantum-computing-2025/
+
+# Institute for Pure & Applied Mathematics (IPAM) Workshops, Schools and Conferences
+"Workshop on Computational Physics": https://www.ipam.ucla.edu/programs/workshops/computational-physics-2025/
+"School on Applied Mathematics": https://www.ipam.ucla.edu/programs/schools/applied-mathematics-2025/
+"Workshop on Machine Learning in Science": https://www.ipam.ucla.edu/programs/workshops/ml-science-2025/
+"Conference on Optimization": https://www.ipam.ucla.edu/programs/conferences/optimization-2025/
+"Workshop on Stochastic Modeling": https://www.ipam.ucla.edu/programs/workshops/stochastic-modeling-2025/
+
+# International Centre for Mathematical Sciences (ICMS), Edinburgh
+"Workshop on Computational Mathematics": https://www.icms.org.uk/workshops/computational-mathematics-2025
+"Conference on Geometry and Topology": https://www.icms.org.uk/conferences/geometry-topology-2025
+"School on Mathematical Modeling": https://www.icms.org.uk/schools/mathematical-modeling-2025
+
+# International Centre for Mechanical Sciences (CISM)
+"Course on Fluid Dynamics": https://cism.it/en/activities/courses/fluid-dynamics-2025/
+"Workshop on Mechanics of Materials": https://cism.it/en/activities/courses/mechanics-materials-2025/
+"Course on Computational Mechanics": https://cism.it/en/activities/courses/computational-mechanics-2025/
+"Workshop on Structural Engineering": https://cism.it/en/activities/courses/structural-engineering-2025/
+
+# International Centre for Theoretical Physics (ICTP)
+"School on Particle Physics": https://www.ictp.it/home/scientific-calendar/particle-physics-2025
+"Workshop on Climate Modeling": https://www.ictp.it/home/scientific-calendar/climate-modeling-2025
+"School on Quantum Field Theory": https://www.ictp.it/home/scientific-calendar/quantum-field-theory-2025
+"Workshop on Mathematical Physics": https://www.ictp.it/home/scientific-calendar/mathematical-physics-2025
+"Conference on String Theory": https://www.ictp.it/home/scientific-calendar/string-theory-2025
+"School on Cosmology": https://www.ictp.it/home/scientific-calendar/cosmology-2025
+"Workshop on Computational Biology": https://www.ictp.it/home/scientific-calendar/computational-biology-2025
+"Conference on Condensed Matter": https://www.ictp.it/home/scientific-calendar/condensed-matter-2025
+
+# Isaac Newton Institute for Mathematical Sciences
+"Programme on Stochastic Processes": https://www.newton.ac.uk/events/programmes/stochastic-processes-2025/
+"Workshop on Mathematical Biology": https://www.newton.ac.uk/events/workshops/mathematical-biology-2025/
+"Programme on Geometric Analysis": https://www.newton.ac.uk/events/programmes/geometric-analysis-2025/
+"Workshop on Probability Theory": https://www.newton.ac.uk/events/workshops/probability-theory-2025/
+
+# Kavli Institute for Theoretical Physics (KITP, UCSB)
+"Program on Quantum Many-Body Systems": https://www.kitp.ucsb.edu/activities/quantum-many-body-2025
+"Conference on Astrophysics": https://www.kitp.ucsb.edu/activities/astrophysics-2025
+"Workshop on Quantum Information": https://www.kitp.ucsb.edu/activities/quantum-information-2025
+"Program on Statistical Physics": https://www.kitp.ucsb.edu/activities/statistical-physics-2025
+"Conference on Particle Physics": https://www.kitp.ucsb.edu/activities/particle-physics-2025
+
+# Kavli Institute for the Physics and Mathematics of the Universe (IPMU, Tokyo)
+"Workshop on String Theory": https://research.ipmu.jp/seminar/string-theory-2025
+"Conference on Cosmology": https://research.ipmu.jp/seminar/cosmology-2025
+
+# Les Houches School of Physics
+"Summer School on Quantum Gravity": https://www.houches-school-physics.com/program/quantum-gravity-2025/
+"Workshop on Condensed Matter": https://www.houches-school-physics.com/program/condensed-matter-2025/
+"School on Particle Physics": https://www.houches-school-physics.com/program/particle-physics-2025/
+
+# Lorentz Center Leiden
+"Workshop on Network Science": https://www.lorentzcenter.nl/workshop-network-science-2025.html
+"School on Astrophysics": https://www.lorentzcenter.nl/school-astrophysics-2025.html
+"Workshop on Computational Biology": https://www.lorentzcenter.nl/workshop-computational-biology-2025.html
+"Conference on Mathematical Modeling": https://www.lorentzcenter.nl/conference-mathematical-modeling-2025.html
+
+# Mathematisches Forschungsinstitut Oberwolfach (MFO)
+"Workshop on Algebraic Geometry": https://www.mfo.de/scientific-program/meetings/algebraic-geometry-2025
+"Seminar on Number Theory": https://www.mfo.de/scientific-program/meetings/number-theory-2025
+"Workshop on Differential Equations": https://www.mfo.de/scientific-program/meetings/differential-equations-2025
+"Seminar on Combinatorics": https://www.mfo.de/scientific-program/meetings/combinatorics-2025
+"Workshop on Mathematical Physics": https://www.mfo.de/scientific-program/meetings/mathematical-physics-2025
+"Seminar on Probability Theory": https://www.mfo.de/scientific-program/meetings/probability-theory-2025
+"Workshop on Computational Mathematics": https://www.mfo.de/scientific-program/meetings/computational-mathematics-2025
+"Conference on Topology": https://www.mfo.de/scientific-program/meetings/topology-2025
+
+# Nordic Institute for Theoretical Physics (Nordita)
+"Workshop on Quantum Information": https://nordita.org/events/conferences/quantum-information-2025/
+"Conference on Particle Physics": https://nordita.org/events/conferences/particle-physics-2025/
+
+# Perimeter Institute for Theoretical Physics
+"Conference on Quantum Gravity": https://perimeterinstitute.ca/research/conferences/quantum-gravity-2025
+"Workshop on Mathematical Physics": https://perimeterinstitute.ca/research/conferences/mathematical-physics-2025
+"Conference on String Theory": https://perimeterinstitute.ca/research/conferences/string-theory-2025
+
+# Polish Academy of Sciences Banach Center
+"Workshop on Functional Analysis": https://www.impan.pl/en/bc-conferences/functional-analysis-2025
+"Conference on Probability": https://www.impan.pl/en/bc-conferences/probability-2025
+
+# Simons Institute for the Theory of Computing
+"Workshop on Cryptography": https://simons.berkeley.edu/workshops/cryptography-2025
+"Symposium on Machine Learning": https://simons.berkeley.edu/workshops/machine-learning-2025
+"Workshop on Algorithms and Complexity": https://simons.berkeley.edu/workshops/algorithms-complexity-2025
+"Symposium on Data Science": https://simons.berkeley.edu/workshops/data-science-2025
+
+# Simons Laufer Mathematical Sciences Institute (SLMath) Programs
+"Program on Geometric Analysis": https://www.slmath.org/programs/geometric-analysis-2025
+"Program on Combinatorics": https://www.slmath.org/programs/combinatorics-2025
+"Program on Probability Theory": https://www.slmath.org/programs/probability-theory-2025
+
+# Simons Laufer Mathematical Sciences Institute (SLMath) Workshops
+"Workshop on Number Theory": https://www.slmath.org/workshops/number-theory-2025
+"Workshop on Algebraic Topology": https://www.slmath.org/workshops/algebraic-topology-2025
+"Workshop on Mathematical Biology": https://www.slmath.org/workshops/mathematical-biology-2025
+"Workshop on Computational Mathematics": https://www.slmath.org/workshops/computational-mathematics-2025
+
+# Taiwan National Center for Theoretical Sciences (NCTS)
+"Workshop on Differential Geometry": https://ncts.ntu.edu.tw/events/differential-geometry-2025
+"Conference on Mathematical Biology": https://ncts.ntu.edu.tw/events/mathematical-biology-2025
+
+# U.S. National Science Foundation Mathematical Sciences Institutes
+"AIM Workshop on Data Science": https://mathinstitutes.org/events/aim-data-science-2025
+"ICERM Workshop on Computational Mathematics": https://mathinstitutes.org/events/icerm-computational-mathematics-2025
+"IMSI Workshop on Statistical Modeling": https://mathinstitutes.org/events/imsi-statistical-modeling-2025
+"IPAM Workshop on Machine Learning in Science": https://mathinstitutes.org/events/ipam-ml-science-2025
+"SLMath Workshop on Number Theory": https://mathinstitutes.org/events/slmath-number-theory-2025
+
+# Wilhelm and Else Heraeus Foundation (WE-Heraeus-Stiftung)
+"Seminar on Quantum Optics": https://www.we-heraeus-stiftung.de/veranstaltungen/quantum-optics-2025/
+"Workshop on Materials Science": https://www.we-heraeus-stiftung.de/veranstaltungen/materials-science-2025/
+"Seminar on Statistical Physics": https://www.we-heraeus-stiftung.de/veranstaltungen/statistical-physics-2025/
+"Workshop on Computational Physics": https://www.we-heraeus-stiftung.de/veranstaltungen/computational-physics-2025/
+
+# Computer Science and AI
+"SOSA 2025": https://cstheory-events.org/sosa-2025
+"COLT 2025: The 38th Annual Conference on Learning Theory": https://learningtheory.org/colt2025/
+"AQIS'25: Asian Quantum Information Science Conference": http://aqis-conf.org/2025/
+"WIT 2025": https://simons.berkeley.edu/wit-2025
+"WG 2025": https://wg2025.org/
+"IWOCA 2025": https://iwoca2025.org/
+"COCOON 2025": https://cocoon2025.org/
+"AAAI-25": https://aaai.org/Conferences/AAAI-25/
+"Workshop on AI for Science": https://aihub.org/events/ai-for-science-2025/
+"Workshop on Algorithms for Large Data 2025": https://cstheory-events.org/large-data-2025/
+"STACS 2025": https://www.lix.polytechnique.fr/~hermann/stacs2025/
+"FOSSACS 2025": https://www.lix.polytechnique.fr/~hermann/fossacs2025/
+"Workshop on Algorithms 2025": https://www.cs.ox.ac.uk/conferences/algorithms-2025
+"Conference on AI": https://www.cs.ox.ac.uk/conferences/ai-2025
+"Summer School on Optimization 2025": https://thiagoserra.com/summer-optimization-2025/
+"Workshop on Machine Learning": https://thiagoserra.com/workshop-ml-2025/
+"FSTTCS 2025": https://conf.friedetzky.org/fsttcs2025/
+
+# Physics (General, Nuclear, Plasma, AMO, Astrophysics)
+"APS March Meeting 2025": https://www.aps.org/meetings/march/2025/
+"MRS Spring Meeting 2025": https://www.mrs.org/meetings-events/spring2025/
+"Workshop on Quantum Dynamics 2025": https://www.ccpq.ac.uk/events/quantum-dynamics-2025/
+"AAS 247th Meeting": https://aas.org/meetings/aas247/
+"CASCA 2025": https://casca.ca/2025/
+"PPC & ICOPS 2025: 25th IEEE Pulsed Power Conference and 52nd IEEE International Conference on Plasma Science": https://conference-service.com/conferences/plasma-and-gas-discharge-physics/ppc-icops-2025/
+"EuNPC2025: European Nuclear Physics Conference": https://conference-service.com/conferences/nuclear-physics/eunpc2025/
+"CSSP25: Carpathian Summer School of Physics 2025": https://conference-service.com/conferences/nuclear-physics/cssp25/
+"Workshop on Nuclear Data 2025": https://www-nds.iaea.org/events/nuclear-data-2025/
+"HEAD Meeting 2025": https://heasarc.gsfc.nasa.gov/docs/heasarc/meetings/head2025/
+"Workshop on Astrophysics": https://heasarc.gsfc.nasa.gov/docs/heasarc/meetings/astrophysics-2025/
+"Conference on Condensed Matter 2025": https://conference-service.com/conferences/condensed-matter-physics/condensed-matter-2025/
+"Workshop on Condensed Matter Physics": https://conference-service.com/conferences/condensed-matter-physics/condensed-matter-workshop-2025/
+"Conference on Materials Science 2025": https://conference-service.com/conferences/condensed-matter-physics/materials-science-2025/
+"Workshop on AMO Physics 2025": https://conference-service.com/conferences/atomic-and-molecular-physics/amo-physics-2025/
+"Conference on Atomic Physics 2025": https://conference-service.com/conferences/atomic-and-molecular-physics/atomic-physics-2025/
+"Physics 2025": https://conference-service.com/conferences/physics/physics-2025/
+"Workshop on General Physics 2025": https://conference-service.com/conferences/physics/general-physics-2025/
+"Conference on Theoretical Physics 2025": https://conference-service.com/conferences/physics/theoretical-physics-2025/
+"Workshop on Particle Physics 2025": https://www.physics.ox.ac.uk/events/particle-physics-2025/
+"Conference on Astrophysics": https://www.physics.ox.ac.uk/events/astrophysics-2025/
+"Magnetism 2025": https://magnetism.eu/events/magnetism-2025/
+"Workshop on Magnetic Materials": https://magnetism.eu/events/magnetic-materials-2025/
+"Laserlab Conference 2025": https://laserlab-europe.eu/events/conference-2025/
+"Workshop on Laser Physics": https://laserlab-europe.eu/events/laser-physics-2025/
+"Synchrotron Radiation Workshop 2025": https://lightsources.org/events/synchrotron-2025/
+"Light Sources Conference 2025": https://lightsources.org/events/light-sources-2025/
+"Workshop on Ultracold Atoms 2025": https://ucan.physics.utoronto.ca/conferences/ultracold-atoms-2025/
+
+# Quantum and Optics
+"Quantum Computing Workshop 2025": https://www.euroquic.org/events/quantum-computing-2025/
+"EuroQuic Conference 2025": https://www.euroquic.org/events/euroquic-2025/
+"Quantum Information Workshop 2025": https://www.quantiki.org/events/quantum-information-2025/
+"Quantum Optics Conference 2025": https://www.quantiki.org/events/quantum-optics-2025/
+"Quantum Technology Conference 2025": https://qt.eu/events/quantum-technology-2025/
+"Quantum Conference 2025": https://quantum.info/conf/quantum-2025/
+"QWorld Workshop 2025": https://qworld.net/events/qworld-workshop-2025/
+"Quantum Science Conference 2025": https://qworld.net/events/quantum-science-2025/
+"Optics and Photonics 2025": https://www.optica.org/events/optics-photonics-2025/
+"CLEO 2025": https://www.optica.org/events/cleo-2025/
+"QMath16": https://www.iamp.org/events/qmath16-2025/
+"Workshop on Quantum Mechanics": https://www.iamp.org/events/quantum-mechanics-2025/
+
+# Probability and Statistics
+"43rd Finnish Summer School on Probability and Statistics": https://www.appliedprobability.org/events/finnish-summer-school-2025/
+"Oxford Probability Workshop 2025: Random Discrete Structures": https://www.appliedprobability.org/events/oxford-probability-2025/
+"Bernoulli-IMS World Congress 2025": https://imstat.org/meetings/bernoulli-ims-2025/
+"IMS Annual Meeting 2025": https://imstat.org/meetings/ims-annual-2025/
+"Workshop on Stochastic Processes 2025": https://conference-service.com/conferences/probability-and-statistics/stochastic-processes-2025/
+"Conference on Probability and Statistics 2025": https://conference-service.com/conferences/probability-and-statistics/probability-statistics-2025/
+"Workshop on Probability for Women 2025": http://womeninprobability.org/workshop-2025/
+"ISBA 2025": https://bayesian.org/events/isba-2025/
+"ISBA 2026": https://bayesian.org/events/isba-2026/
+
+# Chemistry and Materials
+"Conference on Computational Chemistry 2025": http://www.ccl.net/conferences/computational-chemistry-2025/
+"Workshop on Molecular Modeling": http://www.ccl.net/conferences/molecular-modeling-2025/
+"Conference on Quantum Chemistry 2025": https://conference-service.com/conferences/physical-chemistry/quantum-chemistry-2025/
+"Workshop on Physical Chemistry": https://conference-service.com/conferences/physical-chemistry/physical-chemistry-2025/
+"Workshop on Photochemistry 2025": https://photochemistry.eu/meetings/photochemistry-2025/
+"XLIC Workshop 2025": https://xlic.qui.uam.es/workshop-2025/
+"SciX 2025": https://www.s-a-s.org/conferences/scix-2025/
+"Quantum Monte Carlo 2025": https://psi-k.net/events/quantum-monte-carlo-2025/
+"Computational Modelling of Energy Materials": https://psi-k.net/events/energy-materials-2025/
+"New Trends in Topological Electronic Structure": https://psi-k.net/events/topological-electronic-2025/
+
+# Mathematics and Optimization
+"Midwest Combinatorics Conference 2025": https://dwest.web.illinois.edu/meetlist/combinatorics-2025/
+"Workshop on Graph Theory": https://dwest.web.illinois.edu/meetlist/graph-theory-2025/
+"Combinatorics 2025": https://users.renyi.hu/~pach/combinatorics-2025/
+"Workshop on Discrete Mathematics": https://users.renyi.hu/~pach/discrete-mathematics-2025/
+"Workshop on Geometric Group Theory 2025": https://web.math.ucsb.edu/~jon.mccammond/geogrouptheory/workshop-2025/
+"Conference on Applied Mathematics 2025": http://acm.smai.emath.fr/applied-mathematics-2025/
+"Workshop on Statistics": http://acm.smai.emath.fr/statistics-2025/
+"OR 2025": https://conference-service.com/conferences/operational-research/or-2025/
+"Workshop on Optimization Theory": https://conference-service.com/conferences/operational-research/optimization-theory-2025/
+
+# From CCF
+"23rd FAST 2025": https://www.usenix.org/conference/fast25
+"25th CCGrid 2025": https://fcrc25.acm.org/conferences/ccgrid/
+"27th HPCC 2025": https://hpcc2025.org/
+"30th ASPLOS 2025": https://asplos-conference.org/2025/
+"30th ASP-DAC 2025": https://www.aspdac.com/aspdac2025/
+"30th PPoPP 2025": https://ppopp25.sigplan.org/
+"31st Euro-Par 2025": https://2025.euro-par.org/
+"31st HPCA 2025": https://hpca-conf.org/2025/
+"31st RTAS 2025": https://2025.rtas.org/
+"32nd HiPC 2025": https://hipc.org/2025/
+"33rd ATS 2025": https://ats2025.org/
+"33rd FCCM 2025": https://www.fccm.org/fccm-2025/
+"33rd FPGA 2025": https://www.isfpga.org/2025/
+"33rd MASCOTS 2025": https://mascots2025.org/
+"34th HPDC 2025": https://www.hpdc.org/2025/
+"34th ICPP 2025": https://icpp2025.org/
+"34th PACT 2025": None
+"35th FPL 2025": https://fpl2025.org/
+"35th GLSVLSI 2025": https://www.glsvlsi.org/2025/
+"36th ASAP 2025": https://asap2025.org/
+"37th SPAA 2025": https://spaa.acm.org/2025/
+"39th ICS 2025": https://ics2025.github.io/
+"39th IPDPS 2025": https://www.ipdps.org/ipdps2025/
+"43rd ICCD 2025": https://www.iccd-conf.com/2025/
+"44th PODC 2025": https://www.podc.org/podc2025/
+"45th ICDCS 2025": https://icdcs2025.org/
+"52nd ISCA 2025": https://iscaconf.org/isca2025/
+"54th ICPP 2025": https://icpp2025.org/
+"58th MICRO 2025": https://microarch.org/micro58/
+"62nd DAC 2025": https://www.dac.com/Conference/2025-Conference
+"CODES+ISSS 2025": https://esweek.org/codes-isss/
+"DATE 2025": https://www.date-conference.com/date2025
+"EuroSys 2025": https://2025.eurosys.org/
+"HiPEAC 2025": https://www.hipeac.net/2025/barcelona/
+"ICCAD 2025": None
+"SIGMETRICS/Performance 2025": https://www.sigmetrics.org/sigmetrics2025/
+"SIGMETRICS/Performance 2026": None
+"USENIX ATC 2025": https://www.usenix.org/conference/atc25
+"22nd CF 2025": https://www.computingfrontiers.org/2025/
+"23rd CGO 2025": https://cgo.org/cgo2025/
+"18th SYSTOR 2025": https://www.systor.org/2025/
+"24th FPT 2025": https://fpt2025.org/
+"Cluster 2025": https://clustercomp.org/2025/
+"SC 2025": https://sc25.supercomputing.org/
+"VEE 2025": https://vee2025.github.io/
+"23rd ISPA 2025": https://ispa2025.org/
+
+# From iCORE (2023)
+"18th SYSTOR 2025": https://www.systor.org/2025/
+"22nd CF 2025": https://www.computingfrontiers.org/2025/
+"23rd CGO 2025": https://cgo.org/cgo2025/
+"23rd FAST 2025": https://www.usenix.org/conference/fast25
+"23rd ISPA 2025": https://ispa2025.org/
+"24th FPT 2025": https://fpt2025.org/
+"25th CCGrid 2025": https://fcrc25.acm.org/conferences/ccgrid/
+"27th HPCC 2025": https://hpcc2025.org/
+"30th ASPLOS 2025": https://asplos-conference.org/2025/
+"30th ASP-DAC 2025": https://www.aspdac.com/aspdac2025/
+"30th PPoPP 2025": https://ppopp25.sigplan.org/
+"31st Euro-Par 2025": https://2025.euro-par.org/
+"31st HPCA 2025": https://hpca-conf.org/2025/
+"31st RTAS 2025": https://2025.rtas.org/
+"32nd HiPC 2025": https://hipc.org/2025/
+"33rd ATS 2025": https://ats2025.org/
+"33rd FCCM 2025": https://www.fccm.org/fccm-2025/
+"33rd FPGA 2025": https://www.isfpga.org/2025/
+"33rd MASCOTS 2025": https://mascots2025.org/
+"34th HPDC 2025": https://www.hpdc.org/2025/
+"34th ICPP 2025": https://icpp2025.org/
+"34th PACT 2025": None
+"35th FPL 2025": https://fpl2025.org/
+"35th GLSVLSI 2025": https://www.glsvlsi.org/2025/
+"36th ASAP 2025": https://asap2025.org/
+"37th SPAA 2025": https://spaa.acm.org/2025/
+"39th ICS 2025": https://ics2025.github.io/
+"39th IPDPS 2025": https://www.ipdps.org/ipdps2025/
+"43rd ICCD 2025": https://www.iccd-conf.com/2025/
+"44th PODC 2025": https://www.podc.org/podc2025/
+"45th ICDCS 2025": https://icdcs2025.org/
+"52nd ISCA 2025": https://iscaconf.org/isca2025/
+"58th MICRO 2025": https://microarch.org/micro58/
+"62nd DAC 2025": https://www.dac.com/Conference/2025-Conference
+"AAAI-25": https://aaai.org/Conferences/AAAI-25/
+"ACM Multimedia 2025": https://2025.acmmm.org/
+"AISTATS 2025": https://aistats.org/aistats2025/
+"BMVC 2025": https://bmvc2025.org/
+"CCS 2025": https://www.sigsac.org/ccs/CCS2025/
+"CHI 2025": https://chi2025.acm.org/
+"CIKM 2025": https://cikm2025.org/
+"Cluster 2025": https://clustercomp.org/2025/
+"CODES+ISSS 2025": https://esweek.org/codes-isss/
+"COLT 2025": https://learningtheory.org/colt2025/
+"CVPR 2025": https://cvpr.thecvf.com/Conferences/2025
+"DATE 2025": https://www.date-conference.com/date2025
+"ECML PKDD 2025": https://2025.ecmlpkdd.org/
+"EuroSys 2025": https://2025.eurosys.org/
+"HiPEAC 2025": https://www.hipeac.net/2025/barcelona/
+"ICCAD 2025": None
+"ICDE 2025": https://icde2025.github.io/
+"ICML 2025": https://icml.cc/Conferences/2025
+"IEEE VIS 2025": https://ieeevis.org/year/2025/
+"IJCAI 2025": https://ijcai25.org/
+"INFOCOM 2025": https://infocom2025.ieee-infocom.org/
+"IPSN 2025": https://ipsn.acm.org/2025/
+"IROS 2025": https://iros2025.org/
+"ISSTA 2025": https://2025.issta.org/
+"IUI 2025": https://iui.acm.org/2025/
+"KDD 2025": https://kdd2025.org/
+"MobiSys 2025": https://www.sigmobile.org/mobisys/2025/
+"NAACL 2025": https://2025.naacl.org/
+"PODS 2025": https://sigmod2025.sigmod.org/conferences/pods/
+"SC 2025": https://sc25.supercomputing.org/
+"SIGMETRICS/Performance 2025": https://www.sigmetrics.org/sigmetrics2025/
+"SIGMETRICS/Performance 2026": None
+"SIGMOD 2025": https://sigmod2025.sigmod.org/
+"TrustCom 2025": https://trustcom2025.org/
+"USENIX ATC 2025": https://www.usenix.org/conference/atc25
+"USENIX Security 2025": https://www.usenix.org/conference/usenixsecurity25
+"VEE 2025": https://vee2025.github.io/
+"VLDB 2025": https://vldb2025.org/
+"WWW 2025": https://www2025.thewebconf.org/
+
+# Nature Conferences (These have web links on cvent.com; do a search.)
+"3rd Frontiers in Electron Microscopy for Physical and Life Sciences 2025": None
+"Chemical Processes for a Sustainable Future 2025": None
+"Competing Orders in Quantum Materials 2025": None
+"Low-dimensional Materials and Heterostructures 2025": None
+"Perovskite and Organic Photovoltaics – From Academia to Industry 2025": None
+"Tentative Quantum Materials Conference 2026": None
+
+# Selected events from the UvA IILC list
+"1st International School on Logical Frameworks and Proof Systems Interoperability (LFPSI'25)": None
+"10th International Workshop on Artificial Intelligence and Theorem Proving (AITP 2025)": None
+"15th International Conference on Formal Ontology in Information Systems (FOIS 2025)": https://fois2025.org/
+"17th NASA Formal Methods Symposium (NFM25)": https://nfm25.shemesh.larc.nasa.gov/
+"18th European Conference on Symbolic and Quantitative Approaches to Reasoning with Uncertainty (ECSQARU'25)": https://ecsqaru2025.org/
+"18th International Conference on Graph Transformation (ICGT 2025)": https://www.icgt2025.icgt-conf.org/
+"19th European Conference on Logics in Artificial Intelligence (JELIA 2025)": https://jelia2025.gtu.ge/
+"28th International Conference on Text, Speech and Dialogue (TSD 2025)": https://www.tsd2025.org/
+"29th Conference on Computational Natural Language Learning (CoNLL 2025)": https://conll.org/2025
+"3rd Cognitive Models and Artificial Intelligence Conference (AICCONF 2025)": None
+"35th International Symposium on Logic-Based Program Synthesis and Transformation (LOPSTR 2025)": https://lopstr2025.unical.it/
+"36th European Summer School in Logic, Language and Information (ESSLLI 2025)": https://esslli2025.org/
+"41st Conference on Mathematical Foundations of Programming Semantics (MFPS 2025)": https://www.mfps2025.org/
+"5th European Conference on Argumentation (ECA 2025): Argumentation in the Digital Society": https://eca2025.ipipan.waw.pl/
+"5th Natural Logic Meets Machine Learning Workshop (NALOMA 2025)": None
+"6th International Conference on Logic and Argumentation (CLAR 2025)": https://clar2025.sxu.edu.cn/
+"7th International School and Workshop on Proof Theory (Proof Society 2025)": None
+"8th International Meeting of the Association for the Philosophy of Mathematical Practice (APMP 2025)": None
+"Bridges Between Logic, Ethics and Social Sciences BLESS 2025": None
+"Computability in Europe 2025 (CiE 2025)": https://cie2025.fc.ul.pt/
+"Cracow Logic Conference (CLoCk 2025)": None
+"ESSLLI 2025 - Workshop on Truthmaker Semantics and Modal Logic": None
+"European Conference on Object-Oriented Programming (ECOOP 2025)": None
+"Fifteenth International Tbilisi Symposium on Logic, Language, and Computation (TbiLLC 2025)": https://tbillc2025.gtu.ge/
+"First Annual Paris-Chicago Joint Conference in the Philosophy of Logic and Mathematics": None
+"Formal Methods in Computer-Aided Design (FMCAD 2025)": https://fmcad.org/FMCAD2025/
+"Joint Conference of the 11th Biennial Conference of the Asia-Pacific Philosophy of Science Association (APPSA 2025) and the 2025 Annual Conference of the Taiwan Association for Logic, Methodology, Philosophy of Science and Technology (L": None
+"Logic Colloquium 2025": https://www.logik.tuwien.ac.at/lc2025/
+"Logic and Meaning: Colloquium on Gottlob Frege’s Legacy": None
+"Polish Congress of Logic": None
+"SILFS Postgraduate Conference 2025": https://www.silfs.it/postgraduate-conference-2025/
+"Summer School \"Topology, dynamics, and logic in interaction\"": None
+"The 2026 ACM Symposium on Principles of Database Systems (PODS 2026)": None
+"The 30th International Conference on Automated Deduction (CADE-30)": https://cade-30.org/
+
+# From inspirehep.net, events since 2025
+"21st Rencontres du Vietnam: Theory meeting experiment: Particle Astrophysics and Cosmology (TMEX 2025)": http://vietnam.in2p3.fr/2025/tmex/
+"1st International Workshop on Gravitational Wave Detection in Space (GWDIS-2025)": https://gwdm2025.sjtu.edu.cn/
+"47th International Conference on High Energy Physics (ICHEP 2025)": https://ichep2025.org/
+"Advancing Quantum Field Theory and Gravity (AQFTG 2025)": https://aqftg2025.physics.ucla.edu/
+"CosmoBack 2025": https://cosmback2025.sciencesconf.org/
+"International Symposium on Multiparticle Dynamics (ISMD 2025)": https://ismd2025.desy.de/
+"Neutrino Oscillation Workshop (NOW 2025)": https://now2025.physics.uniba.it/
+"Quark Matter 2025": https://qm2025.bnl.gov/
+"12th International Conference on Quarks and Nuclear Physics (QNP 2025)": https://qnp2025.inp.demokritos.gr/
+"13th International Workshop on the CKM Unitarity Triangle (CKM 2025)": https://ckm2025.cern.ch/
+"16th International Workshop on Top Quark Physics (TOP 2025)": https://top2025.fnal.gov/
+"20th International Conference on Hadron Spectroscopy and Structure (HADRON 2025)": https://hadron2025.jlab.org/
+"23rd International Workshop on Neutrinos from Accelerators (NuFact 2025)": https://nufact2025.ihep.ac.cn/
+"25th International Symposium on Lepton Photon Interactions at High Energies (LP 2025)": https://lp2025.uchicago.edu/
+"27th International Conference on Computing in High Energy and Nuclear Physics (CHEP 2025)": https://chep2025.triumf.ca/
+"28th International Symposium on Particles, Strings and Cosmology (PASCOS 2025)": https://pascos2025.physik.uni-bonn.de/
+"2nd International Workshop on Future Linear Colliders (LCWS 2025)": https://lcws2025.desy.de/
+"30th International Symposium on Spin Physics (SPIN 2025)": https://spin2025.yale.edu/
+"3rd International Workshop on Future Tau-Charm Factories (TCF 2025)": https://tcf2025.ihep.ac.cn/
+"4th International Workshop on Forward Physics and QCD at the LHC, the future Electron-Ion Collider and Cosmic Ray Physics (Forward QCD 2025)": https://forwardqcd2025.ific.uv.es/
+"5th International Symposium on Cosmic Rays and Astrophysics (ISCRA 2025)": https://iscra2025.roma2.infn.it/
+"6th International Workshop on Deep-Inelastic Scattering and Related Subjects (DIS 2025)": https://dis2025.jlab.org/
+"7th International Workshop on Higgs and Effective Field Theory (HEFT 2025)": https://heft2025.physics.uci.edu/
+"8th International Workshop on Flavour Changing and Conserving Processes (FCCP 2025)": https://fccp2025.ific.uv.es/
+"9th International Workshop on Low Energy Electron Ion Collisions (LEIC 2025)": https://leic2025.bnl.gov/
+"International Workshop on Baryon and Lepton Number Violation (BLV 2025)": https://blv2025.mpp.mpg.de/
+"Precision Electroweak Measurements at Future Colliders (PEW 2025)": https://pew2025.cern.ch/
+"14th International Conference on Elastic and Diffractive Scattering (EDS 2025)": https://inspirehep.net/conferences/2840153
+"17th International Conference on Heavy Quarks and Leptons (HQL 2025)": https://hql2025.physics.ox.ac.uk/
+"19th International Conference on Strangeness in Quark Matter (SQM 2025)": https://sqm2025.gsi.de/
+"22nd International Workshop on High Energy Physics and Quantum Field Theory (QFTHEP 2025)": https://qfthep2025.jinr.ru/
+"24th International Workshop on Radiation Imaging Detectors (iWoRiD 2025)": https://iworid2025.cern.ch/
+"26th International Conference on Supersymmetry and Unification of Fundamental Interactions (SUSY 2025)": https://susy2025.phys.ethz.ch/
+"29th International Conference on Neutrino Physics and Astrophysics (Neutrino 2025)": https://neutrino2025.uchicago.edu/
+"4th International Workshop on the Physics of Ultra Peripheral Collisions (UPC 2025)": https://upc2025.bnl.gov/
+"6th International Workshop on Tau Lepton Physics (TAU 2025)": https://tau2025.ihep.ac.cn/
+"8th International Workshop on QCD and Hadron Physics (QCDHP 2025)": https://qcdhp2025.ustc.edu.cn/
+"International Workshop on Future High Energy Circular Colliders (FCC 2025)": https://fcc2025.cern.ch/
+"10th International Conference on High Energy and Astroparticle Physics (HEAP 2025)": https://heap2025.physik.uni-hamburg.de/
+"11th International Workshop on Charm Physics (CHARM 2025)": https://charm2025.ihep.ac.cn/
+"15th International Conference on Beauty, Charm, and Hyperons in Hadronic Interactions (BEACH 2025)": https://beach2025.ific.uv.es/
+"18th International Conference on Meson-Nucleon Physics and the Structure of the Nucleon (MENU 2025)": https://menu2025.jlab.org/
+"21st International Conference on QCD in Extreme Conditions (XCQCD 2025)": https://xcqcd2025.bnl.gov/
+"3rd International Workshop on Parton Distributions and QCD (PDQCD 2025)": https://pdqcd2025.ific.uv.es/
+"5th International Workshop on Physics at a Multi-TeV Muon Collider (MuC 2025)": https://muc2025.fnal.gov/
+"7th International Workshop on Baryon Structure and Dynamics (BSD 2025)": https://bsd2025.jlab.org/
+"9th International Workshop on Hadron Physics (HADPHYS 2025)": https://hadphys2025.ustc.edu.cn/
+"International Workshop on Dark Matter Searches and New Physics (DMNP 2025)": https://dmnp2025.mpp.mpg.de/
+"2nd International Workshop on Precision Electroweak Physics (PEWP 2025)": https://pewp2025.cern.ch/
+"4th International Workshop on Neutrino Telescopes (NeuTel 2025)": https://neutel2025.roma2.infn.it/
+"6th International Workshop on Lepton Scattering and Hadron Structure (LSHS 2025)": https://lshs2025.jlab.org/
+"8th International Workshop on Flavor Physics and CP Violation (FPCP 2025)": https://fpcp2025.ific.uv.es/
+"10th International Workshop on Kaon Physics (KAON 2025)": https://kaon2025.ihep.ac.cn/
+"12th International Workshop on Multiple Partonic Interactions at the LHC (MPI@LHC 2025)": https://mpi2025.desy.de/
+"14th International Workshop on Non-Perturbative QCD (NPQCD 2025)": https://npqcd2025.lal.in2p3.fr/
+"16th International Workshop on Baryon Structure (BARYONS 2025)": https://baryons2025.jlab.org/
+"18th International Workshop on Tau Lepton Physics (TAU 2026)": https://inspirehep.net/conferences/2840155
+"20th International Workshop on Polarized Sources, Targets, and Polarimetry (PSTP 2025)": https://pstp2025.jlab.org/
+"22nd International Conference on Hadronic Interactions at High Energies (HIHE 2025)": https://hihe2025.ific.uv.es/
+"24th International Workshop on Neutrino Factories and Future Neutrino Facilities (NuFact 2026)": https://inspirehep.net/conferences/2840156
+"26th International Symposium on Very High Energy Cosmic Ray Interactions (ISVHECRI 2025)": https://isvhecri2025.roma2.infn.it/
+"28th International Conference on Computing in High Energy and Nuclear Physics (CHEP 2026)": https://inspirehep.net/conferences/2840157
+"3rd International Workshop on Gravitational Waves and Cosmology (GWC 2025)": https://gwc2025.sjtu.edu.cn/
+"5th International Workshop on Dark Matter and New Physics (DMNP 2026)": https://inspirehep.net/conferences/2840158
+"7th International Workshop on Lepton Universality and Flavor Violation (LUFV 2025)": https://lufv2025.ific.uv.es/
+"9th International Workshop on Exotic Hadrons (EXOHAD 2025)": https://exohad2025.jlab.org/
+"11th International Workshop on B Physics and CP Violation (BCPV 2025)": https://bcpv2025.ihep.ac.cn/
+"13th International Workshop on Jet Physics (JET 2025)": https://jet2025.desy.de/
+"15th International Workshop on Heavy Quarkonium (HQ 2025)": https://hq2025.ustc.edu.cn/
+"17th International Workshop on Deep Inelastic Scattering and Related Subjects (DIS 2027)": https://inspirehep.net/conferences/2840159
+"19th International Workshop on Low Energy Positron and Positronium Physics (POSMOL 2025)": https://posmol2025.fnal.gov/
+"21st International Workshop on Advanced Computing and Analysis Techniques in Physics Research (ACAT 2025)": https://acat2025.triumf.ca/
+"23rd International Workshop on Polarized Sources, Targets, and Polarimetry (PSTP 2027)": https://inspirehep.net/conferences/2840160
+"25th International Workshop on Radiation Imaging Detectors (iWoRiD 2026)": https://inspirehep.net/conferences/2840161
+"27th International Symposium on Lepton Photon Interactions at High Energies (LP 2027)": https://inspirehep.net/conferences/2840162
+"2nd International Workshop on Axion Physics and Experiments (AXION 2025)": https://axion2025.mpp.mpg.de/
+"4th International Workshop on Higgs Physics (HIGGS 2025)": https://higgs2025.physics.uci.edu/
+"6th International Workshop on Neutrino Interactions (NUINT 2025)": https://nuint2025.roma2.infn.it/
+"8th International Workshop on Hadron Structure and Spectroscopy (HSS 2025)": https://hss2025.jlab.org/
+"10th International Workshop on Charm Physics (CHARM 2026)": https://inspirehep.net/conferences/2840163
+"12th International Workshop on Top Quark Physics (TOP 2026)": https://inspirehep.net/conferences/2840164
+"14th International Workshop on Multiple Partonic Interactions at the LHC (MPI@LHC 2026)": https://inspirehep.net/conferences/2840165
+"16th International Workshop on Non-Perturbative QCD (NPQCD 2026)": https://inspirehep.net/conferences/2840166
+"18th International Workshop on Baryon Structure (BARYONS 2026)": https://inspirehep.net/conferences/2840167
+"20th International Workshop on Tau Lepton Physics (TAU 2028)": https://inspirehep.net/conferences/2840168
+"22nd International Workshop on Polarized Sources, Targets, and Polarimetry (PSTP 2029)": https://inspirehep.net/conferences/2840169
+"24th International Workshop on Advanced Computing and Analysis Techniques in Physics Research (ACAT 2027)": https://inspirehep.net/conferences/2840170
+"26th International Symposium on Very High Energy Cosmic Ray Interactions (ISVHECRI 2027)": https://inspirehep.net/conferences/2840171
+"3rd International Workshop on Dark Matter Searches and New Physics (DMNP 2027)": https://inspirehep.net/conferences/2840172
+"5th International Workshop on Gravitational Waves and Cosmology (GWC 2027)": https://inspirehep.net/conferences/2840173
+"7th International Workshop on Neutrino Telescopes (NeuTel 2027)": https://inspirehep.net/conferences/2840174
+"9th International Workshop on Lepton Scattering and Hadron Structure (LSHS 2027)": https://inspirehep.net/conferences/2840175
+"11th International Workshop on Flavor Physics and CP Violation (FPCP 2027)": https://inspirehep.net/conferences/2840176
+"13th International Workshop on B Physics and CP Violation (BCPV 2027)": https://inspirehep.net/conferences/2840177
+"15th International Workshop on Jet Physics (JET 2027)": https://inspirehep.net/conferences/2840178
+"17th International Workshop on Heavy Quarkonium (HQ 2027)": https://inspirehep.net/conferences/2840179
+"19th International Workshop on Deep Inelastic Scattering and Related Subjects (DIS 2029)": https://inspirehep.net/conferences/2840180
+"1st International Workshop on Precision Measurements at Low Energies (PMLE 2025)": https://pmle2025.physics.uci.edu/
+"3rd International Workshop on Axion Physics and Experiments (AXION 2027)": https://inspirehep.net/conferences/2840181
+"5th International Workshop on Higgs Physics (HIGGS 2027)": https://inspirehep.net/conferences/2840182
+"7th International Workshop on Neutrino Interactions (NUINT 2027)": https://inspirehep.net/conferences/2840183
+"9th International Workshop on Hadron Structure and Spectroscopy (HSS 2027)": https://inspirehep.net/conferences/2840184
+"11th International Workshop on Charm Physics (CHARM 2027)": https://inspirehep.net/conferences/2840185
+"13th International Workshop on Top Quark Physics (TOP 2027)": https://inspirehep.net/conferences/2840186
+"15th International Workshop on Multiple Partonic Interactions at the LHC (MPI@LHC 2027)": https://inspirehep.net/conferences/2840187
+"17th International Workshop on Non-Perturbative QCD (NPQCD 2027)": https://inspirehep.net/conferences/2840188
+"19th International Workshop on Baryon Structure (BARYONS 2027)": https://inspirehep.net/conferences/2840189
+"21st International Workshop on Tau Lepton Physics (TAU 2030)": https://inspirehep.net/conferences/2840190
+"23rd International Workshop on Advanced Computing and Analysis Techniques in Physics Research (ACAT 2029)": https://inspirehep.net/conferences/2840191
+"25th International Workshop on Polarized Sources, Targets, and Polarimetry (PSTP 2031)": https://inspirehep.net/conferences/2840192
+"27th International Workshop on Radiation Imaging Detectors (iWoRiD 2027)": https://inspirehep.net/conferences/2840193
+"2nd International Workshop on Dark Matter and New Physics (DMNP 2028)": https://inspirehep.net/conferences/2840194
+"4th International Workshop on Gravitational Waves and Cosmology (GWC 2029)": https://inspirehep.net/conferences/2840195
+"6th International Workshop on Neutrino Telescopes (NeuTel 2029)": https://inspirehep.net/conferences/2840196
+"8th International Workshop on Lepton Scattering and Hadron Structure (LSHS 2029)": https://inspirehep.net/conferences/2840197
+"10th International Workshop on Flavor Physics and CP Violation (FPCP 2029)": https://inspirehep.net/conferences/2840198
+"12th International Workshop on B Physics and CP Violation (BCPV 2029)": https://inspirehep.net/conferences/2840199
+"14th International Workshop on Jet Physics (JET 2029)": https://inspirehep.net/conferences/2840200
+"16th International Workshop on Heavy Quarkonium (HQ 2029)": https://inspirehep.net/conferences/2840201
+"18th International Workshop on Deep Inelastic Scattering and Related Subjects (DIS 2031)": https://inspirehep.net/conferences/2840202
+"20th International Workshop on Low Energy Positron and Positronium Physics (POSMOL 2027)": https://inspirehep.net/conferences/2840203
+"22nd International Workshop on Advanced Computing and Analysis Techniques in Physics Research (ACAT 2031)": https://inspirehep.net/conferences/2840204
+"24th International Symposium on Very High Energy Cosmic Ray Interactions (ISVHECRI 2029)": https://inspirehep.net/conferences/2840205
+"1st International Workshop on Quantum Chromodynamics at the Intensity Frontier (QCDIF 2025)": https://qcdif2025.fnal.gov/
+"3rd International Workshop on Dark Matter and New Physics (DMNP 2029)": https://inspirehep.net/conferences/2840206
+"5th International Workshop on Axion Physics and Experiments (AXION 2029)": https://inspirehep.net/conferences/2840207
+"7th International Workshop on Higgs Physics (HIGGS 2029)": https://inspirehep.net/conferences/2840208
+"9th International Workshop on Neutrino Interactions (NUINT 2029)": https://inspirehep.net/conferences/2840209
+"11th International Workshop on Hadron Structure and Spectroscopy (HSS 2029)": https://inspirehep.net/conferences/2840210
+"13th International Workshop on Charm Physics (CHARM 2029)": https://inspirehep.net/conferences/2840211
+"15th International Workshop on Top Quark Physics (TOP 2029)": https://inspirehep.net/conferences/2840212
+"17th International Workshop on Multiple Partonic Interactions at the LHC (MPI@LHC 2029)": https://inspirehep.net/conferences/2840213
+"19th International Workshop on Non-Perturbative QCD (NPQCD 2029)": https://inspirehep.net/conferences/2840214
+"21st International Workshop on Baryon Structure (BARYONS 2029)": https://inspirehep.net/conferences/2840215
+"23rd International Workshop on Tau Lepton Physics (TAU 2032)": https://inspirehep.net/conferences/2840216
+"25th International Workshop on Advanced Computing and Analysis Techniques in Physics Research (ACAT 2033)": https://inspirehep.net/conferences/2840217
+"27th International Workshop on Polarized Sources, Targets, and Polarimetry (PSTP 2033)": https://inspirehep.net/conferences/2840218
+"2nd International Workshop on Precision Measurements at Low Energies (PMLE 2027)": https://inspirehep.net/conferences/2840219
+"4th International Workshop on Dark Matter and New Physics (DMNP 2030)": https://inspirehep.net/conferences/2840220
+"6th International Workshop on Gravitational Waves and Cosmology (GWC 2031)": https://inspirehep.net/conferences/2840221
+"8th International Workshop on Neutrino Telescopes (NeuTel 2031)": https://inspirehep.net/conferences/2840222
+"10th International Workshop on Lepton Scattering and Hadron Structure (LSHS 2031)": https://inspirehep.net/conferences/2840223
+"12th International Workshop on Flavor Physics and CP Violation (FPCP 2031)": https://inspirehep.net/conferences/2840224
+"14th International Workshop on B Physics and CP Violation (BCPV 2031)": https://inspirehep.net/conferences/2840225
+"16th International Workshop on Jet Physics (JET 2031)": https://inspirehep.net/conferences/2840226
+"18th International Workshop on Heavy Quarkonium (HQ 2031)": https://inspirehep.net/conferences/2840227
+"20th International Workshop on Deep Inelastic Scattering and Related Subjects (DIS 2033)": https://inspirehep.net/conferences/2840228
+"22nd International Workshop on Low Energy Positron and Positronium Physics (POSMOL 2029)": https://inspirehep.net/conferences/2840229
+"24th International Workshop on Advanced Computing and Analysis Techniques in Physics Research (ACAT 2035)": https://inspirehep.net/conferences/2840230
+"26th International Symposium on Very High Energy Cosmic Ray Interactions (ISVHECRI 2031)": https://inspirehep.net/conferences/2840231
+"1st International Workshop on Neutrino Physics at the Intensity Frontier (NPIF 2025)": https://npif2025.fnal.gov/
+"3rd International Workshop on Quantum Chromodynamics at the Intensity Frontier (QCDIF 2027)": https://inspirehep.net/conferences/2840232
+"5th International Workshop on Dark Matter and New Physics (DMNP 2031)": https://inspirehep.net/conferences/2840233
+"7th International Workshop on Axion Physics and Experiments (AXION 2031)": https://inspirehep.net/conferences/2840234
+"9th International Workshop on Higgs Physics (HIGGS 2031)": https://inspirehep.net/conferences/2840235
+"11th International Workshop on Neutrino Interactions (NUINT 2031)": https://inspirehep.net/conferences/2840236
+"13th International Workshop on Hadron Structure and Spectroscopy (HSS 2031)": https://inspirehep.net/conferences/2840237
+"15th International Workshop on Charm Physics (CHARM 2031)": https://inspirehep.net/conferences/2840238
+"17th International Workshop on Top Quark Physics (TOP 2031)": https://inspirehep.net/conferences/2840239
+"19th International Workshop on Multiple Partonic Interactions at the LHC (MPI@LHC 2031)": https://inspirehep.net/conferences/2840240
+"21st International Workshop on Non-Perturbative QCD (NPQCD 2031)": https://inspirehep.net/conferences/2840241
+"23rd International Workshop on Baryon Structure (BARYONS 2031)": https://inspirehep.net/conferences/2840242
+"25th International Workshop on Tau Lepton Physics (TAU 2034)": https://inspirehep.net/conferences/2840243
+"27th International Workshop on Advanced Computing and Analysis Techniques in Physics Research (ACAT 2037)": https://inspirehep.net/conferences/2840244
+"2nd International Workshop on Quantum Chromodynamics at the Intensity Frontier (QCDIF 2026)": https://inspirehep.net/conferences/2840245
+"4th International Workshop on Precision Measurements at Low Energies (PMLE 2029)": https://inspirehep.net/conferences/2840246
+"6th International Workshop on Dark Matter and New Physics (DMNP 2032)": https://inspirehep.net/conferences/2840247
+"8th International Workshop on Gravitational Waves and Cosmology (GWC 2033)": https://inspirehep.net/conferences/2840248
+"10th International Workshop on Neutrino Telescopes (NeuTel 2033)": https://inspirehep.net/conferences/2840249
+"12th International Workshop on Lepton Scattering and Hadron Structure (LSHS 2033)": https://inspirehep.net/conferences/2840250
+"14th International Workshop on Flavor Physics and CP Violation (FPCP 2033)": https://inspirehep.net/conferences/2840251
+"16th International Workshop on B Physics and CP Violation (BCPV 2033)": https://inspirehep.net/conferences/2840252
+"18th International Workshop on Jet Physics (JET 2033)": https://inspirehep.net/conferences/2840253
+"20th International Workshop on Heavy Quarkonium (HQ 2033)": https://inspirehep.net/conferences/2840254
+"22nd International Workshop on Deep Inelastic Scattering and Related Subjects (DIS 2035)": https://inspirehep.net/conferences/2840255
+"24th International Workshop on Low Energy Positron and Positronium Physics (POSMOL 2031)": https://inspirehep.net/conferences/2840256
+"26th International Workshop on Advanced Computing and Analysis Techniques in Physics Research (ACAT 2039)": https://inspirehep.net/conferences/2840257
+"1st International Workshop on Exotic Hadrons (EXOHAD 2026)": https://inspirehep.net/conferences/2840258
+"3rd International Workshop on Neutrino Physics at the Intensity Frontier (NPIF 2027)": https://inspirehep.net/conferences/2840259
+"5th International Workshop on Quantum Chromodynamics at the Intensity Frontier (QCDIF 2029)": https://inspirehep.net/conferences/2840260
+"7th International Workshop on Dark Matter and New Physics (DMNP 2033)": https://inspirehep.net/conferences/2840261
+"9th International Workshop on Axion Physics and Experiments (AXION 2033)": https://inspirehep.net/conferences/2840262
+"11th International Workshop on Higgs Physics (HIGGS 2033)": https://inspirehep.net/conferences/2840263
+"13th International Workshop on Neutrino Interactions (NUINT 2033)": https://inspirehep.net/conferences/2840264
+"15th International Workshop on Hadron Structure and Spectroscopy (HSS 2033)": https://inspirehep.net/conferences/2840265
+"17th International Workshop on Charm Physics (CHARM 2033)": https://inspirehep.net/conferences/2840266
+"19th International Workshop on Top Quark Physics (TOP 2033)": https://inspirehep.net/conferences/2840267
+"21st International Workshop on Multiple Partonic Interactions at the LHC (MPI@LHC 2033)": https://inspirehep.net/conferences/2840268
+"23rd International Workshop on Non-Perturbative QCD (NPQCD 2033)": https://inspirehep.net/conferences/2840269
+"25th International Workshop on Baryon Structure (BARYONS 2033)": https://inspirehep.net/conferences/2840270
+"27th International Workshop on Tau Lepton Physics (TAU 2036)": https://inspirehep.net/conferences/2840271
+"2nd International Workshop on Exotic Hadrons (EXOHAD 2027)": https://inspirehep.net/conferences/2840272
+"4th International Workshop on Neutrino Physics at the Intensity Frontier (NPIF 2029)": https://inspirehep.net/conferences/2840273
+"6th International Workshop on Precision Measurements at Low Energies (PMLE 2031)": https://inspirehep.net/conferences/2840274
+"8th International Workshop on Dark Matter and New Physics (DMNP 2034)": https://inspirehep.net/conferences/2840275
+"10th International Workshop on Gravitational Waves and Cosmology (GWC 2035)": https://inspirehep.net/conferences/2840276
+"12th International Workshop on Neutrino Telescopes (NeuTel 2035)": https://inspirehep.net/conferences/2840277
+"14th International Workshop on Lepton Scattering and Hadron Structure (LSHS 2035)": https://inspirehep.net/conferences/2840278
+"16th International Workshop on Flavor Physics and CP Violation (FPCP 2035)": https://inspirehep.net/conferences/2840279
+"18th International Workshop on B Physics and CP Violation (BCPV 2035)": https://inspirehep.net/conferences/2840280
+"20th International Workshop on Jet Physics (JET 2035)": https://inspirehep.net/conferences/2840281
+"22nd International Workshop on Heavy Quarkonium (HQ 2035)": https://inspirehep.net/conferences/2840282
+"24th International Workshop on Deep Inelastic Scattering and Related Subjects (DIS 2037)": https://inspirehep.net/conferences/2840283
+"26th International Workshop on Low Energy Positron and Positronium Physics (POSMOL 2033)": https://inspirehep.net/conferences/2840284
+"1st International Workshop on Lepton Universality and Flavor Violation (LUFV 2026)": https://inspirehep.net/conferences/2840285
+"3rd International Workshop on Exotic Hadrons (EXOHAD 2028)": https://inspirehep.net/conferences/2840286
+"5th International Workshop on Neutrino Physics at the Intensity Frontier (NPIF 2031)": https://inspirehep.net/conferences/2840287
+"7th International Workshop on Quantum Chromodynamics at the Intensity Frontier (QCDIF 2031)": https://inspirehep.net/conferences/2840288
+"9th International Workshop on Dark Matter and New Physics (DMNP 2035)": https://inspirehep.net/conferences/2840289
+"11th International Workshop on Axion Physics and Experiments (AXION 2035)": https://inspirehep.net/conferences/2840290
+"13th International Workshop on Higgs Physics (HIGGS 2035)": https://inspirehep.net/conferences/2840291
+"15th International Workshop on Neutrino Interactions (NUINT 2035)": https://inspirehep.net/conferences/2840292
+"17th International Workshop on Hadron Structure and Spectroscopy (HSS 2035)": https://inspirehep.net/conferences/2840293
+"19th International Workshop on Charm Physics (CHARM 2035)": https://inspirehep.net/conferences/2840294
+"21st International Workshop on Top Quark Physics (TOP 2035)": https://inspirehep.net/conferences/2840295
+"23rd International Workshop on Multiple Partonic Interactions at the LHC (MPI@LHC 2035)": https://inspirehep.net/conferences/2840296
+"25th International Workshop on Non-Perturbative QCD (NPQCD 2035)": https://inspirehep.net/conferences/2840297
+"27th International Workshop on Baryon Structure (BARYONS 2035)": https://inspirehep.net/conferences/2840298
+"2nd International Workshop on Lepton Universality and Flavor Violation (LUFV 2027)": https://inspirehep.net/conferences/2840299
+"4th International Workshop on Exotic Hadrons (EXOHAD 2029)": https://inspirehep.net/conferences/2840300
+"6th International Workshop on Neutrino Physics at the Intensity Frontier (NPIF 2033)": https://inspirehep.net/conferences/2840301
+"8th International Workshop on Precision Measurements at Low Energies (PMLE 2033)": https://inspirehep.net/conferences/2840302
+"10th International Workshop on Dark Matter and New Physics (DMNP 2036)": https://inspirehep.net/conferences/2840303
+"12th International Workshop on Gravitational Waves and Cosmology (GWC 2037)": https://inspirehep.net/conferences/2840304
+"14th International Workshop on Neutrino Telescopes (NeuTel 2037)": https://inspirehep.net/conferences/2840305
+"16th International Workshop on Lepton Scattering and Hadron Structure (LSHS 2037)": https://inspirehep.net/conferences/2840306
+"18th International Workshop on Flavor Physics and CP Violation (FPCP 2037)": https://inspirehep.net/conferences/2840307
+"20th International Workshop on B Physics and CP Violation (BCPV 2037)": https://inspirehep.net/conferences/2840308
+"22nd International Workshop on Jet Physics (JET 2037)": https://inspirehep.net/conferences/2840309
+"24th International Workshop on Heavy Quarkonium (HQ 2037)": https://inspirehep.net/conferences/2840310
+"26th International Workshop on Deep Inelastic Scattering and Related Subjects (DIS 2039)": https://inspirehep.net/conferences/2840311
+"1st International Workshop on Baryon Structure and Dynamics (BSD 2026)": https://inspirehep.net/conferences/2840312
+"3rd International Workshop on Lepton Universality and Flavor Violation (LUFV 2028)": https://inspirehep.net/conferences/2840313
+"5th International Workshop on Exotic Hadrons (EXOHAD 2030)": https://inspirehep.net/conferences/2840314
+"7th International Workshop on Neutrino Physics at the Intensity Frontier (NPIF 2035)": https://inspirehep.net/conferences/2840315
+"9th International Workshop on Quantum Chromodynamics at the Intensity Frontier (QCDIF 2033)": https://inspirehep.net/conferences/2840316
+"11th International Workshop on Dark Matter and New Physics (DMNP 2037)": https://inspirehep.net/conferences/2840317
+"13th International Workshop on Axion Physics and Experiments (AXION 2037)": https://inspirehep.net/conferences/2840318
+"15th International Workshop on Higgs Physics (HIGGS 2037)": https://inspirehep.net/conferences/2840319
+"17th International Workshop on Neutrino Interactions (NUINT 2037)": https://inspirehep.net/conferences/2840320
+"19th International Workshop on Hadron Structure and Spectroscopy (HSS 2037)": https://inspirehep.net/conferences/2840321
+"21st International Workshop on Charm Physics (CHARM 2037)": https://inspirehep.net/conferences/2840322
+"23rd International Workshop on Top Quark Physics (TOP 2037)": https://inspirehep.net/conferences/2840323
+"25th International Workshop on Multiple Partonic Interactions at the LHC (MPI@LHC 2037)": https://inspirehep.net/conferences/2840324
+"27th International Workshop on Non-Perturbative QCD (NPQCD 2037)": https://inspirehep.net/conferences/2840325
+"2nd International Workshop on Baryon Structure and Dynamics (BSD 2027)": https://inspirehep.net/conferences/2840326
+"4th International Workshop on Lepton Universality and Flavor Violation (LUFV 2029)": https://inspirehep.net/conferences/2840327
+"6th International Workshop on Exotic Hadrons (EXOHAD 2031)": https://inspirehep.net/conferences/2840328
+"8th International Workshop on Neutrino Physics at the Intensity Frontier (NPIF 2037)": https://inspirehep.net/conferences/2840329
+"10th International Workshop on Precision Measurements at Low Energies (PMLE 2035)": https://inspirehep.net/conferences/2840330
+"12th International Workshop on Dark Matter and New Physics (DMNP 2038)": https://inspirehep.net/conferences/2840331
+"14th International Workshop on Gravitational Waves and Cosmology (GWC 2039)": https://inspirehep.net/conferences/2840332
+"16th International Workshop on Neutrino Telescopes (NeuTel 2039)": https://inspirehep.net/conferences/2840333
+"18th International Workshop on Lepton Scattering and Hadron Structure (LSHS 2039)": https://inspirehep.net/conferences/2840334
+"20th International Workshop on Flavor Physics and CP Violation (FPCP 2039)": https://inspirehep.net/conferences/2840335
+"22nd International Workshop on B Physics and CP Violation (BCPV 2039)": https://inspirehep.net/conferences/2840336
+"24th International Workshop on Jet Physics (JET 2039)": https://inspirehep.net/conferences/2840337
+"26th International Workshop on Heavy Quarkonium (HQ 2039)": https://inspirehep.net/conferences/2840338
+"1st International Workshop on Kaon Physics (KAON 2026)": https://inspirehep.net/conferences/2840339
+"3rd International Workshop on Baryon Structure and Dynamics (BSD 2028)": https://inspirehep.net/conferences/2840340
+"5th International Workshop on Lepton Universality and Flavor Violation (LUFV 2030)": https://inspirehep.net/conferences/2840341
+"7th International Workshop on Exotic Hadrons (EXOHAD 2032)": https://inspirehep.net/conferences/2840342
+"9th International Workshop on Neutrino Physics at the Intensity Frontier (NPIF 2039)": https://inspirehep.net/conferences/2840343
+"11th International Workshop on Quantum Chromodynamics at the Intensity Frontier (QCDIF 2035)": https://inspirehep.net/conferences/2840344
+"13th International Workshop on Dark Matter and New Physics (DMNP 2039)": https://inspirehep.net/conferences/2840345
+"15th International Workshop on Axion Physics and Experiments (AXION 2039)": https://inspirehep.net/conferences/2840346
+"17th International Workshop on Higgs Physics (HIGGS 2039)": https://inspirehep.net/conferences/2840347
+"19th International Workshop on Neutrino Interactions (NUINT 2039)": https://inspirehep.net/conferences/2840348
+"21st International Workshop on Hadron Structure and Spectroscopy (HSS 2039)": https://inspirehep.net/conferences/2840349
+"23rd International Workshop on Charm Physics (CHARM 2039)": https://inspirehep.net/conferences/2840350
+"25th International Workshop on Top Quark Physics (TOP 2039)": https://inspirehep.net/conferences/2840351
+"27th International Workshop on Multiple Partonic Interactions at the LHC (MPI@LHC 2039)": https://inspirehep.net/conferences/2840352
+"2nd International Workshop on Kaon Physics (KAON 2027)": https://inspirehep.net/conferences/2840353
+"4th International Workshop on Baryon Structure and Dynamics (BSD 2029)": https://inspirehep.net/conferences/2840354
+"6th International Workshop on Lepton Universality and Flavor Violation (LUFV 2031)": https://inspirehep.net/conferences/2840355
+"8th International Workshop on Exotic Hadrons (EXOHAD 2033)": https://inspirehep.net/conferences/2840356
+"10th International Workshop on Neutrino Physics at the Intensity Frontier (NPIF 2041)": https://inspirehep.net/conferences/2840357
+"12th International Workshop on Precision Measurements at Low Energies (PMLE 2037)": https://inspirehep.net/conferences/2840358
+"14th International Workshop on Dark Matter and New Physics (DMNP 2040)": https://inspirehep.net/conferences/2840359
+"16th International Workshop on Gravitational Waves and Cosmology (GWC 2041)": https://inspirehep.net/conferences/2840360
+"18th International Workshop on Neutrino Telescopes (NeuTel 2041)": https://inspirehep.net/conferences/2840361
+"20th International Workshop on Lepton Scattering and Hadron Structure (LSHS 2041)": https://inspirehep.net/conferences/2840362
+"22nd International Workshop on Flavor Physics and CP Violation (FPCP 2041)": https://inspirehep.net/conferences/2840363
+"24th International Workshop on B Physics and CP Violation (BCPV 2041)": https://inspirehep.net/conferences/2840364
+"26th International Workshop on Jet Physics (JET 2041)": https://inspirehep.net/conferences/2840365
+"1st International Workshop on Hadron Physics (HADPHYS 2026)": https://inspirehep.net/conferences/2840366
+"3rd International Workshop on Kaon Physics (KAON 2028)": https://inspirehep.net/conferences/2840367
+"5th International Workshop on Baryon Structure and Dynamics (BSD 2030)": https://inspirehep.net/conferences/2840368
+"7th International Workshop on Lepton Universality and Flavor Violation (LUFV 2032)": https://inspirehep.net/conferences/2840369
+"9th International Workshop on Exotic Hadrons (EXOHAD 2034)": https://inspirehep.net/conferences/2840370
+"11th International Workshop on Neutrino Physics at the Intensity Frontier (NPIF 2043)": https://inspirehep.net/conferences/2840371
+"13th International Workshop on Quantum Chromodynamics at the Intensity Frontier (QCDIF 2037)": https://inspirehep.net/conferences/2840372
+"15th International Workshop on Dark Matter and New Physics (DMNP 2041)": https://inspirehep.net/conferences/2840373
+"17th International Workshop on Axion Physics and Experiments (AXION 2041)": https://inspirehep.net/conferences/2840374
+"19th International Workshop on Higgs Physics (HIGGS 2041)": https://inspirehep.net/conferences/2840375
+"21st International Workshop on Neutrino Interactions (NUINT 2041)": https://inspirehep.net/conferences/2840376
+"23rd International Workshop on Hadron Structure and Spectroscopy (HSS 2041)": https://inspirehep.net/conferences/2840377
+"25th International Workshop on Charm Physics (CHARM 2041)": https://inspirehep.net/conferences/2840378
+"27th International Workshop on Top Quark Physics (TOP 2041)": https://inspirehep.net/conferences/2840379
+"2nd International Workshop on Hadron Physics (HADPHYS 2027)": https://inspirehep.net/conferences/2840380
+"4th International Workshop on Kaon Physics (KAON 2029)": https://inspirehep.net/conferences/2840381
+"6th International Workshop on Baryon Structure and Dynamics (BSD 2031)": https://inspirehep.net/conferences/2840382
+"8th International Workshop on Lepton Universality and Flavor Violation (LUFV 2033)": https://inspirehep.net/conferences/2840383
+"10th International Workshop on Exotic Hadrons (EXOHAD 2035)": https://inspirehep.net/conferences/2840384
+"12th International Workshop on Neutrino Physics at the Intensity Frontier (NPIF 2045)": https://inspirehep.net/conferences/2840385
+"14th International Workshop on Precision Measurements at Low Energies (PMLE 2039)": https://inspirehep.net/conferences/2840386
+"16th International Workshop on Dark Matter and New Physics (DMNP 2042)": https://inspirehep.net/conferences/2840387
+"18th International Workshop on Gravitational Waves and Cosmology (GWC 2043)": https://inspirehep.net/conferences/2840388
+"20th International Workshop on Neutrino Telescopes (NeuTel 2043)": https://inspirehep.net/conferences/2840389
+"22nd International Workshop on Lepton Scattering and Hadron Structure (LSHS 2043)": https://inspirehep.net/conferences/2840390
+"24th International Workshop on Flavor Physics and CP Violation (FPCP 2043)": https://inspirehep.net/conferences/2840391
+"26th International Workshop on B Physics and CP Violation (BCPV 2043)": https://inspirehep.net/conferences/2840392
+"1st International Workshop on QCD and Hadron Physics (QCDHP 2026)": https://inspirehep.net/conferences/2840393
+"3rd International Workshop on Hadron Physics (HADPHYS 2028)": https://inspirehep.net/conferences/2840394
+"5th International Workshop on Kaon Physics (KAON 2030)": https://inspirehep.net/conferences/2840395
+"7th International Workshop on Baryon Structure and Dynamics (BSD 2032)": https://inspirehep.net/conferences/2840396
+"9th International Workshop on Lepton Universality and Flavor Violation (LUFV 2034)": https://inspirehep.net/conferences/2840397
+"11th International Workshop on Exotic Hadrons (EXOHAD 2036)": https://inspirehep.net/conferences/2840398
+"13th International Workshop on Neutrino Physics at the Intensity Frontier (NPIF 2047)": https://inspirehep.net/conferences/2840399
+"15th International Workshop on Quantum Chromodynamics at the Intensity Frontier (QCDIF 2039)": https://inspirehep.net/conferences/2840400
+"17th International Workshop on Dark Matter and New Physics (DMNP 2043)": https://inspirehep.net/conferences/2840401
+"19th International Workshop on Axion Physics and Experiments (AXION 2043)": https://inspirehep.net/conferences/2840402
+"21st International Workshop on Higgs Physics (HIGGS 2043)": https://inspirehep.net/conferences/2840403
+"23rd International Workshop on Neutrino Interactions (NUINT 2043)": https://inspirehep.net/conferences/2840404
+"25th International Workshop on Hadron Structure and Spectroscopy (HSS 2043)": https://inspirehep.net/conferences/2840405
+"27th International Workshop on Charm Physics (CHARM 2043)": https://inspirehep.net/conferences/2840406
+"2nd International Workshop on QCD and Hadron Physics (QCDHP 2027)": https://inspirehep.net/conferences/2840407
+"4th International Workshop on Hadron Physics (HADPHYS 2029)": https://inspirehep.net/conferences/2840408
+"6th International Workshop on Kaon Physics (KAON 2031)": https://inspirehep.net/conferences/2840409
+"8th International Workshop on Baryon Structure and Dynamics (BSD 2033)": https://inspirehep.net/conferences/2840410
+"10th International Workshop on Lepton Universality and Flavor Violation (LUFV 2035)": https://inspirehep.net/conferences/2840411
+"12th International Workshop on Exotic Hadrons (EXOHAD 2037)": https://inspirehep.net/conferences/2840412
+"14th International Workshop on Neutrino Physics at the Intensity Frontier (NPIF 2049)": https://inspirehep.net/conferences/2840413
+"16th International Workshop on Precision Measurements at Low Energies (PMLE 2041)": https://inspirehep.net/conferences/2840414
+"18th International Workshop on Dark Matter and New Physics (DMNP 2044)": https://inspirehep.net/conferences/2840415
+"20th International Workshop on Gravitational Waves and Cosmology (GWC 2045)": https://inspirehep.net/conferences/2840416
+"22nd International Workshop on Neutrino Telescopes (NeuTel 2045)": https://inspirehep.net/conferences/2840417
+"24th International Workshop on Lepton Scattering and Hadron Structure (LSHS 2045)": https://inspirehep.net/conferences/2840418
+"26th International Workshop on Flavor Physics and CP Violation (FPCP 2045)": https://inspirehep.net/conferences/2840419
+"1st International Workshop on Flavour Changing and Conserving Processes (FCCP 2026)": https://inspirehep.net/conferences/2840420
+"3rd International Workshop on QCD and Hadron Physics (QCDHP 2028)": https://inspirehep.net/conferences/2840421
+"5th International Workshop on Hadron Physics (HADPHYS 2030)": https://inspirehep.net/conferences/2840422
+"7th International Workshop on Kaon Physics (KAON 2032)": https://inspirehep.net/conferences/2840423
+"9th International Workshop on Baryon Structure and Dynamics (BSD 2034)": https://inspirehep.net/conferences/2840424
+"11th International Workshop on Lepton Universality and Flavor Violation (LUFV 2036)": https://inspirehep.net/conferences/2840425
+"13th International Workshop on Exotic Hadrons (EXOHAD 2038)": https://inspirehep.net/conferences/2840426
+"15th International Workshop on Neutrino Physics at the Intensity Frontier (NPIF 2051)": https://inspirehep.net/conferences/2840427
+"17th International Workshop on Quantum Chromodynamics at the Intensity Frontier (QCDIF 2041)": https://inspirehep.net/conferences/2840428
+"19th International Workshop on Dark Matter and New Physics (DMNP 2045)": https://inspirehep.net/conferences/2840429
+"21st International Workshop on Axion Physics and Experiments (AXION 2045)": https://inspirehep.net/conferences/2840430
+"23rd International Workshop on Higgs Physics (HIGGS 2045)": https://inspirehep.net/conferences/2840431
+"25th International Workshop on Neutrino Interactions (NUINT 2045)": https://inspirehep.net/conferences/2840432
+"27th International Workshop on Hadron Structure and Spectroscopy (HSS 2045)": https://inspirehep.net/conferences/2840433
+"2nd International Workshop on Flavour Changing and Conserving Processes (FCCP 2027)": https://inspirehep.net/conferences/2840434
+"4th International Workshop on QCD and Hadron Physics (QCDHP 2029)": https://inspirehep.net/conferences/2840435
+"6th International Workshop on Hadron Physics (HADPHYS 2031)": https://inspirehep.net/conferences/2840436
+"8th International Workshop on Kaon Physics (KAON 2033)": https://inspirehep.net/conferences/2840437
+"10th International Workshop on Baryon Structure and Dynamics (BSD 2035)": https://inspirehep.net/conferences/2840438
+"12th International Workshop on Lepton Universality and Flavor Violation (LUFV 2037)": https://inspirehep.net/conferences/2840439
+"14th International Workshop on Exotic Hadrons (EXOHAD 2039)": https://inspirehep.net/conferences/2840440
+"16th International Workshop on Neutrino Physics at the Intensity Frontier (NPIF 2053)": https://inspirehep.net/conferences/2840441
+"18th International Workshop on Precision Measurements at Low Energies (PMLE 2043)": https://inspirehep.net/conferences/2840442
+"20th International Workshop on Dark Matter and New Physics (DMNP 2046)": https://inspirehep.net/conferences/2840443
+"22nd International Workshop on Gravitational Waves and Cosmology (GWC 2047)": https://inspirehep.net/conferences/2840444
+"24th International Workshop on Neutrino Telescopes (NeuTel 2047)": https://inspirehep.net/conferences/2840445
+"26th International Workshop on Lepton Scattering and Hadron Structure (LSHS 2047)": https://inspirehep.net/conferences/2840446
+"1st International Workshop on Low Energy Electron Ion Collisions (LEIC 2026)": https://inspirehep.net/conferences/2840447
+"3rd International Workshop on Flavour Changing and Conserving Processes (FCCP 2028)": https://inspirehep.net/conferences/2840448
+"5th International Workshop on QCD and Hadron Physics (QCDHP 2030)": https://inspirehep.net/conferences/2840449
+"7th International Workshop on Hadron Physics (HADPHYS 2032)": https://inspirehep.net/conferences/2840450
+"9th International Workshop on Kaon Physics (KAON 2034)": https://inspirehep.net/conferences/2840451
+"11th International Workshop on Baryon Structure and Dynamics (BSD 2036)": https://inspirehep.net/conferences/2840452
+"13th International Workshop on Lepton Universality and Flavor Violation (LUFV 2038)": https://inspirehep.net/conferences/2840453
+"15th International Workshop on Exotic Hadrons (EXOHAD 2040)": https://inspirehep.net/conferences/2840454
+"17th International Workshop on Neutrino Physics at the Intensity Frontier (NPIF 2055)": https://inspirehep.net/conferences/2840455
+"19th International Workshop on Quantum Chromodynamics at the Intensity Frontier (QCDIF 2043)": https://inspirehep.net/conferences/2840456
+"21st International Workshop on Dark Matter and New Physics (DMNP 2047)": https://inspirehep.net/conferences/2840457
+"23rd International Workshop on Axion Physics and Experiments (AXION 2047)": https://inspirehep.net/conferences/2840458
+"25th International Workshop on Higgs Physics (HIGGS 2047)": https://inspirehep.net/conferences/2840459
+"27th International Workshop on Neutrino Interactions (NUINT 2047)": https://inspirehep.net/conferences/2840460
+"2nd International Workshop on Low Energy Electron Ion Collisions (LEIC 2027)": https://inspirehep.net/conferences/2840461
+"4th International Workshop on Flavour Changing and Conserving Processes (FCCP 2029)": https://inspirehep.net/conferences/2840462
+"6th International Workshop on QCD and Hadron Physics (QCDHP 2031)": https://inspirehep.net/conferences/2840463
+"8th International Workshop on Hadron Physics (HADPHYS 2033)": https://inspirehep.net/conferences/2840464
+"10th International Workshop on Kaon Physics (KAON 2035)": https://inspirehep.net/conferences/2840465
+"12th International Workshop on Baryon Structure and Dynamics (BSD 2037)": https://inspirehep.net/conferences/2840466
+"14th International Workshop on Lepton Universality and Flavor Violation (LUFV 2039)": https://inspirehep.net/conferences/2840467
+"16th International Workshop on Exotic Hadrons (EXOHAD 2041)": https://inspirehep.net/conferences/2840468
+"18th International Workshop on Neutrino Physics at the Intensity Frontier (NPIF 2057)": https://inspirehep.net/conferences/2840469
+"20th International Workshop on Precision Measurements at Low Energies (PMLE 2045)": https://inspirehep.net/conferences/2840470
+"22nd International Workshop on Dark Matter and New Physics (DMNP 2048)": https://inspirehep.net/conferences/2840471
+"24th International Workshop on Gravitational Waves and Cosmology (GWC 2049)": https://inspirehep.net/conferences/2840472
+"26th International Workshop on Neutrino Telescopes (NeuTel 2049)": https://inspirehep.net/conferences/2840473
+"1st International Workshop on Parton Distributions and QCD (PDQCD 2026)": https://inspirehep.net/conferences/2840474
+"3rd International Workshop on Low Energy Electron Ion Collisions (LEIC 2028)": https://inspirehep.net/conferences/2840475
+"5th International Workshop on Flavour Changing and Conserving Processes (FCCP 2030)": https://inspirehep.net/conferences/2840476
+"7th International Workshop on QCD and Hadron Physics (QCDHP 2032)": https://inspirehep.net/conferences/2840477
+"9th International Workshop on Hadron Physics (HADPHYS 2034)": https://inspirehep.net/conferences/2840478
+"11th International Workshop on Kaon Physics (KAON 2036)": https://inspirehep.net/conferences/2840479
+"13th International Workshop on Baryon Structure and Dynamics (BSD 2038)": https://inspirehep.net/conferences/2840480
+"15th International Workshop on Heavy Quarkonium (HQ 2047)": https://inspirehep.net/conferences/2840481
+"17th International Workshop on Strangeness in Quark Matter (SQM 2026)": https://inspirehep.net/conferences/2860139
+"The International Conference on High Energy and Astroparticle Physics (HEAP 2026)": https://inspirehep.net/conferences/2860140
+"Beauty, Charm, and Hyperons in Hadronic Interactions (BEACH 2026)": https://inspirehep.net/conferences/2860150
+"International Workshop on Meson-Nucleon Physics and the Structure of the Hadron (MENU 2026)": https://inspirehep.net/conferences/2860153
+"International Conference on QCD in Extreme Conditions (XCQCD 2026)": https://inspirehep.net/conferences2860266
+"International Workshop on High Energy Physics and Quantum (QFTHEP 2026)": https://inspirehep.net/conferences/2860274
+"International Workshop on Supersymmetry and Unification of Fundamental Interactions (SUSY 2026)": https://inspirehep.net/conferences/2860286
+
+# Uni-Mainz Condensed Matter Theory Group List of statistical mechanics/soft matter conferences
+"Les Houches School of Physics: From Soft Matter to Biophysics": https://www.we-heraeus-stiftung.de/veranstaltungen/from-soft-matter-to-biophysics-2025/main/
+"CECAM Workshop:  Flowing matter in porous media": https://www.cecam.org/workshop-details/flowing-matter-in-porous-media-1323
+"Annual CSP workshop: Recent developments in computer simulation studies in condensed matter physics": https://www.csp.uga.edu/annual-workshop
+"Physics of Life conference 2025": https://iop.eventsair.com/pol2025/
+"Charged Matter": https://charged-matter-2025.pages.ist.ac.at/
+"Statistical Physics of Active Matter": https://activestatmech.sciencesconf.org/
+"Faraday Discussion meeting: Structural and functional asymmetry of plasma membranes": https://www.rsc.org/events/detail/77759/
+"Workshop: Non-equilibrium thermodynamics: From chemical reactions to machine learning": https://higgs.ph.ed.ac.uk/workshops/non-equilibrium-thermodynamics/
+"Symposium: The Physics of Collective Cell Dynamics and Morphogenesis": https://iop.eventsair.com/cdm2025/
+"International workshop on advances in mechanobiology": https://eu-softcomp.net/forums/topic/international-workshop-on-advances-in-mechanobiology-napoli-27-30-april-2024/
+"Crystallisation and Self-Assembly Workshop: from Soft Matter to Biomineralisation": https://crystalsandsea.sciencesconf.org/
+"CECAM Workshop: Stochastic processes - Inferences in complex systems": https://www.cecam.org/workshop-details/1390
+"Workshop in honor of the 85th birthday of Peter Grassberger: Efficient Numerical Analysis in Complexity Sciences": https://www.pks.mpg.de/enacs25/
+"Leuven School: Basics of Nonequilibrium statistical mechanics": https://indico.fys.kuleuven.be/e/muphi.noneq
+"19th Dresden Polymer Discussion: Biomolecular Condensates and Polymer Phase Transitions": https://dpd.ipfdd.de
+"Thematic program: Active Matter: The synergy between Maths and Physics
+"(with minicourses and conference week in June 2-6, 2025": https://indico.math.cnrs.fr/event/12307
+"International workshop: Physics of Biological Systems": https://higgs.ph.ed.ac.uk/workshops/physics-of-biological-systems/
+"Beg Rohu Summer School on Statistical Physics": https://www.phys.ens.psl.eu/en/cours/beg-rohu-summer-school-physics
+"Workshop on Bioinspired Soft Matter": https://higgs.ph.ed.ac.uk/workshops/bioinspired-soft-matter/
+"12th International Workshop on Functional Nanomaterials": https://www.nanoge.org/FUNMAT2025/home
+"16th Polymer Meeting": https://pm16.org/
+"39th Marian Smoluchowski Symposium on Statistical Physics": http://www.smoluchowski.if.uj.edu.pl
+"CECAM Workshop: Entropy of Soft Matter Systems": https://www.cecam.org/workshop-details/entropy-of-soft-matter-systems-1394
+"CECAM workshop: Dynamics of non-equilibrium variables: Multiscale-multiphysics applications of fluctuating hydrodynamics": https://www.cecam.org/workshop-details/1408
+"Conference on Computational Physics (CCP2025)": https://ccp2025.fuw.edu.pl/
+"DPG Spring Meeting (Condensed Matter Section)": https://berlin25.dpg-tagungen.de/
+"DPG-Tagung der Sektion Kondensierte Materie": https://berlin25.dpg-tagungen.de/
+"Emergence and Self-organization in Biological Systems": https://esbs2025.physik.uni-muenchen.de/
+"Faraday Discussion meeting: Structural and functional asymmetry of plasma membranes": https://www.rsc.org/events/detail/77759/
+"International Conference on Quantum Fluids and Solids (QFS2025)": https://qfs2025.org/
+"International Soft Matter Conference (ISMC)": https://ismc2025.ippt.pan.pl/
+"International Workshop on Machine Learning for Soft and Active Matter": https://mlsam2025.mpip-mainz.mpg.de/
+"Langevin 125": https://langevin125.sciencesconf.org/
+"Mainz Materials Simulation Days (MMSD 2025): Life-like and living materials": https://mmsd2025.uni-mainz.de/
+"Mini-Symposium: Nonlinear Scaling in Material Failure": https://complas2025.cimne.com/event/area/e631da06-907d-11ef-b344-000c29ddfc0c
+"Non-equilibrium thermodynamics: From chemical reactions to machine learning": https://higgs.ph.ed.ac.uk/workshops/non-equilibrium-thermodynamics/
+"SCALES Conference 2025: Multiscale Modeling of Complex Systems": https://model.uni-mainz.de/scales-conference-2025
+"Symposium: The Physics of Collective Cell Dynamics and Morphogenesis": https://iop.eventsair.com/cdm2025/
+"Workshop on Active Matter at Surfaces and Interfaces": https://www.fkf.mpg.de/8030953/Active-Matter-at-Surfaces-and-Interfaces
+"Workshop on Geometric and Topological Aspects of Soft and Active Matter": https://www.maths.ox.ac.uk/node/71781
+"Workshop on Non-Equilibrium Phenomena in Soft Matter": https://www.lorentzcenter.nl/non-equilibrium-phenomena-in-soft-matter.html
+"Workshop on Statistical Physics and Machine Learning": https://ml4sp2025.sciencesconf.org/
+"Workshop: Advances in Computational Statistical Physics": https://csp2025.sciencesconf.org/
+"Workshop: Computational approaches to active and driven soft matter": https://www.cecam.org/workshop-details/1393
+"Workshop: Computational methods for active matter": https://www.lorentzcenter.nl/computational-methods-for-active-matter.html
+"Workshop: Glassy Systems and Interdisciplinary Applications": https://www.ipht.fr/en/Meeting/2025/GlassySystems
+"Workshop: Machine Learning for Soft Matter": https://www.fkf.mpg.de/8029338/Machine-Learning-for-Soft-Matter
+"Workshop: Non-equilibrium dynamics of complex fluids": https://www.lorentzcenter.nl/non-equilibrium-dynamics-of-complex-fluids.html
+"Workshop: Non-equilibrium thermodynamics of soft and active matter": https://www.cecam.org/workshop-details/1396
+"Workshop: Physics of Biological and Soft Matter under External Stimuli": https://www.lorentzcenter.nl/physics-of-biological-and-soft-matter-under-external-stimuli.html
+"Workshop: Rheology of Dense Suspensions": https://www.lorentzcenter.nl/rheology-of-dense-suspensions.html
+"Workshop: Statistical Physics of Active Matter": https://www.ipht.fr/en/Meeting/2025/ActiveMatter
+"Workshop: Statistical mechanics of deep learning": https://www.lorentzcenter.nl/statistical-mechanics-of-deep-learning.html
+"Workshop: Structure formation in soft and biological matter": https://www.lorentzcenter.nl/structure-formation-in-soft-and-biological-matter.html
+"Workshop: Topology and Geometry in Soft Matter": https://www.lorentzcenter.nl/topology-and-geometry-in-soft-matter.html
+"Workshop: Wetting of soft or microstructured surfaces": https://www.lorentzcenter.nl/wetting-of-soft-or-microstructured-surfaces.html
+"XIV International Workshop on Complex Systems": https://complexsystems2025.fbk.eu/
+

@@ -1,0 +1,262 @@
+"14th International Conference on Extreme Value Analysis (EVA 2025)": https://eva2025.unc.edu/
+"44th Conference on Stochastic Processes and their Applications": https://spa.pwr.edu.pl/
+"24th European Young Statisticians Meeting (EYSM) 2025": https://sites.google.com/view/eysm2025
+"28th Brazilian School of Probability": https://sites.google.com/view/28ebp
+"65th World Statistics Congress": https://www.isi-next.org/
+"One World Probability Seminar": https://www.owprobability.org/
+"One World Extremes Seminar": https://sites.google.com/view/oneworldextremesseminar
+"One World YoungStatS Webinar": https://youngstats.github.io/
+"Asia-Pacific Seminars in Probability and Statistics": https://sites.google.com/view/apsps
+
+"EUROMECH Colloquium 629: Data-driven fluid mechanics": https://euromech.org/colloquia/629
+"EUROMECH Colloquium 640: Gradient mechanics across materials, processes and scales": https://euromech.org/colloquia/640
+"EUROMECH Colloquium 647: Stability and bifurcation problems in nonlinear solid mechanics": https://euromech.org/colloquia/647
+"EUROMECH Colloquium 650: Addressing Challenges in Applied Mechanics through Artificial Intelligence Applications": https://euromech.org/colloquia/650
+"EUROMECH Colloquium 651: Films, bubbles, droplets and phase change": https://euromech.org/colloquia/651
+"EUROMECH Colloquium 652: Non-spherical particles in turbulence: recent advances in theory, simulation and experiments": https://euromech.org/colloquia/652
+"EUROMECH Colloquium 653: Mechanics of interfaces": https://euromech.org/colloquia/653
+"EUROMECH Colloquium 654: Bio-inspired Fluid-Structure Interaction": https://euromech.org/colloquia/654
+"EUROMECH Colloquium 655: Cutting mechanics of soft tissues: Nonlinear fracture and contact mechanics": https://euromech.org/colloquia/655
+"EUROMECH Colloquium 656: Data-driven mechanics and physics of solids": https://euromech.org/colloquia/656
+"EUROMECH Colloquium 657: Recent advances in non-smooth dynamics": https://euromech.org/colloquia/657
+"EUROMECH Colloquium 658: Coherent structures and instabilities in transitional and turbulent wall-bounded flows": https://euromech.org/colloquia/658
+"EUROMECH Colloquium 659: Metamaterials in fluid flows and beyond": https://euromech.org/colloquia/659
+
+"Advancements in Nuclear Instrumentation Measurement Methods and their Applications (ANIMMA) 2025": https://indico.utef.cvut.cz/event/animma2025
+"Pulsed Power and Plasma Science (PPPS) 2025": https://www.ppps2025.kit.edu
+"Symposium on Fusion Engineering (SOFE) 2025": https://plasmafusion.eventsair.com/sofe2025
+"Nuclear and Space Radiation Effects Conference (NSREC) 2025": https://www.nsrec.com
+"IEEE Symposium on Radiation Measurements and Applications (SORMA) 2025": https://sormawest.org
+"North American Particle Accelerator Conference (NAPAC) 2025": https://events.slac.stanford.edu/napac2025
+"RADiation and its Effects on Components and Systems (RADECS) 2025": https://www.radecs2025.org
+"Nuclear Science Symposium, Medical Imaging and Room-Temperature Semiconductor Conference (NSS/MIC/RTSD) 2025": https://www.nss-mic-rtsd2025.org
+
+"9th Asia-Pacific Conference on Plasma Physics (AAPPS-DPP 2025)": https://www.aappsdpp.org/DPP2025/
+"10th Asia-Pacific Conference on Plasma Physics (AAPPS-DPP 2026)": https://www.aappsdpp.org/DPP2026/
+
+"246th AAS Summer Meeting": https://www.aip.org/aip/events
+"75th ACA Annual Meeting": https://www.aip.org/aip/events
+"AAPM Annual Meeting": https://www.aip.org/aip/events
+"Sixth Early-Career Conference for Historians of the Physical Sciences": https://www.aip.org/history/early-career-conference
+
+"5th European Conference on Physical Chemistry (ECPC25)": https://www.euchems.eu/divisions/physical-chemistry-2/conferences/
+"7th EuChemS Conference on Green and Sustainable Chemistry & International Conference on Green and Sustainable Chemistry (7th EUGSC & ICGSC2025)": https://www.euchems.eu/events-overview/euchems-events-calendar/
+"International Conference Celebrating the 220th Anniversary of the First Theory of Electrolysis by Theodor von Grotthuss (Grottuss 2025)": https://www.euchems.eu/events-overview/euchems-events-calendar/
+"19th International Conference on Chemistry and the Environment (ICCE 2025)": https://www.euchems.eu/events-overview/euchems-events-calendar/
+
+"29th Central European Workshop on Quantum Optics": https://members.eps.org/events/event_list.asp
+"CLEO®/Europe-EQEC 2025": https://members.eps.org/events/event_list.asp
+
+"2025 IEEE Conference on Artificial Intelligence (IEEE CAI)": https://tc.computer.org/tcbis/conferences/
+"2024 IEEE International Conference on e-Business Engineering (ICEBE 2024)": https://tc.computer.org/tcbis/conferences/
+"2024 IEEE International Congress on Intelligent and Service-Oriented Systems Engineering (CISOSE)": https://tc.computer.org/tcbis/conferences/
+
+"IEEE ISIT 2025 Wireless Wanderlust Data Science Competition": https://www.itsoc.org/news-events/upcoming-events
+
+"2025 INFORMS International Meeting": https://meetings.informs.org/wordpress/2025international/
+"2025 INFORMS Annual Meeting": https://meetings.informs.org/wordpress/seattle2024/
+
+"The 25th Annual IMS New Researchers Conference (NRC)": https://ww2.amstat.org/dateline/index.cfm?fuseaction=upcoming
+
+"51st Annual Plasma Physics Conference": https://www.iop.org/events/51st-annual-plasma-physics-conference
+"Advanced School in Liquids and Complex Fluids: Solutions in the Spring": https://www.iop.org/physics-community/iop-conferences
+"WIN 2025 - International Workshop on Weak Interactions and Neutrinos": https://www.iop.org/physics-community/iop-conferences
+"Condensed Matter and Quantum Materials": https://www.iop.org/physics-community/iop-conferences
+"24th International Conference on General Relativity and Gravitation & 16th Edoardo Amaldi Conference on Gravitational Waves": https://www.iop.org/physics-community/iop-conferences
+
+"International Conference of Industrial and Applied Mathematics (ICoIAM 2025)": https://iciam.net/
+"11th ICIAM Congress (ICIAM 2027)": https://iciam2027.org/
+
+"IFIP Networking 2025": https://networking.ifip.org/2025/
+
+"International Workshop on Objective Bayesian Methodology": https://bayesian.org/events/upcoming-meetings/
+
+"65th ISI World Statistics Congress": https://www.isi-next.org/conferences/
+"ISLP Poster Competition 2025": https://www.isi-next.org/conferences/
+
+"65th ISI World Statistics Congress": https://www.isi-next.org/conferences/
+"ISLP Poster Competition 2025": https://www.isi-next.org/conferences/
+
+"FloHet 2009 - Heterocyclic Chemistry": https://publications.iupac.org/symposia/index.html
+
+"29th IUPAP International Conference on Statistical Physics (StatPhys29)": https://iupap.org/conferences/approved-conferences-of-the-year/
+"THE XIX International Conference on Topics in Astroparticle and Underground Physics (TAUP2025)": https://iupap.org/conferences/approved-conferences-of-the-year/
+"30th International Conference on Low Temperature Physics": https://iupap.org/conferences/approved-conferences-of-the-year/
+
+"University of Florida Winter Workshop on Computational Methods in Bayesian Statistics": https://imstat.org/meetings-calendar/2025/1/
+"Applied Statistics 2025": https://imstat.org/meetings-calendar/applied-statistics-2025/
+"International Conference on Statistics and Data Science": https://imstat.org/meetings-calendar/
+"3rd International Mathematics and Statistics Student Research Symposium (IMSSRS)": https://imstat.org/meetings-calendar/2025/
+"Kansas Women in Math Symposium 2025": https://imstat.org/meetings-calendar/2025/
+"2025 Joint Statistical Meetings (JSM)": https://imstat.org/meetings-calendar/2025-jsm/
+"Joint Meetings of 2025 Taipei International Statistical Symposium and 13th ICSA International Conference": https://imstat.org/meetings-calendar/joint-meetings-of-2025-taipei-international-statistical-symposium-and-13th-icsa-international-conference/
+
+"Energy 2025": https://www.iop.org/events/energy-2025
+"Magnetism 2025": https://www.iop.org/events/magnetism-2025
+"Nuclear Physics Conference 2025": https://www.iop.org/events/nuclear-physics-conference-2025
+"IOP Joint APP and HEPP Annual Conference 2025": https://www.iop.org/events/iop-joint-app-and-hepp-annual-conference-2025
+"Condensed Matter and Quantum Materials (CMQM) 2025": https://www.iop.org/events/condensed-matter-and-quantum-materials-cmqm-2025
+"Particle Accelerators and Beams Conference": https://www.iop.org/events/particle-accelerators-and-beams-conference-0
+"Physics of Life 2025": https://www.iop.org/events/physics-life-2025
+
+"Network Traffic Measurement and Analysis Conference 2025 (TMA 2025)": https://www.ifip.org/listevents/ifip-events/
+"International Conference on Entertainment Computing (IFIP-ICEC 2025)": https://www.ifip.org/listevents/ifip-events/
+"Advances in Production Management Systems (APMS 2025)": https://www.ifip.org/listevents/ifip-events/
+
+"2025 Objective Bayes (O’Bayes) Methodology Conference": https://obayes25.aueb.gr
+
+"53rd IUPAC General Assembly": https://iupac.org/events/
+"IUPAC World Chemistry Congress 2025": https://iupac.org/events/
+
+"29th IUPAP International Conference on Statistical Physics (StatPhys29)": https://iupap.org/conferences/approved-conferences-of-the-year/
+"THE XIX International Conference on Topics in Astroparticle and Underground Physics (TAUP2025)": https://iupap.org/conferences/approved-conferences-of-the-year/
+"30th International Conference on Low Temperature Physics": https://iupap.org/conferences/approved-conferences-of-the-year/
+"ULT2025 – Frontiers of Low Temperature Physics": https://iupap.org/conferences/approved-conferences-of-the-year/
+"13th International Conference on Magnetic and Superconducting Materials (MSM-2025)": https://iupap.org/conferences/approved-conferences-of-the-year/
+"IBA-PIXE 2025": https://iupap.org/conferences/approved-conferences-of-the-year/
+"Higgs Hunting 2025": https://iupap.org/conferences/approved-conferences-of-the-year/
+"2025 European Physical Society Conference on High Energy Physics (EPS-HEP2025)": https://iupap.org/conferences/approved-conferences-of-the-year/
+"International Conference on Large Hadron Collider Physics (LHCP25)": https://iupap.org/conferences/approved-conferences-of-the-year/
+"32nd International Symposium on Lepton Photon Interactions at High Energies": https://iupap.org/conferences/approved-conferences-of-the-year/
+"38th Mazurian Conference on Physics": https://iupap.org/conferences/approved-conferences-of-the-year/
+"31st International Conference On Ultrarelativistic Nucleus-Nucleus Collisions (Quark Matter 2025)": https://iupap.org/conferences/approved-conferences-of-the-year/
+"29th International Nuclear Physics Conference (INPC 2025)": https://iupap.org/conferences/approved-conferences-of-the-year/
+"C13 HEPNP2025": https://iupap.org/conferences/approved-conferences-of-the-year/
+"8th African School on Electronic Structure Methods and Applications (ASESMA-2025)": https://iupap.org/conferences/approved-conferences-of-the-year/
+"Bangkok School and Workshop on Cosmology": https://iupap.org/conferences/approved-conferences-of-the-year/
+"Advanced School and Workshop: StatPhys in Kigali": https://iupap.org/conferences/approved-conferences-of-the-year/
+"XVI Interamerican Conference on Physics Education": https://iupap.org/conferences/approved-conferences-of-the-year/
+"International Conference on Physics Education – ICPE2025": https://iupap.org/conferences/approved-conferences-of-the-year/
+"34th International Conference on Photonic, Electronic and Atomic Collisions (ICPEAC XXXIV)": https://iupap.org/conferences/approved-conferences-of-the-year/
+"26th International Conference on Laser Spectroscopy – ICOLS2025": https://iupap.org/conferences/approved-conferences-of-the-year/
+"International Conference on Phenomena in Ionized Gases": https://iupap.org/conferences/approved-conferences-of-the-year/
+"13th International Conference on Inertial Fusion Sciences and Applications (IFSA2025)": https://iupap.org/conferences/approved-conferences-of-the-year/
+"Mathematical Results in Quantum Theory (QMATH) 16": https://iupap.org/conferences/approved-conferences-of-the-year/
+"33rd Texas Symposium on Relativistic Astrophysics": https://iupap.org/conferences/approved-conferences-of-the-year/
+"XXXVI IUPAP Conference on Computational Physics (CCP2025)": https://iupap.org/conferences/approved-conferences-of-the-year/
+"GR24/Amaldi16": https://iupap.org/conferences/approved-conferences-of-the-year/
+"IUPESM World Congress on Medical Physics and Biomedical Engineering 2025": https://iupap.org/conferences/approved-conferences-of-the-year/
+"International Conference of Physics Students (ICPS-2025)": https://iupap.org/conferences/approved-conferences-of-the-year/
+"PLANCKS-2025": https://iupap.org/conferences/approved-conferences-of-the-year/
+
+"9th Asia-Pacific Conference on Plasma Physics (AAPPS-DPP 2025)": https://www.aappsdpp.org/DPP2025/
+
+"246th AAS Summer Meeting": https://www.aip.org/aip/events
+"75th ACA Annual Meeting": https://www.aip.org/aip/events
+"AAPM Annual Meeting": https://www.aip.org/aip/events
+"2025 AIP Annual Forum": https://www.aip.org/federation/annual-forum
+
+"14th European Conference on Computational and Theoretical Chemistry (EuChemS CompChem 2025)": https://www.eucompchem2025.unina.it/
+"Ilmac Conference: 4th Swiss Green & Sustainable Chemistry Days 2025": https://www.euchems.eu/events-overview/euchems-events-calendar/
+"21st International Students Conference Modern Analytical Chemistry (MAC)": https://www.euchems.eu/events-overview/euchems-events-calendar/
+
+"2025 IEEE International Conference on Cluster Computing (CLUSTER)": https://www.computer.org/
+"2025 IEEE/CVF International Conference on Computer Vision (ICCV)": https://www.computer.org/
+"2025 IEEE Visualization and Visual Analytics (VIS)": https://www.computer.org/
+"2025 ACM/IEEE Joint Conference on Digital Libraries (JCDL)": https://tc.computer.org/tcmc/2025-sponsored-conferences/
+"2025 IEEE 25th International Conference on Bioinformatics and Bioengineering (BIBE)": https://tc.computer.org/tcmc/2025-sponsored-conferences/
+"2025 IEEE 37th International Conference on Tools with Artificial Intelligence (ICTAI)": https://tc.computer.org/tcmc/2025-sponsored-conferences/
+"2025 IEEE Symposium on Visual Languages and Human-Centric Computing (VL/HCC)": https://tc.computer.org/tcmc/2025-sponsored-conferences/
+"2025 IEEE International Conference on Information Reuse and Integration for Data Science (IRI)": https://tc.computer.org/tcmc/2025-sponsored-conferences/
+"2025 IEEE International Conference on Multimedia Information Processing and Retrieval (MIPR)": https://tc.computer.org/tcmc/2025-sponsored-conferences/
+"2025 IEEE International Conference on Multimedia and Expo (ICME)": https://tc.computer.org/tcmc/2025-sponsored-conferences/
+"2025 6th International Conference on Computer Vision and Data Mining (ICCVDM)": https://tc.computer.org/tcmc/2025-sponsored-conferences/
+"2025 16th International Conference on Information, Intelligence, Systems & Applications": https://tc.computer.org/tcmc/2025-sponsored-conferences/
+"2025 International Conference on Computing, Networking and Communications (ICNC)": https://tc.computer.org/tcmc/2025-sponsored-conferences/
+
+"IEEE ISIT 2025 Wireless Wanderlust Data Science Competition": https://www.itsoc.org/news-events/upcoming-events
+"2025 IEEE Information Theory Workshop (ITW)": https://www.itsoc.org/event/2025-ieee-information-theory-workshop-itw-0
+"13th International Symposium on Topics in Coding (ISTC 2025)": https://www.itsoc.org/
+
+"2025 INFORMS International Conference": https://meetings.informs.org/wordpress/2025international/
+"2025 INFORMS Annual Meeting": https://www.informs.org/Meetings-Conferences/INFORMS-Conference-Calendar/2025-INFORMS-Annual-Meeting
+"2025 INFORMS Applied Probability Conference": https://www.informs.org/Meetings-Conferences/INFORMS-Conference-Calendar/(cc_category)/(cc_year)/2025
+
+"2025 WNAR/IMS Annual Meeting": https://imstat.org/meetings-calendar/2025-wnar-ims-annual-meeting/
+"Applied Statistics 2025": https://imstat.org/meetings-calendar/applied-statistics-2025/
+
+"Artificial Intelligence: Utopia or Dystopia": https://www.iop.org/physics-community/iop-conferences
+"Advanced School in Liquids and Complex Fluids: Solutions in the Spring": https://www.iop.org/physics-community/iop-conferences
+"The International Workshop on Weak Interactions and Neutrinos (WIN2025)": https://www.iop.org/physics-community/iop-conferences
+"Optics in Clinical Practice": https://www.iop.org/physics-community/iop-conferences
+"TCM 2025 Theory of Condensed Matter Day": https://www.iop.org/physics-community/iop-conferences
+"Physics Within the Cell": https://www.iop.org/physics-community/iop-conferences
+"Fundamental Mechanics for Future Microfluidics": https://www.iop.org/physics-community/iop-conferences
+"Public Lecture - Quantum Entangled Beasts: How and Where to Find Them": https://www.iop.org/physics-community/iop-conferences
+"Imaging of Elasticity Workshop": https://www.iop.org/physics-community/iop-conferences
+"Condensed Matter and Quantum Materials": https://www.iop.org/physics-community/iop-conferences
+"Ultra-wide bandgap oxides (UWO 2025)": https://www.iop.org/physics-community/iop-conferences
+"UK Symposium on Materials for Sustainability": https://www.iop.org/physics-community/iop-conferences
+"Particle Accelerators and Beams Conference 2025 (PAB 2025)": https://www.iop.org/physics-community/iop-conferences
+"12th International Symposium on Metallic Multilayers (MML2025)": https://www.iop.org/physics-community/iop-conferences
+"24th International Conference on General Relativity and Gravitation & 16th Edoardo Amaldi Conference on Gravitational Waves": https://www.iop.org/physics-community/iop-conferences
+"Spin Caloritronics XIV": https://www.iop.org/physics-community/iop-conferences
+"Neutron Scattering Group Early Career Meeting": https://www.iop.org/physics-community/iop-conferences
+"Quantum Geometry in Quantum Materials": https://www.iop.org/physics-community/iop-conferences
+"62nd European High Pressure Research Group Meeting": https://www.iop.org/physics-community/iop-conferences
+"QuAMP 2025": https://www.iop.org/physics-community/iop-conferences
+"London Imaging Meeting: Lighting and Imaging": https://www.iop.org/physics-community/iop-conferences
+"UK Space Weather and Space Environment Meeting III": https://www.iop.org/physics-community/iop-conferences
+"BRSG Summer AGM: Developments in Magnetic Resonance Hardware and Methodology": https://www.iop.org/physics-community/iop-conferences
+"Silicon Quantum Information Processing Workshop": https://www.iop.org/physics-community/iop-conferences
+"Barriers for Returning to Employment and How to Overcome Them": https://www.iop.org/physics-community/iop-conferences
+"ISEMA 2025": https://www.iop.org/physics-community/iop-conferences
+"IOP Vacuum Training Course": https://www.iop.org/physics-community/iop-conferences
+"Fourth Physics-Enhancing Machine Learning Workshop": https://www.iop.org/physics-community/iop-conferences
+"NuFor: Nuclear Forensics 2025": https://www.iop.org/physics-community/iop-conferences
+"AI for Applied Nuclear Physics": https://www.iop.org/physics-community/iop-conferences
+"Shaping the Future: Women in Surface Science and Nanotechnology": https://www.iop.org/physics-community/iop-conferences
+"Image-Based Simulation for Industry (IBSim-4i)": https://www.iop.org/physics-community/iop-conferences
+"Coincidence and Correlation Techniques in Chemistry": https://www.iop.org/physics-community/iop-conferences
+"From Deep Tech to Quantum Tech – ask us how to protect your IP": https://www.iop.org/physics-community/iop-conferences
+"Second Early Career Conference in Energy": https://www.iop.org/physics-community/iop-conferences
+"Low Temperature Techniques Course 2025": https://www.iop.org/physics-community/iop-conferences
+"Tribology and the Journey to Net-Zero - Tribology of Electric Systems": https://www.iop.org/physics-community/iop-conferences
+"Quantum-Meets-Nano Workshop 2025": https://www.iop.org/physics-community/iop-conferences
+"Jocelyn Bell Burnell Awards 2025 and Networking Event": https://www.iop.org/physics-community/iop-conferences
+"IOP Communicators and Outreach Conference 2025": https://www.iop.org/physics-community/iop-conferences
+"Complexity and the Social World": https://www.iop.org/physics-community/iop-conferences
+"Christmas Lecture and M&C Group Meeting": https://www.iop.org/physics-community/iop-conferences
+"Medical Physics Group Annual Translational Meeting": https://www.iop.org/physics-community/iop-conferences
+"BRSG Christmas Meeting 2025: Developments in Magnetic Resonance": https://www.iop.org/physics-community/iop-conferences
+
+"International Conference of Industrial and Applied Mathematics (ICoIAM 2025)": https://iciam.net/
+
+"Network Traffic Measurement and Analysis Conference 2025 (TMA 2025)": https://www.ifip.org/listevents/ifip-events/
+"International Conference on Entertainment Computing (IFIP-ICEC 2025)": https://www.ifip.org/listevents/ifip-events/
+"Advances in Production Management Systems (APMS 2025)": https://www.ifip.org/listevents/ifip-events/
+"International Conference on Optical Network Design and Modelling (ONDM 2025)": https://www.ifipnews.org/ifip-events-2/
+"IEEE/IFIP Network Operations and Management Symposium (NOMS 2025)": https://www.ifipnews.org/ifip-events-2/
+
+"ISBA 2025 Conference": https://www.isba11.com/programme/
+
+"65th ISI World Statistics Congress": https://www.isi-next.org/conferences/wsc2025/
+
+"IUPAC World Chemistry Congress 2025": https://iupac2025.org/symposium-workshops
+
+"29th IUPAP International Conference on Statistical Physics (StatPhys29)": https://iupap.org/conferences/approved-conferences-of-the-year/
+"XIX International Conference on Topics in Astroparticle and Underground Physics (TAUP2025)": https://iupap.org/conferences/approved-conferences-of-the-year/
+"30th International Conference on Low Temperature Physics": https://iupap.org/conferences/approved-conferences-of-the-year/
+"International Conference on Ultralow Temperature Physics 2025 (ULT2025)": https://iupap.org/conferences/approved-conferences-of-the-year/
+"13th International Conference on Magnetic and Superconducting Materials (MSM-2025)": https://iupap.org/conferences/approved-conferences-of-the-year/
+"IBA-PIXE 2025": https://iupap.org/conferences/approved-conferences-of-the-year/
+"Higgs Hunting 2025": https://iupap.org/conferences/approved-conferences-of-the-year/
+"European Physical Society Conference on High Energy Physics (EPS-HEP2025)": https://iupap.org/conferences/approved-conferences-of-the-year/
+"International Conference on Large Hadron Collider Physics (LHCP25)": https://iupap.org/conferences/approved-conferences-of-the-year/
+"32nd International Symposium on Lepton Photon Interactions at High Energies": https://iupap.org/conferences/approved-conferences-of-the-year/
+"38th Mazurian Conference on Physics": https://iupap.org/conferences/approved-conferences-of-the-year/
+"31st International Conference On Ultrarelativistic Nucleus-Nucleus Collisions (Quark Matter 2025)": https://iupap.org/conferences/approved-conferences-of-the-year/
+"29th International Nuclear Physics Conference (INPC 2025)": https://iupap.org/conferences/approved-conferences-of-the-year/
+"HEPNP2025": https://iupap.org/conferences/approved-conferences-of-the-year/
+"8th African School on Electronic Structure Methods and Applications (ASESMA-2025)": https://iupap.org/conferences/approved-conferences-of-the-year/
+"Bangkok School and Workshop on Cosmology": https://iupap.org/conferences/approved-conferences-of-the-year/
+"First Mesoamerican Workshop on Reconfigurable X-ray Scientific Instrumentation for Cultural Heritage": https://iupap.org/conferences/approved-conferences-of-the-year/
+"Advanced School and Workshop: StatPhys in Kigali": https://iupap.org/conferences/approved-conferences-of-the-year/
+"XVI Interamerican Conference on Physics Education": https://iupap.org/conferences/approved-conferences-of-the-year/
+"International Conference on Physics Education (ICPE2025)": https://iupap.org/conferences/approved-conferences-of-the-year/
+"34th International Conference on Photonic, Electronic and Atomic Collisions (ICPEAC XXXIV)": https://iupap.org/conferences/approved-conferences-of-the-year/
+"26th International Conference on Laser Spectroscopy (ICOLS2025)": https://iupap.org/conferences/approved-conferences-of-the-year/
+"International Conference on Phenomena in Ionized Gases": https://iupap.org/conferences/approved-conferences-of-the-year/
+"13th International Conference on Inertial Fusion Sciences and Applications (IFSA2025
+::contentReference[oaicite:7]{index=7}
+ 
