@@ -3285,7 +3285,7 @@
 "Mediterranean Machine Learning (M2L) Summer School 2025":
   dd: "2025-07-07 to 2025-07-18"
   name: "Mediterranean Machine Learning Summer School"
-  link: "https://www.m2l.eu/
+  link: https://www.m2l.eu/
   loc: "Lisbon, Portugal"
   arxiv: "cs.LG, physics.data-an"
   excerpt: "The M2L Summer School trains researchers in machine learning, with applications in physics. Topics include neural networks, generative models, and anomaly detection. Lectures cover techniques for particle physics data analysis and cosmological simulations, emphasizing AI-driven discoveries."
