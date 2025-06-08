@@ -252,3 +252,15 @@ stanford-vakil:
 kskedlaya-org:
   name: Conferences in arithmetic geometry
   link: https://kskedlaya.org/cgi-bin/confs.cgi
+jbirnick-net:
+  name: Personal Website of Johann Birnick, Number Theory Events
+  link: https://jbirnick.net/conferences/numbertheory/
+numbertheory-org:
+  name: Number Theory Conferences, new and old
+  link: http://www.numbertheory.org/ntw/N3.html
+cvgmt-sns-it:
+  name: Calculus of Variations and Geometric Measure Theory Events
+  link: https://cvgmt.sns.it/events/?year=2026
+awesome-mlss:
+  name: Machine Learning Summer School Guide
+  link: https://awesome-mlss.com/
