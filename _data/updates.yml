@@ -3071,14 +3071,14 @@
   link: "https://indico.cern.ch/event/1402283/"
   loc: "CERN, Geneva, Switzerland"
   arxiv: "hep-ex, cs.SE"
-  excerpt: "JuliaHEP 2025 explores Julia programming for high-energy physics, focusing on data analysis. Topics include Monte Carlo simulations, detector reconstruction, and statistical modeling. Discussions cover applications in LHC experiments, advancing computational tools for particle physics."[](https://indico.cern.ch/)
+  excerpt: "JuliaHEP 2025 explores Julia programming for high-energy physics, focusing on data analysis. Topics include Monte Carlo simulations, detector reconstruction, and statistical modeling. Discussions cover applications in LHC experiments, advancing computational tools for particle physics."
 "KMPB School 2025: D-branes in Physics and Mathematics (KMPB25)":
   dd: "2025-06-16 to 2025-06-27"
   name: "KMPB School 2025: D-branes in Physics and Mathematics"
   link: "https://indico.cern.ch/event/1402325/"
   loc: "Lisbon, Portugal"
   arxiv: "hep-th, math.AG"
-  excerpt: "KMPB25 trains researchers in D-branes, bridging physics and mathematics. Topics include D-brane dynamics, mirror symmetry, and derived categories. Lectures cover applications in string theory and algebraic geometry, emphasizing interdisciplinary connections."[](https://indico.cern.ch/)
+  excerpt: "KMPB25 trains researchers in D-branes, bridging physics and mathematics. Topics include D-brane dynamics, mirror symmetry, and derived categories. Lectures cover applications in string theory and algebraic geometry, emphasizing interdisciplinary connections."
 "Kylerec 2025: Wrapped Fukaya Categories and Symplectic Cohomology":
   dd: "2025-06-09 to 2025-06-13"
   name: "Kylerec 2025: Wrapped Fukaya Categories and Symplectic Cohomology"
@@ -3106,14 +3106,14 @@
   link: "https://indico.cern.ch/event/1411012/"
   loc: "Waterloo, ON, Canada"
   arxiv: "gr-qc, hep-th"
-  excerpt: "Lee’s Fest explores quantum gravity and time, focusing on theoretical physics. Topics include loop quantum gravity, holography, and time in quantum mechanics. Discussions cover theoretical advancements and implications for cosmology and black hole physics."[](https://indico.cern.ch/)
+  excerpt: "Lee’s Fest explores quantum gravity and time, focusing on theoretical physics. Topics include loop quantum gravity, holography, and time in quantum mechanics. Discussions cover theoretical advancements and implications for cosmology and black hole physics."
 "Lee’s Fest: Quantum Gravity and the Nature of Time, Waterloo ON, Canada":
   dd: "2025-06-23 to 2025-06-27"
   name: "Lee’s Fest: Quantum Gravity and the Nature of Time"
   link: "https://indico.cern.ch/event/1411012/"
   loc: "Waterloo, ON, Canada"
   arxiv: "gr-qc, hep-th"
-  excerpt: "Lee’s Fest investigates quantum gravity and the nature of time, focusing on fundamental physics. Topics include emergent spacetime, quantum cosmology, and temporal dynamics. Discussions bridge theoretical models with cosmological observations, advancing quantum gravity research."[](https://indico.cern.ch/)
+  excerpt: "Lee’s Fest investigates quantum gravity and the nature of time, focusing on fundamental physics. Topics include emergent spacetime, quantum cosmology, and temporal dynamics. Discussions bridge theoretical models with cosmological observations, advancing quantum gravity research."
 "lefschetz-centennial":
   dd: "2025-06-16 to 2025-06-20"
   name: "Lefschetz Centennial Conference"
@@ -3169,7 +3169,7 @@
   link: "https://indico.cern.ch/event/1411011/"
   loc: "Tokyo, Japan"
   arxiv: "astro-ph.CO, astro-ph.IM"
-  excerpt: "LIM25 explores line intensity mapping, focusing on cosmological probes. Topics include 21cm mapping, CO lines, and large-scale structure. Discussions cover observational strategies and theoretical models, advancing precision cosmology with upcoming surveys."[](https://indico.cern.ch/)
+  excerpt: "LIM25 explores line intensity mapping, focusing on cosmological probes. Topics include 21cm mapping, CO lines, and large-scale structure. Discussions cover observational strategies and theoretical models, advancing precision cosmology with upcoming surveys."
 "links-dimensions-3-4":
   dd: "2025-01-13 to 2025-05-02"
   name: "Links in Dimensions 3 and 4"
@@ -3225,7 +3225,7 @@
   link: "https://indico.cern.ch/event/1402344/"
   loc: "Wittenberg, Germany"
   arxiv: "hep-ph, hep-th"
-  excerpt: "The conference explores loop calculations and scattering amplitudes in QFT, focusing on particle physics. Topics include multi-loop integrals, effective field theories, and precision calculations. Discussions cover applications in LHC experiments and theoretical QFT advancements."[](https://indico.cern.ch/)
+  excerpt: "The conference explores loop calculations and scattering amplitudes in QFT, focusing on particle physics. Topics include multi-loop integrals, effective field theories, and precision calculations. Discussions cover applications in LHC experiments and theoretical QFT advancements."
 "luries-elliptic-cohomology":
   dd: "2025-06-23 to 2025-06-27"
   name: "Lurie’s Elliptic Cohomology"
@@ -3260,21 +3260,21 @@
   link: "https://indico.cern.ch/event/1411019/"
   loc: "Stockholm, Sweden"
   arxiv: "astro-ph.HE, hep-ph"
-  excerpt: "The workshop explores neutron stars as probes for new physics, focusing on astrophysics. Topics include equation of state, gravitational waves, and exotic matter. Discussions cover observational data from NICER and theoretical models, advancing fundamental physics."[](https://indico.cern.ch/)
+  excerpt: "The workshop explores neutron stars as probes for new physics, focusing on astrophysics. Topics include equation of state, gravitational waves, and exotic matter. Discussions cover observational data from NICER and theoretical models, advancing fundamental physics."
 "Mapping the Dark Universe (DarkMap)":
   dd: "2025-06-16 to 2025-06-20"
   name: "Mapping the Dark Universe"
   link: "https://indico.cern.ch/event/1402305/"
   loc: "Lisbon, Portugal"
   arxiv: "astro-ph.CO, gr-qc"
-  excerpt: "DarkMap explores the dark universe, focusing on cosmological mapping. Topics include dark matter distribution, gravitational lensing, and large-scale structure. Discussions cover observational data from Euclid and theoretical models, advancing dark energy research."[](https://indico.cern.ch/)
+  excerpt: "DarkMap explores the dark universe, focusing on cosmological mapping. Topics include dark matter distribution, gravitational lensing, and large-scale structure. Discussions cover observational data from Euclid and theoretical models, advancing dark energy research."
 "Matrix Elements for the Double-beta-decay EXperiments (MEDEX'25)":
   dd: "2025-06-16 to 2025-06-20"
   name: "Matrix Elements for the Double-Beta-Decay Experiments (MEDEX'25)"
   link: "https://indico.cern.ch/event/1411041/"
   loc: "Prague, Czech Republic"
   arxiv: "nucl-th, hep-ph"
-  excerpt: "MEDEX'25 focuses on matrix elements for double-beta decay, exploring neutrino physics. Topics include nuclear structure calculations, neutrinoless decay, and experimental sensitivities. Discussions cover theoretical models and experimental results from KamLAND-Zen, advancing neutrino mass studies."[](https://indico.cern.ch/)
+  excerpt: "MEDEX'25 focuses on matrix elements for double-beta decay, exploring neutrino physics. Topics include nuclear structure calculations, neutrinoless decay, and experimental sensitivities. Discussions cover theoretical models and experimental results from KamLAND-Zen, advancing neutrino mass studies."
 "Matter To The Deepest: Recent Developments In Physics Of Fundamental Interactions":
   dd: "2025-09-01 to 2025-09-05"
   name: "Matter To The Deepest: Recent Developments In Physics Of Fundamental Interactions"
@@ -3533,7 +3533,7 @@
   link: "https://indico.cern.ch/event/1411005/"
   loc: "Granada, Spain"
   arxiv: "hep-ph, hep-ex"
-  excerpt: "Muon4Future explores muon physics, focusing on future experimental prospects. Topics include muon g-2, rare muon decays, and muon collider technologies. Discussions cover experimental advancements from Fermilab and theoretical models for beyond-Standard-Model physics, advancing particle physics research."[](https://indico.cern.ch/)
+  excerpt: "Muon4Future explores muon physics, focusing on future experimental prospects. Topics include muon g-2, rare muon decays, and muon collider technologies. Discussions cover experimental advancements from Fermilab and theoretical models for beyond-Standard-Model physics, advancing particle physics research."
 "My Favourite Dark Matter Model":
   dd: "2025-06-16 to 2025-06-20"
   name: "My Favourite Dark Matter Model"
@@ -3596,7 +3596,7 @@
   link: "https://indico.cern.ch/event/1410651/"
   loc: "CERN, Geneva, Switzerland"
   arxiv: "hep-ex, hep-ph"
-  excerpt: "Neutrinos@CERN 2025 focuses on neutrino experiments at CERN, exploring particle physics frontiers. Topics include neutrino beams, detector technologies, and oscillation measurements. Discussions cover results from ProtoDUNE and theoretical implications, advancing neutrino research."[](https://indico.cern.ch/)
+  excerpt: "Neutrinos@CERN 2025 focuses on neutrino experiments at CERN, exploring particle physics frontiers. Topics include neutrino beams, detector technologies, and oscillation measurements. Discussions cover results from ProtoDUNE and theoretical implications, advancing neutrino research."
 "Neutrinos in Physics and Astrophysics Workshop: Celebrating the contributions of Baha Balantekin and George Fuller":
   dd: "2025-06-23 to 2025-06-27"
   name: "Neutrinos in Physics and Astrophysics: Celebrating Baha Balantekin and George Fuller"
