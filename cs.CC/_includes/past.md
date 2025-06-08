@@ -12,3 +12,5 @@
 
 2025-06-02 to 06: [FoQaCiA WORKSHOP Pioneering the Foundations of Quantum Computing (2025)](https://foqacia.org/foqacia-workshop-2025 "FoQaCiA 2025 focuses on quantum computing foundations, covering quantum algorithms, entanglement, and quantum complexity. Topics include variational quantum circuits, quantum error mitigation, and applications in simulation and optimization, emphasizing theoretical and experimental quantum advancements."), Braga, Portugal.
 
+2025-06-04 to 06: [10th IGAFIT Highlights of Algorithms Conference (HALG 2025)](https://2025.highlightsofalgorithms.org/ "HALG 2025 focuses on algorithmic advancements, covering graph algorithms, approximation algorithms, and computational complexity. Topics include online algorithms, distributed computing, and applications in optimization and data science, emphasizing cutting-edge theoretical algorithmic research."), Zurich, Switzerland.
+

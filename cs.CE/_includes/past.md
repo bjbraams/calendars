@@ -20,3 +20,5 @@
 
 2025-05-07 to 09: [3rd International Clausthal-Göttingen Workshop on Simulation Science (SimScience 2025)](https://www.simscience2025.tu-clausthal.de/ "Covers simulation science, focusing on numerical modeling and optimization. Topics include computational physics, simulation-based design, and applications in engineering and natural sciences."), Clausthal-Zellerfeld, Germany.
 
+2025-06-04 to 06: [2nd Conference Math 2 Product, Emerging Technologies in Computational Science for Industry, Sustainability and Innovation (M2P 2025)](https://www.m2p2025.com/M2P2025/ "M2P 2025 focuses on computational science for industry and sustainability, covering numerical methods, data-driven modeling, and optimization. Topics include computational mechanics, digital twins, and applications in energy and manufacturing, emphasizing innovative computational solutions."), Valencia, Spain.
+

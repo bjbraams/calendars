@@ -38,3 +38,7 @@
 
 2025-06-03 to 05: [ASA/IMS Spring Research Conference (SRC 2025)](https://sites.google.com/view/src-2025 "Explores statistical methodologies and applications. Topics include statistical modeling, data analysis, and computational techniques for advancing research in statistics and data science."), New York City, NY, USA.
 
+2025-06-04 to 06: [DYNSTOCH Workshop 2025 Statistical Methods for Dynamical Stochastic Models (2025)](https://dynstoch2025.mathnum.inrae.fr/ "DYNSTOCH 2025 focuses on statistical methods for dynamical stochastic models, covering time-series analysis, stochastic differential equations, and Bayesian inference. Topics include applications in ecology, finance, and epidemiology, emphasizing statistical tools for dynamic systems."), Le Mans, France.
+
+2025-06-05 to 06: [Adaptive and Bayesian Designs in Clinical Trials (2025)](https://onlinesales.admin.cam.ac.uk/conferences-and-events/mrc-biostatistics-unit/adaptive-and-bayesian-designs-in-real-trials/adaptive-and-bayesian-designs-in-real-trials-05-06-june-2025 "This workshop explores adaptive and Bayesian designs in clinical trials, focusing on flexible trial methodologies and Bayesian inference. Topics include adaptive randomization, interim analyses, and applications in personalized medicine, emphasizing statistical and practical perspectives."), Cambridge, UK.
+

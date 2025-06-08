@@ -1,2 +1,0 @@
-2025-06-07 to 08: [Identifying and Bridging Gaps in Laboratory Astrophysics (2025)](https://labastro-workshop.github.io/ "This workshop focuses on laboratory astrophysics, covering molecular spectroscopy, reaction kinetics, and plasma interactions. Topics include interstellar chemistry, stellar atmospheres, and experimental simulations, emphasizing bridging laboratory data with astrophysical models for cosmic phenomena."), Anchorage, AK, USA.
-

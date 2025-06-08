@@ -110,3 +110,7 @@
 
 2025-06-03 to 05: [Conference on Probability and SPDEs at OSU (2025)](https://u.osu.edu/spdeworkshop/ "This conference focuses on probability and stochastic partial differential equations, covering regularity theory, stochastic analysis, and numerical methods. Topics include stochastic heat equations, applications in fluid dynamics, emphasizing mathematical rigor in stochastic systems."), Columbus, OH, USA.
 
+2025-06-04 to 06: [DYNSTOCH Workshop 2025 Statistical Methods for Dynamical Stochastic Models (2025)](https://dynstoch2025.mathnum.inrae.fr/ "DYNSTOCH 2025 focuses on statistical methods for dynamical stochastic models, covering time-series analysis, stochastic differential equations, and Bayesian inference. Topics include applications in ecology, finance, and epidemiology, emphasizing statistical tools for dynamic systems."), Le Mans, France.
+
+2025-06-05 to 06: [Workshop Stochastic Analysis in Mathematics and Natural Sciences Theory and Applications (2025)](https://sites.google.com/view/samans2025/ "This workshop explores stochastic analysis, covering stochastic differential equations, random processes, and applications in natural sciences. Topics include stochastic modeling in physics, biology, and climate, emphasizing theoretical advancements and practical stochastic applications."), Heraklion, Crete, Greece.
+

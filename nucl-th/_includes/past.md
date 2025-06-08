@@ -36,3 +36,5 @@
 
 2025-05-25 to 30: [29th International Nuclear Physics Conference (INPC 2025)](https://inpc2025.org "INPC 2025 focuses on nuclear physics, covering nuclear structure, reactions, and hadron physics. Topics include quark-gluon plasma, nuclear astrophysics, and computational nuclear models, with applications in fundamental interactions and cosmology, emphasizing experimental and theoretical advancements."), Daejeon, South Korea.
 
+2025-06-04 to 06: [BRIDGCE-IReNA Annual Meeting (2025)](https://sites.google.com/york.ac.uk/bridgce-york-2025/ "This meeting focuses on nuclear physics, covering nuclear reactions, structure, and astrophysics. Topics include neutron-rich nuclei, nucleosynthesis, and computational nuclear models, with applications in stellar evolution, emphasizing collaborative experimental and theoretical research."), York, UK.
+

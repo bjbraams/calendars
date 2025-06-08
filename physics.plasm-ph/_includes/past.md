@@ -64,3 +64,5 @@
 
 2025-06-02 to 13: [PPPL Introduction to Plasma and Fusion Course 2025](https://suli.pppl.gov/2025/course/ "This course introduces plasma and fusion science, covering plasma physics, magnetic confinement, and fusion energy principles. Topics include tokamak design, plasma instabilities, and diagnostic techniques, with applications in sustainable energy, emphasizing foundational concepts for fusion research."), Online.
 
+2025-06-05 to 06: [CHIMERAS (Collisionless HIgh-beta Magnetized Experiment Researching Astrophysical Systems) Workshop 2025](https://home.physics.ucla.edu/~sethd/chimeras25wvu/ "CHIMERAS 2025 focuses on collisionless high-beta plasmas, covering magnetic reconnection, turbulence, and astrophysical plasma dynamics. Topics include experimental diagnostics, computational modeling, and applications in solar and astrophysical systems, emphasizing collisionless plasma phenomena."), Morgantown, WV, USA.
+

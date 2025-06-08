@@ -28,3 +28,7 @@
 
 2025-06-02 to 05: [5th Annual MagNetUS Workshop (MagNetUS 2025)](https://magnetus-2025.pa.ucla.edu "MagNetUS 2025 focuses on magnetized plasmas, covering magnetic confinement, plasma turbulence, and diagnostics. Topics include tokamak physics, astrophysical plasmas, and computational modeling, with applications in fusion energy and space physics, emphasizing experimental and theoretical advancements."), Morgantown, WV, USA.
 
+2025-06-04 to 06: [BRIDGCE-IReNA Annual Meeting (2025)](https://sites.google.com/york.ac.uk/bridgce-york-2025/ "This meeting focuses on nuclear physics, covering nuclear reactions, structure, and astrophysics. Topics include neutron-rich nuclei, nucleosynthesis, and computational nuclear models, with applications in stellar evolution, emphasizing collaborative experimental and theoretical research."), York, UK.
+
+2025-06-05 to 06: [CHIMERAS (Collisionless HIgh-beta Magnetized Experiment Researching Astrophysical Systems) Workshop 2025](https://home.physics.ucla.edu/~sethd/chimeras25wvu/ "CHIMERAS 2025 focuses on collisionless high-beta plasmas, covering magnetic reconnection, turbulence, and astrophysical plasma dynamics. Topics include experimental diagnostics, computational modeling, and applications in solar and astrophysical systems, emphasizing collisionless plasma phenomena."), Morgantown, WV, USA.
+

@@ -20,3 +20,5 @@
 
 2025-06-03 to 06: [22nd Mixed Integer Programming Workshop (MIP 2025)](https://mixedinteger.org/2025/ "MIP 2025 focuses on mixed integer programming, covering optimization algorithms, branch-and-cut methods, and integer constraints. Topics include scheduling, logistics, and machine learning applications, emphasizing computational techniques for solving complex combinatorial optimization problems."), Minneapolis, MN, USA.
 
+2025-06-04 to 06: [10th IGAFIT Highlights of Algorithms Conference (HALG 2025)](https://2025.highlightsofalgorithms.org/ "HALG 2025 focuses on algorithmic advancements, covering graph algorithms, approximation algorithms, and computational complexity. Topics include online algorithms, distributed computing, and applications in optimization and data science, emphasizing cutting-edge theoretical algorithmic research."), Zurich, Switzerland.
+

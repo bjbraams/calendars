@@ -50,3 +50,5 @@
 
 2025-06-03 to 06: [2nd International Conference on Quantum Energy (ICQE 2025)](https://icqe.com.au/ "Examines quantum energy technologies, covering quantum thermodynamics, energy harvesting, and quantum materials. Topics include quantum batteries, thermoelectric devices, and applications in sustainable energy, emphasizing theoretical and experimental innovations in quantum energy systems."), Padua, Italy.
 
+2025-06-04 to 06: [8th International Conference on Computational Modeling of Fracture and Failure of Materials and Structures (CFRAC 2025)](https://www.cfrac2025.pt/ "CFRAC 2025 focuses on computational modeling of material fracture and failure, covering finite element methods and damage mechanics. Topics include crack propagation, composite failure, and applications in aerospace and civil engineering, emphasizing numerical simulation techniques."), Porto, Portugal.
+

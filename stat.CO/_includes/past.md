@@ -20,3 +20,5 @@
 
 2025-05-26 to 28: [14th Workshop on Bayesian Inference in Stochastic Processes (BISP 2025)](https://bisp14.imati.cnr.it/ "BISP 2025 focuses on Bayesian inference in stochastic processes, covering Markov chain Monte Carlo, Gaussian processes, and sequential inference. Topics include time-series modeling, applications in finance and biostatistics, emphasizing computational Bayesian methods for stochastic systems."), Milan, Italy.
 
+2025-06-04 to 07: [13th Workshop on Uncertainty Processing (WUPES 2025)](https://utia.cas.cz/news/3818 "WUPES 2025 explores uncertainty processing, covering Bayesian networks, fuzzy systems, and probabilistic reasoning. Topics include uncertainty quantification, decision-making under uncertainty, and applications in AI and engineering, emphasizing computational methods for uncertain environments."), Třešť, Czech Republic.
+

@@ -64,3 +64,7 @@
 
 2025-06-02 to 13: [Algorithms for Multiphysics Models in the Post-Moore's Law Era (2025)](https://sites.google.com/msu.edu/modeling-beyond-moore/ "This workshop focuses on algorithms for multiphysics models, covering numerical methods for coupled systems in the post-Moore’s Law era. Topics include scalable solvers, reduced-order modeling, and applications in fluid dynamics and materials, emphasizing computational efficiency."), Los Alamos, NM, USA.
 
+2025-06-04 to 06: [8th International Conference on Computational Modeling of Fracture and Failure of Materials and Structures (CFRAC 2025)](https://www.cfrac2025.pt/ "CFRAC 2025 focuses on computational modeling of material fracture and failure, covering finite element methods and damage mechanics. Topics include crack propagation, composite failure, and applications in aerospace and civil engineering, emphasizing numerical simulation techniques."), Porto, Portugal.
+
+2025-06-05 to 06: [Workshop Stochastic Analysis in Mathematics and Natural Sciences Theory and Applications (2025)](https://sites.google.com/view/samans2025/ "This workshop explores stochastic analysis, covering stochastic differential equations, random processes, and applications in natural sciences. Topics include stochastic modeling in physics, biology, and climate, emphasizing theoretical advancements and practical stochastic applications."), Heraklion, Crete, Greece.
+

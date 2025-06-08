@@ -52,3 +52,7 @@
 
 2025-05-26 to 30: [CECAM Flagship School on New Computational Methods for Attosecond Molecular Processes (2025)](https://cecam.org/workshop-details/costzcam-school-on-new-computational-methods-for-attosecond-molecular-processes-1411 "This school explores computational methods for attosecond molecular processes, focusing on ultrafast electron dynamics and time-resolved spectroscopy. Topics include time-dependent quantum simulations, attosecond pulse interactions, and applications in photochemistry, emphasizing cutting-edge computational techniques."), Zaragoza, Spain.
 
+2025-06-04 to 06: [40th Symposium on Chemical Kinetics and Dynamics (SCKD 2025)](http://sckd.jp/40Kobe/index_e.php "SCKD 2025 explores chemical kinetics and dynamics, focusing on reaction mechanisms, quantum chemistry, and molecular dynamics. Topics include transition state theory, photochemical reactions, and applications in catalysis, emphasizing computational and experimental kinetic studies."), Kobe, Japan.
+
+2025-06-07 to 08: [Identifying and Bridging Gaps in Laboratory Astrophysics (2025)](https://labastro-workshop.github.io/ "This workshop focuses on laboratory astrophysics, covering molecular spectroscopy, reaction kinetics, and plasma interactions. Topics include interstellar chemistry, stellar atmospheres, and experimental simulations, emphasizing bridging laboratory data with astrophysical models for cosmic phenomena."), Anchorage, AK, USA.
+
