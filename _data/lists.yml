@@ -264,3 +264,12 @@ cvgmt-sns-it:
 awesome-mlss:
   name: Machine Learning Summer School Guide
   link: https://awesome-mlss.com/
+mpik-paplist:
+  name: MPIK Division for Particle and Astroparticle Physics List of upcoming Conferences, Workshops and Schools
+  link: https://www.mpi-hd.mpg.de/lin/events/
+ncts-physics-tw:
+  name: (Taiwan) National Center for Theoretical Sciences Physics Division Conferences List
+  link: https://phys.ncts.ntu.edu.tw/en/act/Conferences
+isgrg-uni-frankfurt:
+  name: ISGRG hyperspace@gu Conferences
+  link: https://hyperspace.uni-frankfurt.de/category/conferences/
