@@ -6,6 +6,8 @@
 
 2025-06-16 to 20: [2nd Conference on Random Matrix Theory and Numerical Linear Algebra (2025)](https://faculty.washington.edu/trogdon/RMT+NLA_II/ "This conference focuses on random matrix theory and numerical linear algebra, covering eigenvalue distributions, matrix factorizations, and computational algorithms. Topics include applications in data science and statistical physics, emphasizing probabilistic and computational matrix methods."), Seattle, WA, USA.
 
+2025-06-16 to 20: [CIME School: Existence and Regularity for Non-Uniformly Elliptic and Parabolic Problems](https://cvgmt.sns.it/event/965/ "The school focuses on elliptic and parabolic PDEs under non-standard growth conditions, exploring existence and regularity. Topics include p,q-growth problems and variational methods. Discussions cover applications in fluid dynamics and materials science, emphasizing advanced PDE techniques."), Montecatini Terme, Italy.
+
 2025-06-23 to 27: [26th Conference of the International Linear Algebra Society (ILAS 2025)](https://ilas2025.tw "ILAS 2025 explores linear algebra, covering matrix theory, eigenvalue problems, and numerical methods. Topics include tensor computations, sparse matrices, and applications in data science and control theory, emphasizing theoretical and computational linear algebra advancements."), Kaohsiung, Taiwan.
 
 2025-06-23 to 27: [29th International Conference on Domain Decomposition Methods (DDM 2025)](https://dd29.polimi.it "DDM 2025 focuses on domain decomposition methods, covering parallel algorithms, preconditioners, and numerical solvers. Topics include applications in fluid dynamics, structural mechanics, and electromagnetics, emphasizing scalable computational methods for large-scale simulations."), Milan, Italy.

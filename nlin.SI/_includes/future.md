@@ -1,0 +1,2 @@
+2025-06-23 to 27: [29th International Conference on Integrable Systems and Quantum Symmetries](https://isqs.fjfi.cvut.cz/ "ISQS-29 focuses on integrable systems and quantum symmetries, exploring mathematical structures in theoretical physics. Topics include quantum groups, Yang-Baxter equations, and integrable models in string theory. Applications span condensed matter, quantum computing, and high-energy physics, emphasizing exact solutions and symmetry principles."), Prague, Czech Republic.
+

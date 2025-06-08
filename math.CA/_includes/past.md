@@ -1,2 +1,4 @@
 2025-05-19 to 22: [Shanks Conference Constructive Functions 2025](https://my.vanderbilt.edu/constructivefunctions2025/ "This conference focuses on constructive functions, covering approximation theory, orthogonal polynomials, and numerical analysis. Topics include function reconstruction, computational harmonic analysis, and applications in signal processing and scientific computing, emphasizing mathematical tools for constructive approximations."), Nashville, TN, USA.
 
+2025-06-02 to 06: [Calculus of Variations and Applications](https://www.cirm-math.fr/fr/evenements/calculus-of-variations-and-applications-2/ "The conference explores calculus of variations, focusing on applications in physics and materials science. Topics include energy minimization, nonlinear PDEs, and optimal transport. Discussions cover modeling physical systems like fluid dynamics and elasticity, advancing mathematical techniques for real-world problems."), Marseille, France.
+

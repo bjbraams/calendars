@@ -1,0 +1,2 @@
+2025-04-06 to 2025-04-11: [IEEE International Conference on Acoustics, Speech and Signal Processing 2025](https://2025.ieeeicassp.org/ "ICASSP 2025 explores signal processing and acoustics, with applications in physics. Topics include audio analysis, sensor signal processing, and machine learning. Discussions cover techniques for astrophysical data analysis and detector signal optimization."), Brisbane, Australia.
+

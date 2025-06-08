@@ -1,0 +1,2 @@
+2025-04-12 to 15: [APS Global Physics Summit](https://www.aps.org/meetings/global-physics-summit/2025/ "The summit covers broad physics topics, including particle physics, condensed matter, and astrophysics. Topics include quantum technologies, detector advancements, and cosmological observations. Discussions foster interdisciplinary collaboration, emphasizing experimental and theoretical progress in fundamental physics."), Washington, DC, USA.
+

@@ -2,9 +2,15 @@
 
 2025-02-24 to 28: [NUSTAR Annual Meeting 2025](https://indico.gsi.de/event/20773/ "The NUSTAR Annual Meeting focuses on nuclear structure and astrophysics, covering exotic nuclei, nuclear reactions, and superheavy elements. Topics include gamma-ray spectroscopy, nuclear fission, and nucleosynthesis, with applications in understanding stellar processes and fundamental interactions, emphasizing experimental advancements."), Darmstadt, Germany.
 
+2025-04-07 to 11: [Active Stoppers for Decay Experiments](https://indico.cern.ch/event/1410979/ "The workshop explores active stoppers for nuclear decay experiments, focusing on detector technologies. Topics include ion trapping, beta decay measurements, and precision spectroscopy. Discussions cover applications in nuclear structure studies and fundamental symmetries, emphasizing experimental advancements."), Mainz, Germany.
+
 2025-04-23 to 25: [IOP Nuclear Physics Conference 2025](https://www.iop.org/events/nuclear-physics-conference-2025 "Covers nuclear physics advancements. Topics include nuclear reactions, structure, and spectroscopy, with applications in energy, astrophysics, and fundamental physics research."), Manchester, UK.
+
+2025-05-18 to 23: [18th International Symposium on Reactor Dosimetry](https://isrd18.org/ "ISRD18 addresses reactor dosimetry, focusing on neutron and gamma radiation measurements in nuclear reactors. Topics include dosimeter calibration, radiation damage assessment, and Monte Carlo simulations. The symposium discusses applications in reactor safety, materials testing, and fusion research, emphasizing precision in radiation monitoring."), Lausanne, Switzerland.
 
 2025-05-19 to 23: [14th INFN (Italy) International Spring Seminar on Nuclear Physics: Cutting-Edge Developments in Nuclear Structure Physics (2025)](https://agenda.infn.it/event/42803/ "Focuses on cutting-edge nuclear structure physics. Topics include exotic nuclei, nuclear models, and computational techniques for understanding nuclear interactions and properties."), Ischia, Italy.
 
 2025-05-19 to 23: [24th International Conference on Radionuclide Metrology and Applications (ICRM 2025)](https://icrm2025.org "ICRM 2025 focuses on radionuclide metrology, covering measurement techniques, decay data, and standardization. Topics include low-level radioactivity, nuclear forensics, and applications in environmental monitoring and medical isotopes, emphasizing precision in nuclear measurement methodologies."), Paris, France.
+
+2025-06-02 to 06: [8th International Conference on the Initial Stages of High-Energy Nuclear Collisions](https://is2025.org/ "IS2025 focuses on the initial stages of high-energy nuclear collisions, exploring QCD dynamics and parton interactions. Topics include gluon saturation, initial state effects, and jet production. The conference discusses experimental results from LHC and RHIC, alongside theoretical models."), Nantes, France.
 

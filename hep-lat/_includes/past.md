@@ -1,0 +1,2 @@
+2025-04-14 to 18: [10th International Workshop on the Sign Problem in QCD and Beyond](https://indico.cern.ch/event/1387680/ "This workshop addresses the sign problem in quantum chromodynamics (QCD) and related fields, focusing on lattice QCD simulations at finite density. It explores novel algorithms, complex action theories, and reweighting techniques to tackle sign fluctuations. Applications extend to nuclear physics and condensed matter systems, with discussions on quantum Monte Carlo methods and effective field theories."), Darmstadt, Germany.
+

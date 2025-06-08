@@ -1,0 +1,4 @@
+2025-04-07 to 2025-06-27: [Intensive Trimester: Particles, Fluids and Patterns](https://www.gssi.it/research/schools-and-workshops/item/25761-an-intensive-trimester-on-particles-fluids-and-patterns-at-gssi "The trimester explores particles, fluids, and patterns, focusing on analytical and computational methods. Topics include kinetic theory, fluid dynamics, and pattern formation. Discussions cover applications in plasma physics and condensed matter, emphasizing modeling challenges."), L'Aquila, Italy.
+
+2025: [Diffusion in Warsaw 2025](https://evolutionarypdes2025.icm.edu.pl/diffusion-in-warsaw/ "The workshop explores diffusion processes, focusing on mathematical models in physics. Topics include parabolic PDEs, stochastic diffusion, and transport phenomena. Discussions cover applications in fluid dynamics, plasma physics, and biological systems, emphasizing PDE-based modeling."), Warsaw, Poland.
+

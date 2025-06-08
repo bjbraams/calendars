@@ -10,6 +10,8 @@
 
 2025-04-14 to 17: [IEEE International Symposium on Biomedical Imaging (ISBI 2025)](https://biomedicalimaging.org/2025/ "ISBI 2025 explores biomedical imaging, focusing on computational techniques for image analysis and reconstruction. Topics include deep learning, image segmentation, and multimodal imaging, with applications in MRI, CT, and microscopy, emphasizing advancements in medical diagnostics and research."), Houston, TX, USA.
 
+2025-04-15 to 2025-04-17: [SPIE Defense + Commercial Sensing 2025](https://spie.org/conferences-and-exhibitions/defense-and-commercial-sensing "The conference explores sensing technologies for defense and commercial applications, with physics focus. Topics include infrared sensors, quantum imaging, and LIDAR systems. Discussions cover applications in astrophysics and particle detection, advancing sensor technologies."), Orlando, FL, USA.
+
 2025-04-19 to 21: [13th International Conference on Computational Visual Media (CVM 2025)](http://iccvm.org/2025/ "Focuses on computational visual media, covering image processing, computer graphics, and vision algorithms. Topics include 3D modeling, visual analytics, and applications in virtual reality and media production, emphasizing computational techniques."), Hong Kong, China.
 
 2025-05-27 to 30: [18th International Meeting on Fully Three-Dimensional Image Reconstruction in Radiology and Nuclear Medicine (Fully3D 2025)](https://hqlab.sjtu.edu.cn/fully3d-2025/home "Fully3D focuses on 3D image reconstruction, covering tomographic algorithms, deep learning, and iterative methods. Topics include CT, PET, and nuclear medicine imaging, with applications in diagnostics and therapy planning, emphasizing computational advancements for high-resolution imaging."), Shanghai, China.

@@ -2,7 +2,13 @@
 
 2025-06-11 to 15: [IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR 2025)](https://cvpr.thecvf.com "CVPR 2025 focuses on computer vision and pattern recognition, covering deep learning, image segmentation, and object detection. Topics include generative models, 3D vision, and applications in autonomous systems, emphasizing cutting-edge vision algorithms and AI."), Nashville, TN, USA.
 
+2025-06-16 to 2025-06-20: [INVICTA School of Vision, Computational Intelligence, and Pattern Analysis 2025](https://invicta-school.inesctec.pt/ "The INVICTA School trains researchers in vision and computational intelligence, with physics applications. Topics include image processing, pattern recognition, and deep learning. Lectures cover techniques for astrophysical image analysis and particle detector data, emphasizing AI-driven pattern analysis."), Porto, Portugal.
+
+2025-06-16 to 20: [Deep Learning for Medical Imaging School 2025](https://cvgmt.sns.it/event/977/ "The school trains researchers in deep learning for medical imaging, with physics applications. Topics include convolutional neural networks, image segmentation, and anomaly detection. Lectures cover techniques for detector data analysis in high-energy physics and astrophysics."), Trento, Italy.
+
 2025-07-07 to 11: [London Geometry and Machine Learning Summer School (LGML 2025)](https://www.logml.ai/ "Explores intersections of geometry and machine learning. Topics include geometric deep learning, manifold learning, and applications in computer vision and data analysis."), London, UK.
+
+2025-07-14 to 18: [BMVA Computer Vision Summer School 2025](https://bmvc2025.org/bmva-computer-vision-summer-school/ "The summer school trains researchers in computer vision, with applications in physics. Topics include image processing, object detection, and deep learning. Lectures cover techniques for analyzing detector data in high-energy physics and astrophysical imaging, emphasizing AI-driven solutions."), London, United Kingdom.
 
 2025-08-04 to 08: [Summer School on Topological Data Analysis in Stochastic Geometry and Image Processing (2025)](https://sites.google.com/view/aarhustda/ "This summer school focuses on topological data analysis, covering persistent homology, stochastic geometry, and image processing. Topics include applications in shape analysis, network science, and medical imaging, emphasizing computational topology for stochastic and image data."), Aarhus Institute of Advanced Studies, Aarhus, Denmark.
 

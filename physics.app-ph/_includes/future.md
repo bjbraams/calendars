@@ -1,4 +1,8 @@
+2025-06-08 to 12: [2025 Symposium on VLSI Technology and Circuits](https://www.vlsisymposium.org/ "The symposium focuses on VLSI technology and circuits, with applications in scientific computing. Topics include low-power circuits, memory technologies, and hardware for machine learning. It discusses advancements in chip design for high-performance computing, relevant to physics simulations and data processing in experiments."), Kyoto, Japan.
+
 2025-06-10 to 13: [Waves and Imaging in Complex Media (Wicom 2025)](https://wicom.sciencesconf.org/ "Explores wave propagation and imaging in complex media. Topics include inverse scattering, wave-based imaging, and applications in geophysics, medical imaging, and material science."), Paris, France.
+
+2025-06-16 to 2025-06-19: [Quantum 2.0 Conference and Exhibition 2025](https://www.optica.org/en-us/events/quantum_2_0/ "Quantum 2.0 explores next-generation quantum technologies, with physics applications. Topics include quantum computing, sensing, and communication. Discussions cover advancements in quantum algorithms and hardware, emphasizing applications in particle physics and cryptography."), San Francisco, CA, USA.
 
 2025-06-21 to 26: [Extreme Ultraviolet Lithography (EUVL) and Source Workshop 2025](https://euvlitho.com "This workshop focuses on extreme ultraviolet lithography, covering plasma-based EUV sources, optics, and patterning. Topics include high-power plasma generation, source stability, and semiconductor manufacturing applications, emphasizing plasma-driven lithography advancements."), Cambridge, MA, USA.
 
@@ -12,9 +16,15 @@
 
 2025-06-25 to 28: [International Plasma Technology Joint Conference (IPTJC 2025)](https://iptjc2025.conf.tw/ "Explores plasma technology advancements, covering plasma processing, surface modification, and plasma diagnostics. Topics include applications in semiconductors, biomedical devices, and energy, emphasizing experimental and computational techniques."), New Taipei, Taiwan.
 
+2025-06-29 to 07-04: [22nd International Conference on RF Superconductivity](https://srf2025.org/ "SRF2025 focuses on radio-frequency superconductivity for particle accelerators. Topics include superconducting cavities, cryomodule design, and RF power systems. The conference discusses advancements supporting high-energy physics experiments, such as the LHC and future colliders, emphasizing performance optimization and material science."), Hamburg, Germany.
+
 2025-07-01 to 06: [29th International Conference on Magnet Technology (MT 2025)](https://mt29-conf.org/ "Covers magnet technology for scientific applications. Topics include superconducting magnets, magnetic field simulations, and applications in fusion reactors, particle accelerators, and medical imaging."), Boston, MA, USA.
 
+2025-07-13 to 18: [Cryogenic Engineering Conference and International Cryogenic Materials Conference 2025](https://cec-icmc.org/ "CEC/ICMC 2025 explores cryogenic engineering and materials, focusing on applications in physics. Topics include superconducting magnets, cryocoolers, and low-temperature materials. Discussions cover technologies for particle accelerators and quantum computing, emphasizing cryogenic advancements."), Reno, NV, USA.
+
 2025-07-13 to 19: [Summer School on Plasma Physics, Intense Lasers and Nuclear Fusion (PlasmaSurf 2025)](https://plasmasurf.tecnico.ulisboa.pt/ "PlasmaSurf 2025 focuses on plasma physics, covering laser-plasma interactions, magnetic confinement, and fusion energy. Topics include plasma diagnostics, inertial fusion, and applications in sustainable energy, emphasizing hands-on training in experimental and computational plasma science."), Lisbon, Portugal.
+
+2025-07-14 to 2025-07-18: [UK Robotics Summer School 2025](https://uk-robotics.github.io/UKRSS2025/ "The summer school trains students in robotics, with physics applications. Topics include control theory, sensor fusion, and machine learning. Lectures cover applications in quantum sensing and astrophysical navigation, emphasizing robotic technologies."), London, United Kingdom.
 
 2025-07-14 to 24: [Culham Plasma Physics Summer School 2025](https://culhamsummerschool.org.uk/ "This summer school focuses on plasma physics, covering magnetic confinement, plasma instabilities, and fusion energy. Topics include tokamak physics, plasma diagnostics, and applications in sustainable energy, emphasizing foundational training in experimental and theoretical plasma science."), Culham Campus, Oxon, UK.
 
@@ -27,6 +37,8 @@
 2025-09-01 to 12: [JT-60SA International Fusion School 2025 Innovations in Fusion (JIFS 2025)](https://indico.euro-fusion.org/event/3385/ "JIFS 2025 focuses on fusion innovations, covering tokamak physics, plasma confinement, and fusion reactor design. Topics include advanced diagnostics, materials for fusion, and applications in sustainable energy, emphasizing training in computational and experimental fusion science."), Naka, Japan.
 
 2025-09-03 to 04: [21st International Conference on Plasma Physics and Applications (CPPA 2025)](https://cespc.inflpr.ro "CPPA 2025 focuses on plasma physics, covering plasma generation, diagnostics, and plasma-surface interactions. Topics include applications in fusion, materials processing, and biomedical plasmas, emphasizing experimental and computational advances in plasma science and technology."), Bucharest, Romania.
+
+2025-09-07 to 12: [29th International Conference on Magnet Technology](https://www.mt29.com/ "MT29 focuses on magnet technology for scientific and industrial applications, including superconducting magnets for accelerators and fusion. Topics include magnet design, cryogenics, and high-field magnets. The conference discusses advancements supporting high-energy physics experiments and medical imaging technologies like MRI."), Vancouver, BC, Canada.
 
 2025-09-08 to 12: [17th International Conference on Gas Discharge Plasmas and Their Applications (GDP 2025)](https://gdp2025.uran.ru/ "GDP 2025 focuses on gas discharge plasmas, covering plasma generation, diagnostics, and applications. Topics include plasma processing, lighting, and biomedical plasmas, emphasizing experimental and computational advances in gas discharge plasma technologies and their industrial applications."), Ekaterinburg, Russia.
 

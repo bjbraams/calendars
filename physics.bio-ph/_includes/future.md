@@ -1,2 +1,4 @@
+2025-06-16 to 2025-06-20: [Morphogenesis and Morphing: 200 Years After Gauss](https://cvgmt.sns.it/event/1023/ "The conference explores morphogenesis and morphing, focusing on geometric and physical models. Topics include differential geometry, pattern formation, and biological morphing. Discussions cover applications in biophysics and materials science, emphasizing Gaussian geometric insights."), Pisa, Italy.
+
 2025-06-22 to 27: [16th Femtochemistry Conference - Dynamics of Complex Molecular Processes in Chemistry, Biology, and Physics (2025)](https://indico.elettra.eu/event/44/ "This conference focuses on femtochemistry, covering ultrafast molecular dynamics, time-resolved spectroscopy, and photochemical reactions. Topics include electron transfer, protein dynamics, and applications in biophysics and materials, emphasizing ultrafast chemistry studies."), Trieste, Italy.
 

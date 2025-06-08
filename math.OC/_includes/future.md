@@ -16,6 +16,8 @@
 
 2025-06-16 to 21: [5th (India) Large Scale Optimization Summer School 2025](https://www.ieor.iitb.ac.in/lso2025/ "Covers large-scale optimization techniques. Topics include algorithmic optimization, computational methods, and applications in operations research, logistics, and data science."), Bombay, India.
 
+2025-06-16 to 27: [CIMPA School 2025: Optimal Transport, PDEs, and Optimization in Data Science](https://cvgmt.sns.it/event/971/ "The school trains researchers in optimal transport, PDEs, and optimization for data science, with physics applications. Topics include Wasserstein metrics, gradient flows, and machine learning. Lectures cover techniques for cosmological data analysis and fluid dynamics modeling."), Essaouira, Morocco.
+
 2025-06-17 to 20: [Modeling and Optimization: Theory and Applications (MOPTA 2025)](https://coral.ise.lehigh.edu/mopta2025/ "MOPTA 2025 explores modeling and optimization, covering linear programming, stochastic optimization, and machine learning. Topics include supply chain optimization, energy systems, and operations research applications, emphasizing theoretical and applied optimization."), Ponta Delgada, Azores, Portugal.
 
 2025-06-22 to 25: [34th European Conference on Operational Research (EURO 2025)](https://euro2025leeds.uk "EURO 2025 explores operational research, covering optimization, decision theory, and data analytics. Topics include supply chain management, scheduling, and machine learning applications, with emphasis on practical and theoretical optimization in logistics and healthcare."), Leeds, UK.
@@ -23,6 +25,8 @@
 2025-06-23 to 27: [Summer School EUR MINT on Control, Inverse Problems and Spectral Theory (2025)](https://indico.math.cnrs.fr/event/12766/ "Focuses on control theory, inverse problems, and spectral analysis. Topics include PDE control, spectral methods, and applications in imaging, engineering, and mathematical physics."), Toulouse, France.
 
 2025-06-23 to 27: [Summer School on Inverse Problems and Artificial Intelligence in Medicine (2025)](https://bathsymposium.ac.uk/symposium/inverse-problems-and-artificial-intelligence-in-medicine/ "Explores AI-driven inverse problems in medical applications. Topics include image reconstruction, parameter estimation, and machine learning techniques for medical imaging and diagnostics."), Bath, UK.
+
+2025-06-24 to 26: [13th IMA International Conference on Modelling in Industrial Maintenance and Reliability](https://www.ima.org.uk/13367/13th-ima-international-conference-on-modelling-in-industrial-maintenance-and-reliability-mimar/ "The conference focuses on mathematical modeling for industrial maintenance and reliability, covering optimization, failure analysis, and predictive maintenance. Topics include stochastic processes, machine learning for fault detection, and reliability engineering. Applications span energy, manufacturing, and transportation, emphasizing data-driven strategies to enhance system performance and longevity."), Manchester, United Kingdom.
 
 2025-06-29 to 07-02: [22nd EUROPT Conference on Advances in Continuous Optimization (EUROPT 2025)](https://europt2025.org "EUROPT 2025 focuses on continuous optimization, covering convex optimization, nonlinear programming, and global optimization. Topics include algorithmic advancements, applications in machine learning and logistics, emphasizing theoretical and computational optimization strategies."), Southampton, UK.
 
@@ -35,6 +39,8 @@
 2025-07-01 to 03: [Mixed Integer Programming European Workshop (EUROMIP 2025)](https://mixedinteger.org/EUROMIP/2025/ "EUROMIP 2025 focuses on mixed integer programming, covering branch-and-bound, cutting planes, and heuristic methods. Topics include combinatorial optimization, scheduling, and applications in logistics and energy, emphasizing computational techniques for integer optimization problems."), Clermont-Ferrand, France.
 
 2025-07-07 to 09: [Maths4DL Conference on Inverse Problems and Deep Learning (2025)](https://maths4dl.ac.uk/newsevents/maths4dl-conference-on-inverse-problems-and-deep-learning "Maths4DL 2025 explores inverse problems and deep learning, covering image reconstruction, regularization, and neural network architectures. Topics include medical imaging, geophysical inversion, and applications in signal processing, emphasizing mathematical and computational advances in inverse modeling."), Bath, UK.
+
+2025-07-07 to 2025-07-11: [Durham Symposium on Mean Field Games](https://cvgmt.sns.it/event/960/ "The symposium explores mean field games, focusing on applications in physics and economics. Topics include optimal control, stochastic processes, and game theory. Discussions cover applications in statistical mechanics and quantum systems, emphasizing mathematical modeling of complex interactions."), Durham, United Kingdom.
 
 2025-07-15 to 18: [16th Viennese Conference on Optimal Control and Dynamic Games (VC 2025)](https://vc2025.conf.tuwien.ac.at "VC 2025 focuses on optimal control and dynamic games, covering control theory, game-theoretic optimization, and differential games. Topics include applications in robotics, economics, and energy systems, emphasizing mathematical and computational methods for dynamic decision-making."), Vienna, Austria.
 
@@ -67,6 +73,8 @@
 2025-09-02 to 05: [German Operations Research Society International Conference on Operations Research (OR 2025)](https://or2025.de/ "OR 2025 explores operations research, covering linear programming, combinatorial optimization, and decision theory. Topics include applications in logistics, healthcare, and energy planning, emphasizing computational and mathematical methods for optimizing complex systems and decision-making processes."), Bielefeld, Germany.
 
 2025-09-07 to 12: [Dagstuhl Seminar Interactions in Constraint Optimization (2025)](https://www.dagstuhl.de/25371 "This seminar explores constraint optimization, covering constraint satisfaction, integer programming, and hybrid methods. Topics include applications in scheduling, planning, and AI, emphasizing computational techniques for solving complex combinatorial optimization problems with interacting constraints."), Schloss Dagstuhl, Wadern, Germany.
+
+2025-09-08 to 10: [3rd IMA Conference on Mathematics of Robotics](https://ima.org.uk/26135/3rd-ima-conference-on-mathematics-of-robotics/ "The conference explores mathematical methods in robotics, focusing on control theory, optimization, and kinematics. Topics include autonomous systems, motion planning, and machine learning for robotic perception. Applications span industrial automation and medical robotics, emphasizing mathematical foundations for advanced robotic systems."), Oxford, United Kingdom.
 
 2025-09-11 to 12: [Workshop on Recent Advances in Multi-Objective Optimization (RAMOO 2025)](https://moo.univie.ac.at/ "RAMOO 2025 focuses on multi-objective optimization, covering Pareto optimization, evolutionary algorithms, and decision-making. Topics include applications in engineering, logistics, and AI, emphasizing computational methods for balancing multiple objectives in complex optimization problems."), Straubing, Germany.
 

@@ -48,5 +48,7 @@
 
 2025-06-02 to 13: [Algorithms for Multiphysics Models in the Post-Moore's Law Era (2025)](https://sites.google.com/msu.edu/modeling-beyond-moore/ "This workshop focuses on algorithms for multiphysics models, covering numerical methods for coupled systems in the post-Moore’s Law era. Topics include scalable solvers, reduced-order modeling, and applications in fluid dynamics and materials, emphasizing computational efficiency."), Los Alamos, NM, USA.
 
+2025-06-02 to 2025-06-06: [Regularity Aspects of Elliptic and Parabolic PDEs](https://sites.google.com/view/regularity-aspects-pde/home "The conference explores regularity in elliptic and parabolic PDEs, with physical applications. Topics include Schauder estimates, Hölder continuity, and viscosity solutions. Discussions cover modeling in fluid dynamics and quantum mechanics, emphasizing analytical techniques."), Thessaloniki, Greece.
+
 2025-06-04 to 06: [2nd Conference Math 2 Product, Emerging Technologies in Computational Science for Industry, Sustainability and Innovation (M2P 2025)](https://www.m2p2025.com/M2P2025/ "M2P 2025 focuses on computational science for industry and sustainability, covering numerical methods, data-driven modeling, and optimization. Topics include computational mechanics, digital twins, and applications in energy and manufacturing, emphasizing innovative computational solutions."), Valencia, Spain.
 

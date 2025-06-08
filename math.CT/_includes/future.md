@@ -1,0 +1,6 @@
+2025-06-16 to 2025-06-20: [Higher Structures: Recent Developments and Applications](https://math.ethz.ch/vigre/higher-structures/index.html "The conference explores higher structures in mathematics and physics, focusing on category theory. Topics include higher gauge theories, derived categories, and topological phases. Discussions cover applications in quantum field theory and string theory, emphasizing advanced structures."), Zurich, Switzerland.
+
+2025-06-16 to 2025-06-20: [Stacks Project Workshop 2025](https://www.math.lsa.umich.edu/stacks/2025-workshop.html "The workshop advances the Stacks Project, focusing on algebraic geometry. Topics include algebraic stacks, derived categories, and moduli spaces. Discussions cover applications in string theory and quantum field theory, emphasizing categorical frameworks."), Ann Arbor, MI, USA.
+
+2025-06-23 to 27: [Derived Representation Theory and Triangulated Categories](https://sites.google.com/view/thessalonikiconference/home "The conference explores derived representation theory and triangulated categories, focusing on algebraic structures. Topics include derived categories, homological algebra, and representation theory. Discussions cover applications in quantum field theory and string theory, emphasizing mathematical frameworks."), Thessaloniki, Greece.
+

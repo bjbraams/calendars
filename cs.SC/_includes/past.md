@@ -1,2 +1,4 @@
+2025-03-10 to 2025-03-14: [Macaulay2 Workshop at Tulane](https://sites.google.com/home/macaulay2tulane/home "The Tulane Macaulay2 workshop trains researchers in computational algebra, focusing on Macaulay2 software. Topics include Gröbner bases, syzygies, and algebraic geometry. Discussions cover applications in string theory and quantum mechanics, emphasizing computational techniques."), New Orleans, LA, USA.
+
 2025-04-10 to 11: [7th International Conference on Numerical and Symbolic Computation, Developments and Applications (SYMCOMP 2025)](https://symcomp2025.isel.pt/ "SYMCOMP 2025 focuses on numerical and symbolic computation, covering computer algebra, numerical solvers, and hybrid methods. Topics include polynomial systems, optimization, and applications in engineering and physics, emphasizing computational tools for exact and approximate solutions."), Lisbon, Portugal.
 

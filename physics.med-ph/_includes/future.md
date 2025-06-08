@@ -1,2 +1,6 @@
+2025-06-16 to 20: [Deep Learning for Medical Imaging School 2025](https://cvgmt.sns.it/event/977/ "The school trains researchers in deep learning for medical imaging, with physics applications. Topics include convolutional neural networks, image segmentation, and anomaly detection. Lectures cover techniques for detector data analysis in high-energy physics and astrophysics."), Trento, Italy.
+
 2025-08-25 to 27: [EuroMech Colloquium 655 on Cutting Mechanics of Soft Tissues: Nonlinear Fracture and Contact Mechanics (2025)](https://655.euromech.org/ "Examines nonlinear fracture and contact mechanics in soft tissues. Topics include computational modeling, biomechanical analysis, and applications in medical engineering and tissue mechanics."), Graz, Austria.
+
+2025-10-25 to 11-01: [2025 IEEE Nuclear Science Symposium, Medical Imaging Conference, and Room-Temperature Semiconductor Detectors Symposium](https://nssmic.ieee.org/ "The symposium covers nuclear science, medical imaging, and semiconductor detectors. Topics include radiation detection, imaging technologies, and room-temperature detectors for high-energy physics and medical applications. It discusses advancements in detector design, data acquisition, and applications in LHC experiments and diagnostics."), Yokohama, Japan.
 

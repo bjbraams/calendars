@@ -1,10 +1,14 @@
 2025-06-16 to 18: [Vienna Workshop on Quantum Cryptography Beyond Quantum Key Distribution (VIE-CRYPT 2025)](https://quantum.univie.ac.at/events/vie-crypt-2025/ "VIE-CRYPT 2025 explores advanced quantum cryptography, focusing on quantum digital signatures, secure multiparty computation, and post-quantum cryptography. Topics include quantum-resistant protocols and applications in secure communication, emphasizing theoretical and practical quantum cryptographic advancements."), Vienna, Austria.
 
+2025-06-16 to 2025-06-20: [Sixteenth Algorithmic Number Theory Symposium (ANTS-XVI)](https://antsmath.org/ANTS-XVI/ "ANTS-XVI explores algorithmic number theory, focusing on computational methods. Topics include primality testing, elliptic curves, and lattice algorithms. Discussions cover applications in cryptography and quantum computing, emphasizing efficient number-theoretic algorithms."), Providence, RI, USA.
+
 2025-06-30 to 07-03: [20th Central European Quantum Information Processing Workshop (CEQIP 2025)](http://ceqip.eu/2025/ "CEQIP 2025 focuses on quantum information processing, covering quantum algorithms, entanglement, and quantum cryptography. Topics include quantum error correction, quantum networks, and applications in quantum computing, emphasizing theoretical and experimental quantum information advancements."), Smolenice Castle, Slovakia.
 
 2025-07-02 to 05: [2nd Workshop on Quantum-Secure Networks and Systems (QSNS 2025)](https://qubip.eu/qsns2025/ "QSNS 2025 focuses on quantum-secure networks, covering quantum key distribution, post-quantum cryptography, and secure quantum protocols. Topics include network security, quantum internet, and applications in telecommunications, emphasizing quantum-safe communication systems and architectures."), Bologna, Italy.
 
 2025-07-14 to 16: [30th Australasian Conference on Information Security and Privacy (ACISP 2025)](https://uow-ic2.github.io/acisp2025/ "Covers information security and privacy. Topics include cryptography, secure protocols, and applications in cybersecurity, data protection, and network security."), Wollongong, Australia.
+
+2025-07-14 to 18: [Algorithmic Number Theory Symposium ANTS-XVII](https://antsmath.org "ANTS-XVII focuses on algorithmic number theory, exploring computational methods in arithmetic. Topics include prime factorization, elliptic curves, and L-functions. Discussions cover applications in cryptography and theoretical physics, emphasizing efficient algorithms for number-theoretic problems."), Paris, France.
 
 2025-08-04 to 08: [25th Asian Quantum Information Science Conference (AQIS 2025)](http://aqis-conf.org/2025/ "AQIS 2025 focuses on quantum information science, covering quantum cryptography, quantum algorithms, and entanglement. Topics include quantum communication, quantum error correction, and applications in quantum computing, emphasizing theoretical and experimental quantum information advancements."), Hong Kong, China.
 

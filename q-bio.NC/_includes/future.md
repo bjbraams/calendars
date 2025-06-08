@@ -1,0 +1,2 @@
+2025-07-07 to 2025-08-15: [Gatsby Bridging Programme 2025](https://www.gatsby.ucl.ac.uk/gatsby-bridging-programme "The programme trains researchers in computational neuroscience and machine learning, with physics applications. Topics include neural networks, Bayesian inference, and dynamical systems. Discussions cover techniques for analyzing high-energy physics data and cosmological simulations."), London, United Kingdom.
+

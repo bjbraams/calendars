@@ -1,2 +1,4 @@
+2025-07-14 to 2025-07-18: [Natural Philosophy Symposium 2025](https://www.naturphilosophie.org/symposium2025 "The symposium explores foundational questions in natural philosophy, focusing on physics principles. Topics include causality, spacetime, and quantum foundations. Discussions bridge historical perspectives with modern theoretical physics, emphasizing conceptual frameworks for quantum mechanics and cosmology."), London, United Kingdom.
+
 2025-09-08 to 12: [2nd DPG Fall Meeting: 100 Years of Quantum Physics (2025)](https://quantum25.dpg-tagungen.de/ "Celebrates quantum physics advancements, covering quantum mechanics, quantum optics, and quantum information. Topics include quantum computing, entanglement, and foundational quantum theory, emphasizing theoretical, experimental, and historical perspectives in quantum science."), Göttingen, Germany.
 

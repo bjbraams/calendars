@@ -4,5 +4,7 @@
 
 2025-06-02 to 04: [32nd International Colloquium on Structural Information and Communication Complexity (SIROCCO 2025)](https://www.torontomu.ca/sirocco-2025/ "SIROCCO 2025 explores structural information and communication complexity, focusing on distributed algorithms, network topologies, and graph theory. Topics include message-passing models, fault tolerance, and applications in distributed computing, emphasizing theoretical computational efficiency."), Delphi, Greece.
 
+2025-06-02 to 2025-06-05: [National Laboratories Information Technology Summit 2025](https://www.nlit.org/ "NLIT 2025 explores IT advancements for national laboratories, with physics applications. Topics include high-performance computing, data analytics, and cybersecurity. Discussions cover computational tools for particle physics simulations and astrophysical data processing, emphasizing IT infrastructure for science."), Albuquerque, NM, USA.
+
 2025-06-03 to 07: [39th IEEE International Parallel and Distributed Processing Symposium (IPDPS 2025)](https://www.ipdps.org/ "Explores parallel and distributed processing, covering algorithms, architectures, and software systems. Topics include big data processing, machine learning, and scientific computing, emphasizing performance optimization and scalability in computational systems."), Milan, Italy.
 

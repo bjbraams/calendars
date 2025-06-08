@@ -1,3 +1,5 @@
+2025-06-16 to 2025-06-20: [Summer School on Automatic Speech Recognition 2025](https://www.iitgn.ac.in/events/ssasr2025 "The summer school trains researchers in automatic speech recognition, with physics applications. Topics include neural networks, acoustic modeling, and signal processing. Lectures cover applications in astrophysical data analysis and quantum computing."), Gandhinagar, India.
+
 2025-07-14 to 17: [Workshop on Logic, Language, Information and Computation (WoLLIC 2025)](https://wollic2025.github.io "WoLLIC 2025 focuses on logic, language, and computation, covering formal semantics, proof theory, and computational linguistics. Topics include automated reasoning, natural language processing, and applications in AI, emphasizing theoretical foundations of logical and linguistic computation."), Porto, Portugal.
 
 2025-07-27 to 08-01: [Association for Computational Linguistics 63rd Annual Meeting (ACL 2025)](https://2025.aclweb.org/ "Explores computational linguistics and natural language processing. Topics include machine learning for language models, text analysis, and applications in AI and human-computer interaction."), Vienna, Austria.

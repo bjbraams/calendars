@@ -1,0 +1,8 @@
+2025-01-13 to 2025-01-17: [ICMS Winter School: PDEs in Geometry and Analysis](https://www.icms.org.uk/PDEsInGeometryAnalysis/ "The winter school trains researchers in PDEs, focusing on geometry and analysis. Topics include geometric PDEs, curvature flows, and harmonic analysis. Lectures cover applications in general relativity and quantum mechanics, emphasizing analytical techniques."), Edinburgh, United Kingdom.
+
+2025-04-09 to 11: [50th Arkansas Spring Lecture Series](https://math.uark.edu/research/spring-lecture-series/index.php "The lecture series explores mathematical physics, focusing on geometry and topology. Topics include differential equations, symplectic geometry, and applications in quantum mechanics. Lectures emphasize mathematical methods for modeling physical systems, bridging pure mathematics and theoretical physics."), Fayetteville, AR, USA.
+
+2025-05-19 to 23: [2025 Georgia International Topology Conference](http://www.math.uga.edu/topology/conference25.html "The conference focuses on topology, with applications in physics and geometry. Topics include knot theory, manifold classification, and topological methods in quantum field theory. It discusses advancements in algebraic topology and their implications for understanding spacetime structures and physical systems."), Athens, GA, USA.
+
+2025-06-01 to 2025-06-05: [XIII Bolyai-Gauss-Lobachevsky Conference: Non-Euclidean Geometry](https://bgl2025.uv.es/ "The conference explores non-Euclidean geometry in modern physics and mathematics. Topics include hyperbolic geometry, Lorentzian manifolds, and quantum gravity. Discussions cover applications in general relativity and string theory, advancing geometric insights."), Saidia, Morocco.
+

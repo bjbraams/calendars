@@ -6,3 +6,7 @@
 
 2025-02-25 to 28: [Conference on Data Analysis (CoDA 2025)](https://web.cvent.com/event/7845571b-b15d-418c-a24a-14468480c4ff/ "CoDA 2025 explores data analysis, focusing on statistical modeling, machine learning, and data visualization. Topics include Bayesian methods, time-series analysis, and high-dimensional data techniques, with applications in physics, biology, and social sciences, emphasizing robust data-driven insights."), Santa Fe, NM, USA.
 
+2025-03-17 to 21: [Build Big or Build Smart: Examining Scale and Domain Knowledge in Machine Learning for Fundamental Physics](https://indico.cern.ch/event/1402298/ "The workshop explores machine learning in fundamental physics, focusing on scale versus domain knowledge. Topics include deep learning for event reconstruction, anomaly detection, and cosmological data analysis. Discussions cover applications in LHC experiments and astrophysics."), CERN, Geneva, Switzerland.
+
+2025-05-12 to 16: [1st Community Workshop for Anomaly Detection in High Energy Physics](https://indico.cern.ch/event/1411034/ "AD4HEP 2025 explores anomaly detection in high-energy physics, focusing on machine learning techniques for identifying new physics. Topics include unsupervised learning, neural networks, and anomaly searches in LHC data. The workshop discusses applications in ATLAS, CMS, and future experiments, emphasizing data-driven discovery methods."), CERN, Geneva, Switzerland.
+

@@ -2,5 +2,7 @@
 
 2025-04-27 to 05-02: [European Geophysical Union General Assembly (EGU 2025)](https://www.egu25.eu/ "EGU 2025 focuses on geophysics, covering computational methods for seismic, atmospheric, and oceanic modeling. Topics include numerical weather prediction, earthquake simulations, and geomagnetic modeling, with applications in climate science and hazard assessment, emphasizing interdisciplinary geophysical computations."), Vienna, Austria and online.
 
+2025-05-19 to 23: [11th International Symposium on Naturally Occurring Radioactive Material (NORM XI)](https://normxi.org/ "NORM XI addresses the management of naturally occurring radioactive materials in industrial processes, emphasizing sustainability. It covers radiation protection, waste management, and environmental impact assessment. Discussions focus on optimizing processes in extractive industries, such as oil, gas, and mining, to minimize radiological risks while enhancing efficiency and regulatory compliance."), Muscat, Oman.
+
 2025-05-26 to 30: [IUTAM Summer School on Gravity Currents in the Environment (2025)](https://iutam.org/events/iutam-summer-school-on-gravity-currents-in-the-environment "Focuses on gravity currents in environmental fluid mechanics. Topics include density-driven flows, numerical modeling, and applications in oceanography, meteorology, and environmental engineering."), Udine, Italy.
 

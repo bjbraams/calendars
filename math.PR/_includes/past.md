@@ -62,6 +62,8 @@
 
 2025-04-22 to 25: [Conference on Analysis and Probability in Infinite Dimensions (2025)](https://anaprob2025.com "This conference explores infinite-dimensional analysis and probability, covering stochastic PDEs, Gaussian measures, and functional integration. Topics include stochastic control, applications in quantum field theory and finance, emphasizing mathematical frameworks for infinite-dimensional probabilistic systems."), Bad Herrenalb, Germany.
 
+2025-04-28 to 2025-05-02: [Universal Statistics in Number Theory](https://www.crmath.eu/en/2025/04/23/call-for-applications-visitor-number-theory/ "The workshop investigates statistical patterns in number theory, emphasizing universal distributions. Topics include L-function zeros, random matrix theory, and arithmetic statistics. Discussions explore applications in quantum chaos and cryptographic systems, advancing number-theoretic insights."), Brussels, Belgium.
+
 2025-04-28 to 30: [Turbulence on the Banks of the Arno (2025)](https://indico.sns.it/event/62/ "This workshop focuses on turbulence, covering stochastic models, turbulent flows, and statistical hydrodynamics. Topics include turbulence closure models, stochastic PDEs, and applications in atmospheric and oceanic flows, emphasizing mathematical and computational approaches to turbulent phenomena."), Pisa, Italy.
 
 2025-05-05 to 08: [Moroccan-Swedish Conference on Stochastic Analysis (MOSCSA 2025)](https://moscsa2025.com/ "MOSCSA 2025 explores stochastic analysis, covering stochastic calculus, martingale theory, and stochastic control systems. Topics include stochastic processes in finance, stochastic modeling in biology, and applications in stochastic modeling, emphasizing stochastic processes."), Marrakesh, Morocco.
@@ -105,6 +107,10 @@
 2025-06-02 to 06: [Workshop Integrability, Random Matrices, and All That (2025)](https://perso.ens-lyon.fr/alex.simon/PIICQ/PIICQ_2025.php "This workshop explores integrability and random matrices, covering eigenvalue distributions, integrable systems, and free probability. Topics include applications in statistical physics, quantum chaos, and number theory, emphasizing probabilistic and algebraic connections in complex systems."), Lyon, France.
 
 2025-06-02 to 13: [SLMath Graduate School on Local Limits of Random Graphs (2025)](https://www.slmath.org/summer-schools/1099 "This graduate school focuses on local limits of random graphs, covering graphons, branching processes, and combinatorial probability. Topics include network convergence, random graph models, and applications in social networks, emphasizing probabilistic tools for graph analysis."), Paris, France.
+
+2025-06-02 to 2025-06-06: [Statistics of Class Groups and Number Fields](https://eth-its.ethz.ch/activities/Arithmetic-statistics.html "The workshop investigates statistical aspects of class groups and number fields, with applications in physics. Topics include ideal class distributions, L-functions, and probabilistic models. Discussions explore implications for quantum mechanics and number theory."), Zurich, Switzerland.
+
+2025-06-02 to 2025-06-06: [Statistics of Class Groups and Number Fields](https://www.math.ethz.ch/fim/conferences/statistics-2025.html "The conference explores statistical properties of class groups and number fields, focusing on arithmetic applications. Topics include Cohen-Lenstra heuristics, ideal distributions, and random matrices. Discussions cover connections to quantum chaos and cryptography."), Zurich, Switzerland.
 
 2025-06-02 to 27: [PIMS-CRM Summer School in Probability (2025)](https://www.slmath.org/summer-schools/1071 "This summer school explores probability, covering random processes, martingales, and stochastic analysis. Topics include random graphs, percolation, and applications in statistical physics and biology, emphasizing theoretical foundations and advanced probabilistic techniques for graduate students."), Vancouver, BC, Canada.
 

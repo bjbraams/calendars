@@ -1,0 +1,2 @@
+2025-03-29 to 04-02: [30th ACM International Conference on Architectural Support for Programming Languages and Operating Systems](https://asplos-conference.org/2025/ "ASPLOS 2025 focuses on computer architecture and programming languages, with applications in scientific computing. Topics include hardware accelerators, parallel computing, and software optimization. Discussions cover architectures for physics simulations, machine learning, and high-performance computing in scientific research."), Vancouver, BC, Canada.
+

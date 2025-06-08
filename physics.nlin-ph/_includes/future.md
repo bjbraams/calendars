@@ -1,0 +1,2 @@
+2025-06-23 to 2025-06-27: [INdAM Workshop: Differential Equations and Nonlinear Models](https://cvgmt.sns.it/event/1000/ "The workshop explores nonlinear differential equations, focusing on physical models. Topics include reaction-diffusion systems, nonlinear waves, and pattern formation. Discussions cover applications in fluid dynamics, plasma physics, and biological systems, emphasizing analytical solutions."), Rome, Italy.
+

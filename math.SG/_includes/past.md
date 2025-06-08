@@ -1,0 +1,2 @@
+2025-06-02 to 2025-06-06: [2025 European Kylerec Conference: QUILTs and Lagrangian Correspondences](https://www.mn.uio.no/math/english/research/events/conferences/2025-european-kylerec/ "The conference explores QUILTs and Lagrangian correspondences in symplectic geometry. Topics include Fukaya categories, mirror symmetry, and homological algebra. Discussions cover applications in string theory and algebraic geometry, emphasizing geometric structures and categorical frameworks."), Oslo, Norway.
+

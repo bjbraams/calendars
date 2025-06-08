@@ -1,4 +1,12 @@
+2025-06-08 to 14: [18th Thematic CERN School of Computing on Scientific Software for Heterogeneous Architectures](https://csc.web.cern.ch/ "The school trains researchers in scientific software development for heterogeneous architectures. Topics include GPU programming, parallel computing, and software optimization for physics simulations. It emphasizes tools for high-energy physics, such as CERN’s experiments, focusing on performance portability and scalability in data-intensive applications."), Split, Croatia.
+
+2025-06-10 to 2025-06-12: [High Performance Software Foundation Conference 2025](https://hpsf.io/2025/ "HPSF 2025 explores high-performance computing software, with applications in physics. Topics include parallel algorithms, GPU optimization, and scientific simulations. Discussions cover software for particle physics and cosmology, emphasizing computational advancements for large-scale data."), Atlanta, GA, USA.
+
+2025-06-16 to 2025-06-20: [Python in HEP Developer's Workshop (PyHEP.dev 2025)](https://indico.cern.ch/event/1402271/ "PyHEP.dev 2025 focuses on Python tools for high-energy physics, emphasizing software development. Topics include data analysis pipelines, Monte Carlo simulations, and machine learning frameworks. Discussions cover applications in LHC experiments, advancing computational HEP tools."), CERN, Geneva, Switzerland.
+
 2025-06-16 to 20: [2nd Workshop on Quantum Software 2025](https://pldi25.sigplan.org/home/wqs-2025 "This workshop focuses on quantum software, covering quantum programming languages, compilers, and verification. Topics include quantum circuit optimization, hybrid quantum-classical frameworks, and applications in quantum simulation, emphasizing software tools for quantum computing development."), Seoul, South Korea.
+
+2025-06-23 to 2025-06-27: [JuliaHEP 2025 Workshop](https://indico.cern.ch/event/1402283/ "JuliaHEP 2025 explores Julia programming for high-energy physics, focusing on data analysis. Topics include Monte Carlo simulations, detector reconstruction, and statistical modeling. Discussions cover applications in LHC experiments, advancing computational tools for particle physics."), CERN, Geneva, Switzerland.
 
 2025-06-29 to 07-03: [CECAM Conference Reusable Libraries for Quantum Chemistry (ReLibQC 2025)](https://helsinki.fi/en/conferences/reusable-libraries-quantum-chemistry-2025 "ReLibQC 2025 focuses on reusable quantum chemistry libraries, covering software frameworks, electronic structure calculations, and high-performance computing. Topics include modular code design, applications in molecular modeling, emphasizing open-source tools for quantum chemical simulations."), Majvik, Finland.
 
@@ -24,9 +32,13 @@
 
 2025-09-23 to 26: [13th IEEE International Conference on Cloud Engineering (IC2E 2025)](https://conferences.computer.org/IC2E/2025/ "IC2E 2025 focuses on cloud engineering, covering cloud architectures, serverless computing, and resource management. Topics include AI-driven cloud optimization, big data processing, and applications in IoT, emphasizing scalable and efficient cloud-based computational systems."), Rennes, France.
 
+2025-09-27 to 10-03: [2025 IEEE International Conference on Quantum Computing and Engineering](https://qce.ieee.org/ "QCE25 explores quantum computing and engineering, focusing on quantum algorithms, hardware, and software development. Topics include quantum error correction, qubit technologies, and applications in physics and cryptography. The conference discusses advancements in quantum simulation for condensed matter and high-energy physics."), Miami, FL, USA.
+
 2025-10-06 to 10: [25th International Conference on Formal Methods in Computer-Aided Design (FMCAD 2025) and 17th International Conference on Verified Software: Theories, Tools, and Experiments (VSTTE 2025)](https://fmcad.org/FMCAD25/ "FMCAD and VSTTE 2025 explore formal methods and verified software, covering model checking, theorem proving, and software verification. Topics include applications in hardware design, AI, and critical systems, emphasizing computational tools for ensuring correctness and reliability in software and hardware."), Menlo Park, CA, USA.
 
 2025-10-20 to 21: [6th Workshop on Dynamic Logic - New Trends and Applications (DaLí 2025)](http://www.dali2025.cn/ "Explores dynamic logic and its applications. Topics include formal verification, program semantics, and computational logic for software and system analysis."), Xi'an, China.
+
+2025-10-26 to 31: [16th INFN International School on Efficient Scientific Computing](https://agenda.infn.it/event/41595/ "ESC25 trains researchers in scientific computing, focusing on architectures and tools for large-scale applications. Topics include parallel computing, GPU optimization, and software frameworks for physics simulations. The school emphasizes methodologies for high-performance computing in high-energy physics, astrophysics, and computational biology."), Bertinoro, Italy.
 
 2025-11-10 to 14: [23rd International Conference on Software Engineering and Formal Methods (SEFM 2025)](https://sefm-conference.github.io/2025/ "Focuses on formal methods in software engineering. Topics include program verification, model checking, and applications in software development and system reliability."), Toledo, Spain.
 

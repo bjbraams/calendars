@@ -1,0 +1,6 @@
+2025-01-06 to 17: [Automorphic Forms and the Bloch-Kato Conjecture](https://www.icts.res.in/program/afbkc2025 "The workshop explores automorphic forms and the Bloch-Kato conjecture, focusing on number theory. Topics include L-functions, Galois representations, and modular forms. Discussions cover applications in theoretical physics, emphasizing connections to quantum field theory and string theory."), Bengaluru, India.
+
+2025-02-10 to 14: [Around the Langlands Program](https://conferences.cirm-math.fr/3498.html "The workshop explores the Langlands program, focusing on automorphic forms and Galois representations. Topics include L-functions, modular forms, and arithmetic geometry. Discussions cover applications in theoretical physics and cryptography, emphasizing connections between number theory and representation theory."), Marseille, France.
+
+2025-04-12 to 2025-04-13: [Southwest Local Algebra Meeting 2025 (SLAM 2025)](https://www.math.ttu.edu/~lchriste/slam2025.html "SLAM 2025 explores local algebra, focusing on commutative and non-commutative structures. Topics include local rings, module theory, and representation theory. Discussions cover applications in quantum mechanics and coding theory, emphasizing algebraic techniques."), Lubbock, TX, USA.
+

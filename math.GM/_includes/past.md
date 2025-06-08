@@ -1,0 +1,2 @@
+2025-05-15 to 2025-05-17: [Women in Mathematics in Stockholm 2025](https://www.su.se/women-mathematics-2025/ "The event promotes women in mathematics, with applications in physics. Topics include algebraic geometry, dynamical systems, and PDEs. Discussions cover theoretical advancements and applications in quantum physics and cosmology, emphasizing interdisciplinary contributions."), Stockholm, Sweden.
+
