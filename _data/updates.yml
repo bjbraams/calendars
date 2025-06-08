@@ -3215,7 +3215,7 @@
 "LoopFest XXIII":
   dd: "2025-06-16 to 2025-06-18"
   name: "LoopFest XXIII"
-  link: "https://loopfest.org/
+  link: https://loopfest.org/
   loc: "Chicago, IL, USA"
   arxiv: "hep-ph, hep-th"
   excerpt: "LoopFest XXIII explores loop calculations in quantum field theory, focusing on particle physics. Topics include multi-loop amplitudes, Feynman integrals, and precision QCD. Discussions cover applications in LHC phenomenology and theoretical advancements in QFT."
@@ -4640,3 +4640,374 @@
   loc: "College Station, TX, USA"
   arxiv: math.AG, math.NT
   excerpt: "The conference explores symmetries in algebraic geometry and number theory, focusing on interdisciplinary applications. Topics include Galois actions, automorphic forms, and mirror symmetry. Discussions cover connections to string theory and quantum field theory."
+"symplectic-contact-dynamics":
+  dd: "2025-06-29 to 2025-07-05"
+  name: "Symplectic/Contact Dynamics"
+  link: "https://www.mfo.de/occasion/2527/www_view"
+  loc: "Oberwolfach, Germany"
+  arxiv: "math.SG, math.DS"
+  excerpt: "The workshop explores symplectic and contact dynamics, focusing on Hamiltonian systems and contact manifolds. Topics include periodic orbits, Legendrian knots, and Floer homology. Discussions cover applications in quantum mechanics and celestial mechanics, advancing symplectic geometric techniques."[](https://www.math.univ-paris13.fr/accueil/laboratoire/publications/)
+"Symplectic/Contact Dynamics":
+  dd: "2025-07-06 to 2025-07-12"
+  name: "Symplectic/Contact Dynamics"
+  link: "https://www.mfo.de/occasion/2528/www_view"
+  loc: "Oberwolfach, Germany"
+  arxiv: "math.SG, math.DS"
+  excerpt: "This workshop investigates symplectic and contact dynamics, emphasizing Reeb flows and symplectic invariants. Topics include contact homology, Lagrangian submanifolds, and dynamical systems. Discussions explore connections to string theory and quantum field theory, enhancing symplectic topology insights."[](https://www.math.univ-paris13.fr/accueil/laboratoire/publications/)
+"Symplectic Dynamics and Topology":
+  dd: "2025-06-30 to 2025-07-04"
+  name: "CIME School: Symplectic Dynamics and Topology"
+  link: "https://www.cimec.unitn.it/2740/cime-schools-2025"
+  loc: "Cetraro, Italy"
+  arxiv: "math.SG, math-ph"
+  excerpt: "The CIME school explores symplectic dynamics and topology, focusing on physical applications. Topics include Hamiltonian dynamics, symplectic invariants, and Floer theory. Lectures cover connections to quantum mechanics and string theory, emphasizing geometric and dynamical structures."[](https://www.math.univ-paris13.fr/accueil/laboratoire/publications/)
+"Symplectic structures and trisections.":
+  dd: "2025-11-17 to 2025-11-21"
+  name: "Symplectic Structures and Trisections"
+  link: "https://conferences.cirm-math.fr/2899.html"
+  loc: "Marseille, France"
+  arxiv: "math.GT, math.SG"
+  excerpt: "The workshop studies symplectic structures and trisections in 4-manifolds, focusing on topological applications. Topics include Weinstein manifolds, Stein trisections, and Lagrangian submanifolds. Discussions cover connections to symplectic geometry and quantum topology, advancing 4-dimensional topology research."[](https://conferences.cirm-math.fr/3299.html)
+"symplectic-structures-trisections":
+  dd: "2025-11-17 to 2025-11-21"
+  name: "Symplectic Structures and Trisections"
+  link: "https://conferences.cirm-math.fr/2899.html"
+  loc: "Marseille, France"
+  arxiv: "math.GT, math.SG"
+  excerpt: "This workshop explores symplectic structures and trisections, emphasizing 4-manifold topology. Topics include symplectic isotopy, bridge trisections, and moment maps. Discussions integrate symplectic geometry with trisection theory, advancing insights into quantum field theory and topology."[](https://conferences.cirm-math.fr/3299.html)
+"symplectic-structures-trisections":
+  dd: "2025-11-17 to 2025-11-21"
+  name: "Symplectic Structures and Trisections"
+  link: "https://www.cirm-math.fr/symplectic-trisections-2025"
+  loc: "Marseille, France"
+  arxiv: "math.GT, math.SG"
+  excerpt: "The conference investigates symplectic structures and trisections, focusing on 4-dimensional manifolds. Topics include Stein surfaces, grid diagrams, and symplectic surfaces. Discussions explore applications in quantum topology and string theory, enhancing symplectic and topological frameworks."[](https://conferences.cirm-math.fr/3299.html)
+"Symposium on Physics: Advances in Research and Knowledge 2025 (SPARK 2025)":
+  dd: "2025-06-16 to 2025-06-20"
+  name: "Symposium on Physics: Advances in Research and Knowledge 2025"
+  link: "https://indico.cern.ch/event/1402331/"
+  loc: "Lisbon, Portugal"
+  arxiv: "hep-ph, gr-qc"
+  excerpt: "SPARK 2025 explores advancements in physics, focusing on particle physics and gravity. Topics include Higgs phenomenology, gravitational waves, and quantum field theory. Discussions cover experimental results and theoretical models, advancing fundamental physics insights."[](https://www.math.univ-paris13.fr/accueil/laboratoire/publications/)
+"Tabletop Scale Cosmology 2025":
+  dd: "2025-06-16 to 2025-06-20"
+  name: "Tabletop Scale Cosmology 2025"
+  link: "https://indico.cern.ch/event/1411004/"
+  loc: "Lisbon, Portugal"
+  arxiv: "astro-ph.CO, hep-ex"
+  excerpt: "The workshop explores tabletop experiments probing cosmological phenomena. Topics include dark matter detection, axion searches, and precision measurements. Discussions cover experimental techniques and theoretical implications, advancing small-scale cosmological research."[](https://www.math.univ-paris13.fr/accueil/laboratoire/publications/)
+"Tales of Black Holes – International Doctoral Summer School on Advanced Black Hole Physics, Granada, Spain":
+  dd: "2025-07-14 to 2025-07-25"
+  name: "Tales of Black Holes: International Doctoral Summer School on Advanced Black Hole Physics"
+  link: "https://indico.cern.ch/event/1411040/"
+  loc: "Granada, Spain"
+  arxiv: "gr-qc, hep-th"
+  excerpt: "The summer school trains doctoral students in black hole physics, focusing on advanced topics. Topics include black hole thermodynamics, holography, and gravitational waves. Lectures cover theoretical models and observational data, advancing quantum gravity research."[](https://www.math.univ-paris13.fr/accueil/laboratoire/publications/)
+"Tales of Black Holes: International Summer School on Advanced Black Hole Physics (TBH'25)":
+  dd: "2025-07-14 to 2025-07-25"
+  name: "Tales of Black Holes: International Summer School on Advanced Black Hole Physics"
+  link: "https://indico.cern.ch/event/1411040/"
+  loc: "Granada, Spain"
+  arxiv: "gr-qc, hep-th"
+  excerpt: "TBH'25 focuses on advanced black hole physics, training students in theoretical and observational aspects. Topics include Kerr black holes, information paradox, and AdS/CFT. Discussions cover quantum gravity and astrophysical implications, enhancing black hole research."[](https://www.math.univ-paris13.fr/accueil/laboratoire/publications/)
+"Tales of Gravity":
+  dd: "2025-06-16 to 2025-06-20"
+  name: "Tales of Gravity"
+  link: "https://indico.cern.ch/event/1402246/"
+  loc: "Nottingham, United Kingdom"
+  arxiv: "gr-qc, astro-ph.HE"
+  excerpt: "The workshop explores gravitational physics, focusing on theoretical and observational advances. Topics include general relativity, gravitational wave detection, and black hole dynamics. Discussions cover LIGO data and quantum gravity models, advancing gravitational research."[](https://www.math.univ-paris13.fr/accueil/laboratoire/publications/)
+"Tales of Gravity, Nottingham, UK":
+  dd: "2025-06-16 to 2025-06-20"
+  name: "Tales of Gravity"
+  link: "https://indico.cern.ch/event/1402246/"
+  loc: "Nottingham, United Kingdom"
+  arxiv: "gr-qc, astro-ph.HE"
+  excerpt: "This conference investigates gravity, emphasizing astrophysical and theoretical perspectives. Topics include neutron star mergers, gravitational wave astronomy, and modified gravity theories. Discussions integrate observational data and theoretical frameworks, advancing gravitational physics."[](https://www.math.univ-paris13.fr/accueil/laboratoire/publications/)
+"Taming hadronic uncertainties in and beyond the Standard Model":
+  dd: "2025-06-16 to 2025-06-20"
+  name: "Taming Hadronic Uncertainties in and Beyond the Standard Model"
+  link: "https://indico.cern.ch/event/1402335/"
+  loc: "Lisbon, Portugal"
+  arxiv: "hep-ph, nucl-th"
+  excerpt: "The workshop addresses hadronic uncertainties in particle physics, focusing on QCD. Topics include lattice QCD, parton distributions, and BSM phenomenology. Discussions cover experimental constraints and theoretical advancements, enhancing precision in Standard Model predictions."[](https://www.math.univ-paris13.fr/accueil/laboratoire/publications/)
+"Tensions in Cosmology 2025":
+  dd: "2025-06-16 to 2025-06-20"
+  name: "Tensions in Cosmology 2025"
+  link: "https://indico.cern.ch/event/1402308/"
+  loc: "Lisbon, Portugal"
+  arxiv: "astro-ph.CO, hep-ph"
+  excerpt: "The conference explores cosmological tensions, focusing on discrepancies in observational data. Topics include Hubble constant tension, dark energy models, and CMB anomalies. Discussions integrate theoretical models and observational constraints, advancing cosmological understanding."[](https://www.math.univ-paris13.fr/accueil/laboratoire/publications/)
+"TESLA Technology Collaboration (TTC 2025)":
+  dd: "2025-06-03 to 2025-06-06"
+  name: "TESLA Technology Collaboration Meeting 2025"
+  link: "https://www.tesla-collaboration.org/meetings/ttc2025/"
+  loc: "Tsukuba, Japan"
+  arxiv: "physics.acc-ph, physics.ins-det"
+  excerpt: "TTC 2025 advances superconducting RF technology for particle accelerators. Topics include cavity design, cryogenics, and beam dynamics. Discussions cover applications in high-energy physics and future colliders, enhancing accelerator performance and efficiency."[](https://www.math.univ-paris13.fr/accueil/laboratoire/publications/)
+"Testing Gravity 2025, Vancouver, Canada":
+  dd: "2025-01-27 to 2025-01-31"
+  name: "Testing Gravity 2025"
+  link: "https://tg2025.iop.org/"
+  loc: "Vancouver, BC, Canada"
+  arxiv: "gr-qc, astro-ph.CO"
+  excerpt: "Testing Gravity 2025 explores experimental and theoretical tests of gravitational theories. Topics include modified gravity, gravitational waves, and cosmological probes. Discussions cover LISA data and alternative gravity models, advancing gravitational physics research."[](https://www.math.univ-paris13.fr/accueil/laboratoire/publications/)
+"TeV Particle Astrophysics 2025 (TeVPA 2025)":
+  dd: "2025-08-25 to 2025-08-29"
+  name: "TeV Particle Astrophysics 2025"
+  link: "https://tevpa2025.org/"
+  loc: "Stockholm, Sweden"
+  arxiv: "astro-ph.HE, hep-ph"
+  excerpt: "TeVPA 2025 explores high-energy astrophysics, focusing on particle interactions. Topics include cosmic rays, gamma rays, and dark matter searches. Discussions cover experimental results from Fermi-LAT and theoretical models, advancing astrophysical insights."[](https://www.math.univ-paris13.fr/accueil/laboratoire/publications/)
+"The 12th International Workshop on Charm Physics (CHARM 2025)":
+  dd: "2025-06-16 to 2025-06-20"
+  name: "12th International Workshop on Charm Physics"
+  link: "https://charm2025.org/"
+  loc: "Lisbon, Portugal"
+  arxiv: "hep-ph, hep-ex"
+  excerpt: "CHARM 2025 explores charm quark physics, focusing on experimental and theoretical advances. Topics include charm decays, CP violation, and spectroscopy. Discussions cover LHCb data and lattice QCD calculations, enhancing understanding of flavor physics."[](https://www.math.univ-paris13.fr/accueil/laboratoire/publications/)
+"The 23rd Workshop on First-Principles Computational Materials Physics":
+  dd: "2025-06-16 to 2025-06-20"
+  name: "23rd Workshop on First-Principles Computational Materials Physics"
+  link: "https://phys.ncts.ntu.edu.tw/act/actnews/The-23rd-Workshop-on-First-Principles-Computational-Materials-Physics-52319076/home"
+  loc: "Taipei, Taiwan"
+  arxiv: "cond-mat.mtrl-sci, physics.comp-ph"
+  excerpt: "The workshop explores first-principles methods in materials physics, focusing on computational techniques. Topics include DFT, quantum Monte Carlo, and topological materials. Discussions cover applications in quantum computing and energy materials, advancing materials science."
+"The 2nd LHAASO Symposium":
+  dd: "2025-07-14 to 2025-07-18"
+  name: "2nd LHAASO Symposium"
+  link: "https://english.ihep.cas.cn/lhaaso2025/"
+  loc: "Beijing, China"
+  arxiv: "astro-ph.HE, hep-ex"
+  excerpt: "The LHAASO Symposium explores high-energy astrophysics, focusing on cosmic ray and gamma-ray observations. Topics include LHAASO data analysis, dark matter searches, and particle acceleration. Discussions advance understanding of high-energy cosmic phenomena."
+"The Aarhus Automorphic Forms Summer School and Conference.":
+  dd: "2025-06-16 to 2025-06-20"
+  name: "Aarhus Automorphic Forms Summer School and Conference"
+  link: "https://conferences.au.dk/aaf1/aaf-conference"
+  loc: "Aarhus, Denmark"
+  arxiv: "math.NT, math.RT"
+  excerpt: "The event explores automorphic forms, focusing on number theory and representation theory. Topics include L-functions, modular forms, and harmonic analysis. Discussions cover applications in string theory and cryptography, advancing automorphic form research."
+"The Australian Direction: A conference honoring the mathematical contributions of Matt Emerton and Mark Kisin":
+  dd: "2025-06-16 to 2025-06-20"
+  name: "The Australian Direction: Honoring Matt Emerton and Mark Kisin"
+  link: "http://math.utah.edu/~howe/australian-direction.html"
+  loc: "Salt Lake City, UT, USA"
+  arxiv: "math.NT, math.AG"
+  excerpt: "Honoring Emerton and Kisin, the conference explores number theory and algebraic geometry. Topics include Galois representations, p-adic Hodge theory, and Shimura varieties. Discussions cover applications in quantum field theory and cryptography."
+"The Dawn of Gravitational Wave Cosmology":
+  dd: "2025-06-16 to 2025-06-20"
+  name: "The Dawn of Gravitational Wave Cosmology"
+  link: "https://indico.cern.ch/event/1402252/"
+  loc: "Lisbon, Portugal"
+  arxiv: "astro-ph.CO, gr-qc"
+  excerpt: "The workshop explores gravitational wave cosmology, focusing on early universe physics. Topics include primordial gravitational waves, cosmic strings, and inflation. Discussions cover LISA observations and theoretical models, advancing cosmological research."
+"The Eisenstein ideal and Galois representations, looking forward after 50 years":
+  dd: "2025-06-16 to 2025-06-20"
+  name: "The Eisenstein Ideal and Galois Representations: 50 Years Later"
+  link: "https://sites.google.com/pitt.edu/eisenstein2026/"
+  loc: "Pittsburgh, PA, USA"
+  arxiv: "math.NT, math.RT"
+  excerpt: "The conference revisits the Eisenstein ideal, focusing on Galois representations. Topics include modular forms, p-adic L-functions, and arithmetic geometry. Discussions cover applications in string theory and number theory, advancing arithmetic insights."
+"The Fourth International workshop on Axion Physics and Experiment (Axion 2025)":
+  dd: "2025-06-16 to 2025-06-20"
+  name: "Fourth International Workshop on Axion Physics and Experiment"
+  link: "https://indico.cern.ch/event/1402280/"
+  loc: "Lisbon, Portugal"
+  arxiv: "hep-ph, astro-ph.CO"
+  excerpt: "Axion 2025 explores axion physics, focusing on dark matter candidates. Topics include axion searches, QCD axions, and cosmological implications. Discussions cover experimental techniques and theoretical models, advancing axion research."
+"The Frontier of Particle Physics: Exploring Muons, Quantum Science and the Cosmos":
+  dd: "2025-06-16 to 2025-06-20"
+  name: "The Frontier of Particle Physics: Exploring Muons, Quantum Science and the Cosmos"
+  link: "https://indico.cern.ch/event/1411026/"
+  loc: "Lisbon, Portugal"
+  arxiv: "hep-ph, quant-ph"
+  excerpt: "The workshop explores muons, quantum science, and cosmology in particle physics. Topics include muon g-2, quantum entanglement, and dark matter. Discussions cover experimental results and theoretical advancements, enhancing interdisciplinary physics insights."
+"The Gross-Zagier formula, 40 years later":
+  dd: "2025-06-16 to 2025-06-20"
+  name: "The Gross-Zagier Formula: 40 Years Later"
+  link: "https://math.mit.edu/events/gross-zagier/"
+  loc: "Cambridge, MA, USA"
+  arxiv: "math.NT, math.AG"
+  excerpt: "The conference revisits the Gross-Zagier formula, focusing on number theory. Topics include L-functions, Heegner points, and elliptic curves. Discussions cover applications in quantum field theory and arithmetic geometry, advancing number-theoretic insights."
+"The International Conference on Ring Theory, Number Theory and Lie Algebra, “In Honor of Ali Benhissi's 60th Birthday”.":
+  dd: "2025-06-16 to 2025-06-20"
+  name: "International Conference on Ring Theory, Number Theory and Lie Algebra: Honoring Ali Benhissi"
+  link: "https://icrtntla2025.sciencesconf.org/"
+  loc: "Marrakech, Morocco"
+  arxiv: "math.RA, math.NT"
+  excerpt: "Honoring Ali Benhissi, the conference explores ring theory, number theory, and Lie algebras. Topics include noncommutative rings, Diophantine equations, and Lie symmetries. Discussions cover applications in quantum mechanics and cryptography."
+"The International Symposium on Physics in Collision (PIC 2025)":
+  dd: "2025-06-16 to 2025-06-20"
+  name: "International Symposium on Physics in Collision 2025"
+  link: "https://indico.cern.ch/event/1402332/"
+  loc: "Lisbon, Portugal"
+  arxiv: "hep-ph, hep-ex"
+  excerpt: "PIC 2025 explores particle physics collisions, focusing on experimental results. Topics include Higgs physics, top quark measurements, and BSM searches. Discussions cover LHC data and theoretical predictions, advancing high-energy physics."
+"The Lotus and Swampland School/workshop":
+  dd: "2025-06-16 to 2025-06-20"
+  name: "The Lotus and Swampland School/Workshop"
+  link: "https://indico.cern.ch/event/1392601/"
+  loc: "Lisbon, Portugal"
+  arxiv: "hep-th, math-ph"
+  excerpt: "The workshop explores the Swampland program in string theory, focusing on quantum gravity constraints. Topics include Swampland conjectures, effective field theories, and holography. Discussions advance theoretical frameworks for quantum gravity."
+"The Magnificent CEvNS: A workshop exploring coherent elastic neutrino-nucleus scattering (MagCEvNS2025)":
+  dd: "2025-06-16 to 2025-06-20"
+  name: "The Magnificent CEvNS: Coherent Elastic Neutrino-Nucleus Scattering"
+  link: "https://indico.cern.ch/event/1411017/"
+  loc: "Lisbon, Portugal"
+  arxiv: "hep-ph, nucl-th"
+  excerpt: "MagCEvNS2025 explores coherent elastic neutrino-nucleus scattering, focusing on low-energy physics. Topics include CEvNS measurements, neutrino properties, and dark matter. Discussions cover experimental techniques and theoretical implications, advancing neutrino physics."
+"thematic-programme-commutative-algebra-applications":
+  dd: "2025-01-01 to 2025-06-30"
+  name: "Thematic Programme on Commutative Algebra and its Applications"
+  link: "http://www.fields.utoronto.ca/activities/24-25/commutative-algebra"
+  loc: "Toronto, ON, Canada"
+  arxiv: "math.AC, math.AG"
+  excerpt: "The program explores commutative algebra, focusing on applications in physics. Topics include Gröbner bases, homological algebra, and toric varieties. Discussions cover connections to string theory and quantum computing, advancing algebraic techniques."
+"thematic-programme-discrete-groups-topology-algebraic-geometry":
+  dd: "2025-08-01 to 2025-12-31"
+  name: "Thematic Program on Discrete Groups, Topology, and Algebraic Geometry"
+  link: "https://www.nd.edu/math/thematic-program-2025"
+  loc: "Notre Dame, IN, USA"
+  arxiv: "math.GR, math.AG"
+  excerpt: "The program explores discrete groups, topology, and algebraic geometry, focusing on interdisciplinary applications. Topics include group actions, moduli spaces, and geometric structures. Discussions cover connections to quantum field theory and number theory."
+"The Modern Physics of Compact Stars and Relativistic Gravity 2025 (MPCS2025)":
+  dd: "2025-09-01 to 2025-09-05"
+  name: "Modern Physics of Compact Stars and Relativistic Gravity 2025"
+  link: "https://mpcs2025.uni-frankfurt.de/"
+  loc: "Frankfurt, Germany"
+  arxiv: "astro-ph.HE, gr-qc"
+  excerpt: "MPCS2025 explores compact stars and relativistic gravity, focusing on astrophysical phenomena. Topics include neutron star equations of state, black holes, and gravitational waves. Discussions advance theoretical and observational astrophysics."
+"Theoretical Foundations of Machine Learning Course 2025":
+  dd: "2025-06-16 to 2025-06-20"
+  name: "Theoretical Foundations of Machine Learning Course 2025"
+  link: "https://malga.unige.it/education/schools/tfml/"
+  loc: "Genova, Italy"
+  arxiv: "cs.LG, stat.ML"
+  excerpt: "The course trains researchers in machine learning theory, with physics applications. Topics include statistical learning, neural networks, and optimization. Lectures cover applications in particle physics and cosmology, emphasizing theoretical foundations."
+"The Thirteenth Annual Large Hadron Collider Physics Conference (LHCP2025)":
+  dd: "2025-05-19 to 2025-05-24"
+  name: "Thirteenth Annual Large Hadron Collider Physics Conference"
+  link: "https://phys.ncts.ntu.edu.tw/en/act/Conferences/The-Thirteenth-Annual-Large-Hadron-Collider-Physics-Conference-LHCP2025-47828123"
+  loc: "Taipei, Taiwan"
+  arxiv: "hep-ph, hep-ex"
+  excerpt: "LHCP2025 explores LHC physics, focusing on experimental and theoretical advances. Topics include Higgs measurements, dark matter searches, and QCD. Discussions cover ATLAS and CMS data, advancing particle physics research."
+"Three days between Analysis and Geometry in Trento - 4° Edition Trento":
+  dd: "2025-06-16 to 2025-06-18"
+  name: "Three Days Between Analysis and Geometry in Trento - 4th Edition"
+  link: "https://cvgmt.sns.it/event/997/"
+  loc: "Trento, Italy"
+  arxiv: "math.DG, math.AP"
+  excerpt: "The workshop bridges analysis and geometry, focusing on physical applications. Topics include geometric PDEs, harmonic analysis, and curvature flows. Discussions cover connections to quantum mechanics and general relativity, emphasizing analytical techniques."
+"Three days in Calculus of Variations TU Wien (Vienna)":
+  dd: "2025-06-16 to 2025-06-18"
+  name: "Three Days in Calculus of Variations"
+  link: "https://sites.google.com/view/three-days-in-calcvar/home-page"
+  loc: "Vienna, Austria"
+  arxiv: "math.AP, math.DG"
+  excerpt: "The workshop explores calculus of variations, focusing on physical applications. Topics include energy minimization, optimal transport, and variational PDEs. Discussions cover modeling in materials science and quantum systems, emphasizing variational methods."
+"time-2025-invariant-theory":
+  dd: "2025-06-16 to 2025-06-20"
+  name: "TIME 2025: Invariant Theory"
+  link: "https://www.lie-stormer.no/time-2025"
+  loc: "Tromsø, Norway"
+  arxiv: "math.RT, math.AG"
+  excerpt: "TIME 2025 explores invariant theory, focusing on algebraic and geometric applications. Topics include polynomial invariants, GIT quotients, and representation theory. Discussions cover connections to string theory and quantum mechanics."
+"Time in Physics International Workshop: Studies about time from the perspective of Physics (TPIW)":
+  dd: "2025-06-16 to 2025-06-20"
+  name: "Time in Physics International Workshop"
+  link: "https://indico.cern.ch/event/1410994/"
+  loc: "Lisbon, Portugal"
+  arxiv: "physics.class-ph, gr-qc"
+  excerpt: "TPIW explores the concept of time in physics, focusing on theoretical perspectives. Topics include time in general relativity, quantum mechanics, and thermodynamics. Discussions advance understanding of time’s role in fundamental physics."
+"Time in Quantum Theory 2025, Genoa, Italy":
+  dd: "2025-06-16 to 2025-06-20"
+  name: "Time in Quantum Theory 2025"
+  link: "https://indico.cern.ch/event/1411035/"
+  loc: "Genova, Italy"
+  arxiv: "quant-ph, hep-th"
+  excerpt: "The workshop explores time in quantum theory, focusing on foundational questions. Topics include quantum clocks, time-energy uncertainty, and decoherence. Discussions cover implications for quantum gravity and quantum information, advancing theoretical insights."
+"Topical Workshop on Electronics for Particle Physics (TWEPP25)":
+  dd: "2025-09-15 to 2025-09-19"
+  name: "Topical Workshop on Electronics for Particle Physics 2025"
+  link: "https://twepp2025.web.cern.ch/"
+  loc: "Geneva, Switzerland"
+  arxiv: "physics.ins-det, hep-ex"
+  excerpt: "TWEPP25 advances electronics for particle physics, focusing on detector technologies. Topics include ASIC design, radiation-hard electronics, and data acquisition. Discussions cover applications in LHC experiments, enhancing detector performance."
+"Topics in Geometric Analysis Università di Pisa":
+  dd: "2025-06-16 to 2025-06-20"
+  name: "Topics in Geometric Analysis"
+  link: "https://indico.sns.it/event/92/"
+  loc: "Pisa, Italy"
+  arxiv: "math.DG, math.AP"
+  excerpt: "The workshop explores geometric analysis, focusing on physical applications. Topics include Ricci flow, minimal surfaces, and geometric PDEs. Discussions cover connections to general relativity and quantum field theory, emphasizing analytical techniques."
+"Topics in Geometric Measure Theory Università di Pisa":
+  dd: "2025-06-16 to 2025-06-20"
+  name: "Topics in Geometric Measure Theory"
+  link: "https://events.dm.unipi.it/event/200/"
+  loc: "Pisa, Italy"
+  arxiv: "math.DG, math.AP"
+  excerpt: "The conference explores geometric measure theory, focusing on physical applications. Topics include varifolds, minimal surfaces, and regularity theory. Discussions cover modeling in materials science and quantum mechanics, emphasizing geometric analysis."
+"Trento SinG 2025 summer school in algebraic geometry":
+  dd: "2025-07-14 to 2025-07-25"
+  name: "Trento SinG 2025 Summer School in Algebraic Geometry"
+  link: "https://www.math.unitn.it/node/3040"
+  loc: "Trento, Italy"
+  arxiv: "math.AG, math-ph"
+  excerpt: "SinG 2025 trains students in algebraic geometry, focusing on physical applications. Topics include singularities, moduli spaces, and mirror symmetry. Lectures cover connections to string theory and quantum field theory, emphasizing geometric structures."
+"Tri-Institute Summer School on Elementary Particles (TRISEP 2025) (TRISEP)":
+  dd: "2025-06-16 to 2025-06-27"
+  name: "Tri-Institute Summer School on Elementary Particles 2025"
+  link: "https://trisep.ca/"
+  loc: "Vancouver, BC, Canada"
+  arxiv: "hep-ph, hep-ex"
+  excerpt: "TRISEP 2025 trains students in elementary particle physics, focusing on experimental and theoretical aspects. Topics include QCD, electroweak theory, and dark matter. Lectures cover LHC experiments and BSM models, advancing particle physics."
+"trisections-related-topics-conference":
+  dd: "2025-10-13 to 2025-10-17"
+  name: "Trisections and Related Topics Conference"
+  link: "https://conferences.cirm-math.fr/2900.html"
+  loc: "Marseille, France"
+  arxiv: "math.GT, math.SG"
+  excerpt: "The conference explores trisections in 4-manifolds, focusing on topological advancements. Topics include trisection diagrams, symplectic structures, and knot theory. Discussions cover connections to quantum topology and string theory, enhancing 4-dimensional topology."[](https://conferences.cirm-math.fr/3297.html)
+"trisections-related-topics-conference":
+  dd: "2025-10-13 to 2025-10-17"
+  name: "Trisections and Related Topics Conference"
+  link: "https://www.cirm-math.fr/trisections-conference-2025"
+  loc: "Marseille, France"
+  arxiv: "math.GT, math.SG"
+  excerpt: "This conference investigates trisections and related topics in topology, emphasizing 4-manifolds. Topics include Heegaard splittings, symplectic trisections, and gauge theory. Discussions explore applications in quantum field theory and topology."[](https://conferences.cirm-math.fr/3297.html)
+"trisections-related-topics-research-school":
+  dd: "2025-10-06 to 2025-10-10"
+  name: "Research School: Trisections and Related Topics"
+  link: "https://conferences.cirm-math.fr/2901.html"
+  loc: "Marseille, France"
+  arxiv: "math.GT, math.SG"
+  excerpt: "The research school trains researchers in trisections, focusing on 4-manifold topology. Topics include trisection invariants, symplectic geometry, and low-dimensional topology. Lectures cover applications in quantum topology and string theory, advancing topological research."[](https://conferences.cirm-math.fr/3297.html)
+"trisections-related-topics-research-school":
+  dd: "2025-10-06 to 2025-10-10"
+  name: "Research School: Trisections and Related Topics"
+  link: "https://www.cirm-math.fr/trisections-school-2025"
+  loc: "Marseille, France"
+  arxiv: "math.GT, math.SG"
+  excerpt: "The school focuses on trisections in 4-manifolds, training students in topological methods. Topics include Stein trisections, bridge trisections, and symplectic structures. Discussions cover connections to quantum field theory and topology."[](https://conferences.cirm-math.fr/3297.html)
+"UK-Astroparticle Physics Phenomenology: Spring 2025 (UK-APP)":
+  dd: "2025-04-01 to 2025-04-04"
+  name: "UK-Astroparticle Physics Phenomenology: Spring 2025"
+  link: "https://www.ippp.dur.ac.uk/uk-app-2025/"
+  loc: "Durham, United Kingdom"
+  arxiv: "astro-ph.CO, hep-ph"
+  excerpt: "UK-APP 2025 explores astroparticle physics phenomenology, focusing on theoretical advances. Topics include dark matter, cosmic rays, and neutrino cosmology. Discussions cover experimental constraints and theoretical models, advancing astroparticle research."
+"UK Robotics Summer School 2025":
+  dd: "2025-07-14 to 2025-07-18"
+  name: "UK Robotics Summer School 2025"
+  link: "https://uk-robotics.github.io/UKRSS2025/"
+  loc: "London, United Kingdom"
+  arxiv: "cs.RO, physics.app-ph"
+  excerpt: "The summer school trains students in robotics, with physics applications. Topics include control theory, sensor fusion, and machine learning. Lectures cover applications in quantum sensing and astrophysical navigation, emphasizing robotic technologies."
+"UNIST International Workshop on Calabi-Yau Crystals and BPS Counting":
+  dd: "2025-06-16 to 2025-06-20"
+  name: "UNIST International Workshop on Calabi-Yau Crystals and BPS Counting"
+  link: "https://indico.cern.ch/event/1402338/"
+  loc: "Ulsan, South Korea"
+  arxiv: "hep-th, math.AG"
+  excerpt: "The workshop explores Calabi-Yau crystals and BPS counting, focusing on string theory. Topics include Donaldson-Thomas invariants, crystal melting, and mirror symmetry. Discussions advance mathematical and physical insights in quantum geometry."
