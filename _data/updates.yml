@@ -607,7 +607,7 @@
   link: "https://planck2025.desy.de/"
   loc: "Hamburg, Germany"
   arxiv: "hep-ph, hep-th, gr-qc"
-  excerpt: "The conference bridges physics from the Planck scale to the electroweak scale, focusing on quantum gravity, string theory, and particle physics. Topics include supersymmetry, extra dimensions, and dark matter. Discussions integrate theoretical models with experimental results from the LHC, exploring fundamental interactions and cosmology."[](http://scipp.ucsc.edu/~haber/webpage/conf.html)
+  excerpt: "The conference bridges physics from the Planck scale to the electroweak scale, focusing on quantum gravity, string theory, and particle physics. Topics include supersymmetry, extra dimensions, and dark matter. Discussions integrate theoretical models with experimental results from the LHC, exploring fundamental interactions and cosmology."
 "28th Capra Meeting on Radiation Reaction in General Relativity, Southampton, UK":
   dd: "2025-06-23 to 27"
   name: "28th Capra Meeting on Radiation Reaction in General Relativity"
@@ -1118,14 +1118,14 @@
   link: "https://eunpc2025.org/"
   loc: "Caen, France"
   arxiv: "nucl-ex, nucl-th, physics.ins-det"
-  excerpt: "EuNPC2025 explores nuclear physics, focusing on nuclear structure, reactions, and astrophysics. Topics include exotic nuclei, nuclear forces, and nucleosynthesis. The conference discusses experimental results from GANIL and theoretical advancements in nuclear models, advancing fundamental and applied nuclear science."[](https://conference-service.com/conferences/nuclear-physics.html)
+  excerpt: "EuNPC2025 explores nuclear physics, focusing on nuclear structure, reactions, and astrophysics. Topics include exotic nuclei, nuclear forces, and nucleosynthesis. The conference discusses experimental results from GANIL and theoretical advancements in nuclear models, advancing fundamental and applied nuclear science."
 "70th ICFA Advanced Beam Dynamics Workshop on High Luminosity Circular e+e−e+e− Colliders (eeFACT2025)":
   dd: "2025-09-15 to 19"
   name: "70th ICFA Advanced Beam Dynamics Workshop on High Luminosity Circular e+e− Colliders"
   link: "https://eefact2025.kek.jp/"
   loc: "Tsukuba, Japan"
   arxiv: "physics.acc-ph, hep-ex"
-  excerpt: "The workshop focuses on beam dynamics for high-luminosity circular e+e− colliders, exploring accelerator technologies for precision physics. Topics include beam-beam interactions, lattice design, and luminosity optimization. Discussions cover advancements for future colliders like CEPC and FCC-ee, emphasizing high-energy physics applications."[](https://www.kek.jp/ja/event/202509230900)
+  excerpt: "The workshop focuses on beam dynamics for high-luminosity circular e+e− colliders, exploring accelerator technologies for precision physics. Topics include beam-beam interactions, lattice design, and luminosity optimization. Discussions cover advancements for future colliders like CEPC and FCC-ee, emphasizing high-energy physics applications."
 "7th Bangkok Workshop on Discrete Geometry, Dynamics and Statistics (BKK2025DSCR)":
   dd: "2025-01-20 to 24"
   name: "7th Bangkok Workshop on Discrete Geometry, Dynamics and Statistics"
@@ -1706,7 +1706,7 @@
   link: "https://sites.google.com/view/caac2025/"
   loc: "Toronto, ON, Canada"
   arxiv: "math.CO, math.AG"
-  excerpt: "CAAC 2025 focuses on interactions between combinatorial algebra and algebraic combinatorics, fostering collaboration among algebraists and combinatorialists. Topics include symmetric functions, Schubert calculus, and combinatorial designs. Applications in statistical mechanics and quantum computing are discussed, emphasizing algebraic structures."[](http://www.fields.utoronto.ca/activities/24-25/CAAC2025)
+  excerpt: "CAAC 2025 focuses on interactions between combinatorial algebra and algebraic combinatorics, fostering collaboration among algebraists and combinatorialists. Topics include symmetric functions, Schubert calculus, and combinatorial designs. Applications in statistical mechanics and quantum computing are discussed, emphasizing algebraic structures."
 "Calculus of Variations and applications CIRM, Marseille, France":
   dd: "2025-06-02 to 06"
   name: "Calculus of Variations and Applications"
@@ -2322,7 +2322,7 @@
   link: "https://indico.cern.ch/event/1402321/"
   loc: "Erice, Italy"
   arxiv: "nucl-th, hep-ph"
-  excerpt: "The school/workshop explores QCD under extreme conditions, focusing on high-temperature and high-density regimes. Topics include quark-gluon plasma, chiral symmetry restoration, and lattice QCD simulations. Discussions cover experimental results from RHIC and LHC, advancing theoretical models for nuclear matter."[](https://learn.getindico.io/)
+  excerpt: "The school/workshop explores QCD under extreme conditions, focusing on high-temperature and high-density regimes. Topics include quark-gluon plasma, chiral symmetry restoration, and lattice QCD simulations. Discussions cover experimental results from RHIC and LHC, advancing theoretical models for nuclear matter."
 "Étale cohomology and étale homotopy":
   dd: "2025-06-23 to 2025-06-27"
   name: "Étale Cohomology and Étale Homotopy"
@@ -2357,7 +2357,7 @@
   link: "https://indico.cern.ch/event/1402281/"
   loc: "CERN, Geneva, Switzerland"
   arxiv: "hep-ph, physics.comp-ph"
-  excerpt: "The workshop focuses on event generators for particle physics, exploring Monte Carlo methods. Topics include QCD simulations, parton showers, and beyond-Standard-Model processes. Discussions cover applications in LHC experiments and future colliders, advancing computational precision."[](https://learn.getindico.io/)
+  excerpt: "The workshop focuses on event generators for particle physics, exploring Monte Carlo methods. Topics include QCD simulations, parton showers, and beyond-Standard-Model processes. Discussions cover applications in LHC experiments and future colliders, advancing computational precision."
 "explicit-methods-automorphic-forms":
   dd: "2025-06-16 to 2025-06-20"
   name: "Explicit Methods in Automorphic Forms"
@@ -2385,7 +2385,7 @@
   link: "https://indico.cern.ch/event/1402307/"
   loc: "CERN, Geneva, Switzerland"
   arxiv: "cs.LG, physics.data-an"
-  excerpt: "The conference explores fast machine learning techniques for scientific applications, focusing on physics. Topics include real-time data processing, neural network optimization, and anomaly detection. Discussions cover applications in LHC experiments and cosmological data analysis, advancing computational efficiency."[](https://learn.getindico.io/)
+  excerpt: "The conference explores fast machine learning techniques for scientific applications, focusing on physics. Topics include real-time data processing, neural network optimization, and anomaly detection. Discussions cover applications in LHC experiments and cosmological data analysis, advancing computational efficiency."
 "Festum Pi Chania, Greece":
   dd: "2025-06-14 to 2025-06-15"
   name: "Festum Pi"
@@ -2427,7 +2427,7 @@
   link: "https://indico.cern.ch/event/1402269/"
   loc: "Lisbon, Portugal"
   arxiv: "hep-th, math-ph"
-  excerpt: "The workshop explores fishnet quantum field theories, focusing on integrability and mathematical structures. Topics include Yang-Baxter equations, conformal bootstrap, and period integrals. Discussions cover applications in string theory and AdS/CFT correspondence, advancing theoretical physics."[](https://learn.getindico.io/)
+  excerpt: "The workshop explores fishnet quantum field theories, focusing on integrability and mathematical structures. Topics include Yang-Baxter equations, conformal bootstrap, and period integrals. Discussions cover applications in string theory and AdS/CFT correspondence, advancing theoretical physics."
 "Formalizing Class Field Theory":
   dd: "2025-06-09 to 2025-06-13"
   name: "Formalizing Class Field Theory"
@@ -2441,21 +2441,21 @@
   link: "https://indico.cern.ch/event/1402316/"
   loc: "Mainz, Germany"
   arxiv: "hep-th, hep-lat"
-  excerpt: "The summer school trains researchers in effective field theory and lattice field theory. Topics include chiral perturbation theory, lattice QCD, and non-perturbative methods. Lectures cover applications in particle physics and cosmology, emphasizing computational techniques."[](https://learn.getindico.io/)
+  excerpt: "The summer school trains researchers in effective field theory and lattice field theory. Topics include chiral perturbation theory, lattice QCD, and non-perturbative methods. Lectures cover applications in particle physics and cosmology, emphasizing computational techniques."
 "From Puzzles to New Insights in Fundamental Physics, Campagna, Italy":
   dd: "2025-06-16 to 2025-06-20"
   name: "From Puzzles to New Insights in Fundamental Physics"
   link: "https://indico.cern.ch/event/1411043/"
   loc: "Campagna, Italy"
   arxiv: "hep-ph, hep-th"
-  excerpt: "The workshop explores puzzles in fundamental physics, seeking new insights. Topics include hierarchy problems, dark matter, and quantum gravity. Discussions bridge experimental data from LHC and theoretical models, advancing understanding of particle physics and cosmology."[](https://learn.getindico.io/)
+  excerpt: "The workshop explores puzzles in fundamental physics, seeking new insights. Topics include hierarchy problems, dark matter, and quantum gravity. Discussions bridge experimental data from LHC and theoretical models, advancing understanding of particle physics and cosmology."
 "Frontiers in Field Theory and Phenomenology, JHU/IPMU Workshop Series":
   dd: "2025-06-23 to 2025-06-27"
   name: "Frontiers in Field Theory and Phenomenology"
   link: "https://indico.cern.ch/event/1411002/"
   loc: "Tokyo, Japan"
   arxiv: "hep-ph, hep-th"
-  excerpt: "The workshop explores field theory and phenomenology, focusing on particle physics. Topics include effective field theories, scattering amplitudes, and beyond-Standard-Model physics. Discussions cover experimental results from LHC and theoretical advancements, emphasizing precision phenomenology."[](https://learn.getindico.io/)
+  excerpt: "The workshop explores field theory and phenomenology, focusing on particle physics. Topics include effective field theories, scattering amplitudes, and beyond-Standard-Model physics. Discussions cover experimental results from LHC and theoretical advancements, emphasizing precision phenomenology."
 "Frontiers in Optics + Laser Science":
   dd: "2025-09-29 to 2025-10-02"
   name: "Frontiers in Optics + Laser Science"
@@ -2469,7 +2469,7 @@
   link: "https://indico.cern.ch/event/1410983/"
   loc: "Rome, Italy"
   arxiv: "astro-ph.HE, physics.ins-det"
-  excerpt: "FiXP 2025 trains researchers in X-ray polarimetry, focusing on astrophysical applications. Topics include polarimetric detectors, black hole imaging, and pulsar studies. Lectures cover advancements in X-ray telescopes like IXPE, emphasizing precision measurements of cosmic sources."[](https://learn.getindico.io/)
+  excerpt: "FiXP 2025 trains researchers in X-ray polarimetry, focusing on astrophysical applications. Topics include polarimetric detectors, black hole imaging, and pulsar studies. Lectures cover advancements in X-ray telescopes like IXPE, emphasizing precision measurements of cosmic sources."
 "Fundamentals of Molecular Quantum Electrodynamics: A Tutorial":
   dd: "2025-07-14 to 2025-07-18"
   name: "Fundamentals of Molecular Quantum Electrodynamics: A Tutorial"
@@ -2532,7 +2532,7 @@
   link: "https://indico.cern.ch/event/1411060/"
   loc: "Tartu, Estonia"
   arxiv: "gr-qc, hep-th"
-  excerpt: "The conference explores geometric foundations of gravity, focusing on alternative gravitational theories. Topics include modified gravity, quantum geometry, and black hole solutions. Discussions bridge theoretical models with observational data from gravitational wave detectors."[](https://learn.getindico.io/)
+  excerpt: "The conference explores geometric foundations of gravity, focusing on alternative gravitational theories. Topics include modified gravity, quantum geometry, and black hole solutions. Discussions bridge theoretical models with observational data from gravitational wave detectors."
 "Geometric Measure Theory in Trento Povo (Trento), via sommarive 9, room B107":
   dd: "2025-06-16 to 2025-06-20"
   name: "Geometric Measure Theory in Trento"
@@ -2616,7 +2616,7 @@
   link: "https://indico.cern.ch/event/1411047/"
   loc: "Stockholm, Sweden"
   arxiv: "gr-qc, hep-ph"
-  excerpt: "GWBSM4 explores gravitational waves as probes of beyond-Standard-Model physics. Topics include exotic compact objects, dark matter, and phase transitions. Discussions integrate LIGO data with theoretical models, advancing insights into fundamental physics."[](https://learn.getindico.io/)
+  excerpt: "GWBSM4 explores gravitational waves as probes of beyond-Standard-Model physics. Topics include exotic compact objects, dark matter, and phase transitions. Discussions integrate LIGO data with theoretical models, advancing insights into fundamental physics."
 "GRAVITATIONAL WAVES: from theory to detection: International School on Astro-Particle Physics, Erwin Schrödinger Institute":
   dd: "2025-06-16 to 2025-06-27"
   name: "Gravitational Waves: From Theory to Detection"
@@ -2630,14 +2630,14 @@
   link: "https://indico.cern.ch/event/1380922/"
   loc: "Seoul, South Korea"
   arxiv: "gr-qc, hep-th"
-  excerpt: "Gravity 2025 explores black hole physics, focusing on new theoretical insights. Topics include black hole thermodynamics, quantum corrections, and gravitational waves. Discussions bridge observational data from EHT and LIGO with quantum gravity models."[](https://learn.getindico.io/)
+  excerpt: "Gravity 2025 explores black hole physics, focusing on new theoretical insights. Topics include black hole thermodynamics, quantum corrections, and gravitational waves. Discussions bridge observational data from EHT and LIGO with quantum gravity models."
 "Gravity beyond Riemannian Paradigm (GbRP)":
   dd: "2025-06-16 to 2025-06-20"
   name: "Gravity Beyond Riemannian Paradigm"
   link: "https://indico.cern.ch/event/1411054/"
   loc: "Lisbon, Portugal"
   arxiv: "gr-qc, hep-th"
-  excerpt: "GbRP explores non-Riemannian gravity theories, focusing on alternative frameworks. Topics include teleparallel gravity, metric-affine theories, and quantum gravity. Discussions cover implications for cosmology and black hole physics, advancing theoretical gravitational research."[](https://learn.getindico.io/)
+  excerpt: "GbRP explores non-Riemannian gravity theories, focusing on alternative frameworks. Topics include teleparallel gravity, metric-affine theories, and quantum gravity. Discussions cover implications for cosmology and black hole physics, advancing theoretical gravitational research."
 "gta-philadelphia-2025":
   dd: "2025-03-28 to 2025-03-30"
   name: "Graduate Student Conference in Algebra, Geometry, and Topology 2025"
@@ -2665,14 +2665,14 @@
   link: "https://indico.cern.ch/event/1411053/"
   loc: "CERN, Geneva, Switzerland"
   arxiv: "hep-ph, hep-ex"
-  excerpt: "HEP HORIZON explores high-energy physics, focusing on emerging research. Topics include new particle searches, dark matter, and precision measurements. Discussions cover experimental results from LHC and theoretical advancements, advancing particle physics frontiers."[](https://learn.getindico.io/)
+  excerpt: "HEP HORIZON explores high-energy physics, focusing on emerging research. Topics include new particle searches, dark matter, and precision measurements. Discussions cover experimental results from LHC and theoretical advancements, advancing particle physics frontiers."
 "HHH workshop 2025":
   dd: "2025-06-23 to 2025-06-27"
   name: "HHH Workshop 2025"
   link: "https://indico.cern.ch/event/1402326/"
   loc: "CERN, Geneva, Switzerland"
   arxiv: "hep-ph, hep-ex"
-  excerpt: "The HHH workshop explores Higgs boson physics, focusing on multi-Higgs processes. Topics include Higgs pair production, self-couplings, and beyond-Standard-Model signatures. Discussions cover LHC experimental data and theoretical predictions, advancing Higgs sector understanding."[](https://learn.getindico.io/)
+  excerpt: "The HHH workshop explores Higgs boson physics, focusing on multi-Higgs processes. Topics include Higgs pair production, self-couplings, and beyond-Standard-Model signatures. Discussions cover LHC experimental data and theoretical predictions, advancing Higgs sector understanding."
 "Higgs 2025 (Higgs2025)":
   dd: "2025-11-10 to 2025-11-14"
   name: "Higgs 2025"
@@ -2686,7 +2686,7 @@
   link: "https://indico.cern.ch/event/1410993/"
   loc: "Florence, Italy"
   arxiv: "hep-ph, hep-ex"
-  excerpt: "The workshop explores Higgs pair production, focusing on di-Higgs processes. Topics include Higgs self-interactions, CP violation, and new physics signatures. Discussions cover LHC data analysis and theoretical models, advancing understanding of the Higgs sector."[](https://learn.getindico.io/)
+  excerpt: "The workshop explores Higgs pair production, focusing on di-Higgs processes. Topics include Higgs self-interactions, CP violation, and new physics signatures. Discussions cover LHC data analysis and theoretical models, advancing understanding of the Higgs sector."
 "High Energy and the Cosmos: AGASS-HEP-Cosmology Workshop":
   dd: "2025-06-16 to 2025-06-20"
   name: "High Energy and the Cosmos: AGASS-HEP-Cosmology Workshop"
@@ -2700,7 +2700,7 @@
   link: "https://indico.cern.ch/event/1402244/"
   loc: "Lisbon, Portugal"
   arxiv: "math-ph, hep-th"
-  excerpt: "The workshop explores higher structures, moduli spaces, and integrability, focusing on mathematical physics. Topics include derived categories, Hitchin systems, and integrable models. Discussions cover applications in string theory and quantum field theory, emphasizing geometric structures."[](https://learn.getindico.io/)
+  excerpt: "The workshop explores higher structures, moduli spaces, and integrability, focusing on mathematical physics. Topics include derived categories, Hitchin systems, and integrable models. Discussions cover applications in string theory and quantum field theory, emphasizing geometric structures."
 "Higher Structures: Recent developments and applications":
   dd: "2025-06-16 to 2025-06-20"
   name: "Higher Structures: Recent Developments and Applications"
@@ -2728,14 +2728,14 @@
   link: "https://indico.cern.ch/event/1411013/"
   loc: "Madison, WI, USA"
   arxiv: "cs.DC, physics.comp-ph"
-  excerpt: "HTC 2025 explores high-throughput computing, focusing on scientific applications in physics. Topics include distributed computing, grid computing, and data-intensive workflows. Discussions cover applications in LHC data processing and cosmological simulations, advancing computational scalability."[](https://learn.getindico.io/)
+  excerpt: "HTC 2025 explores high-throughput computing, focusing on scientific applications in physics. Topics include distributed computing, grid computing, and data-intensive workflows. Discussions cover applications in LHC data processing and cosmological simulations, advancing computational scalability."
 "Holographic applications: from Quantum Realms to the Big Bang":
   dd: "2025-06-16 to 2025-06-20"
   name: "Holographic Applications: From Quantum Realms to the Big Bang"
   link: "https://indico.cern.ch/event/1402264/"
   loc: "Lisbon, Portugal"
   arxiv: "hep-th, gr-qc"
-  excerpt: "The workshop explores holographic principles, from quantum systems to cosmology. Topics include AdS/CFT correspondence, black hole holography, and early universe models. Discussions cover applications in quantum information and cosmological observables, advancing theoretical physics."[](https://learn.getindico.io/)
+  excerpt: "The workshop explores holographic principles, from quantum systems to cosmology. Topics include AdS/CFT correspondence, black hole holography, and early universe models. Discussions cover applications in quantum information and cosmological observables, advancing theoretical physics."
 "Homological Commutative Algebra and Related Topics in Savannah.":
   dd: "2025-04-24 to 2025-04-27"
   name: "Homological Commutative Algebra and Related Topics"
@@ -2756,14 +2756,14 @@
   link: "https://indico.cern.ch/event/1410976/"
   loc: "Lisbon, Portugal"
   arxiv: "hep-ph, nucl-th"
-  excerpt: "The workshop explores high-temperature QCD using jet physics, focusing on quark-gluon plasma. Topics include jet quenching, thermalization, and QCD thermodynamics. Discussions cover experimental results from LHC and RHIC, advancing strong interaction physics."[](https://learn.getindico.io/)
+  excerpt: "The workshop explores high-temperature QCD using jet physics, focusing on quark-gluon plasma. Topics include jet quenching, thermalization, and QCD thermodynamics. Discussions cover experimental results from LHC and RHIC, advancing strong interaction physics."
 "Hot QCD Matter (Series 3)":
   dd: "2025-08-17 to 2025-08-22"
   name: "Hot QCD Matter (Series 3)"
   link: "https://indico.cern.ch/event/1402310/"
   loc: "Newport, RI, USA"
   arxiv: "nucl-th, hep-ph"
-  excerpt: "The workshop explores hot QCD matter, focusing on quark-gluon plasma. Topics include chiral symmetry, heavy-ion collisions, and lattice QCD. Discussions cover experimental data from LHC and theoretical models, advancing nuclear physics insights."[](https://learn.getindico.io/)
+  excerpt: "The workshop explores hot QCD matter, focusing on quark-gluon plasma. Topics include chiral symmetry, heavy-ion collisions, and lattice QCD. Discussions cover experimental data from LHC and theoretical models, advancing nuclear physics insights."
 "Hot topics in Modern Cosmology Spontaneous Workshop XVII":
   dd: "2025-05-10 to 2025-05-18"
   name: "Hot Topics in Modern Cosmology: Spontaneous Workshop XVII"
@@ -2791,7 +2791,7 @@
   link: "https://indico.cern.ch/event/1410980/"
   loc: "Oxford, United Kingdom"
   arxiv: "hep-ex, physics.ins-det"
-  excerpt: "The workshop honors Ian Shipsey, focusing on his contributions to particle physics and detectors. Topics include silicon trackers, heavy flavor physics, and LHC experiments. Discussions cover advancements in detector technology and experimental techniques."[](https://learn.getindico.io/)
+  excerpt: "The workshop honors Ian Shipsey, focusing on his contributions to particle physics and detectors. Topics include silicon trackers, heavy flavor physics, and LHC experiments. Discussions cover advancements in detector technology and experimental techniques."
 "IberiCos 2025, Coimbra, Portugal":
   dd: "2025-04-07 to 2025-04-09"
   name: "IberiCos 2025"
@@ -2826,7 +2826,7 @@
   link: "https://indico.cern.ch/event/1411058/"
   loc: "Prague, Czech Republic"
   arxiv: "physics.ins-det, nucl-ex"
-  excerpt: "PEISS 2025 trains students in nuclear science instrumentation, focusing on detectors. Topics include radiation detection, scintillator technologies, and data acquisition. Lectures cover applications in particle physics and astrophysics, emphasizing experimental techniques."[](https://learn.getindico.io/)
+  excerpt: "PEISS 2025 trains students in nuclear science instrumentation, focusing on detectors. Topics include radiation detection, scintillator technologies, and data acquisition. Lectures cover applications in particle physics and astrophysics, emphasizing experimental techniques."
 "IITGN Flavour Physics Week: Exploring Quark and Lepton Frontiers":
   dd: "2025-03-03 to 2025-03-07"
   name: "IITGN Flavour Physics Week 2025"
@@ -2847,7 +2847,7 @@
   link: "https://indico.cern.ch/event/1402341/"
   loc: "Lisbon, Portugal"
   arxiv: "hep-th, gr-qc"
-  excerpt: "The workshop explores emergent geometries in quantum gravity, focusing on holography. Topics include AdS/CFT, spacetime emergence, and quantum entanglement. Discussions cover theoretical advancements and implications for black hole physics and cosmology."[](https://learn.getindico.io/)
+  excerpt: "The workshop explores emergent geometries in quantum gravity, focusing on holography. Topics include AdS/CFT, spacetime emergence, and quantum entanglement. Discussions cover theoretical advancements and implications for black hole physics and cosmology."
 "INdAM Workshop \"Differential Equations and Nonlinear Models\" INdAM, Rome":
   dd: "2025-06-23 to 2025-06-27"
   name: "INdAM Workshop: Differential Equations and Nonlinear Models"
@@ -2868,7 +2868,7 @@
   link: "https://indico.cern.ch/event/1402273/"
   loc: "Lisbon, Portugal"
   arxiv: "hep-th, math-ph"
-  excerpt: "IGST2025 explores integrability in gauge and string theories, focusing on quantum field theory. Topics include Yang-Baxter equations, Bethe ansatz, and AdS/CFT. Discussions cover applications in string theory and condensed matter, advancing theoretical physics."[](https://learn.getindico.io/)
+  excerpt: "IGST2025 explores integrability in gauge and string theories, focusing on quantum field theory. Topics include Yang-Baxter equations, Bethe ansatz, and AdS/CFT. Discussions cover applications in string theory and condensed matter, advancing theoretical physics."
 "Intensive Period \"Quantum Mathematics @ Polimi\" (QMP25) Politecnico di Milano":
   dd: "2025-05-05 to 2025-06-13"
   name: "Intensive Period: Quantum Mathematics @ Polimi"
@@ -2903,7 +2903,7 @@
   link: "https://indico.cern.ch/event/1402266/"
   loc: "Kingston, ON, Canada"
   arxiv: "astro-ph.CO, gr-qc"
-  excerpt: "ICDMS2025 explores dark matter and modified gravity using multi-messenger astrophysics. Topics include stellar dynamics, gravitational lensing, and cosmic microwave background constraints. Discussions integrate data from Gaia, LIGO, and theoretical models to probe dark matter properties and alternative gravity theories, advancing cosmological understanding."[](https://indico.cern.ch/)
+  excerpt: "ICDMS2025 explores dark matter and modified gravity using multi-messenger astrophysics. Topics include stellar dynamics, gravitational lensing, and cosmic microwave background constraints. Discussions integrate data from Gaia, LIGO, and theoretical models to probe dark matter properties and alternative gravity theories, advancing cosmological understanding."
 "International Conference on Frontiers of High Energy Physics (ICFHEP)":
   dd: "2025-07-07 to 2025-07-11"
   name: "International Conference on Frontiers of High Energy Physics"
@@ -2917,14 +2917,14 @@
   link: "https://indico.cern.ch/event/1402314/"
   loc: "Osaka, Japan"
   arxiv: "hep-ph, hep-ex"
-  excerpt: "KAON2025 focuses on kaon physics, exploring rare decays and CP violation. Topics include kaon mixing, branching ratios, and lattice QCD calculations. Discussions cover experimental results from NA62 and KOTO, advancing theoretical understanding of flavor physics."[](https://indico.cern.ch/)
+  excerpt: "KAON2025 focuses on kaon physics, exploring rare decays and CP violation. Topics include kaon mixing, branching ratios, and lattice QCD calculations. Discussions cover experimental results from NA62 and KOTO, advancing theoretical understanding of flavor physics."
 "International Conference on Quantum Technology for High-Energy Physics (QT4HEP)":
   dd: "2025-06-03 to 2025-06-06"
   name: "International Conference on Quantum Technology for High-Energy Physics"
   link: "https://indico.cern.ch/event/1344407/"
   loc: "CERN, Geneva, Switzerland"
   arxiv: "quant-ph, hep-ex"
-  excerpt: "QT4HEP explores quantum technologies for high-energy physics, focusing on computational advancements. Topics include quantum algorithms, quantum sensors, and quantum computing for particle simulations. Discussions cover applications in LHC data analysis and detector optimization, advancing experimental capabilities."[](https://indico.cern.ch/)
+  excerpt: "QT4HEP explores quantum technologies for high-energy physics, focusing on computational advancements. Topics include quantum algorithms, quantum sensors, and quantum computing for particle simulations. Discussions cover applications in LHC data analysis and detector optimization, advancing experimental capabilities."
 "International geometric analysis conference in Milan Bocconi University, Milan, Italy":
   dd: "2025-06-23 to 2025-06-27"
   name: "International Geometric Analysis Conference"
@@ -2945,14 +2945,14 @@
   link: "https://indico.cern.ch/event/1402259/"
   loc: "Lisbon, Portugal"
   arxiv: "hep-ph, nucl-th"
-  excerpt: "The summer school trains researchers in QCD, focusing on hadron structure. Topics include parton distributions, transverse momentum distributions, and lattice QCD. Lectures cover experimental data from LHC and theoretical models, advancing understanding of strong interactions."[](https://indico.cern.ch/)
+  excerpt: "The summer school trains researchers in QCD, focusing on hadron structure. Topics include parton distributions, transverse momentum distributions, and lattice QCD. Lectures cover experimental data from LHC and theoretical models, advancing understanding of strong interactions."
 "International Symposium on Cosmology and Particle Astrophysics: CosPA 2025 (CosPA 2025)":
   dd: "2025-12-01 to 2025-12-05"
   name: "International Symposium on Cosmology and Particle Astrophysics: CosPA 2025"
   link: "https://indico.cern.ch/event/1402263/"
   loc: "Hong Kong, China"
   arxiv: "astro-ph.CO, hep-ph"
-  excerpt: "CosPA 2025 explores cosmology and particle astrophysics, focusing on dark matter and early universe physics. Topics include cosmic microwave background, neutrino cosmology, and gravitational waves. Discussions integrate observational data from Planck and theoretical models, advancing cosmological insights."[](https://indico.cern.ch/)
+  excerpt: "CosPA 2025 explores cosmology and particle astrophysics, focusing on dark matter and early universe physics. Topics include cosmic microwave background, neutrino cosmology, and gravitational waves. Discussions integrate observational data from Planck and theoretical models, advancing cosmological insights."
 "International Symposium on Mössbauer Spectroscopy: Nanochemistry, Hybrid Materials & Molecular Chemistry (GFSM 2025)":
   dd: "2025-06-16 to 2025-06-20"
   name: "International Symposium on Mössbauer Spectroscopy: Nanochemistry, Hybrid Materials & Molecular Chemistry"
@@ -2973,14 +2973,14 @@
   link: "https://indico.cern.ch/event/1410999/"
   loc: "Granada, Spain"
   arxiv: "hep-ph, hep-ex"
-  excerpt: "MIP 2025 explores muon physics, focusing on precision measurements and intensity frontiers. Topics include muon g-2, rare decays, and muon colliders. Discussions cover experimental results from Fermilab and theoretical models, advancing particle physics insights."[](https://indico.cern.ch/)
+  excerpt: "MIP 2025 explores muon physics, focusing on precision measurements and intensity frontiers. Topics include muon g-2, rare decays, and muon colliders. Discussions cover experimental results from Fermilab and theoretical models, advancing particle physics insights."
 "International Workshop on String Field Theory and Related Aspects":
   dd: "2025-06-09 to 2025-06-13"
   name: "International Workshop on String Field Theory and Related Aspects"
   link: "https://indico.cern.ch/event/1381257/"
   loc: "Florence, Italy"
   arxiv: "hep-th, math-ph"
-  excerpt: "The workshop explores string field theory, focusing on quantum gravity and gauge theories. Topics include open string field theory, tachyon condensation, and AdS/CFT. Discussions cover theoretical advancements and connections to quantum field theory, advancing string theory insights."[](https://indico.cern.ch/)
+  excerpt: "The workshop explores string field theory, focusing on quantum gravity and gauge theories. Topics include open string field theory, tachyon condensation, and AdS/CFT. Discussions cover theoretical advancements and connections to quantum field theory, advancing string theory insights."
 "International Workshop on Weak Interactions and Neutrinos (WIN 2025)":
   dd: "2025-06-23 to 2025-06-27"
   name: "International Workshop on Weak Interactions and Neutrinos 2025"
@@ -3001,7 +3001,7 @@
   link: "https://indico.cern.ch/event/1402300/"
   loc: "Zurich, Switzerland"
   arxiv: "hep-ph, astro-ph.CO"
-  excerpt: "Invisibles25 explores invisible particles, focusing on dark matter and neutrinos. Topics include direct detection, collider searches, and cosmological constraints. Discussions cover experimental results from Xenon1T and theoretical models, advancing understanding of invisible phenomena."[](https://indico.cern.ch/)
+  excerpt: "Invisibles25 explores invisible particles, focusing on dark matter and neutrinos. Topics include direct detection, collider searches, and cosmological constraints. Discussions cover experimental results from Xenon1T and theoretical models, advancing understanding of invisible phenomena."
 "ISAPP School 2025 High energy cosmic rays as messengers: from the space to the ground":
   dd: "2025-06-16 to 2025-06-27"
   name: "ISAPP School 2025: High Energy Cosmic Rays as Messengers: From the Space to the Ground"
@@ -3022,7 +3022,7 @@
   link: "https://indico.cern.ch/event/1402334/"
   loc: "Sao Carlos, Brazil"
   arxiv: "physics.atom-ph, quant-ph"
-  excerpt: "The school trains researchers in light and cold atom physics, focusing on quantum systems. Topics include laser cooling, Bose-Einstein condensates, and quantum optics. Lectures cover applications in quantum simulation and precision measurements, advancing atomic physics."[](https://indico.cern.ch/)
+  excerpt: "The school trains researchers in light and cold atom physics, focusing on quantum systems. Topics include laser cooling, Bose-Einstein condensates, and quantum optics. Lectures cover applications in quantum simulation and precision measurements, advancing atomic physics."
 "iwasawa-theory-representations-p-adic-groups-conference":
   dd: "2025-06-16 to 2025-06-20"
   name: "Iwasawa Theory and Representations of p-adic Groups Conference"
@@ -3043,7 +3043,7 @@
   link: "https://indico.cern.ch/event/1402304/"
   loc: "Lisbon, Portugal"
   arxiv: "hep-ph, nucl-th"
-  excerpt: "IWHSS-QCD-N'25 explores hadron structure and QCD, focusing on nucleon properties. Topics include form factors, parton distributions, and spectroscopy. Discussions cover experimental data from JLab and theoretical QCD models, advancing nuclear physics insights."[](https://indico.cern.ch/)
+  excerpt: "IWHSS-QCD-N'25 explores hadron structure and QCD, focusing on nucleon properties. Topics include form factors, parton distributions, and spectroscopy. Discussions cover experimental data from JLab and theoretical QCD models, advancing nuclear physics insights."
 "journees-arithmetiques":
   dd: "2025-07-07 to 2025-07-11"
   name: "Journées Arithmétiques 2025"
@@ -3064,7 +3064,7 @@
   link: "https://indico.cern.ch/event/1402285/"
   loc: "Florence, Italy"
   arxiv: "hep-th, math-ph"
-  excerpt: "The summer school trains researchers in quantum field theory and beyond, focusing on advanced topics. Topics include conformal field theory, scattering amplitudes, and quantum gravity. Lectures cover applications in string theory and cosmology, emphasizing theoretical advancements."[](https://indico.cern.ch/)
+  excerpt: "The summer school trains researchers in quantum field theory and beyond, focusing on advanced topics. Topics include conformal field theory, scattering amplitudes, and quantum gravity. Lectures cover applications in string theory and cosmology, emphasizing theoretical advancements."
 "JuliaHEP 2025 Workshop":
   dd: "2025-06-23 to 2025-06-27"
   name: "JuliaHEP 2025 Workshop"
