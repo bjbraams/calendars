@@ -103,7 +103,8 @@ euroquic.org:
 oeaw.ac.at:
   name: Fusion Research Unit of the Austrian Academy of Sciences Conference List
   link: https://www.oeaw.ac.at/en/fusion/fusionoeaw/for-students/conferences
-https::Current_events: FusionWiki at CIEMAT List of Upcoming Fusion and Plasma Events
+wiki-fusion-ciemat:
+  nake: FusionWiki at CIEMAT List of Upcoming Fusion and Plasma Events
   link: https://wiki.fusion.ciemat.es/wiki/FusionWiki:Current_events
 heasarc.gsfc.nasa.gov:
   name: High Energy Astrophysics Science Archive Research Center List of Upcoming Meetings
