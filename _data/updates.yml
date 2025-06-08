@@ -3320,7 +3320,7 @@
 "MITP Scientific Program: From the Cosmos to the Lab: Novel Links and Methods":
   dd: "2025-06-04 to 25"
   name: "From the Cosmos to the Lab: Novel Links and Strategies"
-  link: "https://www.mitp.uni-mainz.de/cosmos-lab-2025/
+  link: https://www.mitp.uni-mainz.de/cosmos-lab-2025/
   loc: "Mainz, Germany"
   arxiv: "astro-ph.CO, hep-ph"
   excerpt: "The program bridges cosmology and laboratory physics, focusing on novel connections. Topics include dark matter searches, axion experiments, and cosmological constraints. Discussions cover experimental techniques and theoretical models, advancing interdisciplinary physics research."
@@ -3362,7 +3362,7 @@
 "MITP Scientific Program: Windows into New Physics in the Sky":
   dd: "2025-07-11 to 28"
   name: "Windows into New Physics in the Sky"
-  link: "https://www.mitp.uni-mainz.de/windows-new-physics-2025/
+  link: https://www.mitp.uni-mainz.de/windows-new-physics-2025/
   loc: "Mainz, Germany"
   arxiv: "astro-ph.HE, hep-ph"
   excerpt: "The program explores astrophysical probes for new physics, focusing on cosmic phenomena. Topics include gravitational waves, gamma-ray bursts, and dark matter signatures. Discussions cover observational data and theoretical models, advancing particle astrophysics."
@@ -3376,14 +3376,14 @@
 "MITP Topical Workshop: Flavour for New Physics at Present and Future Colliders":
   dd: "2025-06-16 to 2025-07-03"
   name: "Flavour for New Physics at Present and Future Colliders"
-  link: "https://www.mitp.npcflavournewcolliders-2025/
+  link: https://www.mitp.npcflavournewcolliders-2025/
   loc: "Mainz, Germany"
   arxiv: "hep-ph, hep-ex"
   excerpt: "The workshop explores flavor physics for new physics searches, focusing on colliders. Topics include rare decays, violation decays, and flavor anomalies. CP violation, and flavor-changing processes. Discussions cover experimental results from LHCb and to theoretical models, advancing new physics insights."
 "MITP Topical Workshop: MathemAmplitudes: Co-homology and Combinatorics of GKZ systems, Euler-Mellin-Feynman Integrals, and Scattering Amplitudes":
   dd: "2025-06-16 to 2025-07-03"
   name: "MathemAmplitudes: Cohomology and Combinatorics of Scattering Integrals"
-  link: "https://www.mathamplitudes.mathemamplitudes-2025/
+  link: https://www.mathamplitudes.mathemamplitudes-2025/
   loc: MathMainz, Germany"
   arxiv: "math-ph, hep-th"
   excerpt: "The workshop explores mathematical structures in scattering amplitudes, focusing on QFT. Topics include GKZ systems, Euler-Mellin integrals, and amplitude combinatorics. Discussions cover applications in string theory and tQCD phenomenology, emphasizing mathematical rigor."
