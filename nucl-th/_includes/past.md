@@ -12,7 +12,7 @@
 
 2025-03-01 to 07: [61st Karpacz Winter School of Theoretical Physics and ChETEC-INFRA Training School 2025 Multi-Messenger Nuclear Astrophysics in the 21st Century](https://events.ift.uni.wroc.pl/event/68/ "Focuses on multi-messenger nuclear astrophysics, covering nucleosynthesis, gravitational waves, and neutrino detection. Topics include nuclear reactions, stellar evolution, and computational modeling, emphasizing interdisciplinary approaches to cosmic phenomena."), Karpacz, Poland.
 
-2025-03-03 to 07: [A. N. Mitra Memorial Meeting and Lecture](https://indico.cern.ch/event/1410987/ "The meeting honors A. N. Mitra, focusing on particle and nuclear physics. Topics include hadron physics, QCD, and nuclear interactions. Discussions cover theoretical advancements and experimental results from colliders, emphasizing contributions to strong interaction physics."), Delhi, India.
+2025-03-03 to 07: [A. N. Mitra Memorial Meeting and Lecture](https://asokenathmitra.github.io/ "The meeting honors A. N. Mitra, focusing on particle and nuclear physics. Topics include hadron physics, QCD, and nuclear interactions. Discussions cover theoretical advancements and experimental results from colliders, emphasizing contributions to strong interaction physics."), Delhi, India.
 
 2025-03-03 to 14: [CeNAM Nucleosynthesis Uncertainties Workshop](https://sites.google.com/view/nucleosynthesis-uncertainties "This workshop focuses on uncertainties in nucleosynthesis, covering nuclear reaction rates, cross-section measurements, and statistical modeling. Topics include stellar burning, neutron capture processes, and their impact on cosmic abundance, bridging nuclear physics and astrophysics for precise nucleosynthesis predictions."), Seattle, WA, USA.
 
@@ -57,4 +57,6 @@
 2025-06-02 to 13: [2025 CFNS Summer School on the Physics of the Electron-Ion Collider](https://www.cfns.bnl.gov/summer-school-2025/ "The CFNS Summer School trains researchers in electron-ion collider physics, focusing on QCD in nuclear matter. Topics include parton distributions, gluon saturation, and spin physics. Lectures cover experimental techniques for the EIC and theoretical models for deep inelastic scattering, preparing students for future collider experiments."), Stony Brook, NY, USA.
 
 2025-06-04 to 06: [BRIDGCE-IReNA Annual Meeting (2025)](https://sites.google.com/york.ac.uk/bridgce-york-2025/ "This meeting focuses on nuclear physics, covering nuclear reactions, structure, and astrophysics. Topics include neutron-rich nuclei, nucleosynthesis, and computational nuclear models, with applications in stellar evolution, emphasizing collaborative experimental and theoretical research."), York, UK.
+
+2025-06-08 to 13: [Conference on S, I & R Element Nucleosynthesis (sirEN 2025)](https://indico.ict.inaf.it/event/2876/ "sirEN 2025 focuses on nucleosynthesis of sulfur, iron, and r-process elements, covering nuclear reactions and stellar evolution. Topics include neutron capture, supernova models, and computational astrophysics, emphasizing nuclear processes in cosmic element formation."), Giulianova, TE, Italy.
 

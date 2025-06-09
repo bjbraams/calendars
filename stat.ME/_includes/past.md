@@ -46,3 +46,5 @@
 
 2025-06-05 to 06: [Adaptive and Bayesian Designs in Clinical Trials (2025)](https://onlinesales.admin.cam.ac.uk/conferences-and-events/mrc-biostatistics-unit/adaptive-and-bayesian-designs-in-real-trials/adaptive-and-bayesian-designs-in-real-trials-05-06-june-2025 "This workshop explores adaptive and Bayesian designs in clinical trials, focusing on flexible trial methodologies and Bayesian inference. Topics include adaptive randomization, interim analyses, and applications in personalized medicine, emphasizing statistical and practical perspectives."), Cambridge, UK.
 
+2025-06-08 to 12: [Objective Bayes Methodology Conference (O'Bayes 2025)](https://obayes25.aueb.gr "O\'Bayes 2025 explores objective Bayesian methods, covering prior elicitation, model selection, and computational Bayes. Topics include high-dimensional inference, applications in biostatistics and economics, emphasizing objective approaches to Bayesian statistical analysis."), Athens, Greece.
+

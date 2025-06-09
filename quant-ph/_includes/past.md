@@ -98,3 +98,5 @@
 
 2025-06-03 to 2025-06-06: [International Conference on Quantum Technology for High-Energy Physics](https://indico.cern.ch/event/1344407/ "QT4HEP explores quantum technologies for high-energy physics, focusing on computational advancements. Topics include quantum algorithms, quantum sensors, and quantum computing for particle simulations. Discussions cover applications in LHC data analysis and detector optimization, advancing experimental capabilities."), CERN, Geneva, Switzerland.
 
+2025-06-08 to 13: [LMS Research School Quantum Machine Learning and Hamiltonian Simulation (2025)](https://www.icms.org.uk/workshops/2025/lms-research-school "This school explores quantum machine learning and Hamiltonian simulation, covering quantum neural networks and quantum algorithms. Topics include variational circuits, quantum data processing, and applications in chemistry and optimization, emphasizing theoretical and practical quantum computing."), Isle of Skye, UK.
+

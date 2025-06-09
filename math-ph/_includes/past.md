@@ -32,3 +32,5 @@
 
 2025-06-03 to 06: [QMP Intensive Period 2025 Workshop Recent Advances in Operator Theory and Its Applications](https://sites.google.com/view/qmp25-intensiveperiod/workshops/workshop-3-6-june "Explores operator theory advancements, focusing on functional analysis, spectral theory, and non-commutative geometry. Topics include applications in quantum mechanics, signal processing, and mathematical physics, emphasizing theoretical developments and computational methods."), Milan, Italy.
 
+2025-06-08 to 2025-06-13: [Singularities in Plovdiv](https://www.doubletreeplovdiv.com/singularities-2025 "The conference explores singularities in algebraic geometry, focusing on physical applications. Topics include singularity resolution, deformation theory, and mirror symmetry. Discussions cover connections to string theory and quantum field theory, emphasizing geometric structures."), Plovdiv, Bulgaria.
+

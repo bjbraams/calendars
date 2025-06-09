@@ -120,3 +120,5 @@
 
 2025-06-05 to 06: [Workshop Stochastic Analysis in Mathematics and Natural Sciences Theory and Applications (2025)](https://sites.google.com/view/samans2025/ "This workshop explores stochastic analysis, covering stochastic differential equations, random processes, and applications in natural sciences. Topics include stochastic modeling in physics, biology, and climate, emphasizing theoretical advancements and practical stochastic applications."), Heraklion, Crete, Greece.
 
+2025-06-08 to 13: [Oberwolfach Seminar Stochastic Partial Differential Equations in Critical Spaces (2025)](https://www.mfo.de/occasion/2524a/www_view "This seminar focuses on stochastic partial differential equations in critical spaces, covering regularity theory and well-posedness. Topics include stochastic Navier-Stokes equations, applications in fluid dynamics, emphasizing advanced mathematical techniques for stochastic systems."), Oberwolfach, Germany.
+

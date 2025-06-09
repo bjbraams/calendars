@@ -44,3 +44,7 @@
 
 2025-06-02 to 2025-06-27: [Numerical Simulations of Early Universe Sources of Gravitational Waves](https://www.nordita.org/events/early-universe-gravitational-waves-2025/ "The Nordita program explores numerical simulations of early universe gravitational wave sources. Topics include cosmic phase transitions, primordial black holes, and inflation. Discussions cover theoretical models and computational techniques for LISA and pulsar timing arrays."), Stockholm, Sweden.
 
+2025-06-08 to 13: [833rd WE-Heraeus-Seminar: New Windows on the Universe](https://www.we-heraeus-stiftung.de/veranstaltungen/seminare/2025/new-windows-on-the-universe/ "The seminar explores the interface of particle physics and gravitational waves, focusing on multi-messenger astronomy. Topics include gravitational wave sources, dark matter detection, and cosmological phase transitions. Discussions bridge LIGO observations with particle physics experiments, advancing interdisciplinary insights."), Bad Honnef, Germany.
+
+2025-06-08 to 20: [Blaumann’s Loop Quantum Gravity School](https://indico.cern.ch/event/1402302/ "The school trains researchers in loop quantum gravity, focusing on quantum spacetime. Topics include spin networks, quantum cosmology, and black hole entropy. Lectures emphasize theoretical advancements and their implications for unifying quantum mechanics and general relativity."), Les Houches, France.
+

@@ -372,7 +372,7 @@ EMS Topical Activity Group Mixtures Conference on Mixtures (2025):
 '33rd Bonaudi-Chiavassa International School on Particle Detectors: Giornate di Studio sui Rivelatori':
   dd: 2025-02-09 to 14
   name: 33rd Bonaudi-Chiavassa International School on Particle Detectors
-  link: https://indico.cern.ch/event/1411046/
+  link: https://gsr.fisica.unimi.it/
   loc: La Thuile, Italy
   arxiv: physics.ins-det, hep-ex
   excerpt: The school trains researchers in particle detector technologies, focusing on design and applications. Topics include silicon trackers, calorimeters, and gas detectors. Lectures cover advancements for LHC upgrades and future experiments, emphasizing high-resolution detection and data acquisition techniques.
@@ -672,7 +672,7 @@ Workshop on Algorithms, Complexity and Logic (Theorietag 2025):
 6th Allpix Squared User Workshop (APSQWS6):
   dd: 2025-03-03 to 05
   name: 6th Allpix Squared User Workshop
-  link: https://indico.cern.ch/event/1410992/
+  link: https://cern.ch/allpix-squared
   loc: CERN, Geneva, Switzerland
   arxiv: physics.ins-det, physics.comp-ph
   excerpt: The workshop focuses on the Allpix Squared simulation framework for pixel detectors. Topics include detector modeling, charge collection, and data analysis. Discussions cover applications in high-energy physics experiments, emphasizing simulation accuracy for LHC and future detector designs.
@@ -698,14 +698,14 @@ CECAM Flagship Workshop Density Functional Theory and Artificial Intelligence Le
 3rd International Workshop on Reinforcement Learning for Autonomous Accelerators:
   dd: 2025-03-03 to 07
   name: 3rd International Workshop on Reinforcement Learning for Autonomous Accelerators
-  link: https://indico.cern.ch/event/1410982/
+  link: https://rl4aa.github.io/RL4AA25/
   loc: Batavia, IL, USA
   arxiv: physics.acc-ph, cs.LG
   excerpt: The workshop explores reinforcement learning for autonomous accelerator control, focusing on beam optimization and stability. Topics include RL algorithms for particle accelerators, fault detection, and real-time control. Applications span synchrotrons and colliders, enhancing efficiency in high-energy physics experiments.
 A. N. Mitra Memorial Meeting and Lecture:
   dd: 2025-03-03 to 07
   name: A. N. Mitra Memorial Meeting and Lecture
-  link: https://indico.cern.ch/event/1410987/
+  link: https://asokenathmitra.github.io/
   loc: Delhi, India
   arxiv: hep-ph, nucl-th
   excerpt: The meeting honors A. N. Mitra, focusing on particle and nuclear physics. Topics include hadron physics, QCD, and nuclear interactions. Discussions cover theoretical advancements and experimental results from colliders, emphasizing contributions to strong interaction physics.
@@ -832,14 +832,14 @@ SupercomputingAsia (SCA 2025):
 15th Workshop of the Long-Lived Particle Community (LLP2025):
   dd: 2025-03-10 to 14
   name: 15th Workshop of the Long-Lived Particle Community
-  link: https://indico.cern.ch/event/1411010/
+  link: https://indico.cern.ch/event/1441321/
   loc: CERN, Geneva, Switzerland
   arxiv: hep-ph, hep-ex
   excerpt: LLP2025 explores long-lived particles in beyond-Standard-Model physics, focusing on their detection at colliders. Topics include heavy neutral leptons, supersymmetric particles, and exotic signatures. The workshop discusses experimental strategies at the LHC and future detectors, alongside theoretical models for dark matter and hidden sectors.
 5th Superconducting Magnet Test Facilities Workshop:
   dd: 2025-03-10 to 14
   name: 5th Superconducting Magnet Test Facilities Workshop
-  link: https://indico.cern.ch/event/1410981/
+  link: https://indico.psi.ch/event/16393/
   loc: Batavia, IL, USA
   arxiv: physics.app-ph, physics.acc-ph
   excerpt: The workshop focuses on superconducting magnet technologies for accelerators. Topics include high-field magnets, cryogenics, and testing methodologies. Discussions cover applications in LHC upgrades and future colliders, emphasizing performance optimization and scalability for high-energy physics experiments.
@@ -943,7 +943,7 @@ GGI school on asymptotic symmetries and flat holography, Florence, Italy:
 2nd Annual US Muon Collider Community Meeting (USMC2025):
   dd: 2025-03-17 to 21
   name: 2nd Annual US Muon Collider Community Meeting
-  link: https://indico.cern.ch/event/1402290/
+  link: https://www.muoncollider.us/event_items_upcoming/2025-08-07/
   loc: Batavia, IL, USA
   arxiv: physics.acc-ph, hep-ex
   excerpt: The meeting focuses on muon collider development, exploring accelerator technologies and physics potential. Topics include muon production, cooling, and high-luminosity collisions. Discussions cover precision Higgs measurements, new physics searches, and detector designs, advancing the feasibility of next-generation colliders.
@@ -961,10 +961,10 @@ APCTP Workshop on Gravitational Waves 2025, Taipei, Taiwan:
   loc: Taipei, Taiwan
   arxiv: gr-qc, astro-ph.HE
   excerpt: The workshop explores gravitational wave physics, focusing on detection and astrophysical implications. Topics include waveform modeling, black hole mergers, and neutron star dynamics. Discussions cover observational data from LIGO and theoretical models for gravitational wave sources.
-'Beyond Standard Model: From Theory to Experiment ( (BSM- 2025)':
+Beyond Standard Model From Theory to Experiment 2025:
   dd: 2025-03-17 to 21
   name: 'Beyond Standard Model: From Theory to Experiment'
-  link: https://indico.cern.ch/event/1402328/
+  link: https://indico.cern.ch/event/1507517/
   loc: CERN, Geneva, Switzerland
   arxiv: hep-ph, hep-ex
   excerpt: BSM-2025 explores beyond-Standard-Model physics, focusing on new particles and interactions. Topics include supersymmetry, dark matter, and extra dimensions. The conference discusses experimental searches at LHC and theoretical models, advancing understanding of fundamental physics.
@@ -1358,7 +1358,7 @@ Workshop on Randomness and Discrete Structures (WORDS 2025):
 4th Annual Meeting of the International Muon Collider Collaboration and 2nd MuCol Annual Meeting (IMCC 2025):
   dd: 2025-04-07 to 11
   name: 4th Annual Meeting of the International Muon Collider Collaboration and 2nd MuCol Annual Meeting
-  link: https://indico.cern.ch/event/1410995/
+  link: https://indico.cern.ch/event/1507517/
   loc: CERN, Geneva, Switzerland
   arxiv: physics.acc-ph, hep-ex
   excerpt: IMCC 2025 focuses on muon collider development, exploring accelerator technologies and physics potential. Topics include muon beam cooling, collider design, and detector systems. Discussions cover precision measurements and new physics searches, advancing next-generation collider technologies.
@@ -1426,9 +1426,9 @@ Joint International Workshop on Hadron Structure and Spectroscopy and the QCD St
   loc: Lisbon, Portugal
   arxiv: hep-ph, nucl-th
   excerpt: IWHSS-QCD-N'25 explores hadron structure and QCD, focusing on nucleon properties. Topics include form factors, parton distributions, and spectroscopy. Discussions cover experimental data from JLab and theoretical QCD models, advancing nuclear physics insights.
-? 'Intensive trimester at GSSI on "Particles, Fluids and Patterns: Analytical and Computational Challenges" Gran Sasso Science Institute, L''Aquila, Italy'
-: dd: 2025-04-07 to 2025-06-27
-  name: 'Intensive Trimester: Particles, Fluids and Patterns'
+GSSI Particles, Fluids and Patterns Analytical and Computational Challenges:
+  dd: 2025-04-07 to 2025-06-27
+  name: Intensive Trimester on Particles, Fluids and Patterns
   link: https://www.gssi.it/research/schools-and-workshops/item/25761-an-intensive-trimester-on-particles-fluids-and-patterns-at-gssi
   loc: L'Aquila, Italy
   arxiv: math.AP, physics.fld-dyn
@@ -2055,7 +2055,7 @@ stratifications-higgs-bundle-moduli-spaces:
   loc: Santiago de Compostela, Spain
   arxiv: math.AG, math-ph
   excerpt: The conference explores stratifications of Higgs bundle moduli spaces, focusing on algebraic geometry. Topics include Hitchin systems, spectral curves, and representation theory. Discussions cover applications in string theory and quantum field theory.
-Intensive Period "Quantum Mathematics @ Polimi" (QMP25) Politecnico di Milano:
+Intensive Period Quantum Mathematics @ Polimi (QMP25):
   dd: 2025-05-05 to 2025-06-13
   name: 'Intensive Period: Quantum Mathematics @ Polimi'
   link: https://sites.google.com/view/qmp25-intensive/courses
@@ -2656,8 +2656,8 @@ International Federation for Information Processing (IFIP) Networking 2025 Confe
   loc: Tokyo, Japan
   arxiv: hep-ph, hep-ex
   excerpt: FPCP 2025 explores flavor physics and CP violation, focusing on quark and lepton interactions. Topics include B-meson decays, neutrino mixing, and rare processes. The conference discusses experimental results from LHCb, Belle II, and neutrino experiments, alongside theoretical models for flavor dynamics and new physics.
-? '3rd General Meeting of CosmoVerse: Addressing observational tensions in cosmology with systematics and fundamental physics (CosmoVerse@Istanbul 2025)'
-: dd: 2025-05-26 to 30
+3rd General Meeting of CosmoVerse Addressing observational tensions in cosmology with systematics and fundamental physics:
+  dd: 2025-05-26 to 30
   name: '3rd General Meeting of CosmoVerse: Addressing Observational Tensions in Cosmology'
   link: https://indico.cern.ch/event/1411051/
   loc: Istanbul, Turkey
@@ -3423,8 +3423,8 @@ Algebra Across time (in honor of Bill Heinzer):
   loc: West Lafayette, IN, USA
   arxiv: math.AC, math.AG
   excerpt: The conference explores commutative algebra and algebraic geometry, honoring Bill Heinzer’s contributions. Topics include ring theory, singularity resolution, and Diophantine equations. Discussions cover applications in theoretical physics, emphasizing algebraic structures in quantum mechanics and string theory.
-? Arithmetic cycles, Modular forms, and L-functions - A celebration of the mathematics of Henri Darmon on the occasion of his 60th birthday
-: dd: 2025-06-09 to 13
+Arithmetic cycles, Modular forms, and L-functions celebration of the mathematics of Henri Darmon:
+  dd: 2025-06-09 to 13
   name: 'Arithmetic Cycles, Modular Forms, and L-Functions: A Celebration of Henri Darmon'
   link: https://www.eventcreate.com/e/darmonfest
   loc: Montreal, QC, Canada
@@ -3458,7 +3458,7 @@ CERN Neutrino Platform Pheno Week 2025:
   loc: CERN, Geneva, Switzerland
   arxiv: hep-ph, hep-ex
   excerpt: The workshop focuses on neutrino phenomenology, exploring oscillations, masses, and interactions. Topics include sterile neutrinos, CP violation, and non-standard interactions. Discussions cover experimental results from DUNE and Hyper-Kamiokande, alongside theoretical models for neutrino physics.
-CIME School "Symplectic Dynamics and Topology":
+CIME School on Symplectic Dynamics and Topology:
   dd: 2025-06-09 to 13
   name: 'CIME School: Symplectic Dynamics and Topology'
   link: https://www.cimec.unitn.it/2740/cime-schools-2025
@@ -3566,7 +3566,7 @@ High Precision X-ray Measurements 2025:
   loc: Frascati, Italy
   arxiv: physics.ins-det, astro-ph.IM
   excerpt: HPXM 2025 focuses on high-precision X-ray measurements, exploring astrophysical and laboratory applications. Topics include X-ray spectroscopy, detector calibration, and synchrotron techniques. Discussions cover advancements in X-ray telescopes and particle physics experiments.
-INDAM Workshop "Matter of Shapes" Cortona:
+INDAM Workshop on Matter of Shapes:
   dd: 2025-06-09 to 2025-06-13
   name: 'INdAM Workshop: Matter of Shapes'
   link: https://cvgmt.sns.it/event/961/
@@ -3717,7 +3717,7 @@ IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR 2025):
   more: Includes a Summer School
   arxiv: physics.optics,cond-mat.mtrl-sci
   excerpt: Investigates ultrafast dynamics and bandgap photonics, covering attosecond spectroscopy, nonlinear optics, and photonic materials. Topics include carrier dynamics, quantum coherence, and applications in optoelectronics, emphasizing experimental and theoretical advancements.
-4th Meeting of the "UK metric geometry and analysis" network Queen Mary University London:
+4th Meeting of the UK metric geometry and analysis network:
   dd: 2025-06-12 to 13
   name: 4th Meeting of the UK Metric Geometry and Analysis Network
   link: https://ukmetricgeometry.wordpress.com/meetings/
@@ -3959,8 +3959,8 @@ UKAEA Fusion Industry School York Course 2025:
   loc: Heslington, York, UK
   arxiv: physics.plasm-ph
   excerpt: This course focuses on fusion energy, covering plasma physics, magnetic confinement, and fusion reactor technologies. Topics include tokamak operations, plasma diagnostics, and materials for fusion, emphasizing practical training for industry applications in sustainable energy.
-? Perspectives in the Calculus of Variations - Un incontro in onore di Gianni Dal Maso Accademia Nazionale dei Lincei - Palazzo Corsini - Via della Lungara, 10 - Roma
-: dd: 2025-06-16 to 2025-06-17
+Perspectives in the Calculus of Variations Un incontro in onore di Gianni Dal Maso:
+  dd: 2025-06-16 to 2025-06-17
   name: 'Perspectives in the Calculus of Variations: In Honor of Gianni Dal Maso'
   link: https://cvgmt.sns.it/event/1019/
   loc: Rome, Italy
@@ -4001,6 +4001,13 @@ Quantum 2.0 Conference and Exhibition 2025:
   loc: San Francisco, CA, USA
   arxiv: quant-ph, physics.app-ph
   excerpt: Quantum 2.0 explores next-generation quantum technologies, with physics applications. Topics include quantum computing, sensing, and communication. Discussions cover advancements in quantum algorithms and hardware, emphasizing applications in particle physics and cryptography.
+37th International Workshop on High Energy Physics Diffraction of hadrons Experiment, Theory, Phenomenology:
+  dd: 2025-06-16 to 2025-06-20
+  name: 'XXXVII International Workshop on High Energy Physics: Diffraction of Hadrons'
+  link: https://indico.cern.ch/event/1402279/
+  loc: Lisbon, Portugal
+  arxiv: hep-ph, hep-ex
+  excerpt: HEPFT2025 explores hadronic diffraction in high-energy physics, focusing on experimental and theoretical aspects. Topics include diffractive scattering, Pomeron exchange, and QCD phenomenology. Discussions cover LHC data and theoretical models, advancing particle physics.
 Dynamics of multiple maps:
   dd: 2025-06-16 to 2025-06-20
   name: Dynamics of Multiple Maps
@@ -4925,8 +4932,8 @@ Workshop on Geometric Correspondences of Gauge Theories:
   loc: Lisbon, Portugal
   arxiv: hep-th, math-ph
   excerpt: The workshop investigates geometric correspondences in gauge theories, focusing on string theory. Topics include gauge/gravity duality, mirror symmetry, and geometric quantization. Discussions advance theoretical physics and mathematical frameworks, enhancing gauge theory insights.
-? 'Workshop on Ghost Particle Hunting: Neutrino Physics and its Applications to World Peace: With a Tribute to Professor John Learned'
-: dd: 2025-06-16 to 2025-06-20
+Workshop on Ghost Particle Hunting Neutrino Physics and its Applications to World Peace:
+  dd: 2025-06-16 to 2025-06-20
   name: 'Ghost Particle Hunting: Neutrino Physics and Applications'
   link: https://indico.cern.ch/event/1410990/
   loc: Lisbon, Portugal
@@ -4939,13 +4946,6 @@ Workshop on Quantum Entanglement at the Energy Frontier:
   loc: Lisbon, Portugal
   arxiv: hep-ph, quant-ph
   excerpt: The workshop explores quantum entanglement in high-energy physics, focusing on particle collisions. Topics include entanglement in QCD processes, top quark pairs, and quantum information. Discussions advance experimental and theoretical insights in particle physics.
-? 'XXXVII International Workshop on High Energy Physics: “Diffraction of hadrons: Experiment, Theory, Phenomenology” (HEPFT2025)'
-: dd: 2025-06-16 to 2025-06-20
-  name: 'XXXVII International Workshop on High Energy Physics: Diffraction of Hadrons'
-  link: https://indico.cern.ch/event/1402279/
-  loc: Lisbon, Portugal
-  arxiv: hep-ph, hep-ex
-  excerpt: HEPFT2025 explores hadronic diffraction in high-energy physics, focusing on experimental and theoretical aspects. Topics include diffractive scattering, Pomeron exchange, and QCD phenomenology. Discussions cover LHC data and theoretical models, advancing particle physics.
 'YuBi60: modular and diophantine problems':
   dd: 2025-06-16 to 2025-06-20
   name: 'YuBi60: Modular and Diophantine Problems'
@@ -5170,18 +5170,18 @@ rethinking-number-theory-6:
   loc: Mainz, Germany
   arxiv: math.AG, hep-th
   excerpt: The program explores arithmetic aspects of Calabi-Yau manifolds, focusing on algebraic geometry and physics. Topics include mirror symmetry, modular forms, and arithmetic invariants. Discussions cover applications in string theory and number theory, emphasizing geometric structures.
-'MITP Topical Workshop: Flavour for New Physics at Present and Future Colliders':
+MITP Topical Workshop on Flavour for New Physics at Present and Future Colliders:
   dd: 2025-06-16 to 2025-07-03
   name: Flavour for New Physics at Present and Future Colliders
   link: https://www.mitp.npcflavournewcolliders-2025/
   loc: Mainz, Germany
   arxiv: hep-ph, hep-ex
   excerpt: The workshop explores flavor physics for new physics searches, focusing on colliders. Topics include rare decays, violation decays, and flavor anomalies. CP violation, and flavor-changing processes. Discussions cover experimental results from LHCb and to theoretical models, advancing new physics insights.
-? 'MITP Topical Workshop: MathemAmplitudes: Co-homology and Combinatorics of GKZ systems, Euler-Mellin-Feynman Integrals, and Scattering Amplitudes'
+? MITP Workshop MathemAmplitudes on Co-homology and Combinatorics of GKZ systems, Euler-Mellin-Feynman Integrals, and Scattering Amplitudes
 : dd: 2025-06-16 to 2025-07-03
   name: 'MathemAmplitudes: Cohomology and Combinatorics of Scattering Integrals'
   link: https://www.mathamplitudes.mathemamplitudes-2025/
-  loc: MathMainz, Germany"
+  loc: MathMainz, Germany
   arxiv: math-ph, hep-th
   excerpt: The workshop explores mathematical structures in scattering amplitudes, focusing on QFT. Topics include GKZ systems, Euler-Mellin integrals, and amplitude combinatorics. Discussions cover applications in string theory and tQCD phenomenology, emphasizing mathematical rigor.
 'MITP scientific program: Neutrino-Nucleus Interactions in the Standard Model and Beyond':
@@ -5247,15 +5247,15 @@ Program on Fundamental Aspects of String Theory:
   loc: Hamburg, Germany
   arxiv: physics.ins-det, hep-ex
   excerpt: The workshop focuses on advancements in Ring Imaging Cherenkov (RICH) detectors, critical for particle identification in high-energy physics experiments. Topics include novel photodetector technologies, mirror designs, and gas systems. Applications in LHC experiments, neutrino detectors, and future colliders are discussed, emphasizing performance optimization and data analysis techniques.
-? 13th Bolyai–Gauss–Lobachevsky International Conference on Non-Euclidean Geometry in Modern Physics and Mathematics (BGL 2025)
-: dd: 2025-06-16 to 20
+13th Bolyai–Gauss–Lobachevsky International Conference on Non-Euclidean Geometry in Modern Physics and Mathematics:
+  dd: 2025-06-16 to 20
   name: 13th Bolyai–Gauss–Lobachevsky Conference on Non-Euclidean Geometry in Modern Physics and Mathematics
   link: https://bgl2025.uv.es/
   loc: Valencia, Spain
   arxiv: gr-qc, math.DG
   excerpt: This conference explores non-Euclidean geometry applications in physics and mathematics, focusing on general relativity, cosmology, and differential geometry. Topics include hyperbolic spaces, spacetime metrics, and geometric methods in quantum field theory. It bridges mathematical formalism with physical phenomena like gravitational lensing and cosmic expansion.
-? 13th Meeting on Nonlinear Evolution PDEs, Fluid Dynamics and Transport Equations Trieste, SISSA (Scuola Internazionale Superiore di Studi Avanzati)
-: dd: 2025-06-16 to 20
+13th Meeting on Nonlinear Evolution PDEs, Fluid Dynamics and Transport Equations Trieste:
+  dd: 2025-06-16 to 20
   name: 13th Meeting on Nonlinear Evolution PDEs, Fluid Dynamics and Transport Equations
   link: https://cvgmt.sns.it/event/962/
   loc: Trieste, Italy
@@ -5369,7 +5369,7 @@ Black Holes & Cosmology 2025, Reykjavik, Iceland:
   loc: Stockholm, Sweden
   arxiv: astro-ph.HE, astro-ph.IM
   excerpt: The workshop bridges multi-messenger astronomy and SETI, exploring signals from cosmic sources. Topics include gravitational waves, neutrinos, and radio signals. Discussions cover detection techniques and implications for astrophysics and extraterrestrial intelligence, emphasizing interdisciplinary approaches.
-? CIME school "Existence and regularity for non uniformy elliptic and parabolic problems under p,q and general growth condition" Montecatini Terme
+? CIME school Existence and regularity for non uniformy elliptic and parabolic problems under p,q and general growth condition
 : dd: 2025-06-16 to 20
   name: 'CIME School: Existence and Regularity for Non-Uniformly Elliptic and Parabolic Problems'
   link: https://cvgmt.sns.it/event/965/
@@ -5828,7 +5828,7 @@ Higher Structures, Moduli Spaces, and Integrability:
   loc: Lisbon, Portugal
   arxiv: math-ph, hep-th
   excerpt: The workshop explores higher structures, moduli spaces, and integrability, focusing on mathematical physics. Topics include derived categories, Hitchin systems, and integrable models. Discussions cover applications in string theory and quantum field theory, emphasizing geometric structures.
-INdAM Workshop "Differential Equations and Nonlinear Models" INdAM, Rome:
+INdAM Workshop Differential Equations and Nonlinear Models:
   dd: 2025-06-23 to 2025-06-27
   name: 'INdAM Workshop: Differential Equations and Nonlinear Models'
   link: https://cvgmt.sns.it/event/1000/
@@ -6031,7 +6031,7 @@ Summer school on formulas of Siegel and Weil.:
   loc: Bielefeld, Germany
   arxiv: math.NT, math.RT
   excerpt: The school explores Siegel-Weil formulas, focusing on number theory and representation theory. Topics include automorphic forms, theta functions, and L-functions. Discussions cover applications in quantum field theory and string theory.
-Workshop "Optimal transport and metric geometry across structures" Bernoulli Center, EPFL, Lausanne:
+Workshop Optimal transport and metric geometry across structures:
   dd: 2025-06-23 to 2025-06-27
   name: 'Workshop: Optimal Transport and Metric Geometry Across Structures'
   link: https://cvgmt.sns.it/event/1022/
@@ -6225,8 +6225,8 @@ SPIE Optical Metrology 2025:
   loc: CERN, Geneva, Switzerland
   arxiv: hep-ph, hep-ex
   excerpt: SEARCH25 focuses on searches for new physics at high-energy colliders, emphasizing beyond-Standard-Model phenomena. Topics include dark matter, extra dimensions, and heavy resonances. The conference discusses experimental strategies at the LHC and theoretical models to interpret null results and potential discoveries in particle physics.
-? 21st School on Interactions between Dynamical Systems and Partial Differential Equations Centre de Recerca Matemàtica (CRM) - Barcelona
-: dd: 2025-06-23 to 27
+21st School on Interactions between Dynamical Systems and Partial Differential Equations:
+  dd: 2025-06-23 to 27
   name: 21st School on Interactions between Dynamical Systems and Partial Differential Equations
   link: https://www.crm.cat/jisd2025/
   loc: Barcelona, Spain
@@ -6392,7 +6392,7 @@ CECAM Flagship Workshop on the Atomic Simulation Environment Ecosystem (2025):
   loc: Lausanne, Switzerland
   arxiv: cond-mat.mtrl-sci,physics.chem-ph
   excerpt: This workshop focuses on the Atomic Simulation Environment, covering computational tools for materials simulations, molecular dynamics, and quantum chemistry. Topics include workflow automation, materials discovery, and applications in nanotechnology, emphasizing open-source simulation ecosystems.
-CIME Summer School "Topology, dynamics, and logic in interaction":
+CIME Summer School Topology, dynamics, and logic in interaction:
   dd: 2025-06-23 to 27
   name: 'CIME Summer School: Topology, Dynamics, and Logic in Interaction'
   link: https://www.cimec.unitn.it/2740/cime-schools-2025
@@ -6752,8 +6752,8 @@ Workshop on Stochastic Numerics Milstein's Method 50 Years On (2025):
   loc: Nottingham, UK
   arxiv: math.NA,math.PR
   excerpt: This workshop celebrates Milstein’s method, focusing on stochastic numerical methods for differential equations. Topics include stochastic integration, numerical stability, and applications in finance and physics, emphasizing advancements in stochastic computational techniques.
-? 13th International Conference on Mechanical Engineering Design of Synchrotron Radiation Equipment and Instrumentation (MEDSI2025)
-: dd: 2025-06-30 to 07-04
+13th International Conference on Mechanical Engineering Design of Synchrotron Radiation Equipment and Instrumentation:
+  dd: 2025-06-30 to 07-04
   name: 13th International Conference on Mechanical Engineering Design of Synchrotron Radiation Equipment and Instrumentation
   link: https://www.medsi2025.org/
   loc: Grenoble, France
@@ -7116,8 +7116,8 @@ Amplitudes 2025 Summer School:
   loc: Edinburgh, United Kingdom
   arxiv: hep-th, hep-ph
   excerpt: The summer school trains researchers in scattering amplitudes, focusing on quantum field theory. Topics include on-shell methods, integrability, and amplitude calculations for QCD and gravity. Lectures cover applications in LHC experiments and theoretical advancements in particle physics.
-? 'Calculus of Variations - Old Problems and New Directions: Celebrating Jan Kristensen’s academic life on the occasion of his 60th birthday ICMS, Bayes Centre, Edinburgh'
-: dd: 2025-07-07 to 11
+Calculus of Variations Old Problems and New Directions Celebrating Jan Kristensen:
+  dd: 2025-07-07 to 11
   name: 'Calculus of Variations: Old Problems and New Directions'
   link: https://www.icms.org.uk/CalculusOfVariations
   loc: Edinburgh, United Kingdom
@@ -7204,13 +7204,6 @@ IEEE International Conference on Quantum Software (QSW 2025):
   loc: Helsinki, Finland
   arxiv: quant-ph,cs.SE
   excerpt: QSW 2025 focuses on quantum software, covering quantum programming languages, compilers, and verification tools. Topics include quantum circuit optimization, hybrid quantum-classical systems, and applications in quantum simulation, emphasizing software development for quantum computing advancements.
-? '2025 CTEQ Summer School & 2025 MCgen CyberTraining Program: 2025 CTEQ Summer School on QCD and Electroweak Phenomenology, & 2025 MCgen CyberTraining Program (CTEQ-MCgen-2025)'
-: dd: 2025-07-07 to 18
-  name: 2025 CTEQ Summer School on QCD and Electroweak Phenomenology & MCgen CyberTraining Program
-  link: https://www.cteq.org/
-  loc: Pittsburgh, PA, USA
-  arxiv: hep-ph, physics.comp-ph
-  excerpt: The CTEQ Summer School trains researchers in QCD and electroweak phenomenology, focusing on parton distributions and Monte Carlo simulations. Topics include perturbative QCD, electroweak corrections, and event generator tools. The MCgen program emphasizes computational techniques for LHC data analysis, preparing students for high-energy physics research.
 4th MaNiTou Summer School on Gravitational Waves, Marseille, France:
   dd: 2025-07-07 to 18
   name: 4th MaNiTou Summer School on Gravitational Waves
@@ -7232,6 +7225,13 @@ IEEE International Conference on Quantum Software (QSW 2025):
   loc: Hamburg, Germany
   arxiv: physics.ins-det, cs.LG
   excerpt: INFIERI 2025 trains researchers in intelligent signal processing for physics and industry. Topics include machine learning for detector signals, real-time data analysis, and sensor technologies. Lectures cover applications in high-energy physics, astrophysics, and medical imaging, emphasizing advanced signal processing.
+CTEQ Summer School and MCgen CyberTraining Program 2025:
+  dd: 2025-07-07 to 18
+  name: 2025 CTEQ Summer School on QCD and Electroweak Phenomenology & MCgen CyberTraining Program
+  link: https://www.cteq.org/
+  loc: Pittsburgh, PA, USA
+  arxiv: hep-ph, physics.comp-ph
+  excerpt: The CTEQ Summer School trains researchers in QCD and electroweak phenomenology, focusing on parton distributions and Monte Carlo simulations. Topics include perturbative QCD, electroweak corrections, and event generator tools. The MCgen program emphasizes computational techniques for LHC data analysis, preparing students for high-energy physics research.
 Cosmology from Home 2025:
   dd: 2025-07-07 to 18
   name: Cosmology from Home 2025
@@ -7493,6 +7493,13 @@ Workshop on Logic, Language, Information and Computation (WoLLIC 2025):
   loc: Porto, Portugal
   arxiv: cs.LO,cs.CL
   excerpt: WoLLIC 2025 focuses on logic, language, and computation, covering formal semantics, proof theory, and computational linguistics. Topics include automated reasoning, natural language processing, and applications in AI, emphasizing theoretical foundations of logical and linguistic computation.
+17th International Workshop on Boosted Object Phenomenology, Reconstruction, Measurements, and Searches at Colliders:
+  dd: 2025-07-14 to 18
+  name: 17th International Workshop on Boosted Object Phenomenology, Reconstruction, Measurements, and Searches at Colliders
+  link: https://boost2025.desy.de/
+  loc: Hamburg, Germany
+  arxiv: hep-ph, hep-ex
+  excerpt: BOOST2025 explores boosted object phenomenology at colliders, focusing on high-energy jets and particles. Topics include jet substructure, top quark tagging, and new physics searches. Discussions cover experimental results from LHC and theoretical advancements in QCD.
 22nd International Conference on Quantum Physics and Logic (QPL 2025):
   dd: 2025-07-14 to 18
   link: https://qpl2025.github.io
@@ -7560,13 +7567,6 @@ BMVA Computer Vision Summer School 2025:
   loc: London, United Kingdom
   arxiv: cs.CV, physics.data-an
   excerpt: The summer school trains researchers in computer vision, with applications in physics. Topics include image processing, object detection, and deep learning. Lectures cover techniques for analyzing detector data in high-energy physics and astrophysical imaging, emphasizing AI-driven solutions.
-? BOOST 2025 -- 17th International Workshop on Boosted Object Phenomenology, Reconstruction, Measurements, and Searches at Colliders (BOOST2025)
-: dd: 2025-07-14 to 18
-  name: 17th International Workshop on Boosted Object Phenomenology, Reconstruction, Measurements, and Searches at Colliders
-  link: https://boost2025.desy.de/
-  loc: Hamburg, Germany
-  arxiv: hep-ph, hep-ex
-  excerpt: BOOST2025 explores boosted object phenomenology at colliders, focusing on high-energy jets and particles. Topics include jet substructure, top quark tagging, and new physics searches. Discussions cover experimental results from LHC and theoretical advancements in QCD.
 Bumblekite Machine Learning Summer School in Health, care and biosciences 2025:
   dd: 2025-07-14 to 18
   name: Bumblekite Machine Learning Summer School in Health, Care and Biosciences 2025
@@ -7704,7 +7704,7 @@ School on Automated Machine Learning (AutoML) 2025:
   loc: Freiburg, Germany
   arxiv: cs.LG, stat.ML
   excerpt: AutoML 2025 trains researchers in automated machine learning, with physics applications. Topics include hyperparameter optimization, neural architecture search, and meta-learning. Lectures cover applications in particle physics and cosmology, emphasizing automated AI techniques.
-Summer School "Curvature & Applications" Lake Chiemsee, Germany:
+Summer School Curvature & Applications:
   dd: 2025-07-14 to 2025-07-18
   name: Summer School on Curvature and Applications
   link: https://cvgmt.sns.it/event/984/
@@ -8896,8 +8896,8 @@ Workshop on Formal Methods in Quantum Computing (FMQC 2025):
   more: Colocated with CONFEST 2025
   arxiv: quant-ph,cs.LO
   excerpt: Focuses on formal methods for quantum computing. Topics include quantum program verification, logic-based approaches, and applications in quantum algorithm design and validation.
-? '31st Saalburg Summer School on Foundations and New Methods in Theoretical Physics: W.E. Heraeus Summer School Saalburg (Saalburg 2025)'
-: dd: 2025-08-25 to 09-05
+31st Saalburg Summer School on Foundations and New Methods in Theoretical Physics:
+  dd: 2025-08-25 to 09-05
   name: 31st Saalburg Summer School on Foundations and New Methods in Theoretical Physics
   link: https://www.saalburg.org/
   loc: Wolfersdorf, Germany
@@ -8910,6 +8910,13 @@ Workshop on Formal Methods in Quantum Computing (FMQC 2025):
   loc: Bielefeld, Germany
   arxiv: math-ph,quant-ph
   excerpt: Examines randomness in physics and mathematics. Topics include thermalization in quantum systems, random matrix theory, and applications in statistical mechanics and quantum physics.
+8th international conference Models in Quantum Field Theory:
+  dd: 2025-08-25 to 2025-08-29
+  name: VIII International Conference on Models in Quantum Field Theory
+  link: https://mqft2025.org/
+  loc: St. Petersburg, Russia
+  arxiv: hep-th, math-ph
+  excerpt: MQFT–2025, honoring Alexander Vasiliev, explores quantum field theory models. Topics include conformal field theory, integrable systems, and topological QFTs. Discussions cover applications in string theory and condensed matter physics, advancing theoretical frameworks.
 TeV Particle Astrophysics 2025 (TeVPA 2025):
   dd: 2025-08-25 to 2025-08-29
   name: TeV Particle Astrophysics 2025
@@ -8917,13 +8924,6 @@ TeV Particle Astrophysics 2025 (TeVPA 2025):
   loc: Stockholm, Sweden
   arxiv: astro-ph.HE, hep-ph
   excerpt: TeVPA 2025 explores high-energy astrophysics, focusing on particle interactions. Topics include cosmic rays, gamma rays, and dark matter searches. Discussions cover experimental results from Fermi-LAT and theoretical models, advancing astrophysical insights.
-? 'VIII international conference Models in Quantum Field Theory: dedicated to professor Alexander Nikolaevich Vasiliev (MQFT–2025)'
-: dd: 2025-08-25 to 2025-08-29
-  name: VIII International Conference on Models in Quantum Field Theory
-  link: https://mqft2025.org/
-  loc: St. Petersburg, Russia
-  arxiv: hep-th, math-ph
-  excerpt: MQFT–2025, honoring Alexander Vasiliev, explores quantum field theory models. Topics include conformal field theory, integrable systems, and topological QFTs. Discussions cover applications in string theory and condensed matter physics, advancing theoretical frameworks.
 19th International Symposium on Spatial and Temporal Data (SSTD 2025):
   dd: 2025-08-25 to 27
   link: https://sstd2025.github.io/
@@ -10511,8 +10511,8 @@ Bayesian Biostatistics Conference Bayes 2025:
   loc: Xiamen, China
   arxiv: physics.optics,physics.chem-ph
   excerpt: UltrafastX 2025 focuses on ultrafast science, covering femtosecond spectroscopy, attosecond physics, and laser-matter interactions. Topics include applications in materials science, chemistry, and quantum technologies, emphasizing experimental and computational methods for studying ultrafast dynamical processes.
-? 2025 IEEE Nuclear Science Symposium, Medical Imaging Conference, and Room-Temperature Semiconductor Detectors Symposium (2025 IEEE NSS MIC RTSD)
-: dd: 2025-10-25 to 11-01
+IEEE Nuclear Science Symposium, Medical Imaging Conference, and Room-Temperature Semiconductor Detectors Symposium:
+  dd: 2025-10-25 to 11-01
   name: 2025 IEEE Nuclear Science Symposium, Medical Imaging Conference, and Room-Temperature Semiconductor Detectors Symposium
   link: https://nssmic.ieee.org/
   loc: Yokohama, Japan
@@ -10537,8 +10537,8 @@ INFORMS Annual Meeting 2025:
   loc: Austin, TX, USA
   arxiv: cs.AR, physics.comp-ph
   excerpt: ICCAD 2025 focuses on computer-aided design for integrated circuits, with applications in scientific computing. Topics include hardware design for accelerators, quantum computing architectures, and simulation tools. The conference discusses advancements in EDA tools, emphasizing optimization for high-performance computing in physics and engineering.
-? '16th INFN International School on Efficient Scientific Computing: Architectures, tools and methodologies for the development of large-scale scientific computing applications () (ESC25)'
-: dd: 2025-10-26 to 31
+16th INFN International School on Efficient Scientific Computing Architectures, tools and methodologies:
+  dd: 2025-10-26 to 31
   name: 16th INFN International School on Efficient Scientific Computing
   link: https://agenda.infn.it/event/41595/
   loc: Bertinoro, Italy
@@ -11569,8 +11569,8 @@ Foundations of Computational Mathematics (FoCM 2026):
   more: Preliminary link, announcement only
   arxiv: physics.chem-ph,physics.optics
   excerpt: Explores photochemistry advancements, covering photochemical reactions, excited-state dynamics, and photophysical processes. Topics include photocatalysis, solar energy conversion, and applications in materials and biological systems, emphasizing experimental and computational studies.
-? BOOST 2026 - 18th International Workshop on Boosted Object Phenomenology, Reconstruction, Measurements, and Searches at Colliders (BOOST2026)
-: dd: 2026-07-13 to 17
+18th International Workshop on Boosted Object Phenomenology, Reconstruction, Measurements, and Searches at Colliders:
+  dd: 2026-07-13 to 17
   name: 18th International Workshop on Boosted Object Phenomenology, Reconstruction, Measurements, and Searches at Colliders
   link: https://boost2026.desy.de/
   loc: Florence, Italy
@@ -11869,3 +11869,4 @@ Frontiers in Quantum Mechanics (FQMT 2026):
   loc: Prague, Czech Republic
   arxiv: quant-ph,cond-mat.mes-hall
   excerpt: FQMT 2026 explores quantum and mesoscopic systems, covering quantum computing, non-equilibrium dynamics, and thermodynamics. Topics include applications in nanotechnology and quantum computing, emphasizing theoretical advancements.
+

@@ -52,3 +52,5 @@
 
 2025-06-04 to 06: [2nd Conference Math 2 Product, Emerging Technologies in Computational Science for Industry, Sustainability and Innovation (M2P 2025)](https://www.m2p2025.com/M2P2025/ "M2P 2025 focuses on computational science for industry and sustainability, covering numerical methods, data-driven modeling, and optimization. Topics include computational mechanics, digital twins, and applications in energy and manufacturing, emphasizing innovative computational solutions."), Valencia, Spain.
 
+2025-06-08 to 13: [22nd Householder Symposium (2025)](https://householder-symposium.github.io "This symposium focuses on numerical linear algebra, covering matrix computations, eigenvalue problems, and iterative solvers. Topics include Krylov subspace methods, low-rank approximations, and applications in scientific computing, emphasizing computational efficiency and accuracy."), Ithaca, NY, USA.
+

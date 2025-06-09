@@ -34,3 +34,5 @@
 
 2025-06-02 to 13: [Cargese 2025 International Summer School](https://indico.cern.ch/event/1402275/ "The summer school focuses on theoretical particle physics and cosmology, covering advanced topics. Topics include string theory, quantum field theory, and dark matter. Lectures emphasize theoretical frameworks and their applications to LHC experiments and cosmological observations."), Cargese, France.
 
+2025-06-08 to 20: [Blaumann’s Loop Quantum Gravity School](https://indico.cern.ch/event/1402302/ "The school trains researchers in loop quantum gravity, focusing on quantum spacetime. Topics include spin networks, quantum cosmology, and black hole entropy. Lectures emphasize theoretical advancements and their implications for unifying quantum mechanics and general relativity."), Les Houches, France.
+

@@ -56,3 +56,5 @@
 
 2025-06-07 to 08: [Identifying and Bridging Gaps in Laboratory Astrophysics (2025)](https://labastro-workshop.github.io/ "This workshop focuses on laboratory astrophysics, covering molecular spectroscopy, reaction kinetics, and plasma interactions. Topics include interstellar chemistry, stellar atmospheres, and experimental simulations, emphasizing bridging laboratory data with astrophysical models for cosmic phenomena."), Anchorage, AK, USA.
 
+2025-06-08 to 13: [13th International Conference on Chemical Kinetics (ICCK 2025)](https://icck2025.lbl.gov "ICCK 2025 focuses on chemical kinetics, covering reaction mechanisms, computational kinetics, and experimental techniques. Topics include combustion, atmospheric chemistry, and catalysis, with applications in energy and environmental science, emphasizing kinetic modeling advancements."), Lake Tahoe, NV, USA.
+

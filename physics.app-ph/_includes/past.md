@@ -4,7 +4,7 @@
 
 2025-03-03 to 07: [2025 IEEE Electrical Safety Workshop](https://esw.nfpa.org/ "The workshop focuses on electrical safety in scientific and industrial settings, with applications to high-energy physics facilities. Topics include arc flash mitigation, grounding systems, and safety protocols for high-voltage equipment. It discusses standards and technologies to ensure safe operation in research environments like accelerators."), Louisville, KY, USA.
 
-2025-03-10 to 14: [5th Superconducting Magnet Test Facilities Workshop](https://indico.cern.ch/event/1410981/ "The workshop focuses on superconducting magnet technologies for accelerators. Topics include high-field magnets, cryogenics, and testing methodologies. Discussions cover applications in LHC upgrades and future colliders, emphasizing performance optimization and scalability for high-energy physics experiments."), Batavia, IL, USA.
+2025-03-10 to 14: [5th Superconducting Magnet Test Facilities Workshop](https://indico.psi.ch/event/16393/ "The workshop focuses on superconducting magnet technologies for accelerators. Topics include high-field magnets, cryogenics, and testing methodologies. Discussions cover applications in LHC upgrades and future colliders, emphasizing performance optimization and scalability for high-energy physics experiments."), Batavia, IL, USA.
 
 2025-03-25 to 28: [EuroMech Colloquium 659 on Metamaterials in Fluid Flows and Beyond (2025)](http://659.euromech.org/ "Explores the role of metamaterials in fluid mechanics and related fields. Topics include wave manipulation, fluid-structure interactions, and computational modeling of metamaterials in aerodynamics and acoustics."), Groningen, Netherlands.
 
@@ -27,4 +27,6 @@
 2025-06-02 to 04: [4th European Conference on Molecular Spintronics (ECMolS 2025)](https://tcd.ie/physics/conferences/ecmols-2025/ "ECMolS 2025 focuses on molecular spintronics, covering spin transport in organic molecules, molecular magnets, and hybrid interfaces. Topics include spin-polarized currents, quantum coherence, and applications in spintronic devices, emphasizing molecular-scale spin manipulation and design."), Dublin, Ireland.
 
 2025-06-02 to 05: [IUTAM Symposium on Nonlinear Dynamics of Systems and Structures for Green Energy Conversion (2025)](https://iutam.org/events/iutam-symposium-on-nonlinear-dynamics-of-systems-and-structures-for-green-energy-conversion "Focuses on nonlinear dynamics in green energy systems. Topics include vibrational energy harvesting, nonlinear structural dynamics, and computational modeling for renewable energy applications."), Senigallia, Italy.
+
+2025-06-08 to 12: [2025 Symposium on VLSI Technology and Circuits](https://www.vlsisymposium.org/ "The symposium focuses on VLSI technology and circuits, with applications in scientific computing. Topics include low-power circuits, memory technologies, and hardware for machine learning. It discusses advancements in chip design for high-performance computing, relevant to physics simulations and data processing in experiments."), Kyoto, Japan.
 

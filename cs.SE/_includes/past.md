@@ -8,3 +8,5 @@
 
 2025-05-03 to 08: [International Joint Conferences on Theory and Practice of Software (ETAPS 2025)](https://etaps.org/2025/ "ETAPS 2025 explores software science and engineering, covering semantics, verification, and programming languages. Topics include formal methods, model checking, and software synthesis, with applications in security, concurrency, and AI, emphasizing theoretical and practical software advancements."), Hamilton, ON, Canada. Incorporating ESOP, FASE, FoSSaCS, TACAS.
 
+2025-06-08 to 14: [18th Thematic CERN School of Computing on Scientific Software for Heterogeneous Architectures](https://csc.web.cern.ch/ "The school trains researchers in scientific software development for heterogeneous architectures. Topics include GPU programming, parallel computing, and software optimization for physics simulations. It emphasizes tools for high-energy physics, such as CERN’s experiments, focusing on performance portability and scalability in data-intensive applications."), Split, Croatia.
+

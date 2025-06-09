@@ -1,5 +1,3 @@
-2025-06-08 to 13: [Conference on S, I & R Element Nucleosynthesis (sirEN 2025)](https://indico.ict.inaf.it/event/2876/ "sirEN 2025 focuses on nucleosynthesis of sulfur, iron, and r-process elements, covering nuclear reactions and stellar evolution. Topics include neutron capture, supernova models, and computational astrophysics, emphasizing nuclear processes in cosmic element formation."), Giulianova, TE, Italy.
-
 2025-06-09 to 13: [15th Conference on the Intersections of Particle and Nuclear Physics (CIPANP 2025)](https://agenda.hep.wisc.edu/event/2257/ "Examines intersections of particle and nuclear physics. Topics include quark-gluon interactions, nuclear structure, and computational methods bridging particle physics and nuclear phenomena."), Madison, WI, USA.
 
 2025-06-09 to 13: [4th (Korea) International Fusion and Plasma Conference (iFPC 2025)](https://i-fpc.org/2025/ "Focuses on fusion and plasma science, covering plasma confinement, fusion energy, and plasma diagnostics. Topics include tokamak physics, inertial confinement, and computational modeling, emphasizing advancements in fusion technology."), Daejeon, Korea.

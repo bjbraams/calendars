@@ -50,3 +50,9 @@
 
 2025-06-05 to 06: [CHIMERAS (Collisionless HIgh-beta Magnetized Experiment Researching Astrophysical Systems) Workshop 2025](https://home.physics.ucla.edu/~sethd/chimeras25wvu/ "CHIMERAS 2025 focuses on collisionless high-beta plasmas, covering magnetic reconnection, turbulence, and astrophysical plasma dynamics. Topics include experimental diagnostics, computational modeling, and applications in solar and astrophysical systems, emphasizing collisionless plasma phenomena."), Morgantown, WV, USA.
 
+2025-06-08 to 13: [833rd WE-Heraeus-Seminar: New Windows on the Universe](https://www.we-heraeus-stiftung.de/veranstaltungen/seminare/2025/new-windows-on-the-universe/ "The seminar explores the interface of particle physics and gravitational waves, focusing on multi-messenger astronomy. Topics include gravitational wave sources, dark matter detection, and cosmological phase transitions. Discussions bridge LIGO observations with particle physics experiments, advancing interdisciplinary insights."), Bad Honnef, Germany.
+
+2025-06-08 to 13: [Conference on S, I & R Element Nucleosynthesis (sirEN 2025)](https://indico.ict.inaf.it/event/2876/ "sirEN 2025 focuses on nucleosynthesis of sulfur, iron, and r-process elements, covering nuclear reactions and stellar evolution. Topics include neutron capture, supernova models, and computational astrophysics, emphasizing nuclear processes in cosmic element formation."), Giulianova, TE, Italy.
+
+2025-06-08 to 21: [2025 European School of High-Energy Physics](https://eshep.cern.ch/ "ESHEP 2025 trains young researchers in high-energy physics, covering collider physics, astroparticle physics, and the Standard Model. Topics include Higgs boson studies, dark matter detection, and neutrino physics. Lectures and hands-on sessions emphasize experimental techniques at CERN and theoretical models for new physics."), Bansko, Bulgaria.
+

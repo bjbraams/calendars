@@ -1,5 +1,3 @@
-2025-06-08 to 12: [2025 Symposium on VLSI Technology and Circuits](https://www.vlsisymposium.org/ "The symposium focuses on VLSI technology and circuits, with applications in scientific computing. Topics include low-power circuits, memory technologies, and hardware for machine learning. It discusses advancements in chip design for high-performance computing, relevant to physics simulations and data processing in experiments."), Kyoto, Japan.
-
 2025-06-10 to 13: [Waves and Imaging in Complex Media (Wicom 2025)](https://wicom.sciencesconf.org/ "Explores wave propagation and imaging in complex media. Topics include inverse scattering, wave-based imaging, and applications in geophysics, medical imaging, and material science."), Paris, France.
 
 2025-06-16 to 2025-06-19: [Quantum 2.0 Conference and Exhibition 2025](https://www.optica.org/en-us/events/quantum_2_0/ "Quantum 2.0 explores next-generation quantum technologies, with physics applications. Topics include quantum computing, sensing, and communication. Discussions cover advancements in quantum algorithms and hardware, emphasizing applications in particle physics and cryptography."), San Francisco, CA, USA.

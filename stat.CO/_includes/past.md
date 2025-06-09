@@ -22,3 +22,5 @@
 
 2025-06-04 to 07: [13th Workshop on Uncertainty Processing (WUPES 2025)](https://utia.cas.cz/news/3818 "WUPES 2025 explores uncertainty processing, covering Bayesian networks, fuzzy systems, and probabilistic reasoning. Topics include uncertainty quantification, decision-making under uncertainty, and applications in AI and engineering, emphasizing computational methods for uncertain environments."), Třešť, Czech Republic.
 
+2025-06-08 to 12: [Objective Bayes Methodology Conference (O'Bayes 2025)](https://obayes25.aueb.gr "O\'Bayes 2025 explores objective Bayesian methods, covering prior elicitation, model selection, and computational Bayes. Topics include high-dimensional inference, applications in biostatistics and economics, emphasizing objective approaches to Bayesian statistical analysis."), Athens, Greece.
+

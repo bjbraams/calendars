@@ -6,7 +6,7 @@
 
 2025-04-07 to 11: [Conference on Kinetic Equations and Turbulence in Honor of Claude Bardos's 85th Birthday](https://bardos-85.sciencesconf.org/?lang=en "Focuses on kinetic equations and turbulence modeling. Topics include Boltzmann equations, computational fluid dynamics, and turbulence simulation, with applications in physics and engineering."), Gif-sur-Yvette, France.
 
-2025-04-07 to 2025-06-27: [Intensive Trimester: Particles, Fluids and Patterns](https://www.gssi.it/research/schools-and-workshops/item/25761-an-intensive-trimester-on-particles-fluids-and-patterns-at-gssi "The trimester explores particles, fluids, and patterns, focusing on analytical and computational methods. Topics include kinetic theory, fluid dynamics, and pattern formation. Discussions cover applications in plasma physics and condensed matter, emphasizing modeling challenges."), L'Aquila, Italy.
+2025-04-07 to 2025-06-27: [Intensive Trimester on Particles, Fluids and Patterns](https://www.gssi.it/research/schools-and-workshops/item/25761-an-intensive-trimester-on-particles-fluids-and-patterns-at-gssi "The trimester explores particles, fluids, and patterns, focusing on analytical and computational methods. Topics include kinetic theory, fluid dynamics, and pattern formation. Discussions cover applications in plasma physics and condensed matter, emphasizing modeling challenges."), L'Aquila, Italy.
 
 2025-04-16 to 17: [Workshop Everything You Always Wanted to Know About Discretization, Approximation, and Numerical Analysis for the JKO Scheme (2025)](https://indico.math.cnrs.fr/event/13361/ "Focuses on numerical analysis for the JKO scheme, emphasizing discretization and approximation techniques. Topics include optimal transport, gradient flows, and applications in mathematical modeling and physics."), Villeurbanne, France.
 
@@ -19,6 +19,8 @@
 2025-06-02 to 2025-06-06: [Regularity Aspects of Elliptic and Parabolic PDEs](https://sites.google.com/view/regularity-aspects-pde/home "The conference explores regularity in elliptic and parabolic PDEs, with physical applications. Topics include Schauder estimates, Hölder continuity, and viscosity solutions. Discussions cover modeling in fluid dynamics and quantum mechanics, emphasizing analytical techniques."), Thessaloniki, Greece.
 
 2025-06-03 to 05: [Conference on Probability and SPDEs at OSU (2025)](https://u.osu.edu/spdeworkshop/ "This conference focuses on probability and stochastic partial differential equations, covering regularity theory, stochastic analysis, and numerical methods. Topics include stochastic heat equations, applications in fluid dynamics, emphasizing mathematical rigor in stochastic systems."), Columbus, OH, USA.
+
+2025-06-08 to 13: [Oberwolfach Seminar Stochastic Partial Differential Equations in Critical Spaces (2025)](https://www.mfo.de/occasion/2524a/www_view "This seminar focuses on stochastic partial differential equations in critical spaces, covering regularity theory and well-posedness. Topics include stochastic Navier-Stokes equations, applications in fluid dynamics, emphasizing advanced mathematical techniques for stochastic systems."), Oberwolfach, Germany.
 
 2025: [Diffusion in Warsaw 2025](https://evolutionarypdes2025.icm.edu.pl/diffusion-in-warsaw/ "The workshop explores diffusion processes, focusing on mathematical models in physics. Topics include parabolic PDEs, stochastic diffusion, and transport phenomena. Discussions cover applications in fluid dynamics, plasma physics, and biological systems, emphasizing PDE-based modeling."), Warsaw, Poland.
 

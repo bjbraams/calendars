@@ -1,2 +1,4 @@
 2025-03-29 to 04-02: [30th ACM International Conference on Architectural Support for Programming Languages and Operating Systems](https://asplos-conference.org/2025/ "ASPLOS 2025 focuses on computer architecture and programming languages, with applications in scientific computing. Topics include hardware accelerators, parallel computing, and software optimization. Discussions cover architectures for physics simulations, machine learning, and high-performance computing in scientific research."), Vancouver, BC, Canada.
 
+2025-06-08 to 12: [2025 Symposium on VLSI Technology and Circuits](https://www.vlsisymposium.org/ "The symposium focuses on VLSI technology and circuits, with applications in scientific computing. Topics include low-power circuits, memory technologies, and hardware for machine learning. It discusses advancements in chip design for high-performance computing, relevant to physics simulations and data processing in experiments."), Kyoto, Japan.
+

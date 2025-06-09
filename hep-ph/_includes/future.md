@@ -1,7 +1,3 @@
-2025-06-08 to 13: [833rd WE-Heraeus-Seminar: New Windows on the Universe](https://www.we-heraeus-stiftung.de/veranstaltungen/seminare/2025/new-windows-on-the-universe/ "The seminar explores the interface of particle physics and gravitational waves, focusing on multi-messenger astronomy. Topics include gravitational wave sources, dark matter detection, and cosmological phase transitions. Discussions bridge LIGO observations with particle physics experiments, advancing interdisciplinary insights."), Bad Honnef, Germany.
-
-2025-06-08 to 21: [2025 European School of High-Energy Physics](https://eshep.cern.ch/ "ESHEP 2025 trains young researchers in high-energy physics, covering collider physics, astroparticle physics, and the Standard Model. Topics include Higgs boson studies, dark matter detection, and neutrino physics. Lectures and hands-on sessions emphasize experimental techniques at CERN and theoretical models for new physics."), Bansko, Bulgaria.
-
 2025-06-09 to 13: [15th Conference on the Intersections of Particle and Nuclear Physics (CIPANP 2025)](https://agenda.hep.wisc.edu/event/2257/ "Examines intersections of particle and nuclear physics. Topics include quark-gluon interactions, nuclear structure, and computational methods bridging particle physics and nuclear phenomena."), Madison, WI, USA.
 
 2025-06-09 to 13: [1st UNDARK School on Astrophysical and Cosmological Probes of Beyond the Standard Model](https://indico.cern.ch/event/1402242/ "The UNDARK School trains researchers in astrophysical and cosmological probes of beyond-Standard-Model physics. Topics include dark matter detection, axion searches, and cosmological constraints on new physics. Lectures cover observational techniques, such as gravitational lensing and cosmic microwave background analysis, alongside theoretical models."), Amsterdam, Netherlands.
@@ -25,6 +21,8 @@
 2025-06-16 to 2025-06-18: [LoopFest XXIII](https://loopfest.org/ "LoopFest XXIII explores loop calculations in quantum field theory, focusing on particle physics. Topics include multi-loop amplitudes, Feynman integrals, and precision QCD. Discussions cover applications in LHC phenomenology and theoretical advancements in QFT."), Chicago, IL, USA.
 
 2025-06-16 to 2025-06-18: [News, Opportunities and Challenges in Big Bang Nucleosynthesis](https://indico.cern.ch/event/1402254/ "The online EuCAPT workshop explores Big Bang nucleosynthesis, focusing on cosmological implications. Topics include primordial abundances, nuclear reaction rates, and new physics constraints. Discussions cover theoretical models and observational data, advancing early universe physics."), Online.
+
+2025-06-16 to 2025-06-20: [XXXVII International Workshop on High Energy Physics: Diffraction of Hadrons](https://indico.cern.ch/event/1402279/ "HEPFT2025 explores hadronic diffraction in high-energy physics, focusing on experimental and theoretical aspects. Topics include diffractive scattering, Pomeron exchange, and QCD phenomenology. Discussions cover LHC data and theoretical models, advancing particle physics."), Lisbon, Portugal.
 
 2025-06-16 to 2025-06-20: [Event Generators at Colliders and Beyond Colliders](https://indico.cern.ch/event/1402281/ "The workshop focuses on event generators for particle physics, exploring Monte Carlo methods. Topics include QCD simulations, parton showers, and beyond-Standard-Model processes. Discussions cover applications in LHC experiments and future colliders, advancing computational precision."), CERN, Geneva, Switzerland.
 
@@ -111,8 +109,6 @@
 2025-06-16 to 2025-06-20: [Ghost Particle Hunting: Neutrino Physics and Applications](https://indico.cern.ch/event/1410990/ "Honoring John Learned, the workshop explores neutrino physics and its societal applications. Topics include neutrino oscillations, reactor monitoring, and dark matter searches. Discussions cover experimental techniques and theoretical models, advancing neutrino research."), Lisbon, Portugal.
 
 2025-06-16 to 2025-06-20: [Workshop on Quantum Entanglement at the Energy Frontier](https://indico.cern.ch/event/1402251/ "The workshop explores quantum entanglement in high-energy physics, focusing on particle collisions. Topics include entanglement in QCD processes, top quark pairs, and quantum information. Discussions advance experimental and theoretical insights in particle physics."), Lisbon, Portugal.
-
-2025-06-16 to 2025-06-20: [XXXVII International Workshop on High Energy Physics: Diffraction of Hadrons](https://indico.cern.ch/event/1402279/ "HEPFT2025 explores hadronic diffraction in high-energy physics, focusing on experimental and theoretical aspects. Topics include diffractive scattering, Pomeron exchange, and QCD phenomenology. Discussions cover LHC data and theoretical models, advancing particle physics."), Lisbon, Portugal.
 
 2025-06-16 to 2025-06-27: [Pre-SUSY School 2025](https://indico.cern.ch/event/1402291/ "The Pre-SUSY School trains researchers in supersymmetry, focusing on particle physics. Topics include SUSY phenomenology, supergravity, and collider signatures. Lectures cover theoretical models and experimental searches at LHC, preparing students for supersymmetry research."), Hamburg, Germany.
 
@@ -222,11 +218,11 @@
 
 2025-07-13 to 18: [21st International Conference on Hadron Spectroscopy and Structure](https://hadron2025.org/ "HADRON 2025 focuses on hadron spectroscopy and structure, exploring QCD dynamics. Topics include exotic hadrons, quark-gluon interactions, and hadron resonances. The conference discusses experimental results from LHCb, Belle II, and JLab, alongside theoretical advancements in lattice QCD and effective field theories."), Osaka, Japan.
 
+2025-07-14 to 18: [17th International Workshop on Boosted Object Phenomenology, Reconstruction, Measurements, and Searches at Colliders](https://boost2025.desy.de/ "BOOST2025 explores boosted object phenomenology at colliders, focusing on high-energy jets and particles. Topics include jet substructure, top quark tagging, and new physics searches. Discussions cover experimental results from LHC and theoretical advancements in QCD."), Hamburg, Germany.
+
 2025-07-14 to 18: [9th International Conference on High Energy, Particles and Nuclear Physics in the LHC Era](https://indico.cern.ch/event/1376915/ "HEPNP2025 explores high-energy particle and nuclear physics in the LHC era. Topics include Higgs boson measurements, quark-gluon plasma, and new physics searches. The conference discusses experimental results from ATLAS, CMS, and LHCb, alongside theoretical advancements in QCD."), Sao Paulo, Brazil.
 
 2025-07-14 to 18: [Amplitudes 2025 Conference](https://indico.cern.ch/event/1411028/ "The conference focuses on scattering amplitudes in quantum field theory, exploring applications in particle physics. Topics include perturbative QCD, N=4 super Yang-Mills, and amplitude techniques for gravity. Discussions cover theoretical advancements and their implications for LHC experiments."), Edinburgh, United Kingdom.
-
-2025-07-14 to 18: [17th International Workshop on Boosted Object Phenomenology, Reconstruction, Measurements, and Searches at Colliders](https://boost2025.desy.de/ "BOOST2025 explores boosted object phenomenology at colliders, focusing on high-energy jets and particles. Topics include jet substructure, top quark tagging, and new physics searches. Discussions cover experimental results from LHC and theoretical advancements in QCD."), Hamburg, Germany.
 
 2025-07-14 to 2025-07-31: [SMEFT Tools](https://www.mitp.uni-mainz.de/smeft-tools-2025/ "The workshop explores tools for Standard Model Effective Field Theory (SMEFT) analyses, focusing on particle physics. Topics include SMEFT operators, precision fits, and collider phenomenology. Discussions cover applications in LHC searches and beyond-Standard-Model physics, emphasizing computational advancements."), Mainz, Germany.
 

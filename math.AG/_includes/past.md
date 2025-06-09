@@ -66,3 +66,5 @@
 
 2025-06-02 to 2025-06-13: [Summer School: An Introduction to to Recent Trends in Commutative Algebra](http://www.fields.utoronto.ca/activities/24-25/commutative-algebra-summer-school "The summer school explores recent trends in commutative algebra, focusing on applications. Topics include Gröbner bases, homological algebra, and toric varieties. Lectures cover connections to string theory and cryptography, emphasizing algebraic methods."), Toronto, ON, Canada.
 
+2025-06-08 to 2025-06-13: [Singularities in Plovdiv](https://www.doubletreeplovdiv.com/singularities-2025 "The conference explores singularities in algebraic geometry, focusing on physical applications. Topics include singularity resolution, deformation theory, and mirror symmetry. Discussions cover connections to string theory and quantum field theory, emphasizing geometric structures."), Plovdiv, Bulgaria.
+
