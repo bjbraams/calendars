@@ -2,7 +2,7 @@
 
 2025-06-11 to 13: [51st International Workshop on Graph-Theoretic Concepts in Computer Science (WG 2025)](https://algo.uni-trier.de/wg2025/ "WG 2025 focuses on graph-theoretic concepts, covering graph algorithms, structural graph theory, and computational complexity. Topics include graph coloring, network flows, and applications in bioinformatics and networks, emphasizing theoretical graph-based computational methods."), Otzenhausen, Germany.
 
-2025-07-01 to 03: [Mixed Integer Programming European Workshop (EUROMIP 2025)](https://mixedinteger.org/EUROMIP/2025/ "EUROMIP 2025 focuses on mixed integer programming, covering branch-and-bound, cutting planes, and heuristic methods. Topics include combinatorial optimization, scheduling, and applications in logistics and energy, emphasizing computational techniques for integer optimization problems."), Clermont-Ferrand, France.
+2025-07-01 to 03: [Mixed Integer Programming European Workshop (EUROMIP 2025)](https://www.mixedinteger.org/EUROMIP/2025/ "EUROMIP 2025 focuses on mixed integer programming, covering branch-and-bound, cutting planes, and heuristic methods. Topics include combinatorial optimization, scheduling, and applications in logistics and energy, emphasizing computational techniques for integer optimization problems."), Clermont-Ferrand, France.
 
 2025-07-06 to 22: [IAS/PCMI Graduate Summer School 2025 Extremal and Probabilistic Combinatorics](https://www.ias.edu/pcmi/pcmi-2025-graduate-summer-school "Explores extremal and probabilistic combinatorics. Topics include graph theory, random structures, and applications in theoretical computer science and discrete mathematics."), Park City, UT, USA.
 
@@ -16,7 +16,7 @@
 
 2025-09-14 to 19: [Workshop Combinatorics, Probability and Computing (2025)](https://www.mfo.de/occasion/2538/www_view "This workshop explores combinatorics and probability in computing, covering random graphs, probabilistic algorithms, and combinatorial optimization. Topics include applications in network analysis, machine learning, and cryptography, emphasizing probabilistic and combinatorial computational methods."), Oberwolfach, Germany.
 
-2025-12-09 to 12: [Mixed Integer Programming Workshop South America 2025](https://mixedinteger.org/MIPSouthAmerica/2025/ "This workshop explores mixed integer programming, covering branch-and-bound, cutting planes, and heuristic methods. Topics include applications in logistics, scheduling, and energy systems, emphasizing computational techniques for solving complex combinatorial optimization problems with integer constraints."), Viña del Mar, Chile.
+2025-12-09 to 12: [Mixed Integer Programming Workshop South America 2025](https://www.mixedinteger.org/MIPSouthAmerica/2025/ "This workshop explores mixed integer programming, covering branch-and-bound, cutting planes, and heuristic methods. Topics include applications in logistics, scheduling, and energy systems, emphasizing computational techniques for solving complex combinatorial optimization problems with integer constraints."), Viña del Mar, Chile.
 
 2026-04-20 to 24: [Hausdorff Research Institute for Mathematics Follow-Up Workshop Discrete Optimization (2026)](https://www.mathematics.uni-bonn.de/him/programs/follow-up-workshops/2026_04_20 "This workshop explores discrete optimization, covering integer programming, combinatorial algorithms, and graph optimization. Topics include applications in scheduling, logistics, and network design, emphasizing computational and theoretical methods for solving discrete optimization problems."), Bonn, Germany.
 

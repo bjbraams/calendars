@@ -6,7 +6,7 @@
 
 2025-08-25 to 29: [Radboud University Summer School on Waves Modeling, Analysis, and Numerics (2025)](https://www.math.ru.nl/wave/ "This summer school explores wave modeling, covering numerical methods, wave propagation, and scattering theory. Topics include applications in acoustics, electromagnetics, and fluid dynamics, emphasizing computational and analytical techniques for solving wave-related problems in engineering and physics."), Nijmegen, Netherlands.
 
-2025-08-26 to 28: [EuroMech Colloquium 653 on Mechanics of Interfaces (2025)](http://653.euromech.org/ "Focuses on mechanics at material interfaces. Topics include interfacial dynamics, computational modeling, and applications in solid mechanics and fluid-structure interactions."), Metz, France.
+2025-08-26 to 28: [EuroMech Colloquium 653 on Mechanics of Interfaces (2025)](https://653.euromech.org/ "Focuses on mechanics at material interfaces. Topics include interfacial dynamics, computational modeling, and applications in solid mechanics and fluid-structure interactions."), Metz, France.
 
 2025-09-22 to 26: [(ECCOMAS-IACM Associated) 2nd International Conference on Highly Flexible Slender Structures (HFSS 2025)](https://hfss.uniri.hr/ "HFSS 2025 focuses on highly flexible slender structures, covering computational mechanics, nonlinear dynamics, and structural analysis. Topics include applications in aerospace, marine engineering, and robotics, emphasizing numerical methods for modeling flexible structural behavior."), Kaiserslautern, Germany.
 

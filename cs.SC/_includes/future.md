@@ -6,7 +6,7 @@
 
 2025-07-14 to 2025-07-18: [LMFDB, Computation, and Number Theory (LuCaNT 2025)](https://icerm.brown.edu/program/topical_workshop/tw-25-lucant "LuCaNT 2025 explores the LMFDB and computational number theory, focusing on arithmetic data. Topics include L-functions, modular forms, and elliptic curves. Discussions cover applications in cryptography and quantum field theory, emphasizing computational techniques."), Providence, RI, USA.
 
-2025-07-14 to 2025-07-18: [LMFDB, Computation, and Number Theory (LuCaNT 2025)](https://icerm.brown.edu/programs/sp-s25/lucant/ "LuCaNT 2025 focuses on the LMFDB and computational number theory, exploring arithmetic applications. Topics include Galois representations, L-functions, and computational algebra. Discussions cover connections to string theory and cryptographic systems, emphasizing number-theoretic computations."), Providence, RI, USA.
+2025-07-14 to 2025-07-18: [LMFDB, Computation, and Number Theory (LuCaNT 2025)](https://icerm.brown.edu/program/semester_program_workshop/sp-s25-lucant/ "LuCaNT 2025 focuses on the LMFDB and computational number theory, exploring arithmetic applications. Topics include Galois representations, L-functions, and computational algebra. Discussions cover connections to string theory and cryptographic systems, emphasizing number-theoretic computations."), Providence, RI, USA.
 
 2025-07-28 to 2025-07-30: [Regensburg GAP Days 2025](https://cvgmt.sns.it/event/1003/ "GAP Days 2025 focuses on computational group theory using GAP software. Topics include group algorithms, representation theory, and computational algebra. Discussions cover applications in number theory and quantum physics, advancing computational mathematical tools."), Regensburg, Germany.
 

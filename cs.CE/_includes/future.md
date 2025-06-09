@@ -8,7 +8,7 @@
 
 2025-07-02 to 04: [8th International Conference on Computational Contact Mechanics (ICCCM 2025)](https://www.unibw.de/icccm2025 "ICCCM 2025 focuses on computational contact mechanics, covering contact algorithms, friction modeling, and finite element methods. Topics include wear analysis, contact dynamics, and applications in automotive and biomechanics, emphasizing numerical techniques for contact problems."), Munich, Germany.
 
-2025-07-07 to 09: [25th International Conference on Computational Science (ICCS 2025)](https://iccs-meeting.org/iccs2025/ "ICCS 2025 focuses on computational science, covering numerical simulations, high-performance computing, and data-driven modeling. Topics include fluid dynamics, computational biology, and climate modeling, emphasizing interdisciplinary computational methods for scientific and engineering applications."), Singapore.
+2025-07-07 to 09: [25th International Conference on Computational Science (ICCS 2025)](https://www.iccs-meeting.org/iccs2025/ "ICCS 2025 focuses on computational science, covering numerical simulations, high-performance computing, and data-driven modeling. Topics include fluid dynamics, computational biology, and climate modeling, emphasizing interdisciplinary computational methods for scientific and engineering applications."), Singapore.
 
 2025-07-08 to 11: [26th International Conference on Computer Methods in Mechanics (CMM 2025)](https://cmm2025.p.lodz.pl/ "CMM 2025 focuses on computational mechanics, covering finite element methods, contact mechanics, and structural dynamics. Topics include material modeling, multiscale simulations, and applications in engineering and biomechanics, emphasizing numerical techniques for mechanical systems analysis."), Lodz, Poland.
 
@@ -26,7 +26,7 @@
 
 2025-08-25 to 27: [EuroMech Colloquium 655 on Cutting Mechanics of Soft Tissues: Nonlinear Fracture and Contact Mechanics (2025)](https://655.euromech.org/ "Examines nonlinear fracture and contact mechanics in soft tissues. Topics include computational modeling, biomechanical analysis, and applications in medical engineering and tissue mechanics."), Graz, Austria.
 
-2025-08-27 to 29: [EuroMech Colloquium 650 on Addressing Challenges in Applied Mechanics Through Artificial Intelligence Applications (2025)](http://650.euromech.org/ "Explores AI applications in applied mechanics. Topics include machine learning for material modeling, structural analysis, and optimization in engineering design."), Belgrade, Serbia.
+2025-08-27 to 29: [EuroMech Colloquium 650 on Addressing Challenges in Applied Mechanics Through Artificial Intelligence Applications (2025)](https://650.euromech.org/ "Explores AI applications in applied mechanics. Topics include machine learning for material modeling, structural analysis, and optimization in engineering design."), Belgrade, Serbia.
 
 2025-09-01 to 05: [European Conference on Numerical Mathematics and Advanced Applications (ENUMATH 2025)](https://enumath2025.eu "ENUMATH 2025 explores numerical mathematics, covering finite element methods, numerical PDEs, and high-performance computing. Topics include applications in fluid dynamics, materials science, and biology, emphasizing advanced computational techniques for solving complex mathematical models."), Heidelberg, Germany.
 
@@ -42,7 +42,7 @@
 
 2025-09-22 to 26: [(ECCOMAS-IACM Associated) 2nd International Conference on Highly Flexible Slender Structures (HFSS 2025)](https://hfss.uniri.hr/ "HFSS 2025 focuses on highly flexible slender structures, covering computational mechanics, nonlinear dynamics, and structural analysis. Topics include applications in aerospace, marine engineering, and robotics, emphasizing numerical methods for modeling flexible structural behavior."), Kaiserslautern, Germany.
 
-2025-10-06 to 10: [IMSI Workshop Data Assimilation and Inverse Problems for Digital Twins (2025)](https://imsi.institute/activities/digital-twins/data-assimilation-and-inverse-problems-for-digital-twins/ "This workshop focuses on data assimilation and inverse problems for digital twins, covering Bayesian methods, uncertainty quantification, and real-time modeling. Topics include applications in engineering, climate modeling, and healthcare, emphasizing computational techniques for predictive digital twin frameworks."), Chicago, IL, USA.
+2025-10-06 to 10: [IMSI Workshop Data Assimilation and Inverse Problems for Digital Twins (2025)](https://www.imsi.institute/activities/digital-twins/data-assimilation-and-inverse-problems-for-digital-twins/ "This workshop focuses on data assimilation and inverse problems for digital twins, covering Bayesian methods, uncertainty quantification, and real-time modeling. Topics include applications in engineering, climate modeling, and healthcare, emphasizing computational techniques for predictive digital twin frameworks."), Chicago, IL, USA.
 
 2025-10-08 to 10: [1st Conference on Applied Quantum Methods in Computational Science and Engineering (AQMCSE 2025)](https://aqmcse.com/ "AQMCSE 2025 focuses on applied quantum methods, covering quantum algorithms, hybrid quantum-classical computing, and quantum simulations. Topics include applications in computational science, materials engineering, and optimization, emphasizing practical quantum computational techniques for engineering and scientific problems."), Aachen, Germany.
 

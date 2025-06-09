@@ -20,7 +20,7 @@
 
 2025-07-21 to 23: [Joint ICTP-WE Heraeus Conference on Non-Equilibrium Quantum Statistical Physics (2025)](https://indico.ictp.it/event/10855 "This conference focuses on non-equilibrium quantum statistical physics, covering quantum transport, open quantum systems, and thermalization. Topics include quantum many-body dynamics, applications in condensed matter, emphasizing theoretical and computational non-equilibrium quantum phenomena."), Trieste, Italy.
 
-2025-07-27 to 08-01: [Conference on Strongly Coupled Coulomb Systems (SCCS 2025)](https://event.fourwaves.com/sccs2025/ "SCCS 2025 focuses on strongly coupled Coulomb systems, covering dense plasmas, dusty plasmas, and warm dense matter. Topics include plasma thermodynamics, ion correlations, and applications in fusion and astrophysics, emphasizing theoretical and computational plasma physics."), Lake Tahoe, NV, USA.
+2025-07-27 to 08-01: [Conference on Strongly Coupled Coulomb Systems (SCCS 2025)](https://event.fourwaves.com/sccs2025/pages "SCCS 2025 focuses on strongly coupled Coulomb systems, covering dense plasmas, dusty plasmas, and warm dense matter. Topics include plasma thermodynamics, ion correlations, and applications in fusion and astrophysics, emphasizing theoretical and computational plasma physics."), Lake Tahoe, NV, USA.
 
 2025-08-11 to 15: [MPI-PKS International Workshop on New Frontiers in Out-of-Equilibrium Quantum Many-Body Dynamics (2025)](https://www.pks.mpg.de/qudyn25 "Explores out-of-equilibrium quantum many-body dynamics, covering thermalization, quantum chaos, and driven systems. Topics include quantum simulators, entanglement dynamics, and applications in condensed matter physics, emphasizing theoretical and computational approaches."), Dresden, Germany.
 

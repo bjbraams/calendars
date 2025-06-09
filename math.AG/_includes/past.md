@@ -8,7 +8,7 @@
 
 2025-02-24 to 28: [Algebraic Points on Curves](https://icerm.brown.edu/program/topical_workshop/tw-25-apc "The workshop explores algebraic points on curves, focusing on arithmetic geometry. Topics include rational points, elliptic curves, and Diophantine equations. Discussions cover applications in quantum field theory and cryptography, emphasizing mathematical structures in physical systems."), Providence, RI, USA.
 
-2025-02-24 to 28: [Algebraic Points on Curves](https://icerm.brown.edu/programs/sp-s25/wk1/ "The workshop focuses on algebraic points on curves, exploring arithmetic geometry. Topics include rational points, elliptic curves, and Diophantine equations. Discussions cover applications in quantum field theory and cryptography, emphasizing mathematical structures in physical systems."), Providence, RI, USA.
+2025-02-24 to 28: [Algebraic Points on Curves](https://icerm.brown.edu/program/semester_program_workshop/sp-s25-wk1/ "The workshop focuses on algebraic points on curves, exploring arithmetic geometry. Topics include rational points, elliptic curves, and Diophantine equations. Discussions cover applications in quantum field theory and cryptography, emphasizing mathematical structures in physical systems."), Providence, RI, USA.
 
 2025-03-03 to 2025-07-31: [School on Algebraic Geometry](http://physicslatam.org/school-algebraic-geometry-2025 "The school introduces algebraic geometry, focusing on applications in physics. Topics include varieties, sheaves, and moduli spaces. Lectures cover connections to string theory and quantum field theory, emphasizing geometric structures for theoretical physics."), Online.
 
@@ -20,7 +20,7 @@
 
 2025-03-24 to 28: [Workshop Algebraic Statistics 2025](https://sites.google.com/view/algstat2025/ "This workshop focuses on algebraic statistics, covering polynomial models, graphical models, and tensor decompositions. Topics include maximum likelihood estimation, algebraic geometry in statistics, and applications in phylogenetics and machine learning, emphasizing algebraic tools for statistical inference."), Munich, Germany.
 
-2025-03-28 to 2025-03-30: [Graduate Student Conference in Algebra, Geometry, and Topology 2025](https://cst.temple.edu/department-mathematics/events/gscagt-2024/gcsagt-2025 "The conference focuses on algebra, geometry, and topology for graduate students. Topics include algebraic varieties, knot theory, and symplectic geometry. Discussions cover applications in quantum field theory and string theory, emphasizing mathematical advancements."), Philadelphia, PA, USA.
+2025-03-28 to 2025-03-30: [Graduate Student Conference in Algebra, Geometry, and Topology 2025](https://cst.temple.edu/department-mathematics/events/gta-philadelphia "The conference focuses on algebra, geometry, and topology for graduate students. Topics include algebraic varieties, knot theory, and symplectic geometry. Discussions cover applications in quantum field theory and string theory, emphasizing mathematical advancements."), Philadelphia, PA, USA.
 
 2025-04-14 to 2025-04-18: [Workshop on the Applications of Commutative Algebra](http://www.fields.utoronto.ca/activities/24-25/commutative-algebra-applications "The workshop explores applications of commutative algebra, focusing on algebraic geometry and physics. Topics include syzygies, Gröbner bases, and homological algebra. Discussions cover connections to string theory and quantum mechanics, emphasizing algebraic structures in physical systems."), Toronto, ON, Canada.
 

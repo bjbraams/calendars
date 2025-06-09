@@ -6,7 +6,7 @@
 
 2025-03-02 to 15: [12th CERN Latin-American School of High-Energy Physics](https://clasp2025.cern.ch/ "The school provides advanced training in high-energy physics for Latin-American students, covering particle physics, collider experiments, and astroparticle physics. Topics include the Standard Model, Higgs physics, and dark matter searches. Lectures emphasize experimental techniques at CERN and theoretical models for beyond-Standard-Model physics."), San Luis Potosí, Mexico.
 
-2025-03-03 to 2025-03-07: [IITGN Flavour Physics Week 2025](https://www.iitgn.ac.in/events/flavour-physics-week-2025 "The workshop explores flavour physics, focusing on quark and lepton interactions. Topics include CP violation, rare decays, and neutrino oscillations. Discussions cover experimental results from Belle II and LHCb, advancing theoretical particle physics."), Gandhinagar, India.
+2025-03-03 to 2025-03-07: [IITGN Flavour Physics Week 2025](https://iitgn.ac.in/events/flavour-physics-week-2025 "The workshop explores flavour physics, focusing on quark and lepton interactions. Topics include CP violation, rare decays, and neutrino oscillations. Discussions cover experimental results from Belle II and LHCb, advancing theoretical particle physics."), Gandhinagar, India.
 
 2025-03-10 to 14: [15th Workshop of the Long-Lived Particle Community](https://indico.cern.ch/event/1441321/ "LLP2025 explores long-lived particles in beyond-Standard-Model physics, focusing on their detection at colliders. Topics include heavy neutral leptons, supersymmetric particles, and exotic signatures. The workshop discusses experimental strategies at the LHC and future detectors, alongside theoretical models for dark matter and hidden sectors."), CERN, Geneva, Switzerland.
 

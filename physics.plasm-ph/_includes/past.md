@@ -14,7 +14,7 @@
 
 2025-03-12 to 13: [Nuclear Physics in Plasma Environments (2025)](https://iop.eventsair.com/nppe2025/ "This workshop focuses on nuclear physics in plasma environments, covering nuclear reactions in stellar and fusion plasmas. Topics include thermonuclear reaction rates, plasma screening effects, and nucleosynthesis, with applications in astrophysics and fusion energy research, bridging nuclear and plasma physics."), London, UK.
 
-2025-03-18: [1st Open Source Software for Fusion Energy (OSSFE 2025)](https://ossfe.github.io "OSSFE 2025 focuses on open-source software for fusion energy, covering plasma simulation, magnetic confinement modeling, and diagnostic tools. Topics include computational frameworks for tokamaks, stellarators, and fusion reactor design, emphasizing collaborative software development for fusion research."), Online.
+2025-03-18: [1st Open Source Software for Fusion Energy (OSSFE 2025)](https://ossfe.org/ "OSSFE 2025 focuses on open-source software for fusion energy, covering plasma simulation, magnetic confinement modeling, and diagnostic tools. Topics include computational frameworks for tokamaks, stellarators, and fusion reactor design, emphasizing collaborative software development for fusion research."), Online.
 
 2025-04-06 to 11: [IFMIF-DONES Xcitech School 2025](https://www.xcitech-school.org/ "Explores neutron source technologies for fusion. Topics include accelerator-driven systems, material irradiation, and computational methods for IFMIF-DONES and fusion energy applications."), Dubrovnik, Croatia.
 
@@ -26,7 +26,7 @@
 
 2025-04-07 to 11: [Inertial Fusion Energy Science and Technology Accelerated Research (IFE-STAR) Conference](https://events.bizzabo.com/IFESTAR "IFE-STAR focuses on inertial fusion energy, covering laser-driven fusion, plasma instabilities, and target design. Topics include high-energy-density physics, implosion dynamics, and fusion yield optimization, emphasizing advancements toward practical inertial fusion energy systems."), Breckenridge, CO, USA.
 
-2025-04-15 to 18: [12th International Workshop on Warm Dense Matter (WDM 2025)](https://sandia.gov/wdm/ "WDM 2025 explores warm dense matter, focusing on high-pressure plasmas and equation-of-state modeling. Topics include laser-driven experiments, plasma thermodynamics, and computational simulations, with applications in planetary science, inertial fusion, and astrophysics, emphasizing extreme matter states."), Santa Fe, NM, USA.
+2025-04-15 to 18: [12th International Workshop on Warm Dense Matter (WDM 2025)](https://www.sandia.gov/wdm/ "WDM 2025 explores warm dense matter, focusing on high-pressure plasmas and equation-of-state modeling. Topics include laser-driven experiments, plasma thermodynamics, and computational simulations, with applications in planetary science, inertial fusion, and astrophysics, emphasizing extreme matter states."), Santa Fe, NM, USA.
 
 2025-04-22 to 23: [2nd ITER Private Sector Fusion Workshop (2025)](https://indico.iter.org/event/529/ "This workshop focuses on private-sector advancements in fusion energy, covering plasma physics, tokamak technologies, and commercialization strategies. Topics include plasma control, materials for fusion reactors, and industry-academia collaboration, emphasizing practical steps toward fusion power."), Cadarache, France.
 
@@ -40,7 +40,7 @@
 
 2025-05-07 to 15: [Karlsruhe International Summer School on Fusion Technologies 2025](https://summerschool.fusion.kit.edu/ "This summer school explores fusion technologies, focusing on plasma physics, magnetic confinement, and fusion reactor engineering. Topics include tokamak and stellarator design, plasma diagnostics, and fusion materials, with applications in sustainable energy, emphasizing theoretical and practical advancements in fusion research."), Karlsruhe, Germany.
 
-2025-05-12 to 13: [4th Workshop on FAIR Data in Plasma Science (FDPS 2025)](https://plasma-mds.org/ws-fair-data-plasma-science-4.html "FDPS 2025 focuses on FAIR data principles in plasma science, covering data management, interoperability, and open-access frameworks. Topics include plasma diagnostics, simulation data, and applications in fusion research and astrophysics, emphasizing standardized data practices for collaboration."), Greifswald, Germany.
+2025-05-12 to 13: [4th Workshop on FAIR Data in Plasma Science (FDPS 2025)](http://www.plasma-mds.org/ws-fair-data-plasma-science-4.html "FDPS 2025 focuses on FAIR data principles in plasma science, covering data management, interoperability, and open-access frameworks. Topics include plasma diagnostics, simulation data, and applications in fusion research and astrophysics, emphasizing standardized data practices for collaboration."), Greifswald, Germany.
 
 2025-05-12 to 15: [8th International Conference on Matter and Radiation at Extremes (2025)](http://icmre2025.mre.org.cn/en-us/ "This conference focuses on matter and radiation at extremes, covering high-energy-density physics, laser-plasma interactions, and relativistic plasmas. Topics include inertial confinement fusion, astrophysical plasmas, and extreme material states, emphasizing experimental and computational advancements."), Xi'an, China.
 
@@ -50,7 +50,7 @@
 
 2025-05-19 to 22: [20th Direct Drive and Fast Ignition Workshop (DDFIW 2025)](https://indico.gsi.de/event/21177/ "DDFIW 2025 explores direct drive and fast ignition in inertial fusion, focusing on laser-plasma interactions and high-energy-density physics. Topics include implosion dynamics, ignition schemes, and computational modeling, with applications in fusion energy, emphasizing experimental and theoretical advancements."), Darmstadt, Germany.
 
-2025-05-19 to 22: [25th Topical Conference on Radio-Frequency Power in Plasmas (RFPPC 2025)](https://ipp.mpg.de/rfppc2025 "RFPPC 2025 focuses on radio-frequency power in plasmas, covering RF heating, current drive, and plasma diagnostics. Topics include ion cyclotron resonance, RF wave propagation, and applications in magnetic fusion devices, emphasizing advancements in plasma control for fusion energy."), Schloss Hohenkammer (near Munich), Germany.
+2025-05-19 to 22: [25th Topical Conference on Radio-Frequency Power in Plasmas (RFPPC 2025)](https://www.ipp.mpg.de/rfppc2025 "RFPPC 2025 focuses on radio-frequency power in plasmas, covering RF heating, current drive, and plasma diagnostics. Topics include ion cyclotron resonance, RF wave propagation, and applications in magnetic fusion devices, emphasizing advancements in plasma control for fusion energy."), Schloss Hohenkammer (near Munich), Germany.
 
 2025-05-19 to 23: [20th International Conference on Plasma-Facing Materials and Components for Fusion Applications (PFMC 2025)](https://pfmc20.com "PFMC 2025 focuses on plasma-facing materials for fusion, covering material erosion, tritium retention, and thermal properties. Topics include tungsten alloys, liquid metals, and computational modeling of plasma-material interactions, emphasizing durable materials for fusion reactor environments."), Ljubljana, Slovenia.
 

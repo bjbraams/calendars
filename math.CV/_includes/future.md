@@ -10,5 +10,5 @@
 
 2025-06-23 to 27: [Conformal Dynamics and Geometry in Bordeaux](https://www.math.u-bordeaux.fr/~pthieull/ANR2025/ "The conference explores conformal dynamics and geometry, focusing on applications in physics. Topics include fractal geometry, conformal mappings, and dynamical systems. Discussions cover connections to quantum chaos and statistical mechanics, emphasizing mathematical structures."), Bordeaux, France.
 
-2025-06-23 to 27: [Conference on Singularities in Algebraic Geometry](https://www.univ-rennes1.fr/singularities-2025 "The conference explores singularities in algebraic geometry, focusing on applications in physics. Topics include resolution of singularities, deformation theory, and moduli spaces. Discussions cover connections to string theory and quantum mechanics, emphasizing geometric frameworks."), Rennes, France.
+2025-06-23 to 27: [Conference on Singularities in Algebraic Geometry](https://www.univ-rennes.fr/singularities-2025 "The conference explores singularities in algebraic geometry, focusing on applications in physics. Topics include resolution of singularities, deformation theory, and moduli spaces. Discussions cover connections to string theory and quantum mechanics, emphasizing geometric frameworks."), Rennes, France.
 

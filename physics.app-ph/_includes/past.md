@@ -6,7 +6,7 @@
 
 2025-03-10 to 14: [5th Superconducting Magnet Test Facilities Workshop](https://indico.psi.ch/event/16393/ "The workshop focuses on superconducting magnet technologies for accelerators. Topics include high-field magnets, cryogenics, and testing methodologies. Discussions cover applications in LHC upgrades and future colliders, emphasizing performance optimization and scalability for high-energy physics experiments."), Batavia, IL, USA.
 
-2025-03-25 to 28: [EuroMech Colloquium 659 on Metamaterials in Fluid Flows and Beyond (2025)](http://659.euromech.org/ "Explores the role of metamaterials in fluid mechanics and related fields. Topics include wave manipulation, fluid-structure interactions, and computational modeling of metamaterials in aerodynamics and acoustics."), Groningen, Netherlands.
+2025-03-25 to 28: [EuroMech Colloquium 659 on Metamaterials in Fluid Flows and Beyond (2025)](https://659.euromech.org/ "Explores the role of metamaterials in fluid mechanics and related fields. Topics include wave manipulation, fluid-structure interactions, and computational modeling of metamaterials in aerodynamics and acoustics."), Groningen, Netherlands.
 
 2025-04-07 to 11: [18th IIR International Conference on Cryogenics](https://cryogenics2025.org/ "Cryogenics 2025 focuses on cryogenic technologies for scientific and industrial applications. Topics include superconducting magnets, cryocoolers, and low-temperature materials. The conference discusses advancements in cryogenics for particle accelerators, fusion research, and space applications, emphasizing efficiency and scalability in cryogenic systems."), Prague, Czech Republic.
 
@@ -24,7 +24,7 @@
 
 2025-05-26 to 30: [European Materials Research Society (E-MRS) Fall Meeting 2025](https://www.european-mrs.com/meetings/2025-fall-meeting "The E-MRS Fall Meeting focuses on materials science, covering plasma-processed materials, thin films, and nanomaterials. Topics include plasma deposition, surface engineering, and applications in energy and electronics, emphasizing experimental and computational advancements in material design."), Warsaw, Poland.
 
-2025-06-02 to 04: [4th European Conference on Molecular Spintronics (ECMolS 2025)](https://tcd.ie/physics/conferences/ecmols-2025/ "ECMolS 2025 focuses on molecular spintronics, covering spin transport in organic molecules, molecular magnets, and hybrid interfaces. Topics include spin-polarized currents, quantum coherence, and applications in spintronic devices, emphasizing molecular-scale spin manipulation and design."), Dublin, Ireland.
+2025-06-02 to 04: [4th European Conference on Molecular Spintronics (ECMolS 2025)](https://www.tcd.ie:443/physics/conferences/ecmols-2025/ "ECMolS 2025 focuses on molecular spintronics, covering spin transport in organic molecules, molecular magnets, and hybrid interfaces. Topics include spin-polarized currents, quantum coherence, and applications in spintronic devices, emphasizing molecular-scale spin manipulation and design."), Dublin, Ireland.
 
 2025-06-02 to 05: [IUTAM Symposium on Nonlinear Dynamics of Systems and Structures for Green Energy Conversion (2025)](https://iutam.org/events/iutam-symposium-on-nonlinear-dynamics-of-systems-and-structures-for-green-energy-conversion "Focuses on nonlinear dynamics in green energy systems. Topics include vibrational energy harvesting, nonlinear structural dynamics, and computational modeling for renewable energy applications."), Senigallia, Italy.
 

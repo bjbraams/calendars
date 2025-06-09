@@ -14,5 +14,5 @@
 
 2025-05-19 to 23: [24th International Conference on Autonomous Agents and Multiagent Systems (AAMAS 2025)](https://aamas2025.org/ "AAMAS 2025 explores autonomous agents and multiagent systems, focusing on distributed AI, game theory, and agent coordination. Topics include reinforcement learning, auction mechanisms, and applications in robotics and smart grids, emphasizing scalable and robust multiagent algorithms."), Detroit, MI, USA.
 
-2025-06-04 to 07: [13th Workshop on Uncertainty Processing (WUPES 2025)](https://utia.cas.cz/news/3818 "WUPES 2025 explores uncertainty processing, covering Bayesian networks, fuzzy systems, and probabilistic reasoning. Topics include uncertainty quantification, decision-making under uncertainty, and applications in AI and engineering, emphasizing computational methods for uncertain environments."), Třešť, Czech Republic.
+2025-06-04 to 07: [13th Workshop on Uncertainty Processing (WUPES 2025)](https://utia.cas.cz/news/3818/ "WUPES 2025 explores uncertainty processing, covering Bayesian networks, fuzzy systems, and probabilistic reasoning. Topics include uncertainty quantification, decision-making under uncertainty, and applications in AI and engineering, emphasizing computational methods for uncertain environments."), Třešť, Czech Republic.
 

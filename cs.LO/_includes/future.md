@@ -52,7 +52,7 @@
 
 2025-11-10 to 14: [23rd International Conference on Software Engineering and Formal Methods (SEFM 2025)](https://sefm-conference.github.io/2025/ "Focuses on formal methods in software engineering. Topics include program verification, model checking, and applications in software development and system reliability."), Toledo, Spain.
 
-2025-11-11 to 17: [22nd International Conference on Principles of Knowledge Representation and Reasoning (KR 2025)](https://kr.org/KR2025 "KR 2025 focuses on knowledge representation and reasoning, covering ontologies, logic programming, and probabilistic reasoning. Topics include applications in AI, robotics, and semantic web, emphasizing computational and statistical methods for modeling and reasoning with complex knowledge structures."), Melbourne, Australia.
+2025-11-11 to 17: [22nd International Conference on Principles of Knowledge Representation and Reasoning (KR 2025)](https://kr.org/KR2025/ "KR 2025 focuses on knowledge representation and reasoning, covering ontologies, logic programming, and probabilistic reasoning. Topics include applications in AI, robotics, and semantic web, emphasizing computational and statistical methods for modeling and reasoning with complex knowledge structures."), Melbourne, Australia.
 
 2025-11-17 to 19: [7th International Workshop on Formal Methods for Autonomous Systems (FMAS 2025)](https://fmasworkshop.github.io/FMAS2025/ "Focuses on formal methods for autonomous systems. Topics include verification, synthesis, and applications in robotics, autonomous vehicles, and AI-driven systems."), Paris, France.
 

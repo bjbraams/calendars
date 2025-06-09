@@ -30,7 +30,7 @@
 
 2025-06-16 to 2025-06-20: [Topics in Geometric Measure Theory](https://events.dm.unipi.it/event/200/ "The conference explores geometric measure theory, focusing on physical applications. Topics include varifolds, minimal surfaces, and regularity theory. Discussions cover modeling in materials science and quantum mechanics, emphasizing geometric analysis."), Pisa, Italy.
 
-2025-06-16 to 2025-06-20: [Lefschetz Centennial Conference](https://imsa.miami.edu/events/lefschetz-centennial-2025 "The Lefschetz Centennial celebrates Solomon Lefschetz’s contributions to algebraic geometry. Topics include Hodge theory, Lefschetz pencils, and topological methods. Discussions cover applications in string theory and quantum field theory, emphasizing geometric and algebraic insights."), Miami, FL, USA.
+2025-06-16 to 2025-06-20: [Lefschetz Centennial Conference](https://www.imsa.miami.edu/events/lefschetz-centennial-2025 "The Lefschetz Centennial celebrates Solomon Lefschetz’s contributions to algebraic geometry. Topics include Hodge theory, Lefschetz pencils, and topological methods. Discussions cover applications in string theory and quantum field theory, emphasizing geometric and algebraic insights."), Miami, FL, USA.
 
 2025-06-16 to 20: [13th Bolyai–Gauss–Lobachevsky Conference on Non-Euclidean Geometry in Modern Physics and Mathematics](https://bgl2025.uv.es/ "This conference explores non-Euclidean geometry applications in physics and mathematics, focusing on general relativity, cosmology, and differential geometry. Topics include hyperbolic spaces, spacetime metrics, and geometric methods in quantum field theory. It bridges mathematical formalism with physical phenomena like gravitational lensing and cosmic expansion."), Valencia, Spain.
 

@@ -4,7 +4,7 @@
 
 2025-03-24 to 28: [16th European Turbomachinery Conference, Fluid Dynamics and Thermodynamics (ETC 2025)](https://www.etc16.eu/ "Focuses on turbomachinery, covering fluid dynamics, thermodynamics, and computational modeling. Topics include turbine design, aerodynamics, and energy efficiency, with applications in aerospace and power generation, emphasizing numerical simulations."), Hannover, Germany.
 
-2025-03-25 to 28: [EuroMech Colloquium 659 on Metamaterials in Fluid Flows and Beyond (2025)](http://659.euromech.org/ "Explores the role of metamaterials in fluid mechanics and related fields. Topics include wave manipulation, fluid-structure interactions, and computational modeling of metamaterials in aerodynamics and acoustics."), Groningen, Netherlands.
+2025-03-25 to 28: [EuroMech Colloquium 659 on Metamaterials in Fluid Flows and Beyond (2025)](https://659.euromech.org/ "Explores the role of metamaterials in fluid mechanics and related fields. Topics include wave manipulation, fluid-structure interactions, and computational modeling of metamaterials in aerodynamics and acoustics."), Groningen, Netherlands.
 
 2025-04-02 to 04: [EuroMech Colloquium 629 on Data-Driven Fluid Mechanics (2025)](https://629.euromech.org/ "Explores data-driven approaches in fluid mechanics, integrating machine learning and computational modeling. Topics include turbulence modeling, flow prediction, and applications in aerodynamics and environmental flows."), London, UK.
 

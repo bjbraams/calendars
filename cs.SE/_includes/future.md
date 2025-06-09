@@ -6,7 +6,7 @@
 
 2025-06-23 to 2025-06-27: [JuliaHEP 2025 Workshop](https://indico.cern.ch/event/1402283/ "JuliaHEP 2025 explores Julia programming for high-energy physics, focusing on data analysis. Topics include Monte Carlo simulations, detector reconstruction, and statistical modeling. Discussions cover applications in LHC experiments, advancing computational tools for particle physics."), CERN, Geneva, Switzerland.
 
-2025-06-29 to 07-03: [CECAM Conference Reusable Libraries for Quantum Chemistry (ReLibQC 2025)](https://helsinki.fi/en/conferences/reusable-libraries-quantum-chemistry-2025 "ReLibQC 2025 focuses on reusable quantum chemistry libraries, covering software frameworks, electronic structure calculations, and high-performance computing. Topics include modular code design, applications in molecular modeling, emphasizing open-source tools for quantum chemical simulations."), Majvik, Finland.
+2025-06-29 to 07-03: [CECAM Conference Reusable Libraries for Quantum Chemistry (ReLibQC 2025)](https://www.helsinki.fi/en/conferences/reusable-libraries-quantum-chemistry-2025 "ReLibQC 2025 focuses on reusable quantum chemistry libraries, covering software frameworks, electronic structure calculations, and high-performance computing. Topics include modular code design, applications in molecular modeling, emphasizing open-source tools for quantum chemical simulations."), Majvik, Finland.
 
 2025-06-30 to 07-01: [67th CREST Open Workshop on AI-powered Software Engineering (2025)](https://www.ucl.ac.uk/crest/events/2025/jun/67th-crest-open-workshop-ai-powered-software-engineering "This workshop focuses on AI-powered software engineering, covering machine learning for code analysis, automated testing, and software optimization. Topics include AI-driven debugging, program synthesis, and applications in software development, emphasizing AI-enhanced software engineering tools."), London, UK.
 
@@ -18,7 +18,7 @@
 
 2025-07-22: [12th Workshop on Horn Clauses for Verification and Synthesis (HCVS 2025)](https://www.sci.unich.it/hcvs25/ "Focuses on Horn clauses for formal verification and synthesis. Topics include automated reasoning, program verification, and applications in software and hardware validation."), Zagreb, Croatia. Colocated with CAV 2025.
 
-2025-07-22 to 24: [23rd Symposium on Experimental Algorithms (SEA 2025)](https://regindex.github.io/sea2025.github.io "SEA 2025 focuses on experimental algorithms, covering algorithm engineering, data structures, and performance evaluation. Topics include graph algorithms, machine learning optimization, and applications in bioinformatics, emphasizing practical and experimental algorithmic research and implementation."), Venice, Italy.
+2025-07-22 to 24: [23rd Symposium on Experimental Algorithms (SEA 2025)](https://regindex.github.io/sea2025.github.io/ "SEA 2025 focuses on experimental algorithms, covering algorithm engineering, data structures, and performance evaluation. Topics include graph algorithms, machine learning optimization, and applications in bioinformatics, emphasizing practical and experimental algorithmic research and implementation."), Venice, Italy.
 
 2025-08-06 to 08: [Satisfiability, Satisfiability Modulo Theories, and Automated Reasoning Summer School (SAT/SMT/AR 2025)](https://sat-smt-ar-school.gitlab.io/www/2025/ "Covers satisfiability and automated reasoning. Topics include SAT/SMT solvers, formal verification, and applications in software and hardware system validation."), St Andrews, UK.
 

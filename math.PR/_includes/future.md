@@ -134,7 +134,7 @@
 
 2025-12-08 to 12: [21st Brunel-Bielefeld Workshop on Random Matrix Theory (2025)](https://www.uni-bielefeld.de/einrichtungen/zif/groups/ongoing/matrices/ "This workshop explores random matrix theory, covering eigenvalue distributions, spectral properties, and applications in physics and statistics. Topics include quantum chaos, network analysis, and financial modeling, emphasizing probabilistic methods for analyzing random matrix phenomena."), Bielefeld, Germany.
 
-2025-12-10 to 12: [EURANDOM Workshop on McMc Methodology and Theory (2025)](https://eurandom.tue.nl/event/methodology-and-theory-mcmc/ "This workshop explores Markov chain Monte Carlo (MCMC) methods, covering convergence analysis, sampling techniques, and Bayesian inference. Topics include applications in statistics, machine learning, and physics, emphasizing theoretical and computational advancements in MCMC methodologies."), Eindhoven, The Netherlands.
+2025-12-10 to 12: [EURANDOM Workshop on McMc Methodology and Theory (2025)](https://www.eurandom.tue.nl/event/methodology-and-theory-mcmc/ "This workshop explores Markov chain Monte Carlo (MCMC) methods, covering convergence analysis, sampling techniques, and Bayesian inference. Topics include applications in statistics, machine learning, and physics, emphasizing theoretical and computational advancements in MCMC methodologies."), Eindhoven, The Netherlands.
 
 2026-01-19 to 23: [CIRM Research School Random Walks, Applications and Interactions (2026)](https://conferences.cirm-math.fr/3451.html "Covers random walks and their applications. Topics include stochastic processes, Markov chains, and interactions with physics, biology, and network science."), Marseille, France.
 

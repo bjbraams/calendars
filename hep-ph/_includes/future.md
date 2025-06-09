@@ -210,7 +210,7 @@
 
 2025-07-07 to 2025-07-11: [QCD 25: 40th Anniversary](https://qcd25.sciencesconf.org/ "Celebrating 40 years, QCD 25 explores quantum chromodynamics advancements. Topics include lattice QCD, jet physics, and quark-gluon plasma. Discussions cover experimental results from LHC and theoretical developments, advancing strong interaction physics."), Montpellier, France.
 
-2025-07-07 to 2025-07-18: [NBIA PhD Summer School on Neutrinos: Here, There & Everywhere](https://www.nbi.ku.dk/english/news/calendar/events/nbia_phd_summer_school_2025/ "The summer school trains PhD students in neutrino physics, covering astrophysical and terrestrial contexts. Topics include neutrino oscillations, neutrinoless double-beta decay, and cosmological neutrinos. Lectures emphasize experimental techniques and theoretical models for neutrino properties."), Copenhagen, Denmark.
+2025-07-07 to 2025-07-18: [NBIA PhD Summer School on Neutrinos: Here, There & Everywhere](https://nbi.ku.dk/english/news/calendar/events/nbia_phd_summer_school_2025/ "The summer school trains PhD students in neutrino physics, covering astrophysical and terrestrial contexts. Topics include neutrino oscillations, neutrinoless double-beta decay, and cosmological neutrinos. Lectures emphasize experimental techniques and theoretical models for neutrino properties."), Copenhagen, Denmark.
 
 2025-07-07 to 2025-07-24: [New Ways to Discover Light New Physics](https://www.mitp.uni-mainz.de/light-new-physics-2025/ "The program explores new methods to detect light new physics, focusing on particle physics. Topics include dark photons, axions, and low-energy experiments. Discussions cover theoretical models and experimental results from Belle II, advancing beyond-Standard-Model physics."), Mainz, Germany.
 

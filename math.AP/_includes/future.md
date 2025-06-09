@@ -100,7 +100,7 @@
 
 2025-09-09 to 13: [Workshop Diffusion in Warsaw (2025)](https://evolutionarypdes2025.icm.edu.pl/diffusion-in-warsaw/ "This workshop explores diffusion processes, covering stochastic PDEs, random walks, and diffusion equations. Topics include applications in physics, biology, and finance, emphasizing probabilistic and analytical methods for modeling diffusive phenomena in stochastic systems."), Warsaw, Poland.
 
-2025-09-15 to 17: [EuroMech Colloquium 658 on Coherent Structures and Instabilities in Transitional and Turbulent Wall-Bounded Flows (2025)](http://658.euromech.org/ "Focuses on coherent structures in wall-bounded turbulent flows. Topics include instability analysis, computational fluid dynamics, and applications in aerodynamics and engineering."), Bari, Italy.
+2025-09-15 to 17: [EuroMech Colloquium 658 on Coherent Structures and Instabilities in Transitional and Turbulent Wall-Bounded Flows (2025)](https://658.euromech.org/ "Focuses on coherent structures in wall-bounded turbulent flows. Topics include instability analysis, computational fluid dynamics, and applications in aerodynamics and engineering."), Bari, Italy.
 
 2025-09-22 to 26: [5th Young Applied Mathematicians Conference (YAMC 2025)](https://yamc.it "YAMC 2025 focuses on applied mathematics, covering numerical analysis, optimization, and mathematical modeling. Topics include applications in physics, biology, and engineering, emphasizing computational and analytical methods for young researchers in applied mathematical sciences."), Padua, Italy.
 

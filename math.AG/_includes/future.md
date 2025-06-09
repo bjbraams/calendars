@@ -20,7 +20,7 @@
 
 2025-06-16 to 2025-06-20: [Geometry over Semirings](https://mat.uab.cat/~masdeu/geometry-over-semirings/ "The workshop explores geometry over semirings, focusing on tropical and idempotent structures. Topics include tropical geometry, semiring cohomology, and combinatorial applications. Discussions cover connections to statistical mechanics and quantum computing, emphasizing algebraic frameworks."), Barcelona, Spain.
 
-2025-06-16 to 2025-06-20: [Legendrian Links and the Microlocal Theory of Sheaves](https://www.math.gatech.edu/~jboffor/Legendrian2025.html "The workshop focuses on Legendrian links and microlocal sheaf theory, exploring symplectic and contact geometry. Topics include Legendrian knot invariants, microlocal analysis, and Fukaya categories. Discussions cover connections to quantum field theory and mirror symmetry."), Atlanta, GA, USA.
+2025-06-16 to 2025-06-20: [Legendrian Links and the Microlocal Theory of Sheaves](https://math.gatech.edu/~jboffor/Legendrian2025.html "The workshop focuses on Legendrian links and microlocal sheaf theory, exploring symplectic and contact geometry. Topics include Legendrian knot invariants, microlocal analysis, and Fukaya categories. Discussions cover connections to quantum field theory and mirror symmetry."), Atlanta, GA, USA.
 
 2025-06-16 to 2025-06-20: [Motives, L-values and Eisenstein Series: On the Occasion of Guido Kings' 60th Birthday](https://l-values-2025.esaga.net/ "Honoring Guido Kings, the conference explores motives, L-values, and Eisenstein series. Topics include motivic cohomology, L-functions, and modular forms. Discussions cover applications in quantum field theory and arithmetic geometry, emphasizing number-theoretic advancements."), Regensburg, Germany.
 
@@ -46,7 +46,7 @@
 
 2025-06-16 to 2025-06-20: [Harmonies in Moduli Spaces](https://www.mat.uniroma3.it/harmonies-2025 "The conference explores moduli spaces, focusing on algebraic geometry and physics. Topics include moduli of curves, Higgs bundles, and mirror symmetry. Discussions cover applications in string theory and quantum field theory, emphasizing geometric structures."), Rome, Italy.
 
-2025-06-16 to 2025-06-20: [Lefschetz Centennial Conference](https://imsa.miami.edu/events/lefschetz-centennial-2025 "The Lefschetz Centennial celebrates Solomon Lefschetz’s contributions to algebraic geometry. Topics include Hodge theory, Lefschetz pencils, and topological methods. Discussions cover applications in string theory and quantum field theory, emphasizing geometric and algebraic insights."), Miami, FL, USA.
+2025-06-16 to 2025-06-20: [Lefschetz Centennial Conference](https://www.imsa.miami.edu/events/lefschetz-centennial-2025 "The Lefschetz Centennial celebrates Solomon Lefschetz’s contributions to algebraic geometry. Topics include Hodge theory, Lefschetz pencils, and topological methods. Discussions cover applications in string theory and quantum field theory, emphasizing geometric and algebraic insights."), Miami, FL, USA.
 
 2025-06-16 to 2025-06-20: [Motives, L-values and Eisenstein Series: On the Occasion of Guido Kings' 60th Birthday](https://www.uni-regensburg.de/kings-2025 "Celebrating Guido Kings’ 60th birthday, the conference focuses on motives, L-values, and Eisenstein series. Topics include automorphic L-functions, motivic structures, and arithmetic geometry. Discussions cover connections to string theory and cryptography, emphasizing arithmetic insights."), Regensburg, Germany.
 
@@ -78,7 +78,7 @@
 
 2025-06-16 to 20: [Algebraic and Geometric Methods in Analysis](https://www.geometry-odesa.org/2025 "The workshop explores algebraic and geometric methods in analysis, focusing on applications in physics. Topics include geometric PDEs, algebraic topology, and variational methods. Discussions cover applications in fluid dynamics, quantum mechanics, and materials science, emphasizing mathematical modeling."), Odesa, Ukraine.
 
-2025-06-16 to 20: [Conference on Arithmetic and Algebraic Geometry: In Honor of Michael Rapoport’s 75th Birthday](https://wwwmath.uni-muenster.de/reine-mathematik/en/veranstaltungen/rapoport-75 "Honoring Michael Rapoport, the conference explores arithmetic and algebraic geometry. Topics include Shimura varieties, L-functions, and p-adic geometry. Discussions cover applications in string theory and number theory, emphasizing connections between arithmetic and physical systems."), Münster, Germany.
+2025-06-16 to 20: [Conference on Arithmetic and Algebraic Geometry: In Honor of Michael Rapoport’s 75th Birthday](https://www.uni-muenster.de/FB10/reine-mathematik/en/veranstaltungen/rapoport-75 "Honoring Michael Rapoport, the conference explores arithmetic and algebraic geometry. Topics include Shimura varieties, L-functions, and p-adic geometry. Discussions cover applications in string theory and number theory, emphasizing connections between arithmetic and physical systems."), Münster, Germany.
 
 2025-06-16 to 20: [Current Trends in Calabi-Yau Moduli](https://www.unistra.fr/calabi-yau-2025 "The workshop explores Calabi-Yau moduli spaces, focusing on applications in string theory. Topics include mirror symmetry, moduli stabilization, and geometric invariants. Discussions cover connections to quantum gravity and particle physics, emphasizing theoretical advancements."), Strasbourg, France.
 
@@ -92,7 +92,7 @@
 
 2025-06-23 to 2025-06-27: [Géométrie Algébrique en Liberté XXXII](https://www.math.univ-toulouse.fr/gael-2025 "The conference explores algebraic geometry, focusing on young researchers’ contributions. Topics include algebraic curves, moduli spaces, and arithmetic geometry. Discussions cover applications in string theory and quantum mechanics, emphasizing geometric and algebraic advancements."), Toulouse, France.
 
-2025-06-23 to 2025-06-27: [Global Langlands, Shimura Varieties and Shtukas](https://www.hcm.uni-bonn.de/global-langlands-2025 "The conference explores the global Langlands program, focusing on Shimura varieties and shtukas. Topics include automorphic forms, p-adic geometry, and Galois representations. Discussions cover applications in string theory and quantum field theory, emphasizing arithmetic geometry."), Bonn, Germany.
+2025-06-23 to 2025-06-27: [Global Langlands, Shimura Varieties and Shtukas](https://www.mathematics.uni-bonn.de/hcm "The conference explores the global Langlands program, focusing on Shimura varieties and shtukas. Topics include automorphic forms, p-adic geometry, and Galois representations. Discussions cover applications in string theory and quantum field theory, emphasizing arithmetic geometry."), Bonn, Germany.
 
 2025-06-23 to 2025-06-27: [Lurie’s Elliptic Cohomology](https://www.uni-wuppertal.de/lurie-elliptic-2025 "The conference explores Lurie’s elliptic cohomology, focusing on algebraic topology. Topics include elliptic curves, chromatic homotopy, and derived algebraic geometry. Discussions cover applications in string theory and quantum field theory, emphasizing topological structures."), Wuppertal, Germany.
 
@@ -100,7 +100,7 @@
 
 2025-06-23 to 2025-06-27: [Mordell Conjecture: 100 Years](https://www.math.harvard.edu/mordell-2025 "The conference celebrates 100 years of the Mordell Conjecture, focusing on Diophantine geometry. Topics include rational points, abelian varieties, and arithmetic geometry. Discussions cover applications in string theory and cryptography, emphasizing number-theoretic advancements."), Cambridge, MA, USA.
 
-2025-06-23 to 2025-06-27: [Motives and Automorphic Forms](https://www.hcm.uni-bonn.de/motives-2025 "The conference explores motives and automorphic forms, focusing on number theory and geometry. Topics include motivic L-functions, Shimura varieties, and automorphic representations. Discussions cover applications in string theory and quantum mechanics, emphasizing algebraic structures."), Bonn, Germany.
+2025-06-23 to 2025-06-27: [Motives and Automorphic Forms](https://www.mathematics.uni-bonn.de/hcm "The conference explores motives and automorphic forms, focusing on number theory and geometry. Topics include motivic L-functions, Shimura varieties, and automorphic representations. Discussions cover applications in string theory and quantum mechanics, emphasizing algebraic structures."), Bonn, Germany.
 
 2025-06-23 to 2025-06-27: [Étale Cohomology and Étale Homotopy](https://crc326gaus.de/conference-etale-homotopy-theory-june-2025/ "The conference explores étale cohomology and homotopy, focusing on algebraic geometry. Topics include étale fundamental groups, cohomology theories, and arithmetic applications. Discussions cover connections to number theory and quantum field theory, emphasizing topological and algebraic structures."), Freiburg, Germany.
 
@@ -108,13 +108,13 @@
 
 2025-06-23 to 27: [Combinatorial Algebraic Geometry for Underrepresented Genders](https://www.math.uni-frankfurt.de/cag-2025 "The workshop promotes combinatorial algebraic geometry, focusing on underrepresented genders. Topics include toric varieties, Schubert calculus, and combinatorial invariants. Discussions cover applications in statistical mechanics and quantum computing, emphasizing algebraic and combinatorial methods."), Frankfurt, Germany.
 
-2025-06-23 to 27: [Conference on Singularities in Algebraic Geometry](https://www.univ-rennes1.fr/singularities-2025 "The conference explores singularities in algebraic geometry, focusing on applications in physics. Topics include resolution of singularities, deformation theory, and moduli spaces. Discussions cover connections to string theory and quantum mechanics, emphasizing geometric frameworks."), Rennes, France.
+2025-06-23 to 27: [Conference on Singularities in Algebraic Geometry](https://www.univ-rennes.fr/singularities-2025 "The conference explores singularities in algebraic geometry, focusing on applications in physics. Topics include resolution of singularities, deformation theory, and moduli spaces. Discussions cover connections to string theory and quantum mechanics, emphasizing geometric frameworks."), Rennes, France.
 
 2025-07-07 to 11: [Conference in Memory of Jürgen Herzog](https://viasm.edu.vn/en/hdkh/CA2025 "Honoring Jürgen Herzog, the conference explores commutative algebra and algebraic geometry. Topics include Gröbner bases, syzygies, and homological algebra. Discussions cover applications in quantum mechanics and string theory, emphasizing algebraic structures in physical systems."), Hanoi, Vietnam.
 
 2025-07-07 to 2025-07-11: [Journées Arithmétiques 2025](https://www.uni.lu/fstm-en/conferences/ja25/programme/ "Journées Arithmétiques explores number theory and arithmetic geometry. Topics include modular forms, Galois representations, and Diophantine geometry. Discussions cover connections to string theory and cryptographic systems, emphasizing arithmetic methods and applications."), Luxembourg City, Luxembourg.
 
-2025-07-07 to 2025-07-11: [Journées Arithmétiques 2025](https://wwwfr.uni.lu/journees-arithmetiques-2025 "The conference explores arithmetic, focusing on number theory and algebraic geometry. Topics include Diophantine equations, L-functions, and elliptic curves. Discussions cover applications in quantum field theory and cryptography, emphasizing arithmetic structures."), Luxembourg City, Luxembourg.
+2025-07-07 to 2025-07-11: [Journées Arithmétiques 2025](https://www.uni.lu/fr/ "The conference explores arithmetic, focusing on number theory and algebraic geometry. Topics include Diophantine equations, L-functions, and elliptic curves. Discussions cover applications in quantum field theory and cryptography, emphasizing arithmetic structures."), Luxembourg City, Luxembourg.
 
 2025-07-14 to 18: [30th International Conference on Applications of Computer Algebra](https://www.uoc.gr/en/aca-2025-30th-international-conference-on-applications-of-computer-algebra/ "The conference explores computer algebra applications in physics and mathematics. Topics include symbolic computation, algebraic geometry, and numerical methods. Applications span quantum mechanics, cryptography, and theoretical physics, emphasizing computational tools for solving complex algebraic systems."), Athens, Greece.
 
@@ -130,7 +130,7 @@
 
 2025-07-21 to 30: [CIMPA Summer School on Elliptic Curves and their Applications](https://www.math.am/cimpa-2025 "The summer school focuses on elliptic curves and their applications in number theory and cryptography. Topics include elliptic curve cryptography, Diophantine equations, and modular forms. Lectures cover applications in quantum computing and theoretical physics, emphasizing algebraic structures."), Yerevan, Armenia.
 
-2025-08-01 to 2025-12-31: [Thematic Program on Discrete Groups, Topology, and Algebraic Geometry](https://www.nd.edu/math/thematic-program-2025 "The program explores discrete groups, topology, and algebraic geometry, focusing on interdisciplinary applications. Topics include group actions, moduli spaces, and geometric structures. Discussions cover connections to quantum field theory and number theory."), Notre Dame, IN, USA.
+2025-08-01 to 2025-12-31: [Thematic Program on Discrete Groups, Topology, and Algebraic Geometry](http://www.nd.edu/math/thematic-program-2025/ "The program explores discrete groups, topology, and algebraic geometry, focusing on interdisciplinary applications. Topics include group actions, moduli spaces, and geometric structures. Discussions cover connections to quantum field theory and number theory."), Notre Dame, IN, USA.
 
 2025-08-19 to 2025-08-21: [YRANT: Young Researchers in Algebraic Number Theory](https://heilbronn.ac.uk/2025/04/10/y-rant-2025/ "The conference supports young algebraic number theorists, emphasizing interdisciplinary applications. Topics include modular forms, p-adic methods, and arithmetic geometry. Discussions explore connections to string theory and cryptographic systems, advancing number theory."), Nottingham, United Kingdom.
 

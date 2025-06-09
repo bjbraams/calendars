@@ -6,7 +6,7 @@
 
 2025-10-29 to 31: [7th International Conference on Geometric Science of Information (GSI 2025)](https://conference-gsi.org "GSI 2025 focuses on geometric science of information, covering information geometry, manifold learning, and statistical inference. Topics include applications in machine learning, signal processing, and neuroscience, emphasizing geometric and computational methods for information processing and analysis."), Saint Malo, France.
 
-2025-12-14 to 19: [44th International Workshop on Bayesian Inference and Maximum Entropy Methods in Science and Engineering (MaxEnt 2025)](https://maxent2025.co.nz "MaxEnt 2025 explores Bayesian inference and maximum entropy methods, covering probabilistic modeling and information theory. Topics include applications in physics, engineering, and data science, emphasizing statistical techniques for uncertainty quantification and optimal inference in complex systems."), Auckland, New Zealand.
+2025-12-14 to 19: [44th International Workshop on Bayesian Inference and Maximum Entropy Methods in Science and Engineering (MaxEnt 2025)](https://www.maxent2025.co.nz/ "MaxEnt 2025 explores Bayesian inference and maximum entropy methods, covering probabilistic modeling and information theory. Topics include applications in physics, engineering, and data science, emphasizing statistical techniques for uncertainty quantification and optimal inference in complex systems."), Auckland, New Zealand.
 
 2026-03-23 to 27: [CIRM Workshop on Entropy and Random Matrices (2026)](https://conferences.cirm-math.fr/3597.html "Explores entropy and random matrix theory. Topics include information theory, statistical mechanics, and applications in quantum physics and data science."), Marseille, France.
 

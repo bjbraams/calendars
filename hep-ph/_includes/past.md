@@ -6,7 +6,7 @@
 
 2025-03-03 to 07: [A. N. Mitra Memorial Meeting and Lecture](https://asokenathmitra.github.io/ "The meeting honors A. N. Mitra, focusing on particle and nuclear physics. Topics include hadron physics, QCD, and nuclear interactions. Discussions cover theoretical advancements and experimental results from colliders, emphasizing contributions to strong interaction physics."), Delhi, India.
 
-2025-03-03 to 2025-03-07: [IITGN Flavour Physics Week 2025](https://www.iitgn.ac.in/events/flavour-physics-week-2025 "The workshop explores flavour physics, focusing on quark and lepton interactions. Topics include CP violation, rare decays, and neutrino oscillations. Discussions cover experimental results from Belle II and LHCb, advancing theoretical particle physics."), Gandhinagar, India.
+2025-03-03 to 2025-03-07: [IITGN Flavour Physics Week 2025](https://iitgn.ac.in/events/flavour-physics-week-2025 "The workshop explores flavour physics, focusing on quark and lepton interactions. Topics include CP violation, rare decays, and neutrino oscillations. Discussions cover experimental results from Belle II and LHCb, advancing theoretical particle physics."), Gandhinagar, India.
 
 2025-03-03 to 2025-03-07: [XXI International Workshop on Neutrino Telescopes](https://neutel25.pd.infn.it/ "Neutel 25 explores neutrino physics, focusing on experimental and theoretical advances. Topics include neutrino oscillations, sterile neutrinos, and cosmological neutrinos. Discussions cover data from DUNE and IceCube, advancing neutrino research."), Venice, Italy.
 
@@ -48,7 +48,7 @@
 
 2025-05-05 to 2025-05-09: [Phenomenology 2025 Symposium](https://pheno.pitt.edu/ "PHENO 2025 explores particle physics phenomenology, focusing on experimental and theoretical advancements. Topics include Higgs physics, dark matter, and flavor anomalies. Discussions cover LHC data and beyond-Standard-Model predictions, advancing particle physics insights."), Pittsburgh, PA, USA.
 
-2025-05-12 to 14: [5th Annual EuCAPT Symposium](https://eucapt.org/events/eucapt-symposium-2025/ "The EuCAPT Symposium explores astroparticle physics and cosmology, focusing on dark matter and early universe physics. Topics include axion searches, cosmic microwave background, and gravitational lensing. Discussions integrate observational data and theoretical models for cosmological phenomena."), Paris, France.
+2025-05-12 to 14: [5th Annual EuCAPT Symposium](https://www.eucapt.org/events/eucapt-symposium-2025 "The EuCAPT Symposium explores astroparticle physics and cosmology, focusing on dark matter and early universe physics. Topics include axion searches, cosmic microwave background, and gravitational lensing. Discussions integrate observational data and theoretical models for cosmological phenomena."), Paris, France.
 
 2025-05-12 to 16: [CERN TH Institute on Quantum Simulation and Computation in High Energy Physics](https://indico.cern.ch/event/1402313/ "The institute explores quantum simulation and computation in high-energy physics, focusing on quantum algorithms for particle interactions. Topics include quantum Monte Carlo, lattice gauge theories, and quantum computing for LHC data. Discussions advance quantum technologies for physics research."), CERN, Geneva, Switzerland.
 

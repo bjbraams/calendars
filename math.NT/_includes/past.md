@@ -4,7 +4,7 @@
 
 2025-02-24 to 28: [Algebraic Points on Curves](https://icerm.brown.edu/program/topical_workshop/tw-25-apc "The workshop explores algebraic points on curves, focusing on arithmetic geometry. Topics include rational points, elliptic curves, and Diophantine equations. Discussions cover applications in quantum field theory and cryptography, emphasizing mathematical structures in physical systems."), Providence, RI, USA.
 
-2025-02-24 to 28: [Algebraic Points on Curves](https://icerm.brown.edu/programs/sp-s25/wk1/ "The workshop focuses on algebraic points on curves, exploring arithmetic geometry. Topics include rational points, elliptic curves, and Diophantine equations. Discussions cover applications in quantum field theory and cryptography, emphasizing mathematical structures in physical systems."), Providence, RI, USA.
+2025-02-24 to 28: [Algebraic Points on Curves](https://icerm.brown.edu/program/semester_program_workshop/sp-s25-wk1/ "The workshop focuses on algebraic points on curves, exploring arithmetic geometry. Topics include rational points, elliptic curves, and Diophantine equations. Discussions cover applications in quantum field theory and cryptography, emphasizing mathematical structures in physical systems."), Providence, RI, USA.
 
 2025-03-08 to 12: [Arizona Winter School: Unlikely Intersections](https://swc.math.arizona.edu/aws/2025/ "The winter school explores unlikely intersections in arithmetic geometry, focusing on Diophantine problems. Topics include rational points, algebraic cycles, and intersection theory. Lectures cover applications in quantum field theory and number theory, emphasizing geometric methods."), Tucson, AZ, USA.
 
@@ -38,5 +38,5 @@
 
 2025-06-02 to 2025-06-06: [Real Algebraic Geometry and Birational Geometry](https://conferences.cirm-math.fr/2877.html "The conference explores real algebraic and birational geometry, focusing on real varieties and birational maps. Topics include real singularities, Nash blow-ups, and Diophantine approximations. Discussions cover applications in string theory and arithmetic geometry, emphasizing geometric structures."), Marseille, France.
 
-2025-06-02 to 2025-06-06: [Statistics of Class Groups and Number Fields](https://www.math.ethz.ch/fim/conferences/statistics-2025.html "The conference explores statistical properties of class groups and number fields, focusing on arithmetic applications. Topics include Cohen-Lenstra heuristics, ideal distributions, and random matrices. Discussions cover connections to quantum chaos and cryptography."), Zurich, Switzerland.
+2025-06-02 to 2025-06-06: [Statistics of Class Groups and Number Fields](https://math.ethz.ch/fim/conferences/statistics-2025.html "The conference explores statistical properties of class groups and number fields, focusing on arithmetic applications. Topics include Cohen-Lenstra heuristics, ideal distributions, and random matrices. Discussions cover connections to quantum chaos and cryptography."), Zurich, Switzerland.
 

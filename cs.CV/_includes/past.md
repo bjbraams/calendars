@@ -6,7 +6,7 @@
 
 2025-04-01 to 02: [Computational Techniques and Imaging Innovations in the Age of AI (CTAIA 2025)](https://ctiai.github.io/ "Focuses on AI-driven computational techniques for imaging. Topics include machine learning for image reconstruction, inverse problems, and applications in medical imaging, computer vision, and scientific visualization."), London, UK.
 
-2025-04-05 to 06: [IEEE 4th International Conference on Computing and Machine Intelligence (ICMI 2025)](https://icmiconf.com "ICMI 2025 focuses on computing and machine intelligence, covering deep learning, computer vision, and natural language processing. Topics include federated learning, AI ethics, and applications in healthcare and robotics, emphasizing innovative algorithms and intelligent systems design."), Mount Pleasant, MI, USA.
+2025-04-05 to 06: [IEEE 4th International Conference on Computing and Machine Intelligence (ICMI 2025)](https://www.icmiconf.com/ "ICMI 2025 focuses on computing and machine intelligence, covering deep learning, computer vision, and natural language processing. Topics include federated learning, AI ethics, and applications in healthcare and robotics, emphasizing innovative algorithms and intelligent systems design."), Mount Pleasant, MI, USA.
 
 2025-04-14 to 17: [IEEE International Symposium on Biomedical Imaging (ISBI 2025)](https://biomedicalimaging.org/2025/ "ISBI 2025 explores biomedical imaging, focusing on computational techniques for image analysis and reconstruction. Topics include deep learning, image segmentation, and multimodal imaging, with applications in MRI, CT, and microscopy, emphasizing advancements in medical diagnostics and research."), Houston, TX, USA.
 
