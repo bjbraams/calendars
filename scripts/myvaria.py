@@ -30,7 +30,9 @@ def get_url_status(url: str, timeout: int = 10) -> dict:
         # Perform the request without following redirects
         response = requests.head(url, timeout=timeout, allow_redirects=False)
         result['code'] = response.status_code
-        if 300 <= response.status_code < 400:
+        if 200 <= response.status_code < 300:
+            result['type'] = "OK"
+        elif 300 <= response.status_code < 400:
             # It's a redirect!
             result['type'] = f"Redirect ({response.status_code})"
             # Get the destination from the 'Location' header
@@ -40,8 +42,6 @@ def get_url_status(url: str, timeout: int = 10) -> dict:
                 result['dest'] = urljoin(url, destination_url)
             else:
                 result['dest'] = "N/A (Location header missing)"
-        elif 200 <= response.status_code < 300:
-            result['type'] = "OK"
         elif 400 <= response.status_code < 500:
             result['type'] = "Client Error"
         elif 500 <= response.status_code < 600:
@@ -50,7 +50,7 @@ def get_url_status(url: str, timeout: int = 10) -> dict:
             result['type'] = "Other Status"
     except requests.exceptions.Timeout:
         result['type'] = "Timeout Error"
-        result['code'] = 0 # Consistent with connection errors
+        result['code'] = 0
     except requests.exceptions.ConnectionError:
         result['type'] = "Connection Error"
         result['code'] = 0

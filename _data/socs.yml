@@ -1,111 +1,111 @@
 agu.org:
   name: American Geophysical Union (AGU) Events Calendar
-  link: https://www.agu.org/events/calendar
+  url: https://www.agu.org/events/calendar
 ams.org:
   name: American Mathematical Society (AMS) Meetings and Conferences
-  link: https://www.ams.org/meetings
+  url: https://www.ams.org/meetings
 ans.org:
   name: American Nuclear Society (ANS) Meetings
-  link: https://www.ans.org/meetings/
+  url: https://www.ans.org/meetings/
 aps.org:
   name: American Physical Society (APS) Meetings & Events
-  link: https://www.aps.org/meetings/
+  url: https://www.aps.org/meetings/
 engage.aps.org:
   name: American Physical Society Division of Nuclear Physics Meeting List
-  link: https://engage.aps.org/dnp/meetings/upcoming
+  url: https://engage.aps.org/dnp/meetings/upcoming
 ww2.amstat.org:
   name: American Statistical Association (ASA) Calendar of Events
-  link: https://ww2.amstat.org/dateline/
+  url: https://ww2.amstat.org/dateline/
 dl.acm.org:
   name: Association for Computing Machinery (ACM) Upcoming Conferences
-  link: https://dl.acm.org/conferences/upcoming
+  url: https://dl.acm.org/conferences/upcoming
 aappsdpp.org:
   name: Association of Asia Pacific Physical Societies Division of Plasma Physics (AAPPSDPPF) Meetings List
-  link: https://www.aappsdpp.org/AAPPSDPPF/Meetings.html
+  url: https://www.aappsdpp.org/AAPPSDPPF/Meetings.html
 aip.org:
   name: Australian Institute of Physics (AIP) Conferences
-  link: https://www.aip.org/conferences
+  url: https://www.aip.org/conferences
 bernoullisociety.org:
   name: Bernoulli Society for Mathematical Statistics and Probability (Bernoulli Society) Meetings and Conferences
-  link: https://www.bernoullisociety.org/meetings
+  url: https://www.bernoullisociety.org/meetings
 cecam.org:
   name: Centre Européen De Calcul Atomique Et Moléculaire (CECAM) Program
-  link: https://www.cecam.org/program
+  url: https://www.cecam.org/program
 euchems.eu:
   name: European Chemical Society Division of Physical Chemistry (EuChemS DPC) Supported Upcoming Conferences
-  link: https://www.euchems.eu/divisions/physical-chemistry-2/conferences/
+  url: https://www.euchems.eu/divisions/physical-chemistry-2/conferences/
 euromech.org:
   name: European Mechanics Societies (EUROMECH) Colloquia
-  link: https://euromech.org/colloquia
+  url: https://euromech.org/colloquia
 eps.org:
   name: European Physical Society (EPS) Conference Listings
-  link: https://www.eps.org/page/events
+  url: https://www.eps.org/page/events
 computer.org:
   name: IEEE Computer Society Conferences
-  link: https://www.computer.org/conferences/calendar
+  url: https://www.computer.org/conferences/calendar
 itsoc.org:
   name: IEEE Information Theory Society Events of Interest to Members
-  link: https://www.itsoc.org/news-events/upcoming-events
+  url: https://www.itsoc.org/news-events/upcoming-events
 ieee-npss.org:
   name: IEEE Nuclear and Plasma Sciences Society Sponsored and Cosponsored Events
-  link: https://ieee-npss.org/conferences/
+  url: https://ieee-npss.org/conferences/
 signalprocessingsociety.org:
   name: IEEE Signal Processing Society Upcoming Conferences & Events
-  link: https://signalprocessingsociety.org/events/attend-an-event
+  url: https://signalprocessingsociety.org/events/attend-an-event
 informs.org:
   name: Institute for Operations Research and the Management Sciences (INFORMS) Meetings and Conferences
-  link: https://www.informs.org/Meetings-Conferences
+  url: https://www.informs.org/Meetings-Conferences
 ieee.org:
   name: Institute of Electrical and Electronics Engineers (IEEE) All Conferences
-  link: https://www.ieee.org/conferences/
+  url: https://www.ieee.org/conferences/
 imstat.org:
   name: Institute of Mathematical Statistics (IMS) Meetings Calendar
-  link: https://imstat.org/meetings-calendar/
+  url: https://imstat.org/meetings-calendar/
 iop.org:
   name: Institute of Physics (IOP) Conferences
-  link: https://www.iop.org/events
+  url: https://www.iop.org/events
 iciam.org:
   name: International Council for Industrial and Applied Mathematics (ICIAM) Supported Conferences
-  link: https://iciam.org/list-supported-meetings-and-conferences
+  url: https://iciam.org/list-supported-meetings-and-conferences
 ifip.org:
   name: International Federation for Information Processing (IFIP) Events List
-  link: https://www.ifip.org/listevents/
+  url: https://www.ifip.org/listevents/
 bayesian.org:
   name: International Society for Bayesian Analysis (ISBA) Upcoming Events (Own and Other)
-  link: https://bayesian.org/events/upcoming-meetings/
+  url: https://bayesian.org/events/upcoming-meetings/
 isi-web.org:
   name: International Statistical Institute (ISI) Calendar of Upcoming Events
-  link: https://isi-web.org/calendar
+  url: https://isi-web.org/calendar
 iupac.org:
   name: International Union of Pure and Applied Chemistry (IUPAC) Endorsed Events
-  link: https://iupac.org/events/
+  url: https://iupac.org/events/
 iupap.org:
   name: International Union of Pure and Applied Physics (IUPAP) Approved Conferences
-  link: https://iupap.org/conferences/approved-conferences-of-the-year/
+  url: https://iupap.org/conferences/approved-conferences-of-the-year/
 iutam.org:
   name: International Union of Theoretical and Applied Mechanics (IUTAM) Symposia and Summer Schools
-  link: https://iutam.org/all-events
+  url: https://iutam.org/all-events
 iasc-isi.org:
   name: ISI International Association for Statistical Computing (ISI-IASC) Events List
-  link: https://iasc-isi.org/events-all/
+  url: https://iasc-isi.org/events-all/
 mathopt.org:
   name: Mathematical Optimization Society Events List
-  link: https://www.mathopt.org/?nav=meetings
+  url: https://www.mathopt.org/?nav=meetings
 nupecc.org:
   name: Nuclear Physics European Collaboration Committee (NUPECC) Conference List
-  link: https://nupecc.org/?display=events
+  url: https://nupecc.org/?display=events
 psi-k.net:
   name: Psi-K Funded Workshops
-  link: https://psi-k.net/workshops/
+  url: https://psi-k.net/workshops/
 rsc.org:
   name: Royal Society of Chemistry (RSC) Events List
-  link: https://www.rsc.org/events/
+  url: https://www.rsc.org/events/
 rsc.org:
   name: RSC Events Physical Chemistry
-  link: https://www.rsc.org/events/subject/physical
+  url: https://www.rsc.org/events/subject/physical
 siam.org:
   name: Society for Industrial and Applied Mathematics (SIAM) Conferences
-  link: https://www.siam.org/conferences-events/
+  url: https://www.siam.org/conferences-events/
 asme.org:
   name: The American Society of Mechanical Engineers (ASME) Conferences and Other Events
-  link: https://www.asme.org/conferences-events
+  url: https://www.asme.org/conferences-events

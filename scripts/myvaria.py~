@@ -1,8 +1,0 @@
-import requests
-
-def get_url_status_code(url: str, timeout: int = 10) -> int:
-    try:
-        response = requests.head(url, timeout=timeout, allow_redirects=True)
-        return response.status_code
-    except requests.exceptions.RequestException:
-        return 0
