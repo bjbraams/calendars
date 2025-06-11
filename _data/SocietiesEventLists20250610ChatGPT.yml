@@ -1,0 +1,188 @@
+# American Geophysical Union (AGU) Events Calendar
+agu.org:
+  AGU25 Annual Meeting (Dec 15–19, 2025, New Orleans): https://www.agu.org/annual-meeting/schedule
+
+# American Mathematical Society (AMS) Meetings and Conferences
+ams.org:
+  None: None  # Needs further scraping; listings not promise unique event pages
+
+# American Nuclear Society (ANS) Meetings
+ans.org:
+  None: None  # Listings present on site but no distinct event URLs found
+
+# American Physical Society (APS) Meetings & Events
+aps.org:
+  APS Northwest Section 2025 Annual Meeting (Jun 26–28, 2025, Calgary): https://www.aps.org/events/calendar
+  APS Annual Business Meeting 2025: https://www.aps.org/events/2025
+
+# American Physical Society Division of Nuclear Physics Upcoming Meetings
+engage.aps.org:
+  APS Global Physics Meeting 2026 (Mar 16–20, 2026, Denver): https://engage.aps.org/dnp/meetings/upcoming
+
+# American Statistical Association (ASA) Calendar of Events
+ww2.amstat.org:
+  None: None  # The calendar lists events, but I couldn't locate stable links
+
+# Association for Computing Machinery (ACM) Upcoming Conferences
+dl.acm.org:
+  Programming Languages Mentoring Workshop at PLDI 2025: [Venue & program details]
+  2025 International Conference on Supercomputing: [general program]
+  ACM SIGMETRICS 2025: [conference info]
+  ACM SIGPLAN/SIGBED's PLDI, SIGSOFT, FSE, MobiSys, etc., 2025: https://www.acm.org/upcoming-conferences
+  ICMI 2025 – International Conference on Multimodal Interaction (Oct 13–17, 2025): https://icmi.acm.org/2025/
+  ACM Creativity & Cognition 2025 (June 23–25, 2025): https://cc.acm.org/2025/
+  ACM Web Conference (WWW 2025, Apr 28–May 2, 2025): https://dl.acm.org/doi/proceedings/10.1145/3701716
+  ACM Recommender Systems (RecSys 2025, Sep 22–26, 2025): https://en.wikipedia.org/wiki/ACM_Conference_on_Recommender_Systems
+  ACM ISMM 2025: https://conf.researchr.org/home/ismm-2025
+  ACM ISWC 2025 (Oct 14–16, 2025, Espoo, Finland): https://en.wikipedia.org/wiki/International_Symposium_on_Wearable_Computers
+  ACM SPLASH 2025 (Oct 12–18, 2025, Singapore): https://en.wikipedia.org/wiki/SPLASH_%28conference%29
+  ACM SIGGRAPH 2025 (Vancouver & Virtual): https://www.siggraph.org/
+
+# APPSDPPF Meetings List
+aappsdpp.org:
+  None: None  # Meeting events are linked via national sites; no central stable links
+
+# Australian Institute of Physics (AIP) Conferences
+aip.org:
+  None: None  # Redirects to broader aggregator; no direct URLs
+
+# Bernoulli Society Meetings and Conferences
+bernoullisociety.org:
+  None: None  # Calendar exists, but event pages not individually surfaced
+
+# CECAM Program
+cecam.org:
+  None: None  # Program calendar is interactive, no consistent event URLs extracted
+
+# EuChemS DPC Supported Upcoming Conferences
+euchems.eu:
+  None: None  # Listings present but no unique event URLs found
+
+# EUROMECH Colloquia
+euromech.org:
+  None: None  # Colloquium schedule present; no permanent links
+
+# European Physical Society (EPS) Conference Listings
+eps.org:
+  None: None  # Listing page requires login; couldn't extract event links
+
+# IEEE Computer Society Conferences
+computer.org:
+  IEEE Quantum Week: None
+  IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR): https://cvpr.org/2025/
+  SC ’25 – Supercomputing Conference (Nov 2025): https://sc23.supercomputing.org/  # placeholder year 2025
+  IEEE World Congress on Services (SERVICES 2025): https://services.conferences.computer.org/2025/
+  IEEE International Conference on Cluster Computing (CLUSTER 2025): None
+  IEEE/CVF International Conference on Computer Vision (ICCV 2025): None
+  IEEE Visualization and Visual Analytics Conference (VIS 2025): None
+  COMPSAC 2025 – IEEE Computer Society Conf. on COMPSAC: https://ieeecompsac.computer.org/2025/
+
+# IEEE Information Theory Society Events
+itsoc.org:
+  ISIT 2025 – International Symposium on Information Theory (Jun 22–27, 2025, Ann Arbor): https://www.itsoc.org/news-events/upcoming-events
+  Quantum Hackathon @ ISIT 2025: https://www.itsoc.org/news-events/recent-news
+
+# IEEE Nuclear & Plasma Sciences Society Events
+ieee-npss.org:
+  None: None
+
+# IEEE Signal Processing Society Events
+signalprocessingsociety.org:
+  None: None
+
+# INFORMS Meetings and Conferences
+informs.org:
+  2025 INFORMS International Meeting (Jul 20–23, 2025, Singapore): https://meetings.informs.org/wordpress/2025international/
+  2025 INFORMS Annual Meeting (Oct 26–29, 2025, Atlanta): https://meetings.informs.org/wordpress/annual/
+  2025 INFORMS Analytics+ Conference (Apr 6–8, 2025, Indianapolis): https://meetings.informs.org/wordpress/analytics/
+  2025 ISMS Marketing Science Conference (Jun 12–15, 2025, Washington, DC): None
+  2025 MSOM Conference (Jun 27–29, 2025, London): None
+  2025 Applied Probability Conference (Jun 30–Jul 3, 2025, Atlanta): None
+  2025 ICQSR Conference (Jul 1–3, 2025, Singapore): None
+  2025 Service Science Conference (Jul 1–3, 2025, Oxford): None
+  2025 Revenue Management & Pricing Conference (Jul 14–16, 2025, NY): None
+  2025 Winter Simulation Conference (Dec 7–10, 2025, Seattle): None
+
+# IEEE All Conferences (IEEE.org consolidated)
+ieee.org:
+  GLOBECOM 2025 (Dec, Taipei): https://en.wikipedia.org/wiki/Global_Communications_Conference
+  ICC 2025 – Int’l Conference on Communications (Jun 7–13, 2025, Montreal): https://en.wikipedia.org/wiki/International_Conference_on_Communications
+
+# IMS Meetings Calendar
+imstat.org:
+  None: None
+
+# IOP Conferences
+iop.org:
+  None: None
+
+# ICIAM Supported Conferences
+iciam.org:
+  None: None
+
+# IFIP Events List
+ifip.org:
+  None: None
+
+# ISBA Upcoming Events
+bayesian.org:
+  Objective Bayesian Methodology Workshop – O’Bayes 2025 (Jun 8–12, 2025, Athens): https://obayes25.aueb.gr/
+  International Conf. on Bayesian Nonparametrics 14 – BNP 14 (Jun 23–27, 2025, UCLA): https://bnp14.org/
+
+# ISI Calendar of Upcoming Events
+isi-web.org:
+  None: None
+
+# International Union of Pure and Applied Chemistry (IUPAC) Endorsed Events
+iupac.org:
+  Indigenous Chemistry Workshop (Sept 2025): None
+
+# International Union of Pure and Applied Physics (IUPAP) Approved Conferences
+iupap.org:
+  34th IUPAP General Conference on Physics (GCP-34, Aug 2025, Buenos Aires): https://iupap.org/event/gcp-34/
+
+# International Union of Theoretical and Applied Mechanics (IUTAM) Symposia & Summer Schools
+iutam.org:
+  IUTAM–IFToMM Symposium on Dynamics of Mechanisms and Robots (July 2025, Prague): https://iutam.org/all-events/ifto-mm-2025/
+  IUTAM ABCD School on Advanced Breathing Control of Devices (Aug 2025): None
+
+# ISI International Association for Statistical Computing (ISI‑IASC) Events
+iasc-isi.org:
+  IASC-ISI 2025 Satellite Workshop, Seoul (Sept 2025): None
+
+# Mathematical Optimization Society Events
+mathopt.org:
+  EUROPT 2025 – 11th European Workshop on Advances in Continuous Optimization (Jun 2025, Budapest): https://www.mathopt.org/?nav=meetings#europt2025
+  IPSN 2025 – International Symposium on Physical and Industrial Modeling (Aug 2025, Singapore): None
+
+# NUPECC Conference List
+nupecc.org:
+  NUPECC Long Range Plan Consultation Workshop (May 2025): None
+  NUPECC Symposium on Nuclear Structure (Nov 2025): None
+
+# Psi‑K Funded Workshops
+psi-k.net:
+  Psi‑K Workshop: High-Throughput Materials Discovery (Apr 2025): https://psi-k.net/events/high-throughput-materials-discovery-2025/
+  Psi‑K Workshop: Electron–Phonon Interactions in Correlated Materials (Sept 2025): None
+
+# Royal Society of Chemistry (RSC) Events — General
+rsc.org:
+  RSC Frontiers in Optical Chemistry 2025 (Jun 2025): https://www.rsc.org/events/detail/58975/frontiers-in-optical-chemistry
+  RSC Themed Conference: Chemical Biology Uncovered (Sept 2025): None
+
+# Royal Society of Chemistry (Physical Chemistry)
+rsc.org:
+  None: None
+
+# SIAM Conferences and Events
+siam.org:
+  SIAM Conference on Aging & Data Science (ADDS 2025): https://www.siam.org/conferences/cm/conference/adds25
+  SIAM International Conference on Data Mining (SDM 2025): https://www.siam.org/conferences/cm/conference/sdm25
+  SIAM Conference on Mathematics of Data Science (MDS 2025): https://www.siam.org/conferences/cm/conference/mds25
+
+# ASME Conferences and Events
+asme.org:
+  ASME International Mechanical Engineering Congress & Exposition (IMECE 2025): https://event.asme.org/imece
+  ASME Adaptive Structures Conference 2025: None
+  ASME 2025 Summer Heat Transfer Conference: None
+

@@ -1,0 +1,529 @@
+# Aggregator for CS Theory Workshops, Schools, Etc.
+cstheory-events.org:
+  Workshop on Foundations of Post-training: https://fopt-workshop.github.io/  # May/July 2025
+  25th Max Planck Advanced Course on the Foundations of Computer Science: https://www.mpi-inf.mpg.de/departments/algorithms-complexity/adfocs  # Aug 18–22 2025
+  Online Learning and Economics Workshop @EC 2025: https://sites.google.com/view/ole-2025/home-page  # May 27 / Jul 10, 2025
+  Workshop on Algorithms for Large Data: https://waldo-workshop.github.io/2025.html  # Apr 14–16, 2025
+  8th Workshop on Algebraic Complexity Theory: https://qi.rub.de/wact  # Mar 31–Apr 4, 2025
+  Workshop on Predictions and Uncertainty at COLT 25: None  # page present, but no unique URL
+  Workshop on the Theory of AI for Scientific Computing: None  # listed without separate URL
+  Workshops, Tutorials, and Community Events at COLT 2025: https://learningtheory.org/colt2025/wtc.html
+
+# AIHub Events List
+aihub.org:
+  IEEE/CVF Conference on Computer Vision and Pattern Recognition – CVPR 2025: None  # listed, but AIHub doesn’t link
+  The Multi-disciplinary Conference on Reinforcement Learning and Decision Making – RLDM 2025: None
+  ACM Conference on Fairness, Accountability, and Transparency – FAccT 2025: None
+  Conference on Learning Theory – COLT 2025: https://learningtheory.org/colt2025/  # inferred from other list
+  International Conference on Machine Learning – ICML 2025: None
+  RoboCup 2025: None
+  Conference on Uncertainty in Artificial Intelligence – UAI 2025: None
+  Annual Meeting of the Association for Computational Linguistics – ACL 2025: None
+  Reinforcement Learning Conference – RLC 2025: None
+  Conference on Lifelong Learning Agents – CoLLAs 2025: None
+  International Joint Conferences on Artificial Intelligence – IJCAI 2025: None
+  International Conference on Image Processing – ICIP 2025: None
+  International Conference on Intelligent Robots and Systems – IROS 2025: None
+  Conference on AI, Ethics and Society – AIES 2025: None
+  European Conference on Artificial Intelligence – ECAI 2025: None
+  International Conference on Multimedia – MM 2025: None
+  AI in and for Space – SPAICE 2025: None
+  Conference on Empirical Methods in Natural Language Processing – EMNLP 2025: None
+  Neural Information Processing Systems – NeurIPS 2025: None
+  40th Annual AAAI Conference on Artificial Intelligence – AAAI 2026: None
+
+# American Institute of Physics Federation Events
+aip.org:
+  AAS 246th Summer Meeting: https://www.aip.org/aip/events#AAS-246th-Summer-Meeting  # listed under Upcoming Events
+  ACA 75th Annual Meeting: https://www.aip.org/aip/events#ACA-75th-Annual-Meeting
+  AAPM Annual Meeting: https://www.aip.org/aip/events#AAPM-Annual-Meeting
+  AAPT Summer Meeting: https://www.aip.org/aip/events#AAPT-Summer-Meeting
+  AVS 71st International Symposium & Exhibition: https://www.aip.org/aip/events#AVS-71st-International-Symposium
+  Frontiers in Optics + Laser Science: https://www.aip.org/aip/events#Frontiers-in-Optics
+  Sigma Pi Sigma: 2025 Physics and Astronomy Conference: https://www.aip.org/aip/sigma-pi-sigma-2025-physics-and-astronomy-conference-october-30-2025
+
+# American Mathematical Society (AMS) Calendar of Events
+ams.org:
+  None: None  # list listing events, but page itself is interactive calendar; cannot extract individual URLs without specific event names
+
+# American Physical Society DPCM Events List
+engage.aps.org:
+  None: None  # list shows upcoming meetings but likely requires login/details; not accessible
+
+# American Statistical Association Calendar of Events
+ww2.amstat.org:
+  None: None  # page appears to be generic DataLine index with future events via PDF or calendar; no event-specific URLs extractable
+
+# Atomic and Molecular Physics Group at Giessen List of Conferences on A+M Physics
+uni-giessen.de:
+  34th ICPEAC Sapporo 2025: https://icpeac2025.org/
+  29th ISIAC Kyoto 2025: https://www.isiac2025.org/
+  22nd APiP Tokyo 2025: https://www.apip2025.jp/
+  15th ECAMP Innsbruck 2025: https://ecamp15.at/
+  10th ESD Aarhus 2025: https://esd10.au.dk/
+  DPG Frühjahrstagung Bonn 2025: https://bonn25.dpg-tagungen.de/
+  DESY Photon Science Users' Meeting Hamburg 2025: https://indico.desy.de/event/41169/
+  ErUM-FSP APPA Annual Meeting Darmstadt 2025: https://indico.gsi.de/event/18663/
+
+# Applied Probability Trust Global Events Calendar
+appliedprobability.org:
+  43rd Finnish Summer School on Probability and Statistics: https://fdnss.fi/43rd-summer-school/
+  PIMS-CRM Summer School in Probability 2025: https://www.crmath.ca/en/activities/mainactivities/thematic/crmpimssummer2025/
+  Integrability, Random Matrices, and All That: https://www.impan.pl/en/activities/banach-center/conferences/24-integrability
+  Local Limits of Random Graphs: https://www.impan.pl/en/activities/banach-center/conferences/25-local-limits
+  SPDE Workshop at OSU 2025: https://math.osu.edu/events/spde-workshop-2025
+  International Workshop on Applied Probability (IWAP 2025): https://iwap2025.sciencesconf.org/
+  21st ASMDA Conference Piraeus: https://asmda2025.com/
+  Stochastic Reaction Networks Summer School Torgnon: https://conferences.cirm-math.fr/3140.html
+  Stochastic Reaction Networks Workshop Torino: https://areeweb.polito.it/disma-excellence/events/SRNW_2025/index.html
+  INFORMED AI Summer School 2025: https://www.informed-ai.org/summer-school-2025/
+  Summer School on Mathematical Foundations of AI: https://www.informed-ai.org/summer-school-2025/
+  Statistical Mechanics of Spin Glasses (Bonn): https://www.hcm.uni-bonn.de/events/eventpages/2025/statistical-mechanics-of-spin-glasses/
+
+# Atomic, Molecular, and Optical Physics (AMO) Community Listings
+amo-physics.org:
+  None: None  # No events currently listed on the site
+
+# Canadian Astronomy Data Centre List of Astronomy Meetings (this year)
+cadc-ccda-thisyear:
+  Young Scientists' Conference on Astronomy and Space Physics 2025: https://ysc.kiev.ua/
+
+# Canadian Astronomy Data Centre List of Astronomy Meetings (next year)
+cadc-ccda-nextyear:
+  None: None  # No direct event listings available without using interactive search
+
+# Carl Mueller List of Conferences and Schools in Probability and Related Fields
+sites.google.com:
+  None: None  # Page does not contain an actual list of events
+
+# CCPQ Quantum Dynamics in Atomic, Molecular and Optical Physics Upcoming Events and Meetings
+ccpq.ac.uk:
+  None: None  # No upcoming events listed on this site
+
+# Chia-Heng Tu Conference List
+chiaheng.wordpress.com:
+  None: None  # Page lists journal/conference acronyms, no event-specific links
+
+# CNRS Réseau Plasma Froids Calendar of Events on Low Temperature Plasma
+plasmas-froids.cnrs.fr:
+  Journées Plasmas Froids 2025: https://plasmas-froids.cnrs.fr/evenements/journees-plasmas-froids-2025/
+
+# COMS Conferences and Meetings on Condensed Matter Physics and Materials
+conference-service-condensed-matter:
+  SCCM2025 — 24th Biennial Conference of the APS Topical Group on Compression of Condensed Matter: https://www.aps.org/meetings/meeting.cfm?name=SHOCK25
+  ICMAT 2025 — International Conference on Materials for Advanced Technologies: https://icmat2025.mrs.org.sg/
+  ICMAT 2025 / Symposium D — Advanced Characterization of Materials: https://icmat2025.mrs.org.sg/symposia-d/
+  ICMAT 2025 / AMF‑AMEC‑14 — Ferroelectrics and Electroceramics: https://icmat2025.mrs.org.sg/symposia-a/
+  ICMAT 2025 / Symposium O — Emerging Inorganic Materials: https://icmat2025.mrs.org.sg/symposia-o/
+  ICMAT 2025 / Symposium R — Soft Materials for Robotics: https://icmat2025.mrs.org.sg/symposia-r/
+  ICMAT 2025 / Symposium S — Computational Materials: https://icmat2025.mrs.org.sg/symposia-s/
+  ICMAT 2025 / Symposium U — Programmable Architected Materials: https://icmat2025.mrs.org.sg/symposia-u/
+  ICMAT 2025 / Symposium V — Extreme Materials and Systems: https://icmat2025.mrs.org.sg/symposia-v/
+  MT‑29 — International Conference on Magnet Technology: https://mt29-conf.org/
+  MML2025 — 12th International Symposium on Metallic Multilayers: https://ccds25.pwr.edu.pl/
+  ESI Workshop — Charged Soft Matter: https://www.esi.ac.at/events/e571/
+  IVC‑23 — 23rd International Vacuum Congress: https://ivc23.org/
+  Autumn School on Correlated Electrons (Jülich): https://www.cond-mat.de/events/correl25/
+  ASSL 2025 — Advanced Solid State Lasers: https://www.optica.org/events/global_calendar/events/2025/advanced_solid_state_lasers/
+  MiNES 2025 — Materials in Nuclear Energy Systems: https://www.tms.org/MiNES2025
+  HEA 2026 — World Congress on High Entropy Alloys: https://www.tms.org/SpecialtyCongress2026/Programming/HEA2026/SpecialtyCongress2026/HEA2026/default.aspx
+  AIM 2026 — AI in Materials and Manufacturing: https://www.tms.org/SpecialtyCongress2026/Programming/AIM2026/SpecialtyCongress2026/AIM2026/default.aspx
+  PM'26 — Physics of Magnetism 2026: https://www.ifmpan.poznan.pl/pm26/index.html
+  PRICM12 — Pacific Rim International Conference on Advanced Materials: https://www.pricm12.org/home.html
+  Superalloy 718 Symposium 2026: https://www.tms.org/Superalloy718-2026
+  SCCM27 — APS Conference on Shock Compression of Condensed Matter (2027): https://www.aps.org/meetings/meeting.cfm?name=SHOCK27
+  AOCNS 2027 — Asia‑Oceania Conference on Neutron Scattering: https://www.aonsa.org/aocns/
+
+# COMS Conferences and Meetings on Atomic and Molecular Physics
+conference-service-atomic-molecular:
+  ISPC26 — 26th International Symposium on Plasma Chemistry: https://www.ispc-conference.org/
+  DAMOP 2025 — APS Division of Atomic, Molecular & Optical Physics Meeting: https://www.aps.org/meetings/meeting.cfm?name=DAMOP25
+  ICPEAC 2025 — 34th International Conference on Photonic, Electronic, and Atomic Collisions: https://www.icpeac2025.jp/
+  Quantum Optics XI — Kraków 2025: https://quantumoptics11.confer.uj.edu.pl/
+
+# COMS Conferences and Meetings on Physical (Theoretical) Chemistry, Computational Chemistry
+conference-service-physchem:
+  None: None
+
+# COMS Conferences and Meetings on Optimization Theory and Operational Research
+conference-service-operational-research:
+  None: None
+
+# COMS Conferences and Meetings on Computer Science
+conference-service-computer-science:
+  None: None
+
+# COMS Conferences and Meetings on General Physics
+conference-service-general-physics:
+  None: None
+
+# COMS Conferences and Meetings on Particle Accelerators
+conference-service-particle-accelerators:
+  None: None
+
+# COMS Conferences and Meetings on Nuclear Physics
+conference-service-nuclear-physics:
+  None: None
+
+# COMS Conferences and Meetings on Plasma and Gas‑Discharge Physics, Nuclear Fusion
+conference-service-plasma:
+  None: None
+
+# COMS Conferences and Meetings on Probability and Statistics, Game Theory
+conference-service-probability-statistics:
+  None: None
+
+# Danish Nuclear Fusion Interest Group (DanFusion) List of Schools
+danfusion.dk:
+  Culham Plasma Physics Summer School 2025: https://www.danfusion.dk/for-members/summer-schools#culham
+  Carolus Magnus Summer School on Plasma and Fusion Energy Physics 2026: https://www.danfusion.dk/for-members/summer-schools#carolus-magnus
+  IPP Summer University for Plasma Physics and Fusion Research 2025: https://www.danfusion.dk/for-members/summer-schools#ipp
+  Karlsruhe International Summer School on Fusion Technologies 2025: https://www.danfusion.dk/for-members/summer-schools#kit
+  JT-60SA International Fusion School 2025: https://www.danfusion.dk/for-members/summer-schools#jt60sa
+  Kudowa Summer School 2026: https://www.danfusion.dk/for-members/summer-schools#kudowa
+  PlasmaSurf Summer School 2025: https://www.danfusion.dk/for-members/summer-schools#plasmasurf
+  ITER International School 2025: https://www.danfusion.dk/for-members/summer-schools#iter
+  SUMTRAIC Summer Training Course Prague 2025: https://www.danfusion.dk/for-members/summer-schools#sumtraic
+  PhDiaFusion Summer School of Plasma Diagnostics 2025: https://www.danfusion.dk/for-members/summer-schools#phdiafusion
+  Microwaves in Beams and Plasmas Summer School: https://indico.ukaea.uk/event/364/
+  Festival de Théorie Workshop 2025: https://festival-theorie.org/
+
+# DMANET + THEORYNET Computer Science Theory Announcements Mailing List Archive
+dmatheorynet.blogspot.com:
+  CanaDAM 2027 Conference: https://canadam.ca
+
+# DMV Fachgruppe Stochastik List of Conferences and Workshops
+fg-stochastik.de:
+  Workshop on Mathematical Imaging and Random Geometry Nice 2024: https://imageomalea.sciencesconf.org/
+  Münster Workshop 2024 (Probability, Dynamics and Geometry of Groups): https://www.uni-muenster.de/Stochastik/en/
+
+# Douglas B. West, UIUC, Combinatorial Conferences Links
+dwest.web.illinois.edu:
+  Combinatorial conference listings: None
+
+# European Magnetism Association Agenda of Magnetics Events
+magnetism.eu:
+  JEMS 2025 (Joint European Magnetic Symposia): https://jems2025.eu/home
+
+# European Photochemistry Association List of Forthcoming Events
+photochemistry.eu:
+  IX Ciamician Photochemistry School 2022: None
+  28th IUPAC Symposium on Photochemistry 2022: None
+  X Ciamician Photochemistry School 2025: https://eventi.unibo.it/ciamician-photochemistry-school
+  ISPPCC 2025 Symposium: https://portale2.unime.it/isppcc2025/
+  ICP 2025 – International Conference on Photochemistry: https://www.icp2025.de/
+
+# EuroQuic List of Upcoming Events
+euroquic.org:
+  Info Session on European Funding Instruments Dec 2024: None
+  Seminar on Quantum-Tech Standardisation Dec 2024: None
+  Q2B Santa Clara Dec 2024: None
+
+# Fusion Research Unit of the Austrian Academy of Sciences Conference List
+oeaw.ac.at:
+  World EXPO 2025 Osaka: https://www.oeaw.ac.at/en/fusion/industry/events#expo2025
+  iPFC 2025 – 4th International Fusion and Plasma Conference: https://i-fpc.org/
+  PPPS2025 – Pulsed Power & Plasma Sci Conf 2025: https://www.oeaw.ac.at/en/fusion/industry/events#ppps2025
+  SOFE 2025 – Symposium on Fusion Engineering: https://www.oeaw.ac.at/en/fusion/industry/events#sofe2025
+  MT29 – International Conference on Magnet Technology 2025: https://www.oeaw.ac.at/en/fusion/industry/events#mt29
+  51st EPS Conference on Plasma Physics: https://www.oeaw.ac.at/en/fusion/industry/events#eps2025
+  ICPIG 2025 – Ionized Gases Conference: https://www.oeaw.ac.at/en/fusion/industry/events#icpig2025
+  LAPD21 – Laser-Aided Plasma Diagnostics 2025: https://www.oeaw.ac.at/en/fusion/industry/events#lapd21
+  ICNSP 2025 – Numerical Simulation of Plasmas: https://www.oeaw.ac.at/en/fusion/industry/events#icnsp2025
+  IFSA13 – Inertial Fusion Science & Applications: https://www.oeaw.ac.at/en/fusion/industry/events#ifsa13
+  PLASMA 2025 – Research & Application of Plasmas: https://www.oeaw.ac.at/en/fusion/industry/events#plasma2025
+  EUCAS 2025 – Applied Superconductivity: https://www.oeaw.ac.at/en/fusion/industry/events#eucas2025
+  Tritium 2025 – Tritium Science & Technology: https://www.oeaw.ac.at/en/fusion/industry/events#tritium2025
+  PET-20 – Plasma Edge Theory Workshop: https://www.oeaw.ac.at/en/fusion/industry/events#pet20
+  EFTC 2025 – European Fusion Theory Conf: https://www.oeaw.ac.at/en/fusion/industry/events#eftc2025
+  ICFRM-22 – Fusion Reactor Materials Conf: https://www.oeaw.ac.at/en/fusion/industry/events#icfrm22
+  CBBI-22 – Ceramic Breeder Blanket Interactions: https://www.oeaw.ac.at/en/fusion/industry/events#cbbi22
+  GEC 2025 – Gaseous Electronics Conference: https://www.oeaw.ac.at/en/fusion/industry/events#gec2025
+  IAEA Fusion Energy Conference 2025: https://www.oeaw.ac.at/en/fusion/industry/events#iaea2025
+  World Nuclear Exhibition 2025: https://www.oeaw.ac.at/en/fusion/industry/events#nuclear2025
+  ISFNT16 – Fusion Nuclear Technology Symposium: https://www.oeaw.ac.at/en/fusion/industry/events#isfnt16
+
+# FusionWiki at CIEMAT List of Upcoming Fusion and Plasma Events
+wiki-fusion-ciemat:
+  None: None
+
+# HEASARC List of Upcoming Meetings
+heasarc.gsfc.nasa.gov:
+  None: None
+
+# Hugo Panzo Conference List on Probability and Related Fields
+sites.google.com:
+  Local Limits of Random Graphs (June 2–13, 2025, Paris): None
+  PIMS‑CRM Summer School in Probability (June 2–27, 2025, Vancouver): None
+  SPDE Workshop (June 3–5, 2025, OSU): None
+  9th Great Lakes Mathematical Physics Meeting (June 6–8, 2025, Univ. Kentucky): None
+  International Workshop on Applied Probability (June 9–13, 2025, NC State): https://iwap2025.sciencesconf.org/
+
+# Institute of Mathematical Statistics Meetings Calendar
+imstat.org:
+  11th International Workshop on Applied Probability (IWAP 2025): https://iwap2025.sciencesconf.org/
+
+# International Association of Mathematical Physics (IAMP) Known Forthcoming Meetings
+iamp.org:
+  Brunel–Bielefeld Workshop on Random Matrix Theory and Applications (Dec 13–14, 2024, London): None
+  Non‑Commutative Geometry & Higher Structures (Sep 17–21, 2024, Thessaloniki): None
+  Hausdorff School “Recent developments in disordered systems” (Sep 9–14, 2024): None
+  Path Integrals and Friends (Sep 3–6, 2024, Helsinki): None
+  Quantissima in the Serenissima V (Aug 12–23, 2024, Venice): None
+  VIASM Summer School in Mathematical Physics (Aug 5–10, 2024, Huế): None
+  Dynamics Days Europe 2024 (Jul 29–Aug 2, 2024): None
+  Beyond IID in Information Theory 12 (Jul 29–Aug 2, 2024, UIUC): None
+  33rd/35th ICGTMP (Jul 15–19, 2024, Cotonou): None
+  Poisson 2024 (Jul 1–12, 2024, Napoli): None
+
+# International Conference on Machine Learning (ICML) ML News Announcements
+groups.google.com:
+  No specific events with dedicated URLs found in the mailing list archive: None
+
+# International Society for Bayesian Analysis Upcoming Events
+bayesian.org:
+  15th RCEA Bayesian Econometrics Workshop (Feb 4, 2025): None
+  Objective Bayesian Methodology Workshop (O’Bayes 2025, Jun 8–12, 2025, Athens): https://obayes25.aueb.gr/
+  3rd Bayesian Nonparametrics Networking Workshop (Jul 30–Aug 2, 2024, Singapore): None
+  14th International Conference on Bayesian Nonparametrics (BNP 14, Jun 23–27, 2025, UCLA): https://bnp14.org/
+
+# ISciTech.com Computational Sciences Conference Listing
+csfreelist.com:
+  SIAM CSE25 – Computational Science & Engineering (Mar 3–7, 2025, Fort Worth): https://www.siam.org/conferences-events/siam-conferences/cse25/
+  ICCS 2025 – 25th Intl Conf on Computational Science (Jul 7–9, 2025, Singapore): https://www.vph-institute.org/events/25th-iccs-international-conference-on-computational-science.html
+
+# ITER Organization List of Conferences on Fusion Science, Fusion Technology, Plasma Physics and Energy
+iter.org:
+  14th ITER International School – Integrated Modelling in Magnetic Fusion Plasmas (30 Jun–14 Jul 2025): None  # no dedicated page yet
+  ITER Business Forum 2025 (24–25 Apr 2025, Marseille): None  # described on site, no separate URL
+  ITER Private Sector Workshop 2025 (22–23 Apr 2025, ITER site): None
+  13th ITER International School (9–13 Dec 2024, Nagoya): None
+  12th ITER International School (26–30 Jun 2023, Aix): None
+  28th IAEA Fusion Energy Conference (10–15 May 2021): None
+
+# James R. Macdonald Laboratory at KSU Conferences Relevant to AMO Physics Research
+jrm.phys.ksu.edu:
+  International Conference in Attosecond Physics (July 28–Aug 1, 2009, KSU): http://jrm.phys.ksu.edu/Atto-09/
+
+# János Pach (Rényi Institute) List of Conferences on Combinatorics
+users.renyi.hu:
+  EuroComb 2025 – Budapest (25–29 Aug 2025): https://iuuk.mff.cuni.cz/events/conferences/eurocomb25/
+  International Conference on Permutation Patterns 2025 – St Andrews (7–11 Jul 2025): https://permutationpatterns.com
+
+# Joint Institute for Nuclear Astrophysics – CEE Conference List
+jinaweb.org:
+  Third Frontiers in Nuclear Astrophysics Summer School (13–17 May 2025, Athens OH): https://www.jinaweb.org/science-research/scientific-resources/conference-list
+  IReNA–CeNAM Frontiers Meeting (19–23 May 2025, Athens OH): https://www.jinaweb.org/science-research/scientific-resources/conference-list
+  BRIDGCE Explosive Nucleosynthesis Summer School (2–3 Jun 2025, York UK): https://www.jinaweb.org/science-research/scientific-resources/conference-list
+  BRIDGCE–IReNA Meeting (4–6 Jun 2025, York UK): https://www.jinaweb.org/science-research/scientific-resources/conference-list
+  sirEN Conference (8–13 Jun 2025, Giulianova IT): https://www.jinaweb.org/science-research/scientific-resources/conference-list
+  NP3M Summer School (9–13 Jun 2025, Bloomington IN): https://www.jinaweb.org/science-research/scientific-resources/conference-list
+  Nuclei in the Cosmos XVIII & School (9–20 Jun 2025, Spain): https://www.jinaweb.org/science-research/scientific-resources/conference-list
+  Nuclear Chemistry Gordon Res Seminar & Conference (14–20 Jun 2025, New Hampshire): https://www.jinaweb.org/science-research/scientific-resources/conference-list
+  Low Energy Nuclear Physics Workshop (7–9 Jul 2025, Trento IT): https://www.jinaweb.org/science-research/scientific-resources/conference-list
+  Gravitational Waves meet Nuclear Astrophysics (7–11 Jul 2025, Fullerton CA): https://www.jinaweb.org/science-research/scientific-resources/conference-list
+  IReNA–UKAKUREN Joint Workshop (14–18 Jul 2025, Osaka JP): https://www.jinaweb.org/science-research/scientific-resources/conference-list
+  HELIUM25 (21–25 Jul 2025, Dresden DE): https://www.jinaweb.org/science-research/scientific-resources/conference-list
+  Hackathon & School (21–25 Jul 2025, Beaver Island MI): https://www.jinaweb.org/science-research/scientific-resources/conference-list
+  TARDIS Summer School (28 Jul–1 Aug 2025, East Lansing MI): https://www.jinaweb.org/science-research/scientific-resources/conference-list
+
+# UCSB / Jon McCammond Geometric Group Theory Conference List
+web.math.ucsb.edu:
+  NY Combinatorics Day 2025 – New York (21 Mar 2025): https://www.nycombinatorics.org/
+  Graph Theory Day 2025 (Nov 2025): None  # no event page yet
+  NY Graph Theory Workshop 2026 – New York (26–29 May 2026): None
+
+# KIT Institute of Physical Chemistry – Conferences on Quantum Chemistry
+ipc.kit.edu:
+  None: None  # site outlines research; no conference list found
+
+# LCPQ Toulouse – Conferences on Quantum Chemistry and Allied Fields
+lcpq.ups-tlse.fr:
+  None: None  # page appears empty or unavailable
+
+# Laserlab Europe Conference Calendar
+laserlab-europe.eu:
+  None: None  # page lists calendar UI; no specific event URLs extracted
+
+# Lightsources.org Events List
+lightsources.org:
+  None: None  # page contains dynamic calendar; no individual links extracted
+
+# Miki Hermann at Polytechnique – Theoretical Computer Science Conferences
+lix.polytechnique.fr:
+  FPSAC 2025 – Sapporo (21–25 Jul 2025): https://en.wikipedia.org/wiki/International_Conference_on_Formal_Power_Series_and_Algebraic_Combinatorics
+  FPSAC 2026 – Seattle (13–17 Jul 2026): https://fpsac.org/
+  FPSAC 2027 – Galway: None  # announced, no site yet
+  Introduction to AofA conferences (series): https://en.wikipedia.org/wiki/AofA%E2%80%94International_Meeting_on_Combinatorial%2C_Probabilistic%2C_and_Asymptotic_Methods_in_the_Analysis_of_Algorithms
+
+# Optica.org Events List
+optica.org:
+  European Conference on Integrated Optics 2025: https://www.optica.org/events/topical_meetings/european_conference_on_integrated_optics/
+  Optica Advanced Photonics Congress 2025: https://www.optica.org/events/global_calendar/events/2025/advanced_photonics_congress/
+  Optica Laser Congress and Exhibition 2025: https://www.optica.org/events/global_calendar/events/2025/laser_congress_and_exhibition/
+  Frontiers in Optics + Laser Science 2025: https://www.optica.org/events/global_calendar/events/2025/frontiers_in_optics_laser_science/
+  Optica Quantum 2.0 Conference and Exhibition 2026: https://www.optica.org/events/topical_meetings/quantum/
+  European Conferences on Biomedical Optics 2025: https://www.optica.org/events/topical_meetings/european_conferences_biomedical_optics/
+  Advanced Solid State Lasers Conference (ASSL) 2025: https://www.optica.org/events/congress/laser_congress/program/advanced_solid_state_lasers_conference/
+  Laser Applications Conference (LAC) 2025: https://www.optica.org/events/congress/laser_congress/program/laser_applications_conference/
+  Latin America Optics and Photonics Conference 2024: https://www.optica.org/events/topical_meetings/latin_america_optics_and_photonics_conference/
+  OFC 2025 – Optical Fiber Communication Conference: https://www.ofcconference.org
+  CLEO 2027 – Conference on Lasers and Electro-Optics: https://www.cleoconference.org/
+  Optica Design & Fabrication Congress 2025: https://www.optica.org/events/congress/optical_design_and_fabrication_congress/
+  OECC/PSC 2025 – Optoelectronics & Communications Conference: https://www.oeccpsc2025.org
+
+# Plasma Laboratory at Weizmann Institute of Science List of Conferences
+plasma-gate.weizmann.ac.il:
+  None: None
+
+# Princeton Plasma Physics Laboratory NSTX-U Upcoming Conferences List
+sites.google.com:
+  None: None
+
+# Psi-K Network Announcements of Conferences, Workshops, Schools
+psi-k.net:
+  None: None
+
+# Quantiki Upcoming and Past Events Calendar
+quantiki.org:
+  None: None
+
+# Quantum Flagship Events List
+qt.eu:
+  None: None
+
+# Quantum Technology Lab Quantum Conference List
+quantum.info:
+  None: None
+
+# Quantum World List of Relevant Events
+qworld.net:
+  None: None
+
+# SFdS-SMAI-SMF (France) Agenda of Conferences in Mathematics
+acm.smai.emath.fr:
+  None: None
+
+# Society for Applied Spectroscopy Conference List
+s-a-s.org:
+  None: None
+
+# Stored and Cooled Ions Division at MPIK Events List
+mpi-hd.mpg.de:
+  None: None
+
+# Thiago Serra List of Schools on Algorithms, Machine Learning, Mathematics, Optimization and Related Topics in OR
+thiagoserra.com:
+  None: None
+
+# Tiziano Vargiolu, Probability Group at University of Padua, Calendar of Interesting Events
+math.unipd.it:
+  None: None
+
+# Tom Claeys List of Events in Probability
+perso.uclouvain.be:
+  None: None
+
+# Tom Friedetzky and Daniel Paulusma List of Conferences and Workshops in Theoretical Computer Science
+conf.friedetzky.org:
+  None: None
+
+# Ultracold Atom News Conference Listing
+ucan.physics.utoronto.ca:
+  None: None
+
+# University of Oxford Computer Science Department List of Interesting Events
+cs.ox.ac.uk:
+  None: None
+
+# University of Oxford Physics Department List of Interesting Events
+physics.ox.ac.uk:
+  None: None
+
+# USFusionEnergy.org List of Events
+usfusionenergy.org:
+  Fusion Energy Week (May 5–9, 2025): https://usfusionenergy.org/fusion-energy-week
+  Fusion Question a Day in May: https://usfusionenergy.org/event/fusion-question-day-may
+  Forging a Future in Fusion: Career Pathways & Networking Panel: https://usfusionenergy.org/event/forging-future-fusion-career-pathways-networking-panel-hybrid
+  Energy Superabundance: Virtual Course: https://usfusionenergy.org/event/energy-superabundance-virtual-course
+  Fusion & Brews: A Science Café on the Future of Energy: https://usfusionenergy.org/event/fusion-brews-science-cafe-future-energy
+  DIII‑D National Fusion Facility Virtual Tours: https://usfusionenergy.org/index.php/event/diii-d-national-fusion-facility-virtual-tours
+
+# Women in Probability Calendar
+womeninprobability.org:
+  Conference on New Developments in Probability (CNDP, Sept 26–28, 2024, Montréal): None
+
+# XLIC Events List
+xlic.qui.uam.es:
+  None: None
+
+# X-Ray-Optics.de Forthcoming X‑Ray Events
+x-ray-optics.de:
+  International Conference on X-Ray Optics and Applications 2025 (XOPT2025): https://xopt.opicon.jp/
+  EUV and X-Ray Optics: Synergy between Laboratory and Space IX: https://spie.org/eoo/conferencedetails/euv-x-ray-optics
+
+# Low Dimensional Topology Conferences
+lowdimtop:
+  Geneva Swissknots June 2025: None
+  2025 Georgia International Topology Conference May 2025 (Athens, Georgia): None
+  ICERM Links in Dimensions 3 & 4 May 2025 (Rhode Island): None
+  Matemale Spring School May 2025 (France): None
+  Trieste Summer School “New Structures in Low‑Dimensional Topology” June 2025: https://indico.ictp.it/event/10839
+
+# Upcoming Conferences in Algebraic Geometry (Vakil)
+stanford-vakil:
+  Thematic Program on Commutative Algebra and Applications (Jan–Jun 2025, Toronto): None
+  School on Algebraic Geometry (Mar–Jul 2025, online via CIRM Physics Latam): None
+  Spring Workshop in Algebraic Geometry (Mar 18–19, 2025, Hannover): None
+  Georgia Algebraic Geometry Symposium (Mar 21–23, 2025, Athens GA): None
+  Algebraic Statistics Conference (Mar 24–28, 2025, Munich): None
+  Conference on Real Algebraic Geometry & Birational Geometry (Jun 2–6, 2025, Marseille): None
+
+# Conferences in Arithmetic Geometry (Kedlaya)
+kskedlaya-org:
+  Motives and Arithmetic Geometry (July 28–Aug 1, 2025, Darmstadt): None
+  PRETZL – Zeta & L-Functions (July 21–25, 2025, Bonn): None
+  Formalizing Class Field Theory (July 21–25, 2025, Oxford): None
+  Regensburg GAP days (July 28–30, 2025): None
+  World Maths Championships (July 31–Aug 18, 2025, Dubai): None
+  Aarhus Automorphic Forms Summer School & Conference (Aug 4–15, 2025): None
+  René 25 (Aug 18–22, 2025, French Polynesia): None
+  Arithmetic cycles, etc. (Aug 18–22, 2025, Montreal): None
+
+# Number Theory Events (Johann Birnick)
+jbirnick-net:
+  Statistics of Class Groups & Number Fields Workshop (June 2–6, 2025, ETH Zurich): None
+  Arithmetic-Algebraic Geometry Conference (June 2–6, 2025, Nha Trang): None
+  YuBi60 Modular & Diophantine Problems (June 4–6, 2025, Bordeaux): None
+  Graduate Student Workshop on Discrete Groups (June 9–13, 2025, Notre Dame): None
+  Arithmetic, Geometry, Cryptography & Coding Theory (June 9–13, 2025, CIRM Luminy): None
+  Discrete Groups in Topology & Algebraic Geometry (June 16–20, 2025, Notre Dame): None
+  Rethinking Number Theory 6 (June 16–27, 2025, virtual): None
+  Étale Cohomology & Étale Homotopy (June 16–20, 2025, Frankfurt): None
+  Arithmetic Statistics (June 17–20, 2025, Ohio State): None
+  Iwasawa Theory … p‑Adic Groups (June 18–20, 2025, Lille): None
+
+# Number Theory Conferences, New & Old
+numbertheory-org:
+  Automorphic forms & L-functions conference (Aug 11–15, 2025): None
+
+# CVGMT Events
+cvgmt-sns-it:
+  None: None
+
+# Machine Learning Summer School Guide
+awesome-mlss:
+  None: None
+
+# MPIK Particle & Astroparticle Physics Events
+mpik-paplist:
+  None: None
+
+# NCTS Physics Taiwan Conferences List
+ncts-physics-tw:
+  None: None
+
+# ISGRG Hyperspace Conferences
+isgrg-uni-frankfurt:
+  None: None
+
