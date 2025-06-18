@@ -76,13 +76,11 @@
 
 2025-08-11 to 15: [New Frontiers in Out-of-Equilibrium Quantum Many-Body Dynamics (2025)](https://pks.mpg.de/qudyn25 "This conference explores out-of-equilibrium quantum many-body dynamics, covering quantum thermalization, driven systems, and entanglement dynamics. Topics include applications in condensed matter and quantum simulation, emphasizing theoretical and experimental studies of non-equilibrium quantum systems."), Dresden, Germany.
 
-2025-08-17 to 2025-08-22: [First International Quantum Horizons Symposium](https://www.quantumhorizons.ca/symposium "The symposium explores quantum science, focusing on quantum computing and quantum information. Topics include quantum algorithms, entanglement, and quantum error correction. Discussions cover applications in particle physics and quantum gravity, advancing theoretical and experimental quantum research."), Banff, AB, Canada.
-
-2025-08-17 to 2025-08-22: [First International Quantum Horizons Symposium](https://www.quantumhorizons.ca/symposium "The symposium investigates quantum science’s potential, focusing on quantum technologies. Topics include quantum cryptography, quantum simulation, and topological quantum computing. Discussions explore applications in high-energy physics and cosmology, emphasizing quantum advancements for fundamental research."), Banff, AB, Canada.
-
 2025-08-18 to 22: [QMATH Masterclass on Representation Theory in Quantum Information Science (2025)](https://qmath.ku.dk/events/conferences/representation-theory-in-quantum-information-science/ "Focuses on representation theory in quantum information science. Topics include quantum algorithms, quantum error correction, and mathematical frameworks for quantum computing applications."), Copenhagen, Denmark.
 
 2025-08-18 to 29: [IQuS 2nd International Workshop on Many-Body Quantum Magic (MBQM 2025)](https://iqus.uw.edu/events/iqus-workshop-2025-2/ "Examines many-body quantum systems with a focus on quantum magic, covering entanglement, quantum complexity, and non-stabilizer states. Topics include quantum computing and condensed matter applications, emphasizing theoretical and computational insights."), Seattle, WA, USA.
+
+2025-08-20 to 2025-08-22: [First International Quantum Horizons Symposium](https://www.quantumhorizonsab.ca/fiqh-symposium "The symposium explores quantum science, focusing on quantum computing and quantum information. Topics include quantum algorithms, entanglement, and quantum error correction. Discussions cover applications in particle physics and quantum gravity, advancing theoretical and experimental quantum research."), Banff, AB, Canada.
 
 2025-08-24 to 29: [Seeking Quantum Advantage: Workshop and Conference (SEEQA 2025)](https://conference.seeqa.org "SEEQA 2025 focuses on quantum advantage, covering quantum algorithms, quantum supremacy, and hardware development. Topics include quantum simulation, cryptography, and applications in optimization, emphasizing theoretical and experimental efforts to achieve practical quantum computing advancements."), Oxford, UK.
 
@@ -98,11 +96,11 @@
 
 2025-08-31 to 09-05: [Summer School on Modern Wavefunction Based Methods in Electronic Structure Theory (MWM 2025)](https://mwm.dcci.unipi.it/ "MWM 2025 focuses on wavefunction-based methods, covering coupled-cluster theory, configuration interaction, and quantum Monte Carlo. Topics include applications in quantum chemistry, materials science, and molecular dynamics, emphasizing computational techniques for accurate electronic structure calculations."), Pisa, Italy.
 
+2025-09-01 to 05: [11th Conference on Quantum Optics (2025)](https://quantumoptics11.confer.uj.edu.pl/ "Quantum Optics XI focuses on quantum optics, covering photon entanglement, quantum coherence, and ultrafast spectroscopy. Topics include applications in quantum information, nonlinear optics, and photonics, emphasizing experimental and theoretical advancements in quantum optical phenomena and technologies."), Kraków, Poland.
+
 2025-09-01 to 05: [16th QMATH Conference on Mathematical Results in Quantum Theory (QMATH 2025)](https://sites.google.com/view/qmath16/ "QMATH 2025 explores mathematical quantum theory, covering quantum mechanics, quantum information, and operator algebras. Topics include entanglement, quantum algorithms, and applications in quantum computing, emphasizing rigorous mathematical frameworks for quantum systems and phenomena."), Garching/Munich, Germany.
 
 2025-09-01 to 05: [22nd International Conference on Unconventional Computation and Natural Computation (UCNC 2025)](https://webusers.i3s.univ-cotedazur.fr/UCNC2025/ "UCNC 2025 explores unconventional and natural computation, covering quantum computing, cellular automata, and bio-inspired algorithms. Topics include applications in complex systems, AI, and quantum simulation, emphasizing novel computational paradigms beyond classical models."), Nice, France.
-
-2025-09-01 to 05: [Quantum Optics XI (2025)](https://quantumoptics11.confer.uj.edu.pl "Quantum Optics XI focuses on quantum optics, covering photon entanglement, quantum coherence, and ultrafast spectroscopy. Topics include applications in quantum information, nonlinear optics, and photonics, emphasizing experimental and theoretical advancements in quantum optical phenomena and technologies."), Kraków, Poland.
 
 2025-09-01 to 05: [Workshop on Quantum Computing and Quantum Information (2025)](https://users.utu.fi/mikhirve/workshop2025/ "This workshop explores quantum computing and information, covering quantum algorithms, quantum error correction, and entanglement theory. Topics include applications in cryptography, simulation, and optimization, emphasizing theoretical and practical advancements in quantum information processing and computation."), Nice, France.
 
@@ -175,6 +173,4 @@
 2026 tbd: 31st Canadian Symposium on Theoretical and Computational Chemistry (CSTCC 2026), Ottawa, Canada.
 
 2026 tbd: [Frontiers of Quantum and Mesoscopic Thermodynamics (FQMT 2026)](https://fqmt.fzu.cz/ "FQMT 2026 explores quantum and mesoscopic thermodynamics, covering quantum heat engines, non-equilibrium systems, and quantum transport. Topics include applications in nanotechnology and quantum computing, emphasizing theoretical and experimental studies of thermodynamic phenomena."), Prague, Czech Republic.
-
-tbd: [Frontiers in Quantum Mechanics (FQMT 2026)](https://fqmt.fzu.cz/ "FQMT 2026 explores quantum and mesoscopic systems, covering quantum computing, non-equilibrium dynamics, and thermodynamics. Topics include applications in nanotechnology and quantum computing, emphasizing theoretical advancements."), Prague, Czech Republic.
 

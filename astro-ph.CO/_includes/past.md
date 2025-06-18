@@ -1,8 +1,6 @@
 2025-01-13 to 17: [2nd Bangkok Workshop on Gravity and Cosmology](https://www.strings.asia/bkk2025gravcos "The workshop explores gravity and cosmology, focusing on general relativity, black holes, and cosmic expansion. Topics include gravitational waves, inflationary models, and dark energy. Discussions bridge theoretical advancements like holography with observational data from LIGO and cosmological surveys."), Bangkok, Thailand.
 
-2025-01-23 to 24: [5th Testing Gravity Conference](https://tg2025.iop.org/ "TG2025 explores tests of gravity, focusing on general relativity and alternative theories. Topics include gravitational wave observations, cosmological tests, and strong-field gravity. Discussions integrate data from LIGO, Virgo, and cosmological surveys, advancing theoretical and observational gravity research."), Vancouver, BC, Canada.
-
-2025-01-27 to 2025-01-31: [Testing Gravity 2025](https://tg2025.iop.org/ "Testing Gravity 2025 explores experimental and theoretical tests of gravitational theories. Topics include modified gravity, gravitational waves, and cosmological probes. Discussions cover LISA data and alternative gravity models, advancing gravitational physics research."), Vancouver, BC, Canada.
+2025-01-29 to 2025-02-01: [Testing Gravity 2025](https://www.sfu.ca/physics/cosmology/TestingGravity2025/ "Testing Gravity 2025 explores experimental and theoretical tests of gravitational theories. Topics include modified gravity, gravitational waves, and cosmological probes. Discussions cover LISA data and alternative gravity models, advancing gravitational physics research."), Vancouver, BC, Canada.
 
 2025-02-03 to 14: [APCTP Winter School on Fundamental Physics 2025](https://apctp.org/winter-school/2025/ "The winter school trains researchers in fundamental physics, covering particle physics, cosmology, and quantum field theory. Topics include Higgs physics, dark matter, and inflationary models. Lectures emphasize theoretical frameworks and experimental techniques for modern physics research."), Pohang, South Korea.
 
@@ -15,8 +13,6 @@
 2025-04-01 to 2025-04-04: [UK-Astroparticle Physics Phenomenology: Spring 2025](https://www.ippp.dur.ac.uk/uk-app-2025/ "UK-APP 2025 explores astroparticle physics phenomenology, focusing on theoretical advances. Topics include dark matter, cosmic rays, and neutrino cosmology. Discussions cover experimental constraints and theoretical models, advancing astroparticle research."), Durham, United Kingdom.
 
 2025-04-07 to 09: [19th Iberian Cosmology Meeting](https://ibericos2025.csic.es/ "IberiCos 2025 explores cosmology, focusing on dark energy, cosmic microwave background, and large-scale structure. Topics include inflationary models, galaxy clustering, and gravitational lensing. The meeting discusses observational data from Planck, DESI, and Euclid, alongside theoretical advancements in understanding the universe’s evolution and composition."), Madrid, Spain.
-
-2025-04-07 to 2025-04-09: [IberiCos 2025](https://ibericos2025.cosmos/ "IberiCos 2025 explores cosmology and particle physics, focusing on Iberian research. Topics include dark matter, cosmic inflation, and gravitational waves. Discussions integrate observational data and theoretical models, advancing regional and global cosmological insights."), Coimbra, Portugal.
 
 2025-05-10 to 2025-05-18: [Hot Topics in Modern Cosmology: Spontaneous Workshop XVII](https://spontaneous-workshop.org/sw17/ "The workshop explores modern cosmology, focusing on emerging topics. Topics include dark energy, inflationary models, and cosmological tensions. Discussions integrate observational data from DESI and Euclid with theoretical advancements, advancing cosmological understanding."), Cargese, France.
 
@@ -38,8 +34,6 @@
 
 2025-06-09 to 13: [1st UNDARK School on Astrophysical and Cosmological Probes of Beyond the Standard Model](https://indico.cern.ch/event/1402242/ "The UNDARK School trains researchers in astrophysical and cosmological probes of beyond-Standard-Model physics. Topics include dark matter detection, axion searches, and cosmological constraints on new physics. Lectures cover observational techniques, such as gravitational lensing and cosmic microwave background analysis, alongside theoretical models."), Amsterdam, Netherlands.
 
-2025-06-09 to 13: [3rd Training School of the COST Action: Cosmic WISPers](https://www.cosmic-wispers.eu/ "The school trains researchers in weakly interacting slim particles (WISPers), focusing on axions and dark photons. Topics include experimental techniques, astrophysical probes, and theoretical models. Lectures cover searches with ADMX, CAST, and cosmological implications for dark matter and early universe physics."), Padua, Italy.
-
 2025-06-09 to 13: [Axions in Stockholm 2025](https://indico.cern.ch/event/1411042/ "The workshop explores axions as dark matter candidates, focusing on experimental searches and theoretical models. Topics include axion electrodynamics, cosmological constraints, and detection techniques. Discussions cover experiments like ADMX and implications for particle physics and cosmology."), Stockholm, Sweden.
 
 2025-06-09 to 13: [Cosmological Frontiers in Fundamental Physics 2025](https://indico.cern.ch/event/1411022/ "The conference explores cosmological frontiers, bridging fundamental physics and cosmology. Topics include inflation, dark matter, and quantum gravity. Discussions integrate observational data from Planck and theoretical models like string cosmology, advancing understanding of the universe."), Paris, France.
@@ -49,6 +43,8 @@
 2025-06-09 to 13: [Dark Matter 2025: From the Smallest to the Largest Scales](https://dm2025.phy.hawaii.edu/ "DM2025 explores dark matter across scales, from particle physics to cosmology. Topics include direct detection, axion searches, and cosmological simulations. Discussions integrate experimental results from Xenon1T and theoretical models for dark matter distribution."), Honolulu, HI, USA.
 
 2025-06-15 to 20: [Cosmology 2025 in Elba](https://cosmo2025.ba.infn.it/ "COSMO 2025 explores cosmology, focusing on early universe physics and large-scale structure. Topics include inflationary models, dark energy, and gravitational waves. Discussions integrate observational data from Euclid and theoretical advancements in cosmological modeling."), Elba, Italy.
+
+2025-06-16 to 19: [3rd Training School of the COST Action Cosmic WISPers (CA21106)](https://indico.in2p3.fr/event/35550/ "The school trains researchers in weakly interacting slim particles (WISPers), focusing on axions and dark photons. Topics include experimental techniques, astrophysical probes, and theoretical models. Lectures cover searches with ADMX, CAST, and cosmological implications for dark matter and early universe physics."), Annecy, France.
 
 2025-06-16 to 2025-06-18: [News, Opportunities and Challenges in Big Bang Nucleosynthesis](https://indico.cern.ch/event/1402254/ "The online EuCAPT workshop explores Big Bang nucleosynthesis, focusing on cosmological implications. Topics include primordial abundances, nuclear reaction rates, and new physics constraints. Discussions cover theoretical models and observational data, advancing early universe physics."), Online.
 

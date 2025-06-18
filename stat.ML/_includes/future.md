@@ -20,8 +20,6 @@
 
 2025-07-07 to 09: [International Association of Statistical Computing Conference Data Science, Statistics & Visualisation (DSSV 2025)](https://iasc-isi.org/dssv2025/ "DSSV 2025 focuses on data science and statistical visualization, covering multivariate analysis, data mining, and interactive graphics. Topics include big data analytics, visualization techniques, and applications in social sciences and health, emphasizing statistical methods for data exploration."), Kruger Park, South Africa.
 
-2025-07-07 to 2025-07-11: [EuADS Summer School on Automated Data Science 2025](https://www.euads.org/fjkdlasjdiglsmdgkcxjhvckh/euads-summer-school-2025/ "The summer school trains researchers in automated data science, with applications in physics. Topics include automated machine learning, feature engineering, and data pipelines. Lectures cover techniques for high-energy physics data analysis and cosmological surveys, emphasizing efficient data processing."), Amsterdam, Netherlands.
-
 2025-07-08 to 11: [European Association for Data Science (EuADS) Summer School 2025](https://www.euads.org/fjkdlasjdiglsmdgkcxjhvckh/euads-summer-school-2025/ "Focuses on data science advancements. Topics include statistical modeling, machine learning algorithms, and applications in big data analytics and decision-making."), Belair, Luxembourg.
 
 2025-07-13 to 19: [42nd International Conference on Machine Learning (ICML 2025)](https://icml.cc "ICML 2025 explores machine learning, covering deep learning, reinforcement learning, and probabilistic models. Topics include generative AI, neural network optimization, and applications in vision and natural language processing, emphasizing theoretical and practical machine learning advancements."), Vancouver, BC, Canada.

@@ -124,15 +124,13 @@
 
 2025-08-25 to 29: [15th International Workshop on QCD at the LHC (QCD@LHC 2025)](https://indico.cern.ch/event/1402312/ "QCD@LHC 2025 focuses on quantum chromodynamics at the Large Hadron Collider, covering jet production, parton distributions, and heavy quark physics. Topics include perturbative QCD, soft gluon resummation, and event shapes. The workshop discusses experimental results from ATLAS, CMS, and LHCb, alongside theoretical advancements in QCD calculations."), London, United Kingdom.
 
-2025-08-25 to 29: [28th International Conference on Particle Physics & Cosmology](https://cosmo2025.org/ "COSMO 2025 explores particle physics and cosmology, focusing on dark matter, dark energy, and early universe physics. Topics include inflationary models, cosmic microwave background, and large-scale structure. The conference discusses observational data from Planck and DESI, alongside theoretical advancements in cosmological models."), Kyoto, Japan.
-
 2025-08-25 to 29: [32nd International Symposium on Lepton Photon Interactions at High Energies](https://lp2025.jp/ "LP2025 explores lepton and photon interactions, focusing on precision measurements and new physics. Topics include electroweak processes, flavor physics, and dark matter searches. The symposium discusses experimental results from LHC, Belle II, and neutrino experiments, alongside theoretical advancements."), Madison, WI, USA.
-
-2025-08-25 to 29: [28th International Conference on Particle Physics & Cosmology](https://cosmo2025.org/ "COSMO-25 explores particle physics and cosmology, focusing on dark matter, dark energy, and early universe physics. Topics include inflationary models, cosmic microwave background, and neutrino cosmology. Discussions integrate observational data and theoretical advancements."), Pittsburgh, PA, USA.
 
 2025-09-01 to 2025-09-05: [Matter To The Deepest: Recent Developments In Physics Of Fundamental Interactions](https://mttd.fuw.edu.pl/ "The conference explores fundamental interactions, focusing on recent developments. Topics include electroweak symmetry breaking, dark matter, and quantum gravity. Discussions cover experimental results from LHC and theoretical advancements, advancing particle physics understanding."), Kazimierz Dolny, Poland.
 
 2025-09-07 to 19: [BND School 2025: Belgium-Dutch-German Graduate School in Particle Physics and Astroparticle Physics](https://indico.cern.ch/event/1402311/ "The school trains graduate students in particle and astroparticle physics. Topics include Higgs physics, dark matter, and neutrino oscillations. Lectures cover experimental techniques at CERN and theoretical models, preparing students for research in high-energy physics."), Bad Honnef, Germany.
+
+2025-09-09 to 12: [3rd General Meeting of the COST Action Cosmic WISPers (CA21106)](https://agenda.infn.it/event/45898/ "The meeting focuses on weakly interacting slim particles (WISPers), exploring axions and dark photons. Topics include experimental searches, astrophysical constraints, and cosmological implications. Discussions cover results from ADMX, CAST, and theoretical models for dark matter and early universe physics."), Sofia, Bulgaria.
 
 2025-09-14 to 19: [18th International Workshop on Top Quark Physics](https://top2025.desy.de/ "TOP2025 explores top quark physics, focusing on production and decay mechanisms at the LHC. Topics include top quark mass measurements, spin correlations, and searches for new physics in top quark interactions. The workshop discusses experimental results from ATLAS and CMS, alongside theoretical advancements in QCD."), Valencia, Spain.
 
@@ -146,13 +144,13 @@
 
 2025-09-15 to 2025-09-19: [International Conference on Kaon Physics 2025](https://indico.cern.ch/event/1402314/ "KAON2025 focuses on kaon physics, exploring rare decays and CP violation. Topics include kaon mixing, branching ratios, and lattice QCD calculations. Discussions cover experimental results from NA62 and KOTO, advancing theoretical understanding of flavor physics."), Osaka, Japan.
 
-2025-09-22 to 24: [3rd General Meeting of the COST Action: Cosmic WISPers](https://www.cosmic-wispers.eu/ "The meeting focuses on weakly interacting slim particles (WISPers), exploring axions and dark photons. Topics include experimental searches, astrophysical constraints, and cosmological implications. Discussions cover results from ADMX, CAST, and theoretical models for dark matter and early universe physics."), Lisbon, Portugal.
-
 2025-09-23 to 26: [DESY Theory Workshop: Synergies Towards the Future Standard Model](https://theoryworkshop2025.desy.de/ "The workshop explores theoretical synergies for the future Standard Model, focusing on beyond-Standard-Model physics. Topics include supersymmetry, dark matter, and effective field theories. Discussions integrate experimental results from LHC and theoretical advancements."), Hamburg, Germany.
 
 2025-09-29 to 10-03: [18th International Workshop on Tau Lepton Physics](https://tau2025.desy.de/ "TAU2025 focuses on tau lepton physics, exploring its role in precision tests of the Standard Model. Topics include tau decays, CP violation, and searches for new physics. The workshop discusses experimental results from Belle II and LHCb, alongside theoretical models for lepton flavor violation and electroweak interactions."), Belgrade, Serbia.
 
 2025-10-13 to 17: [7th Workshop on the Physics of Fundamental Symmetries and Interactions](https://psi2025.web.cern.ch/ "PSI2025 explores fundamental symmetries and interactions, focusing on CP violation, electric dipole moments, and precision measurements. Topics include tests of the Standard Model and searches for new physics. The workshop discusses experimental results from PSI facilities and theoretical models."), Villigen, Switzerland.
+
+2025-10-13 to 17: [28th International Conference on Particle Physics and Cosmology (COSMO 2025)](https://events.mcs.cmu.edu/cosmo-25/ "COSMO-25 explores particle physics and cosmology, focusing on dark matter, dark energy, and early universe physics. Topics include inflationary models, cosmic microwave background, and neutrino cosmology. Discussions integrate observational data and theoretical advancements."), Pittsburgh, PA, USA.
 
 2025-10-27 to 11-01: [16th European Research Conference on Electromagnetic Interactions With Nucleons and Nuclei (EINN 2025)](https://2025.einnconference.org "EINN 2025 focuses on electromagnetic interactions with nucleons and nuclei, covering scattering experiments, nuclear structure, and QCD. Topics include applications in particle physics and astrophysics, emphasizing experimental and theoretical studies of electromagnetic probes in nuclear science."), Paphos, Cyprus.
 

@@ -10,8 +10,6 @@
 
 2025-06-23 to 27: [2nd Workshop on Matter, Astrophysics, Gravitation, Ions and Cosmology](https://magic2025.org/ "The workshop explores intersections of astrophysics, gravitation, and nuclear physics. Topics include gravitational waves, neutron star equations of state, and high-energy astrophysical phenomena. Discussions cover observational data from LIGO and theoretical models for compact objects and cosmological evolution."), Sao Paulo, Brazil.
 
-2025-06-23 to 27: [2nd Workshop on Matter, Astrophysics, Gravitation, Ions and Cosmology](https://magic2025.org/ "The workshop explores intersections of astrophysics, gravitation, and nuclear physics. Topics include gravitational waves, neutron star equations of state, and high-energy astrophysical phenomena. Discussions cover observational data from LIGO and theoretical models for compact objects and cosmological evolution."), Sao Paulo, Brazil.
-
 2025-06-23 to 27: [9th Conference on Chirality, Vorticity and Magnetic Fields in Quantum Matter](https://indico.cern.ch/event/1402262/ "The conference explores chirality, vorticity, and magnetic fields in quantum matter, focusing on QCD and condensed matter. Topics include chiral anomalies, topological effects, and spin dynamics. Discussions cover applications in heavy-ion collisions and quantum materials, bridging experiment and theory."), Florence, Italy.
 
 2025-06-25 to 27: [17th International Conference on Nuclear Structure Properties (NSP 2025)](https://nsp2025.cumhuriyet.edu.tr/ "Examines nuclear structure and properties. Topics include nuclear models, spectroscopy, and reaction mechanisms, with applications in understanding nuclear interactions and fundamental physics."), Sivas, Turkey.

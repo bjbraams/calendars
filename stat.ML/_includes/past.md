@@ -46,8 +46,6 @@
 
 2025-06-16 to 2025-06-20: [Nordic Probabilistic AI School 2025](https://nips.cc/Conferences/2025/CallsForWorkshops "The school trains researchers in probabilistic AI, with applications in physics. Topics include Bayesian inference, generative models, and uncertainty quantification. Lectures cover techniques for particle physics data analysis and cosmological modeling, emphasizing probabilistic methods."), Helsinki, Finland.
 
-2025-06-16 to 2025-06-20: [Theoretical Foundations of Machine Learning Course 2025](https://malga.unige.it/education/schools/tfml/ "The course trains researchers in machine learning theory, with physics applications. Topics include statistical learning, neural networks, and optimization. Lectures cover applications in particle physics and cosmology, emphasizing theoretical foundations."), Genova, Italy.
-
 2025-06-16 to 20: [International Society for Bayesian Analysis Bayes Comp Meeting (BayesComp 2025)](https://bayescomp2025.sg "BayesComp 2025 explores computational Bayesian methods, focusing on Markov chain Monte Carlo, variational inference, and scalable algorithms. Topics include Bayesian deep learning, applications in biostatistics and finance, emphasizing computational advances in Bayesian statistical modeling."), Singapore.
 
 2025-06-16 to 27: [17th Madrid UPM Machine Learning and Advanced Statistics Summer School (2025)](https://cig.fi.upm.es/mlas/ "This summer school explores machine learning and advanced statistics, covering deep learning, Bayesian inference, and high-dimensional statistics. Topics include neural networks, time-series analysis, and applications in finance and biology, emphasizing theoretical and practical data science."), Madrid, Spain.

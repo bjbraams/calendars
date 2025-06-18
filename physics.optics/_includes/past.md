@@ -8,7 +8,7 @@
 
 2025-02-01 to 2025-02-06: [LASE 2025](https://spie.org/photonics-west/LASE "LASE 2025 explores laser applications in science and technology, focusing on physics. Topics include laser spectroscopy, ultrafast lasers, and photonic materials. Discussions cover advancements in quantum optics and astrophysical measurements, emphasizing laser-based technologies."), San Francisco, CA, USA.
 
-2025-03-30 to 2025-04-03: [Optical Fiber Communication Conference (OFC 2025)](https://www.ofcconference.org/ "OFC 2025 explores optical fiber communications, with applications in physics. Topics include photonics, optical signal processing, and quantum communication. Discussions cover advancements in astrophysical data transmission and quantum networks, emphasizing optical technologies."), San Diego, CA, USA.
+2025-03-30 to 2025-04-03: [Optical Fiber Communication Conference (OFC 2025)](https://web.archive.org/web/20250331225342/https://www.ofcconference.org/en-us/home/ "OFC 2025 explores optical fiber communications, with applications in physics. Topics include photonics, optical signal processing, and quantum communication. Discussions cover advancements in astrophysical data transmission and quantum networks, emphasizing optical technologies."), San Francisco, CA, USA.
 
 2025-04-14 to 2025-04-17: [SPIE Photonics Europe 2026](https://spie.org/conferences/photonics-europe "SPIE Photonics Europe explores photonics advancements, with physics applications. Topics include metamaterials, quantum photonics, and biophotonics. Discussions cover applications in quantum computing and cosmological data transmission, advancing photonic technologies."), Strasbourg, France.
 

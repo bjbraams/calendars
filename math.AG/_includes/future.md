@@ -1,5 +1,3 @@
-2025-06-23 to 2025-06-27: [Arithmetic and Algebraic Geometry](https://indico.math.cnrs.fr/event/13361/ "The conference explores arithmetic and algebraic geometry, focusing on number theory. Topics include elliptic curves, Diophantine equations, and Galois representations. Discussions cover applications in theoretical physics and cryptography, emphasizing algebraic structures in physical systems."), Villeurbanne, France.
-
 2025-06-23 to 2025-06-27: [Geometric Aspects of the Langlands Correspondence](https://geometric-langlands-2025.esaga.net/ "The conference explores geometric aspects of the Langlands correspondence, focusing on number theory. Topics include moduli stacks, Hitchin systems, and automorphic forms. Discussions cover applications in string theory and quantum field theory, emphasizing geometric structures."), Lisbon, Portugal.
 
 2025-06-23 to 2025-06-27: [Modular in Bielefeld](https://www.math.uni-bielefeld.de/mib2025/ "The workshop focuses on modular forms, exploring their role in number theory and physics. Topics include elliptic modular forms, Siegel modular forms, and arithmetic geometry. Discussions cover applications in quantum field theory and cryptographic systems."), Bielefeld, Germany.
@@ -35,10 +33,6 @@
 2025-07-14 to 18: [30th International Conference on Applications of Computer Algebra](https://www.uoc.gr/en/aca-2025-30th-international-conference-on-applications-of-computer-algebra/ "The conference explores computer algebra applications in physics and mathematics. Topics include symbolic computation, algebraic geometry, and numerical methods. Applications span quantum mechanics, cryptography, and theoretical physics, emphasizing computational tools for solving complex algebraic systems."), Athens, Greece.
 
 2025-07-14 to 18: [Conference on Euler Systems](https://www.nisyrosmathconference.org/ "The conference focuses on Euler systems in number theory, exploring arithmetic geometry. Topics include L-functions, Galois cohomology, and elliptic curves. Discussions cover applications in quantum field theory and cryptography, emphasizing arithmetic structures in physical systems."), Nisyros, Greece.
-
-2025-07-14 to 2025-07-25: [SMI Summer Courses 2025](https://www.altamatematica.it/smi/summer-courses/ "SMI Cortona trains students in mathematical physics and geometry. Topics include differential geometry, algebraic topology, and quantum field theory. Lectures cover applications in string theory and condensed matter physics, emphasizing mathematical rigor."), Cortona, Italy.
-
-2025-07-14 to 2025-07-25: [SMI Summer Courses 2025](https://www.altamatematica.it/smi/summer-courses/ "SMI Perugia offers courses in advanced mathematics, focusing on physical applications. Topics include symplectic geometry, representation theory, and PDEs. Discussions cover connections to quantum mechanics and cosmology, emphasizing mathematical structures."), Perugia, Italy.
 
 2025-07-14 to 2025-07-25: [Trento SinG 2025 Summer School in Algebraic Geometry](https://www.math.unitn.it/node/3040 "SinG 2025 trains students in algebraic geometry, focusing on physical applications. Topics include singularities, moduli spaces, and mirror symmetry. Lectures cover connections to string theory and quantum field theory, emphasizing geometric structures."), Trento, Italy.
 

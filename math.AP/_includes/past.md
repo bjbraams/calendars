@@ -26,8 +26,6 @@
 
 2025-06-09 to 13: [Calculus of Variations and Free Boundary Problems X](https://cvgmt.sns.it/events/?year=2025 "The workshop focuses on calculus of variations and free boundary problems, exploring mathematical models in physics. Topics include phase transitions, minimal surfaces, and obstacle problems. Discussions cover applications in fluid dynamics and materials science, emphasizing PDE-based solutions."), Pisa, Italy.
 
-2025-06-09 to 13: [CoScaRa Workshop: Deterministic and Stochastic Advection in Fluid Dynamics](https://dmi.unibas.ch/en/personen/gianluca-crippa/coscara-workshop-2025/ "The workshop explores advection in fluid dynamics, focusing on deterministic and stochastic models. Topics include transport equations, turbulence, and stochastic PDEs. Discussions cover applications in atmospheric physics and plasma dynamics, emphasizing mathematical modeling."), Basel, Switzerland.
-
 2025-06-09 to 2025-06-13: [Geometric Methods in Calculus of Variations](https://cvgmt.sns.it/event/959/ "The workshop explores geometric methods in calculus of variations, focusing on physical applications. Topics include minimal surfaces, curvature-driven flows, and energy minimization. Discussions cover modeling fluid dynamics and quantum systems, emphasizing geometric PDE techniques."), Pisa, Italy.
 
 2025-06-09 to 2025-06-13: [Warsaw Summer School on Evolutionary PDEs](https://evolutionarypdes2025.icm.edu.pl/warsaw-summer-school/ "The summer school trains students in evolutionary PDEs, focusing on physical applications. Topics include parabolic and hyperbolic equations, nonlinear PDEs, and stability analysis. Lectures cover applications in plasma physics and quantum mechanics."), Warsaw, Poland.
@@ -74,8 +72,6 @@
 
 2025-06-16 to 20: [Calculus of Variations and PDEs in Geometric Analysis](https://sites.google.com/uniroma1.it/excellence-department-ga "The conference explores calculus of variations and PDEs in geometric analysis, focusing on applications in physics. Topics include minimal surfaces, curvature flows, and Einstein manifolds. Discussions cover geometric methods in general relativity and quantum field theory, emphasizing mathematical rigor."), Rome, Italy.
 
-2025-06-16 to 20: [Conference on Differential Geometry, Analysis and Epistemology in Honor of Marco Rigoli's 70th Birthday (2025)](https://sites.google.com/view/dgaemi25 "Explores differential geometry, analysis, and epistemology. Topics include geometric analysis, PDEs on manifolds, and mathematical philosophy, with applications in physics and geometry."), Milan, Italy.
-
 2025-06-16 to 20: [Differential Geometry, Analysis and Epistemology in Milan](https://sites.google.com/view/dgaemi25 "Honoring Marco Rigoli, the conference explores differential geometry and analysis. Topics include Riemannian manifolds, geometric PDEs, and curvature flows. Discussions cover applications in general relativity and quantum mechanics, emphasizing geometric and analytical methods."), Milan, Italy.
 
 2025-06-16 to 20: [Algebraic and Geometric Methods in Analysis](https://www.geometry-odesa.org/2025 "The workshop explores algebraic and geometric methods in analysis, focusing on applications in physics. Topics include geometric PDEs, algebraic topology, and variational methods. Discussions cover applications in fluid dynamics, quantum mechanics, and materials science, emphasizing mathematical modeling."), Odesa, Ukraine.
@@ -83,6 +79,4 @@
 2025-06-16 to 27: [CIMPA School 2025: Optimal Transport, PDEs, and Optimization in Data Science](https://cvgmt.sns.it/event/971/ "The school trains researchers in optimal transport, PDEs, and optimization for data science, with physics applications. Topics include Wasserstein metrics, gradient flows, and machine learning. Lectures cover techniques for cosmological data analysis and fluid dynamics modeling."), Essaouira, Morocco.
 
 2025-06-16 to 27: [Summer School on PDE and Probability (2025)](https://indico.math.cnrs.fr/event/13554/ "This summer school explores partial differential equations and probability, covering stochastic PDEs, random fields, and probabilistic methods. Topics include fluid dynamics and statistical physics applications, emphasizing the interplay between deterministic and probabilistic frameworks."), Paris, France.
-
-2025: [Diffusion in Warsaw 2025](https://evolutionarypdes2025.icm.edu.pl/diffusion-in-warsaw/ "The workshop explores diffusion processes, focusing on mathematical models in physics. Topics include parabolic PDEs, stochastic diffusion, and transport phenomena. Discussions cover applications in fluid dynamics, plasma physics, and biological systems, emphasizing PDE-based modeling."), Warsaw, Poland.
 

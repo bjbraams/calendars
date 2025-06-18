@@ -24,8 +24,6 @@
 
 2025-06-30 to 2025-07-04: [Sub-Riemannian Geometry and Beyond, IV](https://sites.google.com/view/srgb/home/4 "The conference explores sub-Riemannian geometry, focusing on applications in physics. Topics include hypoelliptic operators, geometric control, and non-holonomic systems. Discussions cover connections to quantum mechanics and robotics, emphasizing geometric analysis."), Lisbon, Portugal.
 
-2025-06-30 to 2025-07-04: [CIME School: Symplectic Dynamics and Topology](https://www.cimec.unitn.it/2740/cime-schools-2025 "The CIME school explores symplectic dynamics and topology, focusing on physical applications. Topics include Hamiltonian dynamics, symplectic invariants, and Floer theory. Lectures cover connections to quantum mechanics and string theory, emphasizing geometric and dynamical structures."), Cetraro, Italy.
-
 2025-06-30 to 2025-07-11: [ENS Summer Institute](https://www.ens.psl.eu/ens-summer-institute-2025/ "The ENS Summer Institute trains researchers in theoretical physics, covering quantum field theory and string theory. Topics include conformal field theories, holography, and quantum gravity. Lectures emphasize mathematical methods and their applications to particle physics and cosmology."), Paris, France.
 
 2025-07-06 to 12: [British Isles Graduate Workshop VI: Minimal Surfaces](https://onlinestore.ucl.ac.uk/conferences-and-events/faculty-of-mathematical-physical-sciences-c06/mathematics-f59/f59-british-isles-graduate-workshop-vi-minimal-surfaces "The workshop trains graduate students in minimal surfaces, focusing on geometric analysis. Topics include mean curvature flows, variational methods, and applications in physics. Discussions cover minimal surfaces in general relativity and condensed matter, emphasizing mathematical rigor."), Totland, United Kingdom.
@@ -42,13 +40,7 @@
 
 2025-07-14 to 2025-07-25: [European School of Differential Geometry](https://www.univaq.it/news.php?id=16262 "The school trains researchers in differential geometry, focusing on applications in physics. Topics include Riemannian geometry, symplectic structures, and geometric analysis. Lectures cover connections to general relativity, string theory, and quantum mechanics, emphasizing geometric frameworks."), L'Aquila, Italy.
 
-2025-07-14 to 2025-07-25: [Petnica Summer School on String Theory](https://psi2025.petnica.rs/ "The summer school introduces string theory, focusing on theoretical physics. Topics include D-branes, AdS/CFT correspondence, and quantum gravity. Lectures cover applications in particle physics and cosmology, emphasizing mathematical and physical frameworks."), Valjevo, Serbia.
-
 2025-07-14 to 2025-07-25: [Physical Mathematics of Quantum Field Theory Summer School 2025](https://www.ipmu.jp/en/PMQFTSS25 "PMQFTSS25 trains researchers in the mathematics of quantum field theory. Topics include conformal field theory, scattering amplitudes, and topological QFT. Lectures cover applications in string theory and condensed matter, emphasizing mathematical structures."), Tokyo, Japan.
-
-2025-07-14 to 2025-07-25: [SMI Summer Courses 2025](https://www.altamatematica.it/smi/summer-courses/ "SMI Cortona trains students in mathematical physics and geometry. Topics include differential geometry, algebraic topology, and quantum field theory. Lectures cover applications in string theory and condensed matter physics, emphasizing mathematical rigor."), Cortona, Italy.
-
-2025-07-14 to 2025-07-25: [SMI Summer Courses 2025](https://www.altamatematica.it/smi/summer-courses/ "SMI Perugia offers courses in advanced mathematics, focusing on physical applications. Topics include symplectic geometry, representation theory, and PDEs. Discussions cover connections to quantum mechanics and cosmology, emphasizing mathematical structures."), Perugia, Italy.
 
 2025-07-14 to 2025-07-25: [Trento SinG 2025 Summer School in Algebraic Geometry](https://www.math.unitn.it/node/3040 "SinG 2025 trains students in algebraic geometry, focusing on physical applications. Topics include singularities, moduli spaces, and mirror symmetry. Lectures cover connections to string theory and quantum field theory, emphasizing geometric structures."), Trento, Italy.
 
@@ -67,8 +59,6 @@
 2025-08-31 to 09-05: [Oberwolfach Workshop on Large Scale Stochastic Dynamics (2025)](https://mfo.de/occasion/2536/www_view "This workshop explores large-scale stochastic dynamics, covering random processes, stochastic PDEs, and scaling limits. Topics include applications in statistical physics, biology, and finance, emphasizing probabilistic and analytical methods for modeling complex stochastic systems."), Oberwolfach, Germany.
 
 2025-09-01 to 05: [16th QMATH Conference on Mathematical Results in Quantum Theory (QMATH 2025)](https://sites.google.com/view/qmath16/ "QMATH 2025 explores mathematical quantum theory, covering quantum mechanics, quantum information, and operator algebras. Topics include entanglement, quantum algorithms, and applications in quantum computing, emphasizing rigorous mathematical frameworks for quantum systems and phenomena."), Garching/Munich, Germany.
-
-2025-09-01 to 2025-09-06: [XV Annual International Conference of the Georgian Mathematical Union](https://gmu.gtu.ge/conferences/wp-content/uploads/2025/04/Second-Announcement-23-04-2025.pdf "The conference addresses advancements in mathematics, focusing on physical applications. Topics include analysis, geometry, and number theory. Discussions cover connections to quantum field theory and astrophysics, advancing interdisciplinary mathematical research."), Batumi, Georgia.
 
 2025-09-01 to 2025-09-06: [XV Annual International Conference of the Georgian Mathematical Union](https://gmu.gtu.ge/conference-2025/ "The conference covers diverse mathematical fields with physics applications. Topics include algebra, topology, and differential equations. Discussions explore theoretical advancements and applications in quantum mechanics and cosmology, emphasizing mathematical rigor."), Batumi, Georgia.
 

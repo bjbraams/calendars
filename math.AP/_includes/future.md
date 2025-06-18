@@ -12,8 +12,6 @@
 
 2025-06-23 to 2025-06-27: [Perspectives in Geometric Analysis](https://cvgmt.sns.it/event/1004/ "The workshop investigates geometric analysis, with applications in physics. Topics include harmonic maps, Ricci flow, and geometric inequalities. Discussions explore implications for quantum mechanics and general relativity, emphasizing geometric and analytical techniques."), Milan, Italy.
 
-2025-06-23 to 27: [21st School on Interactions between Dynamical Systems and Partial Differential Equations](https://www.crm.cat/jisd2025/ "The school explores interactions between dynamical systems and PDEs, with applications in physics. Topics include nonlinear dynamics, wave equations, and chaos in fluid systems. Lectures cover mathematical techniques for modeling complex systems, emphasizing applications in hydrodynamics, plasma physics, and pattern formation."), Barcelona, Spain.
-
 2025-06-23 to 27: [BRIN Workshop on Stochastic PDEs (2025)](https://brinmrc.umd.edu/programs/workshops/summer25/summer25-workshop-pdes.html "This workshop focuses on stochastic partial differential equations, covering regularity, numerical methods, and probabilistic solutions. Topics include stochastic heat equations, applications in fluid dynamics and finance, emphasizing mathematical and computational approaches to stochastic PDEs."), College Park, MD, USA.
 
 2025-06-23 to 27: [Calculus of Variations & Applications in Florence](https://cvgmt.sns.it/news/120/ "The conference explores calculus of variations, focusing on applications in physical systems. Topics include energy functionals, nonlinear PDEs, and shape optimization. Discussions cover modeling fluid dynamics, elasticity, and quantum mechanics, advancing mathematical techniques for complex phenomena."), Florence, Italy.

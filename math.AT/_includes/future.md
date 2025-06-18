@@ -4,5 +4,3 @@
 
 2025-08-04 to 08: [Summer School on Topological Data Analysis in Stochastic Geometry and Image Processing (2025)](https://sites.google.com/view/aarhustda/ "This summer school focuses on topological data analysis, covering persistent homology, stochastic geometry, and image processing. Topics include applications in shape analysis, network science, and medical imaging, emphasizing computational topology for stochastic and image data."), Aarhus Institute of Advanced Studies, Aarhus, Denmark.
 
-2025-08-18 to 2025-12-12: [Homotopy Theory and Floer Homology](https://www.mittag-leffler.se/activities/homotopy-theory-and-floer-homology/ "The program explores homotopy theory and Floer homology, focusing on topological applications. Topics include symplectic Floer homology, homotopy categories, and gauge theory. Discussions cover connections to quantum field theory and string theory, emphasizing mathematical structures."), Stockholm, Sweden.
-

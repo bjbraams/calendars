@@ -98,10 +98,10 @@ with open('_data/new-'+TODAY+'.yml', 'a') as f0:
     if latest:
         myyaml.dump(latest,f0)
 with open('_data/latest.yml', 'w') as f0:
-    f0.write('# <name>:{dd,link,loc,more}\n')
+    f0.write('# <name>:{dd,url,loc,more}\n')
 with open('_data/deletes.yml', 'w') as f0:
     f0.write('# <name>:\n')
 with open('_data/updates.yml', 'w') as f0:
-    f0.write('# <name>:{dd,link,loc,more}\n')
+    f0.write('# <name>:{dd,url,loc,more}\n')
 
 print('Now do YAML to MD and git update')

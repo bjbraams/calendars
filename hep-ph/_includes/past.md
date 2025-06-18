@@ -14,13 +14,13 @@
 
 2025-03-10 to 2025-03-14: [DPG Spring Meeting: Section Matter and Cosmos](https://www.dpg-physik.de/tagungen/fruehjahrstagungen/2025/smuk "The DPG Spring Meeting explores matter and cosmos, focusing on particle physics and cosmology. Topics include dark matter searches, gravitational waves, and QCD dynamics. Discussions cover experimental results from LHC and cosmological observations, advancing fundamental physics understanding."), Bonn, Germany.
 
-2025-03-15 to 22: [59th Rencontres de Moriond on Electroweak Interactions and Unified Theories](https://moriond.in2p3.fr/ "Moriond EW 2025 explores electroweak interactions and unified theories, focusing on the Standard Model and beyond. Topics include Higgs physics, gauge boson interactions, and searches for new physics. The conference discusses experimental results from LHC and theoretical models for unification."), La Thuile, Italy.
-
 2025-03-17 to 21: [Beyond Standard Model: From Theory to Experiment](https://indico.cern.ch/event/1507517/ "BSM-2025 explores beyond-Standard-Model physics, focusing on new particles and interactions. Topics include supersymmetry, dark matter, and extra dimensions. The conference discusses experimental searches at LHC and theoretical models, advancing understanding of fundamental physics."), CERN, Geneva, Switzerland.
 
-2025-03-22 to 29: [59th Rencontres de Moriond on QCD and High Energy Interactions](https://moriond.in2p3.fr/ "Moriond QCD 2025 explores quantum chromodynamics and high-energy interactions, focusing on hadron physics and jet production. Topics include parton distributions, heavy quark dynamics, and QCD at high energies. The conference discusses experimental results from LHC and theoretical advancements."), La Thuile, Italy.
+2025-03-23 to 30: [59th Rencontres de Moriond on Electroweak Interactions and Unified Theories](https://moriond.in2p3.fr/2025/EW/ "Moriond EW 2025 explores electroweak interactions and unified theories, focusing on the Standard Model and beyond. Topics include Higgs physics, gauge boson interactions, and searches for new physics. The conference discusses experimental results from LHC and theoretical models for unification."), La Thuile, Italy.
 
 2025-03-24 to 28: [3rd Annual LPC Effective Field Theory Workshop](https://indico.cern.ch/event/1411050/ "The workshop focuses on effective field theories in particle physics, exploring applications in QCD and electroweak interactions. Topics include precision calculations, beyond-Standard-Model physics, and dark matter models. Discussions emphasize theoretical techniques for LHC data interpretation and new physics searches."), Batavia, IL, USA.
+
+2025-03-30 to 04-06: [59th Rencontres de Moriond on QCD and High Energy Interactions](https://moriond.in2p3.fr/2025/QCD/ "Moriond QCD 2025 explores quantum chromodynamics and high-energy interactions, focusing on hadron physics and jet production. Topics include parton distributions, heavy quark dynamics, and QCD at high energies. The conference discusses experimental results from LHC and theoretical advancements."), La Thuile, Italy.
 
 2025-04-01 to 2025-04-04: [Standard Model at the LHC 2025](https://indico.cern.ch/event/1392137/ "SM@LHC 2025 explores Standard Model physics at the LHC, focusing on precision measurements. Topics include Higgs couplings, QCD, and electroweak processes. Discussions cover experimental data and theoretical predictions, advancing particle physics."), Florence, Italy.
 
@@ -29,8 +29,6 @@
 2025-04-07 to 11: [17th Meeting of the Quarkonium Working Group](https://indico.cern.ch/event/1402339/ "QWG 2025 explores quarkonium physics, focusing on heavy quark-antiquark systems. Topics include spectroscopy, production mechanisms, and decay processes in QCD. The meeting discusses experimental data from LHC and theoretical models like non-relativistic QCD, addressing quarkonium’s role in probing strong interactions and new physics."), CERN, Geneva, Switzerland.
 
 2025-04-07 to 11: [32nd International Workshop on Deep Inelastic Scattering and Related Subjects](https://dis2025.desy.de/ "DIS2025 focuses on deep inelastic scattering, exploring QCD and nuclear structure. Topics include parton distribution functions, gluon saturation, and spin physics. The workshop discusses experimental results from HERA, LHC, and future colliders, alongside theoretical advancements in perturbative QCD."), Hamburg, Germany.
-
-2025-04-07 to 2025-04-09: [IberiCos 2025](https://ibericos2025.cosmos/ "IberiCos 2025 explores cosmology and particle physics, focusing on Iberian research. Topics include dark matter, cosmic inflation, and gravitational waves. Discussions integrate observational data and theoretical models, advancing regional and global cosmological insights."), Coimbra, Portugal.
 
 2025-04-07 to 2025-04-11: [Joint International Workshop on Hadron Structure and Spectroscopy and the QCD Structure of the Nucleon](https://indico.cern.ch/event/1402304/ "IWHSS-QCD-N'25 explores hadron structure and QCD, focusing on nucleon properties. Topics include form factors, parton distributions, and spectroscopy. Discussions cover experimental data from JLab and theoretical QCD models, advancing nuclear physics insights."), Lisbon, Portugal.
 
@@ -86,8 +84,6 @@
 
 2025-06-09 to 13: [32nd International Conference on Supersymmetry and Unification of Fundamental Interactions](https://susy2025.org/ "SUSY 2025 focuses on supersymmetry and unification, exploring beyond-Standard-Model physics. Topics include supersymmetric particle searches, grand unified theories, and dark matter. The conference discusses experimental constraints from LHC and theoretical models for unifying fundamental interactions."), Munich, Germany.
 
-2025-06-09 to 13: [3rd Training School of the COST Action: Cosmic WISPers](https://www.cosmic-wispers.eu/ "The school trains researchers in weakly interacting slim particles (WISPers), focusing on axions and dark photons. Topics include experimental techniques, astrophysical probes, and theoretical models. Lectures cover searches with ADMX, CAST, and cosmological implications for dark matter and early universe physics."), Padua, Italy.
-
 2025-06-09 to 13: [Axions in Stockholm 2025](https://indico.cern.ch/event/1411042/ "The workshop explores axions as dark matter candidates, focusing on experimental searches and theoretical models. Topics include axion electrodynamics, cosmological constraints, and detection techniques. Discussions cover experiments like ADMX and implications for particle physics and cosmology."), Stockholm, Sweden.
 
 2025-06-09 to 13: [CERN Neutrino Platform Pheno Week 2025](https://indico.cern.ch/event/1381255/ "The workshop focuses on neutrino phenomenology, exploring oscillations, masses, and interactions. Topics include sterile neutrinos, CP violation, and non-standard interactions. Discussions cover experimental results from DUNE and Hyper-Kamiokande, alongside theoretical models for neutrino physics."), CERN, Geneva, Switzerland.
@@ -97,6 +93,8 @@
 2025-06-09 to 2025-06-13: [Negative-Weights Suppression in Monte Carlo Samples](https://indico.cern.ch/event/1410991/ "The workshop addresses negative-weight suppression in Monte Carlo simulations, focusing on particle physics. Topics include event reweighting, phase-space optimization, and computational efficiency. Discussions cover applications in LHC simulations, advancing precision in theoretical predictions."), CERN, Geneva, Switzerland.
 
 2025-06-14 to 22: [65th Jubilee Cracow School of Theoretical Physics: Fundamental Interactions](https://th.if.uj.edu.pl/school/ "The school celebrates 65 years of theoretical physics, focusing on fundamental interactions. Topics include quantum field theory, string theory, and particle physics. Lectures cover advancements in QCD, electroweak theory, and quantum gravity, bridging theoretical and experimental research."), Zakopane, Poland.
+
+2025-06-16 to 19: [3rd Training School of the COST Action Cosmic WISPers (CA21106)](https://indico.in2p3.fr/event/35550/ "The school trains researchers in weakly interacting slim particles (WISPers), focusing on axions and dark photons. Topics include experimental techniques, astrophysical probes, and theoretical models. Lectures cover searches with ADMX, CAST, and cosmological implications for dark matter and early universe physics."), Annecy, France.
 
 2025-06-16 to 2025-06-18: [LoopFest XXIII](https://loopfest.org/ "LoopFest XXIII explores loop calculations in quantum field theory, focusing on particle physics. Topics include multi-loop amplitudes, Feynman integrals, and precision QCD. Discussions cover applications in LHC phenomenology and theoretical advancements in QFT."), Chicago, IL, USA.
 

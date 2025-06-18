@@ -50,7 +50,7 @@
 
 2025-06-16 to 2025-06-20: [New Perspectives on Skein Modules](https://www.cirm-math.fr/fr/evenements/new-perspectives-on-skein-modules/ "The conference explores skein modules, focusing on topological and algebraic applications. Topics include skein algebras, knot invariants, and quantum topology. Discussions cover connections to quantum field theory and string theory, emphasizing topological structures."), Marseille, France.
 
-2025-06-16 to 2025-06-20: [Progress and Emergent Theories in Zeta and L-Functions](https://www.mpim-bonn.mpg.de/pretzl "PRETZL explores zeta and L-functions, focusing on number theory and physics. Topics include Riemann zeta function, L-function zeros, and random matrix theory. Discussions cover applications in quantum chaos and string theory, emphasizing arithmetic connections."), Bonn, Germany.
+2025-06-16 to 2025-06-20: [Progress and Emergent Theories in Zeta and L-Functions](https://www.mpim-bonn.mpg.de/pretzl-2025 "PRETZL explores zeta and L-functions, focusing on number theory and physics. Topics include Riemann zeta function, L-function zeros, and random matrix theory. Discussions cover applications in quantum chaos and string theory, emphasizing arithmetic connections."), Bonn, Germany.
 
 2025-06-16 to 2025-06-20: [QFT at the Crossroads Between Mathematics and Physics](https://indico.cern.ch/event/1402319/ "The conference explores quantum field theory at the intersection of mathematics and physics. Topics include conformal field theory, algebraic QFT, and topological phases. Discussions cover applications in string theory and condensed matter, emphasizing mathematical rigor."), Lisbon, Portugal.
 
@@ -73,8 +73,6 @@
 2025-06-16 to 2025-06-20: [New Perspectives on Skein Modules](https://www.cirm-math.fr/skein-modules-2025 "The conference focuses on skein modules, bridging topology and quantum physics. Topics include skein theory, link homology, and quantum groups. Discussions explore applications in string theory and topological quantum field theory, emphasizing geometric and algebraic insights."), Marseille, France.
 
 2025-06-16 to 2025-06-20: [Number Theory and Quantum Chaos: Interfaces – Celebrating Zeev Rudnick’s 64th Birthday](http://www.math.tau.ac.il/~barylior/conferences/Rudnick2025/ "Celebrating Zeev Rudnick, the conference explores interfaces between number theory and quantum chaos. Topics include L-functions, random matrix theory, and spectral statistics. Discussions cover applications in quantum mechanics and string theory, emphasizing interdisciplinary connections."), Tel Aviv, Israel.
-
-2025-06-16 to 2025-06-20: [Progress and Emergent Theories in Zeta and L-Functions](https://www.mpim-bonn.mpg.de/pretzl-2025 "The conference investigates zeta and L-functions, bridging number theory and physics. Topics include analytic number theory, L-function distributions, and quantum chaos. Discussions explore implications for string theory and cryptographic systems, emphasizing emergent theoretical insights."), Bonn, Germany.
 
 2025-06-16 to 2025-06-20: [Structures and Symmetries in Algebraic Geometry](https://www.novotelkrakow.pl/structures-2025 "The conference explores symmetries in algebraic geometry, focusing on physical applications. Topics include group actions, moduli spaces, and mirror symmetry. Discussions cover connections to string theory and quantum field theory, emphasizing geometric structures."), Kraków, Poland.
 

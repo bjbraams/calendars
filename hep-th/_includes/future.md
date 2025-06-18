@@ -42,8 +42,6 @@
 
 2025-07-14 to 18: [Amplitudes 2025 Conference](https://indico.cern.ch/event/1411028/ "The conference focuses on scattering amplitudes in quantum field theory, exploring applications in particle physics. Topics include perturbative QCD, N=4 super Yang-Mills, and amplitude techniques for gravity. Discussions cover theoretical advancements and their implications for LHC experiments."), Edinburgh, United Kingdom.
 
-2025-07-14 to 2025-07-25: [Petnica Summer School on String Theory](https://psi2025.petnica.rs/ "The summer school introduces string theory, focusing on theoretical physics. Topics include D-branes, AdS/CFT correspondence, and quantum gravity. Lectures cover applications in particle physics and cosmology, emphasizing mathematical and physical frameworks."), Valjevo, Serbia.
-
 2025-07-14 to 2025-07-25: [Physical Mathematics of Quantum Field Theory Summer School 2025](https://www.ipmu.jp/en/PMQFTSS25 "PMQFTSS25 trains researchers in the mathematics of quantum field theory. Topics include conformal field theory, scattering amplitudes, and topological QFT. Lectures cover applications in string theory and condensed matter, emphasizing mathematical structures."), Tokyo, Japan.
 
 2025-07-14 to 2025-07-25: [Tales of Black Holes: International Summer School on Advanced Black Hole Physics](https://indico.cern.ch/event/1411040/ "TBH'25 focuses on advanced black hole physics, training students in theoretical and observational aspects. Topics include Kerr black holes, information paradox, and AdS/CFT. Discussions cover quantum gravity and astrophysical implications, enhancing black hole research."), Granada, Spain.
@@ -60,13 +58,11 @@
 
 2025-08-04 to 2025-08-15: [V Joint ICTP-Trieste/ICTP-SAIFR School on Cosmology](https://www.ictp-saifr.org/events/v-joint-ictp-triesteictp-saifr-school-on-cosmology/ "The school trains students in cosmology, focusing on theoretical and observational aspects. Topics include inflation, dark energy, and CMB analysis. Lectures cover modern cosmological models and observational data, advancing cosmological research."), São Paulo, Brazil.
 
-2025-08-17 to 2025-08-22: [First International Quantum Horizons Symposium](https://www.quantumhorizons.ca/symposium "The symposium explores quantum science, focusing on quantum computing and quantum information. Topics include quantum algorithms, entanglement, and quantum error correction. Discussions cover applications in particle physics and quantum gravity, advancing theoretical and experimental quantum research."), Banff, AB, Canada.
-
-2025-08-17 to 2025-08-22: [First International Quantum Horizons Symposium](https://www.quantumhorizons.ca/symposium "The symposium investigates quantum science’s potential, focusing on quantum technologies. Topics include quantum cryptography, quantum simulation, and topological quantum computing. Discussions explore applications in high-energy physics and cosmology, emphasizing quantum advancements for fundamental research."), Banff, AB, Canada.
-
 2025-08-17 to 29: [British Universities Summer School in Theoretical Elementary Particle Physics 2025](https://busstepp.ac.uk/ "BUSSTEPP 2025 trains graduate students in theoretical elementary particle physics, focusing on quantum field theory and beyond-Standard-Model physics. Topics include supersymmetry, string theory, and dark matter models. Lectures cover advanced techniques for collider phenomenology and cosmological implications, preparing students for cutting-edge research."), Durham, United Kingdom.
 
 2025-08-18 to 2025-08-22: [Integrability in Gauge and String Theory 2025](https://indico.cern.ch/event/1402273/ "IGST2025 explores integrability in gauge and string theories, focusing on quantum field theory. Topics include Yang-Baxter equations, Bethe ansatz, and AdS/CFT. Discussions cover applications in string theory and condensed matter, advancing theoretical physics."), Lisbon, Portugal.
+
+2025-08-20 to 2025-08-22: [First International Quantum Horizons Symposium](https://www.quantumhorizonsab.ca/fiqh-symposium "The symposium explores quantum science, focusing on quantum computing and quantum information. Topics include quantum algorithms, entanglement, and quantum error correction. Discussions cover applications in particle physics and quantum gravity, advancing theoretical and experimental quantum research."), Banff, AB, Canada.
 
 2025-08-25 to 09-05: [31st Saalburg Summer School on Foundations and New Methods in Theoretical Physics](https://www.saalburg.org/ "The school trains researchers in theoretical physics, focusing on quantum field theory, string theory, and quantum gravity. Topics include holography, conformal field theories, and black hole physics. Lectures emphasize modern mathematical methods and their applications to fundamental physics questions."), Wolfersdorf, Germany.
 

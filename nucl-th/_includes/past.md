@@ -20,7 +20,7 @@
 
 2025-03-16 to 22: [20th Russbach School on Nuclear Astrophysics (2025)](https://events.hifis.net/event/1817/ "This school explores nuclear astrophysics, focusing on stellar nucleosynthesis, nuclear reaction networks, and neutron star physics. Topics include explosive burning, weak interaction processes, and their role in cosmic evolution, bridging experimental nuclear physics and astrophysical modeling."), Russbach, Austria.
 
-2025-03-22 to 29: [59th Rencontres de Moriond on QCD and High Energy Interactions](https://moriond.in2p3.fr/ "Moriond QCD 2025 explores quantum chromodynamics and high-energy interactions, focusing on hadron physics and jet production. Topics include parton distributions, heavy quark dynamics, and QCD at high energies. The conference discusses experimental results from LHC and theoretical advancements."), La Thuile, Italy.
+2025-03-30 to 04-06: [59th Rencontres de Moriond on QCD and High Energy Interactions](https://moriond.in2p3.fr/2025/QCD/ "Moriond QCD 2025 explores quantum chromodynamics and high-energy interactions, focusing on hadron physics and jet production. Topics include parton distributions, heavy quark dynamics, and QCD at high energies. The conference discusses experimental results from LHC and theoretical advancements."), La Thuile, Italy.
 
 2025-04-07 to 10: [16th Fusion Neutronics Meeting ITER and Beyond (FNM 2025)](http://tecfir.uned.es/NeutronicsMeeting.html "Focuses on neutronics for fusion energy. Topics include neutron transport, radiation shielding, and computational modeling for ITER and next-generation fusion reactors."), Madrid, Spain.
 

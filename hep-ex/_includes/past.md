@@ -12,8 +12,6 @@
 
 2025-03-10 to 14: [AI+HEP in East Asia](https://indico.cern.ch/event/1392709/ "The workshop explores AI applications in high-energy physics, focusing on East Asian research. Topics include machine learning for particle identification, event reconstruction, and data analysis. Discussions cover AI-driven advancements in LHC experiments and neutrino physics, emphasizing regional collaboration."), Tokyo, Japan.
 
-2025-03-15 to 22: [59th Rencontres de Moriond on Electroweak Interactions and Unified Theories](https://moriond.in2p3.fr/ "Moriond EW 2025 explores electroweak interactions and unified theories, focusing on the Standard Model and beyond. Topics include Higgs physics, gauge boson interactions, and searches for new physics. The conference discusses experimental results from LHC and theoretical models for unification."), La Thuile, Italy.
-
 2025-03-17 to 2025-03-21: [International Workshop on Future Linear Colliders 2025](https://lcws2025.org/ "LCWS25 focuses on future linear colliders, exploring particle physics experiments. Topics include Higgs precision measurements, top quark physics, and detector designs. Discussions cover technologies for ILC and CLIC, advancing high-energy physics capabilities."), Hamburg, Germany.
 
 2025-03-17 to 21: [2nd Annual US Muon Collider Community Meeting](https://www.muoncollider.us/event_items_upcoming/2025-08-07/ "The meeting focuses on muon collider development, exploring accelerator technologies and physics potential. Topics include muon production, cooling, and high-luminosity collisions. Discussions cover precision Higgs measurements, new physics searches, and detector designs, advancing the feasibility of next-generation colliders."), Batavia, IL, USA.
@@ -22,7 +20,9 @@
 
 2025-03-17 to 21: [Build Big or Build Smart: Examining Scale and Domain Knowledge in Machine Learning for Fundamental Physics](https://indico.cern.ch/event/1402298/ "The workshop explores machine learning in fundamental physics, focusing on scale versus domain knowledge. Topics include deep learning for event reconstruction, anomaly detection, and cosmological data analysis. Discussions cover applications in LHC experiments and astrophysics."), CERN, Geneva, Switzerland.
 
-2025-03-22 to 29: [59th Rencontres de Moriond on QCD and High Energy Interactions](https://moriond.in2p3.fr/ "Moriond QCD 2025 explores quantum chromodynamics and high-energy interactions, focusing on hadron physics and jet production. Topics include parton distributions, heavy quark dynamics, and QCD at high energies. The conference discusses experimental results from LHC and theoretical advancements."), La Thuile, Italy.
+2025-03-23 to 30: [59th Rencontres de Moriond on Electroweak Interactions and Unified Theories](https://moriond.in2p3.fr/2025/EW/ "Moriond EW 2025 explores electroweak interactions and unified theories, focusing on the Standard Model and beyond. Topics include Higgs physics, gauge boson interactions, and searches for new physics. The conference discusses experimental results from LHC and theoretical models for unification."), La Thuile, Italy.
+
+2025-03-30 to 04-06: [59th Rencontres de Moriond on QCD and High Energy Interactions](https://moriond.in2p3.fr/2025/QCD/ "Moriond QCD 2025 explores quantum chromodynamics and high-energy interactions, focusing on hadron physics and jet production. Topics include parton distributions, heavy quark dynamics, and QCD at high energies. The conference discusses experimental results from LHC and theoretical advancements."), La Thuile, Italy.
 
 2025-04-01 to 2025-04-04: [Standard Model at the LHC 2025](https://indico.cern.ch/event/1392137/ "SM@LHC 2025 explores Standard Model physics at the LHC, focusing on precision measurements. Topics include Higgs couplings, QCD, and electroweak processes. Discussions cover experimental data and theoretical predictions, advancing particle physics."), Florence, Italy.
 
@@ -62,8 +62,6 @@
 
 2025-06-02 to 2025-06-06: [Higgs Pairs Workshop 2025](https://indico.cern.ch/event/1410993/ "The workshop explores Higgs pair production, focusing on di-Higgs processes. Topics include Higgs self-interactions, CP violation, and new physics signatures. Discussions cover LHC data analysis and theoretical models, advancing understanding of the Higgs sector."), Florence, Italy.
 
-2025-06-03 to 06: [58th Annual Users and Affiliates Meeting: Forward to Discovery through Innovation](https://events.fnal.gov/users-meeting/ "The meeting focuses on particle physics research at Fermilab, emphasizing innovative experimental techniques. Topics include neutrino experiments, muon physics, and detector technologies. Discussions cover advancements in DUNE, Mu2e, and LHC, fostering collaboration for new physics discoveries."), Batavia, IL, USA.
-
 2025-06-03 to 2025-06-06: [International Conference on Quantum Technology for High-Energy Physics](https://indico.cern.ch/event/1344407/ "QT4HEP explores quantum technologies for high-energy physics, focusing on computational advancements. Topics include quantum algorithms, quantum sensors, and quantum computing for particle simulations. Discussions cover applications in LHC data analysis and detector optimization, advancing experimental capabilities."), CERN, Geneva, Switzerland.
 
 2025-06-08 to 21: [2025 European School of High-Energy Physics](https://eshep.cern.ch/ "ESHEP 2025 trains young researchers in high-energy physics, covering collider physics, astroparticle physics, and the Standard Model. Topics include Higgs boson studies, dark matter detection, and neutrino physics. Lectures and hands-on sessions emphasize experimental techniques at CERN and theoretical models for new physics."), Bansko, Bulgaria.
@@ -73,8 +71,6 @@
 2025-06-09 to 13: [CERN Neutrino Platform Pheno Week 2025](https://indico.cern.ch/event/1381255/ "The workshop focuses on neutrino phenomenology, exploring oscillations, masses, and interactions. Topics include sterile neutrinos, CP violation, and non-standard interactions. Discussions cover experimental results from DUNE and Hyper-Kamiokande, alongside theoretical models for neutrino physics."), CERN, Geneva, Switzerland.
 
 2025-06-09 to 2025-06-26: [Precision Determinations of the Fine-Structure Constant](https://www.mitp.uni-mainz.de/fine-structure-constant-2025/ "The workshop focuses on precision measurements of the fine-structure constant, exploring fundamental physics. Topics include atomic spectroscopy, QED tests, and electron scattering. Discussions cover experimental techniques and theoretical calculations, advancing precision physics and testing Standard Model predictions."), Mainz, Germany.
-
-2025-06-10 to 2025-06-13: [New Perspectives Meeting: Forward to Discovery through Innovation](https://events.fnal.gov/users-meeting/ "The meeting explores innovative approaches in particle physics, focusing on experimental advancements. Topics include detector technologies, data analysis, and new physics searches. Discussions cover Fermilab’s experiments and future projects, advancing discovery through technological innovation."), Batavia, IL, USA.
 
 2025-06-15 to 20: [1st US Muon Collider Accelerator School](https://indico.cern.ch/event/1402286/ "MuSchool2025 trains researchers in muon collider technologies, focusing on beam dynamics and accelerator design. Topics include muon production, cooling, and high-luminosity collisions. The school discusses potential for precision Higgs measurements and new physics searches, emphasizing advancements in accelerator physics for future colliders."), Batavia, IL, USA.
 

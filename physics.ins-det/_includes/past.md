@@ -24,13 +24,9 @@
 
 2025-06-02 to 04: [Conference and Workshop Latest Trends in in-Situ and Correlative Electron Microscopy (ICEM 2025)](https://www.icem-brno.eu/ "Explores in-situ and correlative electron microscopy, covering real-time imaging, material dynamics, and multi-modal analysis. Topics include nanostructure characterization, catalysis, and applications in materials science, emphasizing advanced microscopy techniques."), Brno, Czech Republic.
 
-2025-06-03 to 06: [58th Annual Users and Affiliates Meeting: Forward to Discovery through Innovation](https://events.fnal.gov/users-meeting/ "The meeting focuses on particle physics research at Fermilab, emphasizing innovative experimental techniques. Topics include neutrino experiments, muon physics, and detector technologies. Discussions cover advancements in DUNE, Mu2e, and LHC, fostering collaboration for new physics discoveries."), Batavia, IL, USA.
-
 2025-06-03 to 2025-06-06: [TESLA Technology Collaboration Meeting 2025](https://www.tesla-collaboration.org/meetings/ttc2025/ "TTC 2025 advances superconducting RF technology for particle accelerators. Topics include cavity design, cryogenics, and beam dynamics. Discussions cover applications in high-energy physics and future colliders, enhancing accelerator performance and efficiency."), Tsukuba, Japan.
 
 2025-06-09 to 2025-06-13: [High Precision X-ray Measurements 2025](https://hpxm2025.br/ "HPXM 2025 focuses on high-precision X-ray measurements, exploring astrophysical and laboratory applications. Topics include X-ray spectroscopy, detector calibration, and synchrotron techniques. Discussions cover advancements in X-ray telescopes and particle physics experiments."), Frascati, Italy.
-
-2025-06-10 to 2025-06-13: [New Perspectives Meeting: Forward to Discovery through Innovation](https://events.fnal.gov/users-meeting/ "The meeting explores innovative approaches in particle physics, focusing on experimental advancements. Topics include detector technologies, data analysis, and new physics searches. Discussions cover Fermilab’s experiments and future projects, advancing discovery through technological innovation."), Batavia, IL, USA.
 
 2025-06-15 to 2025-06-20: [IEEE NPSS Prague EduCom International Summer School 2025](https://indico.cern.ch/event/1411058/ "PEISS 2025 trains students in nuclear science instrumentation, focusing on detectors. Topics include radiation detection, scintillator technologies, and data acquisition. Lectures cover applications in particle physics and astrophysics, emphasizing experimental techniques."), Prague, Czech Republic.
 

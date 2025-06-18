@@ -12,8 +12,6 @@
 
 2025-07-14 to 18: [BMVA Computer Vision Summer School 2025](https://bmvc2025.org/bmva-computer-vision-summer-school/ "The summer school trains researchers in computer vision, with applications in physics. Topics include image processing, object detection, and deep learning. Lectures cover techniques for analyzing detector data in high-energy physics and astrophysical imaging, emphasizing AI-driven solutions."), London, United Kingdom.
 
-2025-07-14 to 2025-07-25: [Petnica Summer School on Machine Learning for Scientific Research](https://psi2025.petnica.rs/ "The summer school trains students in machine learning for scientific research, with physics focus. Topics include neural networks, anomaly detection, and data analysis. Lectures cover applications in particle physics and cosmology, emphasizing AI-driven scientific discovery."), Valjevo, Serbia.
-
 2025-08-04 to 08: [Advanced Course on Data Science & Machine Learning](https://www.iisi.it/events/acdsml2025/ "The course trains researchers in data science and machine learning, with applications in physics. Topics include deep learning, statistical modeling, and big data analysis. Lectures cover techniques for high-energy physics data processing, cosmological surveys, and detector optimization."), Bologna, Italy.
 
 2025-08-04 to 2025-08-08: [IAIFI Summer School 2025](https://iaifi.org/summer-school/ "The summer school trains researchers in AI for physics, focusing on interdisciplinary applications. Topics include deep learning, generative models, and uncertainty quantification. Lectures cover applications in particle physics, cosmology, and detector data analysis, emphasizing AI-driven discoveries."), Cambridge, MA, USA.

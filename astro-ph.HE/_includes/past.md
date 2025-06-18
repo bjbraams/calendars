@@ -20,9 +20,7 @@
 
 2025-03-17 to 21: [APCTP Workshop on Gravitational Waves 2025](https://phys.ncts.ntu.edu.tw/en/act/Conferences/APCTP-Workshop-on-Gravitational-Waves-2025-51414941 "The workshop explores gravitational wave physics, focusing on detection and astrophysical implications. Topics include waveform modeling, black hole mergers, and neutron star dynamics. Discussions cover observational data from LIGO and theoretical models for gravitational wave sources."), Taipei, Taiwan.
 
-2025-03-17 to 21: [APCTP Workshop on Gravitational Waves 2025](https://phys.ncts.ntu.edu.tw/en/act/Conferences/APCTP-Workshop-on-Gravitational-Waves-2025-51414941 "The workshop explores gravitational wave physics, focusing on detection and astrophysical implications. Topics include waveform modeling, black hole mergers, and neutron star dynamics. Discussions cover observational data from LIGO and theoretical models for gravitational wave sources."), Taipei, Taiwan.
-
-2025-03-29 to 04-05: [59th Rencontres de Moriond on Gravitation](https://moriond.in2p3.fr/ "Moriond Gravitation 2025 focuses on gravitational physics, exploring general relativity and beyond. Topics include gravitational waves, black hole dynamics, and cosmological implications. The conference discusses observational data from LIGO and theoretical models for gravity and spacetime structure."), La Thuile, Italy.
+2025-03-30 to 04-06: [59th Rencontres de Moriond on Gravitation](https://moriond.in2p3.fr/2025/Gravitation/ "Moriond Gravitation 2025 focuses on gravitational physics, exploring general relativity and beyond. Topics include gravitational waves, black hole dynamics, and cosmological implications. The conference discusses observational data from LIGO and theoretical models for gravity and spacetime structure."), La Thuile, Italy.
 
 2025-04-07 to 10: [51st Annual IOP Plasma Physics Conference (2025)](https://iop.eventsair.com/plasma2025/ "This conference explores plasma physics, covering magnetic confinement, laser-plasma interactions, and plasma astrophysics. Topics include tokamak physics, plasma diagnostics, and inertial fusion, with applications in fusion energy and space science, emphasizing experimental and theoretical advancements."), London, UK.
 
@@ -65,8 +63,6 @@
 2025-06-16 to 2025-06-20: [GRAMPA 2025](https://grampa.desy.de/ "GRAMPA 2025 explores multi-messenger astrophysics, focusing on gravitational waves and particles. Topics include neutron star mergers, gamma-ray bursts, and neutrino detection. Discussions integrate observational data from LIGO and IceCube, advancing astrophysical understanding."), Hamburg, Germany.
 
 2025-06-16 to 2025-06-20: [Nonlinear Black Hole Perturbation Theory: Merging Black Holes, Communities and Ideas](https://indico.cern.ch/event/1402320/ "The workshop explores nonlinear black hole perturbation theory, focusing on merging black holes. Topics include gravitational wave modeling, post-Newtonian expansions, and numerical relativity. Discussions cover applications in LIGO observations and theoretical advancements."), Nottingham, United Kingdom.
-
-2025-06-16 to 2025-06-20: [SIGRAV International School 2025](https://sigrav.sissa.it/activities/sigrav-school-2025/ "The school focuses on gravitation and cosmology, training students in theoretical physics. Topics include general relativity, neutron stars, and quantum gravity. Discussions cover applications in gravitational wave detection and early universe models, emphasizing theoretical advancements."), Vietri sul Mare, Italy.
 
 2025-06-16 to 2025-06-20: [SUPRISE: Supernovae Probes of Invisible Sectors](https://indico.cern.ch/event/1396346/ "SUPRISE explores supernovae as probes of invisible sectors, focusing on dark matter and neutrinos. Topics include axion production, dark photon interactions, and neutrino fluxes. Discussions cover astrophysical constraints and theoretical models."), Lisbon, Portugal.
 

@@ -2,7 +2,7 @@ import yaml
 
 MANDATORY_KEYS = ['dd']
 RECOGNIZED_KEYS = MANDATORY_KEYS+[
-    'name','link','loc','more',
+    'name','url','loc','more',
     'kw','arxiv','msc','inspec','excerpt']
     # Lists sorted as we like it
 SetMK = set(MANDATORY_KEYS)
@@ -85,12 +85,12 @@ def dump(data,f):
 def event_yaml_to_md(name,event,hl):
     # Generate a Markdown entry for calendar item event, highlight if hl.
     dd = event.get('dd','')
-    link = event.get('link','')
+    url = event.get('url','')
     exc = event.get('excerpt','')
-    if link and exc:
-        a0 = '['+name+']('+link+' "'+exc+'")'
-    elif link:
-        a0 = '['+name+']('+link+')'
+    if url and exc:
+        a0 = '['+name+']('+url+' "'+exc+'")'
+    elif url:
+        a0 = '['+name+']('+url+')'
     else:
         a0 = name
     if (loc := event.get('loc','')):

@@ -10,8 +10,6 @@
 
 2025-07-07 to 11: [4th European Summer School on Quantum AI](https://squeai.eu/ "The school trains researchers in quantum AI, focusing on quantum machine learning and algorithms. Topics include quantum neural networks, variational quantum algorithms, and applications in physics simulations. Lectures emphasize quantum computing’s potential for solving complex problems in high-energy physics."), Lisbon, Portugal.
 
-2025-07-07 to 11: [AI and Games Summer School 2025](https://school.gameaibook.org/ "The summer school trains researchers in AI for games, with applications in physics simulations. Topics include reinforcement learning, procedural content generation, and agent-based modeling. Lectures cover techniques for simulating complex systems, relevant to computational physics and data analysis."), Lisbon, Portugal.
-
 2025-07-07 to 11: [School on Symbolic and Statistical Methods for Reasoning and Processing Formal Expressions (2025)](https://europroofnet.github.io/Kutaisi25/ "Explores symbolic and statistical methods for formal reasoning, covering automated theorem proving, machine learning for logic, and formal verification. Topics include knowledge representation and reasoning, with applications in computer science and AI, emphasizing computational approaches."), Kutaisi, Georgia.
 
 2025-07-07 to 18: [SLMath Summer School Principled Scientific Discovery With Formal Methods (2025)](https://www.slmath.org/summer-schools/1110 "This summer school explores formal methods for scientific discovery, covering machine learning, formal verification, and data-driven modeling. Topics include automated hypothesis generation, uncertainty quantification, and applications in physics and biology, emphasizing principled AI for scientific research."), Yorktown Heights, NY, USA.
@@ -19,8 +17,6 @@
 2025-07-14 to 18: [Genetic and Evolutionary Computation Conference (GECCO 2025)](https://gecco-2025.sigevo.org/ "GECCO 2025 focuses on genetic and evolutionary computation, covering genetic algorithms, evolutionary optimization, and swarm intelligence. Topics include multi-objective optimization, applications in machine learning and robotics, emphasizing bio-inspired computational methods for complex problems."), Málaga, Spain.
 
 2025-07-14 to 2025-07-18: [European Summer School on Artificial Intelligence 2025](http://www.eural.com/ "The summer school explores AI, with applications in physics. Topics include deep learning, reinforcement learning, and knowledge representation. Lectures cover techniques for particle physics data analysis, cosmological simulations, and detector optimization, emphasizing AI-driven scientific advancements."), Athens, Greece.
-
-2025-07-14 to 2025-07-18: [LOGML Summer School 2025](https://www.logml.ai/ "LOGML Summer School 2025 trains researchers in machine learning, with applications in physics. Topics include generative models, reinforcement learning, and explainable AI. Lectures cover techniques for particle physics data processing and cosmological simulations, emphasizing practical AI solutions."), London, United Kingdom.
 
 2025-07-14 to 2025-07-18: [Oxford Machine Learning Summer School: MLx Generative AI 2025](https://www.oxfordml.school/ml-generative-ai-2025 "OxML Generative AI focuses on generative machine learning, with physics applications. Topics include GANs, VAEs, and diffusion models. Lectures cover applications in cosmological simulations and high-energy physics data generation, emphasizing advanced generative techniques."), Oxford, United Kingdom.
 

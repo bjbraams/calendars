@@ -6,5 +6,5 @@
 
 2025-09-11 to 12: [Workshop on Recent Advances in Multi-Objective Optimization (RAMOO 2025)](https://moo.univie.ac.at/ "RAMOO 2025 focuses on multi-objective optimization, covering Pareto optimization, evolutionary algorithms, and decision-making. Topics include applications in engineering, logistics, and AI, emphasizing computational methods for balancing multiple objectives in complex optimization problems."), Straubing, Germany.
 
-2025-12-09 to 15: [Annual Conference on Neural Information Processing Systems (NeurIPS 2025)](http://wikicfp.com/cfp/servlet/event.showcfp?eventid=182647©ownerid=163282 "NeurIPS 2025 focuses on neural information processing, covering deep learning, generative models, and reinforcement learning. Topics include applications in AI, computer vision, and robotics, emphasizing statistical and computational advancements in neural network research and applications."), San Diego, CA, USA.
+2025-12-09 to 15: [Annual Conference on Neural Information Processing Systems (NeurIPS 2025)](https://neurips.cc/Conferences/2025 "NeurIPS 2025 focuses on neural information processing, covering deep learning, generative models, and reinforcement learning. Topics include applications in AI, computer vision, and robotics, emphasizing statistical and computational advancements in neural network research and applications."), San Diego, CA, USA.
 

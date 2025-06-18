@@ -38,8 +38,6 @@
 
 2025-07-07 to 09: [Maths4DL Conference on Inverse Problems and Deep Learning (2025)](https://maths4dl.ac.uk/newsevents/maths4dl-conference-on-inverse-problems-and-deep-learning "Maths4DL 2025 explores inverse problems and deep learning, covering image reconstruction, regularization, and neural network architectures. Topics include medical imaging, geophysical inversion, and applications in signal processing, emphasizing mathematical and computational advances in inverse modeling."), Bath, UK.
 
-2025-07-07 to 11: [AI and Games Summer School 2025](https://school.gameaibook.org/ "The summer school trains researchers in AI for games, with applications in physics simulations. Topics include reinforcement learning, procedural content generation, and agent-based modeling. Lectures cover techniques for simulating complex systems, relevant to computational physics and data analysis."), Lisbon, Portugal.
-
 2025-07-07 to 11: [London Geometry and Machine Learning Summer School (LGML 2025)](https://www.logml.ai/ "Explores intersections of geometry and machine learning. Topics include geometric deep learning, manifold learning, and applications in computer vision and data analysis."), London, UK.
 
 2025-07-07 to 18: [7th School on Tools, Techniques and Methods for Computational and Data Science in High Energy Physics](https://indico.cern.ch/event/1402278/ "The school trains researchers in computational and data science for high-energy physics. Topics include machine learning, Monte Carlo simulations, and data analysis frameworks. Lectures cover tools like ROOT and Pythia, emphasizing applications in LHC data processing and detector simulations."), CERN, Geneva, Switzerland.
@@ -47,8 +45,6 @@
 2025-07-07 to 18: [8th International Summer School on Intelligent Signal Processing for Frontier Research and Industry](https://infieri.eu/ "INFIERI 2025 trains researchers in intelligent signal processing for physics and industry. Topics include machine learning for detector signals, real-time data analysis, and sensor technologies. Lectures cover applications in high-energy physics, astrophysics, and medical imaging, emphasizing advanced signal processing."), Hamburg, Germany.
 
 2025-07-07 to 18: [SLMath Summer School Principled Scientific Discovery With Formal Methods (2025)](https://www.slmath.org/summer-schools/1110 "This summer school explores formal methods for scientific discovery, covering machine learning, formal verification, and data-driven modeling. Topics include automated hypothesis generation, uncertainty quantification, and applications in physics and biology, emphasizing principled AI for scientific research."), Yorktown Heights, NY, USA.
-
-2025-07-07 to 2025-07-11: [EuADS Summer School on Automated Data Science 2025](https://www.euads.org/fjkdlasjdiglsmdgkcxjhvckh/euads-summer-school-2025/ "The summer school trains researchers in automated data science, with applications in physics. Topics include automated machine learning, feature engineering, and data pipelines. Lectures cover techniques for high-energy physics data analysis and cosmological surveys, emphasizing efficient data processing."), Amsterdam, Netherlands.
 
 2025-07-07 to 2025-07-18: [Mediterranean Machine Learning Summer School](https://mail.m2l.eu/mail "The M2L Summer School trains researchers in machine learning, with applications in physics. Topics include neural networks, generative models, and anomaly detection. Lectures cover techniques for particle physics data analysis and cosmological simulations, emphasizing AI-driven discoveries."), Lisbon, Portugal.
 
@@ -74,8 +70,6 @@
 
 2025-07-14 to 2025-07-18: [European Summer School on Artificial Intelligence 2025](http://www.eural.com/ "The summer school explores AI, with applications in physics. Topics include deep learning, reinforcement learning, and knowledge representation. Lectures cover techniques for particle physics data analysis, cosmological simulations, and detector optimization, emphasizing AI-driven scientific advancements."), Athens, Greece.
 
-2025-07-14 to 2025-07-18: [LOGML Summer School 2025](https://www.logml.ai/ "LOGML Summer School 2025 trains researchers in machine learning, with applications in physics. Topics include generative models, reinforcement learning, and explainable AI. Lectures cover techniques for particle physics data processing and cosmological simulations, emphasizing practical AI solutions."), London, United Kingdom.
-
 2025-07-14 to 2025-07-18: [Oxford Machine Learning Summer School: MLx Fundamentals 2025](https://www.oxfordml.school/ml-fundamentals-2025 "OxML Fundamentals trains researchers in machine learning basics, with physics applications. Topics include supervised learning, optimization, and neural networks. Lectures cover techniques for particle physics data analysis and cosmological modeling, emphasizing foundational AI methods."), Oxford, United Kingdom.
 
 2025-07-14 to 2025-07-18: [Oxford Machine Learning Summer School: MLx Generative AI 2025](https://www.oxfordml.school/ml-generative-ai-2025 "OxML Generative AI focuses on generative machine learning, with physics applications. Topics include GANs, VAEs, and diffusion models. Lectures cover applications in cosmological simulations and high-energy physics data generation, emphasizing advanced generative techniques."), Oxford, United Kingdom.
@@ -85,8 +79,6 @@
 2025-07-14 to 2025-07-18: [Oxford Machine Learning Summer School: MLx Representation Learning & GenAI 2025](https://www.oxfordml.school/ml-representation-learning-genai-2025 "OxML Representation Learning & GenAI explores advanced machine learning, with physics applications. Topics include representation learning, transformers, and generative AI. Lectures cover applications in particle physics data analysis and cosmological simulations, emphasizing cutting-edge AI."), Oxford, United Kingdom.
 
 2025-07-14 to 2025-07-18: [School on Automated Machine Learning (AutoML) 2025](https://www.automl.org/automl-school-2025/ "AutoML 2025 trains researchers in automated machine learning, with physics applications. Topics include hyperparameter optimization, neural architecture search, and meta-learning. Lectures cover applications in particle physics and cosmology, emphasizing automated AI techniques."), Freiburg, Germany.
-
-2025-07-14 to 2025-07-25: [Petnica Summer School on Machine Learning for Scientific Research](https://psi2025.petnica.rs/ "The summer school trains students in machine learning for scientific research, with physics focus. Topics include neural networks, anomaly detection, and data analysis. Lectures cover applications in particle physics and cosmology, emphasizing AI-driven scientific discovery."), Valjevo, Serbia.
 
 2025-07-15 to 18: [7th Spatial Statistics Conference: At the Dawn of AI (2025)](https://www.elsevier.com/events/conferences/all/spatial-statistics "This conference explores spatial statistics and AI, covering spatial processes, geostatistics, and machine learning for spatial data. Topics include environmental modeling, disease mapping, and applications in urban planning, emphasizing stochastic and AI-driven spatial analysis techniques."), Noordwijk, The Netherlands.
 
@@ -172,8 +164,6 @@
 
 2025-10-16 to 17: Annual GAMM Workshop on Computational and Mathematical Methods in Data Science 2025, Chemnitz, Germany.
 
-2025-10-20 to 22: [2nd General Meeting of the COMETA COST Action](https://www.cost.eu/actions/CA22130/ "The meeting focuses on computational methods in physics, emphasizing machine learning and data science. Topics include AI for simulation, data analysis, and detector optimization in high-energy physics. Discussions advance interdisciplinary approaches to computational challenges in particle physics and cosmology."), Valletta, Malta.
-
 2025-10-25 to 30: [28th European Conference on Artificial Intelligence (ECAI 2025)](https://ecai2025.org "ECAI 2025 explores artificial intelligence, covering machine learning, knowledge representation, and autonomous agents. Topics include deep learning, AI ethics, and applications in healthcare and robotics, emphasizing theoretical and applied advancements in intelligent computational systems."), Bologna, Italy.
 
 2025-10-27 to 31: [Autumn School on Scientific Machine Learning and Numerical Methods (2025)](https://www.cwi.nl/en/events/cwi-research-semester-programmes/bridging-numerical-analysis-and-scientific-machine-learning/ "Explores synergies between numerical linear algebra and machine learning. Topics include matrix computations, deep learning optimization, and applications in scientific computing and data analysis."), Amsterdam, Netherlands.
@@ -190,7 +180,7 @@
 
 2025-12-09 to 12: [17th Asian Conference on Machine Learning (ACML 2025)](https://www.acml-conf.org/2025/ "ACML 2025 focuses on machine learning, covering deep learning, reinforcement learning, and kernel methods. Topics include applications in computer vision, natural language processing, and healthcare, emphasizing statistical and computational advancements in machine learning algorithms and applications."), Taipei, Taiwan.
 
-2025-12-09 to 15: [Annual Conference on Neural Information Processing Systems (NeurIPS 2025)](http://wikicfp.com/cfp/servlet/event.showcfp?eventid=182647©ownerid=163282 "NeurIPS 2025 focuses on neural information processing, covering deep learning, generative models, and reinforcement learning. Topics include applications in AI, computer vision, and robotics, emphasizing statistical and computational advancements in neural network research and applications."), San Diego, CA, USA.
+2025-12-09 to 15: [Annual Conference on Neural Information Processing Systems (NeurIPS 2025)](https://neurips.cc/Conferences/2025 "NeurIPS 2025 focuses on neural information processing, covering deep learning, generative models, and reinforcement learning. Topics include applications in AI, computer vision, and robotics, emphasizing statistical and computational advancements in neural network research and applications."), San Diego, CA, USA.
 
 2025-12-16 to 18: [45th SGAI International Conference on Artificial Intelligence (AI 2025)](https://www.bcs-sgai.org/ai2025/ "Explores advancements in artificial intelligence. Topics include machine learning, knowledge representation, and applications in robotics, natural language processing, and decision systems."), Cambridge, UK.
 

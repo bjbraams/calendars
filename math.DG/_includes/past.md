@@ -4,8 +4,6 @@
 
 2025-05-19 to 23: [2025 Georgia International Topology Conference](https://www.math.uga.edu/topology/conference25.html "The conference focuses on topology, with applications in physics and geometry. Topics include knot theory, manifold classification, and topological methods in quantum field theory. It discusses advancements in algebraic topology and their implications for understanding spacetime structures and physical systems."), Athens, GA, USA.
 
-2025-06-01 to 2025-06-05: [XIII Bolyai-Gauss-Lobachevsky Conference: Non-Euclidean Geometry](https://bgl2025.uv.es/ "The conference explores non-Euclidean geometry in modern physics and mathematics. Topics include hyperbolic geometry, Lorentzian manifolds, and quantum gravity. Discussions cover applications in general relativity and string theory, advancing geometric insights."), Saidia, Morocco.
-
 2025-06-09 to 13: [Complex Hermitian Geometry](https://www.univ-angers.fr/complex-hermitian-2025 "The workshop explores complex Hermitian geometry, focusing on applications in physics. Topics include Hermitian manifolds, special metrics, and complex structures. Discussions cover connections to quantum field theory and string theory, emphasizing geometric methods in theoretical physics."), Angers, France.
 
 2025-06-09 to 2025-06-13: [Geometric Methods in Calculus of Variations](https://cvgmt.sns.it/event/959/ "The workshop explores geometric methods in calculus of variations, focusing on physical applications. Topics include minimal surfaces, curvature-driven flows, and energy minimization. Discussions cover modeling fluid dynamics and quantum systems, emphasizing geometric PDE techniques."), Pisa, Italy.
@@ -40,15 +38,11 @@
 
 2025-06-16 to 2025-06-20: [Lefschetz Centennial Conference](https://www.imsa.miami.edu/events/lefschetz-centennial-2025 "The Lefschetz Centennial celebrates Solomon Lefschetz’s contributions to algebraic geometry. Topics include Hodge theory, Lefschetz pencils, and topological methods. Discussions cover applications in string theory and quantum field theory, emphasizing geometric and algebraic insights."), Miami, FL, USA.
 
-2025-06-16 to 20: [13th Bolyai–Gauss–Lobachevsky Conference on Non-Euclidean Geometry in Modern Physics and Mathematics](https://bgl2025.uv.es/ "This conference explores non-Euclidean geometry applications in physics and mathematics, focusing on general relativity, cosmology, and differential geometry. Topics include hyperbolic spaces, spacetime metrics, and geometric methods in quantum field theory. It bridges mathematical formalism with physical phenomena like gravitational lensing and cosmic expansion."), Valencia, Spain.
-
 2025-06-16 to 20: [Calculus of Variations and PDEs in Geometric Analysis](https://sites.google.com/uniroma1.it/excellence-department-ga "The conference explores calculus of variations and PDEs in geometric analysis, focusing on applications in physics. Topics include minimal surfaces, curvature flows, and Einstein manifolds. Discussions cover geometric methods in general relativity and quantum field theory, emphasizing mathematical rigor."), Rome, Italy.
 
 2025-06-16 to 20: [Cauchy-Riemann Geometry and Subelliptic Theory](https://cvgmt.sns.it/event/1025/ "The conference explores Cauchy-Riemann geometry and subelliptic theory, focusing on complex analysis and geometry. Topics include CR manifolds, subelliptic PDEs, and holomorphic mappings. Discussions cover applications in quantum mechanics and string theory, emphasizing geometric structures."), Matera, Italy.
 
 2025-06-16 to 20: [Conference: Trisections and Related Topics](https://www.cirm-math.fr/fr/evenements/conference-trisections-and-related-topics/ "The conference explores trisections in topology, focusing on applications in physics. Topics include 4-manifolds, knot theory, and gauge theory. Discussions cover connections to quantum field theory and general relativity, emphasizing topological methods in physical systems."), Marseille, France.
-
-2025-06-16 to 20: [Conference on Differential Geometry, Analysis and Epistemology in Honor of Marco Rigoli's 70th Birthday (2025)](https://sites.google.com/view/dgaemi25 "Explores differential geometry, analysis, and epistemology. Topics include geometric analysis, PDEs on manifolds, and mathematical philosophy, with applications in physics and geometry."), Milan, Italy.
 
 2025-06-16 to 20: [Differential Geometry, Analysis and Epistemology in Milan](https://sites.google.com/view/dgaemi25 "Honoring Marco Rigoli, the conference explores differential geometry and analysis. Topics include Riemannian manifolds, geometric PDEs, and curvature flows. Discussions cover applications in general relativity and quantum mechanics, emphasizing geometric and analytical methods."), Milan, Italy.
 

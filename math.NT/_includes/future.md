@@ -1,4 +1,4 @@
-2025-06-23 to 2025-06-27: [Arithmetic and Algebraic Geometry](https://indico.math.cnrs.fr/event/13361/ "The conference explores arithmetic and algebraic geometry, focusing on number theory. Topics include elliptic curves, Diophantine equations, and Galois representations. Discussions cover applications in theoretical physics and cryptography, emphasizing algebraic structures in physical systems."), Villeurbanne, France.
+2025-06-18 to 2025-06-20: [Iwasawa Theory and Representations of p-adic Groups (ITRpG 2025)](https://www.mathconf.org/itrpg2025 "The conference explores Iwasawa theory and p-adic group representations, focusing on number theory. Topics include p-adic L-functions, Galois cohomology, and automorphic forms. Discussions cover applications in string theory and quantum mechanics, emphasizing arithmetic structures."), Lille, France.
 
 2025-06-23 to 2025-06-27: [Geometric Aspects of the Langlands Correspondence](https://geometric-langlands-2025.esaga.net/ "The conference explores geometric aspects of the Langlands correspondence, focusing on number theory. Topics include moduli stacks, Hitchin systems, and automorphic forms. Discussions cover applications in string theory and quantum field theory, emphasizing geometric structures."), Lisbon, Portugal.
 
@@ -11,8 +11,6 @@
 2025-06-23 to 2025-06-27: [Géométrie Algébrique en Liberté XXXII](https://www.math.univ-toulouse.fr/gael-2025 "The conference explores algebraic geometry, focusing on young researchers’ contributions. Topics include algebraic curves, moduli spaces, and arithmetic geometry. Discussions cover applications in string theory and quantum mechanics, emphasizing geometric and algebraic advancements."), Toulouse, France.
 
 2025-06-23 to 2025-06-27: [Global Langlands, Shimura Varieties and Shtukas](https://www.mathematics.uni-bonn.de/hcm "The conference explores the global Langlands program, focusing on Shimura varieties and shtukas. Topics include automorphic forms, p-adic geometry, and Galois representations. Discussions cover applications in string theory and quantum field theory, emphasizing arithmetic geometry."), Bonn, Germany.
-
-2025-06-23 to 2025-06-27: [Iwasawa Theory and Representations of p-adic Groups Workshop](https://www.univ-lille.fr/iwasawa-workshop-2025 "The workshop focuses on Iwasawa theory and p-adic group representations, exploring number-theoretic applications. Topics include p-adic cohomology, modular forms, and representation theory. Discussions cover connections to quantum field theory and cryptography, emphasizing p-adic methods."), Lille, France.
 
 2025-06-23 to 2025-06-27: [Modular in Bielefeld](https://www.uni-bielefeld.de/modular-2025 "The conference explores modular forms and their applications, focusing on number theory. Topics include automorphic forms, L-functions, and modular curves. Discussions cover applications in string theory and cryptography, emphasizing arithmetic and geometric connections."), Bielefeld, Germany.
 

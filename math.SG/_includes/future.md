@@ -2,11 +2,7 @@
 
 2025-06-29 to 2025-07-05: [Symplectic/Contact Dynamics](https://www.mfo.de/occasion/2527/www_view "The workshop explores symplectic and contact dynamics, focusing on Hamiltonian systems and contact manifolds. Topics include periodic orbits, Legendrian knots, and Floer homology. Discussions cover applications in quantum mechanics and celestial mechanics, advancing symplectic geometric techniques."), Oberwolfach, Germany.
 
-2025-06-30 to 2025-07-04: [CIME School: Symplectic Dynamics and Topology](https://www.cimec.unitn.it/2740/cime-schools-2025 "The CIME school explores symplectic dynamics and topology, focusing on physical applications. Topics include Hamiltonian dynamics, symplectic invariants, and Floer theory. Lectures cover connections to quantum mechanics and string theory, emphasizing geometric and dynamical structures."), Cetraro, Italy.
-
 2025-07-06 to 2025-07-12: [Symplectic/Contact Dynamics](https://www.mfo.de/occasion/2528/www_view "This workshop investigates symplectic and contact dynamics, emphasizing Reeb flows and symplectic invariants. Topics include contact homology, Lagrangian submanifolds, and dynamical systems. Discussions explore connections to string theory and quantum field theory, enhancing symplectic topology insights."), Oberwolfach, Germany.
-
-2025-08-18 to 2025-12-12: [Homotopy Theory and Floer Homology](https://www.mittag-leffler.se/activities/homotopy-theory-and-floer-homology/ "The program explores homotopy theory and Floer homology, focusing on topological applications. Topics include symplectic Floer homology, homotopy categories, and gauge theory. Discussions cover connections to quantum field theory and string theory, emphasizing mathematical structures."), Stockholm, Sweden.
 
 2025-09-01 to 2026-06-30: [Special Year on Conformally Symplectic Dynamics and Geometry](https://www.ias.edu/math/csdg "The program investigates conformally symplectic dynamics and geometry, with applications in physics. Topics include Lagrangian submanifolds, symplectic cohomology, and dynamical systems. Discussions explore implications for quantum field theory and cosmology."), Princeton, NJ, USA.
 

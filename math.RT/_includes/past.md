@@ -18,7 +18,5 @@
 
 2025-06-16 to 2025-06-20: [Galois Representations and Automorphic Forms](https://www.impan.pl/en/activities/banach-center/conferences/25-galois "The conference explores Galois representations and automorphic forms, focusing on number theory. Topics include L-functions, modular forms, and Shimura varieties. Discussions cover applications in string theory and quantum mechanics, emphasizing arithmetic connections."), Warsaw, Poland.
 
-2025-06-16 to 2025-06-20: [Iwasawa Theory and Representations of p-adic Groups Conference](https://www.univ-lille.fr/iwasawa-2025 "The conference explores Iwasawa theory and p-adic group representations, focusing on number theory. Topics include p-adic L-functions, Galois cohomology, and automorphic forms. Discussions cover applications in string theory and quantum mechanics, emphasizing arithmetic structures."), Lille, France.
-
 2025-06-16 to 2025-06-20: [TIME 2025: Invariant Theory](https://www.lie-stormer.no/time-2025 "TIME 2025 explores invariant theory, focusing on algebraic and geometric applications. Topics include polynomial invariants, GIT quotients, and representation theory. Discussions cover connections to string theory and quantum mechanics."), Tromsø, Norway.
 
