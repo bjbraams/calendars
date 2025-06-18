@@ -28,3 +28,19 @@
 
 2025-06-03 to 2025-06-06: [TESLA Technology Collaboration Meeting 2025](https://www.tesla-collaboration.org/meetings/ttc2025/ "TTC 2025 advances superconducting RF technology for particle accelerators. Topics include cavity design, cryogenics, and beam dynamics. Discussions cover applications in high-energy physics and future colliders, enhancing accelerator performance and efficiency."), Tsukuba, Japan.
 
+2025-06-09 to 2025-06-13: [High Precision X-ray Measurements 2025](https://hpxm2025.br/ "HPXM 2025 focuses on high-precision X-ray measurements, exploring astrophysical and laboratory applications. Topics include X-ray spectroscopy, detector calibration, and synchrotron techniques. Discussions cover advancements in X-ray telescopes and particle physics experiments."), Frascati, Italy.
+
+2025-06-10 to 2025-06-13: [New Perspectives Meeting: Forward to Discovery through Innovation](https://events.fnal.gov/users-meeting/ "The meeting explores innovative approaches in particle physics, focusing on experimental advancements. Topics include detector technologies, data analysis, and new physics searches. Discussions cover Fermilab’s experiments and future projects, advancing discovery through technological innovation."), Batavia, IL, USA.
+
+2025-06-15 to 2025-06-20: [IEEE NPSS Prague EduCom International Summer School 2025](https://indico.cern.ch/event/1411058/ "PEISS 2025 trains students in nuclear science instrumentation, focusing on detectors. Topics include radiation detection, scintillator technologies, and data acquisition. Lectures cover applications in particle physics and astrophysics, emphasizing experimental techniques."), Prague, Czech Republic.
+
+2025-06-16 to 2025-06-20: [Frontiers in X-ray Polarimetry Academy](https://indico.cern.ch/event/1410983/ "FiXP 2025 trains researchers in X-ray polarimetry, focusing on astrophysical applications. Topics include polarimetric detectors, black hole imaging, and pulsar studies. Lectures cover advancements in X-ray telescopes like IXPE, emphasizing precision measurements of cosmic sources."), Rome, Italy.
+
+2025-06-16 to 2025-06-20: [PIXEL2026](https://pixel2026.org/ "PIXEL2026 focuses on pixel detector technologies for particle physics experiments. Topics include silicon sensors, readout electronics, and radiation hardness. Discussions cover applications in LHC upgrades and future colliders, advancing detector performance."), Santa Fe, NM, USA.
+
+2025-06-16 to 2025-06-27: [ISAPP School 2025: High Energy Cosmic Rays as Messengers: From the Space to the Ground](https://isapp.org/schools/2025/ "The ISAPP School trains researchers in high-energy cosmic rays, focusing on detection techniques. Topics include air showers, gamma-ray astronomy, and detector technologies. Lectures cover applications in multi-messenger astrophysics, emphasizing cosmic ray origins and propagation."), Granada, Spain.
+
+2025-06-16 to 20: [12th International Workshop on Ring Imaging Cherenkov Detectors (RICH 2025)](https://rich2025.desy.de/ "The workshop focuses on advancements in Ring Imaging Cherenkov (RICH) detectors, critical for particle identification in high-energy physics experiments. Topics include novel photodetector technologies, mirror designs, and gas systems. Applications in LHC experiments, neutrino detectors, and future colliders are discussed, emphasizing performance optimization and data analysis techniques."), Hamburg, Germany.
+
+2025-06-16 to 20: [7th International Workshop on New Photon-Detectors](https://pd2025.org/ "The workshop explores advancements in photon detectors for particle physics and astrophysics. Topics include photomultiplier tubes, silicon photomultipliers, and hybrid detectors. Discussions cover applications in LHC experiments, neutrino detection, and gamma-ray observatories, emphasizing sensitivity and timing performance."), Tokyo, Japan.
+

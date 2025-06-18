@@ -4,3 +4,5 @@
 
 2025-06-01 to 06: [BIRS Workshop on Free Probability, Random Matrices and Finite-Dimensional Approximations (2025)](https://www.birs.ca/events/2025/5-day-workshops/25w5440 "Explores free probability and random matrix theory. Topics include finite-dimensional approximations, operator algebras, and applications in statistical physics and quantum mechanics."), Oaxaca, Mexico.
 
+2025-06-09 to 13: [Conference on Free Probability On the Occasion of Roland Speicher's 65th Birthday (2025)](https://www.uni-saarland.de/lehrstuhl/weber-moritz/research/roland65.html "This conference celebrates Roland Speicher’s contributions to free probability, covering operator algebras, random matrices, and non-commutative distributions. Topics include free entropy, applications in quantum information, emphasizing advancements in free probabilistic structures."), Saarbrücken, Germany.
+

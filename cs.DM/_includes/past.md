@@ -26,3 +26,7 @@
 
 2025-06-02 to 06: [AIM Workshop Mathematical Foundations of Sampling Connected Balanced Graph Partitions (2025)](https://aimath.org/workshops/upcoming/connectedbalanced/ "This workshop focuses on sampling balanced graph partitions, covering Markov chain Monte Carlo, random graphs, and combinatorial probability. Topics include graph clustering, network partitioning, and applications in data science, emphasizing probabilistic algorithms for graph structures."), Pasadena, CA, USA.
 
+2025-06-09 to 10: [Integer Programming and Combinatorial Optimization (IPCO) Summer School 2025](https://ipco25.cs.jhu.edu/summerschool/ "Focuses on integer programming and combinatorial optimization. Topics include linear programming, graph algorithms, and applications in operations research and computer science."), Baltimore, MD. Before IPCO conference.
+
+2025-06-11 to 13: [51st International Workshop on Graph-Theoretic Concepts in Computer Science (WG 2025)](https://algo.uni-trier.de/wg2025/ "WG 2025 focuses on graph-theoretic concepts, covering graph algorithms, structural graph theory, and computational complexity. Topics include graph coloring, network flows, and applications in bioinformatics and networks, emphasizing theoretical graph-based computational methods."), Otzenhausen, Germany.
+

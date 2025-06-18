@@ -28,3 +28,25 @@
 
 2025-06-03 to 06: [22nd Mixed Integer Programming Workshop (MIP 2025)](https://www.mixedinteger.org/2025/ "MIP 2025 focuses on mixed integer programming, covering optimization algorithms, branch-and-cut methods, and integer constraints. Topics include scheduling, logistics, and machine learning applications, emphasizing computational techniques for solving complex combinatorial optimization problems."), Minneapolis, MN, USA.
 
+2025-06-09 to 10: [Integer Programming and Combinatorial Optimization (IPCO) Summer School 2025](https://ipco25.cs.jhu.edu/summerschool/ "Focuses on integer programming and combinatorial optimization. Topics include linear programming, graph algorithms, and applications in operations research and computer science."), Baltimore, MD. Before IPCO conference.
+
+2025-06-11 to 13: [26th Conference on Integer Programming and Combinatorial Optimization (IPCO 2025)](https://ipco25.cs.jhu.edu "IPCO 2025 focuses on integer programming and combinatorial optimization, covering polyhedral combinatorics, cutting planes, and approximation algorithms. Topics include network optimization, scheduling, and applications in logistics, emphasizing rigorous optimization techniques."), Baltimore, MD, USA.
+
+2025-06-11 to 14: [Workshop on Optimization, Dynamics and Convex Analysis (WODCA 2025)](https://sites.google.com/view/wodca2025 "WODCA focuses on optimization, dynamics, and convex analysis, covering convex optimization, dynamical systems, and numerical methods. Topics include gradient flows, optimal control, and applications in machine learning, emphasizing mathematical tools for optimization and dynamics."), Aveiro, Portugal.
+
+2025-06-12 to 13: [4th Workshop on Mathematics and AI – Connecting the Mathematics Clusters (2025)](https://aimath.nl/index.php/2025/03/13/4th-aim-cluster-event-tilburg/ "This workshop explores mathematics and AI, focusing on algebraic methods, optimization, and probabilistic models. Topics include graph neural networks, mathematical foundations of deep learning, and applications in data science, emphasizing interdisciplinary mathematical AI research."), Tilburg, Netherlands.
+
+2025-06-13 to 15: [Portuguese American Optimization Workshop (PAOW 2025)](https://coral.ise.lehigh.edu/paow/ "PAOW 2025 focuses on optimization, covering linear programming, stochastic optimization, and metaheuristics. Topics include network optimization, energy systems, and applications in logistics, emphasizing collaborative research and computational strategies for optimization problems."), Horta, Azores, Portugal.
+
+2025-06-13 to 16: [Summer School of EURO Working Group on Vehicle Routing and Logistics Optimization (VeRoLog 2025)](https://verolog2025.unitn.it/ "Focuses on vehicle routing and logistics optimization. Topics include algorithmic techniques, combinatorial optimization, and practical applications in transportation and supply chain management."), Trento, Italy.
+
+2025-06-15 to 19: [19th Learning and Intelligent OptimizatioN Conference (LION 2025)](https://lion19.org "LION 2025 focuses on intelligent optimization, covering metaheuristics, machine learning-based optimization, and evolutionary algorithms. Topics include combinatorial optimization, constraint programming, and applications in logistics and scheduling, emphasizing hybrid approaches for solving complex optimization problems."), Prague, Czech Republic.
+
+2025-06-16 to 19: [Conference of EURO Working Group on Vehicle Routing and Logistics Optimization (VeRoLog 2025)](https://verolog2025.unitn.it/ "Covers vehicle routing and logistics optimization. Topics include routing algorithms, scheduling, and computational methods for logistics and transportation systems."), Trento, Italy.
+
+2025-06-16 to 21: [5th (India) Large Scale Optimization Summer School 2025](https://www.ieor.iitb.ac.in/lso2025/ "Covers large-scale optimization techniques. Topics include algorithmic optimization, computational methods, and applications in operations research, logistics, and data science."), Bombay, India.
+
+2025-06-16 to 27: [CIMPA School 2025: Optimal Transport, PDEs, and Optimization in Data Science](https://cvgmt.sns.it/event/971/ "The school trains researchers in optimal transport, PDEs, and optimization for data science, with physics applications. Topics include Wasserstein metrics, gradient flows, and machine learning. Lectures cover techniques for cosmological data analysis and fluid dynamics modeling."), Essaouira, Morocco.
+
+2025-06-17 to 20: [Modeling and Optimization: Theory and Applications (MOPTA 2025)](https://coral.ise.lehigh.edu/mopta2025/ "MOPTA 2025 explores modeling and optimization, covering linear programming, stochastic optimization, and machine learning. Topics include supply chain optimization, energy systems, and operations research applications, emphasizing theoretical and applied optimization."), Ponta Delgada, Azores, Portugal.
+

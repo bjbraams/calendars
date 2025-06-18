@@ -1,2 +1,0 @@
-2025-06-16 to 2025-06-20: [International Conference on Ring Theory, Number Theory and Lie Algebra: Honoring Ali Benhissi](https://icrtntla2025.sciencesconf.org/ "Honoring Ali Benhissi, the conference explores ring theory, number theory, and Lie algebras. Topics include noncommutative rings, Diophantine equations, and Lie symmetries. Discussions cover applications in quantum mechanics and cryptography."), Marrakech, Morocco.
-

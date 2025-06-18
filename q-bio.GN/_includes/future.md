@@ -1,4 +1,2 @@
-2025-06-17 to 19: [36th Annual Symposium on Combinatorial Pattern Matching (CPM 2025)](https://cpm2025.pangenome.eu "CPM 2025 focuses on combinatorial pattern matching, covering string algorithms, sequence analysis, and computational biology. Topics include suffix trees, pattern discovery, and applications in genomics and text processing, emphasizing efficient algorithmic techniques."), Milan, Italy.
-
 2025-08-20 to 22: [WABI Conference on Algorithms in Bioinformatics (WABI 2025)](https://wabiconf.github.io/2025/ "WABI 2025 explores algorithms in bioinformatics, covering sequence analysis, phylogenetics, and protein structure prediction. Topics include machine learning for genomics, graph-based methods, and applications in personalized medicine, emphasizing computational solutions for biological data analysis."), College Park, MD, USA.
 

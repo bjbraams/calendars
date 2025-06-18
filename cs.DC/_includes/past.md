@@ -8,3 +8,11 @@
 
 2025-06-03 to 07: [39th IEEE International Parallel and Distributed Processing Symposium (IPDPS 2025)](https://www.ipdps.org/ "Explores parallel and distributed processing, covering algorithms, architectures, and software systems. Topics include big data processing, machine learning, and scientific computing, emphasizing performance optimization and scalability in computational systems."), Milan, Italy.
 
+2025-06-10 to 13: [ISC High Performance 2025](https://isc-hpc.com "ISC High Performance 2025 focuses on high-performance computing, covering parallel algorithms, exascale architectures, and GPU computing. Topics include scientific simulations, AI integration, and applications in physics and climate, emphasizing scalable computational performance."), Hamburg, Germany.
+
+2025-06-16 to 18: [Platform for Advanced Scientific Computing Conference (PASC 2025)](https://pasc25.pasc-conference.org/ "Focuses on advanced scientific computing, covering high-performance computing, numerical algorithms, and data-intensive simulations. Topics include computational physics, climate modeling, and machine learning, emphasizing scalable computing solutions for scientific research."), Brugg-Windisch, Switzerland.
+
+2025-06-16 to 2025-06-20: [High Throughput Computing Week 2025](https://indico.cern.ch/event/1411013/ "HTC 2025 explores high-throughput computing, focusing on scientific applications in physics. Topics include distributed computing, grid computing, and data-intensive workflows. Discussions cover applications in LHC data processing and cosmological simulations, advancing computational scalability."), Madison, WI, USA.
+
+2025-06-16 to 20: [20th International Federated Conference on Distributed Computing Techniques (DisCoTec 2025)](https://www.discotec.org/2025/ "Covers distributed computing techniques, focusing on concurrency, coordination, and formal methods. Topics include distributed algorithms, cloud computing, and applications in networked systems."), Lille, France.
+

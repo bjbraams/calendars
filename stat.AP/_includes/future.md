@@ -1,10 +1,4 @@
-2025-06-09 to 13: [11th International Workshop on Applied Probability (IWAP 2025)](https://imstat.org/meetings-calendar/international-workshop-on-applied-probability-iwap-2025/ "IWAP 2025 explores applied probability, covering stochastic processes, queueing theory, and probabilistic modeling. Topics include reliability analysis, financial mathematics, and applications in biology and engineering, emphasizing practical probabilistic solutions to real-world problems."), Raleigh, NC, USA.
-
-2025-06-16 to 20: [Linnaeus Workshop on Stochastic Analysis and Applications (LSAA 2025)](https://lnu.se/en/meet-linnaeus-university/current/events/2025/konferenser/lsaa25/ "LSAA 2025 focuses on stochastic analysis, covering stochastic differential equations, random processes, and applications. Topics include stochastic control, financial modeling, and biological systems, emphasizing theoretical and applied probabilistic methods for stochastic phenomena."), Växjö, Sweden.
-
 2025-06-23 to 26: [4th Annual Conference of SPP2265: Random Geometric Systems (2025)](https://wias-berlin.de/workshops/An_2025_RaGeSys/ "This conference focuses on random geometric systems, covering stochastic geometry, random graphs, and spatial processes. Topics include point processes, tessellations, and applications in network science and materials, emphasizing probabilistic models for geometric structures."), Berlin, Germany.
-
-2025-06-25 to 29: [INFORMS Applied Probability Society Summer School 2025](https://informs-aps.isye.gatech.edu/summer-school "Focuses on applied probability. Topics include stochastic modeling, queueing theory, and applications in operations research, finance, and systems engineering."), Atlanta, GA. Just before INFORMS Conference.
 
 2025-06-30 to 07-04: [Journées De Probabilités 2025](https://www.i2m.univ-amu.fr/en/journee-de-proba-2025/ "This conference explores probability, covering stochastic processes, random graphs, and martingales. Topics include applications in statistical physics, finance, and biology, emphasizing theoretical advancements and practical applications in probabilistic modeling and analysis."), Marseille, France.
 

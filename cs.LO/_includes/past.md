@@ -8,3 +8,9 @@
 
 2025-05-03 to 08: [International Joint Conferences on Theory and Practice of Software (ETAPS 2025)](https://etaps.org/2025/ "ETAPS 2025 explores software science and engineering, covering semantics, verification, and programming languages. Topics include formal methods, model checking, and software synthesis, with applications in security, concurrency, and AI, emphasizing theoretical and practical software advancements."), Hamilton, ON, Canada. Incorporating ESOP, FASE, FoSSaCS, TACAS.
 
+2025-06-09 to 13: [31st International Conference on Types for Proofs and Programs (TYPES 2025)](https://msp.cis.strath.ac.uk/types2025/ "TYPES 2025 focuses on type theory for proofs and programs, covering dependent types, formal verification, and programming languages. Topics include type-based program synthesis, logical frameworks, and applications in software correctness, emphasizing theoretical programming foundations."), Glasgow, UK.
+
+2025-06-16 to 20: [11th Conference on Algebra and Coalgebra in Computer Science (CALCO 2025) and 41st Conference on the Mathematical Foundations of Programming Semantics (MFPS 2025)](https://coalg.org/calco-mfps-2025/ "This joint conference explores algebra, coalgebra, and programming semantics, focusing on categorical methods, type theory, and formal verification. Topics include program correctness, coalgebraic modeling, and applications in software development, emphasizing mathematical foundations of computer science."), Glasgow, UK.
+
+2025-06-17 to 20: [32nd Foundational Methods in Computer Science Workshop (FMCS 2025)](https://sites.google.com/view/fmcs-ottawa "FMCS 2025 explores foundational computer science, focusing on logic, type theory, and formal semantics. Topics include automated theorem proving, program verification, and software correctness, emphasizing mathematical foundations of computational systems."), Ottawa, ON, Canada.
+

@@ -1,2 +1,4 @@
 2025-04-14 to 18: [10th International Workshop on the Sign Problem in QCD and Beyond](https://indico.cern.ch/event/1387680/ "This workshop addresses the sign problem in quantum chromodynamics (QCD) and related fields, focusing on lattice QCD simulations at finite density. It explores novel algorithms, complex action theories, and reweighting techniques to tackle sign fluctuations. Applications extend to nuclear physics and condensed matter systems, with discussions on quantum Monte Carlo methods and effective field theories."), Darmstadt, Germany.
 
+2025-06-16 to 2025-06-20: [Quantum Computing for Lattice Field Theory and High-Energy Physics](https://indico.cern.ch/event/1402243/ "QCLFT 2025 explores quantum computing for lattice field theory and high-energy physics. Topics include quantum algorithms for QCD, lattice simulations, and error correction. Discussions cover applications in particle physics, advancing computational techniques."), Lisbon, Portugal.
+

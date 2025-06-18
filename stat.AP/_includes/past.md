@@ -10,3 +10,7 @@
 
 2025-06-05 to 06: [Adaptive and Bayesian Designs in Clinical Trials (2025)](https://onlinesales.admin.cam.ac.uk/conferences-and-events/mrc-biostatistics-unit/adaptive-and-bayesian-designs-in-real-trials/adaptive-and-bayesian-designs-in-real-trials-05-06-june-2025 "This workshop explores adaptive and Bayesian designs in clinical trials, focusing on flexible trial methodologies and Bayesian inference. Topics include adaptive randomization, interim analyses, and applications in personalized medicine, emphasizing statistical and practical perspectives."), Cambridge, UK.
 
+2025-06-09 to 13: [11th International Workshop on Applied Probability (IWAP 2025)](https://imstat.org/meetings-calendar/international-workshop-on-applied-probability-iwap-2025/ "IWAP 2025 explores applied probability, covering stochastic processes, queueing theory, and probabilistic modeling. Topics include reliability analysis, financial mathematics, and applications in biology and engineering, emphasizing practical probabilistic solutions to real-world problems."), Raleigh, NC, USA.
+
+2025-06-16 to 20: [Linnaeus Workshop on Stochastic Analysis and Applications (LSAA 2025)](https://lnu.se/en/meet-linnaeus-university/current/events/2025/konferenser/lsaa25/ "LSAA 2025 focuses on stochastic analysis, covering stochastic differential equations, random processes, and applications. Topics include stochastic control, financial modeling, and biological systems, emphasizing theoretical and applied probabilistic methods for stochastic phenomena."), Växjö, Sweden.
+

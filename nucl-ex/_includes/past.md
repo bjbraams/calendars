@@ -14,3 +14,11 @@
 
 2025-06-02 to 06: [8th International Conference on the Initial Stages of High-Energy Nuclear Collisions](https://is2025.org/ "IS2025 focuses on the initial stages of high-energy nuclear collisions, exploring QCD dynamics and parton interactions. Topics include gluon saturation, initial state effects, and jet production. The conference discusses experimental results from LHC and RHIC, alongside theoretical models."), Nantes, France.
 
+2025-06-09 to 13: [2nd International Workshop on the Physics of Ultra Peripheral Collisions](https://indico.cern.ch/event/1411016/ "UPC2025 focuses on ultra-peripheral collisions in heavy-ion physics, exploring photon-photon and photon-nucleus interactions. Topics include vector meson production, electromagnetic processes, and QCD at low momentum. The workshop discusses experimental results from LHC and theoretical models for nuclear interactions."), CERN, Geneva, Switzerland.
+
+2025-06-14 to 15: [Gordon Research Seminar Nuclear Chemistry, Modern Methods for Nuclear Science in the Discovery Era (2025)](https://www.grc.org/nuclear-chemistry-grs-conference/2025/ "Explores modern nuclear chemistry techniques. Topics include nuclear reactions, isotope production, and computational methods for nuclear structure, emphasizing advancements in experimental and theoretical approaches for nuclear science discovery."), New London, NH, USA.
+
+2025-06-15 to 2025-06-20: [IEEE NPSS Prague EduCom International Summer School 2025](https://indico.cern.ch/event/1411058/ "PEISS 2025 trains students in nuclear science instrumentation, focusing on detectors. Topics include radiation detection, scintillator technologies, and data acquisition. Lectures cover applications in particle physics and astrophysics, emphasizing experimental techniques."), Prague, Czech Republic.
+
+2025-06-15 to 20: [Gordon Research Conference Nuclear Chemistry: Diving Into the Era of Discoveries With Exotic Beams (2025)](https://www.grc.org/nuclear-chemistry-conference/2025/ "This conference focuses on nuclear chemistry with exotic beams, covering nuclear structure, reactions, and rare isotopes. Topics include superheavy elements, nuclear fission, and applications in astrophysics, emphasizing experimental advancements with next-generation beam facilities."), New London, NH, USA.
+

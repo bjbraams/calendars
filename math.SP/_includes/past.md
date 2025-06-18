@@ -1,0 +1,4 @@
+2025-06-16 to 2025-06-20: [Interactions Between Convex Geometry and Spectral Analysis](https://ism.uqam.ca/convex/en/ "The conference explores convex geometry and spectral analysis, focusing on physical applications. Topics include convex bodies, eigenvalue problems, and geometric inequalities. Discussions cover connections to quantum mechanics and statistical mechanics, emphasizing mathematical structures."), Montreal, QC, Canada.
+
+2025-06-16 to 2025-06-20: [Spectral Theory Workshop](https://sites.google.com/view/uk-st/events/workshop-4-reading "The workshop explores spectral theory, focusing on mathematical physics. Topics include eigenvalue problems, Schrödinger operators, and random matrices. Discussions cover applications in quantum mechanics and condensed matter physics, emphasizing spectral analysis techniques."), Reading, United Kingdom.
+

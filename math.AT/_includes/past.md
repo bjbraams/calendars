@@ -1,0 +1,2 @@
+2025-06-16 to 20: [Combinatorial Algebraic Topology & Applications III](https://www.dm.unipi.it/pages/cattop2025/ "The conference explores combinatorial algebraic topology, focusing on applications in physics. Topics include simplicial complexes, persistent homology, and topological data analysis. Discussions cover applications in quantum field theory and condensed matter physics, emphasizing topological methods."), Pisa, Italy.
+

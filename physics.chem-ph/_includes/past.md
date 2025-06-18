@@ -58,3 +58,13 @@
 
 2025-06-08 to 13: [13th International Conference on Chemical Kinetics (ICCK 2025)](https://icck2025.lbl.gov "ICCK 2025 focuses on chemical kinetics, covering reaction mechanisms, computational kinetics, and experimental techniques. Topics include combustion, atmospheric chemistry, and catalysis, with applications in energy and environmental science, emphasizing kinetic modeling advancements."), Lake Tahoe, NV, USA.
 
+2025-06-09 to 13: [Workshop on Molecular Excited States (MolEx 2025)](https://molex.umk.pl "MolEx 2025 focuses on molecular excited states, covering photophysics, quantum chemistry, and time-dependent simulations. Topics include excited-state dynamics, photochemical reactions, and applications in optoelectronics and biology, emphasizing computational and experimental studies."), Toruń, Poland.
+
+2025-06-15 to 20: [26th International Symposium on Plasma Chemistry (ISPC 2025)](https://ispc-conference.org "ISPC 2025 focuses on plasma chemistry, covering plasma-surface interactions, plasma synthesis, and reactive species. Topics include plasma catalysis, nanomaterial production, and applications in environmental and biomedical fields, emphasizing chemical processes in plasma environments."), Minneapolis, MN, USA.
+
+2025-06-16 to 19: [Conference on Excited State Processes (ESP 2025)](https://web.cvent.com/event/2d34d179-9bf3-4c99-a8a5-69e3bbb4532f/ "ESP 2025 focuses on excited state processes, covering photophysics, charge transfer, and quantum dynamics. Topics include time-resolved spectroscopy, excitonic materials, and applications in photovoltaics and photocatalysis, emphasizing experimental and computational studies of molecular excited states."), Santa Fe, NM, USA.
+
+2025-06-16 to 2025-06-20: [International Symposium on Mössbauer Spectroscopy: Nanochemistry, Hybrid Materials & Molecular Chemistry](https://gfsm2025.univ-nantes.fr/ "GFSM 2025 explores Mössbauer spectroscopy, focusing on nanochemistry and hybrid materials. Topics include hyperfine interactions, nanomaterial characterization, and molecular dynamics. Discussions cover applications in quantum materials and energy storage, emphasizing spectroscopic techniques."), Nantes, France.
+
+2025-06-17 to 19: [14th International Meeting on Atomic and Molecular Physics and Chemistry (IMAMPC 2025)](https://imampc2025.sciencesconf.org "IMAMPC 2025 focuses on atomic and molecular physics and chemistry, covering plasma interactions, molecular dynamics, and spectroscopy. Topics include reactive collisions, plasma chemistry, and applications in astrophysics and materials, emphasizing experimental and theoretical studies."), Caen, France.
+

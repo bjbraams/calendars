@@ -4,3 +4,21 @@
 
 2025-04-12 to 2025-04-13: [Southwest Local Algebra Meeting 2025 (SLAM 2025)](https://www.math.ttu.edu/~lchriste/slam2025.html "SLAM 2025 explores local algebra, focusing on commutative and non-commutative structures. Topics include local rings, module theory, and representation theory. Discussions cover applications in quantum mechanics and coding theory, emphasizing algebraic techniques."), Lubbock, TX, USA.
 
+2025-06-16 to 2025-06-20: [Explicit Methods in Automorphic Forms](https://sites.google.com/view/kevinchkwan/home/conference "The conference focuses on explicit methods in automorphic forms, exploring computational number theory. Topics include automorphic L-functions, trace formulas, and modular forms. Discussions cover applications in string theory and quantum mechanics, emphasizing arithmetic computational techniques."), London, United Kingdom.
+
+2025-06-16 to 2025-06-20: [Research, Mentorship, and Community for Current and Future Under-represented Algebraists](https://sites.google.com/view/rmc-algebra-conference/home "The conference fosters algebra research for under-represented groups, focusing on commutative algebra and representation theory. Topics include Gröbner bases, module theory, and tensor categories. Discussions cover applications in quantum computing and cryptography, emphasizing algebraic advancements."), Atlanta, GA, USA.
+
+2025-06-16 to 2025-06-20: [Spectrums in Representation Theory of Algebras and Related Topics](https://pabloocal.github.io/SRTART2025/ "The conference explores representation theory of algebras, focusing on spectral methods. Topics include quiver representations, Auslander-Reiten theory, and module categories. Discussions cover applications in quantum field theory and string theory."), Mexico City, Mexico.
+
+2025-06-16 to 2025-06-20: [Aarhus Automorphic Forms Summer School and Conference](https://conferences.au.dk/aaf1/aaf-conference "The event explores automorphic forms, focusing on number theory and representation theory. Topics include L-functions, modular forms, and harmonic analysis. Discussions cover applications in string theory and cryptography, advancing automorphic form research."), Aarhus, Denmark.
+
+2025-06-16 to 2025-06-20: [The Eisenstein Ideal and Galois Representations: 50 Years Later](https://sites.google.com/pitt.edu/eisenstein2026/ "The conference revisits the Eisenstein ideal, focusing on Galois representations. Topics include modular forms, p-adic L-functions, and arithmetic geometry. Discussions cover applications in string theory and number theory, advancing arithmetic insights."), Pittsburgh, PA, USA.
+
+2025-06-16 to 2025-06-20: [Explicit Methods in Automorphic Forms](https://www.ucl.ac.uk/maths/explicit-methods-2025 "The workshop explores explicit methods in automorphic forms, focusing on number theory. Topics include L-functions, modular forms, and computational techniques. Discussions cover applications in quantum field theory and cryptography, emphasizing connections between arithmetic and physical systems."), London, United Kingdom.
+
+2025-06-16 to 2025-06-20: [Galois Representations and Automorphic Forms](https://www.impan.pl/en/activities/banach-center/conferences/25-galois "The conference explores Galois representations and automorphic forms, focusing on number theory. Topics include L-functions, modular forms, and Shimura varieties. Discussions cover applications in string theory and quantum mechanics, emphasizing arithmetic connections."), Warsaw, Poland.
+
+2025-06-16 to 2025-06-20: [Iwasawa Theory and Representations of p-adic Groups Conference](https://www.univ-lille.fr/iwasawa-2025 "The conference explores Iwasawa theory and p-adic group representations, focusing on number theory. Topics include p-adic L-functions, Galois cohomology, and automorphic forms. Discussions cover applications in string theory and quantum mechanics, emphasizing arithmetic structures."), Lille, France.
+
+2025-06-16 to 2025-06-20: [TIME 2025: Invariant Theory](https://www.lie-stormer.no/time-2025 "TIME 2025 explores invariant theory, focusing on algebraic and geometric applications. Topics include polynomial invariants, GIT quotients, and representation theory. Discussions cover connections to string theory and quantum mechanics."), Tromsø, Norway.
+

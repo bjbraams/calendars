@@ -54,3 +54,11 @@
 
 2025-06-08 to 13: [22nd Householder Symposium (2025)](https://householder-symposium.github.io "This symposium focuses on numerical linear algebra, covering matrix computations, eigenvalue problems, and iterative solvers. Topics include Krylov subspace methods, low-rank approximations, and applications in scientific computing, emphasizing computational efficiency and accuracy."), Ithaca, NY, USA.
 
+2025-06-09 to 11: [12th International Conference on Adaptive Modeling and Simulation (ADMOS 2025)](https://admos2025.cimne.com/ "ADMOS 2025 focuses on adaptive modeling and simulation, covering mesh adaptation, error estimation, and multiscale methods. Topics include computational fluid dynamics, structural mechanics, and applications in engineering, emphasizing adaptive numerical techniques for complex simulations."), Barcelona, Spain.
+
+2025-06-10 to 13: [Waves and Imaging in Complex Media (Wicom 2025)](https://wicom.sciencesconf.org/ "Explores wave propagation and imaging in complex media. Topics include inverse scattering, wave-based imaging, and applications in geophysics, medical imaging, and material science."), Paris, France.
+
+2025-06-16 to 20: [2nd Conference on Random Matrix Theory and Numerical Linear Algebra (2025)](https://faculty.washington.edu/trogdon/RMT+NLA_II/ "This conference focuses on random matrix theory and numerical linear algebra, covering eigenvalue distributions, matrix factorizations, and computational algorithms. Topics include applications in data science and statistical physics, emphasizing probabilistic and computational matrix methods."), Seattle, WA, USA.
+
+2025-06-16 to 20: [CIME School: Existence and Regularity for Non-Uniformly Elliptic and Parabolic Problems](https://cvgmt.sns.it/event/965/ "The school focuses on elliptic and parabolic PDEs under non-standard growth conditions, exploring existence and regularity. Topics include p,q-growth problems and variational methods. Discussions cover applications in fluid dynamics and materials science, emphasizing advanced PDE techniques."), Montecatini Terme, Italy.
+

@@ -6,3 +6,5 @@
 
 2025-06-08 to 13: [22nd Householder Symposium (2025)](https://householder-symposium.github.io "This symposium focuses on numerical linear algebra, covering matrix computations, eigenvalue problems, and iterative solvers. Topics include Krylov subspace methods, low-rank approximations, and applications in scientific computing, emphasizing computational efficiency and accuracy."), Ithaca, NY, USA.
 
+2025-06-16 to 18: [Platform for Advanced Scientific Computing Conference (PASC 2025)](https://pasc25.pasc-conference.org/ "Focuses on advanced scientific computing, covering high-performance computing, numerical algorithms, and data-intensive simulations. Topics include computational physics, climate modeling, and machine learning, emphasizing scalable computing solutions for scientific research."), Brugg-Windisch, Switzerland.
+

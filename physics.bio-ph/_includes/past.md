@@ -6,3 +6,5 @@
 
 2025-05-26 to 30: [Joint European Thermodynamics Conference (JETC 2025)](https://mi.sanu.ac.rs/JETC2025 "JETC 2025 explores thermodynamics, focusing on statistical mechanics, nonequilibrium processes, and stochastic thermodynamics. Topics include entropy production, fluctuation theorems, and applications in biophysics and nanotechnology, emphasizing probabilistic approaches to thermodynamic systems."), Belgrade, Serbia.
 
+2025-06-16 to 2025-06-20: [Morphogenesis and Morphing: 200 Years After Gauss](https://cvgmt.sns.it/event/1023/ "The conference explores morphogenesis and morphing, focusing on geometric and physical models. Topics include differential geometry, pattern formation, and biological morphing. Discussions cover applications in biophysics and materials science, emphasizing Gaussian geometric insights."), Pisa, Italy.
+

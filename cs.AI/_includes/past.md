@@ -16,3 +16,11 @@
 
 2025-06-04 to 07: [13th Workshop on Uncertainty Processing (WUPES 2025)](https://utia.cas.cz/news/3818/ "WUPES 2025 explores uncertainty processing, covering Bayesian networks, fuzzy systems, and probabilistic reasoning. Topics include uncertainty quantification, decision-making under uncertainty, and applications in AI and engineering, emphasizing computational methods for uncertain environments."), Třešť, Czech Republic.
 
+2025-06-11 to 14: [Multi-Disciplinary Conference on Reinforcement Learning and Decision Making (RLDM 2025)](https://rldm.org/ "Focuses on reinforcement learning and decision-making, integrating machine learning and cognitive science. Topics include algorithmic advancements, neural modeling, and applications in robotics and AI."), Dublin, Ireland.
+
+2025-06-12 to 13: [4th Workshop on Mathematics and AI – Connecting the Mathematics Clusters (2025)](https://aimath.nl/index.php/2025/03/13/4th-aim-cluster-event-tilburg/ "This workshop explores mathematics and AI, focusing on algebraic methods, optimization, and probabilistic models. Topics include graph neural networks, mathematical foundations of deep learning, and applications in data science, emphasizing interdisciplinary mathematical AI research."), Tilburg, Netherlands.
+
+2025-06-15 to 19: [19th Learning and Intelligent OptimizatioN Conference (LION 2025)](https://lion19.org "LION 2025 focuses on intelligent optimization, covering metaheuristics, machine learning-based optimization, and evolutionary algorithms. Topics include combinatorial optimization, constraint programming, and applications in logistics and scheduling, emphasizing hybrid approaches for solving complex optimization problems."), Prague, Czech Republic.
+
+2025-06-16 to 2025-06-20: [INVICTA School of Vision, Computational Intelligence, and Pattern Analysis 2025](https://invicta-school.inesctec.pt/ "The INVICTA School trains researchers in vision and computational intelligence, with physics applications. Topics include image processing, pattern recognition, and deep learning. Lectures cover techniques for astrophysical image analysis and particle detector data, emphasizing AI-driven pattern analysis."), Porto, Portugal.
+

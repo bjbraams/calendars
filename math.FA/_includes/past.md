@@ -4,3 +4,9 @@
 
 2025-06-03 to 06: [QMP Intensive Period 2025 Workshop Recent Advances in Operator Theory and Its Applications](https://sites.google.com/view/qmp25-intensiveperiod/workshops/workshop-3-6-june "Explores operator theory advancements, focusing on functional analysis, spectral theory, and non-commutative geometry. Topics include applications in quantum mechanics, signal processing, and mathematical physics, emphasizing theoretical developments and computational methods."), Milan, Italy.
 
+2025-06-16 to 2025-06-20: [Nonlinear Analysis, Function Spaces and Applications 13 (NAFSA 13)](https://cvgmt.sns.it/event/972/ "NAFSA 13 explores nonlinear analysis and function spaces, with applications in physics. Topics include Sobolev spaces, nonlinear PDEs, and variational methods. Discussions cover modeling in fluid dynamics and quantum mechanics, emphasizing analytical techniques."), Prague, Czech Republic.
+
+2025-06-16 to 2025-06-20: [Workshop: Novel Methods for PDEs and Function Spaces](https://evolutionarypdes2025.icm.edu.pl/novel-methods/ "The workshop explores novel methods for PDEs and function spaces, with physical applications. Topics include fractional PDEs, Sobolev spaces, and nonlinear analysis. Discussions cover modeling in quantum mechanics and fluid dynamics, emphasizing advanced techniques."), Warsaw, Poland.
+
+2025-06-16 to 20: [2nd Atlantic Conference in Nonlinear PDEs: Harmonic Analysis, Dispersive and Elliptic Equations](https://www.math.tecnico.ulisboa.pt/~cviana/ACNPDE2025.html "The conference explores nonlinear PDEs, focusing on harmonic analysis, dispersive, and elliptic equations. Topics include wave propagation, Sobolev spaces, and nonlinear Schrödinger equations. Applications span fluid dynamics, quantum mechanics, and materials science, emphasizing mathematical techniques for modeling physical phenomena."), Lisbon, Portugal.
+

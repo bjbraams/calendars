@@ -1,19 +1,3 @@
-2025-06-09 to 11: [4th Symposium on Algorithmic Foundations of Dynamic Networks (SAND 2025)](https://sand2025.csc.liv.ac.uk/ "SAND 2025 focuses on algorithmic foundations of dynamic networks, covering temporal graphs, network dynamics, and distributed algorithms. Topics include routing in evolving networks, dynamic graph algorithms, and applications in mobile networks, emphasizing computational network theory."), Liverpool, UK.
-
-2025-06-10 to 12: [14th International Conference on Algorithms and Complexity (CIAC 2025)](https://easyconferences.eu/ciac2025/ "CIAC 2025 focuses on algorithms and complexity, covering graph algorithms, approximation algorithms, and computational complexity. Topics include parameterized complexity, algorithmic game theory, and applications in optimization, emphasizing theoretical advancements in algorithm design."), Rome, Italy.
-
-2025-06-11 to 13: [26th Conference on Integer Programming and Combinatorial Optimization (IPCO 2025)](https://ipco25.cs.jhu.edu "IPCO 2025 focuses on integer programming and combinatorial optimization, covering polyhedral combinatorics, cutting planes, and approximation algorithms. Topics include network optimization, scheduling, and applications in logistics, emphasizing rigorous optimization techniques."), Baltimore, MD, USA.
-
-2025-06-13 to 15: [Portuguese American Optimization Workshop (PAOW 2025)](https://coral.ise.lehigh.edu/paow/ "PAOW 2025 focuses on optimization, covering linear programming, stochastic optimization, and metaheuristics. Topics include network optimization, energy systems, and applications in logistics, emphasizing collaborative research and computational strategies for optimization problems."), Horta, Azores, Portugal.
-
-2025-06-13 to 16: [Summer School of EURO Working Group on Vehicle Routing and Logistics Optimization (VeRoLog 2025)](https://verolog2025.unitn.it/ "Focuses on vehicle routing and logistics optimization. Topics include algorithmic techniques, combinatorial optimization, and practical applications in transportation and supply chain management."), Trento, Italy.
-
-2025-06-16 to 19: [Conference of EURO Working Group on Vehicle Routing and Logistics Optimization (VeRoLog 2025)](https://verolog2025.unitn.it/ "Covers vehicle routing and logistics optimization. Topics include routing algorithms, scheduling, and computational methods for logistics and transportation systems."), Trento, Italy.
-
-2025-06-16 to 21: [5th (India) Large Scale Optimization Summer School 2025](https://www.ieor.iitb.ac.in/lso2025/ "Covers large-scale optimization techniques. Topics include algorithmic optimization, computational methods, and applications in operations research, logistics, and data science."), Bombay, India.
-
-2025-06-17 to 19: [36th Annual Symposium on Combinatorial Pattern Matching (CPM 2025)](https://cpm2025.pangenome.eu "CPM 2025 focuses on combinatorial pattern matching, covering string algorithms, sequence analysis, and computational biology. Topics include suffix trees, pattern discovery, and applications in genomics and text processing, emphasizing efficient algorithmic techniques."), Milan, Italy.
-
 2025-06-22 to 25: [34th European Conference on Operational Research (EURO 2025)](https://euro2025leeds.uk "EURO 2025 explores operational research, covering optimization, decision theory, and data analytics. Topics include supply chain management, scheduling, and machine learning applications, with emphasis on practical and theoretical optimization in logistics and healthcare."), Leeds, UK.
 
 2025-06-23 to 27: [57th Annual ACM Symposium on Theory of Computing (STOC 2025)](https://acm-stoc.org/stoc2025/ "STOC 2025 focuses on theoretical computer science, covering algorithms, complexity, and cryptography. Topics include randomized algorithms, quantum computing, and computational learning theory, emphasizing foundational theoretical advancements with applications in computing and AI."), Prague, Czech Republic.

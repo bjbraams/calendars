@@ -2,3 +2,7 @@
 
 2025-04-10 to 11: [7th International Conference on Numerical and Symbolic Computation, Developments and Applications (SYMCOMP 2025)](https://symcomp2025.isel.pt/ "SYMCOMP 2025 focuses on numerical and symbolic computation, covering computer algebra, numerical solvers, and hybrid methods. Topics include polynomial systems, optimization, and applications in engineering and physics, emphasizing computational tools for exact and approximate solutions."), Lisbon, Portugal.
 
+2025-06-16 to 2025-06-20: [Macaulay2 Workshop in Madison](https://macaulay2.github.io/workshop-2025-madison/ "The Madison Macaulay2 workshop focuses on computational commutative algebra using Macaulay2. Topics include polynomial ideals, homological algebra, and computational geometry. Discussions cover applications in quantum field theory and string theory, emphasizing algebraic computations."), Madison, WI, USA.
+
+2025-06-16 to 20: [CoCoA School 2025](https://sites.google.com/view/cocoaschool2025 "The CoCoA School trains researchers in computational commutative algebra using the CoCoA software. Topics include Gröbner bases, polynomial ideals, and algebraic geometry. Discussions cover applications in theoretical physics, particularly in string theory and quantum mechanics, emphasizing computational techniques."), Genoa, Italy.
+

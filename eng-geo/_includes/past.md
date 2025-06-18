@@ -1,0 +1,2 @@
+2025-06-15 to 18: [10th International Conference on Computational Methods in Structural Dynamics and Earthquake Engineering (COMPDYN 2025)](https://2025.compdyn.org/ "This conference focuses on computational methods for structural dynamics and earthquake engineering, covering finite element methods, dynamic response analysis, and seismic simulations. Topics include structural vibrations, soil-structure interactions, and applications in seismic design, emphasizing numerical techniques for earthquake-resistant structures."), Rhodes, Greece.
+

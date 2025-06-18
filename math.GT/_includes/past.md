@@ -12,3 +12,11 @@
 
 2025-05-19 to 23: [2025 Georgia International Topology Conference](https://www.math.uga.edu/topology/conference25.html "The conference focuses on topology, with applications in physics and geometry. Topics include knot theory, manifold classification, and topological methods in quantum field theory. It discusses advancements in algebraic topology and their implications for understanding spacetime structures and physical systems."), Athens, GA, USA.
 
+2025-06-16 to 2025-06-20: [New Perspectives on Skein Modules](https://www.cirm-math.fr/fr/evenements/new-perspectives-on-skein-modules/ "The conference explores skein modules, focusing on topological and algebraic applications. Topics include skein algebras, knot invariants, and quantum topology. Discussions cover connections to quantum field theory and string theory, emphasizing topological structures."), Marseille, France.
+
+2025-06-16 to 2025-06-20: [New Perspectives on Skein Modules](https://www.cirm-math.fr/skein-modules-2025 "The conference focuses on skein modules, bridging topology and quantum physics. Topics include skein theory, link homology, and quantum groups. Discussions explore applications in string theory and topological quantum field theory, emphasizing geometric and algebraic insights."), Marseille, France.
+
+2025-06-16 to 2025-06-20: [School on Groups and Geometry](https://erdoscenter.renyi.hu/school-groups-geometry-2025 "The school trains researchers in groups and geometry, focusing on topological applications. Topics include group actions, geometric group theory, and hyperbolic geometry. Lectures cover connections to quantum topology and string theory, emphasizing geometric structures."), Budapest, Hungary.
+
+2025-06-16 to 20: [Conference: Trisections and Related Topics](https://www.cirm-math.fr/fr/evenements/conference-trisections-and-related-topics/ "The conference explores trisections in topology, focusing on applications in physics. Topics include 4-manifolds, knot theory, and gauge theory. Discussions cover connections to quantum field theory and general relativity, emphasizing topological methods in physical systems."), Marseille, France.
+

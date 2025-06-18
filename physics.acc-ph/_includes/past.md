@@ -24,3 +24,5 @@
 
 2025-06-03 to 2025-06-06: [TESLA Technology Collaboration Meeting 2025](https://www.tesla-collaboration.org/meetings/ttc2025/ "TTC 2025 advances superconducting RF technology for particle accelerators. Topics include cavity design, cryogenics, and beam dynamics. Discussions cover applications in high-energy physics and future colliders, enhancing accelerator performance and efficiency."), Tsukuba, Japan.
 
+2025-06-15 to 20: [1st US Muon Collider Accelerator School](https://indico.cern.ch/event/1402286/ "MuSchool2025 trains researchers in muon collider technologies, focusing on beam dynamics and accelerator design. Topics include muon production, cooling, and high-luminosity collisions. The school discusses potential for precision Higgs measurements and new physics searches, emphasizing advancements in accelerator physics for future colliders."), Batavia, IL, USA.
+

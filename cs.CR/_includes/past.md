@@ -16,3 +16,7 @@
 
 2025-06-03 to 07-23: [Quantum Fringe Summer Festival of Quantum Events 2025](https://www.quantumsoftwarelab.com/quantum-fringe-scotland "This festival explores quantum technologies, focusing on quantum computing, algorithms, and cryptography. Topics include quantum circuit design, quantum machine learning, and applications in optimization, emphasizing interdisciplinary advancements in quantum software and hardware development."), Various Scotland, UK.
 
+2025-06-16 to 18: [Vienna Workshop on Quantum Cryptography Beyond Quantum Key Distribution (VIE-CRYPT 2025)](https://quantum.univie.ac.at/events/vie-crypt-2025/ "VIE-CRYPT 2025 explores advanced quantum cryptography, focusing on quantum digital signatures, secure multiparty computation, and post-quantum cryptography. Topics include quantum-resistant protocols and applications in secure communication, emphasizing theoretical and practical quantum cryptographic advancements."), Vienna, Austria.
+
+2025-06-16 to 2025-06-20: [Sixteenth Algorithmic Number Theory Symposium (ANTS-XVI)](https://antsmath.org/ANTS-XVI/ "ANTS-XVI explores algorithmic number theory, focusing on computational methods. Topics include primality testing, elliptic curves, and lattice algorithms. Discussions cover applications in cryptography and quantum computing, emphasizing efficient number-theoretic algorithms."), Providence, RI, USA.
+

@@ -68,3 +68,15 @@
 
 2025-06-08 to 13: [22nd International Conference on Radiation Effects in Insulators (REI 2025)](https://rei22madrid.csic.es "REI 2025 focuses on radiation effects in insulators, covering ion implantation, defect formation, and plasma-material interactions. Topics include radiation damage, dielectric materials, and applications in nuclear reactors and space technology, emphasizing experimental and computational studies."), Madrid, Spain.
 
+2025-06-09 to 13: [15th Serbian Conference on Spectral Line Shapes in Astrophysics (SCSLSA 2025)](http://servo.aob.rs/scslsa/ "SCSLSA 2025 focuses on spectral line shapes in astrophysics, covering plasma diagnostics, radiative transfer, and line broadening. Topics include stellar atmospheres, interstellar media, and applications in astrophysical modeling, emphasizing spectroscopic analysis of plasmas."), Niš, Serbia.
+
+2025-06-09 to 13: [4th (Korea) International Fusion and Plasma Conference (iFPC 2025)](https://i-fpc.org/2025/ "Focuses on fusion and plasma science, covering plasma confinement, fusion energy, and plasma diagnostics. Topics include tokamak physics, inertial confinement, and computational modeling, emphasizing advancements in fusion technology."), Daejeon, Korea.
+
+2025-06-09 to 13: [6th Summer School of Plasma Diagnostics (PhDiaFusion 2025)](https://phdia2025.ifj.edu.pl/ "PhDiaFusion 2025 focuses on plasma diagnostics, covering spectroscopy, interferometry, and particle diagnostics. Topics include fusion plasma measurements, diagnostic calibration, and applications in magnetic confinement, emphasizing practical training in plasma diagnostic techniques."), Castle near Kraków, Poland.
+
+2025-06-15 to 20: [25th IEEE Pulsed Power Conference (PPC 2025) and the 52nd IEEE International Conference on Plasma Science (ICOPS 2025)](https://www.ppps2025.kit.edu/ "This joint conference explores pulsed power and plasma science, covering high-voltage systems, plasma diagnostics, and laser-plasma interactions. Topics include inertial confinement fusion, plasma processing, and applications in energy and defense, emphasizing experimental and computational advancements."), Berlin, Germany.
+
+2025-06-15 to 20: [26th International Symposium on Plasma Chemistry (ISPC 2025)](https://ispc-conference.org "ISPC 2025 focuses on plasma chemistry, covering plasma-surface interactions, plasma synthesis, and reactive species. Topics include plasma catalysis, nanomaterial production, and applications in environmental and biomedical fields, emphasizing chemical processes in plasma environments."), Minneapolis, MN, USA.
+
+2025-06-16 to 19: [UKAEA Fusion Industry School York Course 2025](https://fusion-cdt.ac.uk/fusion-industry-school/ "This course focuses on fusion energy, covering plasma physics, magnetic confinement, and fusion reactor technologies. Topics include tokamak operations, plasma diagnostics, and materials for fusion, emphasizing practical training for industry applications in sustainable energy."), Heslington, York, UK.
+

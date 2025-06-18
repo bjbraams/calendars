@@ -16,3 +16,7 @@
 
 2025-06-02 to 07: [26th International Conference on Laser Spectroscopy (ICOLS 2025)](https://icols2025.it "ICOLS 2025 focuses on laser spectroscopy, covering precision measurements, plasma diagnostics, and laser-material interactions. Topics include atomic clocks, laser-induced breakdown spectroscopy, and applications in fusion and astrophysics, emphasizing advanced spectroscopic techniques."), Elba Island, Italy.
 
+2025-06-11 to 18: [13th Crete International Symposium on Ultrafast Dynamics and Ultrafast Bandgap Photonics (2025)](https://udm-ubp2025.eventsadmin.com/ "Investigates ultrafast dynamics and bandgap photonics, covering attosecond spectroscopy, nonlinear optics, and photonic materials. Topics include carrier dynamics, quantum coherence, and applications in optoelectronics, emphasizing experimental and theoretical advancements."), Hersonissos, Crete, Greece. Includes a Summer School.
+
+2025-06-17 to 18: [Cryst3 Workshop Quantum in Photonic Microstructures (2025)](https://www.cryst3.com/quantum-in-photonic-microstructures-workshop "Focuses on quantum phenomena in photonic microstructures, covering quantum optics, photonics, and nanostructured materials. Topics include quantum light sources, photonic crystals, and applications in quantum communication and sensing, emphasizing experimental and theoretical advances."), Limoges, France.
+

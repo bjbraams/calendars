@@ -4,3 +4,7 @@
 
 2025-04-01 to 04: [Workshop Algebraic Statistics and the Study of Multistate Models: Theory and Applications (2025)](https://www.kaiekubjas.com/algstatmsm/ "This workshop focuses on algebraic statistics for multistate models, covering Markov models, graphical models, and tensor methods. Topics include identifiability, parameter estimation, and applications in biology and social sciences, emphasizing algebraic techniques for complex statistical systems."), Aalto, Finland.
 
+2025-06-09 to 13: [Stochastic Reaction Networks Summer School (2025)](https://constrained.polito.it/stochastic-reaction-networks-summer-school/ "This summer school focuses on stochastic reaction networks, covering chemical master equations, Gillespie algorithms, and stochastic modeling. Topics include biochemical networks, epidemic modeling, and applications in systems biology, emphasizing probabilistic simulation techniques."), Torgnon, Italy.
+
+2025-06-16 to 18: [Stochastic Reaction Networks Workshop (2025)](https://constrained.polito.it/stochastic-reaction-networks-workshop/ "This workshop focuses on stochastic reaction networks, covering chemical master equations, stochastic simulations, and Markov processes. Topics include biochemical kinetics, epidemic modeling, and applications in systems biology, emphasizing probabilistic approaches to reaction dynamics."), Torino, Italy.
+

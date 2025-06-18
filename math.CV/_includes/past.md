@@ -1,0 +1,8 @@
+2025-06-09 to 13: [Complex Hermitian Geometry](https://www.univ-angers.fr/complex-hermitian-2025 "The workshop explores complex Hermitian geometry, focusing on applications in physics. Topics include Hermitian manifolds, special metrics, and complex structures. Discussions cover connections to quantum field theory and string theory, emphasizing geometric methods in theoretical physics."), Angers, France.
+
+2025-06-16 to 2025-06-20: [Dynamics of Multiple Maps](https://aimath.org/workshops/upcoming/multiplemaps/ "The workshop explores dynamics of multiple maps, focusing on complex dynamical systems. Topics include iterated function systems, fractal geometry, and chaotic dynamics. Discussions cover applications in quantum chaos and statistical mechanics, emphasizing mathematical models of physical systems."), San Antonio, TX, USA.
+
+2025-06-16 to 20: [Cauchy-Riemann Geometry and Subelliptic Theory](https://cvgmt.sns.it/event/1025/ "The conference explores Cauchy-Riemann geometry and subelliptic theory, focusing on complex analysis and geometry. Topics include CR manifolds, subelliptic PDEs, and holomorphic mappings. Discussions cover applications in quantum mechanics and string theory, emphasizing geometric structures."), Matera, Italy.
+
+2025-06-16 to 20: [Complex Analysis, Geometry, and Dynamics IV](https://www.fmf.uni-lj.si/si/dogodki/2025/complex-analysis-geometry-dynamics/ "The conference explores complex analysis, geometry, and dynamics, focusing on interdisciplinary applications. Topics include holomorphic dynamics, Riemann surfaces, and complex PDEs. Discussions cover connections to quantum mechanics and string theory, emphasizing mathematical structures in physical systems."), Portorož, Slovenia.
+

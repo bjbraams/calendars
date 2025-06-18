@@ -8,3 +8,5 @@
 
 2025-06-02 to 06: [International School and Conference on Network Science (NetSci 2025)](https://netsci2025.github.io "NetSci 2025 focuses on network science, covering graph algorithms, network dynamics, and optimization. Topics include community detection, epidemic modeling, and network robustness, with applications in social networks and biology, emphasizing computational approaches to complex networks."), Maastricht, The Netherlands.
 
+2025-06-16 to 2025-06-20: [Sustainable High Energy Physics 2025 - 4th Edition](https://indico.cern.ch/event/1392136/ "Sustainable HEP 2025 explores sustainable practices in high-energy physics, focusing on environmental impact. Topics include energy-efficient computing, green detector technologies, and carbon-neutral experiments. Discussions advance sustainable methodologies for particle physics research."), Lisbon, Portugal.
+

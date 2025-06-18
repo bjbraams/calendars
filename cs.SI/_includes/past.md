@@ -12,3 +12,7 @@
 
 2025-06-02 to 13: [SLMath Graduate School on Local Limits of Random Graphs (2025)](https://www.slmath.org/summer-schools/1099 "This graduate school focuses on local limits of random graphs, covering graphons, branching processes, and combinatorial probability. Topics include network convergence, random graph models, and applications in social networks, emphasizing probabilistic tools for graph analysis."), Paris, France.
 
+2025-06-09 to 11: [4th Symposium on Algorithmic Foundations of Dynamic Networks (SAND 2025)](https://sand2025.csc.liv.ac.uk/ "SAND 2025 focuses on algorithmic foundations of dynamic networks, covering temporal graphs, network dynamics, and distributed algorithms. Topics include routing in evolving networks, dynamic graph algorithms, and applications in mobile networks, emphasizing computational network theory."), Liverpool, UK.
+
+2025-06-09 to 13: [ICMS Conference Random Walks, Percolation and Mixing Times (2025)](https://sites.google.com/view/icmsrwconf/home "This conference focuses on random walks, percolation, and mixing times, covering Markov chains, random graphs, and stochastic dynamics. Topics include mixing rates, critical phenomena, and applications in network science, emphasizing probabilistic analysis of stochastic processes."), Edinburgh, UK.
+

@@ -10,3 +10,9 @@
 
 2025-06-08 to 14: [18th Thematic CERN School of Computing on Scientific Software for Heterogeneous Architectures](https://csc.web.cern.ch/ "The school trains researchers in scientific software development for heterogeneous architectures. Topics include GPU programming, parallel computing, and software optimization for physics simulations. It emphasizes tools for high-energy physics, such as CERN’s experiments, focusing on performance portability and scalability in data-intensive applications."), Split, Croatia.
 
+2025-06-10 to 2025-06-12: [High Performance Software Foundation Conference 2025](https://hpsf.io/2025/ "HPSF 2025 explores high-performance computing software, with applications in physics. Topics include parallel algorithms, GPU optimization, and scientific simulations. Discussions cover software for particle physics and cosmology, emphasizing computational advancements for large-scale data."), Atlanta, GA, USA.
+
+2025-06-16 to 2025-06-20: [Python in HEP Developer's Workshop (PyHEP.dev 2025)](https://indico.cern.ch/event/1402271/ "PyHEP.dev 2025 focuses on Python tools for high-energy physics, emphasizing software development. Topics include data analysis pipelines, Monte Carlo simulations, and machine learning frameworks. Discussions cover applications in LHC experiments, advancing computational HEP tools."), CERN, Geneva, Switzerland.
+
+2025-06-16 to 20: [2nd Workshop on Quantum Software 2025](https://pldi25.sigplan.org/home/wqs-2025 "This workshop focuses on quantum software, covering quantum programming languages, compilers, and verification. Topics include quantum circuit optimization, hybrid quantum-classical frameworks, and applications in quantum simulation, emphasizing software tools for quantum computing development."), Seoul, South Korea.
+

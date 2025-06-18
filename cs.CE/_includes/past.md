@@ -22,3 +22,5 @@
 
 2025-06-04 to 06: [2nd Conference Math 2 Product, Emerging Technologies in Computational Science for Industry, Sustainability and Innovation (M2P 2025)](https://www.m2p2025.com/M2P2025/ "M2P 2025 focuses on computational science for industry and sustainability, covering numerical methods, data-driven modeling, and optimization. Topics include computational mechanics, digital twins, and applications in energy and manufacturing, emphasizing innovative computational solutions."), Valencia, Spain.
 
+2025-06-15 to 18: [6th International Conference on Uncertainty Quantification in Computational Science and Engineering (UNCECOMP 2025)](https://2025.uncecomp.org "UNCECOMP 2025 explores uncertainty quantification in computational science, focusing on probabilistic methods, Bayesian inference, and Monte Carlo simulations. Topics include uncertainty propagation, reliability analysis, and applications in engineering and physics, emphasizing robust computational frameworks for handling uncertainties."), Rhodes, Greece.
+

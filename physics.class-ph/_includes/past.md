@@ -4,3 +4,5 @@
 
 2025-06-01 to 05: [IUTAM Symposium on Failure Dynamics and Resilience Under Extreme Events (2025)](https://iutam.org/events/iutam-symposium-on-failure-dynamics-and-resilience-under-extreme-events "Focuses on failure dynamics and resilience in materials under extreme conditions. Topics include fracture mechanics, computational modeling, and applications in structural engineering and disaster mitigation."), Granada, Spain.
 
+2025-06-16 to 2025-06-20: [Time in Physics International Workshop](https://indico.cern.ch/event/1410994/ "TPIW explores the concept of time in physics, focusing on theoretical perspectives. Topics include time in general relativity, quantum mechanics, and thermodynamics. Discussions advance understanding of time’s role in fundamental physics."), Lisbon, Portugal.
+

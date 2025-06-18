@@ -2,3 +2,9 @@
 
 2025-06-02 to 06: [Calculus of Variations and Applications](https://www.cirm-math.fr/fr/evenements/calculus-of-variations-and-applications-2/ "The conference explores calculus of variations, focusing on applications in physics and materials science. Topics include energy minimization, nonlinear PDEs, and optimal transport. Discussions cover modeling physical systems like fluid dynamics and elasticity, advancing mathematical techniques for real-world problems."), Marseille, France.
 
+2025-06-09 to 13: [Calculus of Variations and Free Boundary Problems X](https://cvgmt.sns.it/events/?year=2025 "The workshop focuses on calculus of variations and free boundary problems, exploring mathematical models in physics. Topics include phase transitions, minimal surfaces, and obstacle problems. Discussions cover applications in fluid dynamics and materials science, emphasizing PDE-based solutions."), Pisa, Italy.
+
+2025-06-16 to 2025-06-20: [Mini-Courses in Mathematical Analysis 2025](https://www.math.unipd.it/~scandali/mcma25.html "The mini-courses cover mathematical analysis, focusing on applications in physics. Topics include functional inequalities, PDEs, and harmonic analysis. Discussions explore applications in fluid dynamics, quantum mechanics, and materials science, emphasizing analytical techniques."), Padova, Italy.
+
+2025-06-16 to 20: [Advances in Calculus of Variations and Nonlinear Analysis](https://cvgmt.sns.it/event/1012/ "The conference explores calculus of variations and nonlinear analysis, with applications in physics. Topics include variational methods, PDEs, and optimization. Discussions cover applications in fluid dynamics, materials science, and quantum mechanics, emphasizing mathematical modeling of physical systems."), Brescia, Italy.
+

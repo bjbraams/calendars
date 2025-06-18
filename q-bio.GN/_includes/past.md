@@ -1,2 +1,4 @@
 2025-02-05: [29th London Stringology Days & London Algorithmic Workshop (LSD & LAW)](https://nms.kcl.ac.uk/informatics/events/LSD&LAW25/ "LSD & LAW 2025 explores stringology and algorithmic techniques. Topics include string matching, data compression, and sequence alignment, alongside broader algorithmic challenges like graph algorithms and combinatorial optimization. The workshop emphasizes theoretical advancements with applications in bioinformatics, text processing, and data science."), London, UK.
 
+2025-06-17 to 19: [36th Annual Symposium on Combinatorial Pattern Matching (CPM 2025)](https://cpm2025.pangenome.eu "CPM 2025 focuses on combinatorial pattern matching, covering string algorithms, sequence analysis, and computational biology. Topics include suffix trees, pattern discovery, and applications in genomics and text processing, emphasizing efficient algorithmic techniques."), Milan, Italy.
+

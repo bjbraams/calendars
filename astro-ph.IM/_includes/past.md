@@ -6,3 +6,9 @@
 
 2025-06-02 to 06: [Scientific Machine Learning for Gravitational Wave Astronomy (2025)](https://icerm.brown.edu/program/topical_workshop/tw-25-smlgwa "This workshop focuses on machine learning for gravitational wave astronomy, covering neural networks for signal detection and parameter estimation. Topics include deep learning, Bayesian inference, and applications in LIGO data analysis, emphasizing AI-driven astrophysical discoveries."), Providence, RI, USA.
 
+2025-06-09 to 2025-06-13: [High Precision X-ray Measurements 2025](https://hpxm2025.br/ "HPXM 2025 focuses on high-precision X-ray measurements, exploring astrophysical and laboratory applications. Topics include X-ray spectroscopy, detector calibration, and synchrotron techniques. Discussions cover advancements in X-ray telescopes and particle physics experiments."), Frascati, Italy.
+
+2025-06-16 to 2025-06-20: [Pencil Code School and User Meeting](https://www.pencil-code.nordita.org/ "The school and meeting focus on the Pencil Code, a tool for astrophysical simulations. Topics include magnetohydrodynamics, stellar dynamics, and numerical methods. Discussions cover applications in cosmology and star formation, emphasizing computational astrophysics."), Geneva, Switzerland.
+
+2025-06-16 to 20: [Bridging Multi-Messenger Astronomy and SETI: The Deep Ends of the Haystack](https://indico.cern.ch/event/1411048/ "The workshop bridges multi-messenger astronomy and SETI, exploring signals from cosmic sources. Topics include gravitational waves, neutrinos, and radio signals. Discussions cover detection techniques and implications for astrophysics and extraterrestrial intelligence, emphasizing interdisciplinary approaches."), Stockholm, Sweden.
+

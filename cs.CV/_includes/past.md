@@ -16,3 +16,11 @@
 
 2025-05-27 to 30: [18th International Meeting on Fully Three-Dimensional Image Reconstruction in Radiology and Nuclear Medicine (Fully3D 2025)](https://hqlab.sjtu.edu.cn/fully3d-2025/home "Fully3D focuses on 3D image reconstruction, covering tomographic algorithms, deep learning, and iterative methods. Topics include CT, PET, and nuclear medicine imaging, with applications in diagnostics and therapy planning, emphasizing computational advancements for high-resolution imaging."), Shanghai, China.
 
+2025-06-11: [4th Workshop on Uncertainty Quantification for Computer Vision (UQCV 2025)](https://uncertainty-cv.github.io/2025/ "UQCV 2025 focuses on uncertainty quantification in computer vision, covering Bayesian deep learning, epistemic uncertainty, and model calibration. Topics include uncertainty in image classification, object detection, and applications in autonomous driving, emphasizing robust vision systems."), Nashville, TN, USA. Workshop at CVPR 2025.
+
+2025-06-11 to 15: [IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR 2025)](https://cvpr.thecvf.com "CVPR 2025 focuses on computer vision and pattern recognition, covering deep learning, image segmentation, and object detection. Topics include generative models, 3D vision, and applications in autonomous systems, emphasizing cutting-edge vision algorithms and AI."), Nashville, TN, USA.
+
+2025-06-16 to 2025-06-20: [INVICTA School of Vision, Computational Intelligence, and Pattern Analysis 2025](https://invicta-school.inesctec.pt/ "The INVICTA School trains researchers in vision and computational intelligence, with physics applications. Topics include image processing, pattern recognition, and deep learning. Lectures cover techniques for astrophysical image analysis and particle detector data, emphasizing AI-driven pattern analysis."), Porto, Portugal.
+
+2025-06-16 to 20: [Deep Learning for Medical Imaging School 2025](https://cvgmt.sns.it/event/977/ "The school trains researchers in deep learning for medical imaging, with physics applications. Topics include convolutional neural networks, image segmentation, and anomaly detection. Lectures cover techniques for detector data analysis in high-energy physics and astrophysics."), Trento, Italy.
+

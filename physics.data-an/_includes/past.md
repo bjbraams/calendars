@@ -10,3 +10,9 @@
 
 2025-05-12 to 16: [1st Community Workshop for Anomaly Detection in High Energy Physics](https://indico.cern.ch/event/1411034/ "AD4HEP 2025 explores anomaly detection in high-energy physics, focusing on machine learning techniques for identifying new physics. Topics include unsupervised learning, neural networks, and anomaly searches in LHC data. The workshop discusses applications in ATLAS, CMS, and future experiments, emphasizing data-driven discovery methods."), CERN, Geneva, Switzerland.
 
+2025-06-09 to 11: [13th ROOT Users Workshop](https://root.cern/workshops/root-2025/ "The ROOT Users Workshop focuses on the ROOT data analysis framework, widely used in high-energy physics. Topics include data visualization, statistical analysis, and machine learning integration. The workshop covers updates to ROOT’s functionality, performance optimization, and applications in LHC experiments, neutrino physics, and beyond."), Mol, Belgium.
+
+2025-06-16 to 2025-06-20: [ML4Physics@Ljubljana Training School](https://www.cost.eu/actions/CA22130/#tabs|Name:training-schools "The training school focuses on machine learning for physics, emphasizing applications in particle and astrophysics. Topics include neural networks, generative models, and data analysis. Lectures cover techniques for detector data and cosmological simulations, advancing AI-driven physics research."), Ljubljana, Slovenia.
+
+2025-06-17 to 20: [Meeting of the International Network of Nuclear Reaction Data Centres (NRDC 2025)](https://www-nds.iaea.org/nrdc/nrdc_2025/ "NRDC 2025 focuses on nuclear reaction data, covering cross-section measurements, data compilation, and evaluation. Topics include nuclear databases, reaction modeling, and applications in nuclear energy and astrophysics, emphasizing standardized nuclear data."), Madrid, Spain.
+

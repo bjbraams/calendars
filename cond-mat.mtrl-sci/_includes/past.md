@@ -64,3 +64,13 @@
 
 2025-06-08 to 13: [22nd International Conference on Radiation Effects in Insulators (REI 2025)](https://rei22madrid.csic.es "REI 2025 focuses on radiation effects in insulators, covering ion implantation, defect formation, and plasma-material interactions. Topics include radiation damage, dielectric materials, and applications in nuclear reactors and space technology, emphasizing experimental and computational studies."), Madrid, Spain.
 
+2025-06-11 to 18: [13th Crete International Symposium on Ultrafast Dynamics and Ultrafast Bandgap Photonics (2025)](https://udm-ubp2025.eventsadmin.com/ "Investigates ultrafast dynamics and bandgap photonics, covering attosecond spectroscopy, nonlinear optics, and photonic materials. Topics include carrier dynamics, quantum coherence, and applications in optoelectronics, emphasizing experimental and theoretical advancements."), Hersonissos, Crete, Greece. Includes a Summer School.
+
+2025-06-16 to 2025-06-20: [International Symposium on Mössbauer Spectroscopy: Nanochemistry, Hybrid Materials & Molecular Chemistry](https://gfsm2025.univ-nantes.fr/ "GFSM 2025 explores Mössbauer spectroscopy, focusing on nanochemistry and hybrid materials. Topics include hyperfine interactions, nanomaterial characterization, and molecular dynamics. Discussions cover applications in quantum materials and energy storage, emphasizing spectroscopic techniques."), Nantes, France.
+
+2025-06-16 to 2025-06-20: [23rd Workshop on First-Principles Computational Materials Physics](https://phys.ncts.ntu.edu.tw/act/actnews/The-23rd-Workshop-on-First-Principles-Computational-Materials-Physics-52319076/home "The workshop explores first-principles methods in materials physics, focusing on computational techniques. Topics include DFT, quantum Monte Carlo, and topological materials. Discussions cover applications in quantum computing and energy materials, advancing materials science."), Taipei, Taiwan.
+
+2025-06-16 to 2025-06-20: [Workshop on Frontiers in Quantum Materials](https://indico.cern.ch/event/1402301/ "The workshop explores quantum materials, focusing on novel properties. Topics include topological insulators, quantum spin liquids, and high-Tc superconductors. Discussions cover applications in quantum computing and spintronics, advancing materials science."), Lisbon, Portugal.
+
+2025-06-16 to 27: [Los Alamos Computational Condensed Matter Summer School 2025](https://laccmss.github.io/2025/ "This summer school focuses on computational condensed matter physics, covering density functional theory, Monte Carlo methods, and molecular dynamics. Topics include quantum materials, superconductivity, and energy applications, emphasizing computational techniques for material simulations."), Los Alamos, NM, USA.
+

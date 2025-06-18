@@ -4,3 +4,5 @@
 
 2025-06-03 to 07: [39th IEEE International Parallel and Distributed Processing Symposium (IPDPS 2025)](https://www.ipdps.org/ "Explores parallel and distributed processing, covering algorithms, architectures, and software systems. Topics include big data processing, machine learning, and scientific computing, emphasizing performance optimization and scalability in computational systems."), Milan, Italy.
 
+2025-06-10 to 13: [ISC High Performance 2025](https://isc-hpc.com "ISC High Performance 2025 focuses on high-performance computing, covering parallel algorithms, exascale architectures, and GPU computing. Topics include scientific simulations, AI integration, and applications in physics and climate, emphasizing scalable computational performance."), Hamburg, Germany.
+

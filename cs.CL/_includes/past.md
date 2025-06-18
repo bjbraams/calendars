@@ -1,2 +1,4 @@
 2025-04-05 to 06: [IEEE 4th International Conference on Computing and Machine Intelligence (ICMI 2025)](https://www.icmiconf.com/ "ICMI 2025 focuses on computing and machine intelligence, covering deep learning, computer vision, and natural language processing. Topics include federated learning, AI ethics, and applications in healthcare and robotics, emphasizing innovative algorithms and intelligent systems design."), Mount Pleasant, MI, USA.
 
+2025-06-16 to 2025-06-20: [Summer School on Automatic Speech Recognition 2025](https://iitgn.ac.in/events/ssasr2025 "The summer school trains researchers in automatic speech recognition, with physics applications. Topics include neural networks, acoustic modeling, and signal processing. Lectures cover applications in astrophysical data analysis and quantum computing."), Gandhinagar, India.
+

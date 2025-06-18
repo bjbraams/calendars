@@ -20,3 +20,5 @@
 
 2025-06-02 to 13: [YITP International Molecule-Type Workshop on Hydrodynamics of Low-Dimensional Interacting Systems Advances, Challenges, and Future Directions (2025)](https://www.yukawa.kyoto-u.ac.jp/seminar/s53402?lang=en-GB "This workshop explores hydrodynamics in low-dimensional systems, focusing on fluid dynamics, quantum hydrodynamics, and computational modeling. Topics include transport properties, collective modes, and applications in condensed matter, emphasizing theoretical and numerical advancements."), Kyoto, Japan.
 
+2025-06-16 to 18: [IUTAM Symposium on Fundamental Mechanics for Future Microfluidics (2025)](https://iutam.org/events/iutam-symposium-on-fundamental-mechanics-for-future-microfluidics "Focuses on mechanics in microfluidics, emphasizing computational and experimental approaches. Topics include microscale flow dynamics, lab-on-chip systems, and applications in biomedical engineering."), Manchester, UK.
+

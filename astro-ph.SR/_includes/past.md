@@ -1,2 +1,4 @@
 2025-03-01 to 07: [61st Karpacz Winter School of Theoretical Physics and ChETEC-INFRA Training School 2025 Multi-Messenger Nuclear Astrophysics in the 21st Century](https://events.ift.uni.wroc.pl/event/68/ "Focuses on multi-messenger nuclear astrophysics, covering nucleosynthesis, gravitational waves, and neutrino detection. Topics include nuclear reactions, stellar evolution, and computational modeling, emphasizing interdisciplinary approaches to cosmic phenomena."), Karpacz, Poland.
 
+2025-06-09 to 13: [15th Serbian Conference on Spectral Line Shapes in Astrophysics (SCSLSA 2025)](http://servo.aob.rs/scslsa/ "SCSLSA 2025 focuses on spectral line shapes in astrophysics, covering plasma diagnostics, radiative transfer, and line broadening. Topics include stellar atmospheres, interstellar media, and applications in astrophysical modeling, emphasizing spectroscopic analysis of plasmas."), Niš, Serbia.
+

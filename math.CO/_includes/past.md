@@ -16,3 +16,19 @@
 
 2025-05-20 to 23: [Canadian Discrete and Algorithmic Mathematics Conference (CanaDAM 2025)](https://canadam.ca/2025 "CanaDAM 2025 focuses on discrete and algorithmic mathematics, covering graph theory, combinatorial optimization, and coding theory. Topics include network algorithms, discrete structures, and applications in cryptography and data science, emphasizing theoretical and computational advancements."), Ottawa, ON, Canada.
 
+2025-06-15 to 2025-06-21: [Modern Developments in Matroid Theory](https://www.mfo.de/occasion/2524b/www_view "The workshop explores modern matroid theory, focusing on combinatorial and algebraic applications. Topics include matroid polytopes, tropical geometry, and algebraic matroids. Discussions cover connections to statistical mechanics and quantum computing, emphasizing combinatorial structures."), Oberwolfach, Germany.
+
+2025-06-15 to 2025-06-26: [Workshop on Weak and Strong Lefschetz Properties](https://www.sophuslie.no/lefschetz-2025/ "The workshop investigates weak and strong Lefschetz properties in algebraic geometry and combinatorics. Topics include Hodge theory, intersection cohomology, and simplicial complexes. Discussions cover applications in string theory and quantum computing, advancing algebraic insights."), Tromsø, Norway.
+
+2025-06-16 to 2025-06-20: [Geometry over Semirings](https://mat.uab.cat/~masdeu/geometry-over-semirings/ "The workshop explores geometry over semirings, focusing on tropical and idempotent structures. Topics include tropical geometry, semiring cohomology, and combinatorial applications. Discussions cover connections to statistical mechanics and quantum computing, emphasizing algebraic frameworks."), Barcelona, Spain.
+
+2025-06-16 to 2025-06-27: [Rethinking Number Theory 6](https://sites.google.com/view/rethinkingnumbertheory/home "The workshop fosters novel number theory research, emphasizing collaboration. Topics include analytic number theory, algebraic structures, and arithmetic combinatorics. Discussions explore connections to quantum mechanics and coding theory, advancing creative number-theoretic approaches."), Online.
+
+2025-06-16 to 2025-06-27: [Nordfjordeid School on Cluster Geometry](https://www.sophuslie.no/cluster-geometry-2025 "The school trains researchers in cluster geometry, focusing on algebraic and combinatorial structures. Topics include cluster algebras, quiver representations, and tropical geometry. Discussions cover applications in string theory and quantum mechanics, emphasizing geometric frameworks."), Nordfjordeid, Norway.
+
+2025-06-16 to 2025-06-27: [Rethinking Number Theory 6](https://rethinkingnumbertheory.org/rnt6/ "RNT6 explores innovative approaches to number theory, focusing on collaborative research. Topics include Diophantine equations, modular forms, and combinatorial methods. Discussions cover applications in quantum chaos and cryptographic systems, emphasizing interdisciplinary number-theoretic insights."), Online.
+
+2025-06-16 to 20: [Combinatorial Algebraic Topology & Applications III](https://www.dm.unipi.it/pages/cattop2025/ "The conference explores combinatorial algebraic topology, focusing on applications in physics. Topics include simplicial complexes, persistent homology, and topological data analysis. Discussions cover applications in quantum field theory and condensed matter physics, emphasizing topological methods."), Pisa, Italy.
+
+2025-06-16 to 20: [Perfectly Matched Perspectives on Statistical Mechanics, Combinatorics and Geometry Conference in Honor of Richard Kenyon (2025)](https://dimers.science/events/rick61/ "This conference honors Richard Kenyon, focusing on statistical mechanics, combinatorics, and geometry. Topics include dimer models, random tilings, and geometric probability, with applications in statistical physics and discrete geometry, emphasizing probabilistic and combinatorial insights."), Luminy, France.
+
