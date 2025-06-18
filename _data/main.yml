@@ -11,6 +11,14 @@ Inter-American Photochemical Society Annual Meeting (I-Aps 2025):
   loc: Miramar Beach, FL, USA
   arxiv: physics.chem-ph,physics.optics
   excerpt: Explores photochemical processes, covering photoinduced reactions, spectroscopy, and excited-state dynamics. Topics include photovoltaics, photocatalysis, and applications in environmental and biological systems, emphasizing experimental and theoretical studies.
+BIRS 5-Day Workshop Mechanistic Learning as a Combination of Machine Learning and Modeling in Mathematical Oncology (2025):
+  dd: 2025-01-05 to 10
+  link: https://www.birs.ca/events/2025/5-day-workshops/25w5448/
+  loc: Banff, AB, Canada
+MFO Workshop Graph Theory:
+  dd: 2025-01-05 to 10
+  link: https://www.mfo.de/occasion/2502/www_view
+  loc: Oberwolfach, Germany
 Microwaves in Beams and Plasmas Workshop 2025:
   dd: 2025-01-06 to 08
   link: https://indico.ukaea.uk/event/364/
@@ -104,6 +112,14 @@ SIAM Symposium on Discrete Algorithms (SODA 2025):
   loc: New Orleans, LA, USA
   arxiv: cs.DS, cs.DM
   excerpt: SODA 2025 focuses on discrete algorithms and their applications in computer science. Topics include graph algorithms, combinatorial optimization, randomized algorithms, and approximation algorithms. The symposium addresses theoretical advancements and practical implementations in areas like network design, machine learning, and data mining, fostering innovation in algorithm design.
+BIRS 5-Day Workshop Prospects for the String Axiverse (2025):
+  dd: 2025-01-12 to 17
+  link: https://www.birs.ca/events/2025/5-day-workshops/25w5384/
+  loc: Banff, AB, Canada
+MFO Workshop Set Theory:
+  dd: 2025-01-12 to 17
+  link: https://www.mfo.de/occasion/2503/www_view
+  loc: Oberwolfach, Germany
 Physics of AI Algorithms (PHAIA 2025):
   dd: 2025-01-12 to 17
   link: https://houches-school-physics.com/program/program-2025/physics-of-ai-algorithms-phaia-2025-1479852.kjsp
@@ -169,6 +185,10 @@ Computational Methods in Bayesian Statistics UF Stats Annual Winter Workshop (20
   loc: Gainesville, FL, USA
   arxiv: stat.CO, stat.ME
   excerpt: This workshop focuses on computational methods in Bayesian statistics. Topics include Markov chain Monte Carlo, variational inference, and Bayesian hierarchical models. It explores applications in machine learning, biostatistics, and econometrics, emphasizing scalable algorithms and software tools for posterior inference and uncertainty quantification in complex datasets.
+BIRS 2-Day Workshop Canadian Emerging Infectious Disease Modelling (2025):
+  dd: 2025-01-17 to 19
+  link: https://www.birs.ca/events/2025/2-day-workshops/25w7007/
+  loc: Banff, AB, Canada
 45th Winter School on Geometry and Physics:
   dd: 2025-01-18 to 25
   name: 45th Winter School on Geometry and Physics
@@ -176,6 +196,10 @@ Computational Methods in Bayesian Statistics UF Stats Annual Winter Workshop (20
   loc: Srni, Czech Republic
   arxiv: math-ph, gr-qc
   excerpt: The school explores geometry and physics, focusing on differential geometry and its applications. Topics include spacetime metrics, geometric quantization, and topological field theories. Lectures emphasize mathematical methods for general relativity and quantum mechanics, bridging theoretical physics and mathematics.
+MFO Workshop Cryptography:
+  dd: 2025-01-19 to 24
+  link: https://www.mfo.de/occasion/2504/www_view
+  loc: Oberwolfach, Germany
 5th International Workshop on Programming Languages for Quantum Computing (PLanQC 2025):
   dd: 2025-01-19 to 25
   link: https://popl25.sigplan.org/home/planqc-2025
@@ -245,6 +269,10 @@ SPIE Photonics West 2025:
   loc: Hirschegg, Germany
   arxiv: physics.plasm-ph, physics.atm-clus
   excerpt: This workshop explores high energy density physics using intense ion and laser beams. Topics include inertial confinement fusion, laser-plasma interactions, and warm dense matter. It covers experimental techniques, theoretical modeling, and applications in astrophysics and fusion energy, focusing on extreme states of matter under high-energy conditions.
+MFO Workshop Overparametrization, Regularization, Identifiability and Uncertainty in Machine Learning:
+  dd: 2025-01-26 to 31
+  link: https://www.mfo.de/occasion/2505/www_view
+  loc: Oberwolfach, Germany
 Testing Gravity 2025, Vancouver, Canada:
   dd: 2025-01-27 to 2025-01-31
   name: Testing Gravity 2025
@@ -303,6 +331,10 @@ IHP Workshop on Inhomogeneous Random Systems (2025):
   loc: Granada, Spain
   arxiv: physics.plasm-ph
   excerpt: EFPW 2025 focuses on fusion plasma physics within the European fusion research program. Topics include magnetic confinement, plasma turbulence, and fusion reactor materials. The workshop addresses experimental diagnostics, computational modeling, and strategies for advancing fusion energy, emphasizing tokamak and stellarator research.
+5th Conference Testing Gravity (2025):
+  dd: 2025-01-29 to 02-01
+  link: https://www.sfu.ca/physics/cosmology/TestingGravity2025/
+  loc: Vancouver, BC, Canada
 IMSI Winter School Reduced-Order Modeling for Complex Engineering Problems (2025):
   dd: 2025-01-29 to 31
   link: https://www.imsi.institute/activities/reduced-order-modeling-for-complex-engineering-problems-from-analysis-to-practical-implementation/
@@ -340,6 +372,10 @@ Society for Imaging Science and Technology 23rd Computational Imaging Conference
   loc: Burlingame, CA, USA
   arxiv: cs.CV, eess.IV
   excerpt: This conference explores computational imaging, focusing on algorithms for image reconstruction, enhancement, and analysis. Topics include machine learning for imaging, inverse problems, compressive sensing, and computational photography. It addresses applications in medical imaging, remote sensing, and computer vision, emphasizing innovative data-driven and model-based approaches.
+BIRS 5-Day Workshop Operator Systems and Their Applications (2025):
+  dd: 2025-02-02 to 07
+  link: https://www.birs.ca/events/2025/5-day-workshops/25w5405/
+  loc: Banff, AB, Canada
 International Conference on Multigrid and Multiscale Methods in Computational Science (IMG 2025):
   dd: 2025-02-03 to 05
   link: https://www.kaust.edu.sa/html/img25/
@@ -396,6 +432,10 @@ EMS Topical Activity Group Mixtures Conference on Mixtures (2025):
   loc: La Thuile, Italy
   arxiv: physics.ins-det, hep-ex
   excerpt: The school trains researchers in particle detector technologies, focusing on design and applications. Topics include silicon trackers, calorimeters, and gas detectors. Lectures cover advancements for LHC upgrades and future experiments, emphasizing high-resolution detection and data acquisition techniques.
+BIRS 5-Day Workshop Exact Solutions in Quantum Information - Entanglement, Topology, and Quantum Circuits (2025):
+  dd: 2025-02-09 to 14
+  link: https://www.birs.ca/events/2025/5-day-workshops/25w5429/
+  loc: Banff, AB, Canada
 Conference on Artificial Intelligence and Quantum Science (AI+Quantum 2025):
   dd: 2025-02-09 to 14
   link: https://sites.google.com/view/quai-acp-2025/home
@@ -647,6 +687,10 @@ algebraic-points-curves:
   loc: Philadelphia, PA, USA
   arxiv: cs.AI, cs.LG
   excerpt: AAAI 2025 explores artificial intelligence, focusing on machine learning, natural language processing, and computer vision. Topics include deep learning, reinforcement learning, and ethical AI, with applications in robotics, healthcare, and autonomous systems, emphasizing cutting-edge algorithms and societal impacts.
+PERC International Symposium on Dust and Parent Bodies 2025 (IDP 2025):
+  dd: 2025-02-25 to 2025-02-27
+  link: https://www.perc.it-chiba.ac.jp/meetings/IDP2025/
+  loc: Tokyo, Japan
 Fusion Industry Association Annual Policy Conference (FIA 2025):
   dd: 2025-02-25 to 26
   link: https://fusionindustryassociation.org/fia-annual-conference-2025/
@@ -763,6 +807,10 @@ CeNAM Nucleosynthesis Uncertainties Workshop:
   loc: Seattle, WA, USA
   arxiv: nucl-th, astro-ph.HE
   excerpt: This workshop focuses on uncertainties in nucleosynthesis, covering nuclear reaction rates, cross-section measurements, and statistical modeling. Topics include stellar burning, neutron capture processes, and their impact on cosmic abundance, bridging nuclear physics and astrophysics for precise nucleosynthesis predictions.
+Galileo Galilei Institute School on Lattice Field Theory:
+  dd: 2025-03-03 to 14
+  link: https://www.ggi.infn.it/showevent.pl?id=493
+  loc: Firenze, Italy
 'IITGN Flavour Physics Week: Exploring Quark and Lepton Frontiers':
   dd: 2025-03-03 to 2025-03-07
   name: IITGN Flavour Physics Week 2025
@@ -822,6 +870,10 @@ FFG-ESA Workshop on Quantum Satellite Networks (2025):
   loc: Vienna, Austria
   arxiv: quant-ph,cs.NI
   excerpt: Examines quantum satellite networks, covering quantum communication, entanglement distribution, and satellite-based quantum key distribution. Topics include quantum repeaters, network protocols, and applications in secure communication, emphasizing theoretical and experimental developments.
+IPAM LatMath 2025:
+  dd: 2025-03-06 to 08
+  link: https://www.ipam.ucla.edu/programs/special-events-and-conferences/latmath-2025/
+  loc: Los Angeles, CA, USA
 arizona-winter-school-unlikely-intersections:
   dd: 2025-03-08 to 12
   name: 'Arizona Winter School: Unlikely Intersections'
@@ -910,6 +962,10 @@ VIASM Spring School and Workshop on Variational Analysis and Optimization 2025:
   loc: Bonn, Germany
   arxiv: astro-ph.CO, hep-ph, gr-qc
   excerpt: The DPG Spring Meeting explores matter and cosmos, focusing on particle physics and cosmology. Topics include dark matter searches, gravitational waves, and QCD dynamics. Discussions cover experimental results from LHC and cosmological observations, advancing fundamental physics understanding.
+ESO Conference Towards New Frontiers Astrochemical Journey (ESO TNF 2025):
+  dd: 2025-03-10 to 2025-03-14
+  link: https://www.eso.org/sci/meetings/2025/tnf.html
+  loc: Garching, Germany
 Macaulay2 workshop at Tulane:
   dd: 2025-03-10 to 2025-03-14
   name: Macaulay2 Workshop at Tulane
@@ -935,6 +991,10 @@ WE-Heraeus Seminar on Operator Theory and Polynomial Optimization in Quantum Inf
   loc: Bad Honnef, Germany
   arxiv: quant-ph, math.OA
   excerpt: This seminar explores operator theory and polynomial optimization in quantum information, focusing on quantum entanglement, quantum channels, and semidefinite programming. Topics include non-local games, quantum error correction, and applications in quantum computing, emphasizing mathematical foundations.
+STScI Workshop Transients From Space (2025):
+  dd: 2025-03-11 to 2025-03-13
+  link: https://www.stsci.edu/contents/events/stsci/2025/march/transients-from-space
+  loc: Baltimore, MD, USA
 Nuclear Physics in Plasma Environments (2025):
   dd: 2025-03-12 to 13
   link: https://iop.eventsair.com/nppe2025/
@@ -1102,6 +1162,10 @@ ENTR Workshop 25.:
   loc: Milan, Italy
   arxiv: cs.LG, physics.comp-ph
   excerpt: This meeting focuses on scientific machine learning, covering physics-informed neural networks, data-driven modeling, and AI for scientific discovery. Topics include computational mechanics, climate modeling, and materials science, emphasizing hybrid approaches blending machine learning with traditional numerical methods.
+Euclid – ESA Science and Development Lab Symposium 2025:
+  dd: 2025-03-24 to 26
+  link: https://www.cosmos.esa.int/web/euclid-eslab-2025/home
+  loc: Leiden, Netherlands
 International Research Project PICASSO Conference on Hyperbolic Models (2025):
   dd: 2025-03-24 to 26
   name: International Research Project PICASSO Conference on Hyperbolic Models, Numerical Analysis and Scientific Computation (2025)
@@ -1506,6 +1570,10 @@ Joint International Workshop on Hadron Structure and Spectroscopy and the QCD St
   loc: Lisbon, Portugal
   arxiv: hep-ph, nucl-th
   excerpt: IWHSS-QCD-N'25 explores hadron structure and QCD, focusing on nucleon properties. Topics include form factors, parton distributions, and spectroscopy. Discussions cover experimental data from JLab and theoretical QCD models, advancing nuclear physics insights.
+Physics of AI Algorithms 2025:
+  dd: 2025-04-07 to 2025-04-18
+  link: https://www.houches-school-physics.com/program/program-2025/physics-of-ai-algorithms-phaia-2025-1479852.kjsp
+  loc: Les Houches, France
 GSSI Particles, Fluids and Patterns Analytical and Computational Challenges:
   dd: 2025-04-07 to 2025-06-27
   name: Intensive Trimester on Particles, Fluids and Patterns
@@ -1513,6 +1581,10 @@ GSSI Particles, Fluids and Patterns Analytical and Computational Challenges:
   loc: L'Aquila, Italy
   arxiv: math.AP, physics.fld-dyn
   excerpt: The trimester explores particles, fluids, and patterns, focusing on analytical and computational methods. Topics include kinetic theory, fluid dynamics, and pattern formation. Discussions cover applications in plasma physics and condensed matter, emphasizing modeling challenges.
+Optica Industry Summit on Laser Optics at Edmund Optics 2025:
+  dd: 2025-04-08 to 09
+  link: https://www.optica.org/en-us/events/industry_events/2025/optica_industry_summit_on_laser_optics_at_edmund_optics/
+  loc: Oldsmar, FL, USA
 12th International Conference on Computation in Electromagnetics (CEM 2025):
   dd: 2025-04-08 to 11
   link: https://cem2025.com/
@@ -1579,6 +1651,10 @@ NYU Shanghai - Peking - Westlake Probability Conference (2025):
   loc: Oxford, MS, USA
   arxiv: gr-qc, astro-ph.HE
   excerpt: The meeting covers advancements in gravitational physics, including general relativity, gravitational waves, and black hole dynamics. Topics include numerical relativity, astrophysical implications of compact object mergers, and tests of gravity in strong-field regimes. The event fosters collaboration among regional researchers, emphasizing theoretical and observational progress in gravity.
+BIRS 2-Day Workshop IBM Quantum Sustainability Working Group (2025):
+  dd: 2025-04-11 to 13
+  link: https://www.birs.ca/events/2025/2-day-workshops/25w7008/
+  loc: Banff, AB, Canada
 APS Global Physics Summit:
   dd: 2025-04-12 to 15
   name: APS Global Physics Summit
@@ -1599,6 +1675,10 @@ SLAM 2025:
   loc: Copper Mountain, CO, USA
   arxiv: math.NA, cs.NA
   excerpt: This conference focuses on multigrid methods, covering iterative solvers, preconditioners, and adaptive algorithms. Topics include algebraic multigrid, geometric multigrid, and applications in fluid dynamics and image processing, emphasizing scalable numerical methods for large-scale problems.
+BIRS 5-Day Workshop Interactions of Geometric and Quantum Topology Focused on Links in Thickened Surfaces (2025):
+  dd: 2025-04-13 to 18
+  link: https://www.birs.ca/events/2025/5-day-workshops/25w5497/
+  loc: Banff, AB, Canada
 3rd Global summit and Expo on Nanotechnology and Material science:
   dd: 2025-04-14 to 16
   name: 3rd Global Summit and Expo on Nanotechnology and Material Science
@@ -1796,6 +1876,10 @@ IMSI Workshop Uncertainty Quantification for Material Science and Engineering (2
   loc: Cadarache, France
   arxiv: physics.plasm-ph
   excerpt: This workshop focuses on private-sector advancements in fusion energy, covering plasma physics, tokamak technologies, and commercialization strategies. Topics include plasma control, materials for fusion reactors, and industry-academia collaboration, emphasizing practical steps toward fusion power.
+10th International Conference on X-Ray Optics and Applications (XOPT 2025):
+  dd: 2025-04-22 to 24
+  link: https://xopt.opicon.jp/
+  loc: Yokohama, Japan
 3rd ECCOMAS Thematic Conference on Multidisciplinary Design Optimization of Aerospace Systems (AeroBest 2025):
   dd: 2025-04-22 to 24
   link: https://aerobest.idmec.tecnico.ulisboa.pt/
@@ -2244,6 +2328,10 @@ SIAM Conference on Applications of Dynamical Systems (DS 2025):
   loc: Denver, CO, USA
   arxiv: math.DS, nlin.CD
   excerpt: DS 2025 focuses on dynamical systems, covering nonlinear dynamics, chaos, and stochastic differential equations. Topics include bifurcation analysis, synchronization, and applications in neuroscience, climate modeling, and engineering, emphasizing computational and analytical approaches to complex dynamics.
+BIRS 5-Day Workshop Leveraging Mathematical Modeling for Education and Action (2025):
+  dd: 2025-05-11 to 16
+  link: https://www.birs.ca/events/2025/5-day-workshops/25w5498/
+  loc: Oaxaca, Mexico
 Oberwolfach Workshop on Mathematical Advances in Geophysical Fluid Dynamics (2025):
   dd: 2025-05-11 to 16
   link: https://www.mfo.de/occasion/2520/www_view
@@ -2424,6 +2512,10 @@ IUTAM Symposium on Multiphysics Analysis of Wave Propagation in Electronic Devic
   loc: Bad Honnef, Germany
   arxiv: hep-th, cond-mat.stat-mech
   excerpt: The seminar focuses on real-time and non-equilibrium quantum field theory, exploring dynamics in quantum systems. Topics include out-of-equilibrium field theory, thermalization, and quantum transport. Discussions cover applications in condensed matter, cosmology, and high-energy physics, emphasizing theoretical advancements.
+Galileo Galilei Institute Workshop From Asymptotic Symmetries to Flat Holography:
+  dd: 2025-05-19 to 06-20
+  link: https://www.ggi.infn.it/showevent.pl?id=510
+  loc: Florence, Italy
 RGAS Summer School on Perfectoid Techniques:
   dd: 2025-05-19 to 2025-05-23
   name: RGAS Summer School on Perfectoid Techniques
@@ -3754,6 +3846,10 @@ workshop-algebraic-statistics-multistate-models:
   dd: 2025-06-09 to 20
   link: https://www.asesma.org/
   loc: Accra, Ghana
+ISAPP School High-Energy Cosmic Rays Messengers From Space to Ground:
+  dd: 2025-06-09 to 20
+  link: https://agenda.infn.it/event/44001/
+  loc: Lecce, Italy
 14th International Conference on Algorithms and Complexity (CIAC 2025):
   dd: 2025-06-10 to 12
   link: https://easyconferences.eu/ciac2025/
@@ -3951,6 +4047,10 @@ Festum Pi Chania, Greece:
   loc: Valencia, Spain
   arxiv: math.DG, math.AP
   excerpt: Valentia Geometrica explores geometric analysis, focusing on physical applications. Topics include harmonic maps, curvature flows, and geometric PDEs. Discussions cover connections to general relativity and quantum mechanics, emphasizing analytical and geometric techniques.
+Cornell Conference on Analysis, Probability, and Mathematical Physics on Fractals:
+  dd: 2025-06-15 to 2025-06-20
+  link: https://math.cornell.edu/cornell-conference-analysis-probability-and-mathematical-physics-fractals
+  loc: Ithaca, NY, USA
 IEEE NPSS Prague EduCom International Summer School 2025 (PEISS 2025):
   dd: 2025-06-15 to 2025-06-20
   name: IEEE NPSS Prague EduCom International Summer School 2025
@@ -4025,6 +4125,10 @@ Gordon Research Conference Nuclear Chemistry Exotic Beams (2025):
   loc: New London, NH, USA
   arxiv: nucl-ex
   excerpt: This conference focuses on nuclear chemistry with exotic beams, covering nuclear structure, reactions, and rare isotopes. Topics include superheavy elements, nuclear fission, and applications in astrophysics, emphasizing experimental advancements with next-generation beam facilities.
+WE-Heraeus Seminar Non-Hermitian and Topological Photonics:
+  dd: 2025-06-15 to 20
+  link: https://www.we-heraeus-stiftung.de/veranstaltungen/non-hermitian-and-topological-photonics/
+  loc: Bad Honnef, Germany
 ECTstar DTP-TALENT 2025 Quantum Computing for Nuclear Physics:
   dd: 2025-06-16 to 07-04
   link: https://indico.ectstar.eu/event/250/
@@ -4138,6 +4242,10 @@ Three days in Calculus of Variations TU Wien (Vienna):
   loc: Vienna, Austria
   arxiv: math.AP, math.DG
   excerpt: The workshop explores calculus of variations, focusing on physical applications. Topics include energy minimization, optimal transport, and variational PDEs. Discussions cover modeling in materials science and quantum systems, emphasizing variational methods.
+Optica Design and Fabrication Congress 2025:
+  dd: 2025-06-16 to 2025-06-19
+  link: https://www.optica.org/events/congress/optical_design_and_fabrication_congress/
+  loc: Denver, CO, USA
 Quantum 2.0 Conference and Exhibition 2025:
   dd: 2025-06-16 to 2025-06-19
   name: Quantum 2.0 Conference and Exhibition 2025
@@ -5842,6 +5950,10 @@ Erdős Center Conference on Geometry and Topology in Low Dimensions:
   dd: 2025-06-22 to 2025-06-26
   link: https://erdoscenter.renyi.hu/events/conference-geometry-and-topology-low-dimensions-lasting-trends-and-emerging-directions
   loc: Budapest, Hungary
+European Conferences on Biomedical Optics 2025:
+  dd: 2025-06-22 to 2025-06-26
+  link: https://www.optica.org/events/topical_meetings/european_conferences_biomedical_optics/
+  loc: Munich, Germany
 34th European Conference on Operational Research (EURO 2025):
   dd: 2025-06-22 to 25
   link: https://euro2025leeds.uk
@@ -6660,6 +6772,10 @@ IEEE Symposium on Fusion Engineering (SOFE 2025):
   loc: Cambridge, MA, USA
   arxiv: physics.plasm-ph,physics.app-ph
   excerpt: SOFE 2025 focuses on fusion engineering, covering magnetic confinement, plasma heating, and reactor design. Topics include tokamak technologies, fusion materials, and diagnostics, with applications in sustainable energy, emphasizing engineering advancements for fusion power.
+IML Conference Homotopy Theory and Floer Homology:
+  dd: 2025-06-23 to 27
+  link: https://www.mittag-leffler.se/activities/homotopy-theory-and-floer-homology/
+  loc: Djursholm, Sweden
 Isaac Newton Institute Workshop Accelerating Statistical Inference and Experimental Design With Machine Learning (2025):
   dd: 2025-06-23 to 27
   link: http://www.newton.ac.uk/event/rclw03/
@@ -6864,6 +6980,10 @@ Probability and Analysis CIMPA Summer School Türkiye (2025):
   loc: Istanbul, Turkey
   arxiv: math.PR,math.FA
   excerpt: This summer school explores probability and analysis, covering stochastic processes, functional analysis, and random structures. Topics include random walks, harmonic analysis, and applications in statistical physics, emphasizing theoretical foundations for probabilistic and analytical methods.
+? 30th OptoElectronics and Communications Conference and International Conference on Photonics in Switching and Computing 2025
+: dd: 2025-06-29 to 2025-07-03
+  link: https://www.oeccpsc2025.org
+  loc: Sapporo, Japan
 symplectic-contact-dynamics:
   dd: 2025-06-29 to 2025-07-05
   name: Symplectic/Contact Dynamics
@@ -6924,6 +7044,10 @@ UCL DISI Conference on AI for Data Intensive Science and Industry (2025):
   loc: Atlanta, GA, USA
   arxiv: math.PR,math.OC
   excerpt: INFORMS APS 2025 explores applied probability, covering stochastic processes, queueing theory, and risk analysis. Topics include stochastic optimization, applications in healthcare and logistics, emphasizing practical probabilistic models for real-world decision-making.
+6th Workshop on Extremely Precise Radial Velocities (EPRV 2025):
+  dd: 2025-06-30 to 07-03
+  link: https://www.iastro.pt/research/conferences/eprv6/
+  loc: Porto, Portugal
 INFORMS Applied Probability Society Conference 2025:
   dd: 2025-06-30 to 07-03
   link: https://informs-aps.isye.gatech.edu/
@@ -7006,6 +7130,10 @@ Conference on Inverse Problems and Artificial Intelligence in Medicine (2025):
   loc: Bath, UK
   arxiv: cs.LG,math.OC
   excerpt: Focuses on inverse problems and AI in medical applications. Topics include medical image reconstruction, machine learning for diagnostics, and computational methods for health sciences.
+Galileo Galilei Institute Training Week Muon Beams and Applications:
+  dd: 2025-06-30 to 07-04
+  link: https://www.ggi.infn.it/showevent.pl?id=508
+  loc: Firenze, Italy
 Intermediate International Quantum Structures Association Conference (IQSA 2025):
   dd: 2025-06-30 to 07-04
   link: https://sites.google.com/view/2025-iqsa-intermediate-tropea/home
@@ -7057,6 +7185,10 @@ IMSI Summer School Mathematical Introduction to High-Accuracy Electronic Structu
   loc: Aix en Provence, France
   arxiv: physics.flu-dyn,physics.plasm-ph
   excerpt: This school focuses on turbulent boundary layers, covering fluid dynamics, turbulence modeling, and plasma interactions. Topics include boundary layer stability, turbulent transport, and applications in aerodynamics and fusion, emphasizing theoretical and computational turbulence studies.
+21st School on Interactions Between Dynamical Systems and Partial Differential Equations (JISD 2025):
+  dd: 2025-06-30 to 2025-07-04
+  link: https://www.crm.cat/jisd2025/
+  loc: Barcelona, Spain
 International Conference on Materials for Advanced Technologies (ICMAT 2025):
   dd: 2025-06-30 to 2025-07-04
   link: https://icmat2025.mrs.org.sg/
@@ -7451,6 +7583,10 @@ Cosmology from Home 2025:
   loc: Online
   arxiv: astro-ph.CO, gr-qc
   excerpt: Cosmology from Home 2025 explores cosmological research virtually, focusing on early universe physics. Topics include inflation, dark matter, and cosmic microwave background. Discussions integrate observational data and theoretical models, fostering global collaboration in cosmology.
+ISAPP ESI School Gravitational Waves From Theory to Detection:
+  dd: 2025-07-07 to 18
+  link: https://www.esi.ac.at/events/e556/
+  loc: Vienna, Austria
 SLMath Summer School Principled Scientific Discovery With Formal Methods (2025):
   dd: 2025-07-07 to 18
   link: https://www.slmath.org/summer-schools/1110
@@ -7668,6 +7804,10 @@ Aspen Summer Workshop on Cold and Ultracold Molecules for Fundamental Physics an
   loc: Limerick, Ireland
   arxiv: stat.ME,stat.AP
   excerpt: IWSM 2025 focuses on statistical modeling, covering generalized linear models, Bayesian methods, and time-series analysis. Topics include applications in health, economics, and environmental science, emphasizing theoretical and applied statistical techniques for complex data modeling.
+Bad Honnef Physics School Exciting Nanostructures – Characterizing Advanced Confined Systems (2025):
+  dd: 2025-07-13 to 18
+  link: https://www.dpg-physik.de/veranstaltungen/2025/exciting_nanostructures___characterizing_advanced_confined_systems
+  loc: Bad Honnef, Germany
 Cryogenic Engineering Conference and International Cryogenic Materials Conference (CEC/ICMC 2025):
   dd: 2025-07-13 to 18
   name: Cryogenic Engineering Conference and International Cryogenic Materials Conference 2025
@@ -7825,6 +7965,10 @@ IPAM Workshop Sampling, Inference, and Data-Driven Physical Modeling in Scientif
   loc: Los Angeles, CA, USA
   arxiv: cs.LG,stat.ML
   excerpt: This workshop explores scientific machine learning, covering sampling methods, Bayesian inference, and physics-informed neural networks. Topics include uncertainty quantification, applications in physics and engineering, emphasizing data-driven computational modeling for scientific discovery.
+IPAM Workshop Sampling, Inference and Data-Driven Physical Modeling in Scientific Machine Learning (2025):
+  dd: 2025-07-14 to 18
+  link: https://www.ipam.ucla.edu/programs/workshops/sampling-inference-and-data-driven-physical-modeling-in-scientific-machine-learning-2/
+  loc: Los Angeles, CA, USA
 'ELLIS Summer School: AI for Earth and Climate Sciences 2025':
   dd: 2025-07-14 to 2025-07-18
   name: 'ELLIS Summer School: AI for Earth and Climate Sciences 2025'
@@ -8195,6 +8339,10 @@ Practice & Experience in Advanced Research Computing (PEARC 2025):
   loc: Aix-en-Provence, France
   arxiv: physics.plasm-ph,physics.app-ph
   excerpt: ICPIG 2025 focuses on ionized gas phenomena, covering plasma diagnostics, discharge physics, and plasma-surface interactions. Topics include plasma processing, astrophysical plasmas, and applications in energy and medicine, emphasizing experimental and theoretical plasma science advancements.
+Bad Honnef Physics School Exoplanet Atmosphere Observation and Characterisation (2025):
+  dd: 2025-07-20 to 25
+  link: https://www.dpg-physik.de/veranstaltungen/2025/exoplanet_atmosphere_observation_and_characterisation
+  loc: Bad Honnef, Germany
 Gordon Research Conference Dynamics at Surfaces (2025):
   dd: 2025-07-20 to 25
   link: https://www.grc.org/dynamics-at-surfaces-conference/2025/
@@ -8450,6 +8598,10 @@ Astrophysics With Radioactive Isotopes (2025):
   loc: Traverse City, MI, USA
   arxiv: astro-ph.SR,nucl-ex
   excerpt: This conference focuses on radioactive isotopes in astrophysics, covering nucleosynthesis, decay processes, and isotopic abundances. Topics include supernova remnants, cosmic rays, and applications in stellar evolution, emphasizing experimental and theoretical nuclear astrophysical research.
+Galileo Galilei Institute Conference on Physics at the Highest Energies With Colliders:
+  dd: 2025-07-28 to 08-01
+  link: https://www.ggi.infn.it/showevent.pl?id=509
+  loc: Firenze, Italy
 42th International Symposium on Lattice Field Theory (Lattice 2025):
   dd: 2025-07-28 to 08-02
   name: 42nd International Symposium on Lattice Field Theory
@@ -8824,6 +8976,10 @@ IUPAP-C5 30th International Conference on Low Temperature Physics (LT 2025):
   loc: Quy Nhon, Vietnam
   arxiv: hep-ph, hep-ex
   excerpt: The Flavour Physics Conference explores quark and lepton flavor physics, focusing on CP violation and rare decays. Topics include B-meson physics, neutrino mixing, and flavor-changing processes. It discusses experimental results from LHCb and Belle II, alongside theoretical models for beyond-Standard-Model physics.
+Bad Honnef Physics School Ultracold Quantum Matter (2025):
+  dd: 2025-08-10 to 16
+  link: https://www.dpg-physik.de/veranstaltungen/2025/ultracold_quantum_matter
+  loc: Bad Honnef, Germany
 Searching for Quantum Gravity in the Sky, Bad Honnef, Germany:
   dd: 2025-08-10 to 2025-08-15
   name: 'Bad Honnef Physics School: Searching for Quantum Gravity in the Sky'
@@ -8845,6 +9001,10 @@ International Conference on Approximation Algorithms (APPROX 2025) and (RANDOM 2
   loc: Berkeley, CA, USA
   arxiv: cs.DS,math.CO
   excerpt: APPROX/RANDOM 2025 focuses on approximation algorithms and randomized computation, covering combinatorial optimization, probabilistic algorithms, and complexity. Topics include graph algorithms, machine learning, and applications in networks, emphasizing theoretical and practical algorithmic advancements.
+21st Rencontres Du Vietnam Conference Star Formation in Different Environments (SFDE 2025):
+  dd: 2025-08-11 to 15
+  link: https://www.icisequynhon.com/conferences/2025/SFDE2025/
+  loc: Quy Nhon, Vietnam
 28th International Conference on Theory and Applications of Satisfiability Testing (SAT 2025):
   dd: 2025-08-11 to 15
   link: https://satisfiability.org/SAT25/
@@ -8949,6 +9109,10 @@ Hot QCD Matter (Series 3):
   loc: Newport, RI, USA
   arxiv: nucl-th, hep-ph
   excerpt: The workshop explores hot QCD matter, focusing on quark-gluon plasma. Topics include chiral symmetry, heavy-ion collisions, and lattice QCD. Discussions cover experimental data from LHC and theoretical models, advancing nuclear physics insights.
+WE-Heraeus Seminar Manipulating Molecular Electronic Properties by Vibrational Excitations:
+  dd: 2025-08-17 to 21
+  link: https://www.we-heraeus-stiftung.de/veranstaltungen/manipulating-molecular-electronic-properties-by-vibrational-excitations-novel-spectroscopies-and-microscopies/
+  loc: Bad Honnef, Germany
 WE-Hereaus Seminar Manipulating Molecular Electronic Properties by Vibrational Excitations (2025):
   dd: 2025-08-17 to 21
   name: 'WE-Hereaus Seminar Manipulating Molecular Electronic Properties by Vibrational Excitations: Novel Spectroscopies and Microscopies (2025)'
@@ -8981,6 +9145,10 @@ Oberwolfach Workshop on Computation and Learning in High Dimensions (2025):
   loc: Durham, United Kingdom
   arxiv: hep-ph, hep-th
   excerpt: BUSSTEPP 2025 trains graduate students in theoretical elementary particle physics, focusing on quantum field theory and beyond-Standard-Model physics. Topics include supersymmetry, string theory, and dark matter models. Lectures cover advanced techniques for collider phenomenology and cosmological implications, preparing students for cutting-edge research.
+? 25th Max Planck Advanced Course on the Foundations of Computer Science (ADFOCS 2025) Graph Decompositions and Efficient Algorithms
+: dd: 2025-08-18 to 2025-08-22
+  link: https://www.mpi-inf.mpg.de/departments/algorithms-complexity/adfocs
+  loc: Saarbrücken, Germany
 Integrability in Gauge and String Theory 2025 (IGST2025):
   dd: 2025-08-18 to 2025-08-22
   name: Integrability in Gauge and String Theory 2025
@@ -9047,6 +9215,10 @@ QMATH Masterclass on Representation Theory in Quantum Information Science (2025)
   loc: Copenhagen, Denmark
   arxiv: quant-ph,math.RT
   excerpt: Focuses on representation theory in quantum information science. Topics include quantum algorithms, quantum error correction, and mathematical frameworks for quantum computing applications.
+WE-Heraeus Seminar Charting the Cosmos From Cosmic Stellar Nurseries to Evolved Stars:
+  dd: 2025-08-18 to 22
+  link: https://www.we-heraeus-stiftung.de/veranstaltungen/charting-the-cosmos-from-cosmic-stellar-nurseries-to-evolved-stars-using-high-powered-telescopes/
+  loc: Ingelheim am Rhein, Germany
 Workshop on Nuclear Masses in Astrophysics for the Next 25 Years (2025):
   dd: 2025-08-18 to 22
   link: https://indico.gsi.de/event/22417/
@@ -9460,6 +9632,10 @@ Royal Statistical Society International Conference (RSS 2025):
   loc: Edinburgh, UK
   arxiv: stat.ME,stat.AP
   excerpt: RSS 2025 explores statistics, covering Bayesian methods, statistical modeling, and data visualization. Topics include applications in health, economics, and environmental science, emphasizing theoretical and applied statistical techniques for analyzing and interpreting diverse datasets.
+WE-Heraeus Seminar Quantum Technologies Origins and Applications:
+  dd: 2025-09-01 to 04
+  link: https://www.we-heraeus-stiftung.de/veranstaltungen/quantum-technologies-origins-and-applications/
+  loc: Steinbach (Taunus), Germany
 10th Central European Symposium on Plasma Chemistry (CESPC 2025):
   dd: 2025-09-01 to 05
   link: https://cespc.inflpr.ro
@@ -9563,6 +9739,10 @@ Summer Academy for Modeling Batteries (SAMBA 2025):
   loc: Lyngy, Denmark
   arxiv: physics.chem-ph,cond-mat.mtrl-sci
   excerpt: Focuses on computational modeling of batteries. Topics include electrochemical simulations, quantum chemistry for battery materials, and multiscale modeling for energy storage optimization.
+WE-Heraeus Seminar Real-Time and Non-Equilibrium Quantum Field Theory:
+  dd: 2025-09-01 to 05
+  link: https://www.we-heraeus-stiftung.de/veranstaltungen/real-time-and-non-equilibrium-quantum-field-theory/
+  loc: Oberwölz, Austria
 Workshop on Quantum Computing and Quantum Information (2025):
   dd: 2025-09-01 to 05
   link: https://users.utu.fi/mikhirve/workshop2025/
@@ -9887,6 +10067,10 @@ European Research Network on Formal Proofs COST Action CA20111 Final EuroProofNe
   loc: Orsay, France
   arxiv: cs.LO,cs.SE
   excerpt: Explores formal proofs and verification techniques in computer science. Topics include automated theorem proving, proof assistants, and formal methods for software and hardware verification, with applications in ensuring system correctness and reliability.
+ESI CECAM Workshop Charged Soft Matter Bridging Theory and Experiment:
+  dd: 2025-09-08 to 2025-09-12
+  link: https://www.esi.ac.at/events/e571/
+  loc: Vienna, Austria
 10th ECCOMAS Thematic Conference on the Mechanical Response of Composites (COMPOSITES 2025):
   dd: 2025-09-09 to 11
   link: https://composites2025.cimne.com/
@@ -9989,6 +10173,10 @@ Workshop on Recent Advances in Multi-Objective Optimization (RAMOO 2025):
   loc: Kraków, Poland
   arxiv: cs.AI,cs.SE
   excerpt: FedCSIS 2025 explores computer science and intelligent systems, covering algorithms, AI, and data science. Topics include machine learning, cybersecurity, and software engineering, emphasizing interdisciplinary computational methods and applications in intelligent system design and analysis.
+WE-Heraeus Semianr Cryo-Em on the Move, New Applications and Challenges:
+  dd: 2025-09-14 to 17
+  link: https://www.we-heraeus-stiftung.de/veranstaltungen/cryo-em-on-the-move-new-applications-and-challenges/
+  loc: Bad Honnef, Germany
 18th European Congress and Exhibition on Advanced Materials and Processes (2025):
   dd: 2025-09-14 to 18
   link: https://euromat2025.com
@@ -10027,6 +10215,10 @@ Workshop on Recent Advances in Multi-Objective Optimization (RAMOO 2025):
   loc: Shanghai, China
   arxiv: cond-mat.mtrl-sci,physics.app-ph
   excerpt: ICDS 2025 focuses on defects in semiconductors, covering point defects, dislocations, and impurity effects. Topics include applications in electronics, photovoltaics, and plasma processing, emphasizing experimental and computational studies of defect formation and material properties.
+BIRS 5-Day Workshop Singularities, D-Modules, and Connections to Physics (2025):
+  dd: 2025-09-14 to 19
+  link: https://www.birs.ca/events/2025/5-day-workshops/25w5338/
+  loc: Banff, AB, Canada
 Workshop Combinatorics, Probability and Computing (2025):
   dd: 2025-09-14 to 19
   link: https://www.mfo.de/occasion/2538/www_view
@@ -10255,6 +10447,10 @@ NBER-NSF Time Series Conference 2025:
   loc: New Brunswick, NJ, USA
   arxiv: stat.ME,econ.EM
   excerpt: This conference explores time-series analysis, covering stochastic processes, forecasting, and econometrics. Topics include applications in finance, macroeconomics, and environmental modeling, emphasizing probabilistic and statistical methods for analyzing temporal data and stochastic trends.
+WE-Heraeus Seminar Progress in Photonic Quantum Computing:
+  dd: 2025-09-21 to 24
+  link: https://www.we-heraeus-stiftung.de/veranstaltungen/progress-in-photonic-quantum-computing/
+  loc: Bad Honnef, Germany
 9th Asian and Oceanian Spectroscopy Conference (AOSC 2025):
   dd: 2025-09-21 to 25
   link: https://www.aosc2025.co.in/
@@ -10277,6 +10473,10 @@ Modules for Experiments in Stellar Astrophysics (MESA) Summer School 2025:
   loc: Fukuoka, Japan
   arxiv: physics.plasm-ph,astro-ph.HE
   excerpt: AAPPS-DPP 2025 explores plasma physics, covering magnetic confinement, laser-plasma interactions, and astrophysical plasmas. Topics include fusion energy, plasma diagnostics, and applications in materials processing, emphasizing experimental, theoretical, and computational plasma science advancements.
+BIRS 5-Day Workshop Kahler Geometry Past, Present and Future  (2025):
+  dd: 2025-09-21 to 26
+  link: https://www.birs.ca/events/2025/5-day-workshops/25w5435/
+  loc: Banff, AB, Canada
 Workshop on Approximation, Geometry and Probability in High Dimensions (2025):
   dd: 2025-09-21 to 26
   link: https://sites.google.com/impan.pl/high-dimensions/
@@ -10786,6 +10986,14 @@ Fall Meeting of the American Physical Society Division of Nuclear Physics (DNP 2
   loc: Chicago, IL, USA
   arxiv: nucl-th,nucl-ex
   excerpt: Explores nuclear physics advancements, covering nuclear structure, reactions, and astrophysics. Topics include quark-gluon interactions, rare isotopes, and computational modeling, emphasizing experimental and theoretical developments in fundamental physics.
+Optica Advanced Solid-State Lasers Conference 2025:
+  dd: 2025-10-19 to 2025-10-23
+  link: https://www.optica.org/events/congress/laser_congress/program/advanced_solid_state_lasers_conference/
+  loc: Prague, Czech Republic
+Optica Laser Applications Conference (LAC 2025):
+  dd: 2025-10-19 to 2025-10-23
+  link: https://www.optica.org/events/congress/laser_congress/program/laser_applications_conference/
+  loc: Prague, Czech Republic
 7th School on Belief Functions and Their Applications (BFTA 2025):
   dd: 2025-10-19 to 23
   link: https://www.bfasociety.org/BFTA2025/
@@ -10904,6 +11112,10 @@ KITP Conference Frontiers of Programmable Quantum Dynamics Advances and Applicat
   loc: Santa Barbara, CA, USA
   arxiv: quant-ph,cond-mat.stat-mech
   excerpt: Investigates programmable quantum dynamics, covering quantum simulation, many-body systems, and quantum control. Topics include quantum algorithms, non-equilibrium dynamics, and applications in condensed matter and quantum computing, emphasizing theoretical and experimental progress.
+Optica Frontiers in Optics and Laser Science 2025:
+  dd: 2025-10-27 to 30
+  link: https://www.optica.org/events/global_calendar/events/2025/frontiers_in_optics_laser_science/
+  loc: Denver, CO, USA
 19th International Conference on Molecular Magnetism (ICMM 2025):
   dd: 2025-10-27 to 31
   link: https://icmm2025.sciencesconf.org
@@ -10922,6 +11134,10 @@ Autumn School on Scientific Machine Learning and Numerical Methods (2025):
   loc: Amsterdam, Netherlands
   arxiv: cs.LG,math.NA
   excerpt: Explores synergies between numerical linear algebra and machine learning. Topics include matrix computations, deep learning optimization, and applications in scientific computing and data analysis.
+CWI Autumn School on Scientific Machine Learning and Numerical Methods:
+  dd: 2025-10-27 to 31
+  link: https://www.cwi.nl/en/events/cwi-research-semester-programmes/scientific-machine-learning-and-numerical-methods-autumn-school/
+  loc: Amsterdam, Netherlands
 Workshop Random Matrix Theory for Ecology, Economics, Finance and Statistical Physics (2025):
   dd: 2025-10-27 to 31
   link: https://www.uni-bielefeld.de/einrichtungen/zif/groups/ongoing/matrices/
@@ -11048,6 +11264,10 @@ International Mechanical Engineering Congress and Exposition (IMECE 2025):
   dd: 2025-11-16 to 20
   link: https://event.asme.org/IMECE
   loc: Memphis, TN, USA
+WE-Heraeus Seminar Scanning Probe Techniques Current and Future Trends:
+  dd: 2025-11-16 to 20
+  link: https://www.we-heraeus-stiftung.de/veranstaltungen/scanning-probe-techniques-current-and-future-trends/
+  loc: Bad Honnef, Germany
 International Conference for High Performance Computing, Networking, Storage, and Analysis (SC 2025):
   dd: 2025-11-16 to 21
   link: https://sc25.supercomputing.org
@@ -11154,6 +11374,10 @@ Materials Research Society Fall Meeting & Exhibit (MRS Fall 2025):
   loc: Boston, MA, USA
   arxiv: cond-mat.mtrl-sci,physics.app-ph
   excerpt: Explores materials science advancements, covering nanomaterials, biomaterials, and energy materials. Topics include synthesis, characterization, and computational modeling, with applications in electronics, healthcare, and sustainability, emphasizing interdisciplinary research.
+CWI Workshop on Industrial Applications of Numerical Analysis and Machine Learning:
+  dd: 2025-12-01 to 03
+  link: https://www.cwi.nl/en/events/cwi-research-semester-programmes/workshop-on-industrial-applications-of-numerical-analysis-and-machine-learning/
+  loc: Amsterdam, Netherlands
 Symposium on Dependable Software Engineering - Theories, Tools and Applications (SETTA 2025):
   dd: 2025-12-01 to 03
   link: https://www.setta2025.uk/
@@ -11199,6 +11423,10 @@ Winter Simulation Conference (WSC 2025):
   loc: Seattle, WA, USA
   arxiv: cs.MS,math.OC
   excerpt: WSC 2025 explores simulation, covering discrete-event simulation, agent-based modeling, and Monte Carlo methods. Topics include applications in logistics, healthcare, and manufacturing, emphasizing computational techniques for modeling and analyzing complex systems and decision-making processes.
+ANS TMS Conference Materials in Nuclear Energy Systems (MiNES 2025):
+  dd: 2025-12-07 to 11
+  link: https://www.tms.org/MiNES2025
+  loc: Cleveland, OH, USA
 33rd Texas Symposium on Relativistic Astrophysics, Tempe, AZ, USA:
   dd: 2025-12-07 to 12
   name: 33rd Texas Symposium on Relativistic Astrophysics
@@ -11374,6 +11602,10 @@ AMS-MAA-SIAM and Other Joint Mathematics Meeting (JMM 2026):
   loc: Washington, DC, USA
   arxiv: math.GM,math.NA
   excerpt: Covers a broad range of mathematics, including pure, applied, and computational areas. Topics include algebra, topology, numerical analysis, and mathematical modeling, with applications in science, engineering, and education, emphasizing interdisciplinary collaboration.
+BIRS 5-Day Workshop Geometric and Category-Theoretic Approaches to Conformal Field Theory (2026):
+  dd: 2026-01-04 to 09
+  link: https://www.birs.ca/events/2026/5-day-workshops/26w5536/
+  loc: Chennai, India
 SIAM Symposium on Algorithm Engineering and Experiments (ALENEX 2026):
   dd: 2026-01-11 to 12
   link: https://www.siam.org/conferences-events/siam-conson-algorithm-engineering-and-experiments-alenex-2026/
@@ -11386,6 +11618,14 @@ ACM-SIAM Symposium on Discrete Algorithms (SODA 2026):
   loc: Vancouver, CA, USA
   arxiv: cs.DS,math.CO
   excerpt: Explores discrete algorithms and their applications. Topics include combinatorial optimization, graph theory, and computational complexity, with emphasis on theoretical advancements.
+BIRS 5-Day Workshop Connections Among Spin Geometry, Minimal Surfaces and Relativity (2026):
+  dd: 2026-01-11 to 16
+  link: https://www.birs.ca/events/2026/5-day-workshops/26w5603/
+  loc: Chennai, India
+BIRS 5-Day Workshop Theory and Practice of SAT and Combinatorial Solving (2026):
+  dd: 2026-01-11 to 16
+  link: https://www.birs.ca/events/2026/5-day-workshops/26w5626/
+  loc: Banff, AB, Canada
 SIAM Symposium on Simplicity in Algorithms (SOSA 2026):
   dd: 2026-01-12 to 13
   link: https://www.siam.org/conferences-events/siam-conference-on-simplicity-in-algorithms-sosa-2026/
@@ -11404,6 +11644,14 @@ Nonparametric Bayesian Inference - Computational Issues (2026):
   loc: Providence, RI, USA
   arxiv: stat.ML,stat.CO
   excerpt: This workshop explores nonparametric Bayesian inference, covering Dirichlet processes, Gaussian processes, and computational challenges. Topics include applications in machine learning, bioinformatics, and time-series analysis, emphasizing statistical and computational methods for flexible Bayesian modeling.
+BIRS 5-Day Workshop Geometry of Algebraic Stacks (2026):
+  dd: 2026-01-18 to 23
+  link: https://www.birs.ca/events/2026/5-day-workshops/26w5610/
+  loc: Banff, AB, Canada
+BIRS 5-Day Workshop Rigidity, Flexibility and Complexity of Geometric Constraint Systems:
+  dd: 2026-01-18 to 23
+  link: https://www.birs.ca/events/2026/5-day-workshops/26w5578/
+  loc: Chennai, India
 62nd International Winter Meeting on Nuclear Physics (Bormio 2026):
   dd: 2026-01-19 to 23
   link: https://bormiomeeting.com/
@@ -11446,6 +11694,10 @@ XXXV Convegno Nazionale di Calcolo delle Variazioni Hotel Mediterraneo, Riccione
   loc: Riccione, Italy
   arxiv: math.AP, math.DG
   excerpt: The conference explores calculus of variations, focusing on physical applications. Topics include energy minimization, optimal control, and geometric PDEs. Discussions cover modeling in quantum systems and materials science, emphasizing variational methods.
+IPAM Workshop Bridging the Gap Between NISQ and FTQC (2026):
+  dd: 2026-02-17 to 20
+  link: https://www.ipam.ucla.edu/programs/workshops/bridging-the-gap-between-nisq-and-ftqc/
+  loc: Los Angeles, CA, USA
 International School and Conference on Network Science (NetSciX 2026):
   dd: 2026-02-17 to 20
   link: https://netscix2026.github.io
@@ -11458,6 +11710,10 @@ Gordon Research Conference on Structures, Energetics and Reaction Dynamics of Ga
   loc: Galveston, TX, USA
   arxiv: physics.chem-ph,physics.atm-clus
   excerpt: Explores gaseous ion chemistry and dynamics. Topics include ion structures, reaction mechanisms, and computational modeling of energetics in plasma and gas-phase systems.
+BIRS 5-Day Workshop Women in Computational Methods for PDEs (2026):
+  dd: 2026-03-01 to 06
+  link: https://www.birs.ca/events/2026/5-day-workshops/26w5567/
+  loc: Banff, AB, Canada
 17th Latin American Congress of Probability and Mathematical Statistics (CLAPEM 2026):
   dd: 2026-03-02 to 06
   link: https://clapem17.cmat.edu.uy
@@ -11476,6 +11732,10 @@ SIAM Conference on Parallel Processing for Scientific Computing (PP 2026):
   loc: Berlin, Germany
   arxiv: cs.DC,cs.PF
   excerpt: Focuses on parallel processing for scientific computing, covering high-performance computing, parallel algorithms, and distributed systems. Topics include numerical simulations, big data analytics, and applications in physics and engineering, emphasizing computational efficiency.
+IPAM Long Program Multi-Fidelity Methods for Fusion Energy (2026):
+  dd: 2026-03-09 to 06-12
+  link: https://www.ipam.ucla.edu/programs/long-programs/multi-fidelity-methods-for-fusion-energy/
+  loc: Los Angeles, CA, USA
 Chemical Compound Space Conference (CCSC 2026):
   dd: 2026-03-10 to 13
   link: https://ccsc2026.github.io
@@ -11488,6 +11748,10 @@ Long Program Multi-Fidelity Methods for Fusion Energy Tutorials (2026):
   loc: Los Angeles, CA, USA
   arxiv: physics.plasm-ph,cs.LG
   excerpt: This program explores multi-fidelity methods for fusion energy, covering plasma modeling, uncertainty quantification, and machine learning. Topics include applications in tokamak design, plasma diagnostics, and fusion reactors, emphasizing computational techniques for efficient fusion simulations.
+Optical Fiber Communications Conference (OFC 2026):
+  dd: 2026-03-15 to 19
+  link: https://www.ofcconference.org
+  loc: Los Angeles, CA, USA
 SIAM Conference on Uncertainty Quantification (UQ 2026):
   dd: 2026-03-22 to 25
   link: https://www.siam.org/conferences-events/siam-conference-on-uncertainty-quantification-uq-2026/
@@ -11524,6 +11788,10 @@ Seminar on Stochastic Processes (SSP 2026):
   loc: Schenectady, NY, USA
   arxiv: math.PR,stat.AP
   excerpt: SSP 2026 focuses on stochastic processes, covering Markov chains, Brownian motion, and stochastic calculus. Topics include applications in finance, biology, and physics, emphasizing probabilistic and analytical methods for modeling and analyzing random processes and their dynamics.
+BIRS 5-Day Workshop the Mathematics of Elections, Fairness, and Representation (2026):
+  dd: 2026-03-29 to 04-03
+  link: https://www.birs.ca/events/2026/5-day-workshops/26w5503/
+  loc: Banff, AB, Canada
 Ettore Majorana Workshop and School on Fluctuations in Light-Matter Interaction (2026):
   dd: 2026-03-29 to 04-03
   name: Ettore Majorana Workshop and School on Fluctuations in Light-Matter Interaction, Quantum and Thermal Emerging Regimes (2026)
@@ -11641,6 +11909,10 @@ NUS-IMS Workshop on Statistical Mechanics and Singular SPDEs (2026):
   loc: Singapore
   arxiv: math.PR,cond-mat.stat-mech
   excerpt: Covers statistical mechanics and singular stochastic PDEs. Topics include stochastic processes, singular equations, and applications in physics and complex systems modeling.
+Conference on Lasers and Electro-Optics (CLEO 2026):
+  dd: 2026-05-17 to 21
+  link: https://cleoconference.org/
+  loc: Charlotte, NC, USA
 17th International Conference of Computer Simulation of Radiation Effects in Solids (COSIRES 2026):
   dd: 2026-05-17 to 22
   link: https://cosires26.com/
@@ -11684,6 +11956,14 @@ NUS-IMS Workshop on Conformal Field Theories on Randomness and Geometry (2026):
   loc: Bangkok, Thailand
   arxiv: hep-ex,cs.DC
   excerpt: CHEP 2026 focuses on computing in high-energy and nuclear physics, covering data analysis, simulation, and machine learning. Topics include particle detector simulations, big data processing, and AI applications, emphasizing computational tools for advancing nuclear and particle physics research.
+BIRS 5-Day Workshop Innovative Solutions for Interface Problems Using Adaptive Methods and Machine Learning (2026):
+  dd: 2026-05-24 to 29
+  link: https://www.birs.ca/events/2026/5-day-workshops/26w5559/
+  loc: Hangzhou, China
+BIRS 5-Day Workshop Recent Developments in Stochastic Analysis (2026):
+  dd: 2026-05-24 to 29
+  link: https://www.birs.ca/events/2026/5-day-workshops/26w5568/
+  loc: Oaxaca, Mexico
 24th Conference on Flavor Physics and CP Violation (FPCP 2026) (FPCP 2026):
   dd: 2026-05-25 to 29
   name: 24th Conference on Flavor Physics and CP Violation
@@ -11775,6 +12055,10 @@ SMAI-SIGMA 11th International Conference on Curves and Surfaces (CS 2026):
   loc: Saint-Malo, France
   arxiv: math.NA,cs.GR
   excerpt: Explores mathematical methods for curves and surfaces. Topics include geometric modeling, numerical analysis, and applications in computer graphics and engineering design.
+Optica Quantum 2.0 Conference and Exhibition 2025:
+  dd: 2026-06-14 to 18
+  link: https://www.optica.org/events/topical_meetings/quantum/
+  loc: Glasgow, UK
 18th International Symposium on Capture Gamma-Ray Spectroscopy and Related Topics (CGS 2026):
   dd: 2026-06-14 to 19
   link: https://mpi-hd.mpg.de/mpi/de/forschung/abteilungen-und-gruppen/gespeicherte-und-gekuehlte-ionen/veranstaltungen/konferenzen
@@ -11814,6 +12098,10 @@ Stochastic Networks Conference 2026:
   loc: London, United Kingdom
   arxiv: hep-ex, hep-ph, astro-ph.CO
   excerpt: Neutrino 2026 explores neutrino physics and astrophysics, focusing on oscillation experiments, neutrino masses, and cosmological implications. Topics include cross-section measurements, sterile neutrinos, and supernova neutrinos. The conference discusses results from DUNE, Hyper-Kamiokande, and cosmological surveys.
+TMS Specialty Congress 2026:
+  dd: 2026-06-21 to 25
+  link: https://www.tms.org/SpecialtyCongress2026/
+  loc: Anaheim, CA, USA
 24th International Conference on Ion Beam Modification of Materials (IBMM 2026):
   dd: 2026-06-21 to 26
   link: https://www.helsinki.fi/en/conferences/ibmm-2026
@@ -11845,6 +12133,10 @@ Stochastic Networks Conference 2026:
   loc: Thessaloniki, Greece
   arxiv: stat.ME,stat.ML
   excerpt: ISNPS 2026 explores nonparametric statistics, covering kernel methods, rank-based tests, and functional data analysis. Topics include applications in biostatistics, machine learning, and econometrics, emphasizing statistical techniques for flexible, assumption-free data analysis.
+European Conference on Physics of Magnetism (PM 2026):
+  dd: 2026-06-22 to 26
+  link: https://www.ifmpan.poznan.pl/pm26/index.html
+  loc: Poznan, Poland
 Quantum Reactive Scattering Workshop (QRS 2026):
   dd: 2026-06-22 to 26
   loc: Gdańsk, Poland
@@ -11983,6 +12275,14 @@ Conference on Chemistry and Physics at Low Temperatures (CPLT 2026):
   loc: Bochum, Germany
   arxiv: physics.chem-ph,cond-mat.quant-gas
   excerpt: Focuses on chemistry and physics at low temperatures. Topics include quantum molecular dynamics, cryogenic experiments, and computational modeling for quantum systems.
+Bad Honnef Physics School Dark Intersections (2026):
+  dd: 2026-08-02 to 07
+  link: https://www.dpg-physik.de/veranstaltungen/2026/dark_intersections
+  loc: Bad Honnef, Germany
+12th Pacific Rim International Conference on Advanced Materials and Processing (2026):
+  dd: 2026-08-09 to 13
+  link: https://www.pricm12.org/home.html
+  loc: Broadbeach, Queensland, Australia
 27th Congress and General Assembly of the International Union of Crystallography (IUCr 2026):
   dd: 2026-08-11 to 18
   link: https://www.iucr.org/iucr/cong/2026-iucr-xxvii
@@ -12068,6 +12368,14 @@ European Materials Research Society (E-MRS) Fall Meeting 2026:
   loc: Bad Honnef, Germany
   arxiv: cs.CS,physics.app-ph
   excerpt: This school explores low-temperature plasma physics, covering plasma generation, diagnostics, and applications. Topics include plasma chemistry, surface processing, and industrial applications, emphasizing fundamental principles and computational modeling for advanced material processing and medical applications.
+Superalloy 718 and Derivatives 2026:
+  dd: 2026-10-04 to 07
+  link: https://www.tms.org/Superalloy718-2026
+  loc: Pittsburgh, PA, USA
+BIRS 5-Day Workshop Higher Rank Graphs in Algebra, Geometry and C*-Algebras:
+  dd: 2026-11-01 to 06
+  link: https://www.birs.ca/events/2026/5-day-workshops/26w5562/
+  loc: Banff, AB, Canada
 ACM-IEEE International Conference for High Performance Computing, Networking, Storage and Analysis (SC 2026):
   dd: 2026-11-15 to 20
   link: https://conferences.ieee.org/conferences_events/conferences/conferencedetails/51908
@@ -12144,6 +12452,10 @@ Frontiers of Quantum and Mesoscopic Thermodynamics (FQMT 2026):
   loc: Prague, Czech Republic
   arxiv: quant-ph,cond-mat.mes-hall
   excerpt: FQMT 2026 explores quantum and mesoscopic thermodynamics, covering quantum heat engines, non-equilibrium systems, and quantum transport. Topics include applications in nanotechnology and quantum computing, emphasizing theoretical and experimental studies of thermodynamic phenomena.
+New York Graph Theory Workshop (NYGTW 2026):
+  dd: 2026 tbd
+  link: https://www.nycombinatorics.org/NYGTW
+  loc: New York, NY, USA
 European Geophysical Union General Assembly (EGU 2027):
   dd: 2027-04-04 to 09
   link: https://www.egu.eu/meetings/calendar/egu/
