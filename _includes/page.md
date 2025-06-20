@@ -29,7 +29,9 @@ Reserved space to show newly added information.
 
 ## Future Meetings
 
-{% include_relative _includes/future.md %}
+{% comment %} {% include_relative _includes/future.md %} {% endcomment %}
+
+To follow.
 
 ## Other Meeting Lists
 
@@ -41,4 +43,6 @@ Reserved space to show newly added information.
 
 ## Past Meetings
 
-{% include_relative _includes/past.md %}
+{% comment %} {% include_relative _includes/past.md %} {% endcomment %}
+
+To follow.
